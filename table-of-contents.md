@@ -1,5 +1,5 @@
 ### [Groundpound](./table-of-contents.md)
-# [Language](./Language/)
+# Language
 ## Chinese
 - ### Chinese
 - ### Literature(Chinese)
