@@ -1,4 +1,4 @@
-### [Pi-Brain](./table-of-contents.md)
+### [Pi-Brain](./index.md)
 # Language
 ## Chinese
 - ### Chinese
