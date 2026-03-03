@@ -7,21 +7,43 @@
 ##### Heading 5
 ###### Heading 6
 ```
-#Text
+# Text
+- ### Bold Text
+    **b**
+    ```md
+    **b** (ctrl+b)
+    ```
+- ### Italic Text
+    *i*
+    ```md
+    *i* (ctrl+i)
+    ```
+- ### Strikethrough
+    ~~Strikethrough~~
+    ```md
+    ~~Strikethrough~~
+    ```
 
+# Horizontal Rule
+---
 ```md
-*i* ctrl+i
-**b** ctrl+b
-_s_
-
 ---
 ```
 
 # List
-```md
-- a
-1. b
-```
+- ### Unordered List
+    - text
+    ```md
+    - text
+    ```
+- ### Ordered List
+    1. text
+    2. text
+    ```md
+    1. text
+    2. text
+    ```
+
 # Todo
 - [ ] s
 - [x] s
@@ -31,9 +53,10 @@ _s_
 ```
 
 # Link
-
+[Link Text](https://google.com)
 ```md
-[Link Text](link)
+[Link Text](https://google.com)
+反白後ctrl+v
 ```
 
 # Image
@@ -41,44 +64,57 @@ _s_
 ![Alt text](image.png)
 ```
 
-# Table
-|1|2|
-|---|---|
-|3|4|
-
-|1|2|
-|:---:|:---:|
-|3|4|
-
+# Quote
+> Quote
 ```md
-|1|2|
-|---|---|
-|3|4|
-
-|1|2|
-|:---:|:---:|
-|3|4|
+> Quote
 ```
+
+# Table
+- ### Table
+    |1|2|
+    |---|---|
+    |3|4|
+    ```md
+    |1|2|
+    |---|---|
+    |3|4|
+    ```
+- ### 置中
+    |1|2|
+    |:---:|:---:|
+    |3|4|
+
+    ```md
+    |1|2|
+    |:---:|:---:|
+    |3|4|
+    ```
 
 # Code
-`print("Hello World")`
-```
-print("Hello World")
-```
-```py
-print("Hello World")
-```
-````md
-`print("Hello World")`
-
-```
-print("Hello World")
-```
-
-```py
-print("Hello World")
-```
-````
+- ### Inline
+    `print("Hello World")`
+    ```md
+    `print("Hello World")`
+    ```
+- ### Block
+    ```
+    print("Hello World")
+    ```    
+    ````md
+    ```
+    print("Hello World")
+    ```
+    ````
+- ### Block(coding)
+    ```py
+    print("Hello World")
+    ```
+    ````md
+    ```py
+    print("Hello World")
+    ```
+    ````
 
 # Escape Character
 ```md
@@ -89,5 +125,7 @@ print("Hello World")
 <b>ABC<b/>
 
 # LaTex
-$abc$
-$$abc$$
+- ### Inline
+    $abc$
+- ### Block
+    $$abc$$
