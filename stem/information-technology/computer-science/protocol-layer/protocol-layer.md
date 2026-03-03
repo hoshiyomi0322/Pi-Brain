@@ -13,7 +13,7 @@
 - ### TCP、UDP
     ||Transmission Control Protocol(TCP)|User Datagram Protocol(UDP)|
     |:---:|:---:|:---:|
-    ||<img src="tcp.png" width="60%">|<img src="udp.png" width="60%">|
+    ||<img src="tcp.png" width="70%">|<img src="udp.png" width="70%">|
     |Connection|Connection-Oriented|Connectionless|
     |Speed|slow|fast|
     |Reliability|reliable|unreliable|
