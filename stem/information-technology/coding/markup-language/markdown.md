@@ -70,13 +70,14 @@
     [Link Text](https://google.com)
     ```md
     [Link Text](https://google.com)
-    (select the text and ctrl+v)
+    (select the text and paste link(ctrl+v))
     ```
 
 # Image
 ![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
 ```md
 ![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
+(paste image)
 ```
 
 # Quote
