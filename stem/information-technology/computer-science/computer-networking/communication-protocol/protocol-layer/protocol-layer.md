@@ -17,7 +17,8 @@
     |Connection|Connection-Oriented|Connectionless|
     |Speed|slow|fast|
     |Reliability|reliable|unreliable|
-    |eg|email, web, file transfer|streaming media, game, Voice over IP(VoIP)|
+    |Handshake|three-way handshake|no handshake|
+    |eg|email、web、file transfer|Real-time applications<br>streaming media、game、Voice over IP(VoIP)|
 - ### Transport Layer Security(TLS)
 - ### Datagram Congestion Control Protocol(DCCP)
 - ### Point to Point Tunneling Protocol(PPTP)

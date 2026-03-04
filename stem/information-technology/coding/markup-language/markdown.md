@@ -1,4 +1,10 @@
 # Heading
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 ```md
 # Heading 1
 ## Heading 2
@@ -7,22 +13,24 @@
 ##### Heading 5
 ###### Heading 6
 ```
+
 # Text
 - ### Bold Text
-    **b**
+    **text**
     ```md
-    **b** (ctrl+b)
+    **text** (ctrl+b)
     ```
 - ### Italic Text
-    *i*
+    *text*
     ```md
-    *i* (ctrl+i)
+    *text* (ctrl+i)
     ```
 - ### Strikethrough
-    ~~Strikethrough~~
+    ~~text~~
     ```md
-    ~~Strikethrough~~
+    ~~text~~
     ```
+
 
 # Horizontal Rule
 ---
@@ -45,23 +53,30 @@
     ```
 
 # Todo
-- [ ] s
-- [x] s
+- [ ] task
+- [x] task
 ```md
-- [ ] s
-- [x] s
+- [ ] task
+- [x] task
 ```
 
 # Link
-[Link Text](https://google.com)
-```md
-[Link Text](https://google.com)
-反白後ctrl+v
-```
+- ### Link
+    <https://google.com>
+    ```md
+    <https://google.com>
+    ```
+- ### Link Text
+    [Link Text](https://google.com)
+    ```md
+    [Link Text](https://google.com)
+    (select the text and ctrl+v)
+    ```
 
 # Image
+![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
 ```md
-![Alt text](image.png)
+![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
 ```
 
 # Quote
@@ -72,23 +87,22 @@
 
 # Table
 - ### Table
-    |1|2|
+    |heading|heading|
     |---|---|
-    |3|4|
+    |text|text|
     ```md
-    |1|2|
+    |heading|heading|
     |---|---|
-    |3|4|
+    |text|text|
     ```
-- ### 置中
-    |1|2|
+- ### Align center
+    |heading|heading|
     |:---:|:---:|
-    |3|4|
-
+    |text|text|
     ```md
-    |1|2|
+    |heading|heading|
     |:---:|:---:|
-    |3|4|
+    |text|text|
     ```
 
 # Code
@@ -106,7 +120,7 @@
     print("Hello World")
     ```
     ````
-- ### Block(coding)
+- ### Block(syntax highlighting)
     ```py
     print("Hello World")
     ```
@@ -117,15 +131,31 @@
     ````
 
 # Escape Character
-```md
-\
-```
+- eg
+    
+    \# heading
+    ```md
+    \# heading
+    ```
 
 # HTML
-<b>ABC<b/>
+- ### Markdown supports HTML
+- ### eg
+    <h3>text</h>
+    
+    ```md
+    <h1>text</h1>
+    ```
 
 # LaTex
+- ### Markdown supports LaTex
 - ### Inline
-    $abc$
+    Formula：$E=mc^2$
+    ```md
+    Formula：$E=mc^2$
+    ```
 - ### Block
-    $$abc$$
+    $$E=mc^2$$
+    ```md
+    $$E=mc^2$$
+    ```
