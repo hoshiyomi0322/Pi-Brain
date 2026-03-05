@@ -19,7 +19,7 @@
 ## Information Technology(IT)
 - ### [Coding](./stem/it/coding/coding.md)
 - ### [Command-Line Interface(CLI)](./stem/it/cli/cli.md)
-- ### Computer Science
+- ### [Computer Science](./stem/it/computer-science/computer-science.md)
 - ### Cybersecurity
 - ### Machine Learning
 - ### IT Tools
