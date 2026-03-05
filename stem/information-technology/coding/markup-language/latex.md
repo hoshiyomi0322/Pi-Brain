@@ -68,7 +68,42 @@ $\frac{a}{b}$
     ```
 
 # Operator
-$\pm$
+- ### Arithmetic Operator
+    |Operation|Operator|LaTex|
+    |:---:|:---:|:---:|
+    |Times|$\times$|`\times`|
+    |Divide|$\div$|`\div`|
+    |Plus-Minus|$\pm$|`\pm`|
+    |Minus-Plus|$\mp$|`\mp`|
+- ### Relational Operator
+    |Operation|Operator|LaTex|
+    |:---:|:---:|:---:|
+    |Less than or Equal to|$\le$|`\le`|
+    |Greater than or Equal to|$\ge$|`\ge`|
+    |Much Less than|$\ll$|`\ll`|
+    |Much Greater than|$\gg$|`\gg`|
+    |Not Equal|$\ne$|`\ne`|
+    |Proportional to|$\propto$|`\propto`|
+    |Divides|$\mid$|`\mid`|
+    |Perpendicular|$\perp$|`\perp`|
+    |Parallel|$\parallel$|`\parallel`|
+    - ### Similar
+        |Operation|Operator|LaTex|
+        |:---:|:---:|:---:|
+        |Equivalent|$\equiv$|`\equiv`|
+        |Similar|$\sim$|`\sim`|
+        |Similar or Equal to|$\simeq$|`\simeq`|
+        |Approximately Equal|$\approx$|`\approx`|
+        |Congruent|$\cong$|`\cong`|
+    - ### Set Relation
+        |Operation|Operator|LaTex|
+        |:---:|:---:|:---:|
+        |Subset|$\subset$|`\subset`|
+        |Superset|$\supset$|`\subset`|
+        |Subset or Equal|$\subseteq$|`\subseteq`|
+        |Superset or Equal|$\supseteq$|`\subseteq`|
+        |Element of|$\in$|`\in`|
+        |Contains as Member|$\ni$|`\ni`|
 
 # Symbol
 - ### Bar
