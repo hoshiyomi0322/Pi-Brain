@@ -6,26 +6,35 @@
     ```
 - ### Aligned &
     $\begin{aligned}
-    abc&\\&abc
+    abc&\\&edf
     \end{aligned}$
     ```latex
     \begin{aligned}
-    abc&\\&abc
+    abc&\\edf
     \end{aligned}
     ```
 - ### Line Break
-    $abc\\abc$
-    ```latex
-    abc\\abc
-    ```
+    - #### Line Break
+        $abc\\edf$
+        ```latex
+        abc\\edf
+        ```
+    - #### Line Spacing
+        $abc\\[5mm]edf$
+        ```latex
+        abc\\[5mm]edf
+        ```
 
 # Text
 - ### Boldface
-    $\bf{text}$
     $\mathbf{text}$
-    $\textbf{text}$
     ```latex
-    \bf{text}
+    \mathbf{text}
+    ```
+- ### Underline
+    $\underline{text}$
+    ```latex
+    \underline{text}
     ```
 - ### Comment
     ```latex
@@ -87,7 +96,7 @@ $\frac{a}{b}$
     |Divides|$\mid$|`\mid`|
     |Perpendicular|$\perp$|`\perp`|
     |Parallel|$\parallel$|`\parallel`|
-    - ### Similar
+    - #### Similar
         |Operation|Operator|LaTex|
         |:---:|:---:|:---:|
         |Equivalent|$\equiv$|`\equiv`|
@@ -95,7 +104,7 @@ $\frac{a}{b}$
         |Similar or Equal to|$\simeq$|`\simeq`|
         |Approximately Equal|$\approx$|`\approx`|
         |Congruent|$\cong$|`\cong`|
-    - ### Set Relation
+    - #### Set Relation
         |Operation|Operator|LaTex|
         |:---:|:---:|:---:|
         |Subset|$\subset$|`\subset`|
@@ -121,6 +130,3 @@ $\frac{a}{b}$
     ```latex
     \vec{a}
     ```
-$\left(a\right)$
-### $\left(\frac{a}{b}\right)$
-### $(\frac{a}{b})$

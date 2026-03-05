@@ -18,7 +18,7 @@
 
 # STEM
 ## Information Technology(IT)
-- ### [Coding](./stem/information-technology/coding/coding.md)
+- ### [Coding](./stem/it/coding/coding.md)
 - ### Command-Line Interface(CLI)
 - ### Computer Science
 - ### Cybersecurity
