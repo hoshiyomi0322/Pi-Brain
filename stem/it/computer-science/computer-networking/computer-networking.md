@@ -26,7 +26,7 @@
     <img src="port-forwarding.png" width="50%">
 
 # Communication Protocol
-- ### [Communication Protocol](./computer-networking/communication-protocol/communication-protocol.md)
+- ### [Communication Protocol](./communication-protocol/communication-protocol.md)
 
 # Internet Backbone→ISP
 <div align="center">
