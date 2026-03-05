@@ -23,6 +23,7 @@
 - ### Computer Science
 - ### Cybersecurity
 - ### Machine Learning
+- ### IT Tools
 - ### Keyboard Shortcuts
 ## Math
 - ### Algebra
