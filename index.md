@@ -1,4 +1,3 @@
-### [Pi-Brain](./index.md)
 # Language
 ## Chinese
 - ### Chinese
@@ -19,7 +18,7 @@
 # STEM
 ## Information Technology(IT)
 - ### [Coding](./stem/it/coding/coding.md)
-- ### Command-Line Interface(CLI)
+- ### [Command-Line Interface(CLI)](./stem/it/cli/cli.md)
 - ### Computer Science
 - ### Cybersecurity
 - ### Machine Learning
