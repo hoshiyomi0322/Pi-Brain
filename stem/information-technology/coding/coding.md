@@ -7,7 +7,7 @@
 # Markup Language
 - ### [Markdown](./markup-language/markdown.md)
 - ### HTML
-- ### LaTex
+- ### [LaTex](./markup-language/latex.md)
 
 # C
 # C++
