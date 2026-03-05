@@ -25,7 +25,8 @@
 - ### IT Tools
 - ### Keyboard Shortcuts
 ## Math
-- ### Algebra
+- ### Number and Operator
+- ### [Algebra](./stem/math/algebra/algebra.md)
 - ### Discrete Mathematics
 - ### Probability Theory & Statistics
 - ### Trigonometric Functions & Hyperbolic Functions

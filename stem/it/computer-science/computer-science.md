@@ -1,3 +1,13 @@
+# Layers of Computer Architecture
+<div align="center">
+    <img src="layers-of-computer-architecture.png" width="50%">
+</div>
+
+# Abstraction
+- ### Rationale：a mental model that removes or hides complex details
+- ### Information Hiding
+- ### Abstract Data Type(ADT)
+
 # Computer Organization and Architecture
 - ### Instruction Set Architecture(ISA)
 - ### Pipeline
