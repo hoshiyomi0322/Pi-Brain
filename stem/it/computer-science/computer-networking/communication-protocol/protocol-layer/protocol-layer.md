@@ -11,9 +11,8 @@
 
 # Transport layer
 - ### TCP、UDP
-    ||Transmission Control Protocol(TCP)|User Datagram Protocol(UDP)|
+    ||Transmission Control Protocol(TCP)<img src="tcp.png" width="70%">|User Datagram Protocol(UDP)<img src="udp.png" width="70%">|
     |:---:|:---:|:---:|
-    ||<img src="tcp.png" width="70%">|<img src="udp.png" width="70%">|
     |Connection|Connection-Oriented|Connectionless|
     |Speed|slow|fast|
     |Reliability|reliable|unreliable|

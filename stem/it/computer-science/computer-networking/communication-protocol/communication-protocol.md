@@ -9,7 +9,9 @@
   
 ## Proprietary Protocol
 ## Protocol stack
-<img src="protocol-stack.png" width="60%">
+<div align="center">
+  <img src="protocol-stack.png" width="60%">
+</div>
 
 ## Protocol Layer
 - ### [Protocol Layer](./protocol-layer/protocol-layer.md)
