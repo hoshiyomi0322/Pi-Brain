@@ -1,0 +1,13 @@
+- ### Elementary Charge(元電荷)：$e=1.602176\times{10}^{-19}\left(C\right)$
+- ### Electric Charge(電量)：$Q=It=CV$
+- ### 單位：C(庫侖)
+- ### t＝時間(s)
+- ### Electric Current(電流)：$I=\frac{Q}{t}=\frac{V}{R}$
+- ### 單位：A(安培)
+- ### Voltage(電壓)：$V=IR=\frac{Q}{C}$
+- ### 單位：V(伏特)
+- ### Electrical Energy(電能)：$E=QV=ItV$
+- ### 單位：J(焦耳)
+- ### `$E\left(t\right)=\int_{t_0}^{t}{I\left(t\right)\bullet V\left(t\right)\box(24&dt)}$`
+- ### Electric Power(電功率)：P=\frac{E}{t}=\frac{QV}{t}=IV
+- ### 單位：W(瓦特)

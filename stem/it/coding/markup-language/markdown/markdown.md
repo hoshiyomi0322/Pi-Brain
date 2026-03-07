@@ -61,24 +61,39 @@
 ```
 
 # Link
-- ### Link
+- ### Link：`<link>`
     <https://google.com>
     ```md
     <https://google.com>
     ```
-- ### Link Text
-    [Link Text](https://google.com)
+- ### Link Text：`[link text](link)`
+    [link text](https://google.com)
     ```md
-    [Link Text](https://google.com)
+    [link text](https://google.com)
     (select the text and paste link(ctrl+v))
     ```
+    - #### File：`[link text](file path)`
+        [link text](./markdown.md)
+        ```md
+        [link text](./markdown.md)
+        ```
+    - #### Heading：`[link text](#heading name)`
+        [link text](#link)
+        ```md
+        [link text](#link)
+        ```
 
-# Image
-![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
+# Image：`![alt text](link)`
+![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
 ```md
-![Alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
+![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
 (paste image)
 ```
+- ### File：`![alt text](file path)`
+    ![alt text](image.jpg)
+    ```md
+    ![alt text](image.jpg)
+    ```
 
 # Quote
 > Quote

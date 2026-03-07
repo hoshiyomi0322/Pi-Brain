@@ -37,7 +37,7 @@
 - ### Particle
 - ### Mechanics
 - ### Thermodynamics
-- ### Electricity
+- ### [Electricity](./stem/physics-and-chemistry/electricity/electricity.md)
 - ### Chemistry
 - ### Others(Physics&Chemistry)
 ## Biology
