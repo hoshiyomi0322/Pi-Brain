@@ -199,5 +199,14 @@ $\frac{a}{b}$
         |$\xrightarrow[below]{above}$|`\xrightarrow[below]{above}`|
         |$\xrightarrow[below]{}$|`\xrightarrow[below]{}`|
 
-$\rightleftharpoons$
+- ### Harpoon Arrow
+    |Direction|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |right-harpoon-up|$\rightharpoonup$|`\rightharpoonup`|
+    |left-harpoon-up|$\leftharpoonup$|`\leftharpoonup`|
+    |right-harpoon-down|$\rightharpoondown$|`\rightharpoondown`|
+    |left-harpoon-down|$\leftharpoondown$|`\leftharpoondown`|
+    |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
+    |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
+
 
