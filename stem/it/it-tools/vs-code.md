@@ -2,15 +2,18 @@
 - ### Multiple Cursors
     |Shortcuts|Function|
     |:---:|:---:|
-    |ctrl+alt+↑/↓|create cursor|
-
-- ### Line
-    - `alt+↑/↓`：moving line
-    - `alt+shift+↑/↓`：duplicating line
+    |`Alt + Left click`|add/delete cursor|
+    |`Ctrl + Alt + ↑/↓`|add cursor (above/below)|
+    - #### Select
+        |Shortcuts|Function|
+        |:---:|:---:|
+        |select a text, `Ctrl + D`|add cursor (the next same text)|
+        |select a text, `Ctrl + Shift + L`|add cursors (every same text)|
 
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|
-    |`alt+↑/↓`|moving line|
-    |`alt+shift+↑/↓`|duplicating line|
+    |`Alt + ↑/↓`|move line (above/below)|
+    |`Alt + Shift + ↑/↓`|duplicate line (above/below)|
+
 
