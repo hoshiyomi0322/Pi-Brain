@@ -36,6 +36,15 @@
     ```latex
     \underline{text}
     ```
+- ### Not：`\not`+operator
+    $\not>$
+    $\not\le$
+    ```latex
+    \not>
+    \not\le
+    ```
+    
+
 - ### Comment
     ```latex
     %comment
@@ -183,7 +192,7 @@ $\frac{a}{b}$
     |Northwest (NW)|$\nwarrow$|`\nwarrow`|
     |Southwest (SW)|$\swarrow$|`\swarrow`|
 
-- ### Arrow with Text：`\x`+[Left/Rithgt Arrow](#leftright-arrow)+`{text}`
+- ### Arrow with Text：`\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`{text}`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\xrightarrow{text}$|`\xrightarrow{text}`|
@@ -192,8 +201,14 @@ $\frac{a}{b}$
     |$\xRightarrow{text}$|`\xRightarrow{text}`|
     |$\xLeftarrow{text}$|`\xLeftarrow{text}`|
     |$\xLeftrightarrow{text}$|`\xLeftrightarrow{text}`|
+    |$\xrightharpoonup{text}$|`\xrightharpoonup{text}`|
+    |$\xleftharpoonup{text}$|`\xleftharpoonup{text}`|
+    |$\xrightharpoondown{text}$|`\xrightharpoondown{text}`|
+    |$\xleftharpoondown{text}$|`\xleftharpoondown{text}`|
+    |$\xrightleftharpoons{text}$|`\xrightleftharpoons{text}`|
+    |$\xleftrightharpoons{text}$|`\xleftrightharpoons{text}`|
     
-    - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)+`[below]{above}`
+    - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`[below]{above}`
         |Symbol|LaTex|
         |:---:|:---:|
         |$\xrightarrow[below]{above}$|`\xrightarrow[below]{above}`|
