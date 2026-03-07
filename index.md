@@ -22,7 +22,7 @@
 - ### [Computer Science](./stem/it/computer-science/computer-science.md)
 - ### Cybersecurity
 - ### Machine Learning
-- ### IT Tools
+- ### [IT Tools](./stem/it/it-tools/it-tools.md)
 - ### Keyboard Shortcuts
 ## Math
 - ### Number and Operator
