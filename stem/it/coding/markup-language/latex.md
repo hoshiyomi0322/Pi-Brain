@@ -24,6 +24,11 @@
         ```latex
         abc\\[5mm]edf
         ```
+- ### Displaystyle
+    $\displaystyle{text}$
+    ```latex
+    \displaystyle{text}
+    ```
 - ### Comment
     ```latex
     %comment
@@ -35,16 +40,16 @@
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
 |Overline|$\overline{text}$|`\overline{text}`|
-|Bar|$\bar{text}$|`\bar{text}`|
+|Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
-|Tilde|$\tilde{text}$|`\tilde{text}`|
-|Dot|$\dot{text}$|`\dot{text}`|
-|Double Dot|$\ddot{text}$|`\ddot{text}`|
-|Hat|$\hat{text}$|`\hat{text}`|
-|Check|$\check{text}$|`\check{text}`|
-|Acute|$\acute{text}$|`\acute{text}`|
-|Grave|$\grave{text}$|`\grave{text}`|
-|Breve|$\breve{text}$|`\breve{text}`|
+|Tilde|$\tilde{a}$|`\tilde{a}`|
+|Dot|$\dot{a}$|`\dot{a}`|
+|Double Dot|$\ddot{a}$|`\ddot{a}`|
+|Hat|$\hat{a}$|`\hat{a}`|
+|Check|$\check{a}$|`\check{a}`|
+|Acute|$\acute{a}$|`\acute{a}`|
+|Grave|$\grave{a}$|`\grave{a}`|
+|Breve|$\breve{a}$|`\breve{a}`|
 
 # Overset and Underset
 |Format|Output|LaTex|
