@@ -24,79 +24,60 @@
         ```latex
         abc\\[5mm]edf
         ```
-
-# Text
-- ### Boldface
-    $\mathbf{text}$
-    ```latex
-    \mathbf{text}
-    ```
-- ### Underline
-    $\underline{text}$
-    ```latex
-    \underline{text}
-    ```
-- ### Not：`\not`+operator
-    $\not>$
-    $\not\le$
-    ```latex
-    \not>
-    \not\le
-    ```
-    
-
 - ### Comment
     ```latex
     %comment
     ```
-- ### Overset/Underset
-    - #### Overset
-        $\overset{above}{mid}$
-        ```latex
-        \overset{above}{mid}
-        ```
-    - #### Underset
-        $\underset{below}{mid}$
-        ```latex
-        \underset{below}{mid}
-        ```
+
+# Text
+|Format|Output|LaTex|
+|:---:|:---:|:---:|
+|Boldface|$\mathbf{text}$|`\mathbf{text}`|
+|Underline|$\underline{text}$|`\underline{text}`|
+|Overline|$\overline{text}$|`\overline{text}`|
+|Bar|$\bar{text}$|`\bar{text}`|
+|Vector|$\vec{ab}$|`\vec{ab}`|
+|Tilde|$\tilde{text}$|`\tilde{text}`|
+|Dot|$\dot{text}$|`\dot{text}`|
+|Double Dot|$\ddot{text}$|`\ddot{text}`|
+|Hat|$\hat{text}$|`\hat{text}`|
+|Check|$\check{text}$|`\check{text}`|
+|Acute|$\acute{text}$|`\acute{text}`|
+|Grave|$\grave{text}$|`\grave{text}`|
+|Breve|$\breve{text}$|`\breve{text}`|
+
+# Overset and Underset
+|Format|Output|LaTex|
+|:---:|:---:|:---:|
+|Overset|$\overset{above}{mid}$|`\overset{above}{mid}`|
+|Underset|$\underset{below}{mid}$|`\underset{below}{mid}`|
 
 # Superscript and Subscript
-- ### Superscript
-    $a^{b}$
-    ```latex
-    a^{b}
-    ```
-- ### Subscript
-    $a_{b}$
-    ```latex
-    a_{b}
-    ```
-- ### Superscript and Subscript
-    $a^{b}_{c}$
-    ```latex
-    a^{b}_{c}
-    ```
+|Format|Output|LaTex|
+|:---:|:---:|:---:|
+|Superscript|$a^{b}$|`a^{b}`|
+|Subscript|$a_{b}$|`a_{b}`|
+|Superscript and Subscript|$a^{b}_{c}$|`a^{b}_{c}`|
 
 # Fraction
-$\frac{a}{b}$
-```latex
-\frac{a}{b}
-```
+|Output|LaTex|
+|:---:|:---:|
+|$\frac{a}{b}$|`\frac{a}{b}`|
 
 # Root
-- ### Sqrt
-    $\sqrt{a}$
-    ```latex
-    \sqrt{a}
-    ```
-- ### nth root
-    $\sqrt[n]{a}$
-    ```latex
-    \sqrt[n]{a}
-    ```
+|Format|Output|LaTex|
+|:---:|:---:|:---:|
+|Sqrt|$\sqrt{a}$|`\sqrt{a}`|
+|nth root|$\sqrt[n]{a}$|`\sqrt[n]{a}`|
 
 # Operator
+- ### Not：`\not`+operator
+    |Operator|LaTex|
+    |:---:|:---:|
+    |$\not>$|`\not>`|
+    |$\not\le$|`\not\le`|
+
+
 - ### Arithmetic Operator
     |Operation|Operator|LaTex|
     |:---:|:---:|:---:|
@@ -104,6 +85,8 @@ $\frac{a}{b}$
     |Divide|$\div$|`\div`|
     |Plus-Minus|$\pm$|`\pm`|
     |Minus-Plus|$\mp$|`\mp`|
+    |Centered Dot|$\cdot$|`\cdot`|
+    |Centered Dots|$\cdots$|`\cdots`|
 - ### Relational Operator
     |Operation|Operator|LaTex|
     |:---:|:---:|:---:|
@@ -134,24 +117,8 @@ $\frac{a}{b}$
         |Element of|$\in$|`\in`|
         |Contains as Member|$\ni$|`\ni`|
 
-# Symbol
-- ### Bar
-    $\bar{ab}$
-    ```latex
-    \bar{ab}
-    ```
-- ### Overline
-    $\overline{ab}$
-    ```latex
-    \overline{ab}
-    ```
-- ### Vector
-    $\vec{a}$
-    ```latex
-    \vec{a}
-    ```
 # Arrow
-- ### Basic Arrow：`\direction+arrow`
+- ### Basic Arrow：`\direction + arrow`
     - #### Left/Right Arrow
         |Direction|Symbol|LaTex|
         |:---:|:---:|:---:|
@@ -184,7 +151,7 @@ $\frac{a}{b}$
     |$\Longleftarrow$|`\Longleftarrow`|
     |$\Longleftrightarrow$|`\Leftrightarrow`、`\iff`|
 
-- ### Diagonal Arrow：`\intercardinal directions+arrow`
+- ### Diagonal Arrow：`\intercardinal directions + arrow`
     |intercardinal directions|Symbol|LaTex|
     |:---:|:---:|:---:|
     |Northeast (NE)|$\nearrow$|`\nearrow`|
