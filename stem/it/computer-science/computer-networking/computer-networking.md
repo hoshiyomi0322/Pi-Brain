@@ -18,6 +18,7 @@
     <img src="./computer-networking-image/packet-switching.png" width="60%">
   - #### Acknowledgement(ACK)
     - Negative Acknowledgement(NAK)
+  - #### Wireshark
 - ### Port
   - #### list of TCP/UDP Ports
     <img src="./computer-networking-image/tcp-udp-list.png" width="50%">
