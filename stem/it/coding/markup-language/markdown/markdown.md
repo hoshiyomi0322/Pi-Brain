@@ -111,14 +111,14 @@
     |---|---|
     |text|text|
     ```
-- ### Align center
-    |heading|heading|
-    |:---:|:---:|
-    |text|text|
+- ### Align
+    |heading|heading|heading|
+    |:---|:---:|---:|
+    |left|center|right|
     ```md
-    |heading|heading|
-    |:---:|:---:|
-    |text|text|
+    |heading|heading|heading|
+    |:---|:---:|---:|
+    |left|center|right|
     ```
 
 # Code

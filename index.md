@@ -1,76 +1,75 @@
 # Language
-## Chinese
 - ### Chinese
-- ### Literature(Chinese)
-## English
+    - #### Chinese
+    - #### Literature(Chinese)
 - ### English
-- ### Categories(EN)
-- ### Others(EN)
-## Japanese
+    - #### English
+    - #### Categories(EN)
+    - #### Others(EN)
 - ### Japanese
-- ### Categories(JP)
-- ### 動詞(JP)
-- ### 形容詞(JP)
-- ### Others(JP)
-- ### Literature(JP)
-- ### EJU(JP)
+    - #### Japanese
+    - #### Categories(JP)
+    - #### 動詞(JP)
+    - #### 形容詞(JP)
+    - #### Others(JP)
+    - #### Literature(JP)
+    - #### EJU(JP)
 
 # STEM
-## Information Technology(IT)
-- ### [Coding](./stem/it/coding/coding.md)
-- ### [Command-Line Interface(CLI)](./stem/it/cli/cli.md)
-- ### [Computer Science](./stem/it/computer-science/computer-science.md)
-- ### Cybersecurity
-- ### Machine Learning
-- ### [IT Tools](./stem/it/it-tools/it-tools.md)
-- ### Keyboard Shortcuts
-## Math
-- ### Number and Operator
-- ### [Algebra](./stem/math/algebra/algebra.md)
-- ### Discrete Mathematics
-- ### Probability Theory & Statistics
-- ### Trigonometric Functions & Hyperbolic Functions
-- ### Geometry
-- ### Others(Math)
-## Physics & Chemistry
-- ### Elements&Compounds
-- ### Particle
-- ### Mechanics
-- ### Thermodynamics
-- ### [Electricity](./stem/physics-and-chemistry/electricity/electricity.md)
-- ### Chemistry
-- ### Others(Physics&Chemistry)
-## Biology
-- ### Medicine
-- ### Cell Biology
-- ### Genetics
-- ### Botany
-- ### Virology
-- ### Taxonomy
-- ### Others(Biology)
-## Geoscience
-- ### Astronomy
-- ### Geology
-- ### Meteorology & Oceanography
-- ### Environmental Science
-## Units
+- ### Information Technology(IT)
+    - #### [Coding](./stem/it/coding/coding.md)
+    - #### [Command-Line Interface(CLI)](./stem/it/cli/cli.md)
+    - #### [Computer Science](./stem/it/computer-science/computer-science.md)
+    - #### Cybersecurity
+    - #### Machine Learning
+    - #### [IT Tools](./stem/it/it-tools/it-tools.md)
+    - #### Keyboard Shortcuts
+- ### Math
+    - #### Number and Operator
+    - #### [Algebra](./stem/math/algebra/algebra.md)
+    - #### Discrete Mathematics
+    - #### Probability Theory & Statistics
+    - #### Trigonometric Functions & Hyperbolic Functions
+    - #### Geometry
+    - #### Others(Math)
+- ### Physics & Chemistry
+    - #### Elements&Compounds
+    - #### Particle
+    - #### Mechanics
+    - #### Thermodynamics
+    - #### [Electricity](./stem/physics-and-chemistry/electricity/electricity.md)
+    - #### Chemistry
+    - #### Others(Physics&Chemistry)
+- ### Biology
+    - #### Medicine
+    - #### Cell Biology
+    - #### Genetics
+    - #### Botany
+    - #### Virology
+    - #### Taxonomy
+    - #### Others(Biology)
+- ### Geoscience
+    - #### Astronomy
+    - #### Geology
+    - #### Meteorology & Oceanography
+    - #### Environmental Science
 - ### Units
 
 # Others
-## Commerce
-- ### Economics
-- ### Investment
-- ### Marketing
-- ### Chart Patterns
-## Geography
-- ### Geography of Japan
-- ### Others(Geography)
-## History
-- ### History of Japan
-- ### History of China
-- ### Others(History)
-## Media
-- ### アニメ
-- ### ドラマ・映画
-- ### 音楽
-- ### Presentation
+- ### Commerce
+    - #### Economics
+    - #### Investment
+    - #### Marketing
+    - #### Chart Patterns
+- ### Geography
+    - #### Geography of Japan
+    - #### Others(Geography)
+- ### History
+    - #### History of Japan
+    - #### History of China
+    - #### Others(History)
+- ### Media
+    - #### アニメ
+    - #### ドラマ・映画
+    - #### 音楽
+    - #### Presentation
