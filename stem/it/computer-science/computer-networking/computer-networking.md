@@ -52,7 +52,7 @@
   - #### DSL modem
      <img src="./computer-networking-image/dsl-modem.png" width="30%">
 
-     - #### Digital Subscriber Line(DSL)
+     - Digital Subscriber Line(DSL)
 - ### Router(路由器)
     <img src="./computer-networking-image/router.png" width="30%">
 ---
