@@ -45,12 +45,12 @@
     <img src="./computer-networking-image/switch.png" width="30%">
 - ### Gateway(閘道器)
 - ### Modem(數據機)
-  - ### phone modem
+  - #### phone modem
     <img src="./computer-networking-image/phone-modem.png" width="30%">
-  - ### cable modem
+  - #### cable modem
     <img src="./computer-networking-image/cable-modem.png" width="30%">
-  - ### Digital Subscriber Line(DSL)
-    - ### DSL modem
+  - #### Digital Subscriber Line(DSL)
+    - DSL modem
         <img src="./computer-networking-image/dsl-modem.png" width="30%">
 - ### Router(路由器)
     <img src="./computer-networking-image/router.png" width="30%">
