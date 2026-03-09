@@ -62,7 +62,7 @@
 |:---:|:---:|:---:|
 |Superscript|$a^{b}$|`a^{b}`|
 |Subscript|$a_{b}$|`a_{b}`|
-|Superscript and Subscript|$a^{b}_{c}$|`a^{b}_{c}`|
+|Superscript and Subscript|$a_{b}^{c}$|`a_{b}^{c}`、`a^{c}_{b}`|
 
 # Fraction
 |Output|LaTex|
@@ -195,5 +195,21 @@
     |left-harpoon-down|$\leftharpoondown$|`\leftharpoondown`|
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
+
+# Integral
+|Symbol|LaTex|
+|:---:|:---:|
+|$\int{x}$|`\int{x}`|
+|$\iint{x}$|`\iint{x}`|
+|$\iiint{x}$|`\iiint{x}`|
+|$\oint{x}$|`\oint{x}`|
+|$\oiint{x}$|`\oiint{x}`|
+|$\oiiint{x}$|`\oiiint{x}`|
+- ### Interval：[Superscript and Subscript](#superscript-and-subscript)
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
+    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
+    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
 
 
