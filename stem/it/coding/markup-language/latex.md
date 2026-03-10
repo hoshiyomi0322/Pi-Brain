@@ -220,5 +220,11 @@
     |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
     |$\int_{a}{x}$|`\int{x}_{a}{x}`|
     |$\int^{b}{x}$|`\int{x}^{b}{x}`|
-
+    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
+        |Symbol|LaTex|
+        |:---:|:---:|
+        |$\lim\limits_{a}^{b}{x}$|`\lim\limits_{a}^{b}{x}`|
+        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
+        |$\bigcap\limits_{a}^{b}{x}$|`\bigcap\limits_{a}^{b}{x}`|
+        |$\bigcup\limits_{a}^{b}{x}$|`\bigcup\limits_{a}^{b}{x}`|
 
