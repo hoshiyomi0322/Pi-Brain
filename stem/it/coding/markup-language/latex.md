@@ -199,12 +199,15 @@
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
 
 # Large Operator
-|Large Operator|LaTex|
-|:--:|:--:|
-|$\lim{x}$|`\lim{x}`|
-|$\sum{x}$|`\sum{x}`|
-|$\bigcap{x}$|`\bigcap{x}`|
-|$\bigcup{x}$|`\bigcup{x}`|
+|Operation|Large Operator|LaTex|
+|:---:|:---:|:---:|
+|Limit|$\lim{x}$|`\lim{x}`|
+|Limit Superior|$\limsup{x}$|`\limsup{x}`|
+|Limit Inferior|$\liminf{x}$|`\liminf{x}`|
+|Sum|$\sum{x}$|`\sum{x}`|
+|Product|$\prod{x}$|`\prod{x}`|
+||$\bigcap{x}$|`\bigcap{x}`|
+||$\bigcup{x}$|`\bigcup{x}`|
 - ### Integral
     |Large Operator|LaTex|
     |:---:|:---:|
