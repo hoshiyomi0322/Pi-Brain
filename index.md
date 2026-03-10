@@ -1,20 +1,3 @@
-# Language
-- ### Chinese
-    - #### Chinese
-    - #### Literature(Chinese)
-- ### English
-    - #### English
-    - #### Categories(EN)
-    - #### Others(EN)
-- ### Japanese
-    - #### Japanese
-    - #### Categories(JP)
-    - #### 動詞(JP)
-    - #### 形容詞(JP)
-    - #### Others(JP)
-    - #### Literature(JP)
-    - #### EJU(JP)
-
 # STEM
 - ### Information Technology(IT)
     - #### [Coding](./stem/it/coding/coding.md)
@@ -54,6 +37,23 @@
     - #### Meteorology & Oceanography
     - #### Environmental Science
 - ### Units
+
+# Language
+- ### Chinese
+    - #### Chinese
+    - #### Literature(Chinese)
+- ### English
+    - #### English
+    - #### Categories(EN)
+    - #### Others(EN)
+- ### Japanese
+    - #### Japanese
+    - #### Categories(JP)
+    - #### 動詞(JP)
+    - #### 形容詞(JP)
+    - #### Others(JP)
+    - #### Literature(JP)
+    - #### EJU(JP)
 
 # Others
 - ### Commerce

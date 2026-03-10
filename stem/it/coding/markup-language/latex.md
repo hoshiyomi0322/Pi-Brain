@@ -63,6 +63,8 @@
 |Superscript|$a^{b}$|`a^{b}`|
 |Subscript|$a_{b}$|`a_{b}`|
 |Superscript and Subscript|$a_{b}^{c}$|`a_{b}^{c}`、`a^{c}_{b}`|
+|Superscript and Subscript|$a_{b+1}^{c+2}$|`a_{b+1}^{c+2}`、`a^{c+2}_{b+1}`|
+|Combinatorics|$C_{k}^{n}$|`C_{k}^{n}`、`C^{n}_{k}`|
 
 # Fraction
 |Output|LaTex|
@@ -73,6 +75,7 @@
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
 |Sqrt|$\sqrt{a}$|`\sqrt{a}`|
+|Sqrt|$\sqrt{a+b}$|`\sqrt{a+b}`|
 |nth root|$\sqrt[n]{a}$|`\sqrt[n]{a}`|
 
 # Operator
@@ -90,8 +93,7 @@
     |Divide|$\div$|`\div`|
     |Plus-Minus|$\pm$|`\pm`|
     |Minus-Plus|$\mp$|`\mp`|
-    |Centered Dot|$\cdot$|`\cdot`|
-    |Centered Dots|$\cdots$|`\cdots`|
+    |Asterisk|$\ast$|`\ast`|
 - ### Relational Operator
     |Operation|Operator|LaTex|
     |:---:|:---:|:---:|
@@ -121,8 +123,70 @@
         |Superset or Equal|$\supseteq$|`\subseteq`|
         |Element of|$\in$|`\in`|
         |Contains as Member|$\ni$|`\ni`|
-        ||$\cap$|`\cap`|
-        ||$\cup$|`\cup`|
+        |Intersection|$\cap$|`\cap`|
+        |Union|$\cup$|`\cup`|
+        |Empty Set|$\emptyset$|`\emptyset`|
+
+# Large Operator
+|Operation|Large Operator|LaTex|
+|:---:|:---:|:---:|
+|Limit|$\lim{x}$|`\lim{x}`|
+|Limit Superior|$\limsup{x}$|`\limsup{x}`|
+|Limit Inferior|$\liminf{x}$|`\liminf{x}`|
+|Sum|$\sum{x}$|`\sum{x}`|
+|Product|$\prod{x}$|`\prod{x}`|
+|Big Intersection|$\bigcap{x}$|`\bigcap{x}`|
+|Big Union|$\bigcup{x}$|`\bigcup{x}`|
+- ### Integral
+    |Large Operator|LaTex|
+    |:---:|:---:|
+    |$\int{x}$|`\int{x}`|
+    |$\iint{x}$|`\iint{x}`|
+    |$\iiint{x}$|`\iiint{x}`|
+    |$\oint{x}$|`\oint{x}`|
+    |$\oiint{x}$|`\oiint{x}`|
+    |$\oiiint{x}$|`\oiiint{x}`|
+- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
+    |Large Operator|LaTex|
+    |:---:|:---:|
+    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
+    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
+    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
+    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
+        |Large Operator|LaTex|
+        |:---:|:---:|
+        |$\lim\limits_{a}{x}$|`\lim\limits_{a}{x}`|
+        |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
+        |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
+        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
+    - #### Substack：`\substack{text1\\text2}`
+        |Large Operator|LaTex|
+        |:---:|:---:|
+        |$\lim\limits_{\substack{a\\b}}{x}$|`\lim\limits_{\substack{a\\b}}{x}`|
+        |$\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}$|`\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}`|
+        |$\sum\limits_{\substack{a\\b}}^{c}{x}$|`\sum\limits_{\substack{a\\b}}^{c}{x}`|
+
+# Symbol
+|Name|Symbol|LaTex|
+|:---:|:---:|:---:|
+|infinity|$\infty$|`\infty`|
+|circle|$\circ$、$180^\circ$|`\circ`、`180^\circ`|
+|Prime|$\prime$、$x^\prime$|`\prime`、`x^\prime`|
+- ### Dot
+    |Name|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |Centered Dot|$\cdot$|`\cdot`|
+    |Centered Dots|$\cdots$|`\cdots`|
+    |Lower Dots|$\ldots$|`\ldots$`|
+    |Diagonal Dots|$\ddots$|`\ddots`|
+    |Vertical Dots|$\vdots$|`\vdots`|    
+- ### Logic Symbol
+    |Name|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |Because|$\because$|`\because`|
+    |Therefore|$\therefore$|`\therefore`|
+    |For All|$\forall$|`\forall`|
+    |Exist|$\exist$|`\exist`|
 
 # Arrow
 - ### Basic Arrow：`\direction + arrow`
@@ -198,36 +262,6 @@
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
 
-# Large Operator
-|Operation|Large Operator|LaTex|
-|:---:|:---:|:---:|
-|Limit|$\lim{x}$|`\lim{x}`|
-|Limit Superior|$\limsup{x}$|`\limsup{x}`|
-|Limit Inferior|$\liminf{x}$|`\liminf{x}`|
-|Sum|$\sum{x}$|`\sum{x}`|
-|Product|$\prod{x}$|`\prod{x}`|
-||$\bigcap{x}$|`\bigcap{x}`|
-||$\bigcup{x}$|`\bigcup{x}`|
-- ### Integral
-    |Large Operator|LaTex|
-    |:---:|:---:|
-    |$\int{x}$|`\int{x}`|
-    |$\iint{x}$|`\iint{x}`|
-    |$\iiint{x}$|`\iiint{x}`|
-    |$\oint{x}$|`\oint{x}`|
-    |$\oiint{x}$|`\oiint{x}`|
-    |$\oiiint{x}$|`\oiiint{x}`|
-- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
-    |Large Operator|LaTex|
-    |:---:|:---:|
-    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
-    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
-    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
-    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
-        |Large Operator|LaTex|
-        |:---:|:---:|
-        |$\lim\limits_{a}^{b}{x}$|`\lim\limits_{a}^{b}{x}`|
-        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
-        |$\bigcap\limits_{a}^{b}{x}$|`\bigcap\limits_{a}^{b}{x}`|
-        |$\bigcup\limits_{a}^{b}{x}$|`\bigcup\limits_{a}^{b}{x}`|
+
+# Function
 
