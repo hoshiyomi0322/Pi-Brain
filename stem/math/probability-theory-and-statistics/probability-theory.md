@@ -1,7 +1,6 @@
 - ### Probability：$P\left(x\right)$
 - ### Expected Value(Mean)：$E\left(x\right)$
 ---
-- ### Conditional Probability：$P\left(A\middle| B\right)$
-- ### Conditional Probability：$P(A|B)$
-- ### Conditional Probability：$P\left(A\middle| B\right)$
-- ### Joint Probability
+- ### Conditional Probability：$P(A\mid B)$
+- ### Conditional Probability：$P\left(A\mid B\right)$
+- ### Joint Probability：$P\left(A\cap B\right)$
