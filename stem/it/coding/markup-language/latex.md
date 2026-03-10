@@ -198,16 +198,23 @@
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
 
-# Integral
+# Large Operator
 |Symbol|LaTex|
-|:---:|:---:|
-|$\int{x}$|`\int{x}`|
-|$\iint{x}$|`\iint{x}`|
-|$\iiint{x}$|`\iiint{x}`|
-|$\oint{x}$|`\oint{x}`|
-|$\oiint{x}$|`\oiint{x}`|
-|$\oiiint{x}$|`\oiiint{x}`|
-- ### Interval：[Superscript and Subscript](#superscript-and-subscript)
+|:--:|:--:|
+|$\lim{x}$|`\lim{x}`|
+|$\sum{x}$|`\sum{x}`|
+|$\bigcap{x}$|`\bigcap{x}`|
+|$\bigcup{x}$|`\bigcup{x}`|
+- ### Integral
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\int{x}$|`\int{x}`|
+    |$\iint{x}$|`\iint{x}`|
+    |$\iiint{x}$|`\iiint{x}`|
+    |$\oint{x}$|`\oint{x}`|
+    |$\oiint{x}$|`\oiint{x}`|
+    |$\oiiint{x}$|`\oiiint{x}`|
+- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
     |Symbol|LaTex|
     |:---:|:---:|
     |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
