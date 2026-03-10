@@ -170,8 +170,8 @@
 |Name|Symbol|LaTex|
 |:---:|:---:|:---:|
 |infinity|$\infty$|`\infty`|
-|circle|$\circ$、$180^\circ$|`\circ`、`180^\circ`|
-|Prime|$\prime$、$x^\prime$|`\prime`、`x^\prime`|
+|circle|$\circ$、$180^{\circ}$|`\circ`、`180^{\circ}`|
+|Prime|$\prime$、$x^{\prime}$、$x^{\prime\prime}$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
 - ### Dot
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
