@@ -11,7 +11,7 @@
     - #### Number and Operator
     - #### [Algebra](./stem/math/algebra/algebra.md)
     - #### Discrete Mathematics
-    - #### Probability Theory & Statistics
+    - #### [Probability Theory & Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
     - #### Trigonometric Functions & Hyperbolic Functions
     - #### Geometry
     - #### Others(Math)

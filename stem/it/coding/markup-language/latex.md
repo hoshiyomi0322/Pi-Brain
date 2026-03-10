@@ -13,17 +13,6 @@
     abc&\\edf
     \end{aligned}
     ```
-- ### Line Break
-    - #### Line Break
-        $abc\\edf$
-        ```latex
-        abc\\edf
-        ```
-    - #### Line Spacing
-        $abc\\[5mm]edf$
-        ```latex
-        abc\\[5mm]edf
-        ```
 - ### Displaystyle
     $\displaystyle{text}$
     ```latex
@@ -50,6 +39,27 @@
 |Acute|$\acute{a}$|`\acute{a}`|
 |Grave|$\grave{a}$|`\grave{a}`|
 |Breve|$\breve{a}$|`\breve{a}`|
+
+# Space
+- ### Space：`~`*n
+    |Output|LaTex|
+    |:---:|:---:|
+    |$a~b$|`a~b`|
+    |$a~~~b$|`a~~~b`|
+    |$a~~~~~~~b$|`a~~~~~~~b`|
+
+- ### Horizon Space：`\hspace{length}`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$a\hspace{5mm} b$|`a\hspace{5mm} b`|
+    |$a\hspace{1cm} b$|`a\hspace{1cm} b`|
+
+- ### Line Break：`\\[line spacing]`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$abc\\ edf$|`abc\\ edf$`|
+    |$abc\\[5mm] edf$|`$abc\\[5mm] edf$`|
+    |$abc\\[0.2cm] edf$|`$abc\\[0.2cm] edf$`|
 
 # Overset and Underset
 |Format|Output|LaTex|
@@ -78,100 +88,15 @@
 |Sqrt|$\sqrt{a+b}$|`\sqrt{a+b}`|
 |nth root|$\sqrt[n]{a}$|`\sqrt[n]{a}`|
 
-# Operator
-- ### Not：`\not`+operator
-    |Operator|LaTex|
-    |:---:|:---:|
-    |$\not>$|`\not>`|
-    |$\not\le$|`\not\le`|
-
-
-- ### Arithmetic Operator
-    |Operation|Operator|LaTex|
-    |:---:|:---:|:---:|
-    |Times|$\times$|`\times`|
-    |Divide|$\div$|`\div`|
-    |Plus-Minus|$\pm$|`\pm`|
-    |Minus-Plus|$\mp$|`\mp`|
-    |Asterisk|$\ast$|`\ast`|
-- ### Relational Operator
-    |Operation|Operator|LaTex|
-    |:---:|:---:|:---:|
-    |Less than or Equal to|$\le$|`\le`|
-    |Greater than or Equal to|$\ge$|`\ge`|
-    |Much Less than|$\ll$|`\ll`|
-    |Much Greater than|$\gg$|`\gg`|
-    |Not Equal|$\ne$|`\ne`|
-    |Proportional to|$\propto$|`\propto`|
-    |Divides|$\mid$|`\mid`|
-    |Perpendicular|$\perp$|`\perp`|
-    |Parallel|$\parallel$|`\parallel`|
-    - #### Similar
-        |Operation|Operator|LaTex|
-        |:---:|:---:|:---:|
-        |Equivalent|$\equiv$|`\equiv`|
-        |Similar|$\sim$|`\sim`|
-        |Similar or Equal to|$\simeq$|`\simeq`|
-        |Approximately Equal|$\approx$|`\approx`|
-        |Congruent|$\cong$|`\cong`|
-    - #### Set Relation
-        |Operation|Operator|LaTex|
-        |:---:|:---:|:---:|
-        |Subset|$\subset$|`\subset`|
-        |Superset|$\supset$|`\subset`|
-        |Subset or Equal|$\subseteq$|`\subseteq`|
-        |Superset or Equal|$\supseteq$|`\subseteq`|
-        |Element of|$\in$|`\in`|
-        |Contains as Member|$\ni$|`\ni`|
-        |Intersection|$\cap$|`\cap`|
-        |Union|$\cup$|`\cup`|
-        |Empty Set|$\emptyset$|`\emptyset`|
-
-# Large Operator
-|Operation|Large Operator|LaTex|
-|:---:|:---:|:---:|
-|Limit|$\lim{x}$|`\lim{x}`|
-|Limit Superior|$\limsup{x}$|`\limsup{x}`|
-|Limit Inferior|$\liminf{x}$|`\liminf{x}`|
-|Sum|$\sum{x}$|`\sum{x}`|
-|Product|$\prod{x}$|`\prod{x}`|
-|Big Intersection|$\bigcap{x}$|`\bigcap{x}`|
-|Big Union|$\bigcup{x}$|`\bigcup{x}`|
-- ### Integral
-    |Large Operator|LaTex|
-    |:---:|:---:|
-    |$\int{x}$|`\int{x}`|
-    |$\iint{x}$|`\iint{x}`|
-    |$\iiint{x}$|`\iiint{x}`|
-    |$\oint{x}$|`\oint{x}`|
-    |$\oiint{x}$|`\oiint{x}`|
-    |$\oiiint{x}$|`\oiiint{x}`|
-- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
-    |Large Operator|LaTex|
-    |:---:|:---:|
-    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
-    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
-    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
-    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
-        |Large Operator|LaTex|
-        |:---:|:---:|
-        |$\lim\limits_{a}{x}$|`\lim\limits_{a}{x}`|
-        |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
-        |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
-        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
-    - #### Substack：`\substack{text1\\text2}`
-        |Large Operator|LaTex|
-        |:---:|:---:|
-        |$\lim\limits_{\substack{a\\b}}{x}$|`\lim\limits_{\substack{a\\b}}{x}`|
-        |$\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}$|`\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}`|
-        |$\sum\limits_{\substack{a\\b}}^{c}{x}$|`\sum\limits_{\substack{a\\b}}^{c}{x}`|
-
 # Symbol
 |Name|Symbol|LaTex|
 |:---:|:---:|:---:|
 |infinity|$\infty$|`\infty`|
 |circle|$\circ$、$180^{\circ}$|`\circ`、`180^{\circ}`|
 |Prime|$\prime$、$x^{\prime}$、$x^{\prime\prime}$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
+|Angle|$\angle$|`\angle`|
+|Triangle|$\triangle$|`\triangle`|
+|Square|$\square$|`\square`|
 - ### Dot
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
@@ -249,8 +174,10 @@
     - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`[below]{above}`
         |Symbol|LaTex|
         |:---:|:---:|
+        |$\xrightarrow{above}$|`\xrightarrow[below]{above}`|
         |$\xrightarrow[below]{above}$|`\xrightarrow[below]{above}`|
         |$\xrightarrow[below]{}$|`\xrightarrow[below]{}`|
+        |$\xrightharpoonup{above}$|`\xrightharpoonup{above}`|
 
 - ### Harpoon Arrow
     |Direction|Symbol|LaTex|
@@ -262,6 +189,132 @@
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
 
+# Operator
+- ### Not：`\not`+operator
+    |Operator|LaTex|
+    |:---:|:---:|
+    |$\not>$|`\not>`|
+    |$\not\le$|`\not\le`|
+
+
+- ### Arithmetic Operator
+    |Operation|Operator|LaTex|
+    |:---:|:---:|:---:|
+    |Times|$\times$|`\times`|
+    |Divide|$\div$|`\div`|
+    |Plus-Minus|$\pm$|`\pm`|
+    |Minus-Plus|$\mp$|`\mp`|
+    |Asterisk|$\ast$|`\ast`|
+- ### Relational Operator
+    |Operation|Operator|LaTex|
+    |:---:|:---:|:---:|
+    |Less than or Equal to|$\le$|`\le`|
+    |Greater than or Equal to|$\ge$|`\ge`|
+    |Much Less than|$\ll$|`\ll`|
+    |Much Greater than|$\gg$|`\gg`|
+    |Not Equal|$\ne$|`\ne`|
+    |Proportional to|$\propto$|`\propto`|
+    |Divides|$\mid$|`\mid`|
+    |Perpendicular|$\perp$|`\perp`|
+    |Parallel|$\parallel$|`\parallel`|
+    - #### Similar
+        |Operation|Operator|LaTex|
+        |:---:|:---:|:---:|
+        |Equivalent|$\equiv$|`\equiv`|
+        |Similar|$\sim$|`\sim`|
+        |Similar or Equal to|$\simeq$|`\simeq`|
+        |Approximately Equal|$\approx$|`\approx`|
+        |Congruent|$\cong$|`\cong`|
+    - #### Set Relation
+        |Operation|Operator|LaTex|
+        |:---:|:---:|:---:|
+        |Subset|$\subset$|`\subset`|
+        |Superset|$\supset$|`\subset`|
+        |Subset or Equal|$\subseteq$|`\subseteq`|
+        |Superset or Equal|$\supseteq$|`\subseteq`|
+        |Element of|$\in$|`\in`|
+        |Contains as Member|$\ni$|`\ni`|
+        |Intersection|$\cap$|`\cap`|
+        |Union|$\cup$|`\cup`|
+        |Empty Set|$\varnothing$|`\varnothing`|
+
+# Large Operator
+|Operation|Large Operator|LaTex|
+|:---:|:---:|:---:|
+|Limit|$\lim{x}$|`\lim{x}`|
+|Limit Superior|$\limsup{x}$|`\limsup{x}`|
+|Limit Inferior|$\liminf{x}$|`\liminf{x}`|
+|Supremum|$\sup{x}$|`\sup{x}`|
+|Infimum|$\inf{x}$|`\inf{x}`|
+|Maximum|$\max{x}$|`\max{x}`|
+|Minimum|$\min{x}$|`\min{x}`|
+|Logarithm|$\log{x}$|`\log{x}`|
+|Sum|$\sum{x}$|`\sum{x}`|
+|Product|$\prod{x}$|`\prod{x}`|
+|Big Intersection|$\bigcap{x}$|`\bigcap{x}`|
+|Big Union|$\bigcup{x}$|`\bigcup{x}`|
+- ### Integral
+    |Large Operator|LaTex|
+    |:---:|:---:|
+    |$\int{x}$|`\int{x}`|
+    |$\iint{x}$|`\iint{x}`|
+    |$\iiint{x}$|`\iiint{x}`|
+    |$\oint{x}$|`\oint{x}`|
+    |$\oiint{x}$|`\oiint{x}`|
+    |$\oiiint{x}$|`\oiiint{x}`|
+- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
+    |Large Operator|LaTex|
+    |:---:|:---:|
+    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
+    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
+    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
+    |$\log_{a}{x}$|`\log_{a}{x}`|
+    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
+        |Large Operator|LaTex|
+        |:---:|:---:|
+        |$\lim\limits_{a}{x}$|`\lim\limits_{a}{x}`|
+        |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
+        |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
+        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
+    - #### Substack：`\substack{text1\\text2}`
+        |Large Operator|LaTex|
+        |:---:|:---:|
+        |$\lim\limits_{\substack{a\\b}}{x}$|`\lim\limits_{\substack{a\\b}}{x}`|
+        |$\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}$|`\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}`|
+        |$\sum\limits_{\substack{a\\b}}^{c}{x}$|`\sum\limits_{\substack{a\\b}}^{c}{x}`|
 
 # Function
-
+|Function|Output|LaTex|
+|:---:|:---:|:---:|
+|Exponential function|$\exp{x}$|`\exp{x}`|
+|Natural Logarithm|$\ln{x}$|`\ln{x}`|
+|Degree|$\deg{x}$|`\deg{x}`|
+|Argument|$\arg{x}$|`\arg{x}`|
+|Greatest Common Divisor|$\gcd{x}$|`\gcd{x}`|
+- ### Trigonometric Functions
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\sin{x}$|`\sin{x}`|
+    |$\cos{x}$|`\cos{x}`|
+    |$\tan{x}$|`\tan{x}`|
+    |$\cot{x}$|`\cot{x}`|
+    |$\sec{x}$|`\sec{x}`|
+    |$\csc{x}$|`\csc{x}`|
+    - #### Inverse Trigonometric Function
+        |Output|LaTex|
+        |:---:|:---:|
+        |$\arcsin{x}$|`\arcsin{x}`|
+        |$\arccos{x}$|`\arccos{x}`|
+        |$\arctan{x}$|`\arctan{x}`|
+- ### Hyperbolic Functions
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\sinh{x}$|`\sinh{x}`|
+    |$\cosh{x}$|`\cosh{x}`|
+    |$\tanh{x}$|`\tanh{x}`|
+    |$\coth{x}$|`\coth{x}`|
+- ### Superscript and Subscript
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\sin^{-1}{x}$|`\sin^{-1}{x}`|
+    |$\sin^{3}{x}$|`\sin^{3}{x}`|
