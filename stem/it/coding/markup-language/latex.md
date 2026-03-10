@@ -199,14 +199,14 @@
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
 
 # Large Operator
-|Symbol|LaTex|
+|Large Operator|LaTex|
 |:--:|:--:|
 |$\lim{x}$|`\lim{x}`|
 |$\sum{x}$|`\sum{x}`|
 |$\bigcap{x}$|`\bigcap{x}`|
 |$\bigcup{x}$|`\bigcup{x}`|
 - ### Integral
-    |Symbol|LaTex|
+    |Large Operator|LaTex|
     |:---:|:---:|
     |$\int{x}$|`\int{x}`|
     |$\iint{x}$|`\iint{x}`|
@@ -215,13 +215,13 @@
     |$\oiint{x}$|`\oiint{x}`|
     |$\oiiint{x}$|`\oiiint{x}`|
 - ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
-    |Symbol|LaTex|
+    |Large Operator|LaTex|
     |:---:|:---:|
     |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
     |$\int_{a}{x}$|`\int{x}_{a}{x}`|
     |$\int^{b}{x}$|`\int{x}^{b}{x}`|
     - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
-        |Symbol|LaTex|
+        |Large Operator|LaTex|
         |:---:|:---:|
         |$\lim\limits_{a}^{b}{x}$|`\lim\limits_{a}^{b}{x}`|
         |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
