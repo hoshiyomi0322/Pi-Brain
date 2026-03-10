@@ -121,6 +121,8 @@
         |Superset or Equal|$\supseteq$|`\subseteq`|
         |Element of|$\in$|`\in`|
         |Contains as Member|$\ni$|`\ni`|
+        ||$\cap$|`\cap`|
+        ||$\cup$|`\cup`|
 
 # Arrow
 - ### Basic Arrow：`\direction + arrow`
@@ -153,7 +155,7 @@
     |$\Leftrightarrow$|`\Leftrightarrow`|
     |$\Updownarrow$|`$\Updownarrow$`|
     |$\Longrightarrow$|`\Longrightarrow`、`\implies`|
-    |$\Longleftarrow$|`\Longleftarrow`|
+    |$\Longleftarrow$|`\Longleftarrow`、`\impliedby`|
     |$\Longleftrightarrow$|`\Leftrightarrow`、`\iff`|
 
 - ### Diagonal Arrow：`\intercardinal directions + arrow`
