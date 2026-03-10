@@ -6,11 +6,11 @@
     ```
 - ### Aligned &
     $\begin{aligned}
-    abc&\\&edf
+    abc&\\ &edf
     \end{aligned}$
     ```latex
     \begin{aligned}
-    abc&\\edf
+    abc&\\ edf
     \end{aligned}
     ```
 - ### Displaystyle
@@ -276,12 +276,12 @@
         |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
         |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
         |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
-    - #### Substack：`\substack{text1\\text2}`
+    - #### Substack：`\substack{text1\\ text2}`
         |Large Operator|LaTex|
         |:---:|:---:|
-        |$\lim\limits_{\substack{a\\b}}{x}$|`\lim\limits_{\substack{a\\b}}{x}`|
-        |$\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}$|`\lim\limits_{\substack{a=0\\b=0\\c=0}}{x}`|
-        |$\sum\limits_{\substack{a\\b}}^{c}{x}$|`\sum\limits_{\substack{a\\b}}^{c}{x}`|
+        |$\lim\limits_{\substack{a\\ b}}{x}$|`\lim\limits_{\substack{a\\ b}}{x}`|
+        |$\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}$|`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`|
+        |$\sum\limits_{\substack{a\\ b}}^{c}{x}$|`\sum\limits_{\substack{a\\ b}}^{c}{x}`|
 
 # Function
 |Function|Output|LaTex|
