@@ -8,11 +8,10 @@
 - ### Partial Correlation Coefficient：$r_{xy,z}=\frac{r_{xy}-(r_{xz})(r_{yz})}{\sqrt{1-(r_{xz})^2}\times\sqrt{1-(r_{yz})^2}}$
 
 # Regression Analysis
-- [Correlation](#correlation)
-- [Regression Analysis](#regression-analysis)
-- [Linear Regression](#linear-regression)
+- ### Linear Regression
+    - #### Regression Line
+    - #### Least Squares
+- ### Polynomial Regression
+- ### Nonlinear Regression
+    - ### Logistic Regression
 
-
-# Linear Regression
-- ### Regression Line
-- ### Least Squares
