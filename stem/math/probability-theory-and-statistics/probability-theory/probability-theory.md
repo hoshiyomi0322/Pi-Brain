@@ -24,7 +24,8 @@
         - Probability Density Function(PDF)
         - Probability Mass Function(PMF)
     - #### Probability Distribution Function
-- ### Moment-Generating Function(MGF)
+- ### Moment
+    - ### Moment-Generating Function(MGF)
 
 # Probability Distribution
 - ### Continuous Probability Distribution

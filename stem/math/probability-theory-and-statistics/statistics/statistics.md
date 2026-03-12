@@ -1,13 +1,8 @@
-- ### 資料：$x_1,x_2,\cdots,x_n$
-    - ### 資料總數：$n$
-  
-# Measure
-- ### [Measure of Central Tendency](measure-of-central-tendency.md)
-- ### [Measure of Dispersion(Measure of Variability)](measure-of-dispersion.md)
----
-- ### Extremum
-    - ### Maximum
-    - ### Minimum
-- ### Outlier
----
+# Descriptive Statistics
+- ### [Descriptive Statistics](descriptive-statistics.md)
 
+# Correlation and Regression Analysis
+- ### [Correlation and Regression Analysis](correlation-and-regression-analysis.md)
+
+# Statistical Inference
+- ### [Statistical Inference](statistical-inference.md)

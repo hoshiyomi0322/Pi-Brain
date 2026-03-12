@@ -1,3 +1,0 @@
-# Range
-# Variance
-# Standard Deviation
