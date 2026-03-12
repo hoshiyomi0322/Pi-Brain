@@ -1,8 +1,11 @@
 - ### 資料：$x_1,x_2,\cdots,x_n$
-- ### 資料總數：$n$
-    - ### 極值
-        - ### 最大值(x_{max})
-        - ### 最小值(x_{min})
-    - ### 離群值
-- ### 集中量數(集中趨勢)
-- ### 變異量數(離散程度)
+    - ### 資料總數：$n$
+---
+- ### Extremum
+    - ### Maximum
+    - ### Minimum
+- ### Outlier
+---
+- ### Measures of Central Tendency
+- ### Measures of Variability
+
