@@ -11,6 +11,7 @@
     |$P(A\cap B)=P(A)P(B)$|$P(A\cap B)=0=\varnothing$|
     |$P(A\mid B)=P(A)$、$P(B\mid A)=P(B)$|$P(A\mid B)=P(B\mid A)=0$|
 - ### Bayes' theorem：$P(A\mid B)=\frac{P(A\cap B)}{P(B)}=\frac{P(B\mid A)P(A)}{P(B)}$
+- ### Law of Total Probability
 
 ---
 - ### Sample Space
