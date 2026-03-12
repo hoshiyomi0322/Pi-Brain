@@ -13,14 +13,22 @@
 - ### Bayes' theorem：$P(A\mid B)=\frac{P(A\cap B)}{P(B)}=\frac{P(B\mid A)P(A)}{P(B)}$
 
 ---
+- ### Sample Space
 - ### Random Variable
     - ### [Probability Distribution](#probability-distribution-1)
     - ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
 - ### Random Experiment
+- ### Probabilistic Model
+    - #### Cumulative Distribution Function(CDF)
+        - Probability Density Function(PDF)
+        - Probability Mass Function(PMF)
+    - #### Probability Distribution Function
 - ### Moment-Generating Function(MGF)
 
 # Probability Distribution
 - ### Continuous Probability Distribution
+    |Probability Distribution|PMF|Random Process|
+    |:---:|:---:|:---:|
     - ### Continuous Uniform Distribution
     - ### Normal Distribution(Gaussian Distribution)
     - ### Exponential Distribution
@@ -31,11 +39,6 @@
     - ### Geometric Distribution
     - ### Bernoulli Distribution
     - ### Poisson Distribution
-
-- ### Cumulative Distribution Function(CDF)
-    - #### Probability Density Function(PDF)
-    - #### Probability Mass Function(PMF)
-    - #### Probability Distribution Function
 
 # Random Process(Stochastic Process)
 - ### Bernoulli Process
