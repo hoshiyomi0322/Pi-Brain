@@ -1,7 +1,7 @@
 - ### Probability：$P(x)$
 - ### Expected Value(Mean)：$E(x)$
 
-# Conditional Probability and Joint Probability
+# Conditional Probability
 - ### Conditional Probability：$P(A\mid B)=\frac{P(A\cap B)}{P(B)}$
     - $P(A\mid B)$＝the probability of $A$ under the condition $B$
 - ### Joint Probability：$P(A\cap B)=P(A\mid B)P(B)=P(B\mid A)P(A)$
