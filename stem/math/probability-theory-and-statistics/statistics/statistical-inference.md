@@ -5,7 +5,7 @@
 - ### Null Hypothesis ($H_0$)
 - ### Alternative Hypothesis ($H_a$)
 - ### Significance Level ($α$)
-- ### [Type of Hypothesis Testing](#Type-of-Hypothesis Testing)
+- ### [Type of Hypothesis Testing](#type-of-hypothesis-testing)
 
 # Type of Hypothesis Testing
 - ### t-test
