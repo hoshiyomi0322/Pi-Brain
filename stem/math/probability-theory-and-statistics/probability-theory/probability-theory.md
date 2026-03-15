@@ -74,7 +74,6 @@
     |:---:|:---:|:---:|:---:|
     |Moment|$μ_n=E(X^n)$|$μ_n=E((X-μ)^n)$|$\frac{μ_n}{σ^n}=\frac{E((X-μ)^n)}{σ^n}$|
     |$c$|$c=0$|$c=μ=E(X)$|$c=μ=E(X)$|
-- ### Moment-Generating Function(MGF)
 - ### Statistical Moments
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
@@ -82,4 +81,5 @@
     |Variance|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
+- ### Moment-Generating Function(MGF)：$M_X(t)=E(e^{tX})$
 
