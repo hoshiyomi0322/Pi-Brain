@@ -27,8 +27,7 @@
 - ### Random Experiment
 - ### Probabilistic Model
 - ### [Distribution Function](#distribution-function-1)
-- ### Moment
-    - ### Moment-Generating Function(MGF)
+- ### [Moment](#moment-1)
 
 # Distribution Function
 - ### Probability Function
@@ -64,4 +63,23 @@
 - ### Markov Process
     - Markov Chain
 - ### Brownian Motion
+
+# Moment
+- ### nth Moment：$μ_n=E((X-c)^n)$
+    |Continuous|Discrete|
+    |:---:|:---:|
+    |$μ_n=\int_{-\infty}^{\infty}{(x-c)^nf_d(x)\,dx}$|$μ_n=\sum\limits_{i=1}^{\infty}{(x_i-c)^nP(x_i)}$|
+- ### Type
+    ||nth Raw Moment|nth Central Moment|nth Standardized Moment|
+    |:---:|:---:|:---:|:---:|
+    |Moment|$μ_n=E(X^n)$|$μ_n=E((X-μ)^n)$|$\frac{μ_n}{σ^n}=\frac{E((X-μ)^n)}{σ^n}$|
+    |$c$|$c=0$|$c=μ=E(X)$|$c=μ=E(X)$|
+- ### Moment-Generating Function(MGF)
+- ### Statistical Moments
+    |Measure|Moment|Definition|
+    |:---:|:---:|:---:|
+    |Mean|First Raw Moment|$E(x)=μ$|
+    |Variance|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
+    |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
+    |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
 
