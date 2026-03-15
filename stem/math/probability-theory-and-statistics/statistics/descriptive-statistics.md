@@ -17,7 +17,7 @@
     - ### Harmonic Mean：$H=\frac{n}{\sum_{i=1}^{n}{(\frac{1}{x_i})}}=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\cdots+\frac{1}{x_n}}$
     - ### Trimmed Mean
     - ### AM–GM Inequality：$\frac{x_1+x_2+\cdots+x_n}{n}\geq \sqrt[n]{x_1x_2\cdots x_n}$
-        - If $x_1=x_2=\cdots =x_n$, then $\frac{x_1+x_2+\cdots +x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}$
+        - $\text{If }x_1=x_2=\cdots =x_n,~\text{then }\frac{x_1+x_2+\cdots +x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}$
 - ### Median
     |Number of Data ($n$)|Median|
     |:---:|:---:|
@@ -52,7 +52,7 @@
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank($PR$)
 - ### Standard Score (Z-score)：$z=\frac{x-μ}{σ}$
-    - #### Standardization：Raw Score ($x$) $\xrightarrow{Standardization}$ Standard Score ($z$)
+    - #### Standardization：$\text{Raw Score}(x)\xrightarrow{Standardization}\text{Standard Score}(z)$
     - #### Arithmetic Mean of $z$：$μ_z=0$
     - #### Standard Deviation of $z$：$σ_z=1$
 

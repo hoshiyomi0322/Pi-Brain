@@ -10,4 +10,4 @@
 # Type of Hypothesis Testing
 - ### t-test
 - ### z-test
-- ### Chi-squared test($χ^2 test$)
+- ### Chi-squared test ($χ^2$ test)

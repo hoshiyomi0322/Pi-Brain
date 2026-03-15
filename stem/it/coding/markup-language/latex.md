@@ -22,8 +22,13 @@
     ```latex
     %comment
     ```
+- ### Text
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\text{text}$|`\text{text}`|
+    |$\text{a b}$|`\text{a b}`|
 
-# Text
+# Text Formatting
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
@@ -203,8 +208,6 @@
     |:---:|:---:|
     |$\not>$|`\not>`|
     |$\not\le$|`\not\le`|
-
-
 - ### Arithmetic Operator
     |Operation|Operator|LaTex|
     |:---:|:---:|:---:|

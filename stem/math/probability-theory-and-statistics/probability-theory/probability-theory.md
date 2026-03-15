@@ -1,13 +1,13 @@
 - ### Probability
     - #### $P(A)$ = the Probability of Event $A$
-    - #### $P(X=x)$：the Probability of $Random~Variable(X)=x$
+    - #### $P(X=x)$：the Probability of $\text{Random Variable}(X)=x$
     - ### [Conditional Probability](./conditional-probability/conditional-probability.md)
 - ### Sample Space($S$)
     - $P(S)=1$
 
 # Expected Value(Mean)：$E(x)$
 - ### $E(x)=\sum\limits_{i=1}^{n}{x_ip_i}$
-    - $p_i$ = Probability of $x_i$
+    - $p_i=\text{Probability of }x_i$
 - ### Random Variable
     |Continuous|Discrete|
     |:---:|:---:|
@@ -45,7 +45,7 @@
         - Boundedness
             - $\lim\limits _{x\to-\infty}{F(x)}=0$
             - $\lim\limits _{x\to+\infty}{F(x)}=1$
-        - Monotonicity：if $x_1<x_2$, then $F(x_1)\leq F(x_2)$
+        - Monotonicity：$\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)$
 
 # Random Process(Stochastic Process)
 - ### Bernoulli Process
