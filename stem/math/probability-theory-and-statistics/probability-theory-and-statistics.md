@@ -4,4 +4,5 @@
 - ### [Statistical Inference](./statistics/statistical-inference.md)
 
 # [Probability Theory](./probability-theory/probability-theory.md)
-- ### Probability Theory
+- ### [Conditional Probability](./probability-theory/conditional-probability/conditional-probability.md)
+- ### [Probability Distribution](./probability-theory/probability-distribution.md)
