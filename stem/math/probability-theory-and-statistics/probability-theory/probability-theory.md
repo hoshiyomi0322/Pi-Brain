@@ -49,7 +49,16 @@
 
 # Random Process(Stochastic Process)
 - ### Bernoulli Process
-    - Bernoulli Distribution
+    - ### Bernoulli Trial
+        - $\text{Probability of Success}=p$
+        - $\text{Probability of Failure}=1-p$
+    - ### Probability Distribution
+        |Probability Distribution|Probability|
+        |:---:|:---:|
+        |Bernoulli Distribution|Success in a Bernoulli Trial|
+        |Binomial Distribution|Successes in $n$ independent Bernoulli Trials
+        |Geometric Distribution|the first success in an infinite sequence of independent Bernoulli Trials
+    
 - ### Poisson Process
     - Poisson Distribution
 - ### Markov Process
