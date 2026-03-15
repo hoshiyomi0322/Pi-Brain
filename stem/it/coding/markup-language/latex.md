@@ -41,6 +41,12 @@
 |Breve|$\breve{a}$|`\breve{a}`|
 
 # Space
+|Space|Output|LaTex|
+|:---:|:---:|:---:|
+|Negative Space|$a\!b$|`a\!b`|
+|Thin Space|$a\,b$|`a\,b`|
+|Space|$a~b$|`a~b`|
+
 - ### Space：`~`*n
     |Output|LaTex|
     |:---:|:---:|
@@ -53,6 +59,8 @@
     |:---:|:---:|
     |$a\hspace{5mm} b$|`a\hspace{5mm} b`|
     |$a\hspace{1cm} b$|`a\hspace{1cm} b`|
+    |$a\hspace{-1mm} b$|`a\hspace{-1mm} b`|
+    |$a\hspace{-5mm} b$|`a\hspace{-5mm} b`|
 
 - ### Line Break：`\\[line spacing]`
     |Output|LaTex|

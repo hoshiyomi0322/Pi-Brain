@@ -1,5 +1,7 @@
 - ### Data：$x_1,x_2,\cdots,x_n$
-- ### Number of Data：$n$
+    - #### Number of Data：$n$
+- ### Random Variable：$X=x_1,x_2,\cdots ,x_n$
+    - #### Expected Value(Mean)：$E(X)$
 ---
 - ### Extremum
     - ### Maximum
@@ -9,12 +11,13 @@
 # Measure of Central Tendency
 - ### Mean
     - ### Arithmetic Mean(AM)：$μ=\frac{\sum_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+~\cdots~+x_n}{n}$
-        - #### Weighted arithmetic mean
+        - #### $μ=E(X)$
+        - #### Weighted Arithmetic Mean
     - ### Geometric Mean(GM)：$G=(\prod_{i=1}^{n}{x_i})^{\frac{1}{n}}=\sqrt[n]{x_1x_2\cdots x_n}$
     - ### Harmonic Mean：$H=\frac{n}{\sum_{i=1}^{n}{(\frac{1}{x_i})}}=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\cdots+\frac{1}{x_n}}$
     - ### Trimmed Mean
     - ### AM–GM Inequality：$\frac{x_1+x_2+\cdots+x_n}{n}\geq \sqrt[n]{x_1x_2\cdots x_n}$
-        - If $x_1=x_2=\cdots=x_n$, then $\frac{x_1+x_2+\cdots+x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}$
+        - If $x_1=x_2=\cdots =x_n$, then $\frac{x_1+x_2+\cdots +x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}$
 - ### Median
     |Number of Data ($n$)|Median|
     |:---:|:---:|
@@ -28,7 +31,14 @@
 - ### Mean Absolute Deviation (MAD)：$M_D=\frac{\sum_{i=1}^{n}|D_i|}{n}=\frac{\sum_{i=1}^{n}|x_i-μ|}{n}$
     - #### Deviation from the Mean：$D_i=x_i-μ$
 - ### Variance：$Var(x)=σ^2=\frac{\sum_{i=1}^{n}(D_i)^2}{n}=\frac{\sum_{i=1}^{n}(x_i-μ)^2}{n}=\frac{\sum_{i=1}^{n}{x_i}^2-nμ^2}{n}=\frac{\sum_{i=1}^{n}{x_i}^2}{n}-μ^2$
-- ### Standard Deviation(SD)：$\sqrt{Var(x)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum_{i=1}^{n}(D_i)^2}{n}}=\sqrt{\frac{\sum_{i=1}^{n}(x_i-μ)^2}{n}}=\sqrt{\frac{\sum_{i=1}^{n}{x_i}^2}{n}-μ^2}$
+    - #### $Var(X)=E((X-μ)^2)=E((X-E(X))^2)=E(X^2)-E(X)^2$
+    - #### Properties
+        - $Var(c)=0$
+        - $Var(cX)=c^2Var(X)$
+        - $Var(X+c)=Var(X)$
+        - $Var(aX+bY)=a^2Var(X)+b^2Var(Y)+2ab\cdot Cov(X,Y)$
+- ### Standard Deviation(SD)：$\sqrt{Var(x)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum_{i=1}^{n}(x_i-μ)^2}{n}}=\sqrt{\frac{\sum_{i=1}^{n}{x_i}^2}{n}-μ^2}$
+    - #### $\sqrt{Var(X)}=\sqrt{E((X-μ)^2)}=\sqrt{E((X-E(X))^2)}=\sqrt{E(X^2)-E(X)^2}$
 - ### Coefficient of Variation (CV)：$c_v=\frac{σ}{μ}$
 - ### Chebyshev's Inequality
 
