@@ -11,7 +11,7 @@
 # Measure of Central Tendency
 - ### Mean
     - ### Arithmetic Mean(AM)： $μ=\frac{\sum_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+~\cdots~+x_n}{n}$
-        - ####  $μ=E(X)$
+        - #### $μ=E(X)$
         - #### Weighted Arithmetic Mean
     - ### Geometric Mean(GM)： $G=(\prod_{i=1}^{n}{x_i})^{\frac{1}{n}}=\sqrt[n]{x_1x_2\cdots x_n}$
     - ### Harmonic Mean： $H=\frac{n}{\sum_{i=1}^{n}{(\frac{1}{x_i})}}=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\cdots+\frac{1}{x_n}}$
