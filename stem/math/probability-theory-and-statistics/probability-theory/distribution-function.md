@@ -18,12 +18,12 @@
 # Probability
 |Continuous|Discrete|
 |:---:|:---:|
-|$P(X<x)=F(x^-)=F(x)$|$P(X<x)=F(x^-)=F(x-1)$|
 |$P(X=x)=0$|$P(X=x)=f_m(x)=P(X\leq x)-P(X<x)=F(x)-F(x^-)$|
+|$P(X<x)=F(x^-)=F(x)$|$P(X<x)=F(x^-)=F(x-1)$|
 - ### Interval Probability
     - $P(X\leq x)=F(x)$
     - $P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}$
-    - $P(X>x)=1-P(X\leq x)=1-F(x)$
     - $P(X\geq x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
+    - $P(X>x)=1-P(X\leq x)=1-F(x)$
     - $P(a<X\leq b)=P(X\leq b)-P(X\leq a)=F(b)-F(a)$
     - $P(a\leq X\leq b)=P(X\leq b)-P(X<a)=F(b)-F(a^-)$
