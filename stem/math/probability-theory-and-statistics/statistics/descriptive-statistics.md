@@ -34,8 +34,7 @@
     - #### $Var(X)=E((X-μ)^2)=E((X-E(X))^2)=E(X^2)-E(X)^2$
     - #### Properties
         - $Var(c)=0$
-        - $Var(cX)=c^2Var(X)$
-        - $Var(X+c)=Var(X)$
+        - $Var(aX+b)=a^2Var(X)$
         - $Var(aX+bY)=a^2Var(X)+b^2Var(Y)+2ab\cdot Cov(X,Y)$
 - ### Standard Deviation(SD)：$\sqrt{Var(x)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum_{i=1}^{n}(x_i-μ)^2}{n}}=\sqrt{\frac{\sum_{i=1}^{n}{x_i}^2}{n}-μ^2}$
     - #### $\sqrt{Var(X)}=\sqrt{E((X-μ)^2)}=\sqrt{E((X-E(X))^2)}=\sqrt{E(X^2)-E(X)^2}$

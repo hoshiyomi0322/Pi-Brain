@@ -14,7 +14,7 @@
     |$E(x)=\int_{-\infty}^{\infty}{xf_d(x)\,dx}$|$E(x)=\sum\limits_{i=1}^{n}{(x_i\cdot P(X=x_i))}=\sum\limits_{i=1}^{n}{(x_i\cdot f_m(x_i))}$|
 - ### Properties
     - $E(c)=c$
-    - $E(cX)=cE(X)$
+    - $E(aX+b)=aE(X)+b$
     - $E(X+Y)=E(X)+E(Y)$
 
 # Random Variable
@@ -22,29 +22,12 @@
     |Continuous|Discrete|
     |:---:|:---:|
     |$x\in A,\,x\in[a,b]$|$X=x_1,x_2,\cdots ,x_n$|
+- ### [Distribution Function](distribution-function.md)
 - ### [Probability Distribution](probability-distribution.md)
 - ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
-- ### [Distribution Function](#distribution-function-1)
 - ### [Moment](#moment-1)
-
-# Distribution Function
-- ### Probability Function
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |Probability Density Function(PDF)|Probability Mass Function(PMF)|
-    |$f_d(x)=\frac{d}{dx}F(x)$|$f_m(x)=P(X=x)$|
-    
-- ### Cumulative Distribution Function(CDF)：$F(x)=P(X\leq x)$
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |$F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}$|$F(x)=\sum\limits_{t\leq x}{f_m(t)}$
-    - #### Properties
-        - Boundedness
-            - $\lim\limits _{x\to-\infty}{F(x)}=0$
-            - $\lim\limits _{x\to+\infty}{F(x)}=1$
-        - Monotonicity：$\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)$
 
 # Random Process(Stochastic Process)
 - ### Bernoulli Process
