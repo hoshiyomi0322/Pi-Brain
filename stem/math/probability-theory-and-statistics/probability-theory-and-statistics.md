@@ -5,5 +5,5 @@
 
 # [Probability Theory](./probability-theory/probability-theory.md)
 - ### [Conditional Probability](./probability-theory/conditional-probability/conditional-probability.md)
-- ### [Distribution Function](distribution-function.md)
+- ### [Distribution Function](./probability-theory/distribution-function.md)
 - ### [Probability Distribution](./probability-theory/probability-distribution.md)

@@ -10,7 +10,7 @@
 
 # Measure of Central Tendency
 - ### Mean
-    - ### Arithmetic Mean(AM)： $μ=\frac{\sum_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+~\cdots~+x_n}{n}$
+    - ### Arithmetic Mean(AM)：$μ=\frac{\sum_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+~\cdots~+x_n}{n}$
         - #### $μ=E(X)$
         - #### Weighted Arithmetic Mean
     - ### Geometric Mean(GM)： $G=(\prod_{i=1}^{n}{x_i})^{\frac{1}{n}}=\sqrt[n]{x_1x_2\cdots x_n}$
