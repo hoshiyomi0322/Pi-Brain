@@ -56,7 +56,7 @@
     ||nth Raw Moment|nth Central Moment|nth Standardized Moment|
     |:---:|:---:|:---:|:---:|
     |Moment|$`μ_n=E(X^n)`$|$`μ_n=E((X-μ)^n)`$|$`\frac{μ_n}{σ^n}=\frac{E((X-μ)^n)}{σ^n}`$|
-    |$c$|$`c=0$|$c=μ=E(X)$|$c=μ=E(X)$|
+    |$c$|$c=0$|$c=μ=E(X)$|$c=μ=E(X)$|
 - ### Statistical Moments
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
