@@ -12,7 +12,7 @@
     |$P(A\cap B)=P(A)P(B)$|$P(A\cap B)=0=\varnothing$|
     |$P(A\mid B)=P(A),~P(B\mid A)=P(B)$|$P(A\mid B)=P(B\mid A)=0$|
 
-# Union Probability：$P(A\cup B)$
+# Union Probability： $P(A\cup B)$
 - ### $P(A\cup B)=(P(A)+P(B))-P(A\cap B)$
     - #### Inclusion–Exclusion Principle
 - ### Mutually Exclusive events, Collectively Exhaustive events
