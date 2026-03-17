@@ -156,7 +156,7 @@
 
 # HTML
 - ### Markdown supports HTML
-- ### eg
+- ### LaTex
     <h3>text</h>
     
     ```md
@@ -165,12 +165,12 @@
 
 # LaTex
 - ### Markdown supports LaTex
-- ### Inline
-    Formula：$E=mc^2$
+- ### Inline：`$ $`、`$``$`
+    Formula：$E=mc^2$、$`E=mc^2`$
     ```md
-    Formula：$E=mc^2$
+    Formula：$E=mc^2$、$`E=mc^2`$
     ```
-- ### Block
+- ### Block：`$$ $$`
     $$E=mc^2$$
     ```md
     $$E=mc^2$$
