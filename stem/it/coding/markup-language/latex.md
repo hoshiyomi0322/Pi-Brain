@@ -5,16 +5,16 @@
     \end{}
     ```
 - ### Aligned &
-    $\begin{aligned}
+    $`\begin{aligned}
     abc&\\ &edf
-    \end{aligned}$
+    \end{aligned}`$
     ```latex
     \begin{aligned}
     abc&\\ edf
     \end{aligned}
     ```
 - ### Displaystyle
-    $\displaystyle{text}$
+    $`\displaystyle{text}`$
     ```latex
     \displaystyle{text}
     ```
@@ -48,37 +48,37 @@
 # Space
 |Space|Output|LaTex|
 |:---:|:---:|:---:|
-|Negative Space|$a\!b$|`a\!b`|
-|Thin Space|$a\,b$|`a\,b`|
-|Space|$a~b$|`a~b`|
+|Negative Space|$`a\!b`$|`a\!b`|
+|Thin Space|$`a\,b`$|`a\,b`|
+|Space|$`a~b`$|`a~b`|
 
 - ### Space：`~`*n
     |Output|LaTex|
     |:---:|:---:|
-    |$a~b$|`a~b`|
-    |$a~~~b$|`a~~~b`|
-    |$a~~~~~~~b$|`a~~~~~~~b`|
+    |$`a~b`$|`a~b`|
+    |$`a~~~b`$|`a~~~b`|
+    |$`a~~~~~~~b`$|`a~~~~~~~b`|
 
 - ### Horizon Space：`\hspace{length}`
     |Output|LaTex|
     |:---:|:---:|
-    |$a\hspace{5mm} b$|`a\hspace{5mm} b`|
-    |$a\hspace{1cm} b$|`a\hspace{1cm} b`|
-    |$a\hspace{-1mm} b$|`a\hspace{-1mm} b`|
-    |$a\hspace{-5mm} b$|`a\hspace{-5mm} b`|
+    |$`a\hspace{5mm} b`$|`a\hspace{5mm} b`|
+    |$`a\hspace{1cm} b`$|`a\hspace{1cm} b`|
+    |$`a\hspace{-1mm} b`$|`a\hspace{-1mm} b`|
+    |$`a\hspace{-5mm} b`$|`a\hspace{-5mm} b`|
 
 - ### Line Break：`\\[line spacing]`
     |Output|LaTex|
     |:---:|:---:|
-    |$abc\\ edf$|`abc\\ edf$`|
-    |$abc\\[5mm] edf$|`$abc\\[5mm] edf$`|
-    |$abc\\[0.2cm] edf$|`$abc\\[0.2cm] edf$`|
+    |$`abc\\ edf`$|`abc\\ edf$`|
+    |$`abc\\[5mm] edf`$|`$abc\\[5mm] edf$`|
+    |$`abc\\[0.2cm] edf`$|`$abc\\[0.2cm] edf$`|
 
 # Overset and Underset
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
-|Overset|$\overset{above}{mid}$|`\overset{above}{mid}`|
-|Underset|$\underset{below}{mid}$|`\underset{below}{mid}`|
+|Overset|$`\overset{above}{mid}`$|`\overset{above}{mid}`|
+|Underset|$`\underset{below}{mid}`$|`\underset{below}{mid}`|
 
 # Superscript and Subscript
 |Format|Output|LaTex|
@@ -105,8 +105,8 @@
 |Name|Symbol|LaTex|
 |:---:|:---:|:---:|
 |infinity|$\infty$|`\infty`|
-|circle|$\circ$、$180^{\circ}$|`\circ`、`180^{\circ}`|
-|Prime|$\prime$、$x^{\prime}$、$x^{\prime\prime}$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
+|circle|$`\circ`$、$`180^{\circ}`$|`\circ`、`180^{\circ}`|
+|Prime|$`\prime`$、$`x^{\prime}`$、$`x^{\prime\prime}`$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
 |Angle|$\angle$|`\angle`|
 |Triangle|$\triangle$|`\triangle`|
 |Square|$\square$|`\square`|
@@ -124,7 +124,7 @@
     |Because|$\because$|`\because`|
     |Therefore|$\therefore$|`\therefore`|
     |For All|$\forall$|`\forall`|
-    |Exist|$\exist$|`\exist`|
+    |Exist|$`\exist`$|`\exist`|
 
 # Arrow
 - ### Basic Arrow：`\direction + arrow`
@@ -267,18 +267,19 @@
 - ### Integral
     |Large Operator|LaTex|
     |:---:|:---:|
-    |$\int{x}$|`\int{x}`|
-    |$\iint{x}$|`\iint{x}`|
-    |$\iiint{x}$|`\iiint{x}`|
-    |$\oint{x}$|`\oint{x}`|
-    |$\oiint{x}$|`\oiint{x}`|
-    |$\oiiint{x}$|`\oiiint{x}`|
+    |$`\int{x}`$|`\int{x}`|
+    |$`\iint{x}`$|`\iint{x}`|
+    |$`\iiint{x}`$|`\iiint{x}`|
+    |$`\oint{x}`$|`\oint{x}`|
+    |$`\oiint{x}`$|`\oiint{x}`|
+    |$`\oiiint{x}`$|`\oiiint{x}`|
 - ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
     |Large Operator|LaTex|
     |:---:|:---:|
     |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
     |$\int_{a}{x}$|`\int{x}_{a}{x}`|
     |$\int^{b}{x}$|`\int{x}^{b}{x}`|
+    |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x\, dx}`|
     |$\log_{a}{x}$|`\log_{a}{x}`|
     - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
         |Large Operator|LaTex|
@@ -305,27 +306,27 @@
 - ### Trigonometric Functions
     |Output|LaTex|
     |:---:|:---:|
-    |$\sin{x}$|`\sin{x}`|
-    |$\cos{x}$|`\cos{x}`|
-    |$\tan{x}$|`\tan{x}`|
-    |$\cot{x}$|`\cot{x}`|
-    |$\sec{x}$|`\sec{x}`|
-    |$\csc{x}$|`\csc{x}`|
+    |$`\sin{x}`$|`\sin{x}`|
+    |$`\cos{x}`$|`\cos{x}`|
+    |$`\tan{x}`$|`\tan{x}`|
+    |$`\cot{x}`$|`\cot{x}`|
+    |$`\sec{x}`$|`\sec{x}`|
+    |$`\csc{x}`$|`\csc{x}`|
     - #### Inverse Trigonometric Function
         |Output|LaTex|
         |:---:|:---:|
-        |$\arcsin{x}$|`\arcsin{x}`|
-        |$\arccos{x}$|`\arccos{x}`|
-        |$\arctan{x}$|`\arctan{x}`|
+        |$`\arcsin{x}`$|`\arcsin{x}`|
+        |$`\arccos{x}`$|`\arccos{x}`|
+        |$`\arctan{x}`$|`\arctan{x}`|
 - ### Hyperbolic Functions
     |Output|LaTex|
     |:---:|:---:|
-    |$\sinh{x}$|`\sinh{x}`|
-    |$\cosh{x}$|`\cosh{x}`|
-    |$\tanh{x}$|`\tanh{x}`|
-    |$\coth{x}$|`\coth{x}`|
+    |$`\sinh{x}`$|`\sinh{x}`|
+    |$`\cosh{x}`$|`\cosh{x}`|
+    |$`\tanh{x}`$|`\tanh{x}`|
+    |$`\coth{x}`$|`\coth{x}`|
 - ### Superscript and Subscript
     |Output|LaTex|
     |:---:|:---:|
-    |$\sin^{-1}{x}$|`\sin^{-1}{x}`|
-    |$\sin^{3}{x}$|`\sin^{3}{x}`|
+    |$`\sin^{-1}{x}`$|`\sin^{-1}{x}`|
+    |$`\sin^{3}{x}`$|`\sin^{3}{x}`|
