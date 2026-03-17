@@ -65,5 +65,5 @@
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
 - ### Moment-Generating Function(MGF)： $M_X(t)=E(e^{tX})$
-    - $μ_n=E(X^n)=M_X^{(n)}{(0)}=\left\frac{d^nM_X(t)}{dt^n}\right|_{t=0}$
+    - $μ_n=E(X^n)=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}$
 
