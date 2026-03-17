@@ -1,10 +1,10 @@
-# Probability Function： $f(x)$
+# Probability Function：$`f(x)`$
 |Continuous|Discrete|
 |:---:|:---:|
 |Probability Density Function(PDF)|Probability Mass Function(PMF)|
 |$f_d(x)=\frac{d}{dx}F(x)$|$f_m(x)=P(X=x)$|
     
-# Cumulative Distribution Function(CDF)： $F(x)$
+# Cumulative Distribution Function(CDF)：$`F(x)`$
 - $F(x)=P(X\leq x)$
     |Continuous|Discrete|
     |:---:|:---:|
@@ -13,7 +13,7 @@
     - #### Boundedness
         - $\lim\limits _{x\to-\infty}{F(x)}=0$
         - $\lim\limits _{x\to+\infty}{F(x)}=1$
-    - #### Monotonicity： $\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)$
+    - #### Monotonicity：$`\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)`$
 
 # Probability
 |Continuous|Discrete|
