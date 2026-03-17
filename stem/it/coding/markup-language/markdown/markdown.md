@@ -165,7 +165,7 @@
 
 # LaTex
 - ### Markdown supports LaTex
-- ### Inline：`$ $`、`$``$`
+- ### Inline：`$ $`、``$` `$``
     Formula：$`E=mc^2`$、$`E=mc^2`$
     ```md
     Formula：$E=mc^2$、$`E=mc^2`$
