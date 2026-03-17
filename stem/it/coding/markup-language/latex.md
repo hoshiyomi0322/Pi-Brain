@@ -70,9 +70,9 @@
 - ### Line Break：`\\[line spacing]`
     |Output|LaTex|
     |:---:|:---:|
-    |$`abc\\ edf`$|`abc\\ edf$`|
-    |$`abc\\[5mm] edf`$|`$abc\\[5mm] edf$`|
-    |$`abc\\[0.2cm] edf`$|`$abc\\[0.2cm] edf$`|
+    |$`abc\\ edf`$|`abc\\ edf`|
+    |$`abc\\[5mm] edf`$|`abc\\[5mm] edf`|
+    |$`abc\\[0.2cm] edf`$|`abc\\[0.2cm] edf`|
 
 # Overset and Underset
 |Format|Output|LaTex|
@@ -115,7 +115,7 @@
     |:---:|:---:|:---:|
     |Centered Dot|$\cdot$|`\cdot`|
     |Centered Dots|$\cdots$|`\cdots`|
-    |Lower Dots|$\ldots$|`\ldots$`|
+    |Lower Dots|$\ldots$|`\ldots`|
     |Diagonal Dots|$\ddots$|`\ddots`|
     |Vertical Dots|$\vdots$|`\vdots`|    
 - ### Logic Symbol
@@ -143,19 +143,19 @@
     - #### Up/Down Arrow
         |Direction|Symbol|LaTex|
         |:---:|:---:|:---:|
-        |up|$\uparrow$|`$\uparrow$`|
-        |down|$\downarrow$|`$\downarrow$`|
-        |up-down|$\updownarrow$|`$\updownarrow$`|
+        |up|$\uparrow$|`\uparrow`|
+        |down|$\downarrow$|`\downarrow`|
+        |up-down|$\updownarrow$|`\updownarrow`|
     
 - ### Double Line Arrow：capitalizing the first letter
     |Symbol|LaTex|
     |:---:|:---:|
     |$\Rightarrow$|`\Rightarrow`|
     |$\Leftarrow$|`\Leftarrow`|
-    |$\Uparrow$|`$\Uparrow$`|
-    |$\Downarrow$|`$\Downarrow$`|
+    |$\Uparrow$|`\Uparrow`|
+    |$\Downarrow$|`\Downarrow`|
     |$\Leftrightarrow$|`\Leftrightarrow`|
-    |$\Updownarrow$|`$\Updownarrow$`|
+    |$\Updownarrow$|`\Updownarrow`|
     |$\Longrightarrow$|`\Longrightarrow`、`\implies`|
     |$\Longleftarrow$|`\Longleftarrow`、`\impliedby`|
     |$\Longleftrightarrow$|`\Leftrightarrow`、`\iff`|
