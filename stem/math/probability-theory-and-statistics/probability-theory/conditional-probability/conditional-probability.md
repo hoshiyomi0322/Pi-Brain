@@ -1,6 +1,6 @@
 # Conditional Probability：$`P(A\mid B)`$
 - ### $P(A\mid B)=\frac{P(A\cap B)}{P(B)}$
-    - #### $P(A\mid B)$＝the probability of $A$ under the condition $B$
+    - #### $P(A\mid B)$ ＝ the probability of $A$ under the condition $B$
 - ### Bayes' Theorem：$`P(A\mid B)=\frac{P(A\cap B)}{P(B)}=\frac{P(B\mid A)P(A)}{P(B)}`$
 
 # Joint Probability：$`P(A\cap B)`$
