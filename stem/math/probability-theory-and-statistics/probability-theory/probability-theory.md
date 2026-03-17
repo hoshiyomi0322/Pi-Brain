@@ -21,7 +21,7 @@
 - ### Random Variable($X$)
     |Continuous|Discrete|
     |:---:|:---:|
-    |$x\in A,\,x\in[a,b]$|$X=x_1,x_2,\cdots ,x_n$|
+    |$`x\in A,\, x\in[a,b]`$|$X=x_1,x_2,\cdots ,x_n$|
 - ### [Distribution Function](distribution-function.md)
 - ### [Probability Distribution](probability-distribution.md)
 - ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
