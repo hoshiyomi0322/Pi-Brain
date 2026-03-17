@@ -8,7 +8,7 @@
 - $F(x)=P(X\leq x)$
     |Continuous|Discrete|
     |:---:|:---:|
-    |$F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}$|$F(x)=\sum\limits_{t\leq x}{f_m(t)}$
+    |$`F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}`$|$F(x)=\sum\limits_{t\leq x}{f_m(t)}$
 - ### Properties
     - #### Boundedness
         - $\lim\limits _{x\to-\infty}{F(x)}=0$
