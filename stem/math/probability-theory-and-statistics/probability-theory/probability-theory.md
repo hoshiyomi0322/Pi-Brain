@@ -5,7 +5,7 @@
 - ### Sample Space($S$)
     - $P(S)=1$
 
-# Expected Value(Mean)：$E(x)$
+# Expected Value(Mean)： $E(x)$
 - ### $E(x)=\sum\limits_{i=1}^{n}{x_ip_i}$
     - $p_i=\text{Probability of }x_i$
 - ### Random Variable
@@ -48,7 +48,7 @@
 - ### Brownian Motion
 
 # Moment
-- ### nth Moment：$μ_n=E((X-c)^n)$
+- ### nth Moment： $μ_n=E((X-c)^n)$
     |Continuous|Discrete|
     |:---:|:---:|
     |$μ_n=\int_{-\infty}^{\infty}{(x-c)^nf_d(x)\,dx}$|$μ_n=\sum\limits_{i=1}^{\infty}{(x_i-c)^nP(x_i)}$|
@@ -64,6 +64,6 @@
     |Variance|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
-- ### Moment-Generating Function(MGF)：$M_X(t)=E(e^{tX})$
-    - $μ_n=E(X^n)=M_X^{(n)}{(0)}=\frac{d^nM_X(t)}{dt^n}\mid_{t=0}$
+- ### Moment-Generating Function(MGF)： $M_X(t)=E(e^{tX})$
+    - $μ_n=E(X^n)=M_X^{(n)}{(0)}=\frac{d^nM_X(t)}{dt^n}|_{t=0}$
 
