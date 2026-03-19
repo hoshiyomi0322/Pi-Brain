@@ -14,7 +14,8 @@
     - #### [Probability Theory & Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
     - #### Trigonometric Functions & Hyperbolic Functions
     - #### Geometry
-    - #### Others(Math)
+    - #### [Series](./stem/math/series.md)
+    - #### Number and Operator
 - ### Physics & Chemistry
     - #### Elements&Compounds
     - #### Particle
