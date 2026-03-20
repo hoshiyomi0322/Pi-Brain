@@ -50,7 +50,11 @@
     - #### Radius of Convergence：$`R`$
         - $`\frac{1}{R}=\lim\limits_{n\to\infty}|\frac{a_{n+1}}{a_{n}}|=\lim\limits_{n\to\infty}\sqrt[n]{|a_n|}`$
     - #### Interval of Convergence：$`(c-R,~c+R)`$
-        - $`|x-c|<R`$
+        |Interval|Convergent, Divergent|
+        |:---:|:---:|
+        |$`\|x-c\|<R`$|$`\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}\text{ converges}`$|
+        |$`\|x-c\|=R`$|$`\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}\text{ either converge or diverge}`$|
+        |$`\|x-c\|>R`$|$`\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}\text{ diverges}`$|
 
 # Infinite Series
 - ### [Ratio test, Root test](#ratio-test-root-test)

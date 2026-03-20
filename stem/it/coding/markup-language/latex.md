@@ -303,6 +303,7 @@
 |Degree|$\deg{x}$|`\deg{x}`|
 |Argument|$\arg{x}$|`\arg{x}`|
 |Greatest Common Divisor|$\gcd{x}$|`\gcd{x}`|
+|Binomial coefficient|$\binom{n}{k}$|`\binom{n}{k}`|
 - ### Trigonometric Functions
     |Output|LaTex|
     |:---:|:---:|
