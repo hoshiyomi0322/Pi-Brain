@@ -1,42 +1,11 @@
-- ### Elementary Charge：$`e=1.602176\times{10}^{-19}(C)`$
-- ### Electric Charge(電量)：$`Q=It=CV`$
-    - ### 單位：$`C`$(庫侖)
-    - ### $t$＝time($s$)
-- ### Electric Current：$`I=\frac{Q}{t}=\frac{V}{R}`$
-    - ### 單位：$`A`$(安培)
-- ### Voltage：$`V=IR=\frac{Q}{C}`$
-    - ### 單位：$`V`$(伏特)
-- ### Electrical Energy：$`E=QV=ItV`$
-    - ### 單位：$`J`$(焦耳)
-    - ### $`E(t)=\int_{t_0}^{t}{I(t)\cdot V(t)\,dx}`$
-- ### Electric Power：$`P=\frac{E}{t}=\frac{QV}{t}=IV`$
-    - ### 單位：$`W`$(瓦特)
-
-# Electric Current/Electron Flow
-- ### Electric Current：正電荷的移動方向
-    - ### 電流方向相反：變號
-    - ### DC、AC
-        - #### Direct Current(AC)
-        - #### Alternating Current(AC)
-    - ### 電池的電流方向
-        - #### 電池外部的電流方向：正極→負極
-        - #### 電池內部的電流方向：負極→正極
-- ### Electron Flow：負電荷的移動方向
-
-# Electric Battery
-- ### Electromotive Force(EMF)：$`\varepsilon=\frac{E}{Q}=IR`$
-    - #### 單位：$`V`$(伏特)
-    - #### $R$＝總電阻
-- ### 內電阻(電池內部的電阻)：$`r`$
-- ### 端電壓：$`V=\varepsilon-Ir=I(R-r)`$
-    - #### $`R-r=電池外部的電阻`$
-- ### 理想電池：無內電阻
-    - #### $總電阻=電池外部的電阻$
-    - #### 理想電池的端電壓：$`V=\varepsilon`$
-
-
 # Electronic Circuit
-- ### Analog Electronics
-- ### Digital Electronics and Logic Design
+- ### [Analog Electronics](./electronic-circuit/analog-electronics/analog-electronics.md)
+- ### [Digital Electronics and Logic Design](./electronic-circuit/digital-electronics-and-logic-design/digital-electronics-and-logic-design.md)
 - ### Electronics
 - ### Signal and System
+
+# Electrochemistry
+- ### Electrochemistry
+
+# Electromagnetism
+- ### Electromagnetism

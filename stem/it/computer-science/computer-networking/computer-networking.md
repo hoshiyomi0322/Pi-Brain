@@ -7,31 +7,31 @@
   - ### download speed
 - ### Latency(ping值)
   - ### ping
-    <img src="./computer-networking-image/ping.png" width="60%">
+    <img src="./image/ping.png" width="60%">
 - ### Throughput
 - ### Quality of Service(QoS)
 ---
 - ### Node
-    <img src="./computer-networking-image/node.png" width="50%">
+    <img src="./image/node.png" width="50%">
 - ### Packet
   - #### Packet Switching
-    <img src="./computer-networking-image/packet-switching.png" width="60%">
+    <img src="./image/packet-switching.png" width="60%">
   - #### Acknowledgement(ACK)
     - Negative Acknowledgement(NAK)
   - #### Wireshark
 - ### Port
   - #### list of TCP/UDP Ports
-    <img src="./computer-networking-image/tcp-udp-list.png" width="50%">
+    <img src="./image/tcp-udp-list.png" width="50%">
 - ### Network Address Translation(NAT)
   - #### Port Forwarding
-    <img src="./computer-networking-image/port-forwarding.png" width="50%">
+    <img src="./image/port-forwarding.png" width="50%">
 
 # Communication Protocol
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
 
 # Internet Backbone→ISP
 <div align="center">
-    <img src="./computer-networking-image/internet-backbone-isp.png" width="70%">
+    <img src="./image/internet-backbone-isp.png" width="70%">
 </div>
 
 - ### Internet Backbone
@@ -41,73 +41,73 @@
 
 # Networking Hardware
 - ### Hub(集線器)
-    <img src="./computer-networking-image/hub.png" width="30%">
+    <img src="./image/hub.png" width="30%">
 - ### Switch(交換器)
-    <img src="./computer-networking-image/switch.png" width="30%">
+    <img src="./image/switch.png" width="30%">
 - ### Gateway(閘道器)
 - ### Modem(數據機)
   - #### phone modem
-    <img src="./computer-networking-image/phone-modem.png" width="30%">
+    <img src="./image/phone-modem.png" width="30%">
   - #### cable modem
-    <img src="./computer-networking-image/cable-modem.png" width="30%">
+    <img src="./image/cable-modem.png" width="30%">
   - #### DSL modem
-     <img src="./computer-networking-image/dsl-modem.png" width="30%">
+     <img src="./image/dsl-modem.png" width="30%">
 
      - Digital Subscriber Line(DSL)
 - ### Router(路由器)
-    <img src="./computer-networking-image/router.png" width="30%">
+    <img src="./image/router.png" width="30%">
 ---
 <div align="center">
-    <img src="./computer-networking-image/flow.png" width="50%">
+    <img src="./image/flow.png" width="50%">
 </div>
 
 # Network Topology
 - ### Point-to-point topology
-    <img src="./computer-networking-image/point-to-point.png" width="40%">
+    <img src="./image/point-to-point.png" width="40%">
 - ### Bus topology
-    <img src="./computer-networking-image/bus.png" width="40%">
+    <img src="./image/bus.png" width="40%">
 - ### Ring topology
-    <img src="./computer-networking-image/ring.png" width="30%">
+    <img src="./image/ring.png" width="30%">
 - ### Star topology
-    <img src="./computer-networking-image/star.png" width="40%">
+    <img src="./image/star.png" width="40%">
 - ### Tree topology
-    <img src="./computer-networking-image/tree.png" width="60%">
+    <img src="./image/tree.png" width="60%">
 - ### Mesh topology
-    <img src="./computer-networking-image/mesh.png" width="30%">
+    <img src="./image/mesh.png" width="30%">
 - ### Hybrid topology
   - #### combines two or more network topology types
 
 # Types of Computer Networks
 <div align="center">
-    <img src="./computer-networking-image/types-of-computer-networks.png" width="20%">
+    <img src="./image/types-of-computer-networks.png" width="20%">
 </div>
 
 - ### Nanonetwork
 - ### Personal Area Network(PAN)
-    <img src="./computer-networking-image/pan.png" width="30%">
+    <img src="./image/pan.png" width="30%">
 
   - #### Wireless PAN(WPAN)
     - Bluetooth
     - Li-Fi
 - ### Local Area Network(LAN)
-    <img src="./computer-networking-image/lan.png" width="40%">
+    <img src="./image/lan.png" width="40%">
 
   - ### Wireless LAN(WLAN)
     - ### Wi-Fi
     - ### Wireless USB
-        <img src="./computer-networking-image/wireless-usb.png" width="10%">
+        <img src="./image/wireless-usb.png" width="10%">
   - ### Virtual Local Area Network(VLAN)
 - ### Campus Area Network(CAN)
-    <img src="./computer-networking-image/can.png" width="40%">
+    <img src="./image/can.png" width="40%">
 - ### Metropolitan Area Network(MAN)
-    <img src="./computer-networking-image/man.png" width="40%">
+    <img src="./image/man.png" width="40%">
 - ### Wide Area Network(WAN)
-    <img src="./computer-networking-image/wan.png" width="40%">
+    <img src="./image/wan.png" width="40%">
 - ### Virtual Private Network(VPN)
 
 # Firewall
 - ### Network Firewall
-    <img src="./computer-networking-image/network-firewall.png" width="30%">
+    <img src="./image/network-firewall.png" width="30%">
 - ### Web Application Firewall(WAF)
 
 # Multiple Access
@@ -153,4 +153,4 @@
   - #### manage：IP address, DNS
 - ### Federal Communications Commission(FCC)
   - #### net neutrality
-    <img src="./computer-networking-image/net-neutrality.png" width="40%">
+    <img src="./image/net-neutrality.png" width="40%">
