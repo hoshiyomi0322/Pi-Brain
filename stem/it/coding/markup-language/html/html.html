@@ -1,0 +1,468 @@
+<!DOCTYPE html> <!-- 檔案類型說明，html代表html檔案 -->
+
+<!--
+    格式: <標籤 屬性名稱="屬性的值">
+-->
+
+<html>
+    
+    <!--語意標籤-->
+        <!-- 
+        <header> 頁首
+        <nav> 導覽列
+        <main> 主要內容
+        <section> 區塊，有主題性的區塊，基本上會有一個標題
+        <aside> 側邊欄
+        <footer> 頁尾
+        -->
+
+    <!-- head:網頁資訊 -->
+    <head>
+        
+        <!--
+        <title> 網頁名稱
+        <meta> 網頁 metadata
+        <style> CSS 樣式
+        <link> CSS 樣式表
+        <script> JavaScript 程式碼
+        <noscript> 網頁不支援 JavaScript 時的處理
+        <base> base URL
+        -->
+
+        <title>title</title>  <!-- title:網頁標題 -->
+
+        <!-- meta:設定網頁元資訊 -->
+        <meta charset="UTF-8" /> <!-- charset:編碼方式，UTF-8代表中文編碼 -->
+        <meta name="description" content="html"> <!-- description:網頁描述說明 -->
+        <meta name="author" content="UR MOM"> <!-- author:網頁的作者資訊 -->
+        <meta name="keywords" content="html,rickroll"> <!-- keywords:網頁關鍵字 --> 
+
+             <!-- viewport:手機行動版網頁的寬度和縮放比例 -->
+            <mata name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1">
+                <!-- 可用逗號分開多個值 -->
+                    <!--
+                    width=device-width: 指定瀏覽器頁面的寬度同裝置 (device) 的寬度
+                    initial-scale=1.0: 指定畫面初始縮放比例為 100%，即不放大也不縮小
+                    minimum-scale=1: 設定畫面最小的縮放比例為 1
+                    maximum-scale=1: 設定畫面最大的縮放比例為 1，都設為 1 的意思其實就是說不能縮放
+                    user-scalable: 用來設定是否允許使用者改變縮放比例
+                    user-scalable=no: 不允許縮放
+                    -->
+            
+            <!-- robots:禁止網頁被搜尋引擎索引收錄 -->
+            <meta name="robots" content="all">
+                <!--
+                    noindex: 不要在搜尋結果中顯示這個網頁
+                    nofollow: 不要追蹤這個網頁上的連結
+                    none: 相當於 noindex, nofollow
+                    noarchive: 不要在搜索結果中顯示快取連結
+                    nosnippet: 不要在搜尋結果中顯示這個網頁的文字摘要或影片預覽畫面
+                    notranslate: 不要在搜尋結果中提供這個網頁的翻譯
+                    noimageindex: 不為這個網頁上的圖片建立索引
+                    unavailable_after:[date/time]: 在指定的日期/時間後不在搜尋結果中顯示這個網頁
+                    all: 預設值，等同於 index, follow
+                -->
+
+            <!-- refresh:自動跳轉網頁 -->
+            <meta http-equiv="refresh" content="3600; url=https://youtu.be/dQw4w9WgXcQ">
+                <!--
+                    content:設定時間(單位:秒)
+                    url:設定自動跳轉的URL位址
+                -->
+
+    </head>
+
+    <!-- body:網頁內容 -->
+    <body>
+
+        <!--基本標籤-->
+        <h1>標題</h1> <!-- h1~h6:標題 ，由大到小為 h1 > h2 > h3 > h4 > h5 > h6 -->
+        <p>段落標籤</p> <!-- p:段落標籤 -->
+        <b>粗體</b><br> <!-- b:粗體 -->
+        <i>斜體</i><br> <!-- i:斜體 -->
+        <u>底線</u><br> <!-- u:底線 -->
+        <s>刪除線</s><br> <!-- s:刪除線 -->
+        <sup>上標字</sup><br> <!-- sup:上標字 -->
+        <sub>下標字</sub><br> <!-- sub:下標字 -->
+        <strong>強調</strong><br> <!-- strong:強調 -->
+        <em>內容著重強調</em><br> <!-- em:內容著重強調 -->
+        <del>被刪除的文字</del><br> <!-- del:被刪除的文字 -->
+        <mark>凸顯文字</mark><br> <!-- mark:凸顯文字 -->
+        <code>程式碼</code><br> <!-- code:程式碼 -->
+        <pre>預先格式化</pre> <!-- pre:預先格式化，顯示原始內容的格式(保留空白、換行、等寬字型) -->
+
+            <!--字元--> 
+            <!--
+                &lt;        <
+                &gt;        >
+                &amp;       &
+                &quot;      "
+                &apos;      '
+            	&cent;      ¢
+                &pound;     £
+                &yen;       ¥
+                &euro;      €
+                &copy;      ©
+                &reg;       ®
+            -->
+
+            <!--空白字元-->
+            a&thinsp;b <br> <!-- &thinsp; Thin Space -->
+            a&nbsp;b <br> <!-- &nbsp; Non-Breaking Space -->
+            a&ensp;b <br> <!-- &ensp; en space -->
+            a&emsp;b <br> <!-- &emsp; em space -->
+        
+        <br> <!-- br:換行 -->
+        <hr> <!-- hr:水平線 -->
+
+        <!-- a:超連結 -->
+        <a href="https://google.com">google</a><br> <!-- href:包含連結的URL位址 -->
+
+            <!-- target:指定在什麼地方打開連結 -->
+            <a target="_blank" href="https://google.com">google</a><br>
+                <!--
+                _self: 預設值，在當前視窗開啟
+                _blank: 在新視窗開啟
+                _parent: 在上一層父視窗開啟
+                _top: 在最頂層父視窗開啟
+                framename: 指定在哪個框架中開啟
+                -->
+            
+            <!-- rel:指定當前頁面和連結目標彼此之間的關係 -->
+            <a rel="nofollow noopener" href="https://google.com/">google</a><br>
+                <!-- 可用空白分開多個值 -->
+                    <!--
+                    nofollow: 禁止搜尋引擎將該連結與你的網頁關聯在一起，或禁止從你的網頁索引連結網頁
+                    noreferrer: 如果有使用者點擊該連結，不要送出 Referer: header 資訊給連結網站
+                    noopener: 如果用 target="_blank" 開啟另一個頁面時，不要給連結頁面設置 window.opener 權限
+                    prev: 指定彼此是上一個的關係    
+                    next: 指定彼此是下一個的關係
+                    -->
+
+            <!-- download:下載檔案 -->
+            <a href="html.png" download="html">下載檔案</a><br>
+
+            <!-- mailto:電子郵件超連結 -->
+            <a href="mailto:jason20060314@gmail.com">連絡信箱</a><br>
+
+            <!-- tel:電話號碼連結 -->
+            <a href="tel:0983011426">連絡電話</a><br>
+            
+        <!-- img:圖片 -->
+        <img src="rickroll.gif" title="html" alt="html" width="100" height="100"><br>
+            <!--
+            src: 指定圖片位址
+            tittle: 指定圖片名稱
+            alt: 指定當圖片下載失敗時的替代文字
+            width: 指定圖片顯示寬度(單位:像素)
+            height: 指定圖片顯示高度(單位:像素)
+            -->
+
+        <!-- video:影片 -->
+        <video src="rickroll.mp4" width="300" heizght="300" controls></video><br>
+            <!--
+            src: 指定影片位址
+            width: 指定影片顯示寬度(單位:像素)
+            height: 指定影片顯示高度(單位:像素)
+            controls: 指定是否顯示影音控制面板
+            -->
+            
+            <!-- poster: 指定預覽圖 -->
+            <video src="rickroll.mp4" poster="rickroll.jpg" width="300" heizght="300" controls></video><br>
+
+            <!-- loop:控制是否重複播放 -->
+            <video src="rickroll.mp4" width="300" heizght="300" controls loop></video><br>
+                
+            <!-- muted:控制是否靜音 -->
+            <video src="rickroll.mp4" width="300" heizght="300" controls muted></video><br>
+
+        <!-- audio:播放音訊 -->                
+        <audio src="rickroll.mp3" controls></audio><br>
+            <!--
+            src: 指定音訊位址
+            controls: 指定是否顯示音訊控制面板
+            -->
+
+            <!-- loop:控制是否重複播放 -->
+            <audio src="rickroll.mp3" controls loop></audio><br>
+            
+            <!-- muted:控制是否靜音 -->
+            <audio src="rickroll.mp3" controls muted></audio><br>
+
+
+        <!--列表-->
+
+            <!-- ul:無序列表 -->
+            <ul> 
+                <li>A</li> <!-- li:列表項目內容 -->
+                <li>B</li>
+                <li>C</li>
+            </ul>
+
+            <!--ol:有序列表-->
+            <ol type="I" style="color:rgb(185, 66, 10)"> <!-- type:列表項目的編號方式 -->
+                <li>a</li> <!-- li:列表項目內容 -->
+                <li>b</li>
+                <li>c</li>
+            </ol>
+
+            <!-- dl:定義列表 -->
+            <dl>
+                <dt>Definition Term</dt> <!-- dt:被定義的名詞 -->
+                <dd>Description Detail</dd> <!-- dd:名詞的定義 -->
+                <dt>Definition Term</dt>
+                <dd>Description Detail</dd>
+            </dl>
+
+        <!--表格-->
+        <table  style="border:3px #cccccc solid;" cellpadding="10" border='1'>
+            
+            <!-- thead:表格表頭區塊 -->
+            <thead>
+                <caption>表格標題</caption>  <!--表格標題-->
+                <tr> <!-- tr:橫列 -->
+                    <th>欄位標題</th> <!-- th:欄位標題 -->
+                    <td>欄位內容</td> <!-- td:欄位內容 -->
+                    <th>欄位標題</th>
+                </tr>
+            </thead>
+
+            <!-- tbody:表格主要內容區塊 -->
+            <tbody>
+                <tr>
+                    <td colspan="3">colspan(水平合併儲存格)</td> <!-- colspan:水平合併儲存格 -->
+                </tr>
+                <tr>
+                    <td>欄位內容</td>
+                    <td>欄位內容</td>
+                    <td rowspan="2">rowspan(垂直合併儲存格)</td> <!-- rowspan:垂直合併儲存格 -->
+                </tr>
+                <tr>
+                    <td>欄位內容</td>
+                    <td>欄位內容</td>
+                </tr>
+            </tbody>
+
+            <!-- tfoot:表格頁腳區塊 -->
+            <tfoot>
+                <tr>
+                    <th>欄位標題</th>
+                    <td>欄位內容</td>
+                </tr>
+            </tfoot>
+        </table>
+
+        <!-- select:下拉式選單 -->
+        <select>
+            <option>選項1</option> <!-- option:選單中的選項 -->
+            <option>選項2</option>
+        </select><br>
+
+            <!-- select標籤 -->
+            <select name="欄位名稱"></select><br> <!-- name:欄位名稱 -->
+            <select disabled></select><br> <!-- disabled:將欄位設定為禁用狀態 -->
+            <select required></select><br> <!-- required:設定為必填欄位 -->
+                
+                <!-- multiple:設定選項可被多選 -->
+                <select multiple>
+                    <option>多選1</option> <!--當有設定multiple時，size預設是4-->
+                    <option>多選2</option>
+                    <option>多選3</option>
+                    <option>多選4</option>
+                    <option>多選5</option>
+                </select><br>
+                    <!--多選的方法:-->
+                        <!--
+                        Windows:按住ctrl鍵，再點選選項
+                        Mac:按住 command 鍵，再點選選項
+                        -->
+
+                <!-- size:指定使用者一次可看到幾個選項，預設是1 -->
+                <select size="3">
+                    <option>A</option>
+                    <option>B</option>
+                    <option>C</option>
+                    <option>D</option>
+                    <option>E</option>
+                </select><br>
+
+            <!-- option標籤 -->
+            <select>
+                <option value="回傳值"></option> <!-- value:指定回傳值 -->
+                <option disabled>無法使用</option> <!-- disabled:將選項設定為禁用狀態 -->
+                <option selected>預設選項</option> <!-- selected:設定預先選取此選項 -->
+                <option label="選項說明"></option> <!-- label:說明選項的含義，有時會被瀏覽器顯示為選項內容 -->
+            </select><br>
+
+            <!-- optgroup:選項分區 -->
+            <select>
+                <optgroup label="Alphabet"> <!-- label:分區名稱 -->
+                    <option>A</option>
+                    <option>B</option>
+                    <option>C</option>
+                </optgroup>
+                <optgroup label="Number">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                </optgroup>
+            </select><br>
+
+        <!-- button:表單按鈕 -->
+        <button value="回傳值"></button><br> <!-- value:指定回傳值 -->
+        <button name="按鈕名稱"></button><br> <!-- name:按鈕名稱 -->
+        <button disabled>無法使用</button><br> <!-- disabled:將按鈕設定為禁用狀態 -->
+            <!-- type:建立不同類型的按鈕元件 -->
+            <button type="button">表單送出按紐</button><br> <!-- submit:表單送出按鈕 -->
+            <button type="reset">表單內容重置按鈕</button><br> <!-- reset:表單內容重置按鈕 -->
+            <button type="button">一般按鈕</button><br> <!-- button:沒任何特殊功能的一般按鈕，通常配合JavaScript使用 -->
+
+        <!--input標籤-->
+        <input value="初始值"><br> <!-- value:指定初始值或指定回傳值 -->
+        <input name="欄位名稱"><br> <!-- name:欄位名稱 -->
+        <input placeholder="提示訊息"><br> <!-- placeholder:輸入的提示訊息 -->
+        <input disabled value="無法使用"><br> <!-- disabled:將欄位設定為禁用狀態 -->
+        <input readonly value="無法編輯"><br> <!-- readonly:將欄位設定為唯獨不可編輯的狀態 -->
+        <input required placeholder="必填欄位"><br> <!-- required:設定為必填欄位 -->
+        <input maxlength="5" placeholder="最多輸入5個字"><br> <!-- maxlength:設定最多能輸入多少字 -->
+        <input minlength="5" placeholder="最少輸入5個字"><br> <!-- minlength:設定最少需要輸入多少字 -->
+        <input size="100"><br> <!-- size:設定欄位顯示寬度 -->
+        <input autocomplete="off"><br> <!-- autocomplete:是否啟用瀏覽器自動完成功能，預設示on -->
+        <input autofocus placeholder="自動聚焦"><br> <!-- autofocus:當頁面載入後，自動聚焦在此欄位上 -->
+
+            <!-- type:建立不同類型的表單元件 -->
+            <input type="text" placeholder="文字輸入欄位"><br> <!-- text:文字輸入欄位 -->
+            <input type="password" placeholder="密碼輸入欄位"><br> <!-- password:密碼輸入欄位 -->
+            <input type="search" placeholder="搜尋欄位"><br> <!-- search:搜尋欄位 -->
+            <input type="tel" placeholder="電話號碼輸入欄位"><br> <!-- tel:電話號碼輸入欄位 -->
+            <input type="url" placeholder="網址輸入欄位"><br> <!-- url:網址輸入欄位 -->
+            <input type="email" placeholder="電子郵件輸入欄位"><br> <!-- email:電子郵件輸入欄位 -->
+            
+                <!-- date:日期輸入欄位 -->
+                <input type="date" value="2006-03-14" max="2022-08-16" min="2000-05-20" step="5"><br>
+                    <!-- 日期格式: yyyy-mm-dd -->
+                        <!--
+                        value:預設日期
+                        max:可以輸入的最晚日期
+                        min:可以輸入的最早日期
+                        step:控制日期元件一次跳動的幅度(單位:天)
+                        -->
+                
+                <!-- time:時間輸入欄位 -->
+                <input type="time" value="05:20:11" max="08:16:17" min="03:14:15" step="5"><br>
+                    <!-- 時間格式: hh:mm:ss (24hr) -->
+                        <!--
+                        value:預設時間
+                        max:可以輸入的最晚時間
+                        min:可以輸入的最早時間
+                        step:控制時間元件一次跳動的幅度(單位:秒)
+                        -->
+                
+                <!-- number:數字輸入欄位 -->
+                <input type="number" value="69" max="1024" min="-1024" step="3.14"><br>
+                    <!--
+                    value:預設數字
+                    max:可以輸入的最大值
+                    min:可以輸入的最小值
+                    step:控制數字元件一次跳動的幅度
+                    step="any":可輸入任何數字
+                    -->
+
+                <!-- range:數字範圍滑動選取欄位 -->
+                <input type="range" value="314" max="1024" min="-1024" step="10"><br>
+                    <!--
+                    value:預設數字
+                    max:範圍中可選的最大值
+                    min:範圍中可選的最小值
+                    step:控制數字元件一次跳動的幅度
+                    -->
+                
+                <!-- color:顏色選擇器 -->
+                <input type="color" value="#ff6969"><br>
+                    <!-- 顏色格式: #rrggbb -->
+                        <!--
+                        value:預設顏色
+                        -->
+                
+                <!-- pattern:表單欄位驗證 -->
+                <input type="email" pattern=".+@gmil.com"><br>
+                    <!--
+                        格式: <input type="輸入欄位屬性" pattern="正規表達式">
+                            輸入欄位屬性: text, password, search, tel, url, email, date, time
+                    -->
+
+                <!--checkbox:核取方塊-->
+                <input type="checkbox" value="核取方塊">核取方塊<br> <!-- value:指定回傳值 -->
+                <input type="checkbox" checked>預設勾選<br> <!-- checked:預設勾選 -->
+
+                <!-- radio:選項按鈕 -->
+                <input type="radio" name="html" value="A">A<br> <!--value:指定回傳值-->
+                <input type="radio" name="html" value="B">B<br> <!--同一組選項，需要一樣的name-->
+                <input type="radio" name="html" value="C">C<br>
+
+                <!-- image:圖片送出按鈕 -->
+                <input type="image" src="login.png" alt="Login" width="100" height="30"><br>
+                    <!--
+                    src: 指定圖片位址
+                    alt: 指定當圖片下載失敗時的替代文字
+                    width: 指定圖片顯示寬度
+                    height: 指定圖片顯示高度
+                    -->
+
+                <!-- file:檔案上傳 -->
+                <input type="file" accept="image/*,.pdf"><br>
+                    <!-- accept:限制檔案上傳類型，可用逗點分開多種允許類型 -->
+                        <!-- 
+                        .檔案類型 : .jpg、 .pdf、 .doc
+                        明確指定 MIME type : image/jpeg, image/png
+                        audio/* :指任何聲音檔
+                        video/* :指任何影片檔
+                        image/* :指任何圖檔
+                        -->
+                
+                <input type="file" multiple><br>
+                    <!-- multiple:一次可同時選多個檔案上傳 -->
+                
+                <input type="file" accept="image/*" capture><br>
+                    <!-- capture:可用來開啟使用手機的照相機鏡頭 -->
+                        <!--
+                        accept="image/*" :拍照上傳
+                        accept="video/*" :拍影片上傳
+                        accept="audio/*" :用麥克風錄音上傳
+                        -->
+                <input type="file" accept="video/*" capture="user"><br>
+                        <!--
+                        capture="user" :指定要開啟前鏡頭
+                        capture="environment" :指定要開啟後鏡頭
+                        -->
+
+            <input type="button"><br> <!-- button:表單按鈕 -->
+            <input type="submit"><br> <!-- submit:表單的送出按鈕 -->
+            <input type="reset"><br> <!-- reset:重設表單狀態 -->
+            <input type="hidden" value="hidden"><br> <!-- hidden:隱藏資料欄位，value:指定回傳值 -->
+        
+        <!-- textarea:表單多行文字輸入欄位 -->
+        <textarea>初始值</textarea><br> <!-- 指定初始值 -->
+        <textarea name="html"></textarea><br> <!-- name:欄位名稱 -->
+        <textarea placeholder="提示訊息"></textarea><br> <!-- placeholder:輸入的提示訊息 -->
+        <textarea disabled>無法使用</textarea><br> <!-- disabled:將欄位設定為禁用狀態 -->
+        <textarea readonly>無法編輯</textarea><br> <!-- readonly:將欄位設定為唯讀不可編輯的狀態 -->
+        <textarea required placeholder="必填欄位"></textarea><br> <!-- required:設定為必填欄位 -->
+        <textarea maxlength="10" placeholder="最多輸入10個字"></textarea><br> <!-- maxlength:設定最多能輸入多少字 -->
+        <textarea minlength="10" placeholder="最少輸入10個字"></textarea><br> <!-- minlength:設定最少需要輸入多少字 -->
+        <textarea rows="10"></textarea><br> <!-- rows:設定輸入欄位的高度是幾行文字，預設是 2 -->
+        <textarea cols="100"></textarea><br> <!-- cols:設定輸入欄位的寬度是多少文字，預設是 20 --> 
+        
+        <!-- span:行內容器 -->
+        <span style="color:red">you</span>
+        <p>Never gonna give 
+            <span style="color:red">you</span> up
+        </p><br>
+
+        <!-- div:區塊容器元素 -->
+        <div style="color:blue">
+            <p>Never gonna let you down</p>
+        </div><br>
+
+    </body>
+</html>

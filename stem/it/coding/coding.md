@@ -6,7 +6,7 @@
 
 # Markup Language
 - ### [Markdown](./markup-language/markdown/markdown.md)
-- ### HTML
+- ### [HTML](./markup-language/html/html.md)
 - ### [LaTex](./markup-language/latex.md)
 
 # C
