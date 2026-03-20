@@ -35,6 +35,9 @@
 # Alternating Series
 - ### Alternating Series ($a_n>0$)：$`\sum\limits_{n=1}^{\infty}{(-1)^{n+1}a_n}`$
 
+# Convergence Tests
+- ### [Convergence Tests](./algebra/calculus/limit/convergence-tests.md)
+
 # Total Amount
 - ### Total Amount($A$)
     - $P=\text{principal}$
@@ -43,6 +46,3 @@
 - ### Simple Interest：$`A=P(1+rt)`$
 - ### Compound Interest：$`A=P(1+\frac{r}{n})^{nt}`$
     - $n=\text{Number of compounding periods per year}$
-
-# Convergence Tests
-- ### [Convergence Tests](./algebra/calculus/limit/convergence-tests.md)
