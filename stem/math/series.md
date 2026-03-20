@@ -19,10 +19,6 @@
 
 # Power Series
 - ### Power Series：$`f(x)=\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}=a_0+a_1(x-c)^1+a_2(x-c)^2+\cdots`$
-- ### Ratio test：$`\lim\limits_{n\rightarrow\infty}{|\frac{a_{n+1}(x-c)^{n+1}}{a_n(x-c)^n}|}`$
-    - #### Radius of Convergence：$`R`$
-    - #### Interval of Convergence：$`(c-R,~c+R)`$
-        - $`|x-c|<R`$
 - ### Taylor Series：$`f(x)=\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(c)}{n!}(x-c)^n}=f(c)+\frac{f^\prime(c)}{1!}(x-c)+\frac{f^{\prime\prime}(c)}{2!}(x-c)^2+\cdots`$
     - $`a_n=\frac{f^{(n)}(c)}{n!}`$
 - ### Maclaurin Series ($c=0$)：$`f(x)=\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(0)}{n!}(x-0)^n}=f(0)+\frac{f^\prime(0)}{1!}x+\frac{f^{\prime\prime}(0)}{2!}x^2+\cdots`$
@@ -48,3 +44,5 @@
 - ### Compound Interest：$`A=P(1+\frac{r}{n})^{nt}`$
     - $n=\text{Number of compounding periods per year}$
 
+# Convergence Tests
+- ### [Convergence Tests](./algebra/calculus/limit/convergence-tests.md)
