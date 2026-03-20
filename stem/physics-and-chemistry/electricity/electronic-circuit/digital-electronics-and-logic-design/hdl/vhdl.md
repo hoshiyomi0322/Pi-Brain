@@ -151,7 +151,7 @@
      ```
 - ### case
     ```vhdl
-    case sig_1 is
+    case control_sig is
         when choice_1 =>
             statement_1;
         when choice_1|choice_2 =>
@@ -159,6 +159,13 @@
         when others =>
             statement_3;
     end case;
+    ```
+- ### with
+    ```vhdl
+    with control_sig select
+        sig_1 <= value_a when value_1, -- sig_1<=value, when control_sig=value_1
+        value_b when value_2,
+        value_c when others;
     ```
 - ### loop
     ```vhdl
