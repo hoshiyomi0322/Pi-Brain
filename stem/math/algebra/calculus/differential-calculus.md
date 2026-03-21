@@ -45,8 +45,8 @@
         - $`(f(f^{-1}(x)))^\prime=x^\prime=1`$
 - ### eg：$`(\arcsin{x})^\prime`$
     - ### $`(\arcsin{x})^\prime=\frac{1}{\sin^\prime{(\arcsin{x})}}=\frac{1}{\cos{(\arcsin{x})}}=\frac{1}{\cos{y}}=\frac{1}{\sqrt{1-\sin^2{y}}}=\frac{1}{\sqrt{1-x^2}}`$
-      - #### $`\arcsin{x}=y,~\sin{y}=x`$
-      - #### Pythagorean Identities：$`\sin^2{y}+\cos^2{y}=1`$
+      - $`\arcsin{x}=y,~\sin{y}=x`$
+      - Pythagorean Identities：$`\sin^2{y}+\cos^2{y}=1`$
 
 
 # Logarithmic Differentiation
