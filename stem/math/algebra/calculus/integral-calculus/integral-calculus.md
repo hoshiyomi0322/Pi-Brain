@@ -1,5 +1,5 @@
 # Properties of Integrals
-- ### Indefinite Integral：$`\int{f(x)\,dx}=F(x)`$
+- ### Indefinite Integral：$`\int{f(x)\,dx}=F(x)+C`$
     - $`F^\prime(x)=f(x)`$
 - ### Definite Integral：$`\int_{a}^{b}{f(x)\,dx}=F(b)-F(a)=\lim\limits_{n\to\infty}{\sum\limits_{i=1}^{n}f(t_i)(x_i-x_{i-1})}`$
     - ### $`\int_{a}^{b}{f\,dx}=\int_{a}^{c}{f\,dx}+\int_{c}^{b}{f\,dx}`$
