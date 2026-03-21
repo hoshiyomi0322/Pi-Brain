@@ -1,10 +1,10 @@
 # Calculus
 - ### Fundamental Theorem of Calculus
-- ### Limit
+- ### [Limit](./calculus/limit/limit.md)
 - ### Differential Calculus
-- ### Integral Calculus
-- ### Calculus(Parametric Equations and Polar Coordinates)
-- ### Calculus(Trigonometric Functions and Hyperbolic Functions)
+- ### [Integral Calculus](./calculus/integral-calculus/integral-calculus.md)
+- ### Calculus of Parametric Equations and Polar Coordinates
+- ### [Calculus of Trigonometric Functions and Hyperbolic Functions](./calculus/calculus-trigonometric-functions-and-hyperbolic-functions/calculus-trigonometric-functions-and-hyperbolic-functions.md)
 - ### Geometric Calculus
 - ### Multivariable Calculus
 - ### Differential Equation

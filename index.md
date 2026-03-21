@@ -11,19 +11,19 @@
     - #### Number and Operator
     - #### [Algebra](./stem/math/algebra/algebra.md)
     - #### Discrete Mathematics
-    - #### [Probability Theory & Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
-    - #### Trigonometric Functions & Hyperbolic Functions
+    - #### [Probability Theory and Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
+    - #### Trigonometric Functions and Hyperbolic Functions
     - #### Geometry
     - #### [Series](./stem/math/series.md)
     - #### Number and Operator
-- ### Physics & Chemistry
-    - #### Elements&Compounds
+- ### Physics and Chemistry
+    - #### Elements and Compounds
     - #### Particle
     - #### Mechanics
     - #### Thermodynamics
     - #### [Electricity](./stem/physics-and-chemistry/electricity/electricity.md)
     - #### Chemistry
-    - #### Others(Physics&Chemistry)
+    - #### Others (Physics and Chemistry)
 - ### Biology
     - #### Medicine
     - #### Cell Biology
@@ -31,30 +31,30 @@
     - #### Botany
     - #### Virology
     - #### Taxonomy
-    - #### Others(Biology)
+    - #### Others (Biology)
 - ### Geoscience
     - #### Astronomy
     - #### Geology
-    - #### Meteorology & Oceanography
+    - #### Meteorology and Oceanography
     - #### Environmental Science
 - ### Units
 
 # Language
 - ### Chinese
     - #### Chinese
-    - #### Literature(Chinese)
+    - #### Literature (Chinese)
 - ### English
     - #### English
-    - #### Categories(EN)
-    - #### Others(EN)
+    - #### Categories (EN)
+    - #### Others (EN)
 - ### Japanese
     - #### Japanese
-    - #### Categories(JP)
-    - #### 動詞(JP)
-    - #### 形容詞(JP)
-    - #### Others(JP)
-    - #### Literature(JP)
-    - #### EJU(JP)
+    - #### Categorie (JP)
+    - #### 動詞 (JP)
+    - #### 形容詞 (JP)
+    - #### Others (JP)
+    - #### Literature (JP)
+    - #### EJU (JP)
 
 # Others
 - ### Commerce
@@ -64,11 +64,11 @@
     - #### Chart Patterns
 - ### Geography
     - #### Geography of Japan
-    - #### Others(Geography)
+    - #### Others (Geography)
 - ### History
     - #### History of Japan
     - #### History of China
-    - #### Others(History)
+    - #### Others (History)
 - ### Media
     - #### アニメ
     - #### ドラマ・映画
