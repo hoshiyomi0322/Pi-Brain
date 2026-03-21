@@ -7,5 +7,9 @@
     - ### $`\lim\limits_{x\to a}{f(x)^n}=(\lim\limits_{x\to a}{f(x)})^n`$
 
 
+# L'Hopital's rule
+- ### Indeterminate form：$`\frac{0}{0},~\frac{\infty}{\infty},~(0\times\infty),~(\infty-\infty),~1^\infty,~0^0,~\infty^0`$
+
+
 # Convergence Tests
 - ### [Convergence Tests](convergence-tests.md)
