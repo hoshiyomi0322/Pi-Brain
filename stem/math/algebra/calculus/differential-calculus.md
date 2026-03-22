@@ -16,8 +16,8 @@
 
 # Derivatives
 - ### First Derivative：$`f^\prime(x)=\frac{d}{dx}f(x)=\frac{df(x)}{dx}=\frac{df}{dx}`$
-- ### Second Derivative：$`f^{\prime\prime}(x)=\frac{d}{dx}(\frac{d}{dx}f(x))=\frac{d^2}{{dx}^2}f(x)=\frac{d^2f(x)}{{dx}^2}`$
-- ### n-th Derivative：$`f^n(x)=\frac{d^n}{{dx}^n}f(x)=\frac{d^nf(x)}{{dx}^n}=\frac{d^nf}{{dx}^n}`$
+- ### Second Derivative：$`f^{\prime\prime}(x)=\frac{d}{dx}(\frac{d}{dx}f(x))=\frac{d^2}{dx^2}f(x)=\frac{d^2f(x)}{dx^2}`$
+- ### n-th Derivative：$`f^n(x)=\frac{d^n}{dx^n}f(x)=\frac{d^nf(x)}{dx^n}=\frac{d^nf}{dx^n}`$
 
 # Curve Sketching
 - ### Slope of the Tangent Line
