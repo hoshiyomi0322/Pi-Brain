@@ -51,7 +51,7 @@
 
 # Logarithmic Differentiation
 - ### $`f^\prime(x)=f(x)\times(\ln{f(x)})^\prime`$
-    - ### $`(\ln{f(x)})^\prime=\frac{{f(x)}^\prime}{f(x)}`$
+    - ### $`(\ln{f(x)})^\prime=\frac{f^\prime(x)}{f(x)}`$
 - ### eg：$`f(x)=\frac{x^2(x-2)^3}{(x-1)(x+3)^2}`$
     - ### $`\ln{f(x)}=2\ln{x}+3\ln{(x-2)}-\ln{(x-1)}-2\ln{(x+3)}`$
         - ### $`(\ln{f(x)})^\prime=\frac{2}{x}+\frac{3}{x-2}-\frac{1}{x-1}-\frac{2}{x+3}`$
