@@ -11,7 +11,7 @@
 # Lists of Integrals
 - ### $`\int{x^n\,dx}=\frac{1}{n+1}x^{n+1}+C,~n\neq-1`$
 - ### $`\int{\frac{1}{x}\,dx}=\ln{|x|}+C`$
-    - ### $`\int{\frac{{f^\prime(x)}}{f(x)}\,dx}=\ln{|f(x)|}+C`$
+    - ### $`\int{\frac{f^\prime(x)}{f(x)}\,dx}=\ln{|f(x)|}+C`$
 - ### Integrals of Exponential functions and Logarithmic functions
     - ### $`\int{e^x\,dx}=e^x+C`$
     - ### $`\int{\ln{x}\,dx}=x\ln{x}-x+C`$

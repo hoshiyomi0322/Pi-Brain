@@ -10,12 +10,12 @@
 - ### $`\lim\limits_{x\to c}{(\frac{1}{f(x)}-\frac{1}{g(x)})} = \lim\limits_{x\to c}{(\infty-\infty)}`$
     - ### $`\lim\limits_{x\to c}{(\infty-\infty)}=\lim\limits_{x\to c}{(\frac{1}{0}-\frac{1}{0})}=\lim\limits_{x\to c}{(\frac{0-0}{0\times0})}`$
     - ### $`\lim\limits_{x\to c}{(\frac{1}{f(x)}-\frac{1}{g(x)})} = \lim\limits_{x\to c}{\frac{g(x)-f(x)}{f(x)g(x)}}=\lim\limits_{x\to c}{\frac{(g(x)-f(x))^\prime}{(f(x)g(x))^\prime}}`$
-- ### Exponential Indeterminate Forms：$`\lim\limits_{x\to c}{{f(x)}^{g(x)}} = \lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}`$
+- ### Exponential Indeterminate Forms：$`\lim\limits_{x\to c}{f(x)^{g(x)}} = \lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}`$
     - ### $`\lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}\to\lim\limits_{x\to c}{(0\times\infty)}`$
         - ### $`\lim\limits_{x\to c}{\infty^0} = \lim\limits_{x\to c}{\exp{(\ln{\infty^{0}})}} = \lim\limits_{x\to c}{\exp{(0\ln{\infty})}} = \exp{(\lim\limits_{x\to c}{(0\ln{\infty})})} = \exp{(\lim\limits_{x\to c}{(0\times\infty)})}`$
         - ### $`\lim\limits_{x\to c}{0^0} = \lim\limits_{x\to c}{\exp{(\ln{0^{0}})}} = \lim\limits_{x\to c}{\exp{(0\ln{0})}} = \exp{(\lim\limits_{x\to c}{(0\ln{0})})} = \exp{(\lim\limits_{x\to c}{(0\times(-\infty))})}`$
         - ### $`\lim\limits_{x\to c}{1^\infty} = \lim\limits_{x\to c}{\exp{(\ln{1^{\infty}})}} = \lim\limits_{x\to c}{\exp{(\infty\ln{1})}} = \exp{(\lim\limits_{x\to c}{(\infty\ln{1})})} = \exp{(\lim\limits_{x\to c}{(\infty\times0)})}`$
-    - ### $`\lim\limits_{x\to c}{{f}^{g}} = \lim\limits_{x\to c}{\exp{(\ln{f^{g}})}} = \lim\limits_{x\to c}{\exp{(g\ln{f})}} = \exp{(\lim\limits_{x\to c}{(g\ln{f})})} = \exp{(\lim\limits_{x\to c}{\frac{\ln{f}}{1/g}})} = \exp{(\lim\limits_{x\to c}{\frac{(\ln{f})^\prime}{(1/g)^\prime}})} = \exp{(\lim\limits_{x\to c}{\frac{g^\prime}{f}})}`$
+    - ### $`\lim\limits_{x\to c}{f^g} = \lim\limits_{x\to c}{\exp{(\ln{f^{g}})}} = \lim\limits_{x\to c}{\exp{(g\ln{f})}} = \exp{(\lim\limits_{x\to c}{(g\ln{f})})} = \exp{(\lim\limits_{x\to c}{\frac{\ln{f}}{1/g}})} = \exp{(\lim\limits_{x\to c}{\frac{(\ln{f})^\prime}{(1/g)^\prime}})} = \exp{(\lim\limits_{x\to c}{\frac{g^\prime}{f}})}`$
 
 ## eg
 - ### eg($`0\times\infty`$)：$`\lim\limits_{x\to 0^+}{x\ln{x}}=\lim\limits_{x\to 0^+}{\frac{\ln{x}}{1/x}}=\lim\limits_{x\to 0^+}{\frac{(\ln{x})^\prime}{(1/x)^\prime}}=0`$
