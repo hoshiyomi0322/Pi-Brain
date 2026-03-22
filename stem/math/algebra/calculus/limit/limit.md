@@ -7,8 +7,14 @@
     - ### $`\lim\limits_{x\to a}{f(x)^n}=(\lim\limits_{x\to a}{f(x)})^n`$
 
 
-# L'Hopital's rule
-- ### Indeterminate form：$`\frac{0}{0},~\frac{\infty}{\infty},~(0\times\infty),~(\infty-\infty),~1^\infty,~0^0,~\infty^0`$
+# Squeeze Theorem(Sandwich Theorem)
+
+
+# L'Hopital's Rule
+- ### [L'Hopital's Rule](lhopitals-rule.md)
+
+# Asymptote
+- ### [Asymptote](asymptote.md)
 
 
 # Convergence Tests
