@@ -32,11 +32,26 @@
     ```latex
     %comment
     ```
-- ### Text
+- ### Text：`\text{}`
     |Output|LaTex|
     |:---:|:---:|
     |$\text{text}$|`\text{text}`|
     |$\text{a b}$|`\text{a b}`|
+
+# Brackets
+|Output|LaTex|
+|:---:|:---:|
+|$`(a+b)`$|`(a+b)`|
+|$`[a+b]`$|`[a+b]`|
+|$`\{a+b\}`$|`\{a+b\}`|
+|$`\langle{a+b}\rangle`$|`\langle{a+b}\rangle`|
+|$`\|a+b\|`$|`\|a+b\|`|
+|$`\\|a+b\\|`$|`\\|a+b\\|`|
+- ### Case：`\begin{case}`+`{text}&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&{text}`+`\end{case}`
+    $`\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
+    ```latex
+    $`\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
+    ```
 
 # Text Formatting
 |Format|Output|LaTex|
@@ -83,21 +98,6 @@
     |$`abc\\ edf`$|`abc\\ edf`|
     |$`abc\\[5mm] edf`$|`abc\\[5mm] edf`|
     |$`abc\\[0.2cm] edf`$|`abc\\[0.2cm] edf`|
-
-# Brackets
-|Output|LaTex|
-|:---:|:---:|
-|$`(a+b)`$|`(a+b)`|
-|$`[a+b]`$|`[a+b]`|
-|$`\{a+b\}`$|`\{a+b\}`|
-|$`\langle{a+b}\rangle`$|`\langle{a+b}\rangle`|
-|$`\|a+b\|`$|`\|a+b\|`|
-|$`\\|a+b\\|`$|`\\|a+b\\|`|
-- ### Case：`\begin{case}`+`{text}&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&{text}`+`\end{case}`
-    $`\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
-    ```latex
-    $`\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
-    ```
 
 # Overset and Underset
 |Format|Output|LaTex|
