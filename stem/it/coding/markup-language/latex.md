@@ -4,15 +4,25 @@
     \begin{}
     \end{}
     ```
-- ### Aligned &
+- ### Aligned：&
     $`\begin{aligned}
-    abc&\\ &edf
+    ab&c\\ &edf
     \end{aligned}`$
     ```latex
     \begin{aligned}
-    abc&\\ edf
+    ab&c\\ &edf
     \end{aligned}
     ```
+- ### Matrix：`\begin{matrix}`+`{text}&···&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&···&{text}`+`\end{matrix}`
+    |Matrix|Output|LaTex|
+    |:---:|:---:|:---:|
+    |Matrix|$`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`$|`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`|
+    |parentheses Matrix|$`\begin{pmatrix} {1}&{2} \\ {3}&{4} \end{pmatrix}`$|`\begin{pmatrix} {1}&{2} \\ {3}&{4} \end{pmatrix}`|
+    |brackets Matrix|$`\begin{bmatrix} {1}&{2} \\ {3}&{4} \end{bmatrix}`$|`\begin{bmatrix} {1}&{2} \\ {3}&{4} \end{bmatrix}`|
+    |braces Matrix|$`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`$|`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`|
+    |vertical bars Matrix|$`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`$|`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`|
+    |double Vertical bars Matrix|$`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`$|`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`|
+
 - ### Displaystyle
     $`\displaystyle{text}`$
     ```latex
@@ -74,6 +84,21 @@
     |$`abc\\[5mm] edf`$|`abc\\[5mm] edf`|
     |$`abc\\[0.2cm] edf`$|`abc\\[0.2cm] edf`|
 
+# Brackets
+|Output|LaTex|
+|:---:|:---:|
+|$`(a+b)`$|`(a+b)`|
+|$`[a+b]`$|`[a+b]`|
+|$`\{a+b\}`$|`\{a+b\}`|
+|$`\langle{a+b}\rangle`$|`\langle{a+b}\rangle`|
+|$`\|a+b\|`$|`\|a+b\|`|
+|$`\\|a+b\\|`$|`\\|a+b\\|`|
+- ### Case：`\begin{case}`+`{text}&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&{text}`+`\end{case}`
+    $`\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
+    ```latex
+    $`\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
+    ```
+
 # Overset and Underset
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
@@ -127,7 +152,7 @@
     |Exist|$`\exist`$|`\exist`|
 
 # Arrow
-- ### Basic Arrow：`\direction + arrow`
+- ### Basic Arrow：`\direction`+`arrow`
     - #### Left/Right Arrow
         |Direction|Symbol|LaTex|
         |:---:|:---:|:---:|
@@ -160,7 +185,7 @@
     |$\Longleftarrow$|`\Longleftarrow`、`\impliedby`|
     |$\Longleftrightarrow$|`\Leftrightarrow`、`\iff`|
 
-- ### Diagonal Arrow：`\intercardinal directions + arrow`
+- ### Diagonal Arrow：`\intercardinal directions`+`arrow`
     |intercardinal directions|Symbol|LaTex|
     |:---:|:---:|:---:|
     |Northeast (NE)|$\nearrow$|`\nearrow`|
