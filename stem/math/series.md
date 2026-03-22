@@ -24,7 +24,7 @@
 - ### Maclaurin Series ($c=0$)：$`f(x)=\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(0)}{n!}(x-0)^n}=f(0)+\frac{f^\prime(0)}{1!}x+\frac{f^{\prime\prime}(0)}{2!}x^2+\cdots`$
 
 - ### List of Maclaurin Series
-    - $`\frac{1}{1-x}=\sum\limits_{n=0}^\infty{x^n}`$
+    - $`\frac{1}{1-x}=\sum\limits_{n=0}^\infty{x^n}=1+x+x^2+\cdots`$
     - $`e^x=\sum\limits_{n=0}^{\infty}\frac{x^n}{n!}=1+\frac{x}{1!}+\frac{x^2}{2!}+\cdots`$
     - $`\sin{x}=\sum\limits_{n=0}^{\infty}{(-1)^n\frac{x^{2n+1}}{(2n+1)!}}=\frac{x}{1!}-\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
 	- $`\cos{x}=\sum\limits_{n=0}^{\infty}{(-1)^n\frac{x^{2n}}{(2n)!}}=1-\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots`$
