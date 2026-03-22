@@ -31,7 +31,6 @@
 	- $`\sinh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n+1}}{(2n+1)!}=\frac{x}{1!}+\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
 	- $`\cosh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n}}{(2n)!}=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots`$
 
-
 # Other Series
 - ### Alternating Series：$`\sum\limits_{n=1}^{\infty}{(-1)^{n+1}a_n},~a_n>0`$
 - ### Telescoping Series：$`\sum\limits_{i=1}^{n}{(a_i-a_{i+1})}=(a_1-a_2)+(a_2-a_3)+\cdots+(a_n-a_{n+1})=a_1-a_{n+1}`$
