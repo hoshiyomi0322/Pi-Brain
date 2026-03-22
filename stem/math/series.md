@@ -24,11 +24,13 @@
 - ### Maclaurin Series ($c=0$)：$`f(x)=\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(0)}{n!}(x-0)^n}=f(0)+\frac{f^\prime(0)}{1!}x+\frac{f^{\prime\prime}(0)}{2!}x^2+\cdots`$
 
 - ### List of Maclaurin Series
-    - $`\frac{1}{1-x}=\sum\limits_{n=0}^\infty{x^n}=1+x+x^2+\cdots`$
-    - $`e^x=\sum\limits_{n=0}^{\infty}\frac{x^n}{n!}=1+\frac{x}{1!}+\frac{x^2}{2!}+\cdots`$
-    - $`\sin{x}=\sum\limits_{n=0}^{\infty}{(-1)^n\frac{x^{2n+1}}{(2n+1)!}}=\frac{x}{1!}-\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
+    - $`\frac{1}{1-x}=\sum\limits_{n=0}^\infty{x^n}=1+x+x^2+x^3+\cdots`$
+    - $`e^x=\sum\limits_{n=0}^{\infty}\frac{x^n}{n!}=1+x+\frac{x^2}{2!}+\frac{x^2}{3!}+\cdots`$
+    - $`\ln{(1-x)}=\sum\limits_{n=1}^{\infty}{-\frac{x^n}{n!}}=-x-\frac{x^2}{2!}-\frac{x^2}{3!}-\cdots`$
+    - $`\ln{(1+x)}=\sum\limits_{n=1}^{\infty}{(-1)^{n+1}\frac{x^n}{n!}}=x-\frac{x^2}{2!}+\frac{x^2}{3!}\cdots`$
+    - $`\sin{x}=\sum\limits_{n=0}^{\infty}{(-1)^n\frac{x^{2n+1}}{(2n+1)!}}=x-\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
 	- $`\cos{x}=\sum\limits_{n=0}^{\infty}{(-1)^n\frac{x^{2n}}{(2n)!}}=1-\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots`$
-	- $`\sinh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n+1}}{(2n+1)!}=\frac{x}{1!}+\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
+	- $`\sinh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n+1}}{(2n+1)!}=x+\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots`$
 	- $`\cosh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n}}{(2n)!}=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots`$
 
 # Other Series
