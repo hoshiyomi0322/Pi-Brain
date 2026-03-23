@@ -24,6 +24,7 @@
 - ### Maclaurin Series ($c=0$)：$`f(x)=\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(0)}{n!}(x-0)^n} = f(0)+\frac{f^\prime(0)}{1!}x+\frac{f^{\prime\prime}(0)}{2!}x^2+\cdots`$
 - ### Taylor's Theorem
     - ### Remainder：$`R_n(x)=f(x)-\sum\limits_{n=0}^{\infty}{\frac{f^{(n)}(c)}{n!}(x-c)^n}`$
+        - $`α=\text{a number between x and c}`$
     - ### Lagrange Form：$`R_n(x)=\frac{f^{n+1}(α)}{(n+1)!}(x-c)^{n+1}`$
         - Lagrange Error Bound
     - ### Cauchy Form：$`R_n(x)=\frac{f^{n+1}(α)}{n!}(x-α)^n(x-c)`$
