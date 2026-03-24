@@ -38,8 +38,9 @@
         |Probability Distribution|Probability|
         |:---:|:---:|
         |Bernoulli Distribution|Success in a Bernoulli Trial|
-        |Binomial Distribution|Successes in $n$ independent Bernoulli Trials
-        |Geometric Distribution|the first success in an infinite sequence of independent Bernoulli Trials
+        |Binomial Distribution|Successes in $n$ independent Bernoulli Trials|
+        |Geometric Distribution|the first success in an infinite sequence of independent Bernoulli Trials|
+        |Negative Binomial Distribution|
     
 - ### Poisson Process
     - Poisson Distribution
