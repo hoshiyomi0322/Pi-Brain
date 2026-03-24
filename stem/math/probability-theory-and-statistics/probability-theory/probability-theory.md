@@ -66,5 +66,8 @@
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
 - ### Moment-Generating Function(MGF)：$`M_X(t)=E(e^{tX})`$
-    - $`μ_n=E(X^n)=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}`$
+    |Continuous|Discrete|
+    |:---:|:---:|
+    |$`M_X(t)=\int_{-\infty}^\infty{e^{tx}f_d(x)\,dx}`$|$`M_X(t)=\sum\limits_{x}{e^{tx}f_m(x)}`$|
+    - #### nth Raw Moment：$`μ_n=E(X^n)=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}`$
 
