@@ -132,6 +132,7 @@
 |infinity|$\infty$|`\infty`|
 |circle|$`\circ`$、$`180^{\circ}`$|`\circ`、`180^{\circ}`|
 |Prime|$`\prime`$、$`x^{\prime}`$、$`x^{\prime\prime}`$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
+|Partial Derivative|$`\partial`$|`\partial`|
 |Angle|$\angle$|`\angle`|
 |Triangle|$\triangle$|`\triangle`|
 |Square|$\square$|`\square`|
