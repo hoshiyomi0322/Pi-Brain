@@ -29,13 +29,13 @@
     |:---:|:---:|
     |$`a=-\infty`$|$`\lim\limits_{t\to-\infty}{\int_{t}^{b}{f(x)\,dx}}`$|
     |$`b=\infty`$|$`\lim\limits_{s\to\infty}{\int_{a}^{s}{f(x)\,dx}}`$|
-    |$`a=-\infty,~b=\infty`$|$`\lim\limits_{t\to-\infty}{\int_{t}^{b}{f(x)\,dx}}+\lim\limits_{s\to\infty}{\int_{a}^{s}{f(x)\,dx}}`$|
+    |$`a=-\infty,~b=\infty`$|$`\lim\limits_{t\to-\infty}{\int_{t}^{c}{f(x)\,dx}}+\lim\limits_{s\to\infty}{\int_{c}^{s}{f(x)\,dx}}`$|
 - ### $`f(x)`$ is Discontinuous on $`[a,b]`$
     |Point of Discontinuity|Limit of Integral|
     |:---:|:---:|
     |$`a=\text{Point of Discontinuity}`$|$`\lim\limits_{t\to a^+}{\int_{t}^{b}{f(x)\,dx}}`$|
     |$`b=\text{Point of Discontinuity}`$|$`\lim\limits_{s\to b^-}{\int_{a}^{s}{f(x)\,dx}}`$|
-    |$`a=\text{Point of Discontinuity},~b=\text{Point of Discontinuity}`$|$`\lim\limits_{t\to a^+}{\int_{t}^{b}{f(x)\,dx}}+\lim\limits_{s\to b^-}{\int_{a}^{s}{f(x)\,dx}}`$|
+    |$`a=\text{Point of Discontinuity},~b=\text{Point of Discontinuity}`$|$`\lim\limits_{t\to a^+}{\int_{t}^{c}{f(x)\,dx}}+\lim\limits_{s\to b^-}{\int_{c}^{s}{f(x)\,dx}}`$|
     |$`c=\text{Point of Discontinuity}`$|$`\lim\limits_{t\to c^-}{\int_{a}^{t}{f(x)\,dx}}+\lim\limits_{s\to c^+}{\int_{s}^{b}{f(x)\,dx}}`$|
 - ### [Convergence Tests](../limit/convergence-tests.md)
 
