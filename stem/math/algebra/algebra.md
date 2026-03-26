@@ -6,7 +6,7 @@
 - ### Calculus of Parametric Equations and Polar Coordinates
 - ### [Calculus of Trigonometric Functions and Hyperbolic Functions](./calculus/calculus-trigonometric-functions-and-hyperbolic-functions/calculus-of-trigonometric-functions-and-hyperbolic-functions.md)
 - ### Geometric Calculus
-- ### Multivariable Calculus
+- ### [Multivariable Calculus](./calculus/multivariable-calculus/multivariable-calculus.md)
 - ### Differential Equation
 
 # Linear Algebra
