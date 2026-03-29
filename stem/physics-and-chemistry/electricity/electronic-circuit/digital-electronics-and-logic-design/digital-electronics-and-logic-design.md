@@ -29,7 +29,10 @@
 
 # Digital Electronics
 - ### Combinational Logic
-- ### Sequential Logic
+    - #### Adder and Subtractor
+- ### [Sequential Logic](./digital-electronics/sequential-logic/sequential-logic.md)
+    - #### Memory Element
+    - #### Finite State Machine(FSM)
 
 # Hazard
 - ### Static Hazard
