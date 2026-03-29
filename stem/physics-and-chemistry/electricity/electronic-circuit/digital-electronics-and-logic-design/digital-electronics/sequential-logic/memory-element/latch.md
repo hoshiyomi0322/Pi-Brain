@@ -11,13 +11,14 @@
     |Not Allowed|1|1|✗|
 
 # D Latch(Data)
+- ### input/output
+    - input：$`E,~D,~Q`$
+    - Output：$`Q_{next}`$
 - ### logic diagram(NAND)
 - ### logic diagram(NAND、NOR)
 - ### truth table
-    |Action|$`E`$|$`D`$|$`Q_{nett}`$|
-    |:---:|:---:|:---:|:---:|
-    |Hold|0|0|$`Q`$|
-    |Hold|0|1|$`Q`$|
-    |Reset|1|0|0|
-    |Set|1|1|1|
+    |Action|$`E`$|$`Q_{nett}`$|
+    |:---:|:---:|:---:|
+    |Hold|0|$`Q`$|
+    |Data|1|$`D`$|
 
