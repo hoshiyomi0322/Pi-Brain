@@ -13,6 +13,7 @@
 # D Latch(Data)
 - ### input/output
     - input：$`E,~D,~Q`$
+      - $`E=\text{clock input}`$
     - Output：$`Q_{next}`$
 - ### logic diagram(NAND)
 - ### logic diagram(NAND、NOR)

@@ -1,4 +1,5 @@
 # SR Flip-Flop(Set-Reset)
+- ### $`Q_{nett}=S+\overline{R}Q`$
 - ### truth table
     |Action|$`S`$|$`R`$|$`Q_{nett}`$|
     |:---:|:---:|:---:|:---:|
@@ -8,6 +9,7 @@
     |Not Allowed|1|1|✗|
 
 # D Flip-Flop(Data)
+- ### $`Q_{nett}=D`$
 - ### truth table
     |Action|$`D`$|$`Q_{nett}`$|
     |:---:|:---:|:---:|
@@ -15,6 +17,7 @@
     |Toggle|1|1|
 
 # T Flip-Flop(Toggle)
+- ### $`Q_{nett}=Q\oplus T=\overline{T}Q+T\overline{Q}`$
 - ### truth table
     |Action|$`T`$|$`Q_{nett}`$|
     |:---:|:---:|:---:|
@@ -22,6 +25,7 @@
     |Toggle|1|$`\overline{Q}`$|
 
 # JK Flip-Flop
+- ### $`Q_{nett}=J\overline{Q}+\overline{K}Q`$
 - ### truth table
     |Action|$`J`$|$`K`$|$`Q_{nett}`$|
     |:---:|:---:|:---:|:---:|
