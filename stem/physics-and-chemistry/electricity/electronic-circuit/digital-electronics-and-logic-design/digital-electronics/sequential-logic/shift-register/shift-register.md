@@ -6,20 +6,24 @@
 - ### Use D Flip-Flop
 
 # Serial-In Serial-Out (SISO)
-<img src="siso.png" width="70%">
+- ### Logic Diagram
+    <img src="siso.png" width="70%">
 
 # Serial-In Parallel-Out (SIPO)
-<img src="sipo.png" width="60%">
+- ### Logic Diagram
+    <img src="sipo.png" width="60%">
 
 - ### Additional Input：$Clr\text{(Clear)}$
 
 # Parallel-In Serial-Out (PISO)
-<img src="piso.png" width="60%">
+- ### Logic Diagram
+    <img src="piso.png" width="60%">
 
 - ### Additional Input：$Shift$
 
 # Parallel-In Parallel-Out (PIPO)
-<img src="pipo.png" width="60%">
+- ### Logic Diagram
+    <img src="pipo.png" width="60%">
 
 # Linear Feedback Shift Register (LFSR)
 
