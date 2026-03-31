@@ -1,9 +1,14 @@
 # SR Latch(Set-Reset)
-- ### logic diagram
-    - ### logic diagram(NAND)
-    - ### logic diagram(NOR)
-- ### truth table
-    |Action|$`S`$|$`R`$|$`Q_{nett}`$|
+- ### Signals
+    - Input：$`S,~R,~Q`$
+    - Output：$`Q_{next}`$
+- ### Logic Diagram
+    - ### SR NAND Latch
+        <img src="./image/sr-nand-latch.png" width="30%">
+    - ### SR NOR Latch
+        <img src="./image/sr-nor-latch.png" width="30%">
+- ### Truth Table
+    |Action|$`S`$|$`R`$|$`Q_{next}`$|
     |:---:|:---:|:---:|:---:|
     |Hold|0|0|$`Q`$|
     |Reset|0|1|0|
@@ -11,14 +16,14 @@
     |Not Allowed|1|1|✗|
 
 # D Latch(Data)
-- ### input/output
-    - input：$`E,~D,~Q`$
-      - $`E=\text{clock input}`$
+- ### Signals
+    - Input：$`E,~D,~Q`$
+      - $`E=\text{Enable}`$
     - Output：$`Q_{next}`$
-- ### logic diagram(NAND)
-- ### logic diagram(NAND、NOR)
-- ### truth table
-    |Action|$`E`$|$`Q_{nett}`$|
+- ### Logic Diagram
+    - ### Logic Diagram(NAND、NOR)
+- ### Truth Table
+    |Action|$`E`$|$`Q_{next}`$|
     |:---:|:---:|:---:|
     |Hold|0|$`Q`$|
     |Data|1|$`D`$|
