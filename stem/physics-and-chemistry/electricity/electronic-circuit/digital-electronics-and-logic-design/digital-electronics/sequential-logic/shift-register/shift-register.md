@@ -12,14 +12,12 @@
 # Serial-In Parallel-Out (SIPO)
 - ### Logic Diagram
     <img src="sipo.png" width="60%">
-
-- ### Additional Input：$Clr\text{(Clear)}$
+- ### Additional Input：$`Clr\text{(Clear)}`$
 
 # Parallel-In Serial-Out (PISO)
 - ### Logic Diagram
     <img src="piso.png" width="60%">
-
-- ### Additional Input：$Shift$
+- ### Additional Input：$`Shift`$
 
 # Parallel-In Parallel-Out (PIPO)
 - ### Logic Diagram
