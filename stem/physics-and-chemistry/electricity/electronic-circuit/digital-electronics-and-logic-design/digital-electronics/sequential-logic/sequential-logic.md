@@ -16,6 +16,7 @@
 
 # Input Signals
 - ### Clock input ($clk$)
+    - Clock Domain Crossing (CDC)
 - ### Clear ($Clr$)：Clear the State
     |$Clr$|Action|
     |:---:|:---:|
@@ -26,6 +27,7 @@
 
 # Clock Gating
 - ### Clock Gating：When a register is not in use, turn off its clock to reduce dynamic power.
+    - Cons：potential timing issues and synchronization problems
 - ### Input Signals
     - ### $`clk=\text{Clock input}`$
     - ### $`en=\text{Enable}`$

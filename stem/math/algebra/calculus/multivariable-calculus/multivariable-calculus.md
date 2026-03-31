@@ -3,7 +3,7 @@
     |Exist|Not Exist|
     |:---:|:---:|
     |
-- ### Path
+- ### Path：$`P_1(x_1,\cdots,x_n),~\cdots,~P_m(x_1,\cdots,x_n)`$
 
 - ### eg
 
