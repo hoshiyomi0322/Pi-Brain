@@ -24,4 +24,5 @@
     <img src="pipo.png" width="60%">
 
 # Linear Feedback Shift Register (LFSR)
+- ### Number of States ($n$-bit)：$`2^n-1`$
 

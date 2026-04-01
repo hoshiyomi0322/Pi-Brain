@@ -14,5 +14,5 @@
 
 # Serial Binary Adder
 
-# Counter
-- ### [Counter](counter.md)
+# [Counter](./counter/counter.md)
+- ### [Binary Counter](./counter/binary-counter.md)

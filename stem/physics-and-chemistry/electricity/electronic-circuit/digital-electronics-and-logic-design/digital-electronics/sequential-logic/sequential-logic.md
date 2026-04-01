@@ -3,7 +3,7 @@
     - ### [Flip-Flop(FF)](./memory-element/flip-flop.md)
     - ### [Latch](./memory-element/latch.md)
 - ### [Finite State Machine(FSM)](fsm.md)
-    - ### [Counter](counter.md)
+    - ### [Counter](./counter/counter.md)
 - ### [Shift Register](./shift-register/shift-register.md)
 
 # Triggering Methods
