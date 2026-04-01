@@ -1,7 +1,7 @@
-# Synchronous Counter/Asynchronous Counter
+# Synchronous Counter and Asynchronous Counter
 
 # Up/Down Binary Counter
 
-# Johnson Counter
-
-# Ring Counter
+# Circular Shift Register
+- ### Johnson Counter
+- ### Ring Counter
