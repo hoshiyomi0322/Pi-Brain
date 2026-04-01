@@ -126,8 +126,9 @@
     ```
 - ### when
     ```vhdl
-    sig_1 when expression else
-    ```- ### if
+    sig_1 when expression else sig_2
+    ```
+- ### if
     ```vhdl
     if expression then
         statement_1;
