@@ -1,6 +1,6 @@
 # Synchronous Binary Counter
 - ### Number of States ($n$-bit)：$`2^n`$
-- #### Truth Table ($3$-bit)
+- ### Truth Table ($3$-bit)
     |State|Data Ouput($Q$)|
     |:---:|:---:|
     |$S_0$|000|

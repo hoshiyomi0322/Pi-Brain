@@ -60,6 +60,8 @@
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
 |Overline|$\overline{text}$|`\overline{text}`|
+|Underbrace|$\underbrace{text}$、$\underbrace{text}_n$|`\underbrace{text}`、`\underbrace{text}_n`|
+|Overbrace|$\overbrace{text}$、$\overbrace{text}^n$|`\overbrace{text}`、`\overbrace{text}^n`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
 |Tilde|$\tilde{a}$|`\tilde{a}`|

@@ -26,3 +26,5 @@
 # Linear Feedback Shift Register (LFSR)
 - ### Number of States ($n$-bit)：$`2^n-1`$
 
+# Circular Shift Register
+- ### [Circular Shift Register](../counter/circular-shift-register.md)
