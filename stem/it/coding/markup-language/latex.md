@@ -59,9 +59,9 @@
 |:---:|:---:|:---:|
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
-|Overline|$\overline{text}$|`\overline{text}`|
-|Underbrace|$\underbrace{text}$、$\underbrace{text}_n$|`\underbrace{text}`、`\underbrace{text}_n`|
-|Overbrace|$\overbrace{text}$、$\overbrace{text}^n$|`\overbrace{text}`、`\overbrace{text}^n`|
+|Overline|$\overline{text}^s$|`\overline{text}`|
+|Underbrace|$`\underbrace{text}`$、$`\underbrace{text}_{n}`$|`\underbrace{text}`、`\underbrace{text}_{n}`|
+|Overbrace|$`\overbrace{text}`$、$`\overbrace{text}^{n}`$|`\overbrace{text}`、`\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
 |Tilde|$\tilde{a}$|`\tilde{a}`|
@@ -111,11 +111,11 @@
 # Superscript and Subscript
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
-|Superscript|$a^{b}$|`a^{b}`|
-|Subscript|$a_{b}$|`a_{b}`|
-|Superscript and Subscript|$a_{b}^{c}$|`a_{b}^{c}`、`a^{c}_{b}`|
-|Superscript and Subscript|$a_{b+1}^{c+2}$|`a_{b+1}^{c+2}`、`a^{c+2}_{b+1}`|
-|Combinatorics|$C_{k}^{n}$|`C_{k}^{n}`、`C^{n}_{k}`|
+|Superscript|$a^{b}$|`{a}^{b}`|
+|Subscript|$a_{b}$|`{a}_{b}`|
+|Superscript and Subscript|$a_{b}^{c}$|`{a}_{b}^{c}`、`{a}^{c}_{b}`|
+|Superscript and Subscript|$a_{b+1}^{c+2}$|`{a}_{b+1}^{c+2}`、`{a}^{c+2}_{b+1}`|
+|Combinatorics|$C_{k}^{n}$|`{C}_{k}^{n}`、`{C}^{n}_{k}`|
 
 # Fraction
 |Output|LaTex|
