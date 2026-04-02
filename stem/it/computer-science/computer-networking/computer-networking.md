@@ -5,7 +5,7 @@
 - ### Data Transfer Rate
   - ### upload speed
   - ### download speed
-- ### Latency(ping值)
+- ### Latency
   - ### ping
     <img src="./image/ping.png" width="60%">
 - ### Throughput
@@ -41,12 +41,12 @@
   - #### eg：中華電信、遠傳電信、台灣大哥大
 
 # Networking Hardware
-- ### Hub(集線器)
+- ### Hub
     <img src="./image/hub.png" width="30%">
-- ### Switch(交換器)
+- ### Switch
     <img src="./image/switch.png" width="30%">
-- ### Gateway(閘道器)
-- ### Modem(數據機)
+- ### Gateway
+- ### Modem
   - #### phone modem
     <img src="./image/phone-modem.png" width="30%">
   - #### cable modem
@@ -55,7 +55,7 @@
      <img src="./image/dsl-modem.png" width="30%">
 
      - Digital Subscriber Line(DSL)
-- ### Router(路由器)
+- ### Router
     <img src="./image/router.png" width="30%">
 ---
 <div align="center">
