@@ -30,19 +30,15 @@
         <img src="./image/port-forwarding.png" width="50%">
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
 
-# Internet Access
-- ### Internet Backbone
-    <img src="./image/internet-backbone-isp.png" width="70%">
-    
-    - #### eg：AT&T、IBM、中華電信
+# Internet Service Provider(ISP)
 - ### Internet Service Provider(ISP)
     <img src="./image/flow.png" width="50%">
     
     - #### eg：中華電信、遠傳電信、台灣大哥大
-- ### Types of Internet Access
-    - ### Cable Internet Access
-    - ### Digital Subscriber Line(DSL)
-    - ### [Wireless Network](#wireless-network-1)
+- ### Internet Backbone
+    <img src="./image/internet-backbone-isp.png" width="70%">
+    
+    - #### eg：AT&T、IBM、中華電信
 
 # Networking Hardware
 - ### Hub
