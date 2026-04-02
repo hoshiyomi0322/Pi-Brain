@@ -25,7 +25,7 @@
 - ### Point to Point Tunneling Protocol (PPTP)
 
 # Network layer
-- ### Internet Protocol (IP)
+- ### [Internet Protocol (IP)](ip.md)
     - #### IPv4
     - #### IPv6
 - ### Route
@@ -50,17 +50,4 @@
 - #### Electrical cable
 - #### Optical fiber
 - #### Modem
-
-# IP address
-- ### IP address＝Network address＋Host address
-- ### IP address
-    - #### IPv4 address
-        <img src="./image/ipv4.png" width="50%">
-    - #### IPv6 address
-        <img src="./image/ipv6.png" width="50%">
-- ### Network address
-- ### Host address
-- ### Subnetwork
-    - #### Subnet Mask
-- ### Classless Inter-Domain Routing (CIDR)
 
