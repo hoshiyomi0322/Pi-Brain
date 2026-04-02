@@ -6,7 +6,7 @@
 - ### File Transfer Protocol (FTP)
 - ### Simple Mail Transfer Protocol (SMTP)：email
 - ### Multipurpose Internet Mail Extensions (MIME)
-    - #### MIME Type (Media Type)
+    - #### [MIME Type (Media Type)](../../computer-networking.md#mime-typemedia-type)
 - ### Telnet：Remote login to hosts
 - ### remote desktop
 

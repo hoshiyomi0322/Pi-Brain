@@ -67,20 +67,24 @@
     <https://google.com>
     ```
 - ### Link Text：`[link text](link)`
-    [link text](https://google.com)
+    [Google](https://google.com)
     ```md
-    [link text](https://google.com)
+    [Google](https://google.com)
     (select the text and paste link(ctrl+v))
     ```
     - #### File：`[link text](file path)`
-        [link text](./markdown.md)
+        [LaTex](../latex.md)
         ```md
-        [link text](./markdown.md)
+        [LaTex](../latex.md)
         ```
     - #### Heading：`[link text](#heading name)`
-        [link text](#link)
+        [Link](#link)
         ```md
-        [link text](#link)
+        [Link](#link)
+        ```
+        [Operator](../latex.md#operator)
+        ```md
+        [Operator](../latex.md#operator)
         ```
 
 # Image：`![alt text](link)`

@@ -40,6 +40,9 @@
     
     - #### eg：AT&T、IBM、中華電信
 
+# Internet Access
+- ### [Internet Access](internet-access.md)
+
 # Networking Hardware
 - ### Hub
     <img src="./image/hub.png" width="30%">
@@ -101,19 +104,6 @@
 - ### Wide Area Network(WAN)
     <img src="./image/wan.png" width="40%">
 - ### Virtual Private Network(VPN)
-
-# Wireless Network
-- ### Cellular Network(Mobile Network)
-    - #### Types of Cellular Network
-        - 5th-Generation(5G)
-        - 4th-Generation(4G)
-        - 3th-Generation(3G)
-    - #### Base Station
-    - #### Core Network
-- ### [Wireless LAN(WLAN)](#wireless-lanwlan)
-- ### [Wireless PAN(WPAN)](#wireless-panwpan)
-- ### Internet of Things(IoT)
-
 
 # Firewall
 - ### Network Firewall
