@@ -6,7 +6,7 @@
 - ### File Transfer Protocol (FTP)
 - ### Simple Mail Transfer Protocol (SMTP)：email
 - ### Multipurpose Internet Mail Extensions (MIME)
-    - MIME Type (Media Type)
+    - #### MIME Type (Media Type)
 - ### Telnet：Remote login to hosts
 - ### remote desktop
 
@@ -21,6 +21,7 @@
     |**Handshake**|three-way handshake|no handshake|
     |**eg**|email、web、file transfer|Real-time applications<br>streaming media、game、Voice over IP(VoIP)|
 - ### Transport Layer Security (TLS)
+    - ### Secure Sockets Layer (SSL)
 - ### Datagram Congestion Control Protocol (DCCP)
 - ### Point to Point Tunneling Protocol (PPTP)
 
@@ -28,14 +29,7 @@
 - ### [Internet Protocol (IP)](ip.md)
     - #### IPv4
     - #### IPv6
-- ### Route
-    - #### Routing
-    - #### Router
-    - #### Traceroute (tracert)
-        <img src="./image/tracert.png" width="60%">
-    - #### Routing Protocol
-        - #### Routing Information Protocol (RIP)
-        - #### Open Shortest Path First (OSPF)
+- ### [Route](route.md)
 - ### Gateway
 - ### Internet Control Message Protocol (ICMP)
 
