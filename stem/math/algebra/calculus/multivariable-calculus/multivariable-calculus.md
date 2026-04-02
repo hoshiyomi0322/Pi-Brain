@@ -1,11 +1,5 @@
-# Limits of Multivariable
-- $`\lim\limits_{x_1,\cdots,x_n`}{f(x_1,\cdots,x_n)}$
-    |Exist|Not Exist|
-    |:---:|:---:|
-    |
-- ### Path：$`P_1(x_1,\cdots,x_n),~\cdots,~P_m(x_1,\cdots,x_n)`$
-
-- ### eg
+# Limits of Multivariable Functions
+- ### [Limits of Multivariable Functions](limits-of-multivariable-functions.md)
 
 # Multivariable Differential Calculus
 - ### [Multivariable Differential Calculus](multivariable-differential-calculus.md)

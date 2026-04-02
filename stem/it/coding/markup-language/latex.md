@@ -59,7 +59,7 @@
 |:---:|:---:|:---:|
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
-|Overline|$\overline{text}^s$|`\overline{text}`|
+|Overline|$\overline{text}$|`\overline{text}`|
 |Underbrace|$`\underbrace{text}`$、$`\underbrace{text}_{n}`$|`\underbrace{text}`、`\underbrace{text}_{n}`|
 |Overbrace|$`\overbrace{text}`$、$`\overbrace{text}^{n}`$|`\overbrace{text}`、`\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
@@ -200,26 +200,26 @@
 - ### Arrow with Text：`\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`{text}`
     |Symbol|LaTex|
     |:---:|:---:|
-    |$\xrightarrow{text}$|`\xrightarrow{text}`|
-    |$\xleftarrow{text}$|`\xleftarrow{text}`|
-    |$\xleftrightarrow{text}$|`\xleftrightarrow{text}`|
-    |$\xRightarrow{text}$|`\xRightarrow{text}`|
-    |$\xLeftarrow{text}$|`\xLeftarrow{text}`|
-    |$\xLeftrightarrow{text}$|`\xLeftrightarrow{text}`|
-    |$\xrightharpoonup{text}$|`\xrightharpoonup{text}`|
-    |$\xleftharpoonup{text}$|`\xleftharpoonup{text}`|
-    |$\xrightharpoondown{text}$|`\xrightharpoondown{text}`|
-    |$\xleftharpoondown{text}$|`\xleftharpoondown{text}`|
-    |$\xrightleftharpoons{text}$|`\xrightleftharpoons{text}`|
-    |$\xleftrightharpoons{text}$|`\xleftrightharpoons{text}`|
+    |$\xrightarrow{a}$|`\xrightarrow{a}`|
+    |$\xleftarrow{a}$|`\xleftarrow{a}`|
+    |$\xleftrightarrow{a}$|`\xleftrightarrow{a}`|
+    |$\xRightarrow{a}$|`\xRightarrow{a}`|
+    |$\xLeftarrow{a}$|`\xLeftarrow{a}`|
+    |$\xLeftrightarrow{a}$|`\xLeftrightarrow{a}`|
+    |$\xrightharpoonup{a}$|`\xrightharpoonup{a}`|
+    |$\xleftharpoonup{a}$|`\xleftharpoonup{a}`|
+    |$\xrightharpoondown{a}$|`\xrightharpoondown{a}`|
+    |$\xleftharpoondown{a}$|`\xleftharpoondown{a}`|
+    |$\xrightleftharpoons{a}$|`\xrightleftharpoons{a}`|
+    |$\xleftrightharpoons{a}$|`\xleftrightharpoons{a}`|
     
     - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`[below]{above}`
         |Symbol|LaTex|
         |:---:|:---:|
-        |$\xrightarrow{above}$|`\xrightarrow[below]{above}`|
-        |$\xrightarrow[below]{above}$|`\xrightarrow[below]{above}`|
-        |$\xrightarrow[below]{}$|`\xrightarrow[below]{}`|
-        |$\xrightharpoonup{above}$|`\xrightharpoonup{above}`|
+        |$\xrightarrow{a}$|`\xrightarrow{a}`|
+        |$\xrightarrow[b]{a}$|`\xrightarrow[b]{a}`|
+        |$\xrightarrow[b]{}$|`\xrightarrow[b]{}`|
+        |$\xrightharpoonup{a}$|`\xrightharpoonup{a}`|
 
 - ### Harpoon Arrow
     |Direction|Symbol|LaTex|
