@@ -16,7 +16,7 @@
 - ### $P(A\cup B)=(P(A)+P(B))-P(A\cap B)$
     - #### [Inclusion–Exclusion Principle](../../../discrete-mathematics/set-theory/set-theory.md#inclusionexclusion-principle)
 - ### Mutually Exclusive events, Collectively Exhaustive events
-    |Mutually Exclusive events|Collectively Exhaustive events|Mutually Exclusive and Collectively Exhaustive events|
+    |[Mutually Exclusive events](#independent-events-mutually-exclusive-events)|Collectively Exhaustive events|Mutually Exclusive and Collectively Exhaustive events|
     |:---:|:---:|:---:|
     |$P(A\cup B)=P(A)+P(B)$|$P(A\cup B)=S$|$P(A\cup B)=P(A)+P(B)=S$|
 
