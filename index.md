@@ -70,7 +70,6 @@
     - #### History of China
     - #### Others (History)
 - ### Media
-    - #### アニメ
-    - #### ドラマ・映画
-    - #### 音楽
-    - #### Presentation
+    - #### Text
+    - #### [Audio](./others/media/audio/audio.md)
+    - #### Video

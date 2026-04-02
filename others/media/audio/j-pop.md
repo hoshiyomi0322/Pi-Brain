@@ -1,0 +1,110 @@
+# 歌手
+- ### 星街すいせい
+- ### KAF
+- ### 理芽
+- ### HACHI
+- ### VESPERBELL
+- ### Hanon&Kotoha
+- ### こはならむ
+- ### DAZBEE
+- ### 春茶
+- ### tuki.
+- ### LiSA
+- ### Aimer(エメ)
+- ### Uru
+- ### aiko
+- ### milet
+- ### eill
+- ### ReoNa
+- ### あいみょん
+- ### ざらめ
+- ### ユイカ
+- ### ヒグチアイ
+- ### アオイエマ
+- ### アイナ・ジ・エンド(AiNA THE END)
+- ### まじ娘(majiko)
+- ### BoA
+- ### yama
+- ### 酸欠少女さユり
+- ### 美波
+- ### コレサワ
+- ### とた
+- ### 汐れいら
+- ### 96猫
+- ### 乃紫(noa)
+- ### waka
+- ### Ado
+- ### Eve
+- ### なとり(natori)
+- ### 優里
+- ### 米津玄師
+- ### 菅田将暉
+- ### 須田景凪
+- ### 川崎鷹也
+- ### 古川本舗
+- ### 藤川千愛
+- ### 上野優華
+- ### 崎山蒼志
+- ### 秦基博
+- ### 神山羊
+- ### カンザキイオリ(Iori Kanzaki)
+- ### キタニタツヤ
+- ### Tani Yuuki
+- ### Fujii Kaze
+- ### Vaundy
+- ### 幾田りら(いくら)
+- ### 奥華子
+- ### 家入レオ
+- ### 手嶌葵
+- ### 大塚愛
+- ### 絢香
+- ### 中島美嘉
+- ### 宇多田ヒカル
+- ### 藍井エイル
+- ### 鈴木このみ
+- ### May'n
+- ### YUI
+- ### MISIA
+- ### KOKIA
+- ### Superfly
+- ### クリス・ハート
+
+# バンド
+- ### Mrs. GREEN APPLE(ミセス)
+- ### ヨルシカ
+- ### ZUTOMAYO
+- ### あたらよ
+- ### ロクデナシ
+- ### ミセカイ
+- ### ユアネス
+- ### Novelbright
+- ### Omoinotake
+- ### Official髭男dism
+- ### Da-iCE
+- ### back number
+- ### King Gnu
+- ### ONE OK ROCK
+- ### MY FIRST STORY
+- ### sumika
+- ### Saucy Dog
+- ### ClariS
+- ### DISH//
+- ### RADWIMPS
+- ### flumpool
+- ### amazarashi
+- ### wacci
+- ### SPYAIR
+- ### Creepy Nuts
+- ### supercell
+- ### EGOIST
+- ### MAN WITH A MISSION
+- ### BUMP OF CHICKEN
+- ### 藍空と月
+- ### 羊文学
+- ### 緑黄色社会
+- ### 神はサイコロを振らない
+- ### 凛として時雨
+- ### 月詠み
+- ### いきものがかり
+- ### スピッツ
+- ### YOASOBI
