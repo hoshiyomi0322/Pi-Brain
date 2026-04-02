@@ -11,24 +11,24 @@
     |One-sided Limit|$`\lim\limits_{x\to a}{f(x)}`$|
     |:---:|:---:|
     |$`\lim\limits_{x\to a^-}{f(x)}=\lim\limits_{x\to a^+}{f(x)}=L`$|$`\lim\limits_{x\to a}{f(x)}=L`$|
-    |$`\lim\limits_{x\to a^-}{f(x)}\neq\lim\limits_{x\to a^+}{f(x)}`$|$`\lim\limits_{x\to a}{f(x)}\text{ not exist}`$|
+    |$`\lim\limits_{x\to a^-}{f(x)}\neq\lim\limits_{x\to a^+}{f(x)}`$|$`\lim\limits_{x\to a}{f(x)}\text{ does not exist}`$|
 - ### One-sided Limit
     - ### Left-sided Limit：$`\lim\limits_{x\to a^-}{f(x)}`$
     - ### Right-sided Limit：$`\lim\limits_{x\to a^+}{f(x)}`$
 - ### eg：$`\lim\limits_{x\to 0}{(\frac{x}{|x|}+x)}`$
     - ### Left-sided Limit：$`\lim\limits_{x\to 0^-}{(\frac{x}{|x|}+x)}=\frac{x}{|x|}+x=\frac{x}{-x}+x=-1.\cdots`$
-        - $`x=-0.\cdots`$
+        - $`x=-0.0\cdots 1`$
     - ### Right-sided Limit：$`\lim\limits_{x\to 0^+}{(\frac{x}{|x|}+x)}=\frac{x}{|x|}+x=\frac{x}{x}+x=1.\cdots`$
-        - $`x=0.\cdots`$
+        - $`x=0.0\cdots 1`$
     - ### $`\lim\limits_{x\to 0^-}{(\frac{x}{|x|}+x)}\neq\lim\limits_{x\to 0^+}{(\frac{x}{|x|}+x)}`$
-        - ### $`\lim\limits_{x\to 0}{(\frac{x}{|x|}+x)}\text{ not exist}`$
+        - ### $`\text{then }\lim\limits_{x\to 0}{(\frac{x}{|x|}+x)}\text{ does not exist}`$
 - ### eg：$`\lim\limits_{x\to 1}{(2+[x]+[1-x])}`$
-    - ### Left-sided Limit：$`\lim\limits_{x\to 1^-}{(2+[x]+[1-x])}=2+[0.\cdots]+[1-0.\cdots]=2+0+0=2`$
-        - $x=0.\cdots$
-    - ### Right-sided Limit：$`\lim\limits_{x\to 1^+}{(2+[x]+[1-x])}=2+[1.\cdots]+[1-1.\cdots]=2+1-1=2`$
-        - $x=1.\cdots$
+    - ### Left-sided Limit：$`\lim\limits_{x\to 1^-}{(2+[x]+[1-x])}=2+[0.\cdots]+[1-0.9\cdots 9]=2+0+0=2`$
+        - $x=0.9\cdots 9$
+    - ### Right-sided Limit：$`\lim\limits_{x\to 1^+}{(2+[x]+[1-x])}=2+[1.\cdots]+[1-1.0\cdots 1]=2+1-1=2`$
+        - $x=1.0\cdots 1$
     - ### $`\lim\limits_{x\to 1^-}{(2+[x]+[1-x])}=\lim\limits_{x\to 1^+}{(2+[x]+[1-x])}=2`$
-        - ### $`\lim\limits_{x\to 1}{(2+[x]+[1-x])}=2`$
+        - ### $`\text{then }\lim\limits_{x\to 1}{(2+[x]+[1-x])}=2`$
 
 
 # Squeeze Theorem(Sandwich Theorem)
