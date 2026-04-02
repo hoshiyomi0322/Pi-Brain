@@ -12,7 +12,7 @@
         - Pythagorean Identities：$`\tan^2{θ}+1 = \sec^2{θ}`$
     - #### $`\int{\sqrt{a^2+x^2}\,dx} = \int{a\sec{θ}\,dx} = \int{a^2\sec^3{θ}\,dθ}`$
 - ### $`\int{\sqrt{x^2-a^2}\,dx} = a^2\int{\sec{θ}\tan^2{θ}\,dθ}`$
-    - #### Set x = a\sec{θ}
+    - #### Set $`x = a\sec{θ}`$
         - $`dx = (a\sec{θ})^\prime\,dθ = a\sec{θ}\tan{θ}\,dθ`$
     - #### $`\sqrt{x^2-a^2} = \sqrt{(a\sec{θ})^2-a^2} = a\sqrt{\sec^2{θ}-1} = a\sqrt{\tan^2{θ}} = a\tan{θ}`$
         - Pythagorean Identities：$`\tan^2{θ}+1 = \sec^2{θ}`$

@@ -10,7 +10,7 @@
 - ### Math
     - #### Number and Operator
     - #### [Algebra](./stem/math/algebra/algebra.md)
-    - #### Discrete Mathematics
+    - #### [Discrete Mathematics](./stem/math/discrete-mathematics/discrete-mathematics.md)
     - #### [Probability Theory and Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
     - #### Trigonometric Functions and Hyperbolic Functions
     - #### Geometry

@@ -1,6 +1,6 @@
 # Infinite Series, Improper Integral
-- ### Infinite Series：$`\sum\limits_{n=1}^{\infty}{a_n},~\sum\limits_{n=1}^{\infty}{b_n}`$
-- ### Improper Integral：$`\int_{a}^{b}{f(x)\, dx},~\int_{a}^{b}{g(x)\, dx}`$
+- ### Infinite [Series](../../../series.md)：$`\sum\limits_{n=1}^{\infty}{a_n},~\sum\limits_{n=1}^{\infty}{b_n}`$
+- ### [Improper Integral](../integral-calculus/integral-calculus.md#improper-integral)：$`\int_{a}^{b}{f(x)\, dx},~\int_{a}^{b}{g(x)\, dx}`$
 - ### Objects
     - $`A=\sum\limits_{n=1}^{\infty}{a_n},~\int_{a}^{b}{f(x)\, dx}`$
     - $`B=\sum\limits_{n=1}^{\infty}{b_n},~\int_{a}^{b}{g(x)\, dx}`$
@@ -46,7 +46,7 @@
     |$`r<1`$|$`\sum\limits_{n=1}^{\infty}{a_n}\text{ converges absolutely}`$|
     |$`r=1`$|$`\sum\limits_{n=1}^{\infty}{a_n}\text{ either converge or diverge}`$|
     |$`r>1`$|$`\sum\limits_{n=1}^{\infty}{a_n}\text{ diverges}`$|
-- ### Power Series：$`f(x)=\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}`$
+- ### [Power Series](../../../series.md#power-series)：$`f(x)=\sum\limits_{n=0}^{\infty}{a_n(x-c)^n}`$
     - #### Radius of Convergence：$`R`$
         - $`\frac{1}{R}=\lim\limits_{n\to\infty}|\frac{a_{n+1}}{a_{n}}|=\lim\limits_{n\to\infty}\sqrt[n]{|a_n|}`$
     - #### Interval of Convergence：$`(c-R,~c+R)`$
@@ -61,7 +61,7 @@
 - ### Integral test：$`\sum\limits_{n=1}^{\infty}a_n=\sum\limits_{x=1}^{\infty}f(x)`$
     - $`\text{If }\int_{1}^{\infty}{f(x)\,dx}\text{ converges},~\text{then }\sum\limits_{n=1}^{\infty}a_n\text{ converges}`$
     - $`\text{If }\int_{1}^{\infty}{f(x)\,dx}\text{ diverges},~\text{then }\sum\limits_{n=1}^{\infty}a_n\text{ diverges}`$
-- ### Alternating Series test：$`\sum\limits_{n=1}^{\infty}{(-1)^{n+1}a_n},~a_n>0`$
+- ### [Alternating Series](../../../series.md#alternating-series) test：$`\sum\limits_{n=1}^{\infty}{(-1)^{n+1}a_n},~a_n>0`$
     |Conditions|Convergent, Divergent|
     |:---:|:---:|
     |meets both conditions|$`\sum\limits_{n=1}^{\infty}{(-1)^{n+1}a_n}\text{ converges}`$|
@@ -69,7 +69,7 @@
     - #### Conditions
         - Monotonically decreasing：$`a_n\geq a_{n+1}`$
         - The sequence converges to 0：$`\lim\limits_{n\to\infty}{a_n}=0`$
-- ### P-Series test：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}`$
+- ### [P-Series](../../../series.md#p-series) test：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}`$
     |$`p`$|Convergent, Divergent|
     |:---:|:---:|
     |$`p>1`$|$`\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}\text{ converges}`$|

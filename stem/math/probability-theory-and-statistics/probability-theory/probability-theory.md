@@ -61,8 +61,8 @@
 - ### Statistical Moments
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
-    |Mean|First Raw Moment|$E(x)=μ$|
-    |Variance|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
+    |[Mean](../statistics/descriptive-statistics.md#mean)|First Raw Moment|$E(x)=μ$|
+    |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
 - ### Moment-Generating Function(MGF)：$`M_X(t)=E(e^{tX})`$

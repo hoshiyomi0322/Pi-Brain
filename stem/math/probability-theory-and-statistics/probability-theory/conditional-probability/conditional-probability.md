@@ -14,7 +14,7 @@
 
 # Union Probability：$`P(A\cup B)`$
 - ### $P(A\cup B)=(P(A)+P(B))-P(A\cap B)$
-    - #### Inclusion–Exclusion Principle
+    - #### [Inclusion–Exclusion Principle](../../../discrete-mathematics/set-theory/set-theory.md#inclusionexclusion-principle)
 - ### Mutually Exclusive events, Collectively Exhaustive events
     |Mutually Exclusive events|Collectively Exhaustive events|Mutually Exclusive and Collectively Exhaustive events|
     |:---:|:---:|:---:|
@@ -28,5 +28,5 @@
 
 - ### $\{A_1\cdots A_n\}$ is Mutually Exclusive and Collectively Exhaustive events
 - ### $P(B)=\sum\limits_{k=1}^{n}{P(A_k\cap B)}=\sum\limits_{k=1}^{n}{(P(B\mid A_k)P(A_k))}$
-- ### Bayes' Theorem：$`P(A_i\mid B)=\frac{P(A_i\cap B)}{P(B)}=\frac{P(B\mid A_i)P(A_i)}{P(B)}=\frac{P(B\mid A_i)P(A_i)}{\sum\limits_{k=1}^{n}{(P(B\mid A_k)P(A_k))}}`$
+- ### [Bayes' Theorem](#bayes-theorem)：$`P(A_i\mid B)=\frac{P(A_i\cap B)}{P(B)}=\frac{P(B\mid A_i)P(A_i)}{P(B)}=\frac{P(B\mid A_i)P(A_i)}{\sum\limits_{k=1}^{n}{(P(B\mid A_k)P(A_k))}}`$
 

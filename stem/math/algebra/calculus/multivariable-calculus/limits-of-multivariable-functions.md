@@ -26,7 +26,7 @@
 - ### eg (polar coordinates)：$`\lim\limits_{(x,~y)\to (0,~0)}{(x^2+y^2)\cdot \ln{(x^2+y^2)}}`$
     - $`\lim\limits_{(x,~y)\to (0,~0)}{((x^2+y^2)\cdot \ln{(x^2+y^2))}}=\lim\limits_{r\to 0}{(r^2\cdot \ln{r^2})}`$
 
-# Squeeze Theorem(Sandwich Theorem)
+# [Squeeze Theorem(Sandwich Theorem)](../limit/limit.md#squeeze-theoremsandwich-theorem)
 - ### $`g(x_1,~\cdots,~x_n)\leq f(x_1,~\cdots,~x_n)\leq h(x_1,~\cdots,~x_n)`$
     - ### $`\text{If }\lim\limits_{x\to a}{g}=\lim\limits_{x\to a}{h}=L,~\text{then }\lim\limits_{x\to a}{f}=L`$
 - ### eg：$`\lim\limits_{(x,~y)\to (0,~0)}{\frac{x^2y^2}{x^2+y^2}}`$
