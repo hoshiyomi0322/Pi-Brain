@@ -1,4 +1,4 @@
-# State Transition Table/State Graph
+# State Transition
 - ### State Transition Table
 - ### State Graph
 

@@ -14,14 +14,9 @@
 - ### State-Transition Table
     |Current State|Next State|
     |:---:|:---:|
-    |$S_0$|$S_1$|
-    |$S_1$|$S_2$|
-    |$S_2$|$S_3$|
-    |$S_3$|$S_4$|
-    |$S_4$|$S_5$|
-    |$S_5$|$S_6$|
-    |$S_6$|$S_7$|
-    |$S_7$|$S_0$|
+    |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
+    |$S_{m-1}$|$S_0$|
+    - $`m=\text{Number of States}=2^n`$
 
 # Asynchronous Binary Counter
 - ### Ripple Counter

@@ -3,7 +3,7 @@
     - $`clk=\text{Clock input}`$
     - $`D=\text{Data input}`$
     - $`D=\text{Data output}`$
-- ### Use D Flip-Flop
+- ### Uses D Flip-Flop
 
 # Serial-In Serial-Out (SISO)
 - ### Logic Diagram (4-bit)
@@ -27,4 +27,4 @@
 - ### Number of States ($n$-bit)：$`2^n-1`$
 
 # Circular Shift Register
-- ### [Circular Shift Register](../counter/circular-shift-register.md)
+- ### [Circular Shift Register](../counter/circular-shift-register/circular-shift-register.md)

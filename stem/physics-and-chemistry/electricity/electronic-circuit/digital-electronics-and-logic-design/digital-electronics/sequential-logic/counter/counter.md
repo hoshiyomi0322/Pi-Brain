@@ -4,4 +4,6 @@
 - ### [Binary Counter](binary-counter.md)
 
 # Circular Shift Register
-- ### [Circular Shift Register](circular-shift-register.md)
+- ### [Circular Shift Register](./circular-shift-register/circular-shift-register.md)
+
+

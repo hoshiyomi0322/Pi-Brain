@@ -9,7 +9,7 @@
     - $a_n=a_1\times r^{(n-1)}$
     - $`r=\text{common ratio}`$
 - ### Geometric Series：$`\sum\limits_{i=0}^{n-1}(a_1\times r^i)=\frac{a_1(1-r^n)}{1-r},~r\neq1`$
-- ### Infinite Geometric Series：$`\sum\limits_{i=0}^{\infty}(a_1\times r^i)=\begin{cases}{\frac{a_1}{1-r}}&{\text{when }|r|<1}\\ {\text{ diverges}}&{\text{when }|r|\geq 1}\end{cases}`$
+- ### Infinite Geometric Series：$`\sum\limits_{i=0}^{\infty}(a_1\times r^i)=\begin{cases}{\frac{a_1}{1-r}}&{\text{if }|r|<1}\\ {\text{ diverges}}&{\text{if }|r|\geq 1}\end{cases}`$
 
 # Harmonic Series
 - ### Harmonic Series：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n}}=1+\frac{1}{2}+\frac{1}{3}+\cdots`$
