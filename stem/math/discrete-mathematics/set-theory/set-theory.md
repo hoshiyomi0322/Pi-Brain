@@ -1,22 +1,22 @@
 
 # Set
 - ### Set：$`S=\set{a_1,~\cdots ,~a_n}`$
-- ### Universal Set：$U$
+- ### Universal Set：$`U`$
 - ### Empty Set：$`\varnothing`$
 - ### Venn Diagram
-    <img src="venn-diagram.png" width="15%">
+    <img src="venn-diagram.png" width="20%">
 
 # Set Operations
 - ### Intersection：$`A\cap B`$
-    <img src="intersection.png" width="15%">
+    <img src="intersection.png" width="20%">
 	
     - $`\bigcap\limits_{i=1}^{n}A_i=A_1\cap\cdots\cap A_n`$
 - ### Union：$`A\cup B`$
-    <img src="union.png" width="15%">
+    <img src="union.png" width="20%">
     
     - $`\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n`$
 - ### Complement：$`\overline{A},~A^\prime`$
-    <img src="complement.png" width="15%">
+    <img src="complement.png" width="20%">
 
 # Set Relations
 - ### Superset：$`A\supseteq B=A\text{ is a superset of }B=A\text{ contains }B`$
