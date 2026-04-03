@@ -24,9 +24,10 @@
 - ### [Security Controls](security-controls/security-controls.md)
 
 # Cybersecurity Tools
+- ### Networking Tools
+    - ### [Network Mapper(Nmap)](../computer-science/computer-networking/networking-tools/nmap.md)
+    - ### [Wireshark](../computer-science/computer-networking/networking-tools/wireshark.md)
 - ### Metasploit
-- ### [Nmap](../computer-science/computer-networking/nmap.md)
-- ### [Wireshark](../computer-science/computer-networking/wireshark.md)
 - ### Burp Suite
 - ### dnSpy
 - ### Cybersecurity Labs
