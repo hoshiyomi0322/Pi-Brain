@@ -72,4 +72,4 @@
 - ### Media
     - #### Text
     - #### [Audio](./others/media/audio/audio.md)
-    - #### Video
+    - #### [Video](./others/media/video/video.md)
