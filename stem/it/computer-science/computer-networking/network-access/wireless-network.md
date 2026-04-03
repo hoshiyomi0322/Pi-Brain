@@ -1,5 +1,7 @@
 # Wireless Network
 - ### Wireless Access Point
+- ### Base Station
+- ### Roaming
 
 # Types of Wireless Network
 - ### [Cellular Network(Mobile Network)](#cellular-networkmobile-network-1)
@@ -16,5 +18,4 @@
 - ### Global System for Mobile Communications(GSM)
     - #### Short Message Service(SMS)
 - ### Personal Communication Service(PCS)
-- ### Base Station
 

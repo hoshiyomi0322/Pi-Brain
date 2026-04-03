@@ -98,6 +98,7 @@
         - Wireless USB
             
             <img src="./image/wireless-usb.png" width="10%">
+        - Hotspot
     - ### Virtual Local Area Network(VLAN)
     - ### Home Area Network(HAN)
 - ### Campus Area Network(CAN)
