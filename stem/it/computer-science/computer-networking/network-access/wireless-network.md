@@ -3,8 +3,8 @@
 
 # Types of Wireless Network
 - ### [Cellular Network(Mobile Network)](#cellular-networkmobile-network-1)
-- ### [Wireless LAN(WLAN)](computer-networking.md#wireless-lanwlan)
-- ### [Wireless PAN(WPAN)](computer-networking.md#wireless-panwpan)
+- ### [Wireless LAN(WLAN)](../computer-networking.md#wireless-lanwlan)
+- ### [Wireless PAN(WPAN)](../computer-networking.md#wireless-panwpan)
 - ### Internet of Things(IoT)
 
 # Cellular Network(Mobile Network)
