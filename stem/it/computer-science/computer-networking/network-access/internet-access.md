@@ -19,6 +19,8 @@
     - ### Fiber To The Home(FTTH)
 
 # Digital Subscriber Line(DSL)
+<div align="center"><img src="dsl.png" width="50%"></div>
+
 - ### Digital Subscriber Line Access Multiplexer(DSLAM)
 - ### [DSL Modem](computer-networking.md#dsl-modem)
 

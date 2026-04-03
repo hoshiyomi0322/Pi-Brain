@@ -91,7 +91,7 @@
         - Bluetooth
         - Li-Fi
 - ### Local Area Network(LAN)
-    <img src="./image/lan.png" width="40%">
+    <img src="./image/lan.png" width="45%">
 
     - ### Wireless LAN(WLAN)
         - Wi-Fi
@@ -99,11 +99,12 @@
             
             <img src="./image/wireless-usb.png" width="10%">
     - ### Virtual Local Area Network(VLAN)
+    - ### Home Area Network(HAN)
 - ### Campus Area Network(CAN)
     <img src="./image/can.png" width="40%">
 - ### Metropolitan Area Network(MAN)
     <img src="./image/man.png" width="40%">
-- ### Radio Access Network
+- ### Radio Access Network(RAN)
 - ### Wide Area Network(WAN)
     <img src="./image/wan.png" width="40%">
 - ### Virtual Private Network(VPN)
