@@ -12,5 +12,9 @@
     - 5th-Generation(5G)
     - 4th-Generation(4G)
     - 3th-Generation(3G)
-- ### Base Station
 - ### Core Network
+- ### Global System for Mobile Communications(GSM)
+    - #### Short Message Service(SMS)
+- ### Personal Communication Service(PCS)
+- ### Base Station
+
