@@ -71,5 +71,6 @@
     - #### Others (History)
 - ### Media
     - #### Text
+    - #### [Image](./others/media/image/image.md)
     - #### [Audio](./others/media/audio/audio.md)
     - #### [Video](./others/media/video/video.md)
