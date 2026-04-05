@@ -1,16 +1,5 @@
 # Network Performance
-- ### Bandwidth
-    - ### Narrowband
-    - ### Broadband：the wide-bandwidth data transmission
-    - ### Ultra-Wideband(UWB)
-- ### Data Transfer Rate
-    - ### upload speed
-    - ### download speed
-- ### Latency
-    - ### ping
-        <img src="./image/ping.png" width="60%">
-- ### Throughput
-- ### Quality of Service(QoS)
+- ### [Network Performance](network-performance.md)
 
 # Elements of Computer Network
 - ### Node
