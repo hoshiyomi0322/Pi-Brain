@@ -18,7 +18,7 @@
 
 # [Computer Networking](./computer-networking/computer-networking.md)
 - ### [Communication Protocol](./computer-networking/communication-protocol/communication-protocol.md)
-- ### [Wireshark](./computer-networking/wireshark.md)
+- ### [Network Performance](./computer-networking/network-performance.md)
 
 # Distributed Computing
 - ### Distributed Computing
