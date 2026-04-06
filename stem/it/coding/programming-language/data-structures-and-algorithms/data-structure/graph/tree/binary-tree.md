@@ -21,8 +21,8 @@
 
 # Binary Expression Tree
 - ### Expression
-    - ### 父節點：Operand
-    - ### 子節點：Operator
+    - ### Parent Node：Operand
+    - ### Child Node：Operator
 - ### Binary Expression Tree Traversal
     - ### Prefix Expression(Preorder)：+AB
     - ### Infix Expression(Inorder)：A+B
