@@ -36,20 +36,7 @@
 - ### Network Access Control(NAC)
 
 # Networking Hardware
-- ### Hub
-    <img src="./image/hub.png" width="30%">
-- ### Switch
-    <img src="./image/switch.png" width="30%">
-- ### Gateway
-- ### Modem
-    - ### Phone Modem
-        <img src="./image/phone-modem.png" width="30%">
-    - ### Cable Modem
-        <img src="./image/cable-modem.png" width="30%">
-    - ### DSL Modem
-        <img src="./image/dsl-modem.png" width="30%">
-- ### Router
-    <img src="./image/router.png" width="30%">
+- ### [Networking Hardware](networking-hardware.md)
 
 # Network Topology
 - ### Point-to-point topology

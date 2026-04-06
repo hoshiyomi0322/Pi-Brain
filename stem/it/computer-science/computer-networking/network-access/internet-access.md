@@ -12,7 +12,7 @@
 
 # Cable Internet(Coaxial Cable Internet)
 - ### Hybrid Fiber-Coaxial(HFC)
-- ### [Cable Modem](../computer-networking.md#cable-modem)
+- ### [Cable Modem](../networking-hardware.md#cable-modem)
 
 # Fiber Internet
 - ### Fiber To The x(FTTx)
@@ -22,7 +22,7 @@
 <div align="center"><img src="dsl.png" width="50%"></div>
 
 - ### Digital Subscriber Line Access Multiplexer(DSLAM)
-- ### [DSL Modem](../computer-networking.md#dsl-modem)
+- ### [DSL Modem](../networking-hardware.md#dsl-modem)
 
 # Satellite Internet
 - ### Communications Satellite
