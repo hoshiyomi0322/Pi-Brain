@@ -5,8 +5,6 @@
 - ### Node
     <img src="./image/node.png" width="50%">
 - ### Packet
-    - ### Packet Switching
-        <img src="./image/packet-switching.png" width="60%">
     - ### Acknowledgement(ACK)
         - Negative Acknowledgement(NAK)
     - ### [Wireshark](./networking-tools/wireshark.md)
@@ -18,6 +16,11 @@
 - ### Network Address Translation(NAT)
     - ### Port Forwarding
         <img src="./image/port-forwarding.png" width="50%">
+- ### Switching
+    - ### Packet Switching
+        <img src="./image/packet-switching.png" width="60%">
+        - Store and forward
+    - ### Circuit Switching
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
 
 # Internet Service Provider(ISP)
@@ -28,6 +31,7 @@
 - ### Internet Backbone
     <img src="./image/internet-backbone-isp.png" width="70%">
     
+    - #### [Switching]()
     - #### eg：AT&T、IBM、中華電信
 
 # Network Access
