@@ -15,7 +15,7 @@
     - 4th-Generation(4G)
     - 3th-Generation(3G)
 - ### Core Network
-    - #### [Switching]()
+    - #### [Switching](../computer-networking.md#switching-1)
 - ### Global System for Mobile Communications(GSM)
     - #### Short Message Service(SMS)
 - ### Personal Communication Service(PCS)

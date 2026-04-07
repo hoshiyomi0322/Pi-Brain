@@ -16,4 +16,3 @@
 # Protocol Layer
 - ### [Protocol Layer](./protocol-layer/protocol-layer.md)
 
-# ARPANET

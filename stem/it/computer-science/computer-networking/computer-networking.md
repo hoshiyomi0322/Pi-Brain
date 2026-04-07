@@ -4,24 +4,34 @@
 # Elements of Computer Network
 - ### Node
     <img src="./image/node.png" width="50%">
-- ### Packet
-    - ### Acknowledgement(ACK)
-        - Negative Acknowledgement(NAK)
-    - ### [Wireshark](./networking-tools/wireshark.md)
-    - ### tcpdump
+- ### Packet = Header+Payload
+    - ### Signal of packet reception
+        |Signal|Meaning|
+        |:---:|:---:|
+        |Acknowledgement(ACK)|packet was received successfully, and without errors|
+        |Negative Acknowledgement(NAK)|packet was not received successfully, or an error occurred|
+    - ### Packet Loss
+    - ### Packet Tools
+        - [Wireshark](./networking-tools/wireshark.md)
+        - tcpdump
 - ### Port
     - ### list of TCP/UDP Ports
         <img src="./image/tcp-udp-list.png" width="50%">
     - ### [Network Mapper(Nmap)](./networking-tools/nmap.md)
+- ### [Switching](#switching-1)
 - ### Network Address Translation(NAT)
     - ### Port Forwarding
         <img src="./image/port-forwarding.png" width="50%">
-- ### Switching
-    - ### Packet Switching
-        <img src="./image/packet-switching.png" width="60%">
-        - Store and forward
-    - ### Circuit Switching
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
+
+# Switching
+- ### Packet Switching
+    <img src="./image/packet-switching.png" width="60%">
+    
+    - #### Store and forward
+    - #### [ARPANET](#advanced-research-projects-agency-network-arpanet)：the first packet-switched network
+- ### Circuit Switching
+    <img src="./image/circuit-switching.png" width="60%">
 
 # Internet Service Provider(ISP)
 - ### Internet Service Provider(ISP)
@@ -31,7 +41,7 @@
 - ### Internet Backbone
     <img src="./image/internet-backbone-isp.png" width="70%">
     
-    - #### [Switching]()
+    - #### [Switching](#switching-1)
     - #### eg：AT&T、IBM、中華電信
 
 # Network Access
@@ -94,6 +104,9 @@
 - ### Network Firewall
     <img src="./image/network-firewall.png" width="30%">
 - ### Web Application Firewall(WAF)
+
+# Advanced Research Projects Agency Network (ARPANET)
+- ### the first packet-switched network
 
 # MIME Type(Media Type)
 - ### Text
