@@ -4,7 +4,7 @@
     - #### upload speed
     - #### download speed
 - ### [Latency](#latency-1)
-- ### [Delay](#delay-1)
+    - ### [Delay](#delay-2)
 - ### Throughput
 - ### Quality of Service(QoS)
 
@@ -42,6 +42,7 @@
 # Latency
 - ### ping
     <img src="./image/ping.png" width="60%">
+- ### [Delay](#delay-2)
 
 # Delay
 - ### Processing Delay
