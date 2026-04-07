@@ -13,6 +13,7 @@
 <img src="./image/circuit-switching.png" width="60%">
 
 - ### Phases：Connection Setup → Data Transfer → Connection Release
+- ### [Multiplexing](./network-access/multiple-access.md#multiplexing)
 
 # Packet Switching
 <img src="./image/packet-switching.png" width="60%">
