@@ -4,20 +4,12 @@
 # Elements of Computer Network
 - ### Node
     <img src="./image/node.png" width="50%">
-- ### Packet = Header+Payload
-    - ### Signal of packet reception
-        |Signal|Meaning|
-        |:---:|:---:|
-        |Acknowledgement(ACK)|packet was received successfully, and without errors|
-        |Negative Acknowledgement(NAK)|packet was not received successfully, or an error occurred|
-    - ### Packet Loss
-    - ### Packet Tools
-        - [Wireshark](./networking-tools/wireshark.md)
-        - tcpdump
 - ### Port
     - ### list of TCP/UDP Ports
         <img src="./image/tcp-udp-list.png" width="50%">
     - ### [Network Mapper(Nmap)](./networking-tools/nmap.md)
+- ### [Packet](packet.md)
+- ### [Routing](routing.md)
 - ### [Switching](#switching-1)
 - ### Network Address Translation(NAT)
     - ### Port Forwarding
@@ -28,8 +20,8 @@
 - ### Packet Switching
     <img src="./image/packet-switching.png" width="60%">
     
-    - #### Store and forward
-    - #### [ARPANET](#advanced-research-projects-agency-network-arpanet)：the first packet-switched network
+    - ### Store and Forward → Queuing → Transmission
+    - ### [ARPANET](#advanced-research-projects-agency-network-arpanet)：the first packet-switched network
 - ### Circuit Switching
     <img src="./image/circuit-switching.png" width="60%">
 

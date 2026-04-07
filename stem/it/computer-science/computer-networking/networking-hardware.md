@@ -4,23 +4,24 @@
 - ### Switch
     <img src="./image/switch.png" width="30%">
 - ### Gateway
-- ### [Modem](#modem-1)
+- ### [Modem](#modulator-demodulator-modem)
 - ### Router
     <img src="./image/router.png" width="25%">
-- ### [Transmission Medium](#transmission-medium-1)
 
-# Modem
+    - #### [Routing](routing.md)
+- ### Network Interface Card (NIC)
+- ### Transmission Medium
+    - ### Coaxial Cable
+    - ### Optical Fiber
+    - ### [Twisted Pair](#twisted-pair-1)
+
+# Modulator-Demodulator (Modem)
 - ### Phone Modem
     <img src="./image/phone-modem.png" width="30%">
 - ### Cable Modem
     <img src="./image/cable-modem.png" width="30%">
 - ### DSL Modem
     <img src="./image/dsl-modem.png" width="30%">
-
-# Transmission Medium
-- ### Coaxial Cable
-- ### Optical Fiber
-- ### [Twisted Pair](#twisted-pair-1)
 
 # Twisted Pair
 - ### Types of Twisted Pair

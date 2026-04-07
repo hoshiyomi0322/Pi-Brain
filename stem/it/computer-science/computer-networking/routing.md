@@ -1,6 +1,6 @@
-# Route
-- ### Routing
-- ### Router
+# Routing
+- ### Routing Algorithm
+- ### [Router](networking-hardware.md#router)
 - ### Traceroute (tracert)
     <img src="./image/tracert.png" width="60%">
 

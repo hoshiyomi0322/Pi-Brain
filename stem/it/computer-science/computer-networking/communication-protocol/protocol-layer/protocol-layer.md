@@ -8,7 +8,7 @@
 - ### Multipurpose Internet Mail Extensions (MIME)
     - #### [MIME Type (Media Type)](../../computer-networking.md#mime-typemedia-type)
 - ### Telnet：Remote login to hosts
-- ### remote desktop
+- ### Remote Desktop
 
 # Transport layer
 - ### TCP、UDP
@@ -27,21 +27,20 @@
 
 # Network layer
 - ### [Internet Protocol (IP)](ip.md)
-    - #### IPv4
-    - #### IPv6
-- ### [Route](route.md)
-- ### Gateway
+    - #### [IPv4](ip.md#ipv4-address)
+    - #### [IPv6](ip.md#ipv6-address)
+- ### [Routing](../../routing.md)
+- ### [Gateway](../../networking-hardware.md#gateway)
 - ### Internet Control Message Protocol (ICMP)
 
 # Data link layer
 - ### Wi-Fi
 - ### Ethernet
-- ### Switch
+- ### [Switch](../../networking-hardware.md#switch)
 - ### Point-to-Point Protocol (PPP)
 - ### Asynchronous Transfer Mode (ATM)
 
 # Physical layer
-- #### Electrical cable
-- #### Optical fiber
-- #### Modem
+- ### [Modem](../../networking-hardware.md#modulator-demodulator-modem)
+- ### [Transmission Medium](../../networking-hardware.md#transmission-medium)
 
