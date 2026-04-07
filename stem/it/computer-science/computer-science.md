@@ -19,6 +19,7 @@
 # [Computer Networking](./computer-networking/computer-networking.md)
 - ### [Communication Protocol](./computer-networking/communication-protocol/communication-protocol.md)
 - ### [Network Performance](./computer-networking/network-performance.md)
+- ### [Networking Hardware](./computer-networking/networking-hardware.md)
 
 # Distributed Computing
 - ### Distributed Computing
