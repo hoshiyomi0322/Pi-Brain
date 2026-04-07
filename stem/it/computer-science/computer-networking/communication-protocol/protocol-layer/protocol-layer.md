@@ -11,15 +11,15 @@
 - ### Remote Desktop
 
 # Transport layer
-- ### TCP、UDP
+- ### TCP, UDP
     ||Transmission Control Protocol (TCP)|User Datagram Protocol (UDP)|
     |:---:|:---:|:---:|
     |**Communication**|<img src="./image/tcp.png" width="70%">|<img src="./image/udp.png" width="70%">|
     |**Connection**|Connection-Oriented|Connectionless|
-    |**Speed**|slow|fast|
-    |**Reliability**|reliable|unreliable|
-    |**Handshake**|three-way handshake|no handshake|
-    |**eg**|email、web、file transfer|Real-time applications<br>streaming media、game、Voice over IP(VoIP)|
+    |**Speed**|Slow|Fast|
+    |**Reliability**|Reliable|Unreliable|
+    |**Handshake**|Three-way Handshake|No Handshake|
+    |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](ip.md#voice-over-internet-protocolvoip))|
 - ### Transport Layer Security (TLS)
     - ### Secure Sockets Layer (SSL)
 - ### Datagram Congestion Control Protocol (DCCP)

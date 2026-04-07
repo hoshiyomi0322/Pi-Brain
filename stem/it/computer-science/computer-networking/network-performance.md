@@ -5,8 +5,6 @@
     - #### download speed
 - ### [Latency](#latency-1)
 - ### [Delay](#delay-1)
-    - ### [Transmission Delay](#transmission-delay-1)
-    - ### [Propagation Delay](#propagation-delay-1)
 - ### Throughput
 - ### Quality of Service(QoS)
 
@@ -46,6 +44,8 @@
     <img src="./image/ping.png" width="60%">
 
 # Delay
+- ### Processing Delay
+- ### Queuing Delay
 - ### Transmission Delay：$\frac{L}{R}$
     - $L=\text{Length of packets (bits)}$
     - $R=\text{Data Transfer Rate(bps)}$

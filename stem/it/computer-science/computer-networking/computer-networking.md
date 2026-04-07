@@ -10,20 +10,11 @@
     - ### [Network Mapper(Nmap)](./networking-tools/nmap.md)
 - ### [Packet](packet.md)
 - ### [Routing](routing.md)
-- ### [Switching](#switching-1)
+- ### [Switching](switching.md)
 - ### Network Address Translation(NAT)
     - ### Port Forwarding
         <img src="./image/port-forwarding.png" width="50%">
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
-
-# Switching
-- ### Packet Switching
-    <img src="./image/packet-switching.png" width="60%">
-    
-    - ### Store and Forward → Queuing → Transmission
-    - ### [ARPANET](#advanced-research-projects-agency-network-arpanet)：the first packet-switched network
-- ### Circuit Switching
-    <img src="./image/circuit-switching.png" width="60%">
 
 # Internet Service Provider(ISP)
 - ### Internet Service Provider(ISP)
