@@ -14,7 +14,7 @@
 - ### Ultra-Wideband(UWB)
 
 # Data Transfer Rate
-- ### Data Transfer Rate：$R=\frac{\text{Amount of Data}}{\text{Transfer Time}}$
+- ### Data Transfer Rate：$`R=\frac{\text{Amount of Data}}{\text{Transfer Time}}`$
 - ### [Data Transfer Rate Unit](#data-transfer-rate-unit-1)
 
 # Data Transfer Rate Unit
@@ -46,10 +46,10 @@
 # Delay
 - ### Processing Delay
 - ### Queuing Delay
-- ### Transmission Delay：$\frac{L}{R}$
+- ### Transmission Delay：$`\frac{L}{R}`$
     - $L=\text{Length of packets (bits)}$
     - $R=\text{Data Transfer Rate(bps)}$
-- ### Propagation Delay：$\frac{d}{s}$
+- ### Propagation Delay：$`\frac{d}{s}`$
     - $d=\text{distance}$
     - $s=\text{signal speed}$
 
