@@ -1,16 +1,21 @@
 # Instruction Set Architecture(ISA)
-||RISC|CISC|
+||[RISC](#reduced-instruction-set-computer-risc)|[CISC](#complex-instruction-set-computer-cisc)|
 |:---:|:---:|:---:|
-|Instruction Format|same|different|
-|Word size|指令長度大小(bits)|2 bytes(16 bits)|
-|Pipeline|easy|difficult|
-- ### Reduced Instruction Set Computer(RISC)
+|**Instruction Complexity**|Simple|Complex|
+|**Instruction Format**|Fixed|Variable|
+|**Execution Cycles**|Single clock cycle|Multiple clock cycles|
+|**Number of Registers**|Many|Few|
+|**Power Consumption**|Low|High|
+|**Memory Access**|Load/Store only|Can Access Memory Directly|
+|**Pipeline**|Easy|Difficult|
+|**Emphasis**|Software|Hardware|
+- ### Reduced Instruction Set Computer (RISC)
   - #### Advanced RISC Machine(ARM)
   - #### RISC-V
   - #### [Microprocessor without Interlocked Pipeline Stages(MIPS)](./mips/mips.md)
-- ### Complex Instruction Set Computer(CISC)
+- ### Complex Instruction Set Computer (CISC)
   - #### x86
-- ### Very Long Instruction Word(VLIW)
+- ### Very Long Instruction Word (VLIW)
 
 # Machine Language
 - ### Operation Code(opcode)
