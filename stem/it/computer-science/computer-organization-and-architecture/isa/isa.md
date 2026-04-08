@@ -17,11 +17,12 @@
 
 # RISC, CISC
 - ### Reduced Instruction Set Computer (RISC)
-    - #### Advanced RISC Machine(ARM)
+    - #### Advanced RISC Machine (ARM)
     - #### RISC-V
-    - #### [Microprocessor without Interlocked Pipeline Stages(MIPS)](./mips/mips.md)
+    - #### [Microprocessor without Interlocked Pipeline Stages (MIPS)](./mips/mips.md)
 - ### Complex Instruction Set Computer (CISC)
     - #### x86
+    - #### Virtual Address eXtension (VAX)
 
 # Register
 - ### General-Purpose Register(GPR)
