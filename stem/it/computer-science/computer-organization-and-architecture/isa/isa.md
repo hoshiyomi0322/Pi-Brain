@@ -1,23 +1,41 @@
 # Instruction Set Architecture(ISA)
-||[RISC](#reduced-instruction-set-computer-risc)|[CISC](#complex-instruction-set-computer-cisc)|
-|:---:|:---:|:---:|
-|**Instruction Complexity**|Simple|Complex|
-|**Instruction Format**|Fixed|Variable|
-|**Execution Cycles**|Single clock cycle|Multiple clock cycles|
-|**Number of Registers**|Many|Few|
-|**Power Consumption**|Low|High|
-|**Memory Access**|Load/Store only|Can Access Memory Directly|
-|**Pipeline**|Easy|Difficult|
-|**Emphasis**|Software|Hardware|
+- ### Types of ISA
+    - ### [RISC, CISC](#risc-cisc-1)
+        ||[RISC](#reduced-instruction-set-computer-risc)|[CISC](#complex-instruction-set-computer-cisc)|
+        |:---:|:---:|:---:|
+        |**Instruction Complexity**|Simple|Complex|
+        |**Instruction Format**|Fixed|Variable|
+        |**Execution Cycles**|Single clock cycle|Multiple clock cycles|
+        |**Number of Registers**|Many|Few|
+        |**Power Consumption**|Low|High|
+        |**Memory Access**|Load/Store only|Can Access Memory Directly|
+        |**Pipeline**|Easy|Difficult|
+        |**Emphasis**|Software|Hardware|
+    - ### Very Long Instruction Word (VLIW)
+- ### [Register](#register-1)
+- ### [Addressing mode](#addressing-mode-1)
+
+# RISC, CISC
 - ### Reduced Instruction Set Computer (RISC)
-  - #### Advanced RISC Machine(ARM)
-  - #### RISC-V
-  - #### [Microprocessor without Interlocked Pipeline Stages(MIPS)](./mips/mips.md)
+    - #### Advanced RISC Machine(ARM)
+    - #### RISC-V
+    - #### [Microprocessor without Interlocked Pipeline Stages(MIPS)](./mips/mips.md)
 - ### Complex Instruction Set Computer (CISC)
-  - #### x86
-- ### Very Long Instruction Word (VLIW)
+    - #### x86
+
+# Register
+- ### General-Purpose Register(GPR)
+- ### Special-Purpose Register(SPR)
+    - ### Program Counter (PC)
+
+# Addressing mode
+- ### Direct Addressing
+- ### PC-Relative Addressing
+- ### Indexed Addressing
+- ### Addressing mode for Data
+    - ### Immediate Addressing
 
 # Machine Language
-- ### Operation Code(opcode)
-- ### Addressing mode
+- ### Operation Code (opcode)
 - ### Operand
+
