@@ -14,23 +14,12 @@
 ###### Heading 6
 ```
 
-# Text
-- ### Bold Text
-    **text**
-    ```md
-    **text** (ctrl+b)
-    ```
-- ### Italic Text
-    *text*
-    ```md
-    *text* (ctrl+i)
-    ```
-- ### Strikethrough
-    ~~text~~
-    ```md
-    ~~text~~
-    ```
-
+# Text Style
+|Style|Output|Markdown|Shortcut|
+|:---:|:---:|:---:|:---:|
+|Bold Text|**text**|`**text**`|select a text, `Ctrl+b`|
+|Italic Text|*text*|`*text*`|select a text, `Ctrl+i`|
+|Strikethrough|~~text~~|`~~text~~`||
 
 # Horizontal Rule
 ---
@@ -70,7 +59,7 @@
     [Google](https://google.com)
     ```md
     [Google](https://google.com)
-    (select the text and paste link(ctrl+v))
+    (select a text, paste link (Ctrl+v))
     ```
     - #### File：`[link text](file path)`
         [LaTex](../latex.md)
