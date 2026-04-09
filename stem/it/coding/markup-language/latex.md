@@ -60,8 +60,8 @@
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
 |Overline|$\overline{text}$|`\overline{text}`|
-|Underbrace|$`\underbrace{text}`$、$`\underbrace{text}_{n}`$|`\underbrace{text}`、`\underbrace{text}_{n}`|
-|Overbrace|$`\overbrace{text}`$、$`\overbrace{text}^{n}`$|`\overbrace{text}`、`\overbrace{text}^{n}`|
+|Underbrace|$`\underbrace{text},~\underbrace{text}_{n}`$|`\underbrace{text}`, `\underbrace{text}_{n}`|
+|Overbrace|$`\overbrace{text},~\overbrace{text}^{n}`$|`\overbrace{text}`, `\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
 |Tilde|$\tilde{a}$|`\tilde{a}`|
@@ -113,9 +113,9 @@
 |:---:|:---:|:---:|
 |Superscript|$a^{b}$|`{a}^{b}`|
 |Subscript|$a_{b}$|`{a}_{b}`|
-|Superscript and Subscript|$a_{b}^{c}$|`{a}_{b}^{c}`、`{a}^{c}_{b}`|
-|Superscript and Subscript|$a_{b+1}^{c+2}$|`{a}_{b+1}^{c+2}`、`{a}^{c+2}_{b+1}`|
-|Combinatorics|$C_{k}^{n}$|`{C}_{k}^{n}`、`{C}^{n}_{k}`|
+|Superscript and Subscript|$a_{b}^{c}$|`{a}_{b}^{c}`, `{a}^{c}_{b}`|
+|Superscript and Subscript|$a_{b+1}^{c+2}$|`{a}_{b+1}^{c+2}`, `{a}^{c+2}_{b+1}`|
+|Combinatorics|$C_{k}^{n}$|`{C}_{k}^{n}`, `{C}^{n}_{k}`|
 
 # Fraction
 |Output|LaTex|
@@ -133,8 +133,8 @@
 |Name|Symbol|LaTex|
 |:---:|:---:|:---:|
 |infinity|$\infty$|`\infty`|
-|circle|$`\circ`$、$`180^{\circ}`$|`\circ`、`180^{\circ}`|
-|Prime|$`\prime`$、$`x^{\prime}`$、$`x^{\prime\prime}`$|`\prime`、`x^{\prime}`、`x^{\prime\prime}`|
+|circle|$`\circ,~180^{\circ}`$|`\circ`, `180^{\circ}`|
+|Prime|$`\prime,~x^{\prime},~x^{\prime\prime}`$|`\prime`, `x^{\prime}`, `x^{\prime\prime}`|
 |Partial Derivative|$`\partial`$|`\partial`|
 |Angle|$\angle$|`\angle`|
 |Triangle|$\triangle$|`\triangle`|
@@ -160,8 +160,8 @@
     - #### Left/Right Arrow
         |Direction|Symbol|LaTex|
         |:---:|:---:|:---:|
-        |right|$\rightarrow$|`\rightarrow`、`\to`|
-        |left|$\leftarrow$|`\leftarrow`、`\gets`|
+        |right|$\rightarrow$|`\rightarrow`, `\to`|
+        |left|$\leftarrow$|`\leftarrow`, `\gets`|
         |left-right|$\leftrightarrow$|`\leftrightarrow`|
         - #### Long Arrow：`\long`+[Left/Rithgt Arrow](#leftright-arrow)
             |Symbol|LaTex|
@@ -185,9 +185,9 @@
     |$\Downarrow$|`\Downarrow`|
     |$\Leftrightarrow$|`\Leftrightarrow`|
     |$\Updownarrow$|`\Updownarrow`|
-    |$\Longrightarrow$|`\Longrightarrow`、`\implies`|
-    |$\Longleftarrow$|`\Longleftarrow`、`\impliedby`|
-    |$\Longleftrightarrow$|`\Leftrightarrow`、`\iff`|
+    |$\Longrightarrow$|`\Longrightarrow`, `\implies`|
+    |$\Longleftarrow$|`\Longleftarrow`, `\impliedby`|
+    |$\Longleftrightarrow$|`\Leftrightarrow`, `\iff`|
 
 - ### Diagonal Arrow：`\intercardinal directions`+`arrow`
     |intercardinal directions|Symbol|LaTex|
