@@ -1,4 +1,5 @@
 # Shortcuts
+- ### [Editor Shortcuts](../keyboard-shortcuts.md#editor-shortcuts)
 - ### Multiple Cursors
     |Shortcuts|Function|
     |:---:|:---:|
@@ -10,7 +11,6 @@
         |select a text, `Ctrl + D`|add cursor (the next matching text)|
         |select a text, `Ctrl + Shift + L`|add cursors (all matching text)|
         |find (`Ctrl+F`), `Alt + Enter`|add cursors (all find matches)|
-
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|

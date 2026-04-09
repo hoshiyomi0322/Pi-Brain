@@ -1,7 +1,7 @@
-# Visual Studio Code(VS Code)
-- ### [Visual Studio Code(VS Code)](vs-code.md)
+# Visual Studio Code (VS Code)
+- ### [Visual Studio Code (VS Code)](vs-code.md)
 
-# Git and GitHub
+# Git
 - ### [Git](./git/git.md)
 
 # Others
