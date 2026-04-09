@@ -1,13 +1,23 @@
 # Path
 ```bash
 / # Root Directory or Path Separator
-./ # Current Directory
+. # Current Directory
+.. # Parent Directory
 ```
-- ### n Levels up：`../`*n
+- ### eg
     ```bash
-    ../ # Parent Directory (1 level up)
-    ../../ # 2 levels up
-    ../../.. # 3 levels up
+    # Current Path：/Root/1/2/3/4/4-1.txt
+    
+    / # /Root
+    
+    . # /Root/1/2/3/4
+    ./4-2.txt # /Root/1/2/3/4/4-2.txt
+    
+    .. # /Root/1/2/3
+    ../.. # /Root/1/2
+    ../../.. # /Root/1
+    ../3-1.txt # /Root/1/2/3/3-1.txt
+    ../../../1-1.txt # /Root/1/1-1.txt
     ```
 
 # Basic
