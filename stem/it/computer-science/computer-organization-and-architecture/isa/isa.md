@@ -5,7 +5,7 @@
         |:---:|:---:|:---:|
         |**Instruction Complexity**|Simple|Complex|
         |**Instruction Format**|Fixed|Variable|
-        |**Word Size**|$\frac{\text{Instruction Format}}{8}$|2 bytes|
+        |**Word Size**|Instruction Length|2 bytes|
         |**Execution Cycles**|Single clock cycle|Multiple clock cycles|
         |**Number of Registers**|Many|Few|
         |**Power Consumption**|Low|High|
@@ -13,6 +13,7 @@
         |**Pipeline**|Easy|Difficult|
         |**Emphasis**|Software|Hardware|
     - ### Very Long Instruction Word (VLIW)
+- ### Word
 - ### [Register](#register-1)
 - ### [Addressing mode](#addressing-mode-1)
 
