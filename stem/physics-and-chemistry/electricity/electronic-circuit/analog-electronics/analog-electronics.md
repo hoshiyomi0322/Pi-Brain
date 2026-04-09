@@ -1,16 +1,16 @@
 - ### Elementary Charge：$`e=1.602176\times{10}^{-19}(C)`$
 - ### Electric Charge：$`Q=It=CV`$
-    - ### Unit：$`C`$ (Coulomb)
+    - ### [Unit](../../../../unit.md)：$`C`$ (Coulomb)
     - ### $t$＝time($s$)
 - ### Electric Current：$`I=\frac{Q}{t}=\frac{V}{R}`$
-    - ### Unit：$`A`$ (Ampere)
+    - ### [Unit](../../../../unit.md)：$`A`$ (Ampere)
 - ### Voltage：$`V=IR=\frac{Q}{C}`$
-    - ### Unit：$`V`$ (Volt)
+    - ### [Unit](../../../../unit.md)：$`V`$ (Volt)
 - ### Electrical Energy：$`E=QV=ItV`$
-    - ### Unit：$`J`$ (Joule)
+    - ### [Unit](../../../../unit.md)：$`J`$ (Joule)
     - ### $`E(t)=\int_{t_0}^{t}{I(t)\cdot V(t)\,dx}`$
 - ### Electric Power：$`P=\frac{E}{t}=\frac{QV}{t}=IV`$
-    - ### Unit：$`W`$ (Watt)
+    - ### [Unit](../../../../unit.md)：$`W`$ (Watt)
 
 # Electric Current/Electron Flow
 - ### Electric Current：正電荷的移動方向
@@ -43,7 +43,7 @@
 
 # Electric Battery
 - ### Electromotive Force(EMF)：$`\varepsilon=\frac{E}{Q}=IR`$
-    - #### Unit：$`V`$ (Volt)
+    - #### [Unit](../../../../unit.md)：$`V`$ (Volt)
     - #### $R$＝總電阻
 - ### 內電阻(電池內部的電阻)：$`r`$
 - ### 端電壓：$`V=\varepsilon-Ir=I(R-r)`$
