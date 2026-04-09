@@ -10,7 +10,7 @@
 - ### 春茶
 - ### tuki.
 - ### LiSA
-- ### Aimer(エメ)
+- ### Aimer (エメ)
 - ### Uru
 - ### aiko
 - ### milet
@@ -21,8 +21,8 @@
 - ### ユイカ
 - ### ヒグチアイ
 - ### アオイエマ
-- ### アイナ・ジ・エンド(AiNA THE END)
-- ### まじ娘(majiko)
+- ### アイナ・ジ・エンド (AiNA THE END)
+- ### まじ娘 (majiko)
 - ### BoA
 - ### yama
 - ### 酸欠少女さユり
@@ -31,11 +31,11 @@
 - ### とた
 - ### 汐れいら
 - ### 96猫
-- ### 乃紫(noa)
+- ### 乃紫 (noa)
 - ### waka
 - ### Ado
 - ### Eve
-- ### なとり(natori)
+- ### なとり (natori)
 - ### 優里
 - ### 米津玄師
 - ### 菅田将暉
@@ -47,12 +47,12 @@
 - ### 崎山蒼志
 - ### 秦基博
 - ### 神山羊
-- ### カンザキイオリ(Iori Kanzaki)
+- ### カンザキイオリ (Iori Kanzaki)
 - ### キタニタツヤ
 - ### Tani Yuuki
 - ### Fujii Kaze
 - ### Vaundy
-- ### 幾田りら(いくら)
+- ### 幾田りら (いくら)
 - ### 奥華子
 - ### 家入レオ
 - ### 手嶌葵
@@ -70,14 +70,14 @@
 - ### クリス・ハート
 
 # バンド
-- ### Mrs. GREEN APPLE(ミセス)
-- ### ヨルシカ
+- ### Mrs. GREEN APPLE (ミセス)
+- ### ヨルシカ (n-buna)
 - ### ZUTOMAYO
 - ### あたらよ
-- ### ロクデナシ
+- ### ロクデナシ (Rokudenashi)
 - ### ミセカイ
 - ### ユアネス
-- ### tayori
+- ### tayori (Islet feat.倚水)
 - ### Novelbright
 - ### Omoinotake
 - ### Official髭男dism
