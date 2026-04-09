@@ -153,7 +153,7 @@
     |Because|$\because$|`\because`|
     |Therefore|$\therefore$|`\therefore`|
     |For All|$\forall$|`\forall`|
-    |Exist|$`\exists`$|`\exists`|
+    |There Exists|$`\exists`$|`\exists`|
 
 # Arrow
 - ### Basic Arrow：`\direction`+`arrow`
