@@ -11,7 +11,11 @@
 - ### add → commit → push
 - ### fetch → merge → pull
 
-# Command
+# Git Command
+```bash
+git init
+git clone
+```
 ```bash
 git status #查看目前檔案狀態 (最常用！)
 
@@ -27,4 +31,10 @@ git push
 git fetch
 git merge
 git pull
+
+git restore
+git remote
+git reset
+
+git branch
 ```
