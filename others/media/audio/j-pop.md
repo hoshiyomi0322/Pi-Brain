@@ -77,6 +77,7 @@
 - ### ロクデナシ
 - ### ミセカイ
 - ### ユアネス
+- ### tayori
 - ### Novelbright
 - ### Omoinotake
 - ### Official髭男dism
