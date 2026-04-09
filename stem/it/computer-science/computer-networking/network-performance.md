@@ -17,25 +17,25 @@
 - ### Data Transfer Rate：$`R=\frac{\text{Amount of Data}}{\text{Transfer Time}}`$
 - ### [Data Transfer Rate Unit](#data-transfer-rate-unit-1)
 
-# Data Transfer Rate Unit
-- ### bits per second (Decimal)
-    |Unit|Meaning|Value|
+# Data Transfer Rate [Unit](../../../unit.md)
+- ### [bits](../data-representation/data-representation.md#bit-decimal) per second (Decimal)
+    |Unit|Name|Value|
     |:---:|:---:|:---:|
     |bps, b/s|bits per second|$1\text{ bps}$|
-    |kbps, Kb/s|Kilobits per second|$10^3\text{ bps}$|
+    |kbps, kb/s|kilobits per second|$10^3\text{ bps}$|
     |Mbps, Mb/s|Megabits per second|$10^6\text{ bps}$|
     |Gbps, Gb/s|Gigabits per second|$10^9\text{ bps}$|
-- ### bits per second (Binary)
-    |Unit|Meaning|Value|
+- ### [bits](../data-representation/data-representation.md#bit-binary) per second (Binary)
+    |Unit|Name|Value|
     |:---:|:---:|:---:|
-    |kibps|Kibibits per second|$2^{10}\text{ bps}$|
+    |kibps|kibibits per second|$2^{10}\text{ bps}$|
     |Mibps|Mebibits per second|$2^{20}\text{ bps}$|
     |Gibps|Gibibits per second|$2^{30}\text{ bps}$|
-- ### Bytes per second
-    |Unit|Meaning|Value|
+- ### [Bytes](../data-representation/data-representation.md#byte-decimal) per second
+    |Unit|Name|Value|
     |:---:|:---:|:---:|
     |Bps, B/s|Bytes per second|$8\text{ bps}$|
-    |KBps, KB/s|KiloBytes per second|$10^3\text{ Bps}=8\text{ Kbps}$|
+    |kBps, kB/s|kiloBytes per second|$10^3\text{ Bps}=8\text{ Kbps}$|
     |MBps, MB/s|MegaBytes per second|$10^6\text{ Bps}=8\text{ Mbps}$|
     |GBps, GB/s|GigaBytes per second|$10^9\text{ Bps}=8\text{ Gbps}$|
 
