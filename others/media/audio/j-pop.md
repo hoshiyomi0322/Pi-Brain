@@ -4,7 +4,6 @@
 - ### 理芽
 - ### HACHI
 - ### VESPERBELL
-- ### Hanon&Kotoha
 - ### こはならむ
 - ### DAZBEE
 - ### 春茶
@@ -78,6 +77,7 @@
 - ### ミセカイ
 - ### ユアネス
 - ### tayori (Islet feat.倚水)
+- ### ハコニワリリィ (Hanon×Kotoha)
 - ### Novelbright
 - ### Omoinotake
 - ### Official髭男dism
