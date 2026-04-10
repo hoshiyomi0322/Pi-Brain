@@ -12,8 +12,8 @@
 - ### Electric Power：$`P=\frac{E}{t}=\frac{QV}{t}=IV`$
     - ### [Unit](../../../../unit.md)：$`W`$ (Watt)
 
-# Electric Current/Electron Flow
-- ### Electric Current：正電荷的移動方向
+# Electric Current and Electron Flow
+- ### Electric Current (Current)：正電荷的移動方向
     - ### 電流方向相反：變號
     - ### DC、AC
         - #### Direct Current(DC)
