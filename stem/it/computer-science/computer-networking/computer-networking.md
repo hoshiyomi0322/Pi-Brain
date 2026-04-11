@@ -1,5 +1,5 @@
-# Network Performance
-- ### [Network Performance](network-performance.md)
+# [Network Performance](./network-performance/network-performance.md)
+- ### [Data Transfer Rate](./network-performance/data-transfer-rate.md)
 
 # Elements of Computer Network
 - ### Node
