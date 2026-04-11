@@ -1,6 +1,6 @@
-- ### RMB＝Right Mouse Button/Right Click
-- ### LMB＝Left Mouse Button/Left Click
-- ### MMB＝Middle Mouse Button/Middle Click
+- ### RMB = Right Mouse Button, Right Click
+- ### LMB = Left Mouse Button, Left Click
+- ### MMB = Middle Mouse Button, Middle Click
 
 # Windows Shortcuts
 |Shortcuts|Function|
