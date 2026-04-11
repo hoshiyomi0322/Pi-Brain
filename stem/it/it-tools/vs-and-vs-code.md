@@ -1,3 +1,8 @@
+# Visual Studio (VS) and Visual Studio Code (VS Code)
+- ### Visual Studio (VS)
+- ### Visual Studio Code (VS Code)
+- ### [Visual Studio Code for the Web](https://vscode.dev/)
+
 # Shortcuts
 - ### [Editor Shortcuts](../keyboard-shortcuts.md#editor-shortcuts)
 - ### Multiple Cursors

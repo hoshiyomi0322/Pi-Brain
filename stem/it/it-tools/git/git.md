@@ -20,4 +20,11 @@
 - ### fetch → merge → pull
 
 # GitHub
+- ### [GitHub Web Editor](https://github.dev/)
+    - ### Swap `.com` with `.dev` in the URL
+        - `https://github.com/user/repo` → `https://github.dev/user/repo`
+        - eg：`https://github.dev/hoshiyomi0322/Pi-Brain`
+    - ### Keyboard Shortcut：Press the `.` key on any repository or pull request.
+    - ### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
+        <img src="github-web-editor.png" width="25%">
 
