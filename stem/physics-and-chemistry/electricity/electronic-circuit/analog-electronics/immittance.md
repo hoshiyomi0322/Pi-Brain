@@ -43,7 +43,8 @@
 
 # Linear Component
 - ### Resistor (R)
-    - ### Resistor Color Code：黑棕紅橙黃綠藍紫灰白金銀
+    - ### Resistor Color Code
+        <img src="./image/resistor-color-code.png" width="50%">
     - ### Ohm's Law：$`V=IR`$
     - ### 電阻器電位能：$`E=QV=ItV=I^2Rt=\frac{V^2}{R}t`$
 - ### Capacitor (C)：$`Q=CV`$
