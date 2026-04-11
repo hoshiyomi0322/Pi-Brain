@@ -1,25 +1,28 @@
+# Impedance
 - ### Impedance：$`Z=R+jX`$
     - ### $`j=\sqrt{-1}`$
-    - ### $`R`$ = Resistance
 - ### $`Z=|z|(\cos{θ}+j\sin{θ})=|z|\times e^{jθ}`$
     - ### 幅值：$`|z|=\sqrt{R^2+X^2}`$
     - ### 幅角：$`θ=\arctan{(\frac{X}{R})}`$
     - ### $`\sin{θ}=\frac{X}{|z|},\cos{θ}=\frac{R}{|z|},\tan{θ}=\frac{X}{R}`$
+- ### [Resistance ($`R`$)](#resistance)
 - ### Reactance：$`X=X_L-X_C`$
     - ### 容抗：$`X_C=\frac{1}{ωC}=\frac{1}{2πfC}`$
     - ### 感抗：$`X_L=ωL=2πfL`$
     - ### 角速度：$`ω2πf`$
-- ### 電阻、電容、電感→阻抗
-    - ### 電阻的阻抗：$`Z_R=R`$
-    - ### 電容的阻抗：$`Z_c=-jX_C=\frac{1}{jωC}=\frac{1}{sC}`$
-    - ### 電感的阻抗：$`Z_L=jX_L=jωL=sL`$
+- ### Linear Component → Impedance
+    - ### Impedance of Resistor：$`Z_R=R`$
+    - ### Impedance of Capacitance：$`Z_c=-jX_C=\frac{1}{jωC}=\frac{1}{sC}`$
+    - ### Impedance of Inductance：$`Z_L=jX_L=jωL=sL`$
 - ### [Unit](../../../../unit.md) (阻抗、電抗、容抗、感抗)：$`Ω`$ (Ohm)
----
+
+# Admittance
 - ### Admittance：$`Y=G+jB=\frac{1}{Z}`$
 - ### Conductance：$`G=\frac{1}{R}=\frac{I}{V}`$
 - ### Susceptance：$`B=\frac{1}{X}`$
 - ### [Unit](../../../../unit.md) (Admittance, Conductance, Susceptance)：$`S`$ (Siemens)
----
+
+# Resistance, Capacitance, Inductance
 - ### Resistance：$`R=\frac{V}{I}=ρ\frac{l}{A}`$
     - ### [Unit](../../../../unit.md)：$`Ω`$ (Ohm)
     - ### $`l`$ = 長度
@@ -37,31 +40,33 @@
         - ### $`A`$ = 截面積
         - ### $`l`$ = 導線長度
         - ### $`N`$ = 圈數
----
-- ### Resistor(R)
+
+# Linear Component
+- ### Resistor (R)
     - ### Resistor Color Code：黑棕紅橙黃綠藍紫灰白金銀
     - ### Ohm's Law：$`V=IR`$
     - ### 電阻器電位能：$`E=QV=ItV=I^2Rt=\frac{V^2}{R}t`$
-- ### Capacitor(C)：$`Q=CV`$
+- ### Capacitor (C)：$`Q=CV`$
     - ### 電容器電流：$`I(t)=\frac{dQ}{dt}=C\frac{dV(t)}{dt}`$
     - ### 電容器電壓：$`V(t)=\frac{1}{C}\int_{t_0}^{t}{I(t)\,dt}+V(t_0)`$
         - ### $`t_0`$ = 初始時間
     - ### 電壓連續性：$`V(t^-)=V(t^+)`$
     - ### 電容器電位能：$`E=\frac{1}{2}CV^2=\frac{1}{2}QV=\frac{Q^2}{2C}`$
-- ### Inductor(L)：$`V=-L\frac{ΔI}{Δt}`$
+- ### Inductor (L)：$`V=-L\frac{ΔI}{Δt}`$
     - ### 電感器電壓：$`V(t)=L\frac{dI(t)}{dt}`$
     - ### 電感器電流：$`I(t)=\frac{1}{L}\int_{t_0}^{t}{V(t)\,dt}+I(t_0)`$
         - ### $`t_0`$ = 初始時間
     - ### 電流連續性：$`I(t^-)=I(t^+)`$
     - ### 電感器電位能：$`E=\frac{1}{2}LI^2`$
----
-- ### Resistivity(電阻率)：$`ρ=R\frac{A}{l}=ρ_0(1+α(T-T_0))`$
+
+# Resistivity, Conductivity
+- ### Resistivity：$`ρ=R\frac{A}{l}=ρ_0(1+α(T-T_0))`$
     - ### $`l`$ = 長度
     - ### $`A`$ = 截面積
     - ### $`α`$ = 電阻率的溫度係數
-    - ### $`ρ_0`$ = 溫度T_0的電阻率
-    - ### $`T_0`$ = 電阻率ρ_0的溫度
-    - ### $`T`$ = 電阻率ρ的溫度
+    - ### $`ρ_0`$ = 溫度$`T_0`$的電阻率
+    - ### $`T`$ = 電阻率$`ρ`$的溫度
+      - ### $`T_0`$ = 電阻率$`ρ_0`$的溫度
 - ### Conductivity：$`σ=\frac{1}{ρ}=\frac{J}{E}`$
     - ### $`J`$ = 電流密度
     - ### $`E`$ = 電場
