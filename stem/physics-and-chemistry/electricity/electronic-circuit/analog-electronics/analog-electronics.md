@@ -26,9 +26,9 @@
 # Electronic Symbol
 |Electrical Components|Symbol|
 |:---:|:---:|
-|Electric Battery|<img src="./image/electric-battery.png" width="50%">|
-|Switch|<img src="./image/switch.png" width="60%">|
-|Ground|<img src="./image/ground.png" width="20%">|
+|**Electric Battery**|<img src="./image/electric-battery.png" width="50%">|
+|**Switch**|<img src="./image/switch.png" width="60%">|
+|**Ground**|<img src="./image/ground.png" width="20%">|
 
 - ### Source
     ||Voltage Source|Current Source|
