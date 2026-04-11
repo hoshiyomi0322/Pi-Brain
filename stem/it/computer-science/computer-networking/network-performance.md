@@ -51,6 +51,6 @@
     - $L=\text{Length of packets (bits)}$
     - $R=\text{Data Transfer Rate(bps)}$
 - ### Propagation Delay：$`\frac{d}{s}`$
-    - $d=\text{distance}$
-    - $s=\text{signal speed}$
+    - $d=\text{distance of link}$
+    - $s=\text{propagation speed}$
 
