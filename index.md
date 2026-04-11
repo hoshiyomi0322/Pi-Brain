@@ -6,7 +6,7 @@
     - #### [Cybersecurity](./stem/it/cybersecurity/cybersecurity.md)
     - #### Machine Learning
     - #### [IT Tools](./stem/it/it-tools/it-tools.md)
-    - #### Keyboard Shortcuts
+    - #### [Keyboard Shortcuts](./stem/it/keyboard-shortcuts.md)
 - ### Math
     - #### Number and Operator
     - #### [Algebra](./stem/math/algebra/algebra.md)
