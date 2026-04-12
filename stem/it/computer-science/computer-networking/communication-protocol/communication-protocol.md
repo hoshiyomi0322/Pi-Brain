@@ -16,3 +16,10 @@
 - ### Proprietary Protocol
 
 # Encapsulation
+- ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
+    <img src="./image/encapsulation.png" width="65%">
+
+    - ### Encapsulation：Add Header to Packet
+    - ### Decapsulation：Remove Header from Packet
+
+
