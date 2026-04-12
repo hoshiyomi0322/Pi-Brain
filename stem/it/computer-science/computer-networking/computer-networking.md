@@ -9,11 +9,13 @@
         <img src="./image/tcp-udp-list.png" width="50%">
     - ### [Network Mapper (Nmap)](./networking-tools/nmap.md)
 - ### [Packet](packet.md)
+- ### Socket
+    <img src="./image/socket.png" width="55%">
 - ### [Routing](routing.md)
 - ### [Switching](switching.md)
 - ### Network Address Translation (NAT)
     - ### Port Forwarding
-        <img src="./image/port-forwarding.png" width="50%">
+        <img src="./image/port-forwarding.png" width="65%">
 - ### [Internet Service Provider (ISP)](isp.md)
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
 
