@@ -105,29 +105,31 @@
 
 # MIME Type(Media Type)
 - ### Text
-    - #### text/plain(.txt)
-    - #### text/html(.html)
+    - #### `text/plain` (.txt)
+    - #### `text/html` (.html)
 - ### Image
-    - #### image/png(.png)
-    - #### image/jpeg(.jpg, .jpeg)
-    - #### image/webp(.webp)
-    - #### image/svg+xml(.svg)
-    - #### image/gif(.gif)
+    - #### `image/png` (.png)
+    - #### `image/jpeg` (.jpg, .jpeg)
+    - #### `image/webp` (.webp)
+    - #### `image/svg+xml` (.svg)
+    - #### `image/gif` (.gif)
 - ### Audio
-    - #### audio/mpeg(.mp3)
-    - #### audio/ogg(.ogg)
-    - #### audio/wave(.wav)
-    - #### audio/webm(.webm)
+    - #### `audio/mpeg` (.mp3)
+    - #### `audio/ogg` (.ogg)
+    - #### `audio/wave` (.wav)
+    - #### `audio/webm` (.webm)
 - ### Video
-    - #### video/mpeg(.mpeg)
-    - #### video/mp4(.mp4)
+    - #### `video/mpeg` (.mpeg)
+    - #### `video/mp4` (.mp4)
 - ### Application
-    - #### application/x-msdownload(.exe)
-    - #### application/pdf(.pdf)
+    - #### `application/x-msdownload` (.exe)
+    - #### `application/pdf` (.pdf)
 
-# Organization
-- ### Internet Corporation for Assigned Names and Numbers(ICANN)
+# Network Organization
+- ### Internet Corporation for Assigned Names and Numbers (ICANN)
     - #### manage：IP address, DNS
-- ### Federal Communications Commission(FCC)
+- ### Internet Engineering Task Force (IETF)
+    - #### Request for Comments (RFC)
+- ### Federal Communications Commission (FCC)
     - #### net neutrality
         <img src="./image/net-neutrality.png" width="40%">
