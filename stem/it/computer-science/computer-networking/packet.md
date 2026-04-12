@@ -11,6 +11,7 @@
 
 # Encapsulation
 
-# Packet Tools
-- ### [Wireshark](./networking-tools/wireshark.md)
-- ### tcpdump
+# Packet Sniffing
+- ### Packet Sniffer
+    - ### [Wireshark](./networking-tools/wireshark.md)
+    - ### tcpdump
