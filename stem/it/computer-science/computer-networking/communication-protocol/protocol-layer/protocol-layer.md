@@ -46,7 +46,12 @@
 
 # Others
 - ### TLS/SSL
-    - ### Evolution：Secure Sockets Layer (SSL) → Transport Layer Security (TLS)
-    - ### Layer：[Transport](#transport-layer) < TLS/SSL < [Application](#application-layer)
-    - ### Workflow：TCP Three-way Handshake → TLS Handshake → Encrypted Data Transfer
+    - #### Evolution：Secure Sockets Layer (SSL) → Transport Layer Security (TLS)
+    - #### Layer：[Transport layer](#transport-layer) < TLS/SSL < [Application layer](#application-layer)
+    - #### Workflow：TCP Three-way Handshake → TLS Handshake → Encrypted Data Transfer
+- ### Automatic Repeat-reQuest(ARQ)
+    - #### Layer：[Data link layer](#data-link-layer), [Transport layer](#transport-layer)
+    - #### Stop-and-Wait ARQ
+    - #### Go-Back-N ARQ
+    - #### Selective Repeat ARQ
 
