@@ -14,6 +14,7 @@
     - ### TCP/IP Protocol Suite (Internet Protocol Suite, DoD model)
         <img src="./image/tcp-ip.png" width="50%">
 - ### Proprietary Protocol
+    - ### eg：Skype protocol, PlayStation Network(PSN), Nintendo Wi-Fi Connection(Nintendo WFC)
 
 # Encapsulation
 - ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
