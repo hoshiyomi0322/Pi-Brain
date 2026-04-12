@@ -22,8 +22,9 @@
 - ### [Networking Hardware](./computer-networking/networking-hardware.md)
 - ### [History of the Internet](./computer-networking/history-of-the-internet.md)
 
-# Distributed Computing
-- ### Distributed Computing
+# [Distributed Computing](./distributed-computing/distributed-computing.md)
+- ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models.md)
+- ### [Cloud Computing](./distributed-computing/cloud-computing.md)
 
 # Operating System
 - ### Operating System

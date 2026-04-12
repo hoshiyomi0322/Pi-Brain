@@ -44,6 +44,10 @@
 - ### Hybrid topology
     - #### combines two or more network topology types
 
+# Distributed Computing in Networking
+- ### [Architectural Model](../distributed-computing/distributed-computing-system-models.md#architectural-model-1)
+- ### [Cloud Computing](../distributed-computing/cloud-computing.md)
+
 # Types of Computer Networks
 <div align="center">
     <img src="./image/types-of-computer-networks.png" width="20%">
