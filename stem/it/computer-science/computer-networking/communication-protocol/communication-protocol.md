@@ -17,9 +17,10 @@
 
 # Encapsulation
 - ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
-    <img src="./image/encapsulation.png" width="65%">
+    <img src="./image/encapsulation.png" width="70%">
 
     - ### Encapsulation：Add Header to Packet
     - ### Decapsulation：Remove Header from Packet
-
+- ### Encapsulation of [Intermediary Network Devices](../networking-hardware.md)
+    <img src="./image/encapsulation-intermediary.png" width="70%">
 
