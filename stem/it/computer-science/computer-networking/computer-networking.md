@@ -78,6 +78,14 @@
     <img src="./image/network-firewall.png" width="30%">
 - ### Web Application Firewall(WAF)
 
+# End-to-End principle (E2E Principle)
+- ### Layers of End-to-End
+    <img src="./image/end-to-end.png" width="70%">
+    
+    - #### Process-to-Process
+    - #### Host-to-Host
+- ### [End-to-End Throughput](./network-performance/data-transfer-rate.md#end-to-end-throughput)
+
 # Advanced Research Projects Agency Network (ARPANET)
 - ### the first packet-switched network
 

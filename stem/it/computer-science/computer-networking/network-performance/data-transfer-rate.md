@@ -5,6 +5,9 @@
     - #### download speed
 - ### [Data Transfer Rate Unit](#data-transfer-rate-unit-1)
 - ### [Data Transfer Rate Metrics](#data-transfer-rate-metrics-1)
+    - ### [Bandwidth](#bandwidth-1)
+    - ### [Throughput](#throughput-1)
+    - ### [Unit](../../../../unit.md) (Bandwidth, Throughput)：[Data Transfer Rate Unit](#data-transfer-rate-unit-1)
 
 # Data Transfer Rate [Unit](../../../../unit.md)
 - ### [bits](../../data-representation/data-representation.md#bit-decimal) per second (Decimal)
@@ -28,10 +31,17 @@
     |MBps, MB/s|MegaBytes per second|$10^6\text{ Bps}=8\text{ Mbps}$|
     |GBps, GB/s|GigaBytes per second|$10^9\text{ Bps}=8\text{ Gbps}$|
 
-# Data Transfer Rate Metrics
-- ### Bandwidth：the maximum [Data Transfer Rate](#data-transfer-rate) across a channel
-    - ### Narrowband
-    - ### Broadband：the wide-bandwidth
+# Bandwidth
+- ### Bandwidth：the Maximum [Data Transfer Rate](#data-transfer-rate) across a channel
+- ### Broadband：the wide-bandwidth
     - ### Ultra-Wideband (UWB)
-- ### Throughput：the Actual Rate of Successful Data transfer over a channel
-- ### [Unit](../../../../unit.md) (Bandwidth, Throughput)：[Data Transfer Rate Unit](#data-transfer-rate-unit-1)
+
+# Throughput
+- ### Throughput ($`T`$)：the Actual Rate of Successful Data transfer over a channel
+- ### End-to-End Throughput
+    <img src="../image/average-throughput.png" width="60%">
+    
+    - ### Instantaneous Throughput = $`T_i`$
+    - ### Average Throughput = $`min(T_1,~T_2,~\cdots ,~T_n)`$    
+        - Bottleneck Link
+
