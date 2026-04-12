@@ -26,6 +26,7 @@
     |**Reliability**|Reliable|Unreliable|
     |**Handshake**|Three-way Handshake|No Handshake|
     |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](ip.md#voice-over-internet-protocolvoip))|
+    - ### [List of TCP/UDP Ports](../../computer-networking.md#list-of-tcpudp-ports)
 - ### Datagram Congestion Control Protocol (DCCP)
 - ### Point to Point Tunneling Protocol (PPTP)
 
