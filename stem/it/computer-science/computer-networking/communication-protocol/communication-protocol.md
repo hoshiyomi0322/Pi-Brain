@@ -7,11 +7,11 @@
 
 # Types of Communication Protocol
 - ### Open Protocol
-    - ### Open System Interconnection model(OSI model)
+    - ### Open System Interconnection model (OSI model)
         <img src="./image/osi-model.png" width="50%">
 
         - hint：A Pretty Sexy Teacher Never Dates Physicists (APSTNDP)
-    - ### TCP/IP Protocol Suite(DoD model)
+    - ### TCP/IP Protocol Suite (Internet Protocol Suite, DoD model)
         <img src="./image/tcp-ip.png" width="50%">
 - ### Proprietary Protocol
 

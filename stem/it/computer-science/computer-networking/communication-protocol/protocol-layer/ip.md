@@ -1,5 +1,5 @@
 # IP Address
-- ### IP Address＝[Network address](#network-address)＋[Host address](#host-address)
+- ### IP Address = [Network address](#network-address)＋[Host address](#host-address)
     - ###   IPv4 Address
         <img src="./image/ipv4.png" width="50%">
     - ### IPv6 Address

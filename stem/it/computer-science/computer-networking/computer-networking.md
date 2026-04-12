@@ -86,8 +86,20 @@
     - #### Host-to-Host
 - ### [End-to-End Throughput](./network-performance/data-transfer-rate.md#end-to-end-throughput)
 
-# Advanced Research Projects Agency Network (ARPANET)
-- ### the first packet-switched network
+# World Wide Web (WWW)
+- ### Uniform Resource Identifier (URI)
+    - ### Uniform Resource Locator (URL)
+    - ### URI Format = scheme: [//[authority](#authorityuserpassword-host-port)] /path [?query] [#fragment]
+        <img src="./image/uri-format.png">
+
+        - ### authority：[user:password@] host [:port]
+- ### Hypertext
+    - ### [HyperText Transfer Protoco (HTTP)](./communication-protocol/protocol-layer/http.md)
+    - ### [HTTP Secure (HTTPS)](./communication-protocol/protocol-layer/protocol-layer.md#http-secure-https)
+    - ### [HyperText Markup Language (HTML)](../../coding/markup-language/html/html.md)
+
+# History of the Internet
+- ### [History of the Internet](history-of-the-internet.md)
 
 # MIME Type(Media Type)
 - ### Text
