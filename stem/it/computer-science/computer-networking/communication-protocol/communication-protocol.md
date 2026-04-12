@@ -3,7 +3,7 @@
 - ### [Protocol Layer](./protocol-layer/protocol-layer.md)
 - ### Protocol stack
     <img src="./image/protocol-stack.png" width="60%">
-
+- ### [Encapsulation](#encapsulation-1)
 
 # Types of Communication Protocol
 - ### Open Protocol
