@@ -94,7 +94,7 @@
     - ### URI Format = scheme: [//[authority](#authorityuserpassword-host-port)] /path [?query] [#fragment]
         <img src="./image/uri-format.png">
 
-        - ### authority：[user:password@] host [:port]
+        - ### authority = [user:password@] host [:port]
 - ### Hypertext
     - ### [HyperText Transfer Protoco (HTTP)](./communication-protocol/protocol-layer/http.md)
     - ### [HTTP Secure (HTTPS)](./communication-protocol/protocol-layer/protocol-layer.md#http-secure-https)
