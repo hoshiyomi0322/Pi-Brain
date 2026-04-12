@@ -91,7 +91,7 @@
 # World Wide Web (WWW)
 - ### Uniform Resource Identifier (URI)
     - ### Uniform Resource Locator (URL)
-    - ### URI Format = scheme: [//[authority](#authorityuserpassword-host-port)] /path [?query] [#fragment]
+    - ### URI Format = scheme: [//[authority](#authority--userpassword-host-port)] /path [?query] [#fragment]
         <img src="./image/uri-format.png">
 
         - ### authority = [user:password@] host [:port]
