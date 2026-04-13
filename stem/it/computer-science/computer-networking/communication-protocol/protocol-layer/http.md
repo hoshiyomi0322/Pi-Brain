@@ -9,11 +9,11 @@
 
 - ### HTTP Non-persistent Connection
     1. TCP connection opened
-    2. send and receive single HTTP requests/responses
+    2. send and receive Single HTTP requests/responses
     3. TCP connection closed
 - ### HTTP Persistent Connection
     1. TCP connection opened
-    2. send and receive multiple HTTP requests/responses
+    2. send and receive Multiple HTTP requests/responses
     3. TCP connection closed
 
 # HTTP Status Code
