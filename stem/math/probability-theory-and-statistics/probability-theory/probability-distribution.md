@@ -44,7 +44,7 @@
 # Probability Distribution of [Gamma Function]
 |Probability Distribution|Parameters|[PDF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean($`μ`$)](../statistics/descriptive-statistics.md#mean)|[Variance($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Gamma Distribution (scale)|$`\begin{cases}{α=\text{shape}}\\ {θ=\text{scale}}\end{cases}`$|$`{(Γ(α)θ^α)}^{-1}\cdot x^{α-1} \cdot e^{-x/θ}`$||$`αθ`$|$`αθ^2`$|
+|Gamma Distribution (scale)|$`\begin{cases}{α=\text{shape}}\\ {θ=\text{scale}}\end{cases}`$|$`\frac{1}{Γ(α)θ^α}\cdot x^{α-1} \cdot e^{-x/θ}`$||$`αθ`$|$`αθ^2`$|
 |Gamma Distribution (rate)|$`\begin{cases}{α=\text{shape}}\\ {β=\text{rate}}\end{cases}`$|$`\frac{β^α}{Γ(α)}\cdot x^{α-1} \cdot e^{-xβ}`$||$`\frac{α}{β}`$|$`\frac{α}{β^2}`$|
 |Exponential Distribution|$`λ=\text{rate}`$|$`λe^{-λx}`$|$`1-e^{-λx}`$|$`λ^{-1}`$|$`λ^{-2}`$|
 |Weibull Distribution|$`\begin{cases}{k=\text{shape}}\\ {λ=\text{scale}}\end{cases}`$|$`\frac{k}{λ}\cdot(\frac{x}{λ})^{k-1}\cdot \exp{(-(\frac{x}{λ})^k)}`$||$`λ\cdot Γ(1+\frac{1}{K})`$|$`λ^2\cdot Γ(1+\frac{2}{k})-μ^2`$|
