@@ -23,15 +23,17 @@
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
 
 # HTTP Method
-- ### GET
-- ### HEAD
-- ### POST
-- ### PUT
-- ### DELETE
-- ### CONNECT
-- ### OPTIONS
-- ### TRACE
-- ### PATCH
+|HTTP Method|Description|
+|:---:|:---:|
+|GET|Retrieve resource from the server|
+|POST|Submit resource to the server|
+|PUT|Update an entire resource|
+|PATCH|Partially Update a resource|
+|DELETE|Delete a resource|
+|HEAD|Retrieve Headers only|
+|OPTIONS|Get supported HTTP Methods of the server|
+|CONNECT|Establish a Tunnel (used for HTTPS)|
+|TRACE|Echo Back the Received Request (used for debugging)|
 
 # HTTP Status Code
 - ### 1xx Informational Response
