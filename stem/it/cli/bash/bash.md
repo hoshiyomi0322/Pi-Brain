@@ -87,8 +87,6 @@ cp # Copy
     |:---:|:---:|
     |`nc <host> <port>`|Connect to a host|
     |`nc -l <port>`|Listen on a port|
-
-
 - ### Socket Statistics (ss)：`ss` + option
     |Options|Description|
     |:---:|:---:|
