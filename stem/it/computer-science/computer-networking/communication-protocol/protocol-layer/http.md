@@ -19,7 +19,7 @@
 # HTTP Message Format
 - ### HTTP Request Message：[Request line](#request-linehttp-method--uri--http-version) + [Request Headers](#request-headers) + Body
     - ### Request line：[HTTP Method](#http-method) + [URI](../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
-- ### HTTP Response Message：[Status line](#status-lineprotocol-version--http-status-code) + [Response Headers](#response-headers) + Body
+- ### HTTP Response Message：[Status line](#status-linehttp-version--http-status-code) + [Response Headers](#response-headers) + Body
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
 
 # HTTP Method
