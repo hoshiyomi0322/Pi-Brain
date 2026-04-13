@@ -15,7 +15,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Discrete Uniform Distribution|$`\begin{cases}{x\in\{a,a+1,\cdots ,b-1,b\}}\\ {n=b-a+1}\\ {a\leq b}\end{cases}`$|$`\frac{1}{n}`$|$`\frac{k-a+1}{n}`$|$`\frac{a+b}{2}`$|$`\frac{(b-a+1)^2-1}{12}`$|
 |Multinomial Distribution|
-|Hypergeometric Distribution|$`\begin{cases}N=\text{Population of Size}\\ K=\text{number of Success states in }N\\ n=\text{number of Draws}\\ x=\text{number of Success states in }n\end{cases}`$|$`\frac{\binom{K}{x}\binom{N-K}{n-x}}{\binom{N}{n}}`$|$``$|$`n\frac{K}{N}`$|$`n\frac{K}{N}\frac{(N-K)}{N}\frac{(N-n)}{(N-1)}`$|
+|Hypergeometric Distribution|$`\begin{cases}N=\text{Population of Size}\\ K=\text{number of Success states in }N\\ n=\text{number of Draws}\\ x=\text{number of Success states in }n\end{cases}`$|$`\frac{\binom{K}{x}\binom{N-K}{n-x}}{\binom{N}{n}}`$|$``$|$`n\times\frac{K}{N}`$|$`n\times\frac{K}{N}\times\frac{(N-K)}{N}\times\frac{(N-n)}{(N-1)}`$|
 |Poisson Distribution|$`\begin{cases}λ=\text{Mean}=\text{Variance}\\ x=\text{number of occurrences}\end{cases}`$|$`\frac{λ^xe^{-λ}}{x!}`$||$`λ`$|$`λ`$|
 - ### Situation and Random Variable
     |Probability Distribution|Situation|Random Variable|
