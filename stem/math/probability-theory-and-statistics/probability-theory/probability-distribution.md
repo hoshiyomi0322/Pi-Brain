@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Continuous Uniform Distribution|$`a\leq x\leq b`$|$`\frac{1}{b-a}`$|$`\frac{x-a}{b-a}`$|$`\frac{a+b}{2}`$|$`\frac{(b-a)^2}{12}`$|
 |Normal Distribution<br>(Gaussian Distribution)|$`\begin{cases}{μ=\text{Mean}}\\{σ^2=\text{Variance}}\\{x=\text{Random Variable}}\end{cases}`$|$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$||$μ$|$σ^2$|
-|Log-Normal Distribution||$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{{(x-μ)}^2}{2σ^2})}`$||$`\exp{(μ+\frac{σ^2}{2})}`$|$`(\exp{(σ^2)}-1)\exp{(2μ+σ^2)}`$|
+|Log-Normal Distribution||$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$||$`\exp{(μ+\frac{σ^2}{2})}`$|$`(\exp{(σ^2)}-1)\exp{(2μ+σ^2)}`$|
 |Beta Distribution|
 |Erlang Distribution|
 - ### [Gamma Distribution](#gamma-distribution-1)
@@ -24,7 +24,7 @@
 - ### [Probability Distribution of Bernoulli Trial](#probability-distribution-of-bernoulli-trial-1)
 
 # Probability Distribution of [Bernoulli Trial](probability-theory.md#bernoulli-trial)
-|Probability Distribution|Parameters|[PMF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean($`μ`$)](../statistics/descriptive-statistics.md#mean)|[Variance($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|
+|Probability Distribution|Parameters|[PMF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean<br>($`μ`$)](../statistics/descriptive-statistics.md#mean)|[Variance($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Bernoulli Distribution|$`x=\text{number of successes}`$|$`p^x(1-p)^{1-x}=\begin{cases}{1-p}&{\text{for }x=0}\\ p&{\text{for }x=1}\end{cases}`$||$`p`$|$`p(1-p)`$|
 |Binomial Distribution|$`\begin{cases}{x=\text{number of successes}}\\ {n=\text{number of trials}}\end{cases}`$|$`C_x^np^x(1-p)^{n-x}`$||$`np`$|$`np(1-p)`$|
