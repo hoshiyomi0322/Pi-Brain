@@ -1,9 +1,3 @@
-# HTTP Version
-- ### HTTP/1.0
-- ### HTTP/1.1
-- ### HTTP/2
-- ### HTTP/3
-
 # HTTP Non-persistent/Persistent Connection
 <div align="center"><img src="./image/http-connection.png" width="65%"></div>
 
@@ -21,6 +15,12 @@
     - ### Request line：[HTTP Method](#http-method) + [URI](../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
 - ### HTTP Response Message：[Status line](#status-linehttp-version--http-status-code) + [Response Headers](#response-headers) + Body
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
+
+# HTTP Version
+- ### HTTP/1.0
+- ### HTTP/1.1
+- ### HTTP/2
+- ### HTTP/3
 
 # HTTP Method
 |HTTP Method|Description|
@@ -107,10 +107,11 @@
     - Accept
     - Accept-Language
     - Accept-Encoding
+    - Content-Length
+    - [Cookie](#cookie)
     - Referer
     - Connection
-    - Content-Length
-    
+
 - ### Response Headers
     - Connection
     - Content-Encoding
@@ -122,6 +123,7 @@
     - Keep-Alive
     - Last-Modified
     - Server
-    - Set-Cookie
-    
+    - [Set-Cookie](#cookie)
+
+# Cookie
 
