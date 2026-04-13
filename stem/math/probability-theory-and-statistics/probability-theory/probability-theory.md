@@ -5,7 +5,7 @@
 - ### Sample Space($S$)
     - $P(S)=1$
 
-# Expected Value(Mean)：$`E(x)`$
+# Expected Value (Mean)：$`E(x)`$
 - ### $`E(x)=\sum\limits_{i=1}^{n}{x_ip_i}`$
     - $`p_i=\text{Probability of }x_i`$
 - ### Random Variable
@@ -29,19 +29,12 @@
 - ### Probabilistic Model
 - ### [Moment](#moment-1)
 
-# Random Process(Stochastic Process)
+# Random Process (Stochastic Process)
 - ### Bernoulli Process
     - ### Bernoulli Trial
         - $`\text{Probability of Success}=p`$
         - $`\text{Probability of Failure}=1-p`$
-    - ### Probability Distribution
-        |Probability Distribution|Probability|
-        |:---:|:---:|
-        |Bernoulli Distribution|Success in a Bernoulli Trial|
-        |Binomial Distribution|Successes in $n$ independent Bernoulli Trials|
-        |Geometric Distribution|the first success in an infinite sequence of independent Bernoulli Trials|
-        |Negative Binomial Distribution|
-    
+    - ### [Probability Distribution of Bernoulli Trial](probability-distribution.md#probability-distribution-of-bernoulli-trial)
 - ### Poisson Process
     - Poisson Distribution
 - ### Markov Process
@@ -65,7 +58,7 @@
     |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
-- ### Moment-Generating Function(MGF)：$`M_X(t)=E(e^{tX})`$
+- ### Moment-Generating Function (MGF)：$`M_X(t)=E(e^{tX})`$
     |Continuous|Discrete|
     |:---:|:---:|
     |$`M_X(t)=\int_{-\infty}^\infty{e^{tx}f_d(x)\,dx}`$|$`M_X(t)=\sum\limits_{x}{e^{tx}f_m(x)}`$|

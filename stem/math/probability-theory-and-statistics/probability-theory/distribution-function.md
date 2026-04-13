@@ -1,10 +1,10 @@
 # Probability Function：$`f(x)`$
 |Continuous|Discrete|
 |:---:|:---:|
-|Probability Density Function(PDF)|Probability Mass Function(PMF)|
+|Probability Density Function (PDF)|Probability Mass Function (PMF)|
 |$f_d(x)=\frac{d}{dx}F(x)$|$f_m(x)=P(X=x)$|
     
-# Cumulative Distribution Function(CDF)：$`F(x)`$
+# Cumulative Distribution Function (CDF)：$`F(x)`$
 - $F(x)=P(X\leq x)$
     |Continuous|Discrete|
     |:---:|:---:|
