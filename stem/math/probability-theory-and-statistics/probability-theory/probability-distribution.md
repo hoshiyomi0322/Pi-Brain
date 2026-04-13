@@ -46,7 +46,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Gamma Distribution (scale)|$`\begin{cases}{α=\text{shape}}\\ {θ=\text{scale}}\end{cases}`$|$`\frac{1}{Γ(α)θ^α}\cdot x^{α-1} \cdot e^{-x/θ}`$||$`αθ`$|$`αθ^2`$|
 |Gamma Distribution (rate)|$`\begin{cases}{α=\text{shape}}\\ {β=\text{rate}}\end{cases}`$|$`\frac{β^α}{Γ(α)}\cdot x^{α-1} \cdot e^{-xβ}`$||$`\frac{α}{β}`$|$`\frac{α}{β^2}`$|
-|Exponential Distribution|$`λ=\text{rate}`$|$`λe^{-λx}`$|$`1-e^{-λx}`$|$`λ^{-1}`$|$`λ^{-2}`$|
+|Exponential Distribution|$`λ=\text{rate}`$|$`λe^{-λx}`$|$`1-e^{-λx}`$|$`\frac{1}{λ}`$|$`\frac{1}{λ^2}`$|
 |Weibull Distribution|$`\begin{cases}{k=\text{shape}}\\ {λ=\text{scale}}\end{cases}`$|$`\frac{k}{λ}\cdot(\frac{x}{λ})^{k-1}\cdot \exp{(-(\frac{x}{λ})^k)}`$||$`λ\cdot Γ(1+\frac{1}{K})`$|$`λ^2\cdot Γ(1+\frac{2}{k})-μ^2`$|
 |Beta Distribution|$`\begin{cases}{α=\text{shape}}\\ {β=\text{shape}}\\{x\in[0,~1]}\end{cases}`$|$`\frac{x^{α-1}(1-x)^{β-1}}{B(α,β)}`$||$`\frac{α}{α+β}`$|$`\frac{αβ}{(α+β)^2(α+β+1)}`$|
 |Erlang Distribution|$`\begin{cases}{k=\text{shape}\in\set{1,~2,~\cdots}}\\ {λ=\text{rate}}\end{cases}`$|$`\frac{λ^kx^{k-1}e^{-λx}}{Γ(k)}`$||$`\frac{k}{λ}`$|$`\frac{k}{λ^2}`$|
