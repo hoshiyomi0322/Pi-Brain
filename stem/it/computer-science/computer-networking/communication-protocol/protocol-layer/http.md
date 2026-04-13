@@ -4,6 +4,18 @@
 - ### HTTP/2
 - ### HTTP/3
 
+# HTTP Non-persistent/Persistent Connection
+<div align="center"><img src="./image/http-connection.png" width="65%"></div>
+
+- ### HTTP Non-persistent Connection
+    1. TCP connection opened
+    2. send and receive single HTTP requests/responses
+    3. TCP connection closed
+- ### HTTP Persistent Connection
+    1. TCP connection opened
+    2. send and receive multiple HTTP requests/responses
+    3. TCP connection closed
+
 # HTTP Status Code
 - ### 1xx Informational Response
   - 100 Continue
