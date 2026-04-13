@@ -4,9 +4,7 @@
 |Continuous Uniform Distribution|$`a\leq x\leq b`$|$`\frac{1}{b-a}`$|$`\frac{x-a}{b-a}`$|$`\frac{a+b}{2}`$|$`\frac{(b-a)^2}{12}`$|
 |Normal Distribution<br>(Gaussian Distribution)|$`\begin{cases}{μ=\text{Mean}}\\{σ^2=\text{Variance}}\\{x=\text{Random Variable}}\end{cases}`$|$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$||$μ$|$σ^2$|
 |Log-Normal Distribution||$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$||$`\exp{(μ+\frac{σ^2}{2})}`$|$`(\exp{(σ^2)}-1)\exp{(2μ+σ^2)}`$|
-|Beta Distribution|
-|Erlang Distribution|
-- ### [Gamma Distribution](#gamma-distribution-1)
+- ### [Probability Distribution of Gamma Function](#probability-distribution-of-gamma-function-1)
 
 # Discrete Probability Distribution
 |Probability Distribution|Parameters|[PMF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean($`μ`$)](../statistics/descriptive-statistics.md#mean)|[Variance($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|
@@ -43,19 +41,21 @@
     - $`\text{Probability of Success}=p`$
     - $`\text{Probability of Failure}=1-p`$
 
-# Gamma Distribution
+# Probability Distribution of [Gamma Function]
 |Probability Distribution|Parameters|[PDF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean($`μ`$)](../statistics/descriptive-statistics.md#mean)|[Variance($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Gamma Distribution (scale)|$`\begin{cases}{α=\text{shape}}\\ {θ=\text{scale}}\end{cases}`$|$`{(Γ(α)θ^α)}^{-1}\cdot x^{α-1} \cdot e^{-x/θ}`$||$`αθ`$|$`αθ^2`$|
 |Gamma Distribution (rate)|$`\begin{cases}{α=\text{shape}}\\ {β=\text{rate}}\end{cases}`$|$`\frac{β^α}{Γ(α)}\cdot x^{α-1} \cdot e^{-xβ}`$||$`\frac{α}{β}`$|$`\frac{α}{β^2}`$|
 |Exponential Distribution|$`λ=\text{rate}`$|$`λe^{-λx}`$|$`1-e^{-λx}`$|$`λ^{-1}`$|$`λ^{-2}`$|
 |Weibull Distribution|$`\begin{cases}{k=\text{shape}}\\ {λ=\text{scale}}\end{cases}`$|$`\frac{k}{λ}\cdot(\frac{x}{λ})^{k-1}\cdot \exp{(-(\frac{x}{λ})^k)}`$||$`λ\cdot Γ(1+\frac{1}{K})`$|$`λ^2\cdot Γ(1+\frac{2}{k})-μ^2`$|
+|Beta Distribution|$`\begin{cases}{α=\text{shape}}\\ {β=\text{shape}}\\{x\in[0,~1]}\end{cases}`$|$`\frac{x^{α-1}(1-x)^{β-1}}{B(α,β)}`$||$`\frac{α}{α+β}`$|$`\frac{αβ}{(α+β)^2(α+β+1)}`$|
+|Erlang Distribution|$`\begin{cases}{k=\text{shape}\in\set{1,~2,~\cdots}}\\ {λ=\text{rate}}\end{cases}`$|$`\frac{λ^kx^{k-1}e^{-λx}}{Γ(k)}`$||$`\frac{k}{λ}`$|$`\frac{k}{λ^2}`$|
 - ### $\text{scale}\times\text{rate}=1$
 - ### Situation and Random Variable
     |Probability Distribution|Situation|Random Variable|
     |:---:|:---:|:---:|
     |Gamma Distribution|
     |Exponential Distribution|the waiting time until the next event occurs<br>= Gamma Distribution (rate), when ($α=1,~β=λ$)|
-- ### [Γ Function]
+    |Erlang Distribution|= Gamma Distribution (rate), when ($α=k,~β=λ$)|
 
 # Joint Distribution
