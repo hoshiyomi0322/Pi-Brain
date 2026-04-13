@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Continuous Uniform Distribution|$`a\leq x\leq b`$|$`\frac{1}{b-a}`$|$`\frac{x-a}{b-a}`$|$`\frac{a+b}{2}`$|$`\frac{(b-a)^2}{12}`$|
 |Normal Distribution<br>(Gaussian Distribution)|$`\begin{cases}{μ=\text{Mean}}\\{σ^2=\text{Variance}}\\{x=\text{Random Variable}}\end{cases}`$|$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$||$μ$|$σ^2$|
-|Log-Normal Distribution||$`\frac{1}{xσ\sqrt{2π}}\cdot \exp{(-\frac{(\ln{(x)}-μ)^2}{2σ^2})}`$||$`\exp{(μ+\frac{σ^2}{2})}`$|$`(\exp{(σ^2)}-1)\exp{(2μ+σ^2)}`$|
+|Log-Normal Distribution||$`\frac{1}{xσ\sqrt{2π}}\cdot \exp{(-\frac{(\ln{(x)}-μ)^2}{2σ^2})}`$||$`\exp{(μ+\frac{σ^2}{2})}`$|$`(\exp{(σ^2)}-1)\cdot\exp{(2μ+σ^2)}`$|
 - ### [Probability Distribution of Gamma Function](#probability-distribution-of-gamma-function-1)
 
 # Discrete Probability Distribution
