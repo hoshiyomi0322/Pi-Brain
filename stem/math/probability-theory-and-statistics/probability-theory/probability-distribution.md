@@ -2,10 +2,13 @@
 |Probability Distribution|Parameters|[PDF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean](../statistics/descriptive-statistics.md#mean)|[Variance](../statistics/descriptive-statistics.md#variance)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Continuous Uniform Distribution|$`a\leq x\leq b`$|$`\frac{1}{b-a}`$|$`\frac{x-a}{b-a}`$|$`\frac{a+b}{2}`$|$`\frac{(b-a)^2}{12}`$|
-|Normal Distribution<br>(Gaussian Distribution)|
+|Normal Distribution<br>(Gaussian Distribution)||$`\frac{1}{σ\sqrt{2π}}\exp{-\frac{{(x-μ)}^2}{2σ^2}}`$|
 |Log-Normal Distribution|
 |Exponential Distribution|
 |Gamma Distribution|
+|Weibull Distribution|
+|Beta Distribution|
+|Erlang Distribution|
 
 # Discrete Probability Distribution
 |Probability Distribution|Parameters|[PMF](distribution-function.md#probability-function)|[CDF](distribution-function.md#cumulative-distribution-functioncdf)|[Mean](../statistics/descriptive-statistics.md#mean)|[Variance](../statistics/descriptive-statistics.md#variance)|
