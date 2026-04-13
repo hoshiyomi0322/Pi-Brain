@@ -11,6 +11,9 @@
     3. TCP connection closed
 
 # HTTP Message Format
+- ### Encoding
+    - #### ASCII Text：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
+    - #### Binary：Body
 - ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-linern) + Body
     - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-linern) + Body
         <img src="./image/http-request-message.png" width="50%">
