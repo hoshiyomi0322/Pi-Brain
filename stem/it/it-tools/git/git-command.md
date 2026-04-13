@@ -21,9 +21,9 @@ git clone
     - ### Options
         |Options|Description|
         |:---:|:---:|
-        |-A|All|
-        |-u|update|
-        |-p|patch|
+        |`-A`|All|
+        |`-u`|update|
+        |`-p`|patch|
 
 ```bash
 git commit -a

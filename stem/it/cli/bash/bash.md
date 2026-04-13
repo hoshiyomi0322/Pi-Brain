@@ -50,41 +50,54 @@ cp # Copy
 ```
 
 # Networking
-- ### IP
-    ```bash
-    ip
-    ip\ addr
-    ip\ route
-    ip\ link
-    ```
-- ### Ping
-    ```bash
-    ping
-    ping -t
-    ping -n count
-    ping -l
-    ```
-- ### Address Resolution Protocol (ARP)
-    ```bash
-    arp
-    ```
-- ### Client URL (cURL)
-    ```bash
-    curl
-    ```
-- ### Netcat (nc)
-```bash
-nc
-```
-- ### Socket Statistics (ss)
-    ```bash
-    ss
-    ss -t # TCP
-    ss -u # UDP
-    ss -l # Listening
-    ss -p #
-    ss -n #
-    ```
+- ### IP：`ip`
+    |Command|Description|
+    |:---:|:---:|
+    |`ip addr`|Show/manage IP addresses|
+    |`ip route`|Show/manage IP routing table|
+    |`ip link`|Show/manage IP network interfaces|
+- ### Ping：`ping` + Destination + option
+    |Options|Description|
+    |:---:|:---:|
+    |`-c <count>`|Send a specific number of ping requests|
+    |`-W <timeout>`|Time to Wait for a response|
+    |`-i <interval>`|Interval between packets (seconds)|
+    |`-s <size>`|Packet Size|
+- ### Address Resolution Protocol (ARP)：`arp` + option
+    |Options|Description|
+    |:---:|:---:|
+    |`-a`||
+- ### Client URL (cURL)：`curl` + option + [URL](../../computer-science/computer-networking/computer-networking.md#uniform-resource-locator-url)
+    |Options|Description|
+    |:---:|:---:|
+    |`-o <file name>`|Download file|
+    |`-O`|Download file|
+    |`-L`|Follow the redirects (Location header)|
+    |`-X [GET\|POST\|PUT\|DELETE\|PATCH]`|Specify [http request method](../../computer-science/computer-networking/communication-protocol/protocol-layer/http.md#http-method)|
+    |`-H`|Header|
+    |`-i`|include|
+    |`-d`|data|
+    |`-v`|verbose|
+    |`-u`|user|
+    |`-b`|Send Cookies to server|
+    |`-c`|Save Cookies from response|
+    - Fetch content from URL
+- ### Netcat (nc)：`nc`
+    |Options|Description|
+    |:---:|:---:|
+    |`nc <host> <port>`|Connect to a host|
+    |`nc -l <port>`|Listen on a port|
+
+
+- ### Socket Statistics (ss)：`ss` + option
+    |Options|Description|
+    |:---:|:---:|
+    |`-t`|TCP|
+    |`-u`|UDP|
+    |`-l`|Listening|
+    |`-p`|Process|
+    |`-n`|No DNS|
+    |`-a`|All|
 
 ```bash
 route
