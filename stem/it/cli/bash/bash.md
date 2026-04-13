@@ -64,16 +64,19 @@ cp # Copy
     ping -n count
     ping -l
     ```
-- ### Address Resolution Protocol(ARP)
+- ### Address Resolution Protocol (ARP)
     ```bash
     arp
     ```
-
-- ### Client URL(cURL)
+- ### Client URL (cURL)
     ```bash
     curl
     ```
-- ### Socket Statistics(ss)
+- ### Netcat (nc)
+```bash
+nc
+```
+- ### Socket Statistics (ss)
     ```bash
     ss
     ss -t # TCP
@@ -91,6 +94,6 @@ dirb
 ```
 
 # Others
-- ### [Git Command](../../it-tools/git/git-command.md)
 - ### [Vi IMproved (Vim)](vim.md)
 - ### [GNU Compiler Collection (GCC)](gcc.md)
+- ### [Git Command](../../it-tools/git/git-command.md)
