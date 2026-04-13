@@ -5,8 +5,8 @@
 - ### Node
     <img src="./image/node.png" width="50%">
 - ### Port
-    - ### List of TCP/UDP Ports
-        <img src="./image/tcp-udp-list.png" width="50%">
+    - ### TCP/UDP Ports
+        <img src="./image/tcp-udp-ports.png" width="50%">
     - ### [Network Mapper (Nmap)](./networking-tools/nmap.md)
 - ### [Packet](packet.md)
 - ### Socket
