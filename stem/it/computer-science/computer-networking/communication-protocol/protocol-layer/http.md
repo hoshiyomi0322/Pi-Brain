@@ -11,10 +11,17 @@
     3. TCP connection closed
 
 # HTTP Message Format
-- ### HTTP Request Message：[Request line](#request-linehttp-method--uri--http-version) + [Request Headers](#request-headers) + Body
+- ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-linern) + Body
+    - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-linern) + Body
+        <img src="./image/http-request-message.png" width="50%">
+    - ### HTTP Response Message：([Status line](#status-linehttp-version--http-status-code) + [Response Header Fields](#response-header-fields)) + [Empty line](#empty-linern) + Body
+        <img src="./image/http-response-message.png" width="50%">
+- ### Start Line
     - ### Request line：[HTTP Method](#http-method) + [URI](../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
-- ### HTTP Response Message：[Status line](#status-linehttp-version--http-status-code) + [Response Headers](#response-headers) + Body
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
+- ### Empty line：`\r\n`
+    - Carriage Return (CR)：`\r`
+    - Line Feed (LF)：`\n`
 
 # HTTP Version
 - ### HTTP/1.0
@@ -100,8 +107,8 @@
     - 504 Gateway Timeout
     - 505 HTTP Version Not Supported
 
-# HTTP Headers
-- ### Request Headers
+# HTTP Header Fields
+- ### Request Header Fields
     - Host
     - User-Agent
     - Accept
@@ -112,7 +119,7 @@
     - Referer
     - Connection
 
-- ### Response Headers
+- ### Response Header Fields
     - Connection
     - Content-Encoding
     - Content-Language
