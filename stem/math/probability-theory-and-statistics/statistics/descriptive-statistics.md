@@ -51,7 +51,7 @@
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank ($PR$)
 - ### Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$
-    - #### Standardization：$`\text{Raw Score}(x)\xrightarrow{Standardization}\text{Standard Score}(z)`$
+    - #### Standardization：$`\text{Raw Score}(x)\overset{Standardize}{\longrightarrow}\text{Standard Score}(z)`$
     - #### Arithmetic Mean of $z$： $μ_z=0$
     - #### Standard Deviation of $z$： $σ_z=1$
 
