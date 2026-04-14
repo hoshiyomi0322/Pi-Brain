@@ -1,7 +1,9 @@
 # Continuous Uniform Distribution
 |Property|Description|
 |:---:|:---:|
-|Parameters|$`a\leq x\leq b`$|
+|Notation|$`X\sim U_c(a,b)`$|
+|Random Variable ($`X`$)|$`X \in [a,~b]`$|
+|Parameters|$`a\le b`$|
 |[PDF](distribution-function.md#probability-function)|$`\frac{1}{b-a}`$|
 |[CDF](distribution-function.md#cumulative-distribution-functioncdf)|$`\frac{x-a}{b-a}`$|
 |[Mean ($`μ`$)](../statistics/descriptive-statistics.md#mean)|$`\frac{a+b}{2}`$|
@@ -10,16 +12,22 @@
 # Normal Distribution (Gaussian Distribution)
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim N(μ,~σ^2)`$|
 |Random Variable ($`X`$)||
 |Parameters|$`\begin{cases}{μ=\text{Mean}}\\{σ^2=\text{Variance}}\end{cases}`$||
 |[PDF](distribution-function.md#probability-function)|$`\frac{1}{σ\sqrt{2π}}\cdot \exp{(-\frac{(x-μ)^2}{2σ^2})}`$|
 |[CDF](distribution-function.md#cumulative-distribution-functioncdf)|
 |[Mean ($`μ`$)](../statistics/descriptive-statistics.md#mean)|$μ$|
 |[Variance ($`σ^2`$)](../statistics/descriptive-statistics.md#variance)|$σ^2$|
+- ### Standard Normal Distribution ($`μ=0,~σ^2=1`$)
+    - ### [Standardization](../../statistics/descriptive-statistics.md#standardization)：$`X\sim N(μ,~σ^2) \xrightarrow{Standardize} Z=\frac{X-μ}{σ},~Z\sim N(0,~1)`$
+- ### 68–95–99.7 Rule (Empirical Rule)
+    <img src="./image/empirical-rule.png" width="55%">
 
 # Log-Normal Distribution
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim Lognormal(μ,~σ^2)`$|
 |Random Variable ($`X`$)||
 |Parameters||
 |[PDF](distribution-function.md#probability-function)|$`\frac{1}{xσ\sqrt{2π}}\cdot \exp{(-\frac{(\ln{(x)}-μ)^2}{2σ^2})}`$|

@@ -23,7 +23,9 @@
     |:---:|:---:|
     |$`x\in A,~ x\in[a,b]`$|$`X=x_1,x_2,\cdots ,x_n`$|
 - ### [Distribution Function](distribution-function.md)
-- ### [Probability Distribution](probability-distribution.md)
+- ### [Probability Distribution](./probability-distribution/probability-distribution.md)
+    - ### [Continuous Probability Distribution](./probability-distribution/continuous-probability-distribution.md)
+    - ### [Discrete Probability Distribution](./probability-distribution/discrete-probability-distribution.md)
 - ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model

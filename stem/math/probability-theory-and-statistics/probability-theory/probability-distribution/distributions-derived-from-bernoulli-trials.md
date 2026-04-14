@@ -4,6 +4,7 @@
 # Bernoulli Distribution
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim Bernoulli(p)`$|
 |Situation|Success in a [Bernoulli Trial](../probability-theory.md#bernoulli-trial)|
 |Random Variable ($`X`$)|number of successes|
 |Parameters|$`p=\text{probability of success}`$|
@@ -15,6 +16,7 @@
 # Binomial Distribution
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim B(n,~p)`$|
 |Situation|Successes in $n$ independent [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
 |Random Variable ($`X`$)|number of successes|
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{n=\text{number of trials}}\end{cases}`$|
@@ -26,6 +28,7 @@
 # Poisson Binomial Distribution
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim PB(n,~p_1,~\cdots,~p_n)`$|
 |Situation|Successes in $n$ independent [Bernoulli Trials](../probability-theory.md#bernoulli-trial) with different probabilities|
 |Random Variable ($`X`$)|number of successes|
 |Parameters|$`\begin{cases}{n=\text{number of trials}}\\ {p_1,~\cdots,~p_n=\text{Probabilities of Success}}\end{cases}`$|
@@ -37,6 +40,7 @@
 # Geometric Distribution
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim Geom(p)`$|
 |Situation|the first success in an infinite sequence of independent [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
 |Random Variable ($`X`$)|number of trials|
 |Parameters|$`p=\text{probability of success}`$|
@@ -48,6 +52,7 @@
 # Negative Binomial Distribution (Pascal Distribution)
 |Property|Description|
 |:---:|:---:|
+|Notation|$`X\sim NB(r,~p)`$|
 |Situation|the $r$-th success in an infinite sequence of independent [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
 |Random Variable ($`X`$)|number of failures|
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{r=\text{number of successes}}\end{cases}`$|
