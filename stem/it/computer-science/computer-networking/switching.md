@@ -19,6 +19,6 @@
 <img src="./image/packet-switching.png" width="60%">
     
 - ### Phases：Store and Forward
-- ### [Types of Delay](./network-performance/network-performance.md#delay-2)：[Processing Delay](./network-performance/network-performance.md#processing-delay) → [Queuing Delay](./network-performance/network-performance.md#queuing-delay) → [Transmission Delay](./network-performance/network-performance.md#transmission-delay) → [Propagation Delay](./network-performance/network-performance.md#propagation-delay)
+- ### [Types of Delay](./network-performance/network-performance.md#types-of-delayprocessing-delay--queuing-delay--transmission-delay--propagation-delay)：[Processing Delay](./network-performance/network-performance.md#processing-delay-) → [Queuing Delay](./network-performance/network-performance.md#queuing-delay-) → [Transmission Delay](./network-performance/network-performance.md#transmission-delay-) → [Propagation Delay](./network-performance/network-performance.md#propagation-delay-)
 - ### [ARPANET](history-of-the-internet.md#1969advanced-research-projects-agency-network-arpanet)：the first packet-switched network
 
