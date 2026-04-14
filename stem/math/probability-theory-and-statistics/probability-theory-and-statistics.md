@@ -6,4 +6,6 @@
 # [Probability Theory](./probability-theory/probability-theory.md)
 - ### [Conditional Probability](./probability-theory/conditional-probability/conditional-probability.md)
 - ### [Distribution Function](./probability-theory/distribution-function.md)
-- ### [Probability Distribution](./probability-theory/probability-distribution.md)
+- ### [Probability Distribution](./probability-theory/probability-distribution/probability-distribution.md)
+    - ### [Continuous Probability Distribution](./probability-theory/probability-distribution/continuous-probability-distribution.md)
+    - ### [Discrete Probability Distribution](./probability-theory/probability-distribution/discrete-probability-distribution.md)

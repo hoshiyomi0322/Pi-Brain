@@ -18,7 +18,7 @@
     - $E(X+Y)=E(X)+E(Y)$
 
 # Random Variable
-- ### Random Variable($X$)
+- ### Random Variable ($X$)
     |Continuous|Discrete|
     |:---:|:---:|
     |$`x\in A,~ x\in[a,b]`$|$`X=x_1,x_2,\cdots ,x_n`$|
@@ -34,9 +34,9 @@
     - ### Bernoulli Trial
         - $`\text{Probability of Success}=p`$
         - $`\text{Probability of Failure}=1-p`$
-    - ### [Probability Distribution of Bernoulli Trial](probability-distribution.md#probability-distribution-of-bernoulli-trial)
+    - ### [Distributions derived from Bernoulli Trials](./probability-distribution/distributions-derived-from-bernoulli-trials.md)
 - ### Poisson Process
-    - Poisson Distribution
+    - ### [Poisson Distribution](./probability-distribution/discrete-probability-distribution.md#poisson-distribution)
 - ### Markov Process
     - Markov Chain
 - ### Brownian Motion
