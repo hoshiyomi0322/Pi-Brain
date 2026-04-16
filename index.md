@@ -74,3 +74,4 @@
     - #### [Image](./others/media/image/image.md)
     - #### [Audio](./others/media/audio/audio.md)
     - #### [Video](./others/media/video/video.md)
+    - #### [Game](./others/media/game/game.md)

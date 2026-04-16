@@ -1,0 +1,32 @@
+# Chess Strategy
+- ### Fork
+- ### Pin
+- ### Skewer
+- ### Discovered Attack
+- ### Remove the Defender
+- ### Sacrifice
+- ### Double Check
+- ### Discovered Check
+- ### Deflection
+- ### Clearance
+- ### Battery
+- ### Windmill
+- ### Interference
+- ### Mating Net
+- ### Pawn Breakthrough
+- ### Overloading
+- ### Decoy
+- ### X-Ray Attack
+- ### Zugzwang
+- ### Zwischenzug
+- ### Forcing a Stalemate
+- ### Perpetual Check
+- ### Alekhine's Gun
+- ### Trapping a Piece
+- ### Desperado
+- ### f2/f7 Weakness
+- ### Greek Gift
+- ### Under-promotion
+- ### Smothered Mate
+- ### Back-rank Mate
+
