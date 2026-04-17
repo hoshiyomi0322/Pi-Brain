@@ -12,6 +12,6 @@
 <img src="./image/base64.png" width="70%">
 
 - ### eg：Man→TWFu
-    <img src="./image/base64.png" width="30%">
+    <img src="./image/base64-eg.png" width="60%">
  
 
