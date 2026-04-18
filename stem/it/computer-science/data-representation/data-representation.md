@@ -32,4 +32,68 @@
         |GiB|GibiByte|$2^{30}\text{ B}=8\text{ Gibits}$|
         |TiB|TebiByte|$2^{40}\text{ B}=8\text{ Tibits}$|
 
+# Number System
+- ### [Number System](number-system.md)
+
+# Control Character
+|Description|[Control Pictures (Unicode)](encoding.md#control-pictures)|[Hex (ASCII)](encoding.md#character-set-hex)|[Escape Sequence](#escape-sequence--character)|
+|:---:|:---:|:---:|:---:|
+|Null|`NUL`|00|`\0`|
+|Start of Heading|`SOH`|01||
+|Start of Text|`STX`|02||
+|End of Text|`ETX`|03||
+|End of Transmission|`EOT`|04||
+|Enquiry|`ENQ`|05||
+|Acknowledge|`ACK`|06||
+|Bell, Alert|`BEL`|07|`\a`|
+|Backspace|`BS`|08|`\b`|
+|Horizontal Tab|`HT`|09|`\t`|
+|New Line, Line Break, Line Feed (LF)|`LF`|0A|`\n`|
+|Vertical Tab|`VT`|0B|`\v`|
+|Form Feed (Page Break)|`FF`|0C|`\f`|
+|Carriage Return (CR)|`CR`|0D|`\r`|
+|Shift Out|`SO`|0E|
+|Shift In|`SI`|0F|
+|Data Link Escape|`DLE`|10|
+|Device Control 1|`DC1`|11|
+|Device Control 2|`DC2`|12|
+|Device Control 3|`DC3`|13|
+|Device Control 4|`DC4`|14|
+|Negative Acknowledge (NAK)|`NAK`|15|
+|Synchronous Idle|`SYN`|16|
+|End of Transmission Block|`ETB`|17|
+|Cancel|`CAN`|18|
+|End of medium|`EM`|19|
+|Substitute|`SUB`|1A|
+|Escape|`ESC`|1B|
+|File Separator|`FS`|1C|
+|Group Separator|`GS`|1D|
+|Record Separator|`RS`|1E|
+|Unit Separator|`US`|1F|
+|Space|`SP`|20|
+|Delete|`DEL`|7F|
+
+# Escape Character
+- ### Escape Character (`\`)：It makes the following character escape its original meaning
+- ### Escape Sequence：`\` + Character
+    |Escape Sequence|Description|
+    |:---:|:---:|
+    |`\0`|Null|
+    |`\a`|Bell, Alert|
+    |`\n`|New Line, Line Break, Line Feed (LF)|
+    |`\r`|Carriage Return (CR)|
+    |`\f`|Form Feed (Page Break)|
+    |`\t`|Horizontal Tab|
+    |`\v`|Vertical Tab|
+    |`\b`|Backspace|
+
 # Compression
+- ### lossless compression
+    - #### [Compression Encoding](encoding.md#compression-encoding-1)
+- ### lossy compression
+
+# Text Data
+- ### ASCII
+- ### Unicode
+    
+

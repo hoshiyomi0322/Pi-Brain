@@ -30,7 +30,8 @@
 - ### Operating System
 
 # [Data Representation](./data-representation/data-representation.md)
-- ### Number System
+- ### [Number System](./data-representation/number-system.md)
+- ### [Encoding](./data-representation/encoding.md)
 
 # Data Management
 - ### Data Management
