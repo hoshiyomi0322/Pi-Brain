@@ -93,7 +93,6 @@
 - ### lossy compression
 
 # Text Data
-- ### ASCII
-- ### Unicode
+- ### [Character Encoding](encoding.md#character-encoding)
     
 

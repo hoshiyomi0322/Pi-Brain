@@ -12,7 +12,7 @@
 
 # HTTP Message Format
 - ### Encoding
-    - #### ASCII Text：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
+    - #### [ASCII Text](../../../data-representation/encoding.md#ascii-1)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
     - #### Binary：Body
 - ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-linern) + Body
     - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-linern) + Body

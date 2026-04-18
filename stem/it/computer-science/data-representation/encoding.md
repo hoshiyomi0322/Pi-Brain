@@ -1,7 +1,7 @@
 # Encoding
 - ### Character Encoding
     - ### [ASCII](#ascii-1)
-    - ### Unicode
+    - ### [Unicode](#unicode-1)
         - ### UTF-8 (8-bit Unicode Transformation Format)
         - ### UTF-16 (16-bit Unicode Transformation Format)
 - ### Binary-to-text Encoding

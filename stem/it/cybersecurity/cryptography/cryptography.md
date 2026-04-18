@@ -1,5 +1,5 @@
 # Cryptography
-- ### Encoding
+- ### [Encoding](../../computer-science/data-representation/encoding.md)
 - ### Encryption
     - ### Symmetric Encryption
         - ### Stream Cipher
