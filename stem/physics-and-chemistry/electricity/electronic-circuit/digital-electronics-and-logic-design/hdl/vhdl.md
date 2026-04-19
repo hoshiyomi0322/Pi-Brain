@@ -143,7 +143,7 @@
         signal sig_1 : std_logic;
     
     begin
-        -- statements
+        -- statements;
     end arch_name;
     ```
 
@@ -183,7 +183,7 @@
     architecture arch_2 of element_1 is
         -- signal declare area
     begin
-        -- statements
+        -- statements;
     end arch_2;
 
     --------------------------------------------------
@@ -211,7 +211,7 @@
     begin
         Label_1: element_1 port map(sig_a,sig_c); -- port map
         Label_2: element_1 port map(sig_c,sig_b); -- port map
-        -- statements
+        -- statements;
     end arch_1;
     ```
 
@@ -222,7 +222,7 @@
         -- declare area
         variable var_1 : integer;
     begin
-        -- statements
+        -- statements;
     end process [Label_name:];
     ```
 - ### When
@@ -232,34 +232,34 @@
 - ### If
     ```vhdl
     if expression then
-        statement_1;
+        -- statements_1;
     elsif
-        statement_2;
+        -- statements_2;
     else
-        statement_3;
+        -- statements_3;
     end if;
     ```
 - ### For
     ```vhdl
     for i in (start downto stop) loop
-        statement;
+        -- statements;
     end loop;
      ```
 - ### While
     ```vhdl
     while expression loop
-        statement;
+        -- statements;
     end loop;
      ```
 - ### Case
     ```vhdl
     case control_sig is
         when choice_1 =>
-            statement_1;
+            -- statements_1;
         when choice_1 | choice_2 =>
-            statement_2;
+            -- statements_2;
         when others =>
-            statement_3;
+            -- statements_3;
     end case;
     ```
 - ### With
@@ -278,8 +278,35 @@
     end loop;
     ```
 
-# Function, Procedure, Package
+# Library, Package
+- ### Library
+    ```vhdl
+    library library_name;
+    
+    -- eg
+    library ieee;
+    ```
+- ### Package
+    ```vhdl
+    package pack_name is
+        -- declare area
+    end pack_name;
+    
+    package body pack_name is
+        -- statements;
+    end pack_name;
+    ```
+    - ### Use
+        ```vhdl
+        use library_name.pack_name.item;
+        use library_name.pack_name.all; --all
+        
+        -- eg
+        library ieee;
+        use ieee.std_logic_1164.all;
+        use ieee.std_logic_unsigned.all;
+        ```
+
+# Function, Procedure
 - ### Function
 - ### Procedure
-- ### Package
-
