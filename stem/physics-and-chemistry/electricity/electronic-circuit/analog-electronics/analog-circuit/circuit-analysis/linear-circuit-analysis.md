@@ -1,16 +1,20 @@
 # Linear Circuit Analysis
-- ### Superposition
-    - ### 用於線性電路的電壓、電流
-    - ### 多個獨立電源＝每個獨立電源單獨作用的總和
-- ### 獨立電源的替代
-    - ### 獨立電壓源用短路替代
-    - ### 獨立電流源用開路替代
+- ### [Superposition Theorem](#superposition-theorem-1)
 - ### Miller Theorem
     - ### Miller Effect
 - ### [Equivalent Circuit](#equivalent-circuit-1)
 - ### [Series circuits and Parallel circuits](#series-circuits-and-parallel-circuits-1)
 - ### [Y-Δ transform](#y-δ-transform-1)
 - ### [Wheatstone Bridge](#wheatstone-bridge-1)
+
+# Superposition Theorem
+- ### Multiple [Independent Sources](../../analog-electronics.md#source) = the sum of each [Independent Sources](../../analog-electronics.md#source) acting alone
+    <img src="./image/superposition.png" width="80%">
+- ### Replacement of [Independent Sources](../../analog-electronics.md#source)
+    <img src="./image/replacement-of-independent-sources.png" width="65%">
+
+    - #### Replace [Independent Voltages Source](../../analog-electronics.md#source) with [Short Circuits](../../analog-electronics.md#circuit-conditions)
+    - #### Replace [Independent Current Source](../../analog-electronics.md#source) with [Short Circuits](../../analog-electronics.md#circuit-conditions)
 
 # Equivalent Circuit
 |Thévenin's theorem|Norton's theorem|
