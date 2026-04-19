@@ -19,6 +19,10 @@
 - ### Longest Common Subsequence
 - ### Knapsack problem
 
+# Combinatorial Optimization
+- ### Travelling Salesman Problem(TSP)
+- ### Knapsack problem
+
 # Exhaustive Algorithm
 - ### Backtracking
     - ### Eight Queens Puzzle
@@ -42,4 +46,4 @@
 - ### Shor's Algorithm
 - ### Grover Algorithm
 - ### Genetic Algorithm
-- ### Travelling Salesman Problem(TSP)
+
