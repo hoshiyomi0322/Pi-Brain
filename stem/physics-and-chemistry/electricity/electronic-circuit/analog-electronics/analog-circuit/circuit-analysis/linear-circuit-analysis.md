@@ -14,7 +14,7 @@
     <img src="./image/replacement-of-independent-sources.png" width="65%">
 
     - #### Replace [Independent Voltages Source](../../analog-electronics.md#source) with [Short Circuits](../../analog-electronics.md#circuit-conditions)
-    - #### Replace [Independent Current Source](../../analog-electronics.md#source) with [Short Circuits](../../analog-electronics.md#circuit-conditions)
+    - #### Replace [Independent Current Source](../../analog-electronics.md#source) with [Open Circuits](../../analog-electronics.md#circuit-conditions)
 
 # Equivalent Circuit
 |Thévenin's theorem|Norton's theorem|
