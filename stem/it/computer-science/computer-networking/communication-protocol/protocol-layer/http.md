@@ -29,6 +29,7 @@
 # HTTP Version
 - ### HTTP/1.0
 - ### HTTP/1.1
+    - #### Head-of-Line Blocking (HOL Blocking)
 - ### HTTP/2
 - ### HTTP/3
 
@@ -136,4 +137,3 @@
     - [Set-Cookie](#cookie)
 
 # Cookie
-
