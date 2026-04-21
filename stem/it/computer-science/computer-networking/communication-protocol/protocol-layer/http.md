@@ -1,15 +1,3 @@
-# HTTP Non-persistent/Persistent Connection
-<div align="center"><img src="./image/http-connection.png" width="65%"></div>
-
-- ### HTTP Non-persistent Connection
-    1. TCP connection opened
-    2. send and receive Single HTTP request/response
-    3. TCP connection closed
-- ### HTTP Persistent Connection
-    1. TCP connection opened
-    2. send and receive Multiple HTTP requests/responses
-    3. TCP connection closed
-
 # HTTP Message Format
 - ### Encoding
     - #### [ASCII Text](../../../data-representation/encoding.md#ascii-1)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
@@ -26,12 +14,33 @@
     - Carriage Return (CR)：`\r`
     - Line Feed (LF)：`\n`
 
+# HTTP Non-persistent/Persistent Connection
+<div align="center"><img src="./image/http-connection.png" width="65%"></div>
+
+- ### HTTP Non-persistent Connection (HTTP/0.9, [HTTP/1.0](#http10))
+    1. TCP connection opened
+    2. send and receive Single HTTP request/response
+    3. TCP connection closed
+- ### HTTP Persistent Connection ([HTTP/1.1](#http11))
+    1. TCP connection opened
+    2. send and receive Multiple HTTP requests/responses
+    3. TCP connection closed
+
+
 # HTTP Version
+<div align="center"><img src="./image/http-version.png" width="85%"></div>
+
 - ### HTTP/1.0
+    - #### [HTTP Non-persistent Connection](#http-non-persistent-connection)
 - ### HTTP/1.1
-    - #### Head-of-Line Blocking (HOL Blocking)
+    - #### [HTTP Persistent Connection](#http-persistent-connection)
+    - #### HTTP Pipelining
+        <img src="./image/http-pipelining.png" width="65%">
 - ### HTTP/2
+    - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
 - ### HTTP/3
+    - #### HTTP/3 over [QUIC](protocol-layer.md#quic)
+- ### Head-of-Line Blocking (HOL Blocking)
 
 # HTTP Method
 |HTTP Method|Description|
