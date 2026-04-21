@@ -27,11 +27,18 @@
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Continuous Probability Distribution](./probability-distribution/continuous-probability-distribution.md)
     - ### [Discrete Probability Distribution](./probability-distribution/discrete-probability-distribution.md)
-- ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
+- ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
-- ### Chebyshev's Inequality：$`P(|X-μ|\ge kσ)\le \frac{1}{k^2}`$
 - ### [Moment](#moment-1)
+
+# Inequality
+- ### Chebyshev's Inequality：$`P(|X-μ|\ge kσ)\le \frac{1}{k^2}`$
+- ### Markov's Inequality
+
+# Limit Theorems of Probability
+- ### Law of Large Numbers
+- ### Central Limit Theorem
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process
@@ -43,6 +50,7 @@
     - ### [Poisson Distribution](./probability-distribution/discrete-probability-distribution.md#poisson-distribution)
 - ### Markov Process
     - Markov Chain
+- ### Random Walk
 - ### Brownian Motion
 
 # Moment
