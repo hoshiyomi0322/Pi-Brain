@@ -1,3 +1,4 @@
+# Probability
 - ### Probability
     - #### $`P(A)`$ = the Probability of Event $A$
     - #### $`P(X=x)`$：the Probability of $`\text{Random Variable}(X)=x`$
@@ -29,6 +30,7 @@
 - ### [Random Process(Stochastic Process)](#random-processstochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
+- ### Chebyshev's Inequality：$`P(|X-μ|\ge kσ)\le \frac{1}{k^2}`$
 - ### [Moment](#moment-1)
 
 # Random Process (Stochastic Process)
