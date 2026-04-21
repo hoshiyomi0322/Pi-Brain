@@ -2,7 +2,7 @@
 - ### $`\frac{\partial}{\partial x_i}f(x_1,~\cdots,~x_n)=\lim\limits_{h\to 0}{\frac{f(x_1,~\cdots,~x_i+h,~\cdots,~x_n)-f(x_1,~\cdots,~x_n)}{h}}`$
     - $`\frac{\partial}{\partial x_i}f(x_1,~\cdots,~x_n)=\frac{\partial f\left(x_1,~\cdots,~x_n\right)}{\partial x_i}=\frac{\partial f}{\partial x_i}`$
 - ### Total Derivative：$`df=\frac{\partial f}{\partial x_1}dx_1+\cdots+\frac{\partial f}{\partial x_n}dx_n`$
-- ### Clairaut's Theorem：$`\frac{\partial}{\partial x_i}(\frac{\partial f}{\partial x_j})=\frac{\partial}{\partial x_j}(\frac{\partial f}{\partial x_i})`$
+- ### Clairaut's Theorem：$`\frac{\partial^2}{\partial x_i\partial x_j}f(x_1,~\cdots,~x_n)=\frac{\partial}{\partial x_i}(\frac{\partial f}{\partial x_j})=\frac{\partial}{\partial x_j}(\frac{\partial f}{\partial x_i})`$
 - ### eg
 
 # Multivariable Chain Rule
