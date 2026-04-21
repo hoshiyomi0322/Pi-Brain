@@ -15,6 +15,9 @@
         - $\lim\limits _{x\to+\infty}{F(x)}=1$
     - #### Monotonicity：$`\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)`$
 
+# Survival Function (Reliability Function)：$`S(x)`$
+- ### $S(x)=P(X>x)=1-P(X\leq x)=1-F(x)$
+
 # Probability
 |Continuous|Discrete|
 |:---:|:---:|
@@ -24,6 +27,6 @@
     - $P(X\leq x)=F(x)$
     - $P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}$
     - $P(X\geq x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
-    - $P(X>x)=1-P(X\leq x)=1-F(x)$
+    - $P(X>x)=S(x)=1-P(X\leq x)=1-F(x)$
     - $P(a<X\leq b)=P(X\leq b)-P(X\leq a)=F(b)-F(a)$
     - $P(a\leq X\leq b)=P(X\leq b)-P(X<a)=F(b)-F(a^-)$
