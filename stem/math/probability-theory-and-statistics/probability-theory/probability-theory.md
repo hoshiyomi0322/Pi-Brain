@@ -1,8 +1,8 @@
 # Probability
 - ### Probability
     - #### $`P(A)`$ = the Probability of Event $A$
-    - #### $`P(X=x)`$：the Probability of $`\text{Random Variable}(X)=x`$
     - ### [Conditional Probability](./conditional-probability/conditional-probability.md)
+- ### [Probability of a Random Variable](distribution-function.md#probability-of-a-random-variable)
 - ### Sample Space($S$)
     - $P(S)=1$
 

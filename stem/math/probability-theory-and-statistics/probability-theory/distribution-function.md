@@ -1,32 +1,32 @@
 # Probability Function：$`f(x)`$
-|Continuous|Discrete|
-|:---:|:---:|
-|Probability Density Function (PDF)|Probability Mass Function (PMF)|
-|$f_d(x)=\frac{d}{dx}F(x)$|$f_m(x)=P(X=x)$|
-    
+||Continuous|Discrete|
+|:---:|:---:|:---:|
+|**Probability Function**|**Probability Density Function (PDF)**<br>$`f_d(x)=\frac{d}{dx}F(x)`$|**Probability Mass Function (PMF)**<br>$`f_m(x)=P(X=x)`$|
+|**Properties**|$`f_d(x)\ge 0,~\int^\infty_{-\infty}{f_d(x)\,dx}=1`$|$`f_m(x)\ge 0,~\sum\limits_x{f_m(x)}=1`$|
+
 # Cumulative Distribution Function (CDF)：$`F(x)`$
-- $F(x)=P(X\leq x)$
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |$`F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}`$|$`F(x)=\sum\limits_{t\leq x}{f_m(t)}`$|
+- $F(x)=P(X\le x)$
+    ||Continuous|Discrete|
+    |:---:|:---:|:---:|
+    |**CDF**|$`F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}`$|$`F(x)=\sum\limits_{t\le x}{f_m(t)}`$|
 - ### Properties
-    - #### Boundedness
-        - $\lim\limits _{x\to-\infty}{F(x)}=0$
-        - $\lim\limits _{x\to+\infty}{F(x)}=1$
-    - #### Monotonicity：$`\text{If }x_1<x_2,~\text{then }F(x_1)\leq F(x_2)`$
+    - #### Boundedness：$`\lim\limits_{x\to-\infty}{F(x)}=0,~\lim\limits_{x\to+\infty}{F(x)}=1`$
+    - #### Monotonicity：$`\text{If }x_1<x_2,~\text{then }F(x_1)\le F(x_2)`$
 
 # Survival Function (Reliability Function)：$`S(x)`$
-- ### $S(x)=P(X>x)=1-P(X\leq x)=1-F(x)$
+- ### $S(x)=P(X>x)=1-P(X\le x)=1-F(x)$
 
-# Probability
+# Probability of a Random Variable
 |Continuous|Discrete|
 |:---:|:---:|
-|$P(X=x)=0$|$P(X=x)=f_m(x)=P(X\leq x)-P(X<x)=F(x)-F(x^-)$|
+|$P(X=x)=0$|$P(X=x)=f_m(x)=P(X\le x)-P(X<x)=F(x)-F(x^-)$|
 |$P(X<x)=F(x^-)=F(x)$|$P(X<x)=F(x^-)=F(x-1)$|
+- ### $`P(X=x)`$：the Probability of ($`\text{Random Variable }X=x`$)
+    - #### $`P(X\le x)`$：the Probability of ($`\text{Random Variable }X\le x`$)
 - ### Interval Probability
-    - $P(X\leq x)=F(x)$
+    - $P(X\le x)=F(x)$
+    - $P(X>x)=S(x)=1-P(X\le x)=1-F(x)$
     - $P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}$
     - $P(X\geq x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
-    - $P(X>x)=S(x)=1-P(X\leq x)=1-F(x)$
-    - $P(a<X\leq b)=P(X\leq b)-P(X\leq a)=F(b)-F(a)$
-    - $P(a\leq X\leq b)=P(X\leq b)-P(X<a)=F(b)-F(a^-)$
+    - $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
+    - $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)$

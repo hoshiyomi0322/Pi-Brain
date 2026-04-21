@@ -5,6 +5,4 @@
     - ### [Distributions related to the Gamma Function](distributions-related-to-the-gamma-function.md)
 - ### [Discrete Probability Distribution](discrete-probability-distribution.md)
     - ### [Distributions derived from Bernoulli Trials](distributions-derived-from-bernoulli-trials.md)
-- ### [Joint Distribution](#joint-distribution-1)
-
-# Joint Distribution
+- ### [Joint Distribution](joint-distribution.md)
