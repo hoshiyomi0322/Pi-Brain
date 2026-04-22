@@ -45,6 +45,10 @@
 - ### Resistor (R)
     - ### Resistor Color Code
         <img src="./image/resistor-color-code.png" width="50%">
+        
+        - 4 Band Resistor：$`\text{Digit}\times 2,~\text{Multiplier},~\text{Tolerance}`$
+        - 5 Band Resistor：$`\text{Digit}\times 3,~\text{Multiplier},~\text{Tolerance}`$
+        - 6 Band Resistor：$`\text{Digit}\times 3,~\text{Multiplier},~\text{Tolerance},~\text{Temperature Coefficient}`$
     - ### Ohm's Law：$`V=IR`$
     - ### 電阻器電位能：$`E=QV=ItV=I^2Rt=\frac{V^2}{R}t`$
 - ### Capacitor (C)：$`Q=CV`$
