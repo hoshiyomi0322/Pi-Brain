@@ -5,7 +5,7 @@
 |**Properties**|$`f_d(x)\ge 0,~\int^\infty_{-\infty}{f_d(x)\,dx}=1`$|$`f_m(x)\ge 0,~\sum\limits_x{f_m(x)}=1`$|
 
 # Cumulative Distribution Function (CDF)：$`F(x)`$
-- $F(x)=P(X\le x)$
+- ### Cumulative Distribution Function (CDF)：$`F(x)=P(X\le x)`$
     ||Continuous|Discrete|
     |:---:|:---:|:---:|
     |**CDF**|$`F(x)=\int_{-\infty}^{x}{f_d(t)\,dt}`$|$`F(x)=\sum\limits_{t\le x}{f_m(t)}`$|
