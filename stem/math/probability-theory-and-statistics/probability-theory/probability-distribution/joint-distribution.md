@@ -17,7 +17,7 @@
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)
     ||Continuous|Discrete|
     |:---:|:---:|:---:|
-    |**Marginal Distribution**||
+    |**Marginal Probability Function**|**Marginal PDF**<br>|**Marginal PMF**<br>$`\begin{cases}f_m(x)=\sum\limits_y{f_m(x,~y)} \\ f_m(y)=\sum\limits_x{f_m(x,~y)}\end{cases}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
     - $`F(x)=F(x,~\infty)`$
     - $`F(y)=F(\infty,~y)`$
