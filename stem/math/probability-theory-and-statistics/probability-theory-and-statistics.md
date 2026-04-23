@@ -9,3 +9,4 @@
 - ### [Probability Distribution](./probability-theory/probability-distribution/probability-distribution.md)
     - ### [Continuous Probability Distribution](./probability-theory/probability-distribution/continuous-probability-distribution.md)
     - ### [Discrete Probability Distribution](./probability-theory/probability-distribution/discrete-probability-distribution.md)
+    - ### [Joint Distribution](./probability-theory/probability-distribution/joint-distribution.md)

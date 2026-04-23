@@ -27,6 +27,6 @@
     - $P(X\le x)=F(x)$
     - $P(X>x)=S(x)=1-P(X\le x)=1-F(x)$
     - $P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}$
-    - $P(X\geq x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
+    - $P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
     - $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
-    - $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)$
+    - $P(a\le X\le b)=\int_{a}^{b}{f_d(t)\,dt}=P(X\le b)-P(X<a)=F(b)-F(a^-)$

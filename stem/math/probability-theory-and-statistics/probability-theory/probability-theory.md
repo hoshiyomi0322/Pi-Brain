@@ -27,6 +27,7 @@
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Continuous Probability Distribution](./probability-distribution/continuous-probability-distribution.md)
     - ### [Discrete Probability Distribution](./probability-distribution/discrete-probability-distribution.md)
+    - ### [Joint Distribution](./probability-distribution/joint-distribution.md)
 - ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
