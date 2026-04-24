@@ -1,7 +1,8 @@
 # Distribution Function
-- ### Probability Function
-    - ### Probability Density Function (PDF)：$`f(x)=\frac{d}{dx}F(x),~\text{if }X\text{ is Continuous}`$
-    - ### Probability Mass Function (PMF)：$`f(x)=P(X=x),~\text{if }X\text{ is Discrete}`$
+- ### Probability Function：$`f(x)`$
+    |Continuous|Discrete|
+    |:---:|:---:|
+    |**Probability Density Function (PDF)**<br>$`f(x)=\frac{d}{dx}F(x)`$|**Probability Mass Function (PMF)**<br>$`f(x)=P(X=x)`$|
 - ### Cumulative Distribution Function (CDF)
     - ### $`F(x)=P(X\le x)=\begin{cases}{\int_{-\infty}^{x}{f(t)\,dt}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{t\le x}{f(t)}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Survival Function (Reliability Function)
