@@ -6,18 +6,6 @@
 - ### Sample Space($S$)
     - $P(S)=1$
 
-# Expected Value (Mean)：$`E(x)`$
-- ### $`E(x)=\sum\limits_{i=1}^{n}{x_ip_i}`$
-    - $`p_i=\text{Probability of }x_i`$
-- ### Random Variable
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |$`E(x)=\int_{-\infty}^{\infty}{xf_d(x)\,dx}`$|$`E(x)=\sum\limits_{i=1}^{n}{(x_i\cdot P(X=x_i))}=\sum\limits_{i=1}^{n}{(x_i\cdot f_m(x_i))}`$|
-- ### Properties
-    - $E(c)=c$
-    - $E(aX+b)=aE(X)+b$
-    - $E(X+Y)=E(X)+E(Y)$
-
 # Random Variable
 - ### Random Variable ($X$)
     |Continuous|Discrete|
@@ -54,11 +42,16 @@
 - ### Random Walk
 - ### Brownian Motion
 
+# Expected Value (Mean)：$`E(x)`$
+- ### $`E(X)=\sum\limits_{i=1}^{n}{x_ip_i}=\begin{cases}{\int_{-\infty}^{\infty}{xf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{n}{(x_i\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
+    - $`p_i=\text{Probability of }x_i`$
+- ### Properties
+    - $E(c)=c$
+    - $E(aX+b)=aE(X)+b$
+    - $E(X+Y)=E(X)+E(Y)$
+
 # Moment
-- ### nth Moment：$`μ_n=E((X-c)^n)`$
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |$`μ_n=\int_{-\infty}^{\infty}{(x-c)^nf_d(x)\,dx}`$|$`μ_n=\sum\limits_{i=1}^{\infty}{(x_i-c)^nP(x_i)}`$|
+- ### nth Moment：$`μ_n=E((X-c)^n)=\begin{cases}{\int_{-\infty}^{\infty}{(x-c)^nf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{((x_i-c)^n\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Type
     ||nth Raw Moment|nth Central Moment|nth Standardized Moment|
     |:---:|:---:|:---:|:---:|
@@ -71,9 +64,6 @@
     |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
-- ### Moment-Generating Function (MGF)：$`M_X(t)=E(e^{tX})`$
-    |Continuous|Discrete|
-    |:---:|:---:|
-    |$`M_X(t)=\int_{-\infty}^\infty{e^{tx}f_d(x)\,dx}`$|$`M_X(t)=\sum\limits_{x}{e^{tx}f_m(x)}`$|
+- ### Moment-Generating Function (MGF)：$`M_X(t)=E(e^{tX})=\begin{cases}{\int_{-\infty}^{\infty}{e^{tx}f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{(e^{tx_i}\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### nth Raw Moment：$`μ_n=E(X^n)=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}`$
 
