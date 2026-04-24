@@ -1,20 +1,16 @@
-# Probability Function：$`f(x)`$
-- ### Probability Function：$`f(x)`$
+# Distribution Function
+- ### Probability Function
     - ### Probability Density Function (PDF)：$`f(x)=\frac{d}{dx}F(x),~\text{if }X\text{ is Continuous}`$
     - ### Probability Mass Function (PMF)：$`f(x)=P(X=x),~\text{if }X\text{ is Discrete}`$
-|Random Variable|Continuous|Discrete|
-|:---:|:---:|:---:|
-|**Probability Function**|**Probability Density Function (PDF)**<br>$`f_d(x)=\frac{d}{dx}F(x)`$|**Probability Mass Function (PMF)**<br>$`f_m(x)=P(X=x)`$|
-|**Properties**|$`f_d(x)\ge 0,~\int^\infty_{-\infty}{f_d(x)\,dx}=1`$|$`f_m(x)\ge 0,~\sum\limits_x{f_m(x)}=1`$|
-
-# Cumulative Distribution Function (CDF)：$`F(x)`$
-- ### Cumulative Distribution Function (CDF)：$`F(x)=P(X\le x)=\begin{cases}{\int_{-\infty}^{x}{f(t)\,dt}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{t\le x}{f(t)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+- ### Cumulative Distribution Function (CDF)
+    - ### $`F(x)=P(X\le x)=\begin{cases}{\int_{-\infty}^{x}{f(t)\,dt}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{t\le x}{f(t)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+- ### Survival Function (Reliability Function)
+    - ### $S(x)=P(X>x)=1-P(X\le x)=1-F(x)$
 - ### Properties
-    - #### Boundedness：$`\lim\limits_{x\to-\infty}{F(x)}=0,~\lim\limits_{x\to+\infty}{F(x)}=1`$
-    - #### Monotonicity：$`\text{If }x_1<x_2,~\text{then }F(x_1)\le F(x_2)`$
-
-# Survival Function (Reliability Function)：$`S(x)`$
-- ### $S(x)=P(X>x)=1-P(X\le x)=1-F(x)$
+    - #### $`f(x)\ge 0`$
+    - #### $`\lim\limits_{x\to-\infty}{F(x)}=0,~\lim\limits_{x\to\infty}{F(x)}=1`$
+        - #### $`\lim\limits_{x\to\infty}{F(x)}=\begin{cases}{\int^\infty_{-\infty}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
+    - #### $`\text{If }x_1<x_2,~\text{then }F(x_1)\le F(x_2)`$
 
 # Probability of a Random Variable
 - ### $`P(X=x)`$：the Probability of ($`\text{Random Variable }X=x`$)
