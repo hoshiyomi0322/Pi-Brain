@@ -31,7 +31,7 @@
     - ### [Joint Probability Function](#joint-probability-function)：$`f(x,~y)=f(x)f(y)`$
     - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F(x,~y)=F(x)F(y)`$
 - ### $`P(X=x,~Y=y)=P((X=x)\cap(Y=y))`$
-    - #### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probability)：$`P((X=x)\cap(Y=y))=P(X=x\mid Y=y)P(Y=y)=P(Y=y\mid X=x)P(X=x)`$
+    - #### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probabilitypacap-b)：$`P((X=x)\cap(Y=y))=P(X=x\mid Y=y)P(Y=y)=P(Y=y\mid X=x)P(X=x)`$
 - ### Interval Probability
     - #### $`P(X\le x,~Y\le y)=P((X\le x)\cap (Y \le y))=F(x,~y)`$
     - #### $`P(a<X\le b,~c<Y\le d)=F(b,~d)-F(a,~d)-F(b,~c)+F(a,~c)`$
