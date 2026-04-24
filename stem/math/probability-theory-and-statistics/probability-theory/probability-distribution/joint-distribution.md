@@ -16,7 +16,7 @@
     |:---:|:---:|
     |**Marginal PDF**<br>$`\begin{cases}f(x)={\int^\infty_{-\infty}{f(x,~y)\,dy}} \\ f(y)={\int^\infty_{-\infty}{f(x,~y)\,dx}}\end{cases}`$|**Marginal PMF**<br>$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)} \\ f(y)=\sum\limits_x{f(x,~y)}\end{cases}`$|
     - eg (Marginal PMF)
-        ||$x_1$|$x_2$|$x_3$|$x_4$|$f(y)$|
+        |$f(x_i,~y_j)$|$x_1$|$x_2$|$x_3$|$x_4$|$f(y)$|
         |:---:|:---:|:---:|:---:|:---:|:---:|
         |$y_1$|$\frac{4}{32}$|$\frac{2}{32}$|$\frac{1}{32}$|$\frac{1}{32}$|$\frac{4+2+1+1}{32}$|
         |$y_2$|$\frac{3}{32}$|$\frac{6}{32}$|$\frac{3}{32}$|$\frac{3}{32}$|$\frac{3+6+3+3}{32}$|
