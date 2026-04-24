@@ -9,8 +9,8 @@
     - ### $S(x)=P(X>x)=1-P(X\le x)=1-F(x)$
 - ### Properties
     - #### $`f(x)\ge 0`$
-    - #### $`\lim\limits_{x\to-\infty}{F(x)}=0,~\lim\limits_{x\to\infty}{F(x)}=1`$
-        - #### $`\lim\limits_{x\to\infty}{F(x)}=\begin{cases}{\int^\infty_{-\infty}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
+    - #### $`F(-\infty)=0`$
+    - #### $`F(\infty)=\begin{cases}{\int^\infty_{-\infty}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
     - #### $`\text{If }x_1<x_2,~\text{then }F(x_1)\le F(x_2)`$
 
 # Probability of a Random Variable
@@ -23,4 +23,5 @@
     - #### $`P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}=\begin{cases}{F(x)}&\text{if }X\text{ is Continuous}\\{F(x-1)}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
     - #### $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
-    - #### $P(a\le X\le b)=\int_{a}^{b}{f_d(t)\,dt}=P(X\le b)-P(X<a)=F(b)-F(a^-)$
+    - #### $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)$
+        - Continuous case：$`P(a\le X\le b)=\int_{a}^{b}{f(x)\,dx}`$
