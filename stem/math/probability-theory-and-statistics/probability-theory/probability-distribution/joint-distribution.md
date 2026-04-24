@@ -8,8 +8,7 @@
 - ### Properties
     - #### $`f(x,~y)\ge 0`$
     - #### $`F(-\infty,~y)=F(x,~-\infty)=0`$
-        - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f(x)\,dy}\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f(x,~y)}}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
-    - #### $`\text{If }x_1<x_2,~\text{then }F(x_1)\le F(x_2)`$
+    - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f(x)\,dy}\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f(x,~y)}}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)
