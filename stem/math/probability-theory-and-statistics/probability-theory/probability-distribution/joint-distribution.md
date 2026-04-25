@@ -4,7 +4,7 @@
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
     |**$(X,~Y)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f(x,~y)=P(X=x,~Y=y)`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`f(x,~y)=f(x\mid y)P(Y=y)=P(Y=y\mid X=x)f(x)`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}f(x,~y)&=f(x\mid y)P(Y=y)=P(Y=y\mid X=x)f(x)\\f(x,~y)&=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
 
 - ### Joint [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F(x,~y)=P(X\le x,~Y\le y)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f(t,~s)\,ds}\,dt}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f(t,~s)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f(t,~s)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
@@ -17,12 +17,13 @@
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f(x)={\int^\infty_{-\infty}{f(x,~y)\,dy}} \\ f(y)={\int^\infty_{-\infty}{f(x,~y)\,dx}}\end{cases}`$|
-    |**$(X,~Y)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)} \\ f(y)=\sum\limits_x{f(x,~y)}\end{cases}`$|
+    |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f(x)=\int^\infty_{-\infty}{f(x,~y)\,dy}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
+    |**$(X,~Y)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)}\\ f(y)=\sum\limits_x{f(x,~y)}\end{cases}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
     - $`F(x)=F(x,~\infty)`$
     - $`F(y)=F(\infty,~y)`$
-- #### eg (Marginal PMF)
+- #### eg：$(X,~Y)$ is Discrete
     |$f(x_i,~y_j)$|$x_1$|$x_2$|$x_3$|$x_4$|$f(y_j)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|
     |$y_1$|$\frac{4}{32}$|$\frac{2}{32}$|$\frac{1}{32}$|$\frac{1}{32}$|$\frac{4+2+1+1}{32}$|
