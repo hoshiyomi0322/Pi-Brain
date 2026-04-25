@@ -1,8 +1,9 @@
 # Distribution Function
 - ### Probability Function：$`f(x)`$
-    |Continuous|Discrete|
+    |Random Variable|Joint Probability Function|
     |:---:|:---:|
-    |**Probability Density Function (PDF)**<br>$`f(x)=\frac{d}{dx}F(x)`$|**Probability Mass Function (PMF)**<br>$`f(x)=P(X=x)`$|
+    |**$X$ is Continuous**|**Probability Density Function (PDF)**<br>$`f(x)=\frac{d}{dx}F(x)`$|
+    |**$X$ is Discrete**|**Probability Mass Function (PMF)**<br>$`f(x)=P(X=x)`$|
 - ### Cumulative Distribution Function (CDF)
     - ### $`F(x)=P(X\le x)=\begin{cases}{\int_{-\infty}^{x}{f(t)\,dt}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{t\le x}{f(t)}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Survival Function (Reliability Function)
@@ -23,5 +24,4 @@
     - #### $`P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}=\begin{cases}{F(x)}&\text{if }X\text{ is Continuous}\\{F(x-1)}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
     - #### $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
-    - #### $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)$
-        - Continuous case：$`P(a\le X\le b)=\int_{a}^{b}{f(x)\,dx}`$
+    - #### $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)=\begin{cases}{\int_{a}^{b}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}$
