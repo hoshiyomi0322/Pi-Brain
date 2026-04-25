@@ -25,7 +25,7 @@
 - ### Concavity
     - ### $`\text{Concavity of }f(x)\text{ at }(x=α)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}(α)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}(α)<0}\end{cases}`$
 - ### Extremum
-    - ### Extremum：$`\begin{cases}{α=\text{Minimum}}&{\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)>0}\\ {α=\text{Maximum}}&{\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)<0}\end{cases}`$
+    - ### $`\begin{cases}{α=\text{Minimum}}&{\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)>0}\\ {α=\text{Maximum}}&{\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)<0}\end{cases}`$
 - ### Inflection Point
     - ### $`α=\text{Inflection Point},~\text{when }f^{\prime\prime}(α)=0\text{ and the concavity changes}`$
     - ### Concavity Changes：$`f^{\prime\prime}(α+n)\times f^{\prime\prime}(α-n)<0`$
