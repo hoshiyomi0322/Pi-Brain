@@ -37,11 +37,11 @@
     - $F(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
 
 # Conditional Distribution
-- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f(x|y)`$
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f(x|y)=\frac{f(x,~y)}{f(y)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\mid y)=\frac{f(x,~y)}{f(y)}`$|
-    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f(x\mid y)=P(X=x\mid ~Y=y)`$|
+    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f(x\mid y)=P(X=x\mid ~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`f(x\mid y)=\frac{f(x,~y)}{P(Y=y)}=\frac{P(Y=y\mid X=x)f(x)}{P(Y=y)}`$|
 
 # Probability of a Multiple Random Variable
