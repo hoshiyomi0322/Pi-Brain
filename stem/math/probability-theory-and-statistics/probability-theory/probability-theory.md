@@ -27,7 +27,8 @@
 
 # Limit Theorems of Probability
 - ### Law of Large Numbers
-- ### Central Limit Theorem
+- ### Central Limit Theorem (CLT)
+    <img src="./image/central-limit-theorem.png" width="60%">
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process
