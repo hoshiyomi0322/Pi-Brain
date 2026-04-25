@@ -19,6 +19,9 @@
 - ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
+- ### [Expected Value (Mean)](#expected-value-mean-1)
+- ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](distribution-function.md#probability-function)
+    - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)<0`$
 - ### [Moment](#moment-1)
 
 # Inequality
