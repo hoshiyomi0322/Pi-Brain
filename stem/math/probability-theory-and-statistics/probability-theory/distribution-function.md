@@ -1,5 +1,5 @@
 # Distribution Function
-- ### Probability Function：$`f(x)`$
+- ### Probability Function：$`f_X(x)`$
     |Random Variable|Joint Probability Function|
     |:---:|:---:|
     |**$X$ is Continuous**|**Probability Density Function (PDF)**<br>$`f(x)=\frac{d}{dx}F(x)`$|
@@ -25,3 +25,16 @@
     - #### $P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
     - #### $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
     - #### $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)=\begin{cases}{\int_{a}^{b}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}$
+
+# Transformations of Random Variables
+- ### $X$ is Continuous
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X(x)=P(X\le x)`$
+    - #### [PDF](#probability-function)：$`f_X(x)`$
+- ### $Y=h(X)$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y(y)=P(Y\le y)=P(h(X)\le y)=P(X\le h^{-1}(y))=F_X(h^{-1}(y))`$
+    - #### [PDF](#probability-function)：$`f_Y(y)=\frac{d}{dy}F_Y(y)=\frac{d}{dy}F_X(h^{-1}(y))=f_X(h^{-1}(y))\cdot \frac{d}{dy}h^{-1}(y)`$
+- ### Probability Integral Transform：$Y=F_X(X)$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y(y)=F_X(F_X^{-1}(y))=y`$
+    - #### [PDF](#probability-function)：$`f_Y(y)=\frac{d}{dy}F_Y(y)=1`$
+    - #### [Continuous Uniform Distribution](./probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)：$`Y\sim U_c(0,1)`$
+

@@ -1,5 +1,5 @@
 # Joint [Distribution Function](../distribution-function.md)
-- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f(x,~y)`$
+- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}(x,~y)`$
     |Random Variable|Joint Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
@@ -17,7 +17,7 @@
     - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f(x,~y)\,dy}\,dx}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f(x,~y)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_y{\int^\infty_{-\infty}{f(x,~y)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
-- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$f(x),~f(y)$
+- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$f_X(x),~f_Y(y)$
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f(x)=\int^\infty_{-\infty}{f(x,~y)\,dy}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
@@ -37,7 +37,7 @@
     - $F(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
 
 # Conditional Distribution
-- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f(x|y)=\frac{f(x,~y)}{f(y)}`$
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}(x|y)=\frac{f(x,~y)}{f(y)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\mid y)=\frac{f(x,~y)}{f(y)}`$|
