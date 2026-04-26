@@ -30,13 +30,30 @@
     - ### $`\lim\limits_{x\to 1^-}{(2+[x]+[1-x])}=\lim\limits_{x\to 1^+}{(2+[x]+[1-x])}=2`$
         - ### $`\text{then }\lim\limits_{x\to 1}{(2+[x]+[1-x])}=2`$
 
-
 # Squeeze Theorem(Sandwich Theorem)
-- ### $`g(x)\leq f(x)\leq h(x)`$
-    <img src="squeeze-theorem.png" width="30%">
+<div align="center"><img src="./image/squeeze-theorem.png" width="35%"></div>
 
+- ### $`g(x)\leq f(x)\leq h(x)`$
     - ### $`\text{If }\lim\limits_{x\to a}{g}=\lim\limits_{x\to a}{h}=L,~\text{then }\lim\limits_{x\to a}{f}=L`$
 - ### eg
+
+# ε-δ definition
+<div align="center"><img src="./image/epsilon-delta-definition.png" width="40%"></div>
+
+- ### $`\lim\limits_{x\to a}{f(x)}=L\iff\text{ε-δ definition}`$
+    - ### ε-δ definition ($`\forallε>0,~\existsδ>0`$)：$`0<|x-a|<δ\Rightarrow|f(x)-L|<ε`$
+- ### eg：$`\lim\limits_{x\to 3}{(4x+1)}=13`$
+    1. $`0<|x-3|<δ\Rightarrow|(4x+1)-13|<ε`$
+        - $`\forallε>0,~\existsδ>0`$
+    2. $`|4x-12|<ε`$
+    3. $`|x-3|<\frac{ε}{4}=δ`$
+    4. $`δ=\frac{ε}{4}\Rightarrow \lim\limits_{x\to 3}{(4x+1)}=13`$
+- ### eg：$`\lim\limits_{x\to 3}{x^2}=9`$
+    1.  $`0<|x-3|<δ\Rightarrow|x^2-9|<ε`$
+        - $`\forallε>0,~\existsδ>0`$
+    2. $`|x|<\sqrt{ε+9}`$
+    3. $`|x-3|<\sqrt{ε+9}-3=δ`$
+    4. $`δ=\sqrt{ε+9}-3\Rightarrow \lim\limits_{x\to 3}{x^2}=9`$
 
 # L'Hopital's Rule
 - ### [L'Hopital's Rule](lhopitals-rule.md)
