@@ -294,6 +294,7 @@
         |Similar or Equal to|$\simeq$|`\simeq`|
         |Approximately Equal|$\approx$|`\approx`|
         |Congruent|$\cong$|`\cong`|
+        |Falling Dot Sequence|$\fallingdotseq$|`\fallingdotseq`|
     - #### Set Relation
         |Operation|Operator|LaTex|
         |:---:|:---:|:---:|
