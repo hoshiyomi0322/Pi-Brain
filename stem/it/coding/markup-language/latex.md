@@ -181,6 +181,8 @@
         |right|$\rightarrow$|`\rightarrow`, `\to`|
         |left|$\leftarrow$|`\leftarrow`, `\gets`|
         |left-right|$\leftrightarrow$|`\leftrightarrow`|
+        |right-right|$\rightrightarrows$|`\rightrightarrows`|
+        |left-left|$\leftleftarrows$|`\leftleftarrows`|
         - #### Long Arrow：`\long`+[Left/Rithgt Arrow](#leftright-arrow)
             |Symbol|LaTex|
             |:---:|:---:|
@@ -193,6 +195,8 @@
         |up|$\uparrow$|`\uparrow`|
         |down|$\downarrow$|`\downarrow`|
         |up-down|$\updownarrow$|`\updownarrow`|
+        |up-up|$\upuparrows$|`\upuparrows`|
+        |down-down|$\downdownarrows$|`\downdownarrows`|
     
 - ### Double Line Arrow：capitalizing the first letter
     |Symbol|LaTex|
@@ -247,18 +251,32 @@
     |left-harpoon-down|$\leftharpoondown$|`\leftharpoondown`|
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
-
-- ### Arrow Tail
+- ### Arrow Tail：`\direction`+`arrow`+`tail`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\rightarrowtail$|`\rightarrowtail`|
     |$\leftarrowtail$|`\leftarrowtail`|
-
-- ### Squiggly Arrow
+- ### Squiggly Arrow：`\direction`+`squig`+`arrow`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\rightsquigarrow$|`\rightsquigarrow`|
     |$\leftrightsquigarrow$|`\leftrightsquigarrow`|
+- ### Curved Arrow：`\curve`+`arrow`+`direction`
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\curvearrowright$|`\curvearrowright`|
+    |$\curvearrowleft$|`\curvearrowleft`|
+- ### Circle Arrow：`\circle`+`arrow`+`direction`
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\circlearrowright$|`\circlearrowright`|
+    |$\circlearrowleft$|`\circlearrowleft`|
+- ### Dashed Arrow：`\dash`+`direction`+`arrow`
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\dashrightarrow$|`\dashrightarrow`|
+    |$\dashleftarrow$|`\dashleftarrow`|
+
 
 # Operator
 - ### Not：`\not`+operator
