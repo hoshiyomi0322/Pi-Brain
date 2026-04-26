@@ -15,7 +15,7 @@
     - #### Trigonometric Functions and Hyperbolic Functions
     - #### Geometry
     - #### [Series](./stem/math/series.md)
-    - #### Number and Operator
+    - #### [Numbers and Notation](./stem/math/numbers-and-notation.md)
 - ### Physics and Chemistry
     - #### Elements and Compounds
     - #### Particle
