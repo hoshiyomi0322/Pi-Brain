@@ -147,6 +147,21 @@
     |Lower Dots|$\ldots$|`\ldots`|
     |Diagonal Dots|$\ddots$|`\ddots`|
     |Vertical Dots|$\vdots$|`\vdots`|    
+- ### O
+    |Name|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |O+Plus|$`\oplus`$|`\oplus`|
+    |O+Times|$`\otimes`$|`\otimes`|
+    |O+Dot|$`\odot`$|`\odot`|
+    |O+Minus|$`\ominus`$|`\ominus`|
+    |O+Slash|$`\oslash`$|`\oslash`|
+    |Big O+Plus|$`\bigoplus`$|`\bigoplus`|
+    |Big O+Times|$`\bigotimes`$|`\bigotimes`|
+    |Big O+Dot|$`\bigodot`$|`\bigodot`|
+    |Box+Plus|$`\boxplus`$|`\boxplus`|
+    |Box+Minus|$`\boxminus`$|`\boxminus`|
+    |Box+Times|$`\boxtimes`$|`\boxtimes`|
+    |Box+Dot|$`\boxdot`$|`\boxdot`|
 - ### Logic Symbol
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
@@ -154,6 +169,9 @@
     |Therefore|$\therefore$|`\therefore`|
     |For All|$\forall$|`\forall`|
     |There Exists|$`\exists`$|`\exists`|
+    |Logical NOT, Negation|$`\lnot`$|`\lnot`, `\neg`|
+    |Logical AND|$`\land`$|`\land`|
+    |Logical OR|$`\lor`$|`\lor`|
 
 # Arrow
 - ### Basic Arrow：`\direction`+`arrow`
@@ -212,7 +230,6 @@
     |$\xleftharpoondown{a}$|`\xleftharpoondown{a}`|
     |$\xrightleftharpoons{a}$|`\xrightleftharpoons{a}`|
     |$\xleftrightharpoons{a}$|`\xleftrightharpoons{a}`|
-    
     - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`[below]{above}`
         |Symbol|LaTex|
         |:---:|:---:|
@@ -230,6 +247,18 @@
     |left-harpoon-down|$\leftharpoondown$|`\leftharpoondown`|
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
+
+- ### Arrow Tail
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\rightarrowtail$|`\rightarrowtail`|
+    |$\leftarrowtail$|`\leftarrowtail`|
+
+- ### Squiggly Arrow
+    |Symbol|LaTex|
+    |:---:|:---:|
+    |$\rightsquigarrow$|`\rightsquigarrow`|
+    |$\leftrightsquigarrow$|`\leftrightsquigarrow`|
 
 # Operator
 - ### Not：`\not`+operator
