@@ -17,8 +17,8 @@
 - ### Remote Desktop
 
 # Transport layer
-- ### TCP/UDP
-    ||Transmission Control Protocol (TCP)|User Datagram Protocol (UDP)|
+- ### [TCP](tcp.md), [UDP](udp.md)
+    ||[Transmission Control Protocol (TCP)](tcp.md)|[User Datagram Protocol (UDP)](udp.md)|
     |:---:|:---:|:---:|
     |**Communication**|<img src="./image/tcp.png" width="70%">|<img src="./image/udp.png" width="70%">|
     |**Connection**|Connection-Oriented|Connectionless|

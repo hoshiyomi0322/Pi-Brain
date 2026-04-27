@@ -15,8 +15,10 @@
     - Line Feed (LF)：`\n`
 
 # HTTP Connection
+<div align="center"><img src="./image/http-connection.png" width="55%"></div>
+
 - ### HTTP Non-persistent/Persistent Connection
-    <img src="./image/http-connection.png" width="55%">
+    <img src="./image/http-persistent.png" width="50%">
 
     - ### HTTP Non-persistent Connection (HTTP/0.9, [HTTP/1.0](#http10))
         1. TCP connection opened
@@ -27,9 +29,16 @@
         2. send and receive Multiple HTTP requests/responses
         3. TCP connection closed
 - ### Pipelining (HTTP/1.1)
-    <img src="./image/http-pipelining.png" width="55%">
-- ### Multiplexing (HTTP/2)
-
+    <img src="./image/http-pipelining.png" width="50%">
+    
+    - #### [HTTP HOL Blocking]()
+- ### Multiplexing over a Single TCP Connection (HTTP/2)
+    - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
+    - #### [TCP HOL Blocking]
+- ### Head-of-Line Blocking (HOL Blocking)：when a queue of packets is held up by the first packet in the queue
+    - ### HTTP HOL Blocking (Pipelining)
+        <img src="./image/http-hol-blocking.png" width="40%">
+    - ### TCP HOL Blocking (Multiplexing)：
 
 # HTTP Version
 <div align="center"><img src="./image/http-version.png" width="85%"></div>
@@ -40,11 +49,11 @@
     - #### HTTP Connection
         - [HTTP Persistent Connection](#http-persistent-connection-http11)
         - [HTTP Pipelining (Optional)](#pipelining-http11)
+    - #### HTTP HOL Blocking
 - ### HTTP/2
     - #### HTTP Connection：[Multiplexing](../../network-access/multiple-access.md#multiplexing)
 - ### HTTP/3
     - #### HTTP/3 over [QUIC](protocol-layer.md#quic)
-- ### Head-of-Line Blocking (HOL Blocking)
 
 # HTTP Method
 |HTTP Method|Description|
