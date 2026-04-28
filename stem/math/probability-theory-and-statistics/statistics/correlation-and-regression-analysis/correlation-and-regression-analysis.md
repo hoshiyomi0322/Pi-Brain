@@ -1,6 +1,6 @@
 # Correlation
 - ### Covariance：$`Cov(x,~y)=σ_{xy}=\frac{D_{xy}}{n}=\frac{\sum\limits_{i=1}^{n}(x_i-μ_x)(y_i-μ_y)}{n}`$
-    - #### $`Cov(x,~y)=E((X-μ_x)(Y-μ_y))`$
+    - #### $`Cov(X,~Y)=E((X-μ_X)(Y-μ_Y))=E((X-E(X))(Y-E(Y)))=E(XY)-E(X)E(Y)`$
     - #### Sum of Products of Deviations from the Mean：$`D_{xy}=\sum\limits_{i=1}^{n}(x_i-μ_x)(y_i-μ_y)=\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y`$
     - ### $x,y$ are independent：$`Cov(x,~y)=σ_{xy}=0`$
 - ### Pearson Correlation Coefficient：$`r=\frac{σ_{xy}}{σ_xσ_y}=\frac{D_{xy}}{nσ_xσ_y}=\frac{\sum\limits_{i=1}^{n}(x_i-μ_x)(y_i-μ_y)}{\sqrt{\sum\limits_{i=1}^{n}(x_i-μ_x)^2}\sqrt{\sum\limits_{i=1}^{n}(y_i-μ_y)^2}}=\frac{\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y}{\sqrt{\sum\limits_{i=1}^{n}{x_i}^2-n{μ_x}^2}\sqrt{\sum\limits_{i=1}^{n}{y_i}^2-n{μ_y}^2}}`$
