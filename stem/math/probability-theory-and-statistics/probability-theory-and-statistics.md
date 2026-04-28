@@ -5,6 +5,7 @@
 
 # [Probability Theory](./probability-theory/probability-theory.md)
 - ### [Conditional Probability](./probability-theory/conditional-probability/conditional-probability.md)
+- ### [Expected Value (Expectation, Mean)](./probability-theory/expected-value.md)
 - ### [Distribution Function](./probability-theory/distribution-function.md)
 - ### [Probability Distribution](./probability-theory/probability-distribution/probability-distribution.md)
     - ### [Continuous Probability Distribution](./probability-theory/probability-distribution/continuous-probability-distribution.md)

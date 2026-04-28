@@ -4,11 +4,11 @@
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
     |**$(X,~Y)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f(x,~y)=P(X=x,~Y=y)`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f(x,~y)=f(x\mid y)P(Y=y)=P(Y=y\mid X=x)f(x)\\&f(x,~y)=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f(x,~y)=f(x\|y)P(Y=y)=P(Y=y\|X=x)f(x)\\&f(x,~y)=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
 
 - ### Joint [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F(x,~y)=P(X\le x,~Y\le y)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f(t,~s)\,ds}\,dt}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f(t,~s)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f(t,~s)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
-- ### $`\text{If }X\text{ and }Y\text{ are Independent}`$
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### [Joint Probability Function](#joint-probability-function)：$`f(x,~y)=f(x)f(y)`$
     - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F(x,~y)=F(x)F(y)`$
 - ### Properties
@@ -37,18 +37,17 @@
     - $F(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
 
 # Conditional Distribution
-- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X\mid Y}(x\mid y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}(x|y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\mid y)=\frac{f(x,~y)}{f(y)}`$|
-    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f(x\mid y)=P(X=x\mid ~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`f(x\mid y)=\frac{f(x,~y)}{P(Y=y)}=\frac{P(Y=y\mid X=x)f(x)}{P(Y=y)}`$|
+    |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\|y)=\frac{f(x,~y)}{f(y)}`$|
+    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f(x\|y)=P(X=x\|~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`f(x\|y)=\frac{f(x,~y)}{P(Y=y)}=\frac{P(Y=y\|X=x)f(x)}{P(Y=y)}`$|
 
 # Probability of a Multiple Random Variable
 - ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probabilitypacap-b)
-    - #### $`P((X=x)\cap(Y=y))=P(X=x\mid Y=y)P(Y=y)=P(Y=y\mid X=x)P(X=x)`$
-    - #### $`P((X\le x)\cap(Y\le y))=P(X\le x\mid Y\le y)P(Y\le y)=P(Y\le y\mid X\le x)P(X\le x)`$
-- ### $`P(X=x,~Y=y)=P((X=x)\cap(Y=y))`$
+    - #### $`P(X=x,~Y=y)=P((X=x)\cap(Y=y))=P(X=x|Y=y)P(Y=y)=P(Y=y|X=x)P(X=x)`$
+    - #### $`P(X\le x,~Y\le y)=P((X\le x)\cap(Y\le y))=P(X\le x|Y\le y)P(Y\le y)=P(Y\le y|X\le x)P(X\le x)`$
 - ### Interval Probability
     - #### $`P(X\le x,~Y\le y)=P((X\le x)\cap (Y \le y))=F(x,~y)`$
     - #### $`P(a<X\le b,~c<Y\le d)=F(b,~d)-F(a,~d)-F(b,~c)+F(a,~c)`$

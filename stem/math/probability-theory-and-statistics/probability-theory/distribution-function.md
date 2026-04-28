@@ -22,9 +22,9 @@
     - #### $P(X\le x)=F(x)$
     - #### $P(X>x)=S(x)=1-P(X\le x)=1-F(x)$
     - #### $`P(X<x)=F(x^-)=\lim\limits_{t\to x^-}{F(t)}=\begin{cases}{F(x)}&\text{if }X\text{ is Continuous}\\{F(x-1)}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - #### $P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)$
-    - #### $P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)$
-    - #### $P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)=\begin{cases}{\int_{a}^{b}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}$
+    - #### $`P(X\ge x)=F(x^+)=\lim\limits_{t\to x^+}{F(t)}=F(x)`$
+    - #### $`P(a<X\le b)=P(X\le b)-P(X\le a)=F(b)-F(a)`$
+    - #### $`P(a\le X\le b)=P(X\le b)-P(X<a)=F(b)-F(a^-)=\begin{cases}{\int_{a}^{b}{f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f(x)}}&\text{if }X\text{ is Discrete}\end{cases}`$
 
 # Transformations of Random Variables
 - ### $X$ is Continuous

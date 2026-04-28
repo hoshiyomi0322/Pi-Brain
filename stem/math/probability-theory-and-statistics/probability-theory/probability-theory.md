@@ -19,7 +19,7 @@
 - ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
-- ### [Expected Value (Mean)](#expected-value-mean-1)
+- ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](distribution-function.md#probability-function)
     - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)<0`$
 - ### [Moment](#moment-1)
@@ -46,28 +46,20 @@
 - ### Random Walk
 - ### Brownian Motion
 
-# Expected Value (Mean)：$`E(x)`$
-- ### $`E(X)=\sum\limits_{i=1}^{n}{x_ip_i}=\begin{cases}{\int_{-\infty}^{\infty}{xf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{n}{(x_i\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - $`p_i=\text{Probability of }x_i`$
-- ### Properties
-    - $E(c)=c$
-    - $E(aX+b)=aE(X)+b$
-    - $E(X+Y)=E(X)+E(Y)$
-
 # Moment
-- ### nth Moment：$`μ_n=E((X-c)^n)=\begin{cases}{\int_{-\infty}^{\infty}{(x-c)^nf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{((x_i-c)^n\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
+- ### nth Moment：$`μ_n=E\left[\left(X-c\right)^{n}\right]=\begin{cases}{\int_{-\infty}^{\infty}{(x-c)^nf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{((x_i-c)^n\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Type
     ||nth Raw Moment|nth Central Moment|nth Standardized Moment|
     |:---:|:---:|:---:|:---:|
-    |Moment|$`μ_n=E(X^n)`$|$`μ_n=E((X-μ)^n)`$|$`\frac{μ_n}{σ^n}=\frac{E((X-μ)^n)}{σ^n}`$|
-    |$c$|$c=0$|$c=μ=E(X)$|$c=μ=E(X)$|
+    |Moment|$`μ_n=E\left[X^n\right]`$|$`μ_n=E\left[(X-μ)^n\right]`$|$`\frac{μ_n}{σ^n}=\frac{E\left[(X-μ)^n\right]}{σ^n}`$|
+    |$c$|$c=0$|$c=μ=E\left[X\right]$|$c=μ=E\left[X\right]$|
 - ### Statistical Moments
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
-    |[Mean](../statistics/descriptive-statistics.md#mean)|First Raw Moment|$E(x)=μ$|
-    |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E((X-μ)^2)$|
+    |[Mean](../statistics/descriptive-statistics.md#mean)|First Raw Moment|$E\left[x\right]=μ$|
+    |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E\left[(X-μ)^2\right]$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
-- ### Moment-Generating Function (MGF)：$`M_X(t)=E(e^{tX})=\begin{cases}{\int_{-\infty}^{\infty}{e^{tx}f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{(e^{tx_i}\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - #### nth Raw Moment：$`μ_n=E(X^n)=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}`$
+- ### Moment-Generating Function (MGF)：$`M_X(t)=E\left[e^{tX}\right]=\begin{cases}{\int_{-\infty}^{\infty}{e^{tx}f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{i=1}^{\infty}{(e^{tx_i}\cdot f(x_i))}}&\text{if }X\text{ is Discrete}\end{cases}`$
+    - #### nth Raw Moment：$`μ_n=E\left[X^n\right]=M_X^{(n)}{(0)}=\left.\frac{d^nM_X(t)}{dt^n}\right|_{t=0}`$
 
