@@ -56,7 +56,7 @@
 - ### Statistical Moments
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
-    |[Mean](../statistics/descriptive-statistics.md#mean)|First Raw Moment|$E\left[x\right]=μ$|
+    |[Mean](../statistics/descriptive-statistics.md#arithmetic-mean-am)|First Raw Moment|$E\left[x\right]=μ$|
     |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E\left[(X-μ)^2\right]$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|

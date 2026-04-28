@@ -1,6 +1,6 @@
 - ### Data：$`x_1,x_2,\cdots,x_n`$
     - #### Number of Data：$`n`$
-- ### Random Variable：$`X=x_1,x_2,\cdots ,x_n`$
+- ### [Random Variable](../probability-theory/probability-theory.md#random-variable)：$`X=x_1,x_2,\cdots ,x_n`$
     - #### [Expected Value (Mean)](../probability-theory/expected-value.md)：$`E\left[X\right]`$
 ---
 - ### Extremum

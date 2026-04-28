@@ -6,7 +6,7 @@
 |Parameters|$`\begin{cases}{n=b-a+1}\\ {a\leq b}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`\frac{1}{n}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|$`\frac{k-a+1}{n}`$|
-|[Mean ($`μ`$)](../../statistics/descriptive-statistics.md#mean)|$`\frac{a+b}{2}`$|
+|[Mean ($`μ`$)](../expected-value.md)|$`\frac{a+b}{2}`$|
 |[Variance ($`σ^2`$)](../../statistics/descriptive-statistics.md#variance)|$`\frac{(b-a+1)^2-1}{12}`$|
 
 # Multinomial Distribution
@@ -18,7 +18,7 @@
 |Parameters|$`\begin{cases}{n=\text{number of trials}}\\ {k=\text{number of mutually exclusive events}}\\ {p_1+\cdots +p_k=1}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`\frac{n!}{x_1!\cdots x_k!}\cdot(p_1^{x_1}\times\cdots\times p_k^{x_k})`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|
-|[Mean ($`μ_i`$)](../../statistics/descriptive-statistics.md#mean)|$`E(X_i)=np_i`$|
+|[Mean ($`μ_i`$)](../expected-value.md)|$`E(X_i)=np_i`$|
 |[Variance ($`σ^2`$)](../../statistics/descriptive-statistics.md#variance)|
 
 # Hypergeometric Distribution
@@ -30,7 +30,7 @@
 |Parameters|$`\begin{cases}N=\text{Population of Size}\\ K=\text{number of Success states in }N\\ n=\text{number of Draws}\\ x=\text{number of Success states in }n\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`\frac{\binom{K}{x}\binom{N-K}{n-x}}{\binom{N}{n}}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`μ`$)](../../statistics/descriptive-statistics.md#mean)|$`n\cdot \frac{K}{N}`$|
+|[Mean ($`μ`$)](../expected-value.md)|$`n\cdot \frac{K}{N}`$|
 |[Variance ($`σ^2`$)](../../statistics/descriptive-statistics.md#variance)|$`n\cdot \frac{K}{N}\cdot \frac{(N-K)}{N}\cdot \frac{(N-n)}{(N-1)}`$|
 
 # Poisson Distribution
@@ -41,7 +41,7 @@
 |Parameters|$`\begin{cases}λ=\text{Mean}=\text{Variance}\\ x=\text{number of occurrences}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`\frac{λ^xe^{-λ}}{x!}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`μ`$)](../../statistics/descriptive-statistics.md#mean)|$`λ`$|
+|[Mean ($`μ`$)](../expected-value.md)|$`λ`$|
 |[Variance ($`σ^2`$)](../../statistics/descriptive-statistics.md#variance)|$`λ`$|
 
 # Distributions derived from Bernoulli Trials
