@@ -13,7 +13,26 @@
     ab&c\\ &edf
     \end{aligned}
     ```
-- ### Matrix：`\begin{matrix}`+`{text}&···&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&···&{text}`+`\end{matrix}`
+- ### Left/Right：`\left` + `\right`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$`\left(x\right)`$|`\left( x \right)`|
+    |$`\left[x\right]`$|`\left[ x \right]`|
+    |$`\left\{x\right\}`$|`\left\{ x \right\}`|
+    |$`\left\|x\right\|`$|`\left\| x \right\|`|
+    |$`\left(x\right]`$|`\left( x \right]`|
+    - ### `\left`, `\right`+`.`
+        |Output|LaTex|
+        |:---:|:---:|
+        |$`\left.x\right)`$|`\left. x \right)`|
+        |$`\left(x\right.`$|`\left( x \right.`|
+        |$`\left.x\right\|^a_b`$|`\left. x \right\|^a_b`|
+    - ### Middle：`\left` + `\middle` + `\right`
+        |Output|LaTex|
+        |:---:|:---:|
+        |$`\left(x\middle\|y\right)`$|`\left( x \middle\| y \right)`|
+        |$`\left(x\middle/y\right]`$|`\left( x \middle/ y \right]`|
+- ### Matrix：`\begin{matrix}` + `{text}&···&{text}` + `\\`+$`\cdots`$+`\\` + `{text}&···&{text}` + `\end{matrix}`
     |Matrix|Output|LaTex|
     |:---:|:---:|:---:|
     |Matrix|$`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`$|`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`|
@@ -22,7 +41,6 @@
     |braces Matrix|$`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`$|`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`|
     |vertical bars Matrix|$`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`$|`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`|
     |double Vertical bars Matrix|$`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`$|`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`|
-
 - ### Displaystyle
     $`\displaystyle{text}`$
     ```latex
@@ -48,11 +66,15 @@
 |$`\langle{a+b}\rangle`$|`\langle{a+b}\rangle`|
 |$`\|a+b\|`$|`\|a+b\|`|
 |$`\\|a+b\\|`$|`\\|a+b\\|`|
-- ### Case：`\begin{case}`+`{text}&{text}`+`\\`+$`\cdots`$+`\\`+`{text}&{text}`+`\end{case}`
-    $`\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
-    ```latex
-    $`\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
-    ```
+- ### Case：`\begin{case}` + `{text}&{text}` + `\\`+$`\cdots`$+`\\` + `{text}&{text}` + `\end{case}`
+    - $`\begin{cases}{a=35}\\ {b=69}\\ {c=77}\end{cases}`$
+        ```latex
+        $`\begin{cases} {a=35} \\ {b=69} \\ {c=77} \end{cases}`$
+        ```
+    - $`x=\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
+        ```latex
+        $`x=\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
+        ```
 
 # Text Formatting
 |Format|Output|LaTex|
@@ -177,7 +199,7 @@
     |Logical OR|$`\lor`$|`\lor`|
 
 # Arrow
-- ### Basic Arrow：`\direction`+`arrow`
+- ### Basic Arrow：`\direction` + `arrow`
     - #### Left/Right Arrow
         |Direction|Symbol|LaTex|
         |:---:|:---:|:---:|
@@ -214,7 +236,7 @@
     |$\Longleftarrow$|`\Longleftarrow`, `\impliedby`|
     |$\Longleftrightarrow$|`\Leftrightarrow`, `\iff`|
 
-- ### Diagonal Arrow：`\intercardinal directions`+`arrow`
+- ### Diagonal Arrow：`\intercardinal directions` + `arrow`
     |intercardinal directions|Symbol|LaTex|
     |:---:|:---:|:---:|
     |Northeast (NE)|$\nearrow$|`\nearrow`|
@@ -222,7 +244,7 @@
     |Northwest (NW)|$\nwarrow$|`\nwarrow`|
     |Southwest (SW)|$\swarrow$|`\swarrow`|
 
-- ### Arrow with Text：`\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`{text}`
+- ### Arrow with Text：`\x` + [Left/Rithgt Arrow](#leftright-arrow), [Harpoon Arrow](#harpoon-arrow) + `{text}`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\xrightarrow{a}$|`\xrightarrow{a}`|
@@ -237,7 +259,7 @@
     |$\xleftharpoondown{a}$|`\xleftharpoondown{a}`|
     |$\xrightleftharpoons{a}$|`\xrightleftharpoons{a}`|
     |$\xleftrightharpoons{a}$|`\xleftrightharpoons{a}`|
-    - ### `\x`+[Left/Rithgt Arrow](#leftright-arrow)/[Harpoon Arrow](#harpoon-arrow)+`[below]{above}`
+    - ### `\x` + [Left/Rithgt Arrow](#leftright-arrow), [Harpoon Arrow](#harpoon-arrow) + `[below]{above}`
         |Symbol|LaTex|
         |:---:|:---:|
         |$\xrightarrow{a}$|`\xrightarrow{a}`|
@@ -254,27 +276,27 @@
     |left-harpoon-down|$\leftharpoondown$|`\leftharpoondown`|
     |right-left-harpoons|$\rightleftharpoons$|`\rightleftharpoons`|
     |left-right-harpoons|$\leftrightharpoons$|`\leftrightharpoons`|
-- ### Arrow Tail：`\direction`+`arrow`+`tail`
+- ### Arrow Tail：`\direction` + `arrow` + `tail`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\rightarrowtail$|`\rightarrowtail`|
     |$\leftarrowtail$|`\leftarrowtail`|
-- ### Squiggly Arrow：`\direction`+`squig`+`arrow`
+- ### Squiggly Arrow：`\direction` + `squig` + `arrow`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\rightsquigarrow$|`\rightsquigarrow`|
     |$\leftrightsquigarrow$|`\leftrightsquigarrow`|
-- ### Curved Arrow：`\curve`+`arrow`+`direction`
+- ### Curved Arrow：`\curve` + `arrow` + `direction`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\curvearrowright$|`\curvearrowright`|
     |$\curvearrowleft$|`\curvearrowleft`|
-- ### Circle Arrow：`\circle`+`arrow`+`direction`
+- ### Circle Arrow：`\circle` + `arrow` + `direction`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\circlearrowright$|`\circlearrowright`|
     |$\circlearrowleft$|`\circlearrowleft`|
-- ### Dashed Arrow：`\dash`+`direction`+`arrow`
+- ### Dashed Arrow：`\dash` + `direction` + `arrow`
     |Symbol|LaTex|
     |:---:|:---:|
     |$\dashrightarrow$|`\dashrightarrow`|
@@ -282,7 +304,7 @@
 
 
 # Operator
-- ### Not：`\not`+operator
+- ### Not：`\not` + operator
     |Operator|LaTex|
     |:---:|:---:|
     |$\not>$|`\not>`|
@@ -353,7 +375,7 @@
     |$`\oint{x}`$|`\oint{x}`|
     |$`\oiint{x}`$|`\oiint{x}`|
     |$`\oiiint{x}`$|`\oiiint{x}`|
-- ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
+- ### Interval：[Large Operator](#large-operator) + [Superscript and Subscript](#superscript-and-subscript)
     |Large Operator|LaTex|
     |:---:|:---:|
     |$`\int_{a}^{b}{x}`$|`\int{x}_{a}^{b}{x}`|
@@ -361,7 +383,7 @@
     |$`\int^{b}{x}`$|`\int{x}^{b}{x}`|
     |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x \, dx}`|
     |$`\log_{a}{x}`$|`\log_{a}{x}`|
-    - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
+    - #### Limits：[Large Operator](#large-operator) + `\limits` + [Superscript and Subscript](#superscript-and-subscript)
         |Large Operator|LaTex|
         |:---:|:---:|
         |$`\lim\limits_{a}{x}`$|`\lim\limits_{a}{x}`|
@@ -413,5 +435,11 @@
     |$`\sin^{3}{x}`$|`\sin^{3}{x}`|
 
 # eg
-- ### $\text{arsinh}\,(x)$
-- ### 
+- ### $`\text{arsinh}\,(x)`$
+    ```latex
+    \text{arsinh} \, (x)
+    ```
+- ### $`\text{If }a=0,~\text{then }b=0`$
+    ```latex
+    \text{If } a=0 ,~ \text{then } b=0
+    ```
