@@ -17,7 +17,7 @@
     - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f(x,~y)\,dy}\,dx}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f(x,~y)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_y{\int^\infty_{-\infty}{f(x,~y)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
-- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$f_X(x),~f_Y(y)$
+- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X(x),~f_Y(y)`$
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f(x)=\int^\infty_{-\infty}{f(x,~y)\,dy}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
