@@ -1,3 +1,8 @@
+- ### Data：$`\begin{cases}{x_1,x_2,\cdots ,x_n}\\{y_1,y_2,\cdots ,y_n}\end{cases}`$
+    - #### Number of Data：$`n`$
+- ### Random Variable：$`\begin{cases}{X=x_1,x_2,\cdots ,x_n}\\{Y=y_1,y_2,\cdots ,y_n}\end{cases}`$
+    - #### Expected Value(Mean)：$`E(X,~Y)`$
+---
 # Correlation
 - ### Covariance：$`Cov(x,~y)=σ_{xy}=\frac{D_{xy}}{n}=\frac{\sum\limits_{i=1}^{n}(x_i-μ_x)(y_i-μ_y)}{n}`$
     - #### $`Cov(X,~Y)=E((X-μ_X)(Y-μ_Y))=E((X-E(X))(Y-E(Y)))=E(XY)-E(X)E(Y)`$
