@@ -4,17 +4,17 @@
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
     |**$(X,~Y)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f(x,~y)=P(X=x,~Y=y)`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f(x,~y)=f(x\|y)P(Y=y)=P(Y=y\|X=x)f(x)\\&f(x,~y)=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f(x,~y)=f_{X\|Y}(x\|y)P(Y=y)=P(Y=y\|X=x)f_X(x)\\&f(x,~y)=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
 
 - ### Joint [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F(x,~y)=P(X\le x,~Y\le y)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f(t,~s)\,ds}\,dt}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f(t,~s)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f(t,~s)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
-    - ### [Joint Probability Function](#joint-probability-function)：$`f(x,~y)=f(x)f(y)`$
-    - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F(x,~y)=F(x)F(y)`$
+    - ### [Joint Probability Function](#joint-probability-function)：$`f_{XY}(x,~y)=f_X(x)f_Y(y)`$
+    - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F_{XY}(x,~y)=F_X(x)F_Y(y)`$
 - ### Properties
-    - #### $`f(x,~y)\ge 0`$
-    - #### $`F(-\infty,~y)=F(x,~-\infty)=0`$
-    - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\int^\infty_{-\infty}{f_{Y}(y)\,dy}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f_{XY}(x,~y)}}=\sum\limits_x{f_{X}(x)}=\sum\limits_y{f_{Y}(y)}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_y{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\sum\limits_y{f_{Y}(y)}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
+    - #### $`f_{XY}(x,~y)\ge 0`$
+    - #### $`F_{XY}(-\infty,~y)=F_{XY}(x,~-\infty)=0`$
+    - #### $`F_{XY}(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\int^\infty_{-\infty}{f_{Y}(y)\,dy}} & \text{if }(X,~Y)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}(x,~y)}}=\sum\limits_x{f_{X}(x)}=\sum\limits_y{f_{Y}(y)}} & \text{if }(X,~Y)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\sum\limits_y{f_{Y}(y)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X(x),~f_Y(y)`$
@@ -33,16 +33,17 @@
     |$y_2$|$\frac{3}{32}$|$\frac{6}{32}$|$\frac{3}{32}$|$\frac{3}{32}$|$\frac{3+6+3+3}{32}$|
     |$y_3$|$\frac{9}{32}$|$0$|$0$|$0$|$\frac{9}{32}$|
     |$f(x_i)$|$\frac{4+3+9}{32}$|$\frac{2+6}{32}$|$\frac{1+3}{32}$|$\frac{1+3}{32}$|$\frac{32}{32}$|
-    - $f(x_2)=f(x_2,~y_1)+f(x_2,~y_2)+f(x_2,~y_3)=\frac{8}{32}$
-    - $F(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
+    - $f_X(x_2)=f(x_2,~y_1)+f(x_2,~y_2)+f(x_2,~y_3)=\frac{8}{32}$
+    - $f_Y(y_1)=f(x_1,~y_1)+f(x_2,~y_1)+f(x_3,~y_1)+f(x_4,~y_1)=\frac{8}{32}$
+    - $F_X(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
 
 # Conditional Distribution
 - ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}(x|y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\|y)=\frac{f(x,~y)}{f(y)}`$|
-    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f(x\|y)=P(X=x\|~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`f(x\|y)=\frac{f(x,~y)}{P(Y=y)}=\frac{P(Y=y\|X=x)f(x)}{P(Y=y)}`$|
+    |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f_{X\|Y}(x\|y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$|
+    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f_{X\|Y}(x\|y)=P(X=x\|~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}(x\|y)=\frac{f_{XY}(x,~y)}{P(Y=y)}=\frac{P(Y=y\|X=x)f_X(x)}{P(Y=y)}`$|
 
 # Probability of a Multiple Random Variable
 - ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probabilitypacap-b)
