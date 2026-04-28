@@ -23,7 +23,7 @@
     |**$\left(X,~Y\right)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f_X\left(x\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\sum\limits_x{f_{XY}\left(x,~y\right)}\end{cases}`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|
-- ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
+- ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - $`F_X\left(x\right)=F_{XY}\left(x,~\infty\right)`$
     - $`F_Y\left(y\right)=F_{XY}\left(\infty,~y\right)`$
 - #### eg：$`\left(X,~Y\right)`$ is Discrete
@@ -44,6 +44,10 @@
     |**$\left(X,~Y\right)$ is Continuous**|**Conditional PDF**<br>$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{f_Y\left(y\right)}`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Conditional PMF**<br>$`f_{X\|Y}\left(x\|y\right)=P\left(X=x\|~Y=y\right)=\frac{P\left(X=x,~Y=y\right)}{P\left(Y=y\right)}`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{P\left(Y=y\right)}=\frac{P\left(Y=y\|X=x\right)f_X\left(x\right)}{P\left(Y=y\right)}`$|
+- ### Conditional [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
+    - ### $`F_{X|Y}\left(x|y\right)=P\left(X\le x|Y=y\right)`$
+- ### [Conditional Expectation](../expected-value.md#conditional-expectation)
+- ### [Conditional Variance]
 
 # Probability of a Multiple Random Variable
 - ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probability)
@@ -53,4 +57,5 @@
     - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap \left(Y \le y\right)\right)=F\left(x,~y\right)`$
     - #### $`P\left(a<X\le b,~c<Y\le d\right)=F\left(b,~d\right)-F\left(a,~d\right)-F\left(b,~c\right)+F\left(a,~c\right)`$
     - #### $`P\left(a\le X\le b,~c\le Y\le d\right)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f\left(x,~y\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f\left(x,~y\right)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
+    - #### $`\text{if }\left(X,~Y\right)\text{ is Continuous},~\text{then }P\left(a\le X\le b,~c\le Y\le d\right)=P\left(a< X\le b,~c< Y\le d\right)=P\left(a\le X< b,~c\le Y< d\right)=P\left(a< X< b,~c< Y< d\right)=\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}`$
 

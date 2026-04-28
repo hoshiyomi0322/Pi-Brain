@@ -19,12 +19,13 @@
     - $`P\left(X=x\right)=\begin{cases}{0}&\text{if }X\text{ is Continuous}\\{f\left(x\right)=P\left(X\le x\right)-P\left(X<x\right)=F\left(x\right)-F\left(x^-\right)}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Interval Probability
     - #### $`P\left(X\le x\right)`$：the Probability of ($`\text{Random Variable }X\le x`$)
-    - #### $P\left(X\le x\right)=F\left(x\right)$
-    - #### $P\left(X>x\right)=S\left(x\right)=1-P\left(X\le x\right)=1-F\left(x\right)$
+        - #### $`P\left(X\le x\right)=F\left(x\right)`$
+    - #### $`P\left(X>x\right)=S\left(x\right)=1-P\left(X\le x\right)=1-F\left(x\right) = \begin{cases}{\int_{x}^{\infty}{f\left(t\right)\,dt}} & \text{if }X\text{ is Continuous}\\{\sum\limits_{x< t}{f\left(t\right)}} & \text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`P\left(X<x\right)=F\left(x^-\right)=\lim\limits_{t\to x^-}{F\left(t\right)}=\begin{cases}{F\left(x\right)}&\text{if }X\text{ is Continuous}\\{F\left(x-1\right)}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - #### $`P\left(X\ge x\right)=F\left(x^+\right)=\lim\limits_{t\to x^+}{F\left(t\right)}=F\left(x\right)`$
-    - #### $`P\left(a<X\le b\right)=P\left(X\le b\right)-P\left(X\le a\right)=F\left(b\right)-F\left(a\right)`$
-    - #### $`P\left(a\le X\le b\right)=P\left(X\le b\right)-P\left(X<a\right)=F\left(b\right)-F\left(a^-\right)=\begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+    - #### $`P\left(X\ge x\right)=1-F\left(x^-\right) = \begin{cases}{\int_{x}^{\infty}{f\left(t\right)\,dt}} & \text{if }X\text{ is Continuous}\\{\sum\limits_{x\le t}{f\left(t\right)}} & \text{if }X\text{ is Discrete}\end{cases}`$
+    - #### $`P\left(a<X\le b\right)=P\left(X\le b\right)-P\left(X\le a\right)=F\left(b\right)-F\left(a\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a< x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+    - #### $`P\left(a\le X\le b\right)=P\left(X\le b\right)-P\left(X<a\right)=F\left(b\right)-F\left(a^-\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+    - #### $`\text{if }X\text{ is Continuous},~\text{then }P\left(a\le X\le b\right)=P\left(a< X\le b\right)=P\left(a\le X< b\right)=P\left(a< X< b\right)=\int_{a}^{b}{f\left(x\right)\,dx}`$
 
 # Transformations of Random Variables
 - ### $X$ is Continuous
