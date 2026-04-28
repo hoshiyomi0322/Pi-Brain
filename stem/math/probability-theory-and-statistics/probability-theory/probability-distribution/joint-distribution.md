@@ -14,18 +14,18 @@
 - ### Properties
     - #### $`f(x,~y)\ge 0`$
     - #### $`F(-\infty,~y)=F(x,~-\infty)=0`$
-    - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f(x,~y)\,dy}\,dx}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f(x,~y)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_y{\int^\infty_{-\infty}{f(x,~y)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
+    - #### $`F(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\int^\infty_{-\infty}{f_{Y}(y)\,dy}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{f_{XY}(x,~y)}}=\sum\limits_x{f_{X}(x)}=\sum\limits_y{f_{Y}(y)}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_y{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\sum\limits_y{f_{Y}(y)}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X(x),~f_Y(y)`$
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f(x)=\int^\infty_{-\infty}{f(x,~y)\,dy}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
-    |**$(X,~Y)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)}\\ f(y)=\sum\limits_x{f(x,~y)}\end{cases}`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f(x)=\sum\limits_y{f(x,~y)}\\ f(y)=\int^\infty_{-\infty}{f(x,~y)\,dx}\end{cases}`$|
+    |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f_X(x)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\\ f_Y(y)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}\end{cases}`$|
+    |**$(X,~Y)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f_X(x)=\sum\limits_y{f_{XY}(x,~y)}\\ f_Y(y)=\sum\limits_x{f_{XY}(x,~y)}\end{cases}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f_X(x)=\sum\limits_y{f_{XY}(x,~y)}\\ f_Y(y)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}\end{cases}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
-    - $`F(x)=F(x,~\infty)`$
-    - $`F(y)=F(\infty,~y)`$
+    - $`F_X(x)=F_{XY}(x,~\infty)`$
+    - $`F_Y(y)=F_{XY}(\infty,~y)`$
 - #### eg：$`(X,~Y)`$ is Discrete
     |$f(x_i,~y_j)$|$x_1$|$x_2$|$x_3$|$x_4$|$f(y_j)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|
