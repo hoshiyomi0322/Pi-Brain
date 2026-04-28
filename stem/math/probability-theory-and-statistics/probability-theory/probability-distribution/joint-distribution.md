@@ -1,5 +1,5 @@
 # Joint [Distribution Function](../distribution-function.md)
-- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}(x,~y)`$
+- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}(x,~y)=f_{X|Y}(x|y)f_Y(y)=f_{Y|X}(y|x)f_X(x)`$
     |Random Variable|Joint Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
@@ -37,7 +37,7 @@
     - $F(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
 
 # Conditional Distribution
-- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}(x|y)=\frac{f(x,~y)}{f(y)}`$
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X\mid Y}(x\mid y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
     |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f(x\mid y)=\frac{f(x,~y)}{f(y)}`$|
