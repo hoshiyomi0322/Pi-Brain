@@ -26,7 +26,7 @@
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
     - $`F(x)=F(x,~\infty)`$
     - $`F(y)=F(\infty,~y)`$
-- #### eg：$(X,~Y)$ is Discrete
+- #### eg：$`(X,~Y)`$ is Discrete
     |$f(x_i,~y_j)$|$x_1$|$x_2$|$x_3$|$x_4$|$f(y_j)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|
     |$y_1$|$\frac{4}{32}$|$\frac{2}{32}$|$\frac{1}{32}$|$\frac{1}{32}$|$\frac{4+2+1+1}{32}$|
