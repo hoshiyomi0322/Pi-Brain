@@ -36,6 +36,6 @@
 
     - ### 假設$`I_1,~I_2,~I_3`$
     - ### Mesh-1：$`I_1=I_s`$
-    - ### Mesh-2：$`-V_s+R_1(I_2-I_1)+\frac{1}{sC}(I_2-I_3)=0`$
-    - ### Mesh-3：$`\frac{1}{sC}(I_3-I_2)+R_2(I_3-I_1)+sLI_3=0`$
+    - ### Mesh-2：$`-V_s+R_1\left(I_2-I_1\right)+\frac{1}{sC}\left(I_2-I_3\right)=0`$
+    - ### Mesh-3：$`\frac{1}{sC}\left(I_3-I_2\right)+R_2\left(I_3-I_1\right)+sLI_3=0`$
 

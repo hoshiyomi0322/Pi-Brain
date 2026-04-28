@@ -3,30 +3,30 @@
 
 # Hyperbolic Functions
 - ### Derivatives of Hyperbolic Functions
-	- ### $`(\sinh{x})^\prime=\cosh{x}`$
-	- ### $`(\cosh{x})^\prime=\sinh{x}`$
-	- ### $`(\tanh{x})^\prime=\frac{1}{\cosh^2{x}}=\text{sech}^2\,x`$
+	- ### $`\left(\sinh{x}\right)^\prime=\cosh{x}`$
+	- ### $`\left(\cosh{x}\right)^\prime=\sinh{x}`$
+	- ### $`\left(\tanh{x}\right)^\prime=\frac{1}{\cosh^2{x}}=\text{sech}^2\,x`$
 - ### Integrals of Hyperbolic Functions
 	- ### $`\int{\sinh{x}\, dx}=\cosh{x}+C`$
 	- ### $`\int{\cosh{x}\, dx}=\sinh{x}+C`$
-	- ### $`\int{\tanh{x}\, dx}=\ln{(\cosh{x})}+C`$
+	- ### $`\int{\tanh{x}\, dx}=\ln{\left(\cosh{x}\right)}+C`$
 
 
 # Inverse Functions
 - ### Derivatives of Inverse Trigonometric Functions
-	- ### $`(\arcsin{x})^\prime=\frac{1}{\sqrt{1-x^2}},~|x|<1`$
-	- ### $`(\arccos{x})^\prime=-\frac{1}{\sqrt{1-x^2}},~|x|<1`$
-	- ### $`(\arctan{x})^\prime=\frac{1}{1+x^2},~|x|<1`$
+	- ### $`\left(\arcsin{x}\right)^\prime=\frac{1}{\sqrt{1-x^2}},~|x|<1`$
+	- ### $`\left(\arccos{x}\right)^\prime=-\frac{1}{\sqrt{1-x^2}},~|x|<1`$
+	- ### $`\left(\arctan{x}\right)^\prime=\frac{1}{1+x^2},~|x|<1`$
 - ### Derivatives of Inverse Hyperbolic Functions
-	- ### $`(\text{arsinh}\,x)^\prime=\frac{1}{\sqrt{1+x^2}}`$
-	- ### $`(\text{arcosh}\,x)^\prime=\frac{1}{\sqrt{x^2-1}},~x>1`$
-	- ### $`(\text{artanh}\,x)^\prime=\frac{1}{1-x^2},~|x|<1`$
+	- ### $`\left(\text{arsinh}\,x\right)^\prime=\frac{1}{\sqrt{1+x^2}}`$
+	- ### $`\left(\text{arcosh}\,x\right)^\prime=\frac{1}{\sqrt{x^2-1}},~x>1`$
+	- ### $`\left(\text{artanh}\,x\right)^\prime=\frac{1}{1-x^2},~|x|<1`$
 - ### Integrals of Inverse Trigonometric Functions
-	- ### $`\int{\arcsin{(x)}\, dx}=x\arcsin{(x)}+\sqrt{1-x^2}+C,~x\le1`$
-	- ### $`\int{\arccos{(x)}\, dx}=x\arccos{(x)}-\sqrt{1-x^2}+C,~x\le1`$
-	- ### $`\int{\arctan{(x)}\, dx}=x\arctan{(x)}-\frac{1}{2}\ln{(1+x^2)}+C`$
+	- ### $`\int{\arcsin{\left(x\right)}\, dx}=x\arcsin{\left(x\right)}+\sqrt{1-x^2}+C,~x\le1`$
+	- ### $`\int{\arccos{\left(x\right)}\, dx}=x\arccos{\left(x\right)}-\sqrt{1-x^2}+C,~x\le1`$
+	- ### $`\int{\arctan{\left(x\right)}\, dx}=x\arctan{\left(x\right)}-\frac{1}{2}\ln{\left(1-x^2\right)}+C`$
 - ### Integrals of Inverse Hyperbolic Functions
-	- ### $`\int{\text{arsinh}\,(x)\, dx}=x\,\text{arsinh}\,(x)-\sqrt{x^2+1}+C`$
-	- ### $`\int{\text{arcosh}\,(x)\, dx}=x\,\text{arcosh}\,(x)-\sqrt{x^2-1}+C,~x>1`$
-	- ### $`\int{\text{artanh}\,(x)\, dx}=x\,\text{artanh}\,(x)+\frac{1}{2}\ln{(1-x^2)}+C,~|x|<1`$
+	- ### $`\int{\text{arsinh}\,\left(x\right)\, dx}=x\,\text{arsinh}\,\left(x\right)-\sqrt{x^2+1}+C`$
+	- ### $`\int{\text{arcosh}\,\left(x\right)\, dx}=x\,\text{arcosh}\,\left(x\right)-\sqrt{x^2-1}+C,~x>1`$
+	- ### $`\int{\text{artanh}\,\left(x\right)\, dx}=x\,\text{artanh}\,\left(x\right)+\frac{1}{2}\ln{\left(1-x^2\right)}+C,~|x|<1`$
 

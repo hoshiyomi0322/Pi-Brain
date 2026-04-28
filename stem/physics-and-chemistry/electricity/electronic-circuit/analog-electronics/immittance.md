@@ -1,9 +1,9 @@
 # Impedance
 - ### Impedance：$`Z=R+jX`$
     - ### $`j=\sqrt{-1}`$
-- ### $`Z=|z|(\cos{θ}+j\sin{θ})=|z|\times e^{jθ}`$
+- ### $`Z=|z|\left(\cos{θ}+j\sin{θ}\right)=|z|\times e^{jθ}`$
     - ### 幅值：$`|z|=\sqrt{R^2+X^2}`$
-    - ### 幅角：$`θ=\arctan{(\frac{X}{R})}`$
+    - ### 幅角：$`θ=\arctan{\left(\frac{X}{R}\right)}`$
     - ### $`\sin{θ}=\frac{X}{|z|},\cos{θ}=\frac{R}{|z|},\tan{θ}=\frac{X}{R}`$
 - ### [Resistance ($`R`$)](#resistance)
 - ### Reactance：$`X=X_L-X_C`$
@@ -52,20 +52,20 @@
     - ### Ohm's Law：$`V=IR`$
     - ### 電阻器電位能：$`E=QV=ItV=I^2Rt=\frac{V^2}{R}t`$
 - ### Capacitor (C)：$`Q=CV`$
-    - ### 電容器電流：$`I(t)=\frac{dQ}{dt}=C\frac{dV(t)}{dt}`$
-    - ### 電容器電壓：$`V(t)=\frac{1}{C}\int_{t_0}^{t}{I(t)\,dt}+V(t_0)`$
+    - ### 電容器電流：$`I\left(t\right)=\frac{dQ}{dt}=C\frac{dV\left(t\right)}{dt}`$
+    - ### 電容器電壓：$`V\left(t\right)=\frac{1}{C}\int_{t_0}^{t}{I\left(t\right)\,dt}+V\left(t_0\right)`$
         - ### $`t_0`$ = 初始時間
-    - ### 電壓連續性：$`V(t^-)=V(t^+)`$
+    - ### 電壓連續性：$`V\left(t^-\right)=V\left(t^+\right)`$
     - ### 電容器電位能：$`E=\frac{1}{2}CV^2=\frac{1}{2}QV=\frac{Q^2}{2C}`$
 - ### Inductor (L)：$`V=-L\frac{ΔI}{Δt}`$
-    - ### 電感器電壓：$`V(t)=L\frac{dI(t)}{dt}`$
-    - ### 電感器電流：$`I(t)=\frac{1}{L}\int_{t_0}^{t}{V(t)\,dt}+I(t_0)`$
+    - ### 電感器電壓：$`V\left(t\right)=L\frac{dI\left(t\right)}{dt}`$
+    - ### 電感器電流：$`I\left(t\right)=\frac{1}{L}\int_{t_0}^{t}{V\left(t\right)\,dt}+I\left(t_0\right)`$
         - ### $`t_0`$ = 初始時間
-    - ### 電流連續性：$`I(t^-)=I(t^+)`$
+    - ### 電流連續性：$`I\left(t^-\right)=I\left(t^+\right)`$
     - ### 電感器電位能：$`E=\frac{1}{2}LI^2`$
 
 # Resistivity, Conductivity
-- ### Resistivity：$`ρ=R\frac{A}{l}=ρ_0(1+α(T-T_0))`$
+- ### Resistivity：$`ρ=R\frac{A}{l}=ρ_0\left(1+α\left(T-T_0\right)\right)`$
     - ### $`l`$ = 長度
     - ### $`A`$ = 截面積
     - ### $`α`$ = 電阻率的溫度係數

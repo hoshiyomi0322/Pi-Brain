@@ -1,16 +1,16 @@
 # Probability
 - ### Probability
-    - #### $`P(A)`$ = the Probability of Event $A$
+    - #### $`P\left(A\right)`$ = the Probability of Event $A$
     - ### [Conditional Probability](./conditional-probability/conditional-probability.md)
 - ### [Probability of a Random Variable](distribution-function.md#probability-of-a-random-variable)
 - ### Sample Space($S$)
-    - $P(S)=1$
+    - $P\left(S\right)=1$
 
 # Random Variable
 - ### Random Variable ($X$)
     |Continuous|Discrete|
     |:---:|:---:|
-    |$`x\in A,~ x\in[a,b]`$|$`X=x_1,x_2,\cdots ,x_n`$|
+    |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
 - ### [Distribution Function](distribution-function.md)
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Continuous Probability Distribution](./probability-distribution/continuous-probability-distribution.md)
@@ -21,11 +21,11 @@
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](distribution-function.md#probability-function)
-    - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime(α)=0,~f^{\prime\prime}(α)<0`$
+    - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0`$
 - ### [Moment](#moment-1)
 
 # Inequality
-- ### Chebyshev's Inequality：$`P(|X-μ|\ge kσ)\le \frac{1}{k^2}`$
+- ### Chebyshev's Inequality：$`P\left(\left|X-μ\right|\ge kσ\right)\le \frac{1}{k^2}`$
 - ### Markov's Inequality
 
 # Limit Theorems of Probability

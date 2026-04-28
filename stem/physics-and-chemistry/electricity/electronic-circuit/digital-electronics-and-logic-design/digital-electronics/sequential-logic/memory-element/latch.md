@@ -1,4 +1,4 @@
-# SR Latch(Set-Reset)
+# SR Latch (Set-Reset)
 - ### Signals
     - Input：$`S,~R,~Q`$
     - Output：$`Q_{next}`$
@@ -15,7 +15,7 @@
     |Set|1|0|1|
     |Not Allowed|1|1|✗|
 
-# D Latch(Data)
+# D Latch (Data)
 - ### Signals
     - Input：$`E,~D,~Q`$
       - $`E=\text{Enable}`$

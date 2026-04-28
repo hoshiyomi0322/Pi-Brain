@@ -14,7 +14,7 @@
         - ### $`μ=\bar{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
         - ### $μ=E\left[X\right]$
     - ### Geometric Mean (GM)：$`G=\left(\prod_{i=1}^{n}{x_i}\right)^{\frac{1}{n}}=\sqrt[n]{x_1x_2\cdots x_n}`$
-    - ### Harmonic Mean：$`H=\frac{n}{\sum\limits_{i=1}^{n}{(\frac{1}{x_i})}}=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\cdots+\frac{1}{x_n}}`$
+    - ### Harmonic Mean：$`H=\frac{n}{\sum\limits_{i=1}^{n}{\left(\frac{1}{x_i}\right)}}=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\cdots+\frac{1}{x_n}}`$
     - ### Weighted Arithmetic Mean
     - ### Trimmed Mean
     - ### AM–GM Inequality：$`\frac{x_1+x_2+\cdots+x_n}{n}\geq \sqrt[n]{x_1x_2\cdots x_n}`$
@@ -28,16 +28,16 @@
 - ### Mean Absolute Deviation (MAD)：$`M_D=\frac{\sum\limits_{i=1}^{n}|D_i|}{n}=\frac{\sum\limits_{i=1}^{n}|x_i-μ|}{n}`$
     - #### Deviation from the Mean：$`D_i=x_i-μ`$
 - ### Variance
-    - ### $`Var(x)=σ^2=\frac{\sum\limits_{i=1}^{n}(D_i)^2}{n}=\frac{\sum\limits_{i=1}^{n}(x_i-μ)^2}{n}=\frac{\sum\limits_{i=1}^{n}{x_i}^2-nμ^2}{n}=\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2`$
-    - ### $`Var(X)=E\left[\left(X-μ\right)^2\right]=E\left[\left(X-E\left[X\right]\right)^2\right]=E\left[X^2\right]-E\left[X\right]^2`$
+    - ### $`Var(x)=σ^2=\frac{\sum\limits_{i=1}^{n}\left(D_i\right)^2}{n}=\frac{\sum\limits_{i=1}^{n}\left(x_i-μ\right)^2}{n}=\frac{\sum\limits_{i=1}^{n}{x_i}^2-nμ^2}{n}=\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2`$
+    - ### $`Var\left(X\right)=E\left[\left(X-μ\right)^2\right]=E\left[\left(X-E\left[X\right]\right)^2\right]=E\left[X^2\right]-E\left[X\right]^2`$
     - #### Properties
-        - $Var(c)=0$
-        - $Var(aX+b)=a^2Var(X)$
-        - $`Var(aX+bY)=a^2Var(X)+b^2Var(Y)+2ab\cdot Cov(X,Y)`$
+        - $Var\left(c\right)=0$
+        - $Var\left(aX+b\right)=a^2Var\left(X\right)$
+        - $`Var\left(aX+bY\right)=a^2Var\left(X\right)+b^2Var\left(Y\right)+2ab\cdot Cov\left(X,Y\right)`$
 - ### Standard Deviation (SD)
-    - ### $`\sqrt{Var(x)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum\limits_{i=1}^{n}(x_i-μ)^2}{n}}=\sqrt{\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2}`$
-    - ### $`\sqrt{Var(X)}=\sqrt{E\left[\left(X-μ\right)^2\right]}=\sqrt{E\left[\left(X-E\left[X\right]\right)^2\right]}=\sqrt{E\left[X^2\right]-E\left[X\right]^2}`$
-- ### Coefficient of Variation (CV\right)：$`c_v=\frac{σ}{μ}`$
+    - ### $`\sqrt{Var\left(x\right)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-μ\right)^2}{n}}=\sqrt{\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2}`$
+    - ### $`\sqrt{Var\left(X\right)}=\sqrt{E\left[\left(X-μ\right)^2\right]}=\sqrt{E\left[\left(X-E\left[X\right]\right)^2\right]}=\sqrt{E\left[X^2\right]-E\left[X\right]^2}`$
+- ### Coefficient of Variation (CV)：$`c_v=\frac{σ}{μ}`$
 - ### Chebyshev's Inequality
 
 
@@ -50,13 +50,13 @@
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank ($PR$)
 - ### Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$
-    - #### Standardization：$`\text{Raw Score}(x)\overset{Standardize}{\longrightarrow}\text{Standard Score}(z)`$
+    - #### Standardization：$`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$
     - #### Arithmetic Mean of $z$： $μ_z=0$
     - #### Standard Deviation of $z$： $σ_z=1$
 
 # Rate of Return (RoR)
 - ### Rate of Return (RoR)：$`r_n=\frac{x_n-x_{n-1}}{x_{n-1}}`$
-- ### Geometric Average Rate of Return：$`\overline{r}=\sqrt[n]{(1+r_1)(1+r_2)\cdots (1+r_n)}-1`$
+- ### Geometric Average Rate of Return：$`\overline{r}=\sqrt[n]{\left(1+r_1\right)\left(1+r_2\right)\cdots \left(1+r_n\right)}-1`$
 
 # Chart
 - ### Bar Chart

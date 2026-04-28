@@ -3,7 +3,7 @@
 - ### $`Q=\text{Present state}`$
 - ### $`Q_{next}=\text{Next state}`$
 
-# SR Flip-Flop(Set-Reset)
+# SR Flip-Flop (Set-Reset)
 - ### Signals
     - Input：$`clk,~S,~R,~Q`$
     - Output：$`Q_{next}`$
@@ -16,7 +16,7 @@
     |Set|1|0|1|
     |Not Allowed|1|1|✗|
 
-# D Flip-Flop(Data)
+# D Flip-Flop (Data)
 - ### Signals
     - Input：$`clk,~D,~Q`$
     - Output：$`Q_{next}`$
@@ -27,7 +27,7 @@
     |Hold|0|$`Q`$|
     |Data|1|$`D`$|
 
-# T Flip-Flop(Toggle)
+# T Flip-Flop (Toggle)
 - ### Signals
     - Input：$`clk,~T,~Q`$
     - Output：$`Q_{next}`$

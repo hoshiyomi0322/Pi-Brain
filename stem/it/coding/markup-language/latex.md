@@ -86,6 +86,7 @@
     |$`a~b`$|`a~b`|
     |$`a~~~b`$|`a~~~b`|
     |$`a~~~~~~~b`$|`a~~~~~~~b`|
+    |$`f(x,~y)`$|`f(x,~y)`|
 
 - ### Horizon Space：`\hspace{length}`
     |Output|LaTex|
@@ -121,6 +122,8 @@
 |Output|LaTex|
 |:---:|:---:|
 |$\frac{a}{b}$|`\frac{a}{b}`|
+|$\frac{df}{dx}$|`\frac{df}{dx}`|
+|$\frac{\partial f}{\partial x}$|`\frac{\partial f}{\partial x}`|
 
 # Root
 |Format|Output|LaTex|
@@ -353,24 +356,24 @@
 - ### Interval：[Large Operator](#large-operator)+[Superscript and Subscript](#superscript-and-subscript)
     |Large Operator|LaTex|
     |:---:|:---:|
-    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
-    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
-    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
-    |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x\, dx}`|
-    |$\log_{a}{x}$|`\log_{a}{x}`|
+    |$`\int_{a}^{b}{x}`$|`\int{x}_{a}^{b}{x}`|
+    |$`\int_{a}{x}`$|`\int{x}_{a}{x}`|
+    |$`\int^{b}{x}`$|`\int{x}^{b}{x}`|
+    |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x \, dx}`|
+    |$`\log_{a}{x}`$|`\log_{a}{x}`|
     - #### Limits：[Large Operator](#large-operator)+`\limits`+[Superscript and Subscript](#superscript-and-subscript)
         |Large Operator|LaTex|
         |:---:|:---:|
-        |$\lim\limits_{a}{x}$|`\lim\limits_{a}{x}`|
-        |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
-        |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
-        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
+        |$`\lim\limits_{a}{x}`$|`\lim\limits_{a}{x}`|
+        |$`\lim\limits_{a=0}{x}`$|`\lim\limits_{a=0}{x}`|
+        |$`\lim\limits_{a\to 0}{x}`$|`\lim\limits_{a\to 0}{x}`|
+        |$`\sum\limits_{a}^{b}{x}`$|`\sum\limits_{a}^{b}{x}`|
     - #### Substack：`\substack{text1\\ text2}`
         |Large Operator|LaTex|
         |:---:|:---:|
-        |$\lim\limits_{\substack{a\\ b}}{x}$|`\lim\limits_{\substack{a\\ b}}{x}`|
-        |$\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}$|`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`|
-        |$\sum\limits_{\substack{a\\ b}}^{c}{x}$|`\sum\limits_{\substack{a\\ b}}^{c}{x}`|
+        |$`\lim\limits_{\substack{a\\ b}}{x}`$|`\lim\limits_{\substack{a\\ b}}{x}`|
+        |$`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`$|`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`|
+        |$`\sum\limits_{\substack{a\\ b}}^{c}{x}`$|`\sum\limits_{\substack{a\\ b}}^{c}{x}`|
 
 # Function
 |Function|Output|LaTex|
@@ -408,3 +411,7 @@
     |:---:|:---:|
     |$`\sin^{-1}{x}`$|`\sin^{-1}{x}`|
     |$`\sin^{3}{x}`$|`\sin^{3}{x}`|
+
+# eg
+- ### $\text{arsinh}\,(x)$
+- ### 

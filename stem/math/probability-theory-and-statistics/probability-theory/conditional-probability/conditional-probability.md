@@ -1,31 +1,31 @@
-# Conditional Probability：$`P(A|B)`$
-- ### $P(A|B)=\frac{P(A\cap B)}{P(B)}$
-    - #### $P(A|B)$ ＝ the probability of $A$ under the condition $B$
-- ### Bayes' Theorem：$`P(A|B)=\frac{P(A\cap B)}{P(B)}=\frac{P(B|A)P(A)}{P(B)}`$
+# Conditional Probability
+- ### Conditional Probability：$`P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}`$
+    - #### $P\left(A|B\right)$ ＝ the probability of $A$ under the condition $B$
+- ### Bayes' Theorem：$`P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A\right)P\left(A\right)}{P\left(B\right)}`$
 
-# Joint Probability：$`P(A\cap B)`$
-- ### $P(A\cap B)=P(A|B)P(B)=P(B|A)P(A)$
+# Joint Probability
+- ### Joint Probability：$`P\left(A\cap B\right)=P\left(A|B\right)P\left(B\right)=P\left(B|A\right)P\left(A\right)`$
 - ### Independent events, Mutually Exclusive events
     |Independent events|Mutually Exclusive events|
     |:---:|:---:|
-    |<img src="independent.png" width="60%">|<img src="mutually-exclusive.png" width="60%">|
-    |$P(A\cap B)=P(A)P(B)$|$P(A\cap B)=0=\varnothing$|
-    |$`P(A\|B)=P(A),~P(B\|A)=P(B)`$|$`P(A\|B)=P(B\|A)=0`$|
+    |<img src="./image/independent.png" width="60%">|<img src="./image/mutually-exclusive.png" width="60%">|
+    |$P\left(A\cap B\right)=P\left(A\right)P\left(B\right)$|$P\left(A\cap B\right)=0=\varnothing$|
+    |$`P\left(A\|B\right)=P\left(A\right),~P\left(B\|A\right)=P\left(B\right)`$|$`P\left(A\|B\right)=P\left(B\|A\right)=0`$|
 
-# Union Probability：$`P(A\cup B)`$
-- ### $P(A\cup B)=(P(A)+P(B))-P(A\cap B)$
+# Union Probability
+- ### Union Probability：$`P\left(A\cup B\right)=\left(P\left(A\right)+P\left(B\right)\right)-P\left(A\cap B\right)`$
     - #### [Inclusion–Exclusion Principle](../../../discrete-mathematics/set-theory/set-theory.md#inclusionexclusion-principle)
 - ### Mutually Exclusive events, Collectively Exhaustive events
-    - #### [Mutually Exclusive events](#independent-events-mutually-exclusive-events)：$`P(A\cup B)=P(A)+P(B)`$
-    - #### Collectively Exhaustive events：$`P(A\cup B)=S`$
-    - #### Mutually Exclusive and Collectively Exhaustive events：$`P(A\cup B)=P(A)+P(B)=S`$
+    - #### [Mutually Exclusive events](#independent-events-mutually-exclusive-events)：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)`$
+    - #### Collectively Exhaustive events：$`P\left(A\cup B\right)=S`$
+    - #### Mutually Exclusive and Collectively Exhaustive events：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)=S`$
 
 # Law of Total Probability
 <div align="center">
-    <img src="law-of-total-probability.png" width="40%">
+    <img src="./image/law-of-total-probability.png" width="40%">
 </div>
 
 - ### $\{A_1\cdots A_n\}$ is [Mutually Exclusive and Collectively Exhaustive events](#mutually-exclusive-and-collectively-exhaustive-events)
-- ### $P(B)=\sum\limits_{k=1}^{n}{P(A_k\cap B)}=\sum\limits_{k=1}^{n}{(P(B|A_k)P(A_k))}$
-- ### [Bayes' Theorem](#bayes-theorem)：$`P(A_i|B)=\frac{P(A_i\cap B)}{P(B)}=\frac{P(B|A_i)P(A_i)}{P(B)}=\frac{P(B|A_i)P(A_i)}{\sum\limits_{k=1}^{n}{(P(B|A_k)P(A_k))}}`$
+- ### $P\left(B\right)=\sum\limits_{k=1}^{n}{P\left(A_k\cap B\right)}=\sum\limits_{k=1}^{n}{\left(P\left(B|A_k\right)P\left(A_k\right)\right)}$
+- ### [Bayes' Theorem](#bayes-theorem)：$`P\left(A_i|B\right)=\frac{P\left(A_i\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{\sum\limits_{k=1}^{n}{\left(P\left(B|A_k\right)P\left(A_k\right)\right)}}`$
 

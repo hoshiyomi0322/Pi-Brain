@@ -3,10 +3,10 @@
 - ### Interval Notation
     |Interval|Notation|Definition|
     |:---:|:---:|:---:|
-    |Open Interval|$`(a,~b)`$|$`\{x\mid a<x<b\}`$|
-    |Close Interval|$`[a,~b]`$|$`\{x\mid a\le x\le b\}`$|
-    |Half-open Interval|$`(a,~b]`$|$`\{x\mid a<x\le b\}`$|
-    |Half-open Interval|$`[a,~b)`$|$`\{x\mid a\le x<b\}`$|
+    |Open Interval|$`\left(a,~b\right)`$|$`\{x\mid a<x<b\}`$|
+    |Close Interval|$`\left[a,~b\right]`$|$`\{x\mid a\le x\le b\}`$|
+    |Half-open Interval|$`\left(a,~b\right]`$|$`\{x\mid a<x\le b\}`$|
+    |Half-open Interval|$`\left[a,~b\right)`$|$`\{x\mid a\le x<b\}`$|
 - ### Logical Notation
     |Notation|Definition|eg|
     |:---:|:---:|:---:|

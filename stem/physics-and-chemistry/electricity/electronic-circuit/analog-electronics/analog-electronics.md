@@ -8,7 +8,7 @@
     - ### [Unit](../../../../unit.md)：$`V`$ (Volt)
 - ### Electrical Energy：$`E=QV=ItV`$
     - ### [Unit](../../../../unit.md)：$`J`$ (Joule)
-    - ### $`E(t)=\int_{t_0}^{t}{I(t)\cdot V(t)\,dx}`$
+    - ### $`E\left(t\right)=\int_{t_0}^{t}{I\left(t\right)\cdot V\left(t\right)\,dx}`$
 - ### Electric Power：$`P=\frac{E}{t}=\frac{QV}{t}=IV`$
     - ### [Unit](../../../../unit.md)：$`W`$ (Watt)
 
@@ -46,7 +46,7 @@
     - #### [Unit](../../../../unit.md)：$`V`$ (Volt)
     - #### $R$＝總電阻
 - ### 內電阻(電池內部的電阻)：$`r`$
-- ### 端電壓：$`V=\varepsilon-Ir=I(R-r)`$
+- ### 端電壓：$`V=\varepsilon-Ir=I\left(R-r\right)`$
     - #### $`R-r=電池外部的電阻`$
 - ### 理想電池：無內電阻
     - #### $總電阻=電池外部的電阻$

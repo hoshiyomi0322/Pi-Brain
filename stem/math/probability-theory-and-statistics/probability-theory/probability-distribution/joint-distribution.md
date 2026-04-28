@@ -1,56 +1,56 @@
 # Joint [Distribution Function](../distribution-function.md)
-- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}(x,~y)=f_{X|Y}(x|y)f_Y(y)=f_{Y|X}(y|x)f_X(x)`$
+- ### Joint [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}\left(x,~y\right)=f_{X|Y}\left(x|y\right)f_Y\left(y\right)=f_{Y|X}\left(y|x\right)f_X\left(x\right)`$
     |Random Variable|Joint Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f(x,~y)=\frac{\partial^2}{\partial x\partial y}F(x,~y)`$|
-    |**$(X,~Y)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f(x,~y)=P(X=x,~Y=y)`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f(x,~y)=f_{X\|Y}(x\|y)P(Y=y)=P(Y=y\|X=x)f_X(x)\\&f(x,~y)=\frac{\partial}{\partial x}P(X\le x,~Y=y)\end{aligned}`$|
+    |**$\left(X,~Y\right)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f\left(x,~y\right)=\frac{\partial^2}{\partial x\partial y}F\left(x,~y\right)`$|
+    |**$\left(X,~Y\right)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f\left(x,~y\right)=P\left(X=x,~Y=y\right)`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{aligned}&f\left(x,~y\right)=f_{X\|Y}\left(x\|y\right)P\left(Y=y\right)=P\left(Y=y\|X=x\right)f_X\left(x\right)\\&f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)\end{aligned}`$|
 
 - ### Joint [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
-    - ### $`F(x,~y)=P(X\le x,~Y\le y)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f(t,~s)\,ds}\,dt}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f(t,~s)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f(t,~s)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
+    - ### $`F\left(x,~y\right)=P\left(X\le x,~Y\le y\right)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f\left(t,~s\right)\,ds}\,dt}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f\left(t,~s\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f\left(t,~s\right)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
-    - ### [Joint Probability Function](#joint-probability-function)：$`f_{XY}(x,~y)=f_X(x)f_Y(y)`$
-    - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F_{XY}(x,~y)=F_X(x)F_Y(y)`$
+    - ### [Joint Probability Function](#joint-probability-function)：$`f_{XY}\left(x,~y\right)=f_X\left(x\right)f_Y\left(y\right)`$
+    - ### [Joint CDF](#joint-cumulative-distribution-function-joint-cdf)：$`F_{XY}\left(x,~y\right)=F_X\left(x\right)F_Y\left(y\right)`$
 - ### Properties
-    - #### $`f_{XY}(x,~y)\ge 0`$
-    - #### $`F_{XY}(-\infty,~y)=F_{XY}(x,~-\infty)=0`$
-    - #### $`F_{XY}(\infty,~\infty)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\int^\infty_{-\infty}{f_{Y}(y)\,dy}} & \text{if }(X,~Y)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}(x,~y)}}=\sum\limits_x{f_{X}(x)}=\sum\limits_y{f_{Y}(y)}} & \text{if }(X,~Y)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}}=\int^\infty_{-\infty}{f_{X}(x)\,dx}=\sum\limits_y{f_{Y}(y)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
+    - #### $`f_{XY}\left(x,~y\right)\ge 0`$
+    - #### $`F_{XY}\left(-\infty,~y\right)=F_{XY}\left(x,~-\infty\right)=0`$
+    - #### $`F_{XY}\left(\infty,~\infty\right)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\int^\infty_{-\infty}{f_{Y}\left(y\right)\,dy}} & \text{if }\left(X,~Y\right)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}\left(x,~y\right)}}=\sum\limits_x{f_{X}\left(x\right)}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
 
 # Marginal Distribution
-- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X(x),~f_Y(y)`$
+- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X\left(x\right),~f_Y\left(y\right)`$
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f_X(x)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dy}\\ f_Y(y)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}\end{cases}`$|
-    |**$(X,~Y)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f_X(x)=\sum\limits_y{f_{XY}(x,~y)}\\ f_Y(y)=\sum\limits_x{f_{XY}(x,~y)}\end{cases}`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f_X(x)=\sum\limits_y{f_{XY}(x,~y)}\\ f_Y(y)=\int^\infty_{-\infty}{f_{XY}(x,~y)\,dx}\end{cases}`$|
+    |**$\left(X,~Y\right)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f_X\left(x\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|
+    |**$\left(X,~Y\right)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\sum\limits_x{f_{XY}\left(x,~y\right)}\end{cases}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
-    - $`F_X(x)=F_{XY}(x,~\infty)`$
-    - $`F_Y(y)=F_{XY}(\infty,~y)`$
-- #### eg：$`(X,~Y)`$ is Discrete
-    |$f(x_i,~y_j)$|$x_1$|$x_2$|$x_3$|$x_4$|$f(y_j)$|
+    - $`F_X\left(x\right)=F_{XY}\left(x,~\infty\right)`$
+    - $`F_Y\left(y\right)=F_{XY}\left(\infty,~y\right)`$
+- #### eg：$`\left(X,~Y\right)`$ is Discrete
+    |$f\left(x_i,~y_j\right)$|$x_1$|$x_2$|$x_3$|$x_4$|$f\left(y_j\right)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|
     |$y_1$|$\frac{4}{32}$|$\frac{2}{32}$|$\frac{1}{32}$|$\frac{1}{32}$|$\frac{4+2+1+1}{32}$|
     |$y_2$|$\frac{3}{32}$|$\frac{6}{32}$|$\frac{3}{32}$|$\frac{3}{32}$|$\frac{3+6+3+3}{32}$|
     |$y_3$|$\frac{9}{32}$|$0$|$0$|$0$|$\frac{9}{32}$|
-    |$f(x_i)$|$\frac{4+3+9}{32}$|$\frac{2+6}{32}$|$\frac{1+3}{32}$|$\frac{1+3}{32}$|$\frac{32}{32}$|
-    - $f_X(x_2)=f(x_2,~y_1)+f(x_2,~y_2)+f(x_2,~y_3)=\frac{8}{32}$
-    - $f_Y(y_1)=f(x_1,~y_1)+f(x_2,~y_1)+f(x_3,~y_1)+f(x_4,~y_1)=\frac{8}{32}$
-    - $F_X(x_2)=F(x_2,~\infty)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f(x,~y)}}=f(x_1)+f(x_2)=\frac{24}{32}$
+    |$f\left(x_i\right)$|$\frac{4+3+9}{32}$|$\frac{2+6}{32}$|$\frac{1+3}{32}$|$\frac{1+3}{32}$|$\frac{32}{32}$|
+    - $f_X\left(x_2\right)=f\left(x_2,~y_1\right)+f\left(x_2,~y_2\right)+f\left(x_2,~y_3\right)=\frac{8}{32}$
+    - $f_Y\left(y_1\right)=f\left(x_1,~y_1\right)+f\left(x_2,~y_1\right)+f\left(x_3,~y_1\right)+f\left(x_4,~y_1\right)=\frac{8}{32}$
+    - $F_X\left(x_2\right)=F\left(x_2,~\infty\right)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f\left(x,~y\right)}}=f\left(x_1\right)+f\left(x_2\right)=\frac{24}{32}$
 
 # Conditional Distribution
-- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}(x|y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}\left(x|y\right)=\frac{f_{XY}\left(x,~y\right)}{f_Y\left(y\right)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
-    |**$(X,~Y)$ is Continuous**|**Conditional PDF**<br>$`f_{X\|Y}(x\|y)=\frac{f_{XY}(x,~y)}{f_Y(y)}`$|
-    |**$(X,~Y)$ is Discrete**|**Conditional PMF**<br>$`f_{X\|Y}(x\|y)=P(X=x\|~Y=y)=\frac{P(X=x,~Y=y)}{P(Y=y)}`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}(x\|y)=\frac{f_{XY}(x,~y)}{P(Y=y)}=\frac{P(Y=y\|X=x)f_X(x)}{P(Y=y)}`$|
+    |**$\left(X,~Y\right)$ is Continuous**|**Conditional PDF**<br>$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{f_Y\left(y\right)}`$|
+    |**$\left(X,~Y\right)$ is Discrete**|**Conditional PMF**<br>$`f_{X\|Y}\left(x\|y\right)=P\left(X=x\|~Y=y\right)=\frac{P\left(X=x,~Y=y\right)}{P\left(Y=y\right)}`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{P\left(Y=y\right)}=\frac{P\left(Y=y\|X=x\right)f_X\left(x\right)}{P\left(Y=y\right)}`$|
 
 # Probability of a Multiple Random Variable
-- ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probabilitypacap-b)
-    - #### $`P(X=x,~Y=y)=P((X=x)\cap(Y=y))=P(X=x|Y=y)P(Y=y)=P(Y=y|X=x)P(X=x)`$
-    - #### $`P(X\le x,~Y\le y)=P((X\le x)\cap(Y\le y))=P(X\le x|Y\le y)P(Y\le y)=P(Y\le y|X\le x)P(X\le x)`$
+- ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probability)
+    - #### $`P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)=P\left(X=x|Y=y\right)P\left(Y=y\right)=P\left(Y=y|X=x\right)P\left(X=x\right)`$
+    - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap\left(Y\le y\right)\right)=P\left(X\le x|Y\le y\right)P\left(Y\le y\right)=P\left(Y\le y|X\le x\right)P\left(X\le x\right)`$
 - ### Interval Probability
-    - #### $`P(X\le x,~Y\le y)=P((X\le x)\cap (Y \le y))=F(x,~y)`$
-    - #### $`P(a<X\le b,~c<Y\le d)=F(b,~d)-F(a,~d)-F(b,~c)+F(a,~c)`$
-    - #### $`P(a\le X\le b,~c\le Y\le d)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f(x,~y)\,dy}\,dx}}&\text{if }(X,~Y)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f(x,~y)}}}&\text{if }(X,~Y)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f(x,~y)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
+    - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap \left(Y \le y\right)\right)=F\left(x,~y\right)`$
+    - #### $`P\left(a<X\le b,~c<Y\le d\right)=F\left(b,~d\right)-F\left(a,~d\right)-F\left(b,~c\right)+F\left(a,~c\right)`$
+    - #### $`P\left(a\le X\le b,~c\le Y\le d\right)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f\left(x,~y\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f\left(x,~y\right)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
 
