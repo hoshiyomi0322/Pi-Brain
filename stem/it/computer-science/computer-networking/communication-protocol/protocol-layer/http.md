@@ -21,24 +21,20 @@
     <img src="./image/http-persistent.png" width="50%">
 
     - ### HTTP Non-persistent Connection (HTTP/0.9, [HTTP/1.0](#http10))
-        1. TCP connection opened
+        1. [TCP](tcp.md) connection opened
         2. send and receive Single HTTP request/response
-        3. TCP connection closed
+        3. [TCP](tcp.md) connection closed
     - ### HTTP Persistent Connection ([HTTP/1.1](#http11))
-        1. TCP connection opened
+        1. [TCP](tcp.md) connection opened
         2. send and receive Multiple HTTP requests/responses
-        3. TCP connection closed
+        3. [TCP](tcp.md) connection closed
 - ### Pipelining (HTTP/1.1)
-    <img src="./image/http-pipelining.png" width="50%">
+    <img src="image/http-pipelining.png" width="50%">
     
-    - #### [HTTP HOL Blocking]()
-- ### Multiplexing over a Single TCP Connection (HTTP/2)
+    - #### [HTTP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
+- ### Multiplexing over a Single [TCP](tcp.md) Connection (HTTP/2)
     - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
-    - #### [TCP HOL Blocking]
-- ### Head-of-Line Blocking (HOL Blocking)：when a queue of packets is held up by the first packet in the queue
-    - ### HTTP HOL Blocking (Pipelining)
-        <img src="./image/http-hol-blocking.png" width="40%">
-    - ### TCP HOL Blocking (Multiplexing)：
+    - #### [TCP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
 
 # HTTP Version
 <div align="center"><img src="./image/http-version.png" width="85%"></div>

@@ -39,7 +39,7 @@
 # Throughput
 - ### Throughput ($`T`$)：the Actual Rate of Successful Data transfer over a channel
 - ### End-to-End Throughput
-    <img src="../image/average-throughput.png" width="60%">
+    <img src="image/average-throughput.png" width="60%">
     
     - ### Instantaneous Throughput = $`T_i`$
     - ### Average Throughput = $`min(T_1,~T_2,~\cdots ,~T_n)`$    
