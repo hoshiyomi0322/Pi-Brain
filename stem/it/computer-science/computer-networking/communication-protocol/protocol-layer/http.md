@@ -20,33 +20,43 @@
 - ### HTTP Non-persistent/Persistent Connection
     <img src="./image/http-persistent.png" width="50%">
 
-    - ### HTTP Non-persistent Connection (HTTP/0.9, [HTTP/1.0](#http10))
+    - ### HTTP Non-persistent Connection ([HTTP/0.9, HTTP/1.0](#http09--http10))
         1. [TCP](tcp.md) connection opened
         2. send and receive Single HTTP request/response
         3. [TCP](tcp.md) connection closed
-    - ### HTTP Persistent Connection ([HTTP/1.1](#http11))
+    - ### HTTP Persistent Connection ([HTTP/1.1](#http11--http2--http3))
         1. [TCP](tcp.md) connection opened
         2. send and receive Multiple HTTP requests/responses
         3. [TCP](tcp.md) connection closed
-- ### Pipelining (HTTP/1.1)
+- ### Pipelining ([HTTP/1.1](#http11--http2--http3))
     <img src="image/http-pipelining.png" width="50%">
     
     - #### [HTTP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
-- ### Multiplexing over a Single [TCP](tcp.md) Connection (HTTP/2)
+- ### Multiplexing over a Single [TCP](tcp.md) Connection ([HTTP/2](#http11--http2--http3))
     <img src="image/http-multiplexing.png" width="60%">
 
     - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
     - #### [TCP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
 
 # HTTP Version
-<div align="center"><img src="./image/http-version.png" width="85%"></div>
+- ### HTTP/0.9 , HTTP/1.0
+    |HTTP Version|HTTP/0.9|HTTP/1.0|
+    |:---:|:---:|:---:|
+    |**HTTP Connection**|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|
+    |**Content Types**|HTML Text only|Multimedia Support<br>(Images, Videos, Binary files)|
+    |**Headers**|None|Supported|
+    |**Status Codes**|None|Supported|
+    |**Methods**|`GET` only|`GET`, `POST`, `HEAD`|
+- ### HTTP/1.1 , HTTP/2 , HTTP/3
+    <img src="./image/http-version.png" width="85%">
 
-|HTTP Version|HTTP Connection|
-|:---:|:---:|
-|HTTP/1.0|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|
-|HTTP/1.1|[HTTP Persistent Connection](#http-persistent-connection-http11), [HTTP Pipelining (Optional)](#pipelining-http11)|
-|HTTP/2|[Multiplexing](../../network-access/multiple-access.md#multiplexing)|
-|HTTP/3|HTTP/3 over [QUIC](protocol-layer.md#quic)|
+    |HTTP Version|HTTP/1.1|HTTP/2|HTTP/3|
+    |:---:|:---:|:---:|:---:|
+    |**HTTP Connection**|[HTTP Persistent Connection](#http-persistent-connection-http11)<br>[HTTP Pipelining (Optional)](#pipelining-http11)|[Multiplexing](../../network-access/multiple-access.md#multiplexing)|HTTP/3 over [QUIC](protocol-layer.md#quic)|
+    |**Transport layer**|[TCP](tcp.md)|[TCP](tcp.md)|[UDP](udp.md)+[QUIC](protocol-layer.md#quic)|
+    |**Data Format**|ASCII|Binary|Binary|
+    |**Header Compression**|None|HPACK|QPACK|
+    |**Prioritization**|None|Stream Prioritization<br>(Weights, Dependencies)|Extensible Priorities<br>(Urgency, Incremental)|
 
 # HTTP Method
 |HTTP Method|Description|
