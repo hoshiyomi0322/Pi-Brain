@@ -47,6 +47,7 @@
     |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{P\left(Y=y\right)}=\frac{P\left(Y=y\|X=x\right)f_X\left(x\right)}{P\left(Y=y\right)}`$|
 - ### [Conditional](../conditional-probability/conditional-probability.md) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F_{X|Y}\left(x|y\right) = P\left(X\le x|Y=y\right) = \begin{cases} {\int^x_{-\infty}{f_{X|Y}\left(t|y\right)\,dt}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{t\le x}{f_{X|Y}\left(t|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}`$
+- ### $`P\left(a\le X\le b|Y=y\right) = \begin{cases} {\int^b_{a}{f_{X|Y}\left(x|y\right)\,dx}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{a\le x \le b}{f_{X|Y}\left(x|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f_{X|Y}\left(x|y\right)=f_X\left(x\right),~f_{Y|X}\left(y|x\right)=f_Y\left(y\right)`$
     - ### $`F_{X|Y}\left(x|y\right)=F_X\left(x\right),~F_{Y|X}\left(y|x\right)=F_Y\left(y\right)`$
