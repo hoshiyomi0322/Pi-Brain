@@ -4,6 +4,10 @@
 - ### [Random Variable](../probability-theory/probability-theory.md#random-variable)：$`\begin{cases}{X=x_1,x_2,\cdots ,x_n}\\{Y=y_1,y_2,\cdots ,y_n}\end{cases}`$
     - #### [Expected Value (Mean)](../probability-theory/expected-value.md)：$`E\left[X\right],~E\left[Y\right]`$
 
+# Conditional Variance
+- ### $`Var\left( X|Y \right)=E\left[ \left( X-E\left[X|Y\right] \right)^2|Y \right]=E\left[ X^2|Y\right]-E\left[X|Y\right]^2`$
+- ### Law of Total Variance：$`Var\left( X \right)=E\left[ Var\left(X|Y \right) \right]+Var\left( E\left[ X|Y \right] \right)`$
+
 # Correlation
 - ### Sum of Products of Deviations from the Mean：$`D_{xy}=\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)=\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y`$
 - ### Co[variance](../descriptive-statistics.md#variance)
