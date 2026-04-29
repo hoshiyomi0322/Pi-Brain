@@ -15,6 +15,8 @@
     - #### $`f_{XY}\left(x,~y\right)\ge 0`$
     - #### $`F_{XY}\left(-\infty,~y\right)=F_{XY}\left(x,~-\infty\right)=0`$
     - #### $`F_{XY}\left(\infty,~\infty\right)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\int^\infty_{-\infty}{f_{Y}\left(y\right)\,dy}} & \text{if }\left(X,~Y\right)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}\left(x,~y\right)}}=\sum\limits_x{f_{X}\left(x\right)}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
+- ### [Expected Value of Joint Distribution](../expected-value.md#expected-value-of-joint-distribution)
+- ### [Covariance](../../statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md#covariance)
 
 # Marginal Distribution
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X\left(x\right),~f_Y\left(y\right)`$
