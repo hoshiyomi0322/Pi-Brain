@@ -33,23 +33,20 @@
     
     - #### [HTTP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
 - ### Multiplexing over a Single [TCP](tcp.md) Connection (HTTP/2)
+    <img src="image/http-multiplexing.png" width="60%">
+
     - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
     - #### [TCP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
 
 # HTTP Version
 <div align="center"><img src="./image/http-version.png" width="85%"></div>
 
-- ### HTTP/1.0
-    - #### HTTP Connection：[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)
-- ### HTTP/1.1
-    - #### HTTP Connection
-        - [HTTP Persistent Connection](#http-persistent-connection-http11)
-        - [HTTP Pipelining (Optional)](#pipelining-http11)
-    - #### HTTP HOL Blocking
-- ### HTTP/2
-    - #### HTTP Connection：[Multiplexing](../../network-access/multiple-access.md#multiplexing)
-- ### HTTP/3
-    - #### HTTP/3 over [QUIC](protocol-layer.md#quic)
+|HTTP Version|HTTP Connection|
+|:---:|:---:|
+|HTTP/1.0|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|
+|HTTP/1.1|[HTTP Persistent Connection](#http-persistent-connection-http11), [HTTP Pipelining (Optional)](#pipelining-http11)|
+|HTTP/2|[Multiplexing](../../network-access/multiple-access.md#multiplexing)|
+|HTTP/3|HTTP/3 over [QUIC](protocol-layer.md#quic)|
 
 # HTTP Method
 |HTTP Method|Description|

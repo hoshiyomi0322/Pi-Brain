@@ -28,6 +28,7 @@
     |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](ip.md#voice-over-internet-protocolvoip))|
     - ### [TCP/UDP Ports](../../computer-networking.md#tcpudp-ports)
 - ### QUIC
+    <img src="./image/quic.png" width="55%">
 - ### Datagram Congestion Control Protocol (DCCP)
 - ### Point to Point Tunneling Protocol (PPTP)
 
