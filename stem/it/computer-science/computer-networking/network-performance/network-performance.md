@@ -42,7 +42,7 @@
 - ### Types of HOL Blocking
     |HOL Blocking|[Switch](../networking-hardware.md#switch) HOL Blocking|[HTTP](../communication-protocol/protocol-layer/http.md) HOL Blocking|[TCP](../communication-protocol/protocol-layer/tcp.md) HOL Blocking|
     |:---:|:---:|:---:|:---:|
-    |||<img src="image/http-hol-blocking.png">||
+    ||<img src="image/switch-hol-blocking.png" width="80%">|<img src="image/http-hol-blocking.png">|<img src="image/tcp-hol-blocking.png" width="100%">|
     |**Location**|[Switch](../networking-hardware.md#switch)|[Pipelining (HTTP/1.1)](../communication-protocol/protocol-layer/http.md#pipelining-http11)|[TCP](../communication-protocol/protocol-layer/tcp.md), [Multiplexing (HTTP/2)](../communication-protocol/protocol-layer/http.md#multiplexing-over-a-single-tcp-connection-http2)|
     |**Solution**|Virtual Output Queues (VOQ)|[Multiplexing (HTTP/2)](../communication-protocol/protocol-layer/http.md#multiplexing-over-a-single-tcp-connection-http2)|[QUIC](../communication-protocol/protocol-layer/protocol-layer.md#quic)|
 
