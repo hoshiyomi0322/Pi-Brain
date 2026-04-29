@@ -73,7 +73,7 @@ cp # Copy
     |`-o <file name>`|Download file|
     |`-O`|Download file|
     |`-L`|Follow the redirects (Location header)|
-    |`-X [GET\|POST\|PUT\|DELETE\|PATCH]`|Specify [http request method](../../computer-science/computer-networking/communication-protocol/protocol-layer/http.md#http-method)|
+    |`-X [GET\|POST\|PUT\|DELETE\|PATCH]`|Specify [http request method](../../computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http.md#http-method)|
     |`-H`|Header|
     |`-i`|include|
     |`-d`|data|

@@ -5,7 +5,7 @@
 - ### Node
     <img src="./image/node.png" width="50%">
 - ### Port
-    - ### [TCP/UDP](./communication-protocol/protocol-layer/protocol-layer.md#tcpudp) Ports
+    - ### [TCP/UDP](./communication-protocol/protocol-layer/protocol-layer.md#tcp-udp) Ports
         <img src="./image/tcp-udp-ports.png" width="50%">
     - ### [Network Mapper (Nmap)](./networking-tools/nmap.md)
 - ### [Packet](packet.md)
@@ -101,8 +101,8 @@
 
         - ### authority = [user:password@] host [:port]
 - ### Hypertext
-    - ### [HyperText Transfer Protoco (HTTP)](./communication-protocol/protocol-layer/http.md)
-    - ### [HTTP Secure (HTTPS)](./communication-protocol/protocol-layer/protocol-layer.md#http-secure-https)
+    - ### [HyperText Transfer Protoco (HTTP)](./communication-protocol/protocol-layer/application-layer/http.md)
+    - ### [HTTP Secure (HTTPS)](./communication-protocol/protocol-layer/protocol-layer.md#http-secure-https--http--tlsssl)
     - ### [HyperText Markup Language (HTML)](../../coding/markup-language/html/html.md)
 
 # History of the Internet
@@ -132,7 +132,7 @@
 
 # Network Organization
 - ### Internet Corporation for Assigned Names and Numbers (ICANN)
-    - #### manage：IP address, DNS
+    - #### manage：[IP address](./communication-protocol/protocol-layer/network-layer/ip.md#ip-address), [DNS](./communication-protocol/protocol-layer/application-layer/dns.md)
 - ### Internet Engineering Task Force (IETF)
     - #### Request for Comments (RFC)
 - ### Federal Communications Commission (FCC)

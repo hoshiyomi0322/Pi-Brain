@@ -1,6 +1,6 @@
 # HTTP Message Format
 - ### Encoding
-    - #### [ASCII Text](../../../data-representation/encoding.md#ascii-1)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
+    - #### [ASCII Text](../../../../data-representation/encoding.md#ascii-1)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
     - #### Binary：Body
 - ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-linern) + Body
     - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-linern) + Body
@@ -8,7 +8,7 @@
     - ### HTTP Response Message：([Status line](#status-linehttp-version--http-status-code) + [Response Header Fields](#response-header-fields)) + [Empty line](#empty-linern) + Body
         <img src="./image/http-response-message.png" width="50%">
 - ### Start Line
-    - ### Request line：[HTTP Method](#http-method) + [URI](../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
+    - ### Request line：[HTTP Method](#http-method) + [URI](../../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
 - ### Empty line：`\r\n`
     - Carriage Return (CR)：`\r`
@@ -31,12 +31,12 @@
 - ### Pipelining ([HTTP/1.1](#http11--http2--http3))
     <img src="image/http-pipelining.png" width="50%">
     
-    - #### [HTTP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
+    - #### [HTTP HOL Blocking](../../../network-performance/network-performance.md#types-of-hol-blocking)
 - ### Multiplexing over a Single [TCP](tcp.md) Connection ([HTTP/2](#http11--http2--http3))
     <img src="image/http-multiplexing.png" width="60%">
 
-    - #### [Multiplexing](../../network-access/multiple-access.md#multiplexing)
-    - #### [TCP HOL Blocking](../../network-performance/network-performance.md#types-of-hol-blocking)
+    - #### [Multiplexing](../../../network-access/multiple-access.md#multiplexing)
+    - #### [TCP HOL Blocking](../../../network-performance/network-performance.md#types-of-hol-blocking)
 
 # HTTP Version
 - ### HTTP/0.9 , HTTP/1.0
@@ -48,12 +48,11 @@
     |**Status Codes**|None|Supported|
     |**Methods**|`GET` only|`GET`, `POST`, `HEAD`|
 - ### HTTP/1.1 , HTTP/2 , HTTP/3
-    <img src="./image/http-version.png" width="85%">
-
     |HTTP Version|HTTP/1.1|HTTP/2|HTTP/3|
     |:---:|:---:|:---:|:---:|
-    |**HTTP Connection**|[HTTP Persistent Connection](#http-persistent-connection-http11)<br>[HTTP Pipelining (Optional)](#pipelining-http11)|[Multiplexing](../../network-access/multiple-access.md#multiplexing)|HTTP/3 over [QUIC](protocol-layer.md#quic)|
-    |**Transport layer**|[TCP](tcp.md)|[TCP](tcp.md)|[UDP](udp.md)+[QUIC](protocol-layer.md#quic)|
+    |**Protocol Layer**|<img src="./image/http-1-1.png" width="100%">|<img src="./image/http-2.png" width="100%">|<img src="./image/http-3.png" width="100%">|
+    |**Transport Layer**|[TCP](../transport-layer/tcp.md)|[TCP](../transport-layer/tcp.md)|[UDP](../transport-layer/udp.md)+[QUIC](../protocol-layer.md#quic)|
+    |**HTTP Connection**|[HTTP Persistent Connection](#http-persistent-connection-http11)<br>[HTTP Pipelining (Optional)](#pipelining-http11)|[Multiplexing](../../../network-access/multiple-access.md#multiplexing)|HTTP/3 over [QUIC](../protocol-layer.md#quic)|
     |**Data Format**|ASCII|Binary|Binary|
     |**Header Compression**|None|HPACK|QPACK|
     |**Prioritization**|None|Stream Prioritization<br>(Weights, Dependencies)|Extensible Priorities<br>(Urgency, Incremental)|

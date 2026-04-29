@@ -1,8 +1,8 @@
 # Application layer
 - ### HTTP/HTTPS
-    - ### [HyperText Transfer Protocol (HTTP)](http.md)
-    - ### HTTP Secure (HTTPS) = [HTTP](http.md) + [TLS/SSL](#tlsssl)
-- ### [Domain Name System (DNS)](dns.md)
+    - ### [HyperText Transfer Protocol (HTTP)](application-layer/http.md)
+    - ### HTTP Secure (HTTPS) = [HTTP](application-layer/http.md) + [TLS/SSL](#tlsssl)
+- ### [Domain Name System (DNS)](application-layer/dns.md)
 - ### Secure Shell (SSH)
 - ### File Transfer Protocol (FTP)
     - ### FTP Secure (FTPS) = [FTP](#file-transfer-protocol-ftp) + [TLS/SSL](#tlsssl)
@@ -17,8 +17,8 @@
 - ### Remote Desktop
 
 # Transport layer
-- ### [TCP](tcp.md), [UDP](udp.md)
-    ||[Transmission Control Protocol (TCP)](tcp.md)|[User Datagram Protocol (UDP)](udp.md)|
+- ### [TCP](transport-layer/tcp.md), [UDP](transport-layer/udp.md)
+    ||[Transmission Control Protocol (TCP)](transport-layer/tcp.md)|[User Datagram Protocol (UDP)](transport-layer/udp.md)|
     |:---:|:---:|:---:|
     |**Communication**|<img src="./image/tcp.png" width="70%">|<img src="./image/udp.png" width="70%">|
     |**Connection**|Connection-Oriented|Connectionless|
@@ -33,9 +33,9 @@
 - ### Point to Point Tunneling Protocol (PPTP)
 
 # Network layer
-- ### [Internet Protocol (IP)](ip.md)
-    - #### [IPv4](ip.md#ipv4-address)
-    - #### [IPv6](ip.md#ipv6-address)
+- ### [Internet Protocol (IP)](network-layer/ip.md)
+    - #### [IPv4](network-layer/ip.md#ipv4-address)
+    - #### [IPv6](network-layer/ip.md#ipv6-address)
 - ### [Routing](../../routing.md)
 - ### [Gateway](../../networking-hardware.md#gateway)
 - ### Internet Control Message Protocol (ICMP)
