@@ -1,8 +1,10 @@
 - ### Data：$`\begin{cases}{x_1,x_2,\cdots ,x_n}\\{y_1,y_2,\cdots ,y_n}\end{cases}`$
     - #### Number of Data：$`n`$
     - #### [Arithmetic Mean](../descriptive-statistics.md#arithmetic-mean-am)：$`μ_x,~μ_y`$
+    - #### [Standard Deviation](../descriptive-statistics.md#standard-deviation-sd)：$`σ_x,~σ_y`$
 - ### [Random Variable](../probability-theory/probability-theory.md#random-variable)：$`\begin{cases}{X=x_1,x_2,\cdots ,x_n}\\{Y=y_1,y_2,\cdots ,y_n}\end{cases}`$
     - #### [Expected Value (Mean)](../probability-theory/expected-value.md)：$`E\left[X\right],~E\left[Y\right]`$
+    - #### [Standard Deviation](../descriptive-statistics.md#standard-deviation-sd)：$`\sqrt{Var\left(X\right)},~\sqrt{Var\left(Y\right)}`$
 
 # Correlation
 |Negative Correlation|Zero Correlation|Positive Correlation|
@@ -18,7 +20,8 @@
 
 # Correlation Coefficient
 - ### Pearson Correlation Coefficient
-    - ### $`r=\frac{σ_{xy}}{σ_xσ_y}=\frac{D_{xy}}{nσ_xσ_y}=\frac{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)}{\sqrt{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)^2}\sqrt{\sum\limits_{i=1}^{n}\left(y_i-μ_y\right)^2}}=\frac{\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y}{\sqrt{\sum\limits_{i=1}^{n}{x_i}^2-n{μ_x}^2}\sqrt{\sum\limits_{i=1}^{n}{y_i}^2-n{μ_y}^2}}`$
+    - ### $`r=\frac{σ_{xy}}{σ_xσ_y}=\frac{D_{xy}}{nσ_xσ_y} = \frac{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)}{\sqrt{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)^2}\sqrt{\sum\limits_{i=1}^{n}\left(y_i-μ_y\right)^2}} = \frac{\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y}{\sqrt{\sum\limits_{i=1}^{n}{x_i}^2-n{μ_x}^2}\sqrt{\sum\limits_{i=1}^{n}{y_i}^2-n{μ_y}^2}}`$
+    - ### $`r = \frac{Cov\left(XY\right)}{\sqrt{Var\left(X\right)}\sqrt{Var\left(Y\right)}} = \frac{E\left[XY\right]-E\left[X\right]E\left[Y\right]}{\sqrt{E\left[X^2\right]-E\left[X\right]^2}\sqrt{E\left[Y^2\right]-E\left[Y\right]^2}}`$
 - ### Partial Correlation Coefficient
     - ### $`r_{xy,~z}=\frac{r_{xy}-\left(r_{xz}\right)\left(r_{yz}\right)}{\sqrt{1-\left(r_{xz}\right)^2}\times\sqrt{1-\left(r_{yz}\right)^2}}`$
 
