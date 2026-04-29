@@ -1,6 +1,6 @@
 # Regression Line
 - ### Least Square Method
-    <img src="least-square.png" width="30%">
+    <img src="image/least-square.png" width="30%">
 
     - #### Data：$`\left(x_1,y_1\right),\left(x_2,y_2\right),\cdots,\left(x_n,y_n\right)`$
     - #### Let $`L:g(x)=y=mx+k`$
