@@ -18,3 +18,5 @@
 - ### $`E\left[X|Y=y\right]=\begin{cases}{\int_{-\infty}^{\infty}{x\cdot f_{X|Y}\left(x|y\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\left(x\cdot f_{X|Y}\left(x|y\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - $`f_{X|Y}\left(x|y\right)`$ = [Conditional Probability Function](./probability-distribution/joint-distribution.md#conditional-distribution)
 - ### $`E\left[g\left(X\right)|Y=y\right]=\begin{cases}{\int_{-\infty}^{\infty}{g\left(x\right)\cdot f_{X|Y}\left(x|y\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\left(g\left(x\right)\cdot f_{X|Y}\left(x|y\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
+- ### Law of Total Expectation (Law of Iterated Expectations)：$`E\left[ X\right]=E_Y\left[ E_X\left[ X|Y\right]\right]`$
+
