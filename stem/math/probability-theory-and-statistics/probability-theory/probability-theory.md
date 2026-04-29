@@ -57,7 +57,7 @@
     |Measure|Moment|Definition|
     |:---:|:---:|:---:|
     |[Mean](../statistics/descriptive-statistics.md#arithmetic-mean-am)|First Raw Moment|$E\left[x\right]=μ$|
-    |[Variance](../statistics/descriptive-statistics.md#variance)|Second Central Moment|$Var(x)=μ_2=E\left[(X-μ)^2\right]$|
+    |[Variance](../statistics/variance.md#variance)|Second Central Moment|$Var(x)=μ_2=E\left[(X-μ)^2\right]$|
     |Skewness|Third Standardized Moment|$S(x)=\frac{μ_3}{σ^3}$|
     |Kurtosis|Fourth Standardized Moment|$K(x)=\frac{μ_4}{σ^4}$|
 - ### Moment-Generating Function (MGF)：$`M_X(t)=E\left[e^{tX}\right]=\begin{cases}{\int_{-\infty}^{\infty}{e^{tx}f(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{(e^{tx}\cdot f(x))}}&\text{if }X\text{ is Discrete}\end{cases}`$
