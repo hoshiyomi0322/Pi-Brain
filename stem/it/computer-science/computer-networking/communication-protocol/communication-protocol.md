@@ -18,12 +18,11 @@
 - ### Stateful/Stateless Protocol
     ||Stateful Protocol|Stateless Protocol
     |:---:|:---:|:---:|
-    |**Session**|||
-    |**Cookie, Token**|||
-    |**Resource usage**|||
+    |**Session**|Stored by Server|Not stored by Server<br>(Stored by Client)|
+    |**Resource usage**|High|Low|
     |**Fault Tolerance**|Low|High|
-    |**Scalability**|
-    |**eg**|FTP, SSH, TCP|HTTP, DNS, UDP|
+    |**Scalability**|Difficult|Easy|
+    |**eg**|FTP, SSH, TCP|HTTP, DNS, UDP, IP|
 
 # Encapsulation
 - ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
