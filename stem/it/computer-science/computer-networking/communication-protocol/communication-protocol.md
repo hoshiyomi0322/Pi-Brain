@@ -22,6 +22,7 @@
     |**Cookie, Token**|||
     |**Resource usage**|||
     |**Fault Tolerance**|Low|High|
+    |**Scalability**|
     |**eg**|FTP, SSH, TCP|HTTP, DNS, UDP|
 
 # Encapsulation
