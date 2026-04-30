@@ -19,4 +19,5 @@
 ---
 - ### Differentiator
 - ### Integrator
-
+- ### Comparator
+    - ### Schmitt Trigger
