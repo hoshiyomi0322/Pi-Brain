@@ -22,7 +22,7 @@
     |**Resource usage**|High|Low|
     |**Fault Tolerance**|Low|High|
     |**Scalability**|Difficult|Easy|
-    |**eg**|FTP, SSH, TCP|HTTP, DNS, UDP, IP|
+    |**eg**|[FTP](./protocol-layer/protocol-layer.md#file-transfer-protocol-ftp), [SSH](./protocol-layer/protocol-layer.md#secure-shell-ssh), [TCP](./protocol-layer/transport-layer/tcp.md)|[HTTP](./protocol-layer/application-layer/http.md), [DNS](./protocol-layer/application-layer/dns.md), [UDP](./protocol-layer/transport-layer/udp.md), [IP](./protocol-layer/network-layer/ip.md)|
 
 # Encapsulation
 - ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
