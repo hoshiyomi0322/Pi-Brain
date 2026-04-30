@@ -14,7 +14,15 @@
     - ### TCP/IP Protocol Suite (Internet Protocol Suite, DoD model)
         <img src="./image/tcp-ip.png" width="50%">
 - ### Proprietary Protocol
-    - ### eg：Skype protocol, PlayStation Network(PSN), Nintendo Wi-Fi Connection(Nintendo WFC)
+    - eg：Skype protocol, PlayStation Network(PSN), Nintendo Wi-Fi Connection(Nintendo WFC)
+- ### Stateful/Stateless Protocol
+    ||Stateful Protocol|Stateless Protocol
+    |:---:|:---:|:---:|
+    |**Session**|||
+    |**Cookie, Token**|||
+    |**Resource usage**|||
+    |**Fault Tolerance**|Low|High|
+    |**eg**|FTP, SSH, TCP|HTTP, DNS, UDP|
 
 # Encapsulation
 - ### [Packet](../packet.md)：Encapsulation → Transmission → Decapsulation
