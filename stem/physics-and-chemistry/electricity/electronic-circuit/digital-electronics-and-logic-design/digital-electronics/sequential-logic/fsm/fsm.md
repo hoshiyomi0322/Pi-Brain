@@ -1,3 +1,6 @@
+# State Transition
+- ### [State Transition](state-transition.md)
+
 # Types of Finite State Machine
 ||Moore Machine|Mealy Machine|
 |:---:|:---:|:---:|
@@ -5,10 +8,7 @@
 - ### Moore Machine
 - ### Mealy Machine
 
-
 # Sequence Detector
 
 # Serial Binary Adder
 
-# [Counter](./counter/counter.md)
-- ### [Binary Counter](./counter/binary-counter.md)

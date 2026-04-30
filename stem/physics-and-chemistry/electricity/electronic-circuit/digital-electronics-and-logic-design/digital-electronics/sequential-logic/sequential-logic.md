@@ -2,8 +2,10 @@
 - ### Memory Element
     - ### [Flip-Flop(FF)](./memory-element/flip-flop.md)
     - ### [Latch](./memory-element/latch.md)
-- ### [Finite State Machine(FSM)](fsm.md)
-    - ### [Counter](./counter/counter.md)
+- ### [Finite State Machine(FSM)](./fsm/fsm.md)
+    - ### [State Transition](./fsm/state-transition.md)
+- ### [Counter](./counter/counter.md)
+    - ### [Binary Counter](./counter/binary-counter.md)
 - ### [Shift Register](./shift-register/shift-register.md)
 
 # Triggering Methods

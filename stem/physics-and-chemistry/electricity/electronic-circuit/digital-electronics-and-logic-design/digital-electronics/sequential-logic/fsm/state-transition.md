@@ -13,6 +13,6 @@
     - #### Inputs：$`X_1,~X_2,~\cdots ,~X_n`$
     - #### Input condition on $`i`$-th Outgoing Transitions：$`C_i=X_1X_2\cdots X_n`$
 
-# Reduction of State Tables
+# Reduction of [State Tables](#state-transition-table)
 - ### Equivalent State
 - ### Implication Table
