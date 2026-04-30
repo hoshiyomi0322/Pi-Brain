@@ -1,4 +1,5 @@
 - ### Boolean Expression
+    - ### Quine-McCluskey Method
 - ### Logic Diagram
 - ### Truth Table
     - ### [Karnaugh map(K-map)](#karnaugh-mapk-map-1)
