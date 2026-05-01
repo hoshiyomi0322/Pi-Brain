@@ -143,7 +143,7 @@
     - Accept-Language
     - Accept-Encoding
     - Content-Length
-    - [Cookie](#cookie)
+    - [Cookie](#http-cookie-cookie)
     - Referer
     - Connection
 
@@ -158,6 +158,25 @@
     - Keep-Alive
     - Last-Modified
     - Server
-    - [Set-Cookie](#cookie)
+    - [Set-Cookie](#http-cookie-cookie)
 
-# Cookie
+# HTTP Cookie (Cookie)
+<div align="center"><img src="./image/cookie.png" width="50%"></div>
+
+- ### Types of Cookie
+    - #### Session Cookie
+    - #### Persistent Cookie
+    - #### First-Party/Third-Party Cookie
+- ### Cookie Attribute
+    <img src="./image/cookie-attribute.png" width="65%">
+
+    - #### HTTPOnly
+    - #### Secure
+    - #### SameSite
+- ### Uses
+    - #### Session Management
+    - #### Personalization
+    - #### [Web Tracking](../../communication-protocol.md#web-tracking)
+
+# HTTP ETag
+
