@@ -170,7 +170,7 @@
 - ### Cookie Attribute
     <img src="./image/cookie-attribute.png" width="65%">
 
-    - #### HTTPOnly
+    - #### HttpOnly
     - #### Secure
     - #### SameSite
 - ### Uses
