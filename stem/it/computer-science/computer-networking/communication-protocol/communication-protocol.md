@@ -39,6 +39,7 @@
     - #### [HTTP ETag](./protocol-layer/application-layer/http.md#http-etag)
     - #### [IP Address](./protocol-layer/network-layer/ip.md#ip-address)
 - ### Browser Fingerprinting
+    - #### Canvas Fingerprinting
 - ### Web Beacon
 - ### Retargeting
     <img src="./image/retargeting.png" width="60%">

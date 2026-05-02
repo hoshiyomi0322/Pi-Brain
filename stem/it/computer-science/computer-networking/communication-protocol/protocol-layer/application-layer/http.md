@@ -161,22 +161,32 @@
     - [Set-Cookie](#http-cookie-cookie)
 
 # HTTP Cookie (Cookie)
-<div align="center"><img src="./image/cookie.png" width="50%"></div>
-
 - ### Types of Cookie
     - #### Session Cookie
     - #### Persistent Cookie
     - #### First-Party/Third-Party Cookie
 - ### Cookie Attribute
-    <img src="./image/cookie-attribute.png" width="65%">
-
-    - #### HttpOnly
-    - #### Secure
-    - #### SameSite
+    <img src="./image/cookie-attribute.png" width="70%">
+    
+    |Attribute|Description|
+    |:---:|:---:|
+    |`Domain=x`|The Host x allowed to receive the cookie|
+    |`Path=x`|The URL Path x allowed to receive the cookie|
+    |`Expires=x`|the browser deletes the cookie at Date x|
+    |`Max-Age=x`|the browser deletes the cookie after x Seconds|
+    |`Secure`|cookie can only be transmitted over an Encrypted Connection (HTTPS)|
+    |`HttpOnly`|cookie cannot be accessed by Client-Side Scripting|
+    |`SameSite=Strict`<br>`SameSite=Lax`<br>`SameSite=None`|Strict：sent for Same-Site requests only<br> Lax：sent for Safe Requests only<br> None：sent for All requests|
+    - eg
+        ```http
+        HTTP/1.1 200 OK
+        Set-Cookie: SSID=Ap4P…GTEq; Domain=foo.com; Path=/; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly; SameSite=Strict
+        ```
 - ### Uses
-    - #### Session Management
-    - #### Personalization
-    - #### [Web Tracking](../../communication-protocol.md#web-tracking)
+    - ### Session Management
+        <img src="./image/cookie.png" width="50%">
+    - ### Personalization
+    - ### [Web Tracking](../../communication-protocol.md#web-tracking)
 
 # HTTP ETag
 
