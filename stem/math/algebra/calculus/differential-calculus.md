@@ -7,22 +7,19 @@
 - ### $`\left(\frac{f}{g}\right)^\prime=\frac{f^\prime g-g^\prime f}{g^2}`$
     - ### $`\left(\frac{1}{f}\right)^\prime=\frac{-f^\prime}{f^2}`$
 
-# Chain Rule
-- ### Chain Rule：$`\left(f\left(g\left(x\right)\right)\right)^\prime=f^\prime\left(g\left(x\right)\right)\times g\prime\left(x\right)`$
-    - ### $`\frac{df\left(g\left(x\right)\right)}{dx}=\frac{df\left(g\left(x\right)\right)}{dg\left(x\right)}\times\frac{dg\left(x\right)}{dx}`$
-- ### Leibniz Integral Rule：$`\left(\int_{a\left(x\right)}^{b\left(x\right)}{f\left(t\right)\,dt}\right)^\prime=f\left(b\left(x\right)\right)\cdot b^\prime\left(x\right)-f\left(a\left(x\right)\right)\cdot a^\prime\left(x\right)`$
-    - ### $`\left(\int_{a\left(x\right)}^{b\left(x\right)}{f\left(t\right)\,dt}\right)^\prime=\left(F\left(b\left(x\right)\right)\right)^\prime-\left(F\left(a\left(x\right)\right)\right)^\prime`$
-    - ### $`F\left(x\right)=\int{f\left(t\right)\,dx}`$
-
 # Derivatives
-- ### First Derivative：$`f^\prime\left(x\right)=\frac{d}{dx}f\left(x\right)=\frac{df\left(x\right)}{dx}=\frac{df}{dx}`$
-- ### Second Derivative：$`f^{\prime\prime}\left(x\right)=\frac{d}{dx}\left(\frac{d}{dx}f\left(x\right)\right)=\frac{d^2}{dx^2}f\left(x\right)=\frac{d^2f\left(x\right)}{dx^2}`$
-- ### n-th Derivative：$`f^n\left(x\right)=\frac{d^n}{dx^n}f\left(x\right)=\frac{d^nf\left(x\right)}{dx^n}=\frac{d^nf}{dx^n}`$
+- ### First Derivative
+    - ### $`f^\prime\left(x\right)=\frac{d}{dx}f\left(x\right)=\frac{df\left(x\right)}{dx}=\frac{df}{dx}`$
+- ### Second Derivative
+    - ### $`f^{\prime\prime}\left(x\right)=\frac{d}{dx}\left(\frac{d}{dx}f\left(x\right)\right)=\frac{d^2}{dx^2}f\left(x\right)=\frac{d^2f\left(x\right)}{dx^2}`$
+- ### n-th Derivative
+    - ### $`f^n\left(x\right)=\frac{d^n}{dx^n}f\left(x\right)=\frac{d^nf\left(x\right)}{dx^n}=\frac{d^nf}{dx^n}`$
 
-# Curve Sketching
+# Geometric Interpretation of Derivatives
 - ### Slope of the Tangent Line
     - ### $`f^\prime\left(α\right)=\text{the Slope of the Tangent Line to }f\left(x\right)\text{ at }\left(x=α\right)`$
-- ### Equation of Tangent Line to $`f\left(x\right)`$ at $`\left(a,~f\left(a\right)\right)`$：$`y-f\left(a\right)=f^\prime\left(a\right)\left(x-a\right)`$
+- ### [Equation of Tangent Line](../function-and-equation/equation/equation-of-the-line.md#point-slope-form) to $`f\left(x\right)`$ at $`\left(a,~f\left(a\right)\right)`$
+    - ### $`y-f\left(a\right)=f^\prime\left(a\right)\left(x-a\right)`$
 - ### Concavity
     - ### $`\text{Concavity of }f\left(x\right)\text{ at }\left(x=α\right)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}\left(α\right)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}\left(α\right)<0}\end{cases}`$
 - ### Extremum
@@ -30,6 +27,14 @@
 - ### Inflection Point
     - ### $`α=\text{Inflection Point},~\text{when }f^{\prime\prime}\left(α\right)=0\text{ and the concavity changes}`$
     - ### Concavity Changes：$`f^{\prime\prime}\left(α+n\right)\times f^{\prime\prime}\left(α-n\right)<0`$
+
+# Chain Rule
+- ### Chain Rule
+    - ### $`\left(f\left(g\left(x\right)\right)\right)^\prime=f^\prime\left(g\left(x\right)\right)\times g\prime\left(x\right)`$
+    - ### $`\frac{df\left(g\left(x\right)\right)}{dx}=\frac{df\left(g\left(x\right)\right)}{dg\left(x\right)}\times\frac{dg\left(x\right)}{dx}`$
+- ### Leibniz Integral Rule
+    - ### $`\left(\int_{a\left(x\right)}^{b\left(x\right)}{f\left(t\right)\,dt}\right)^\prime = \left(F\left(b\left(x\right)\right)\right)^\prime-\left(F\left(a\left(x\right)\right)\right)^\prime = f\left(b\left(x\right)\right)\cdot b^\prime\left(x\right)-f\left(a\left(x\right)\right)\cdot a^\prime\left(x\right)`$
+    - ### $`F\left(x\right)=\int{f\left(t\right)\,dx}`$
 
 # Lists of Derivatives
 - ### $`\left(x^n\right)^\prime=nx^{n-1}`$
