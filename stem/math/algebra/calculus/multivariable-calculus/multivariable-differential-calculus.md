@@ -5,6 +5,14 @@
 - ### Clairaut's Theorem：$`\frac{\partial^2}{\partial x_i\partial x_j}f\left(x_1,~\cdots,~x_n\right)=\frac{\partial}{\partial x_i}\left(\frac{\partial f}{\partial x_j}\right)=\frac{\partial}{\partial x_j}\left(\frac{\partial f}{\partial x_i}\right)`$
 - ### eg
 
+# Curve Sketching
+- ### Slope of the Tangent Line
+    - ### $`\frac{\partial}{\partial x_i}f\left(α_1,~\cdots,~α_n\right)=\text{the Slope of the Tangent Line to }f\left(α_1,~\cdots,~x_i,~\cdots,~α_n\right)\text{ at }\left(x_i=α_i\right)`$
+- ### $`z=f\left(x,~y\right)`$
+    - ### $`\frac{\partial}{\partial x}f\left(a,~b\right)=\text{the Slope of the Tangent Line to }f\left(x,~b\right)\text{ at }\left(x=a\right)`$
+        <img src="./image/slope-of-the-tangent-line.png" width="50%">
+    - ### Equation of Tangent Plane to $`f\left(x,~y\right)`$ at $`\left(a,~b,~f\left(a,~b\right)\right)`$：$`z-f\left(a,~b\right)=\frac{\partial f\left(a,~b\right)}{\partial x}\left(x-a\right)+\frac{\partial f\left(a,~b\right)}{\partial y}\left(y-b\right)`$
+
 # Multivariable Chain Rule
 - ### $`f\left(g_1\left(x\right),~\cdots,~g_n\left(x\right)\right)`$
     - ### $`\frac{df}{dx} = \left(f\left(g_1\left(x\right),~\cdots,~g_n\left(x\right)\right)\right)^\prime = \frac{\partial f}{\partial g_1}\times {g_1}^\prime\left(x\right)+\cdots+\frac{\partial f}{\partial g_n}\times {g_n}^\prime\left(x\right)=\frac{\partial f}{\partial g_1}\frac{dg_1}{dx}+\cdots+\frac{\partial f}{\partial g_n}\frac{dg_n}{dx}`$

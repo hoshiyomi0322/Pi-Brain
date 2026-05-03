@@ -22,6 +22,7 @@
 # Curve Sketching
 - ### Slope of the Tangent Line
     - ### $`f^\prime\left(α\right)=\text{the Slope of the Tangent Line to }f\left(x\right)\text{ at }\left(x=α\right)`$
+- ### Equation of Tangent Line to $`f\left(x\right)`$ at $`\left(a,~f\left(a\right)\right)`$：$`y-f\left(a\right)=f^\prime\left(a\right)\left(x-a\right)`$
 - ### Concavity
     - ### $`\text{Concavity of }f\left(x\right)\text{ at }\left(x=α\right)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}\left(α\right)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}\left(α\right)<0}\end{cases}`$
 - ### Extremum
