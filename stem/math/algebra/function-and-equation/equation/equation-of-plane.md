@@ -6,7 +6,7 @@
 - ### Vector
     - ### Normal Vector：$`\left(a,~b,~c\right)`$
     - ### Vectors in the Plane：$`\left(α_1,~α_2,~α_3\right),~\left(β_1,~β_2,~β_3\right)`$
-- ### Point $`P\left(x_1,~y_1,~z_1\right)`$
+- ### Point：$`P\left(x_1,~y_1,~z_1\right)`$
 
 # Forms of the Equation of Plane
 - ### General Form (Normal Form)

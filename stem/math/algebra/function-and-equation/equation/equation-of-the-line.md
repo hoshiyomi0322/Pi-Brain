@@ -5,7 +5,7 @@
 - ### Vector
     - #### Normal Vector：$`\left(a,~b\right)`$
     - #### Direction Vector：$`\left(α_1,~α_2\right)`$
-- #### Point $`P\left(x_1,~y_1\right)`$
+- #### Point：$`P\left(x_1,~y_1\right)`$
 
 # Forms of the Equation of the Line
 - ### General form (Normal form)
