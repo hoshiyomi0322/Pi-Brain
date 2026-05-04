@@ -14,8 +14,10 @@
 - ### Vector
 - ### System of Linear Equations
 
-# Function
-- ### Function
+# Function and Equation
+- ### [Equation of the Line, Linear Function](function-and-equation/equation/equation-of-the-line.md)
+- ### [Equation of Plane](function-and-equation/equation/equation-of-plane.md)
+- ### [Equation of the Line in 3D](function-and-equation/equation/equation-of-the-line-in-3d.md)
 
 # Conic Section
 - ### Conic Section
