@@ -4,8 +4,8 @@
     - ### $`m_y=\frac{Δz}{Δy}=-\frac{b}{c}`$
 - ### Intercept：$`\left(x_0,~0,~0\right),~\left(0,~y_0,~0\right),~\left(0,~0,~z_0\right)`$
 - ### Vector
-    - ### Normal Vector：$`\left(a,~b,~c\right)`$
-    - ### Vectors in the Plane：$`\left(α_1,~α_2,~α_3\right),~\left(β_1,~β_2,~β_3\right)`$
+    - ### [Normal Vector](../function-and-equation.md#normal-vector)：$`\left(a,~b,~c\right)`$
+    - ### [Vectors in the Plane](../function-and-equation.md#direction-vector)：$`\left(α_1,~α_2,~α_3\right),~\left(β_1,~β_2,~β_3\right)`$
 - ### Point：$`P\left(x_1,~y_1,~z_1\right)`$
 
 # Forms of the Equation of Plane

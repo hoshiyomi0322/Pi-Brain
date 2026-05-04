@@ -14,7 +14,7 @@
 - ### Vector
 - ### System of Linear Equations
 
-# Function and Equation
+# [Function and Equation](./function-and-equation/function-and-equation.md)
 - ### [Equation of the Line, Linear Function](function-and-equation/equation/equation-of-the-line.md)
 - ### [Equation of Plane](function-and-equation/equation/equation-of-plane.md)
 - ### [Equation of the Line in 3D](function-and-equation/equation/equation-of-the-line-in-3d.md)
