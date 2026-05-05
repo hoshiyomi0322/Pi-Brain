@@ -21,7 +21,12 @@
 |`Win + Shift + s`|Screenshot|
 |`Ctrl + Shift + esc`|task manager|
 |`Win + Ctrl + Shift + B`|reset graphics card|
-
+- ### Snap Layouts
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Win + ←/→`|moves the currently task to the Left/Right side|
+    |`Win + ↑/↓`|Maximize/Minimize the currently task|
+    |`Win + Shift + ↑`|Vertically Maximize the currently task|
 - ### Multiple desktop
     |Shortcuts|Function|
     |:---:|:---:|

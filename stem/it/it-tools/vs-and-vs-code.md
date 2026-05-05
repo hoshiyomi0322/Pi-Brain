@@ -9,17 +9,22 @@
     |Shortcuts|Function|
     |:---:|:---:|
     |`Alt + LMB`|add/delete cursor|
-    |`Ctrl + Alt + ↑/↓`|add cursor (above/below)|
+    |`Ctrl + Alt + ↑/↓`|add cursor Above/Below|
     - #### Select
         |Shortcuts|Function|
         |:---:|:---:|
         |select a text, `Ctrl + D`|add cursor (the next matching text)|
         |select a text, `Ctrl + Shift + L`|add cursors (all matching text)|
         |find (`Ctrl+F`), `Alt + Enter`|add cursors (all find matches)|
+- ### Editor Management
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Shift + \`|Split editor|
+    |`Ctrl + Alt + ←/→`|moves the currently editor to the Left/Right|
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|
-    |`Alt + ↑/↓`|move line (above/below)|
-    |`Alt + Shift + ↑/↓`|duplicate line (above/below)|
+    |`Alt + ↑/↓`|Move line (above/below)|
+    |`Alt + Shift + ↑/↓`|Duplicate line (above/below)|
 
 
