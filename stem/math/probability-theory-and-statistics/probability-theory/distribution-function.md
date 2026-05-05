@@ -34,7 +34,7 @@
 - ### $Y=h\left(X\right)$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(h\left(X\right)\le y\right)=P\left(X\le h^{-1}\left(y\right)\right)=F_X\left(h^{-1}\left(y\right)\right)`$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=\frac{d}{dy}F_X\left(h^{-1}\left(y\right)\right)=f_X\left(h^{-1}\left(y\right)\right)\cdot \frac{d}{dy}h^{-1}\left(y\right)`$
-- ### Probability Integral Transform：$Y=F_X\left(X\right)$
+- ### Probability Integral Transform：$`Y=F_X\left(X\right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=F_X\left(F_X^{-1}\left(y\right)\right)=y`$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=1`$
     - #### [Continuous Uniform Distribution](./probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)：$`Y\sim U_c\left(0,1\right)`$
