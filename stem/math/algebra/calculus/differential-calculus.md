@@ -18,7 +18,7 @@
 # Geometric Interpretation of Derivatives
 - ### Slope of the Tangent Line
     - ### $`f^\prime\left(α\right)=\text{the Slope of the Tangent Line to }f\left(x\right)\text{ at }\left(x=α\right)`$
-- ### [Equation of Tangent Line](../function-and-equation/equation/equation-of-the-line.md#point-slope-form) to $`f\left(x\right)`$ at $`\left(a,~f\left(a\right)\right)`$
+- ### [Equation of Tangent Line](../expression/equation/equation-of-the-line.md#point-slope-form) to $`f\left(x\right)`$ at $`\left(a,~f\left(a\right)\right)`$
     - ### $`y-f\left(a\right)=f^\prime\left(a\right)\left(x-a\right)`$
 - ### Concavity
     - ### $`\text{Concavity of }f\left(x\right)\text{ at }\left(x=α\right)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}\left(α\right)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}\left(α\right)<0}\end{cases}`$

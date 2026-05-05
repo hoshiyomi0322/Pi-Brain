@@ -16,7 +16,7 @@
 - ### $`z=f\left(x,~y\right)`$
     - ### $`\frac{\partial}{\partial x}f\left(a,~b\right)=\text{the Slope of the Tangent Line to }f\left(x,~b\right)\text{ at }\left(x=a\right)`$
         <img src="./image/slope-of-the-tangent-line.png" width="50%">
-    - ### [Equation of Tangent Plane](../../function-and-equation/equation/equation-of-plane.md#point-slope-form) to $`f\left(x,~y\right)`$ at $`\left(a,~b,~f\left(a,~b\right)\right)`$
+    - ### [Equation of Tangent Plane](../../expression/equation/equation-of-plane.md#point-slope-form) to $`f\left(x,~y\right)`$ at $`\left(a,~b,~f\left(a,~b\right)\right)`$
         - ### $`z-f\left(a,~b\right)=\frac{\partial f\left(a,~b\right)}{\partial x}\left(x-a\right)+\frac{\partial f\left(a,~b\right)}{\partial y}\left(y-b\right)`$
             <img src="./image/equation-of-tangent-plane.png" width="60%">
 
