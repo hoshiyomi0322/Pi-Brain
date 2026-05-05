@@ -15,10 +15,8 @@
 - ### System of Linear Equations
 
 # [Expression](./expression/expression.md)
-- ### [Equation of the Line, Linear Function](expression/equation/equation-of-the-line.md)
-- ### [Equation of Plane](expression/equation/equation-of-plane.md)
-- ### [Equation of the Line in 3D](expression/equation/equation-of-the-line-in-3d.md)
-- ### Conic Section
+- ### [Equation](expression/expression.md#equation)
+- ### [Conic Section](expression/expression.md#conic-section)
 
 # Polar Coordinate
 - ### Polar Coordinate
@@ -26,3 +24,5 @@
 # Complex Analysis
 - ### Complex Analysis
 
+# Distribution (Generalized Function)
+- ### [Distribution (Generalized Function)](distribution.md)
