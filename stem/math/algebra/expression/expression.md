@@ -9,6 +9,7 @@
 - ### [Equation of the Line](equation/equation-of-the-line.md)
 - ### [Equation of Plane](equation/equation-of-plane.md)
 - ### [Equation of the Line in 3D](equation/equation-of-the-line-in-3d.md)
+- ### [Conic Section]
 
 # Polynomial
 - ### Polynomial Inequality
