@@ -18,8 +18,6 @@
 - ### [Equation of the Line, Linear Function](expression/equation/equation-of-the-line.md)
 - ### [Equation of Plane](expression/equation/equation-of-plane.md)
 - ### [Equation of the Line in 3D](expression/equation/equation-of-the-line-in-3d.md)
-
-# Conic Section
 - ### Conic Section
 
 # Polar Coordinate
