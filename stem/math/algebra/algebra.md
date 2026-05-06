@@ -17,6 +17,7 @@
 # [Expression](./expression/expression.md)
 - ### [Equation](expression/expression.md#equation)
 - ### [Conic Section](expression/expression.md#conic-section)
+- ### [Function](expression/expression.md#function)
 
 # Polar Coordinate
 - ### Polar Coordinate
@@ -26,3 +27,4 @@
 
 # Distribution (Generalized Function)
 - ### [Distribution (Generalized Function)](distribution.md)
+
