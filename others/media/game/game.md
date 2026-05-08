@@ -5,6 +5,6 @@
     - ### [Chess](chess.md)
     - ### [Poker](poker.md)
     - ### [Japanese Games](./japanese-games/japanese-games.md)
-- ### Tetris
+- ### [Tetris](tetris.md)
 - ### Street Fighter 6
 
