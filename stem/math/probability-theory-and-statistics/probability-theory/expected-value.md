@@ -10,7 +10,7 @@
 
 # Expected Value of [Joint Distribution](./probability-distribution/joint-distribution/joint-distribution-function.md)
 - ### $`E\left[X\right]=\begin{cases}{\int_{-\infty}^{\infty}{x\cdot f_X\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\left(x\cdot f_X\left(x\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - $`f_X\left(x\right)`$ = [Marginal Function](probability-distribution/joint-distribution/joint-distribution-function.md#marginal-function)
+    - $`f_X\left(x\right)`$ = [Marginal Probability Function](probability-distribution/joint-distribution/joint-distribution-function.md#marginal-distribution)
 - ### $`E\left[g\left(X,~Y\right)\right]=\begin{cases}{\int_{-\infty}^{\infty}{\int_{-\infty}^{\infty}{g\left(x,~y\right)\cdot f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{\left(g\left(x,~y\right)\cdot f\left(x,~y\right)\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{g\left(x,~y\right)\cdot f\left(x,~y\right)\,dx}}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
     - $`X,~Y`$ = [Random Variable](probability-theory.md#random-variable)
     - $`f\left(x,~y\right)`$ = [Joint Probability Function](./probability-distribution/joint-distribution/joint-distribution-function.md#joint-distribution-function)
@@ -19,9 +19,9 @@
     - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }E\left[XY\right]=E\left[X\right]E\left[Y\right]`$
     - $`Cov\left(X,~Y\right)`$ = [Covariance](../statistics/variance.md#covariance)
 
-# Expected Value of [Joint Distribution](./probability-distribution/joint-distribution/joint-distribution-function.md)
+# Expected Value of [Multivariate Distribution](./probability-distribution/joint-distribution/multivariate-distribution-function.md)
 - ### $`E\left[X_i\right]=\begin{cases}{\int_{-\infty}^{\infty}{x_i\cdot f_{X_i}\left(x_i\right)\,dx_i}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{x_i}{\left(x_i\cdot f_{X_i}\left(x_i\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
-    - $`f_X\left(x\right)`$ = [Marginal Function](probability-distribution/joint-distribution/joint-distribution-function.md#marginal-function)
+    - $`f_X\left(x\right)`$ = [Marginal Probability Function](probability-distribution/joint-distribution/multivariate-distribution-function.md#marginal-distribution)
 - ### Mean Vector
     - ### $`\left( E\left[X_1\right],~\cdots,~E\left[X_n\right] \right)^T`$
 
