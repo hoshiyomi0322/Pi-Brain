@@ -172,7 +172,7 @@
     |Lower Dots|$\ldots$|`\ldots`|
     |Diagonal Dots|$\ddots$|`\ddots`|
     |Vertical Dots|$\vdots$|`\vdots`|    
-- ### O
+- ### O, Box
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
     |O+Plus|$`\oplus`$|`\oplus`|
