@@ -13,7 +13,7 @@
     - #### $`f\left(x_1,~\cdots,~x_n\right)\ge 0`$
     - #### $`F\left(x_1,~\cdots,~ -\infty ,~\cdots,~x_n\right)=0`$
     - #### $`F\left(\infty,~\cdots,~\infty\right) = F_{X_i}\left(\infty\right) = 1`$
-- ### [Mean Vector](../../expected-value.md#mean-vector)
+- ### [Expected Value of Multivariate Distribution](../../expected-value.md#expected-value-of-multivariate-distribution)
 - ### [Covariance Matrix](../../../statistics/variance.md#covariance-matrix)
 
 # Marginal Distribution
