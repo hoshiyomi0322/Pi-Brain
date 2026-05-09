@@ -20,7 +20,7 @@
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }Cov\left(X,~Y\right)=0`$
 - ### Covariance Matrix
 
-# [Conditional](../probability-theory/probability-distribution/joint-distribution.md#conditional-distribution) Variance
+# [Conditional](../probability-theory/probability-distribution/joint-distribution/joint-distribution-function.md#conditional-distribution) Variance
 - ### $`Var\left( X|Y \right)=E\left[ \left( X-E\left[X|Y\right] \right)^2|Y \right]=E\left[ X^2|Y\right]-E\left[X|Y\right]^2`$
     - $`E\left[X|Y\right]`$ = [Conditional Expectation](../probability-theory/expected-value.md#conditional-expectation)
 - ### Law of Total Variance

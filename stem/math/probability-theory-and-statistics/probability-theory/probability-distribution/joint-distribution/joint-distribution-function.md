@@ -1,21 +1,21 @@
-# [Joint](../conditional-probability/conditional-probability.md#joint-probability) [Distribution Function](../distribution-function.md)
-- ### [Joint](../conditional-probability/conditional-probability.md#joint-probability) [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}\left(x,~y\right)=f_{X|Y}\left(x|y\right)f_Y\left(y\right)=f_{Y|X}\left(y|x\right)f_X\left(x\right)`$
+# [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Distribution Function](../distribution-function.md)
+- ### [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Probability Function](../distribution-function.md#probability-function)：$`f_{XY}\left(x,~y\right)=f_{X|Y}\left(x|y\right)f_Y\left(y\right)=f_{Y|X}\left(y|x\right)f_X\left(x\right)`$
     |Random Variable|Joint Probability Function|
     |:---:|:---:|
     |**$\left(X,~Y\right)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f\left(x,~y\right)=\frac{\partial^2}{\partial x\partial y}F\left(x,~y\right)`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f\left(x,~y\right)=P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`f\left(x,~y\right)=f_{X\|Y}\left(x\|y\right)P\left(Y=y\right)=P\left(Y=y\|X=x\right)f_X\left(x\right)\\f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)`$|
-- ### [Joint](../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
+- ### [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F\left(x,~y\right)=P\left(X\le x,~Y\le y\right)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f\left(t,~s\right)\,ds}\,dt}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f\left(t,~s\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f\left(t,~s\right)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f_{XY}\left(x,~y\right)=f_X\left(x\right)f_Y\left(y\right)`$
     - ### $`F_{XY}\left(x,~y\right)=F_X\left(x\right)F_Y\left(y\right)`$
 - ### Properties
     - #### $`f_{XY}\left(x,~y\right)\ge 0`$
     - #### $`F_{XY}\left(-\infty,~y\right)=F_{XY}\left(x,~-\infty\right)=0`$
     - #### $`F_{XY}\left(\infty,~\infty\right)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\int^\infty_{-\infty}{f_{Y}\left(y\right)\,dy}} & \text{if }\left(X,~Y\right)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}\left(x,~y\right)}}=\sum\limits_x{f_{X}\left(x\right)}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
-- ### [Expected Value of Joint Distribution](../expected-value.md#expected-value-of-joint-distribution)
-- ### [Covariance](../../statistics/variance.md#covariance)
+- ### [Expected Value of Joint Distribution](../../expected-value.md#expected-value-of-joint-distribution)
+- ### [Covariance](../../../statistics/variance.md#covariance)
 
 # Marginal Distribution
 - ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X\left(x\right),~f_Y\left(y\right)`$
@@ -38,24 +38,24 @@
     - $f_Y\left(y_1\right)=f\left(x_1,~y_1\right)+f\left(x_2,~y_1\right)+f\left(x_3,~y_1\right)+f\left(x_4,~y_1\right)=\frac{8}{32}$
     - $F_X\left(x_2\right)=F\left(x_2,~\infty\right)=\sum\limits_{x\le x_2}{\sum\limits_{y}{f\left(x,~y\right)}}=f\left(x_1\right)+f\left(x_2\right)=\frac{24}{32}$
 
-# [Conditional](../conditional-probability/conditional-probability.md) Distribution
-- ### [Conditional](../conditional-probability/conditional-probability.md) [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}\left(x|y\right)=\frac{f_{XY}\left(x,~y\right)}{f_Y\left(y\right)}`$
+# [Conditional](../../conditional-probability/conditional-probability.md) Distribution
+- ### [Conditional](../../conditional-probability/conditional-probability.md) [Probability Function](../distribution-function.md#probability-function)：$`f_{X|Y}\left(x|y\right)=\frac{f_{XY}\left(x,~y\right)}{f_Y\left(y\right)}`$
     |Random Variable|Conditional Probability Function|
     |:---:|:---:|
     |**$\left(X,~Y\right)$ is Continuous**|**Conditional PDF**<br>$`f_{X\|Y}\left(x\|y\right)=\frac{d}{dx}F_{X\|Y}\left(x\|y\right)`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Conditional PMF**<br>$`f_{X\|Y}\left(x\|y\right)=P\left(X=x\|~Y=y\right)=\frac{P\left(X=x,~Y=y\right)}{P\left(Y=y\right)}`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`f_{X\|Y}\left(x\|y\right)=\frac{f_{XY}\left(x,~y\right)}{P\left(Y=y\right)}=\frac{P\left(Y=y\|X=x\right)f_X\left(x\right)}{P\left(Y=y\right)}`$|
-- ### [Conditional](../conditional-probability/conditional-probability.md) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
+- ### [Conditional](../../conditional-probability/conditional-probability.md) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F_{X|Y}\left(x|y\right) = P\left(X\le x|Y=y\right) = \begin{cases} {\int^x_{-\infty}{f_{X|Y}\left(t|y\right)\,dt}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{t\le x}{f_{X|Y}\left(t|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}`$
 - ### $`P\left(a\le X\le b|Y=y\right) = \begin{cases} {\int^b_{a}{f_{X|Y}\left(x|y\right)\,dx}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{a\le x \le b}{f_{X|Y}\left(x|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}`$
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f_{X|Y}\left(x|y\right)=f_X\left(x\right),~f_{Y|X}\left(y|x\right)=f_Y\left(y\right)`$
     - ### $`F_{X|Y}\left(x|y\right)=F_X\left(x\right),~F_{Y|X}\left(y|x\right)=F_Y\left(y\right)`$
-- ### [Conditional Expectation](../expected-value.md#conditional-expectation)
-- ### [Conditional Variance](../../statistics/variance.md#conditional-variance)
+- ### [Conditional Expectation](../../expected-value.md#conditional-expectation)
+- ### [Conditional Variance](../../../statistics/variance.md#conditional-variance)
 
 # Probability of a Multiple Random Variable
-- ### [Joint Probability](../conditional-probability/conditional-probability.md#joint-probability)
+- ### [Joint Probability](../../conditional-probability/conditional-probability.md#joint-probability)
     - #### $`P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)=P\left(X=x|Y=y\right)P\left(Y=y\right)=P\left(Y=y|X=x\right)P\left(X=x\right)`$
     - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap\left(Y\le y\right)\right)=P\left(X\le x|Y\le y\right)P\left(Y\le y\right)=P\left(Y\le y|X\le x\right)P\left(X\le x\right)`$
 - ### Interval Probability

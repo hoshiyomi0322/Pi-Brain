@@ -10,8 +10,8 @@
 |Parameters|$`p=\text{probability of success}`$|
 |[PMF](../distribution-function.md#probability-function)|$`p^x\left(1-p\right)^{1-x}=\begin{cases}{1-p}&{\text{for }x=0}\\ p&{\text{for }x=1}\end{cases}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`E\left[X\right])`$](../expected-value.md)|$`p`$|
-|[Variance ($`σ^2`$)](../../statistics/variance.md#variance)|$`p\left(1-p\right)`$||
+|[Mean ($`E\left[X\right])`$](../../expected-value.md)|$`p`$|
+|[Variance ($`σ^2`$)](../../../statistics/variance.md#variance)|$`p\left(1-p\right)`$||
 
 # Binomial Distribution
 |Property|Description|
@@ -22,8 +22,8 @@
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{n=\text{number of trials}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`C_x^np^x\left(1-p\right)^{n-x}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`E\left[X\right])`$](../expected-value.md)|$`np`$|
-|[Variance ($`σ^2`$)](../../statistics/variance.md#variance)|$`np\left(1-p\right)`$|
+|[Mean ($`E\left[X\right])`$](../../expected-value.md)|$`np`$|
+|[Variance ($`σ^2`$)](../../../statistics/variance.md#variance)|$`np\left(1-p\right)`$|
 
 # Poisson Binomial Distribution
 |Property|Description|
@@ -34,8 +34,8 @@
 |Parameters|$`\begin{cases}{n=\text{number of trials}}\\ {p_1,~\cdots,~p_n=\text{Probabilities of Success}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)||
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`E\left[X\right])`$](../expected-value.md)|$`\sum\limits_{i=1}^{n}{p_i}`$|
-|[Variance ($`σ^2`$)](../../statistics/variance.md#variance)|$`\sum\limits_{i=1}^{n}{p_i\left(1-p_i\right)}`$|
+|[Mean ($`E\left[X\right])`$](../../expected-value.md)|$`\sum\limits_{i=1}^{n}{p_i}`$|
+|[Variance ($`σ^2`$)](../../../statistics/variance.md#variance)|$`\sum\limits_{i=1}^{n}{p_i\left(1-p_i\right)}`$|
 
 # Geometric Distribution
 |Property|Description|
@@ -46,8 +46,8 @@
 |Parameters|$`p=\text{probability of success}`$|
 |[PMF](../distribution-function.md#probability-function)|$`p\left(1-p\right)^{x-1}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|$`1-\left(1-p\right)^x`$|
-|[Mean ($`E\left[X\right])`$](../expected-value.md)|$`\frac{1}{p}`$|
-|[Variance ($`σ^2`$)](../../statistics/variance.md#variance)|$`\frac{1-p}{p^2}`$|
+|[Mean ($`E\left[X\right])`$](../../expected-value.md)|$`\frac{1}{p}`$|
+|[Variance ($`σ^2`$)](../../../statistics/variance.md#variance)|$`\frac{1-p}{p^2}`$|
 
 # Negative Binomial Distribution (Pascal Distribution)
 |Property|Description|
@@ -58,6 +58,6 @@
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{r=\text{number of successes}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`H^r_x\cdot p^r\left(1-p\right)^x`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)||
-|[Mean ($`E\left[X\right])`$](../expected-value.md)|$`r\left(\frac{1-p}{p}\right)`$|
-|[Variance ($`σ^2`$)](../../statistics/variance.md#variance)|$`r\left(\frac{1-p}{p^2}\right)`$|
+|[Mean ($`E\left[X\right])`$](../../expected-value.md)|$`r\left(\frac{1-p}{p}\right)`$|
+|[Variance ($`σ^2`$)](../../../statistics/variance.md#variance)|$`r\left(\frac{1-p}{p^2}\right)`$|
 

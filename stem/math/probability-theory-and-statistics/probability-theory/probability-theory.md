@@ -11,11 +11,9 @@
     |Continuous|Discrete|
     |:---:|:---:|
     |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
-- ### [Distribution Function](distribution-function.md)
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
-    - ### [Continuous Probability Distribution](./probability-distribution/continuous-probability-distribution.md)
-    - ### [Discrete Probability Distribution](./probability-distribution/discrete-probability-distribution.md)
-    - ### [Joint Distribution](./probability-distribution/joint-distribution.md)
+    - ### [Distribution Function](./probability-distribution/distribution-function.md)
+    - ### [Joint Distribution](./probability-distribution/probability-distribution.md#joint-distribution)
 - ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
 - ### Random Experiment
 - ### Probabilistic Model
@@ -38,9 +36,9 @@
     - ### Bernoulli Trial
         - $`\text{Probability of Success}=p`$
         - $`\text{Probability of Failure}=1-p`$
-    - ### [Distributions derived from Bernoulli Trials](./probability-distribution/distributions-derived-from-bernoulli-trials.md)
+    - ### [Distributions derived from Bernoulli Trials](./probability-distribution/discrete-probability-distribution/distributions-derived-from-bernoulli-trials.md)
 - ### Poisson Process
-    - ### [Poisson Distribution](./probability-distribution/discrete-probability-distribution.md#poisson-distribution)
+    - ### [Poisson Distribution](./probability-distribution/discrete-probability-distribution/discrete-probability-distribution.md#poisson-distribution)
 - ### Markov Process
     - Markov Chain
 - ### Random Walk

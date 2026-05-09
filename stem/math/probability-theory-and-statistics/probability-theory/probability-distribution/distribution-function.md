@@ -37,5 +37,5 @@
 - ### Probability Integral Transform：$`Y=F_X\left(X\right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=F_X\left(F_X^{-1}\left(y\right)\right)=y`$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=1`$
-    - #### [Continuous Uniform Distribution](./probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)：$`Y\sim U_c\left(0,1\right)`$
+    - #### [Continuous Uniform Distribution](continuous-probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)：$`Y\sim U_c\left(0,1\right)`$
 
