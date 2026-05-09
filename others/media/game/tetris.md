@@ -23,6 +23,7 @@
 - ### 4-Wide
     - #### Center 4-Wide
 - ### Double Triple Cannon (DT Cannon)
+- ### Bakery Triple Double (Bakery TD)
 - ### TKI (開幕TSD)
 - ### MKO Stacking
 - ### [Perfect Clear](#perfect-clear-pc) Opener (PCO)
@@ -30,8 +31,9 @@
 
 # Setup
 - ### LST Stacking
-- ### C-Spin
+- ### Triple Double Attack (C-Spin)
 - ### Imperial Cross
+- ### King Crimson
 
 # Lines of Garbage
 
