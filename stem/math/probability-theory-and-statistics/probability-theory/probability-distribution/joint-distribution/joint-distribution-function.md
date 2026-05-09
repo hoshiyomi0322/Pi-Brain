@@ -4,7 +4,7 @@
     |:---:|:---:|
     |**$\left(X,~Y\right)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f\left(x,~y\right)=\frac{\partial^2}{\partial x\partial y}F\left(x,~y\right)`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f\left(x,~y\right)=P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)`$|
-    |**$X$ is Continuous, $Y$ is Discrete**|$`f\left(x,~y\right)=f_{X\|Y}\left(x\|y\right)P\left(Y=y\right)=P\left(Y=y\|X=x\right)f_X\left(x\right)\\f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)`$|
+    |**$X$ is Continuous, $Y$ is Discrete**|$`f\left(x,~y\right)=f_{X\|Y}\left(x\|y\right)P\left(Y=y\right)=P\left(Y=y\|X=x\right)f_X\left(x\right)`$<br>$`f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)`$|
 - ### [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F\left(x,~y\right)=P\left(X\le x,~Y\le y\right)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f\left(t,~s\right)\,ds}\,dt}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f\left(t,~s\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f\left(t,~s\right)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
@@ -13,7 +13,7 @@
 - ### Properties
     - #### $`f_{XY}\left(x,~y\right)\ge 0`$
     - #### $`F_{XY}\left(-\infty,~y\right)=F_{XY}\left(x,~-\infty\right)=0`$
-    - #### $`F_{XY}\left(\infty,~\infty\right)=\begin{cases}{\int^\infty_{-\infty}{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\,dx}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\int^\infty_{-\infty}{f_{Y}\left(y\right)\,dy}} & \text{if }\left(X,~Y\right)\text{ is Continuous} \\ {\sum\limits_x{\sum\limits_y{f_{XY}\left(x,~y\right)}}=\sum\limits_x{f_{X}\left(x\right)}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}}=\int^\infty_{-\infty}{f_{X}\left(x\right)\,dx}=\sum\limits_y{f_{Y}\left(y\right)}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}=1`$
+    - #### $`F_{XY}\left(\infty,~\infty\right) = F_X\left(\infty\right)=F_Y\left(\infty\right) = 1`$
 - ### [Expected Value of Joint Distribution](../../expected-value.md#expected-value-of-joint-distribution)
 - ### [Covariance](../../../statistics/variance.md#covariance)
 
@@ -25,8 +25,8 @@
     |**$\left(X,~Y\right)$ is Discrete**|**Marginal PMF**<br>$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\sum\limits_x{f_{XY}\left(x,~y\right)}\end{cases}`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`\begin{cases}f_X\left(x\right)=\sum\limits_y{f_{XY}\left(x,~y\right)}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
-    - $`F_X\left(x\right)=F_{XY}\left(x,~\infty\right)`$
-    - $`F_Y\left(y\right)=F_{XY}\left(\infty,~y\right)`$
+    - ### $`F_X\left(x\right)=F_{XY}\left(x,~\infty\right) = \begin{cases} {\int^x_{-\infty}{f_X\left(t\right)\,dt}} & \text{if } X \text{ is Continuous} \\ {\sum\limits_{t\le x}{f_X\left(t\right)}} & \text{if } X \text{ is Discrete}\end{cases}`$
+    - ### $`F_Y\left(y\right)=F_{XY}\left(\infty,~y\right) = \begin{cases} {\int^y_{-\infty}{f_Y\left(s\right)\,ds}} & \text{if } X \text{ is Continuous} \\ {\sum\limits_{s\le y}{f_Y\left(s\right)}} & \text{if } X \text{ is Discrete}\end{cases}`$
 - #### eg：$`\left(X,~Y\right)`$ is Discrete
     |$f\left(x_i,~y_j\right)$|$x_1$|$x_2$|$x_3$|$x_4$|$f\left(y_j\right)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|

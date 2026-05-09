@@ -17,6 +17,9 @@
     - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }E\left[XY\right]=E\left[X\right]E\left[Y\right]`$
     - $`Cov\left(X,~Y\right)`$ = [Covariance](../statistics/variance.md#covariance)
 
+# Mean Vector
+- ### $`\left( E\left[X_1\right],~\cdots,~E\left[X_n\right] \right)^T`$
+
 # [Conditional](./probability-distribution/joint-distribution/joint-distribution-function.md#conditional-distribution) Expectation
 - ### $`E\left[X|Y=y\right]=\begin{cases}{\int_{-\infty}^{\infty}{x\cdot f_{X|Y}\left(x|y\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\left(x\cdot f_{X|Y}\left(x|y\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - $`f_{X|Y}\left(x|y\right)`$ = [Conditional Probability Function](./probability-distribution/joint-distribution/joint-distribution-function.md#conditional-distribution)

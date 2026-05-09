@@ -1,5 +1,6 @@
 # Joint Distribution
 - ### [Joint Distribution Function](joint-distribution-function.md)
-- ### Types of Joint Distribution
-    - ### Continuous Joint Distribution
-    - ### Discrete Joint Distribution
+    - ### Multivariate Distribution Function
+- ### Types of Multivariate Distribution
+    - ### Continuous Multivariate Distribution
+    - ### Discrete Multivariate Distribution
