@@ -17,13 +17,26 @@
 - ### [Covariance Matrix](../../../statistics/variance.md#covariance-matrix)
 
 # Marginal Distribution
-- ### Marginal [Probability Function](../distribution-function.md#probability-function)
+- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i}\left(x_i\right)`$
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Marginal PDF**<br>$`f_{X_i}\left(x_i\right)=\int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_{i-1} dx_{i+1}\cdots dx_n}}`$|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Marginal PMF**<br>$`f_{X_i}\left(x_i\right)=\sum\limits_{x_1}{\cdots\sum\limits_{x_{i-1}}\sum\limits_{x_{i+1}}\cdots\sum\limits_{x_n}{f\left(x_1,~\cdots,~x_n\right)}}`$|
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`F_{X_i}\left(x_i\right)=F\left(\infty,~\cdots,~\infty,~x_i,~\infty,~\cdots,~\infty\right)=\begin{cases} {\int^{x_i}_{-\infty}{f_{X_i}\left(t_i\right)\,dt_i}} & \text{if }X_i\text{ is Continuous} \\ {\sum\limits_{t_i\le x_i}{f_{X_i}\left(t_i\right)}} & \text{if }X_i\text{ is Discrete}\end{cases}`$
+
+# Joint Marginal Distribution
+- ### Joint Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i,~\cdots,~X_j}\left(x_i,~\cdots,~x_j\right)`$
+    |Random Variable|Marginal Probability Function|
+    |:---:|:---:|
+    |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Joint Marginal PDF**<br>$`f_{X_i,~\cdots,~X_j}\left(x_i,~\cdots,~x_j\right) = \int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_q\cdots dx_r}}`$|
+    |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Joint Marginal PMF**<br>$`f_{X_i,~\cdots,~X_j}\left(x_i,~\cdots,~x_j\right) = \sum\limits_{x_q}{\cdots\sum\limits_{x_r}{f\left(x_1,~\cdots,~x_n\right)}}`$|
+    - $`\left(X_q,~\cdots,~X_r\right)=\left(X_1,~\cdots,~X_n\right)-\left(X_i,~\cdots,~X_j\right)`$
+- ### Joint Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
+    - ### $`F_{X_i,~\cdots,~X_j}\left(x_i,~\cdots,~x_j\right) = \begin{cases} {\int^{x_i}_{-\infty}{\cdots\int^{x_j}_{-\infty}{f_{X_i,~\cdots,~X_j}\left(t_i,~\cdots,~t_j\right)\,dt_j\cdots dt_i}}} & \text{if }X_i\text{ is Continuous} \\ {\sum\limits_{t_i \le x_i}{\cdots\sum\limits_{t_j \le x_j}{f_{X_i,~\cdots,~X_j}\left(t_i,~\cdots,~t_j\right)}}} & \text{if }X_i\text{ is Discrete}\end{cases}`$
+- ### eg
+    - ### $`f_{X_1,~X_2}\left(x_1,~x_2\right)=\begin{cases} {\int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_3\cdots dx_n}}} & \text{if }X_i\text{ is Continuous} \\ {\sum\limits_{x_3}{\cdots\sum\limits_{x_n}{f\left(x_1,~\cdots,~x_n\right)}}} & \text{if }X_i\text{ is Discrete}\end{cases}`$
+    - ### $`F_{X_1,~X_2}\left(x_1,~x_2\right)=F\left( x_1,~x_2,~\infty,~\cdots,~\infty \right)`$
 
 # [Conditional](../../conditional-probability/conditional-probability.md) Distribution
 - ### [Conditional](../../conditional-probability/conditional-probability.md) [Probability Function](../distribution-function.md#probability-function)
