@@ -58,5 +58,5 @@
 # Probability of a Multiple Random Variable
 - ### $`P\left( \left( X_1,~\cdots,~X_n \right) \in D \right) = \begin{cases} {\int{\cdots\int_D{f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_n}}} & \text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous} \\ {\sum\limits_{\left( x_1,~\cdots,~x_n \right) \in D}{f\left(x_1,~\cdots,~x_n\right)}} & \text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Discrete} \end{cases}`$
 - #### $`P\left(a_1\le X_1\le b_1,~\cdots ,~ a_n\le X_n\le b_n\right) = \begin{cases}{\int^{b_1}_{a_1}{\cdots\int^{b_n}_{a_n}{f\left(x_1,~\cdots,~x_n\right)\,dx_n\cdots dx_1}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous} \\ {\sum\limits_{a_1 \le x_1 \le b_1}{\cdots\sum\limits_{a_n \le x_n \le b_n}{f\left(x_1,~\cdots,~x_n\right)}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Discrete}\end{cases}`$
-- #### $`\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous}`$
-    - $`P\left(a_1\le X_1\le b_1,~\cdots ,~ a_n\le X_n\le b_n\right) = P\left(a_1< X_1< b_1 ,~ a_n< X_n< b_n\right) = \int^{b_1}_{a_1}{\cdots\int^{b_n}_{a_n}{f\left(x_1,~\cdots,~x_n\right)\,dx_n\cdots dx_1}}`$
+- #### $`P\left(a_1< X_1< b_1,~\cdots ,~ a_n< X_n< b_n\right) = \begin{cases}{\int^{b_1}_{a_1}{\cdots\int^{b_n}_{a_n}{f\left(x_1,~\cdots,~x_n\right)\,dx_n\cdots dx_1}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous} \\ {\sum\limits_{a_1 < x_1 < b_1}{\cdots\sum\limits_{a_n < x_n < b_n}{f\left(x_1,~\cdots,~x_n\right)}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Discrete}\end{cases}`$
+
