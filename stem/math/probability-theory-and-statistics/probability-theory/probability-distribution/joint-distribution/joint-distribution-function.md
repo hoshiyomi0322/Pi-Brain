@@ -62,5 +62,5 @@
     - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap \left(Y \le y\right)\right)=F\left(x,~y\right)`$
     - #### $`P\left(a<X\le b,~c<Y\le d\right)=F\left(b,~d\right)-F\left(a,~d\right)-F\left(b,~c\right)+F\left(a,~c\right)`$
     - #### $`P\left(a\le X\le b,~c\le Y\le d\right)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f\left(x,~y\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f\left(x,~y\right)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
-    - #### $`\text{if }\left(X,~Y\right)\text{ is Continuous},~\text{then }P\left(a\le X\le b,~c\le Y\le d\right)=P\left(a< X\le b,~c< Y\le d\right)=P\left(a\le X< b,~c\le Y< d\right)=P\left(a< X< b,~c< Y< d\right)=\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}`$
+    - #### $`\text{if }\left(X,~Y\right)\text{ is Continuous},~\text{then }P\left(a\le X\le b,~c\le Y\le d\right)=P\left(a< X< b,~c< Y< d\right)=\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}`$
 

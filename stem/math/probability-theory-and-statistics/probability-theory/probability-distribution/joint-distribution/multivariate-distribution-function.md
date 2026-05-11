@@ -54,9 +54,6 @@
 - ### [Conditional Variance of Multivariate](../../../statistics/variance.md)
 
 # Probability of a Multiple Random Variable
-- ### Interval Probability
-    - ### $`P\left( \left( X_1,~\cdots,~X_n \right) \in D \right)`$
-    - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap \left(Y \le y\right)\right)=F\left(x,~y\right)`$
-    - #### $`P\left(a<X\le b,~c<Y\le d\right)=F\left(b,~d\right)-F\left(a,~d\right)-F\left(b,~c\right)+F\left(a,~c\right)`$
-    - #### $`P\left(a\le X\le b,~c\le Y\le d\right)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f\left(x,~y\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f\left(x,~y\right)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
-    - #### $`\text{if }\left(X,~Y\right)\text{ is Continuous},~\text{then }P\left(a\le X\le b,~c\le Y\le d\right)=P\left(a< X\le b,~c< Y\le d\right)=P\left(a\le X< b,~c\le Y< d\right)=P\left(a< X< b,~c< Y< d\right)=\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}`$
+- ### $`P\left( \left( X_1,~\cdots,~X_n \right) \in D \right) = \begin{cases} {\int{\cdots\int_D{f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_n}}} & \text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous} \\ {\sum\limits_{\left( x_1,~\cdots,~x_n \right) \in D}{f\left(x_1,~\cdots,~x_n\right)}} & \text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Discrete} \end{cases}`$
+- #### $`P\left(a_1\le X_1\le b_1,~\cdots ,~ a_n\le X_n\le b_n\right) = \begin{cases}{\int^{b_1}_{a_1}{\cdots\int^{b_n}_{a_n}{f\left(x_1,~\cdots,~x_n\right)\,dx_n\cdots dx_1}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous} \\ {\sum\limits_{a_1 \le x_1 \le b_1}{\cdots\sum\limits_{a_n \le x_n \le b_n}{f\left(x_1,~\cdots,~x_n\right)}}}&\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Discrete}\end{cases}`$
+- #### $`\text{if } \left(X_1,~\cdots,~X_n\right) \text{ is Continuous},~\text{then }P\left(a_1\le X_1\le b_1,~\cdots ,~ a_n\le X_n\le b_n\right) = P\left(a_1< X_1< b_1 ,~ a_n< X_n< b_n\right) = \int^{b_1}_{a_1}{\cdots\int^{b_n}_{a_n}{f\left(x_1,~\cdots,~x_n\right)\,dx_n\cdots dx_1}}`$
