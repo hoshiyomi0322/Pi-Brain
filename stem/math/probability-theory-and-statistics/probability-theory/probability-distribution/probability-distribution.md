@@ -10,8 +10,8 @@
 - ### [Joint Distribution Function](joint-distribution/joint-distribution-function.md)
     - ### [Multivariate Distribution Function](joint-distribution/multivariate-distribution-function.md)
 - ### Types of Multivariate Distribution
-    - ### Continuous Multivariate Distribution
-    - ### Discrete Multivariate Distribution
+    - ### [Continuous Multivariate Distribution](./joint-distribution/continuous-multivariate-distribution.md)
+    - ### [Discrete Multivariate Distribution](./joint-distribution/discrete-multivariate-distribution.md)
 
 # Memoryless Property
 - ### $`\text{If }P\left(X>a+b|X>a\right)=P\left(X>b\right),~\text{then }X\text{ is Memoryless}`$

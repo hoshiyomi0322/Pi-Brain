@@ -11,6 +11,8 @@
     |Continuous|Discrete|
     |:---:|:---:|
     |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
+- ### Random Vector (Multivariate Random Variable)
+    - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Distribution Function](./probability-distribution/distribution-function.md)
     - ### [Joint Distribution](./probability-distribution/probability-distribution.md#joint-distribution)

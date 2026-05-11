@@ -20,7 +20,13 @@
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }Cov\left(X,~Y\right)=0`$
 
 # Covariance Matrix
-- ### $`Cov\left(X_i,~X_j\right) = E\left[\left(X_i-E\left[X_i\right]\right)\left(X_j-E\left[X_j\right]\right)\right] = E\left[X_iX_j\right]-E\left[X_i\right]E\left[X_j\right]`$
+- ### Covariance Matrix
+    - ### $Σ_X = \begin{bmatrix} Var\left(X_1\right) & Cov\left(X_1,~X_2\right) & \cdots & Cov\left(X_1,~X_n\right) \\ Cov\left(X_2,~X_1\right) & Var\left(X_2\right) & \cdots & Cov\left(X_2,~X_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_n,~X_1\right) & Cov\left(X_n,~X_2\right) & \cdots & Var\left(X_n\right)\end{bmatrix}$
+    - ### [Random Vector](../probability-theory/probability-theory.md#random-vector-multivariate-random-variable)：$`X=\left( X_1,~\cdots,~X_n \right)^T`$
+    - ### Mahalanobis Distance：$`D\left( x \right)=\sqrt{-\frac{1}{2}\left(x-μ\right)^TΣ^{-1}\left(x-μ\right)}`$
+- ### Cross-Covariance Matrix
+    - ### $K_{XY} = \begin{bmatrix} Cov\left(X_1,~Y_1\right) & Cov\left(X_1,~Y_2\right) & \cdots & Cov\left(X_1,~Y_n\right) \\ Cov\left(X_2,~Y_1\right) & Cov\left(X_2,~Y_2\right) & \cdots & Cov\left(X_2,~Y_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_m,~Y_1\right) & Cov\left(X_m,~Y_2\right) & \cdots & Cov\left(X_m,~Y_n\right)\end{bmatrix}$
+    - ### [Random Vectors](../probability-theory/probability-theory.md#random-vector-multivariate-random-variable)：$`\begin{cases} {X=\left( X_1,~\cdots,~X_n \right)^T} \\ {Y=\left( Y_1,~\cdots,~Y_n \right)^T} \end{cases}`$
 
 # [Conditional](../probability-theory/probability-distribution/joint-distribution/joint-distribution-function.md#conditional-distribution) Variance
 - ### $`Var\left( X|Y \right)=E\left[ \left( X-E\left[X|Y\right] \right)^2|Y \right]=E\left[ X^2|Y\right]-E\left[X|Y\right]^2`$
