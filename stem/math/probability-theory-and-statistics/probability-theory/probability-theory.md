@@ -31,7 +31,7 @@
 - ### Central Limit Theorem (CLT)
     <img src="./image/central-limit-theorem.png" width="60%">
     
-    - #### [Probability Distribution](./probability-distribution/probability-distribution.md) $`\overset{\bar{X}}{\longrightarrow}`$ [Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution)
+    - #### [Probability Distribution](./probability-distribution/probability-distribution.md) $`\overset{\overline{X}}{\longrightarrow}`$ [Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution)
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process

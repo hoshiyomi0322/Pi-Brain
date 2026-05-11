@@ -11,7 +11,7 @@
 # Measure of Central Tendency
 - ### Mean
     - ### Arithmetic Mean (AM)
-        - ### $`μ=\bar{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
+        - ### $`μ=\overline{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
         - ### $μ=E\left[X\right]$
     - ### Geometric Mean (GM)
         - ### $`G=\left(\prod_{i=1}^{n}{x_i}\right)^{\frac{1}{n}}=\sqrt[n]{x_1x_2\cdots x_n}`$
