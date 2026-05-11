@@ -44,7 +44,11 @@
 - ### Wi-Fi
 - ### Ethernet
 - ### [Switch](../../networking-hardware.md#switch)
+- ### Spanning Tree Protocol (STP)
+    - ### Rapid Spanning Tree Protocol (RSTP)
+    - ### Multiple Spanning Tree Protocol (MSTP)
 - ### Point-to-Point Protocol (PPP)
+- ### Layer Two Tunneling Protocol (L2TP)
 - ### Asynchronous Transfer Mode (ATM)
 
 # Physical layer
@@ -62,4 +66,6 @@
     - #### Stop-and-Wait ARQ
     - #### Go-Back-N ARQ
     - #### Selective Repeat ARQ
-
+- ### Tunneling Protocol
+    - ### [Point to Point Tunneling Protocol (PPTP)](#point-to-point-tunneling-protocol-pptp)
+    - ### [Layer Two Tunneling Protocol (L2TP)](#layer-two-tunneling-protocol-l2tp)
