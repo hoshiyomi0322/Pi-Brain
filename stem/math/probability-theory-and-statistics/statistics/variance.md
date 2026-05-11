@@ -21,11 +21,11 @@
 
 # Covariance Matrix
 - ### Covariance Matrix
-    - ### $Σ_X = \begin{bmatrix} Var\left(X_1\right) & Cov\left(X_1,~X_2\right) & \cdots & Cov\left(X_1,~X_n\right) \\ Cov\left(X_2,~X_1\right) & Var\left(X_2\right) & \cdots & Cov\left(X_2,~X_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_n,~X_1\right) & Cov\left(X_n,~X_2\right) & \cdots & Var\left(X_n\right)\end{bmatrix}$
+    - ### $`Σ_X = \begin{bmatrix} Var\left(X_1\right) & Cov\left(X_1,~X_2\right) & \cdots & Cov\left(X_1,~X_n\right) \\ Cov\left(X_2,~X_1\right) & Var\left(X_2\right) & \cdots & Cov\left(X_2,~X_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_n,~X_1\right) & Cov\left(X_n,~X_2\right) & \cdots & Var\left(X_n\right)\end{bmatrix}`$
     - ### [Random Vector](../probability-theory/probability-theory.md#random-vector-multivariate-random-variable)：$`X=\left( X_1,~\cdots,~X_n \right)^T`$
     - ### Mahalanobis Distance：$`D\left( x \right)=\sqrt{-\frac{1}{2}\left(x-μ\right)^TΣ^{-1}\left(x-μ\right)}`$
 - ### Cross-Covariance Matrix
-    - ### $K_{XY} = \begin{bmatrix} Cov\left(X_1,~Y_1\right) & Cov\left(X_1,~Y_2\right) & \cdots & Cov\left(X_1,~Y_n\right) \\ Cov\left(X_2,~Y_1\right) & Cov\left(X_2,~Y_2\right) & \cdots & Cov\left(X_2,~Y_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_m,~Y_1\right) & Cov\left(X_m,~Y_2\right) & \cdots & Cov\left(X_m,~Y_n\right)\end{bmatrix}$
+    - ### $`K_{XY} = \begin{bmatrix} Cov\left(X_1,~Y_1\right) & Cov\left(X_1,~Y_2\right) & \cdots & Cov\left(X_1,~Y_n\right) \\ Cov\left(X_2,~Y_1\right) & Cov\left(X_2,~Y_2\right) & \cdots & Cov\left(X_2,~Y_n\right) \\ \vdots & \vdots & \ddots & \vdots \\ Cov\left(X_m,~Y_1\right) & Cov\left(X_m,~Y_2\right) & \cdots & Cov\left(X_m,~Y_n\right)\end{bmatrix}`$
     - ### [Random Vectors](../probability-theory/probability-theory.md#random-vector-multivariate-random-variable)：$`\begin{cases} {X=\left( X_1,~\cdots,~X_n \right)^T} \\ {Y=\left( Y_1,~\cdots,~Y_n \right)^T} \end{cases}`$
 
 # [Conditional](../probability-theory/probability-distribution/joint-distribution/joint-distribution-function.md#conditional-distribution) Variance
