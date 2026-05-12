@@ -3,3 +3,4 @@
 - ### [Multivariable Differential Calculus](multivariable-differential-calculus.md)
 - ### [Multiple Integral](multiple-integral.md)
 - ### [Vector Calculus](vector-calculus.md)
+- ### [Ricci Calculus](ricci-calculus.md)
