@@ -20,7 +20,7 @@
 - ### Random Experiment
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
-- ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](distribution-function.md#probability-function)
+- ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)
     - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0`$
 - ### [Moment](#moment)
 
