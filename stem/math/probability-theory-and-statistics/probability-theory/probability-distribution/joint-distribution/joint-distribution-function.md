@@ -54,7 +54,7 @@
 - ### [Conditional Expectation](../../expected-value.md#conditional-expectation)
 - ### [Conditional Variance](../../../statistics/variance.md#conditional-variance)
 
-# Probability of a Multiple Random Variable
+# Probability of a Two [Random Variable](../../probability-theory.md#random-variable)
 - ### [Joint Probability](../../conditional-probability/conditional-probability.md#joint-probability)
     - #### $`P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)=P\left(X=x|Y=y\right)P\left(Y=y\right)=P\left(Y=y|X=x\right)P\left(X=x\right)`$
     - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap\left(Y\le y\right)\right)=P\left(X\le x|Y\le y\right)P\left(Y\le y\right)=P\left(Y\le y|X\le x\right)P\left(X\le x\right)`$

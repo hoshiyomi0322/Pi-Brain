@@ -14,7 +14,7 @@
     - #### $`F\left(\infty\right)=\begin{cases}{\int^\infty_{-\infty}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}=1`$
     - #### $`\text{If }x_1<x_2,~\text{then }F\left(x_1\right)\le F\left(x_2\right)`$
 
-# Probability of a Random Variable
+# Probability of a [Random Variable](../probability-theory.md#random-variable)
 - ### $`P\left(X=x\right)`$：the Probability of ($`\text{Random Variable }X=x`$)
     - $`P\left(X=x\right)=\begin{cases}{0}&\text{if }X\text{ is Continuous}\\{f\left(x\right)=P\left(X\le x\right)-P\left(X<x\right)=F\left(x\right)-F\left(x^-\right)}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Interval Probability
@@ -27,7 +27,7 @@
     - #### $`P\left(a\le X\le b\right)=P\left(X\le b\right)-P\left(X<a\right)=F\left(b\right)-F\left(a^-\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`\text{if }X\text{ is Continuous},~\text{then }P\left(a\le X\le b\right)=P\left(a< X\le b\right)=P\left(a\le X< b\right)=P\left(a< X< b\right)=\int_{a}^{b}{f\left(x\right)\,dx}`$
 
-# Transformations of Random Variables
+# Transformations of [Random Variables](../probability-theory.md#random-variable)
 - ### $X$ is Continuous
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
     - #### [PDF](#probability-function)：$`f_X\left(x\right)`$
