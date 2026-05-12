@@ -20,7 +20,7 @@
 - ### Interval Probability
     - #### $`P\left(X\le x\right)`$：the Probability of ($`\text{Random Variable }X\le x`$)
         - #### $`P\left(X\le x\right)=F\left(x\right)`$
-    - #### $`P\left(X>x\right)=S\left(x\right)=1-P\left(X\le x\right)=1-F\left(x\right) = \begin{cases}{\int_{x}^{\infty}{f\left(t\right)\,dt}} & \text{if }X\text{ is Continuous}\\{\sum\limits_{x< t}{f\left(t\right)}} & \text{if }X\text{ is Discrete}\end{cases}`$
+    - #### $`P\left(X>x\right)=S\left(x\right)=1-P\left(X\le x\right)=1-F\left(x\right) = \begin{cases}{\int_{x}^{\infty}{f\left(t\right)\,dt}} & \text{if }X\text{ is Continuous} \\ {\sum\limits_{x< t}{f\left(t\right)}} & \text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`P\left(X<x\right)=F\left(x^-\right)=\lim\limits_{t\to x^-}{F\left(t\right)}=\begin{cases}{F\left(x\right)}&\text{if }X\text{ is Continuous}\\{F\left(x-1\right)}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`P\left(X\ge x\right)=1-F\left(x^-\right) = \begin{cases}{\int_{x}^{\infty}{f\left(t\right)\,dt}} & \text{if }X\text{ is Continuous}\\{\sum\limits_{x\le t}{f\left(t\right)}} & \text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`P\left(a<X\le b\right)=P\left(X\le b\right)-P\left(X\le a\right)=F\left(b\right)-F\left(a\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a< x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
@@ -31,9 +31,9 @@
 - ### $X$ is Continuous
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
     - #### [PDF](#probability-function)：$`f_X\left(x\right)`$
-- ### $Y=h\left(X\right)$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(h\left(X\right)\le y\right)=P\left(X\le h^{-1}\left(y\right)\right)=F_X\left(h^{-1}\left(y\right)\right)`$
-    - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=\frac{d}{dy}F_X\left(h^{-1}\left(y\right)\right)=f_X\left(h^{-1}\left(y\right)\right)\cdot \frac{d}{dy}h^{-1}\left(y\right)`$
+- ### $Y=g\left(X\right)$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+    - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = f_X\left(g^{-1}\left(y\right)\right)\cdot \left|\frac{d}{dy}g^{-1}\left(y\right)\right|`$
 - ### Probability Integral Transform：$`Y=F_X\left(X\right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=F_X\left(F_X^{-1}\left(y\right)\right)=y`$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=1`$
