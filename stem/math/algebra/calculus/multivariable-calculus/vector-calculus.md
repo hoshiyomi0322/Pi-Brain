@@ -24,7 +24,7 @@
 - ### $`\nabla\times\vec{f}=\left| \begin{matrix} i&j&k \\ \frac{\partial}{\partial x}&\frac{\partial}{\partial y}&\frac{\partial}{\partial z} \\ f_x&f_y&f_z \end{matrix} \right|=\left(\frac{\partial f_z}{\partial y}-\frac{\partial f_y}{\partial z},~\frac{\partial f_x}{\partial z}-\frac{\partial f_z}{\partial x},~\frac{\partial f_y}{\partial x}-\frac{\partial f_x}{\partial y}\right)`$
 
 # Laplacian Operator (Laplacian)
-- ### $`\nabla^2f = \nabla\cdot\nabla f = ∆f = \frac{\partial^2 f}{{\partial x_1}^2}+\cdots+\frac{\partial^2 f}{{\partial x_n}^2}`$
+- ### $`\nabla^2f = \nabla\cdot\nabla f = ∆f = \frac{\partial^2 f}{\partial {x_1}^2}+\cdots+\frac{\partial^2 f}{\partial {x_n}^2}`$
 - ### Harmonic Function：$`\nabla^2f=0`$
 
 # Line Integral
