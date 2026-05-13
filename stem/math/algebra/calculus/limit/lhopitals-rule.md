@@ -1,7 +1,7 @@
 - ### L'Hopital's Rule：$`\lim\limits_{x\to c}{\frac{f\left(x\right)}{g\left(x\right)}}=\lim\limits_{x\to c}{\frac{f^{\prime\left(x\right)}}{g^{\prime\left(x\right)}}}`$
     - #### conditions：$\lim\limits_{x\to c}{f\left(x\right)}=\lim\limits_{x\to c}{g\left(x\right)}=0\text{ or }\pm\infty$
-- ### [Indeterminate Form](#indeterminate-form-1)：$`\frac{0}{0},~\frac{\infty}{\infty},~\left(0\times\infty\right),~\left(\infty-\infty\right),~\infty^0,~0^0,~1^\infty`$
-    - #### [Exponential Indeterminate Forms](#exponential-indeterminate-forms-1)：$`\infty^0,~0^0,~1^\infty`$
+- ### [Indeterminate Form](#indeterminate-form)：$`\frac{0}{0},~\frac{\infty}{\infty},~\left(0\times\infty\right),~\left(\infty-\infty\right),~\infty^0,~0^0,~1^\infty`$
+    - #### [Exponential Indeterminate Forms](#exponential-indeterminate-forms)：$`\infty^0,~0^0,~1^\infty`$
 
 # Indeterminate Form
 - ### $`\lim\limits_{x\to c}{f\left(x\right)g\left(x\right)}=\lim\limits_{x\to c}{\left(0\times\infty\right)}`$
@@ -10,7 +10,7 @@
 - ### $`\lim\limits_{x\to c}{\left(\frac{1}{f\left(x\right)}-\frac{1}{g\left(x\right)}\right)} = \lim\limits_{x\to c}{\left(\infty-\infty\right)}`$
     - ### $`\lim\limits_{x\to c}{\left(\infty-\infty\right)}=\lim\limits_{x\to c}{\left(\frac{1}{0}-\frac{1}{0}\right)}=\lim\limits_{x\to c}{\left(\frac{0-0}{0\times0}\right)}`$
     - ### $`\lim\limits_{x\to c}{\left(\frac{1}{f\left(x\right)}-\frac{1}{g\left(x\right)}\right)} = \lim\limits_{x\to c}{\frac{g\left(x\right)-f\left(x\right)}{f\left(x\right)g\left(x\right)}}=\lim\limits_{x\to c}{\frac{\left(g\left(x\right)-f\left(x\right)\right)^\prime}{\left(f\left(x\right)g\left(x\right)\right)^\prime}}`$
-- ### Exponential Indeterminate Forms：$`\lim\limits_{x\to c}{f\left(x\right)^{g\left(x\right)}} = \lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}`$
+- ### <span id="exponential-indeterminate-forms"> Exponential Indeterminate Forms：$`\lim\limits_{x\to c}{f\left(x\right)^{g\left(x\right)}} = \lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}`$ </span>
     - ### $`\lim\limits_{x\to c}{\infty^0},~\lim\limits_{x\to c}{0^0},~\lim\limits_{x\to c}{1^\infty}\to\lim\limits_{x\to c}{\left(0\times\infty\right)}`$
         - ### $`\lim\limits_{x\to c}{\infty^0} = \lim\limits_{x\to c}{\exp{\left(\ln{\infty^{0}}\right)}} = \lim\limits_{x\to c}{\exp{\left(0\ln{\infty}\right)}} = \exp{\left(\lim\limits_{x\to c}{\left(0\ln{\infty}\right)}\right)} = \exp{\left(\lim\limits_{x\to c}{\left(0\times\infty\right)}\right)}`$
         - ### $`\lim\limits_{x\to c}{0^0} = \lim\limits_{x\to c}{\exp{\left(\ln{0^{0}}\right)}} = \lim\limits_{x\to c}{\exp{\left(0\ln{0}\right)}} = \exp{\left(\lim\limits_{x\to c}{\left(0\ln{0}\right)}\right)} = \exp{\left(\lim\limits_{x\to c}{\left(0\times\left(-\infty\right)\right)}\right)}`$
