@@ -16,7 +16,7 @@
     - ### $`y=mx+y_0`$
 - ### Intercept form
     - ### $`\frac{x}{x_0}+\frac{y}{y_0}=1`$
-- ### Point-Slope form
+- ### <span id="point-slope-form">Point-Slope form</span>
     - ### $`y-y_1=m\left(x-x_1\right)`$
 
 # Equations of two Lines：$`L_1,~L_2`$

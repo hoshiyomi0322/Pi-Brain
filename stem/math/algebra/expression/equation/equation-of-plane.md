@@ -15,7 +15,7 @@
     - ### $`\begin{cases} {x=x_1+α_1t+β_1s}\\{y=y_1+α_2t+β_2s}\\{z=z_1+α_3t+β_3s} \end{cases},~s\in R,~t\in R`$
 - ### Intercept Form
     - ### $`\frac{x}{x_0}+\frac{y}{y_0}+\frac{z}{z_0}=1`$
-- ### Point-Slope form
+- ### <span id="point-slope-form">Point-Slope form</span>
     - ### $`z-z_1=m_x\left(x-x_1\right)+m_y\left(y-y_1\right)`$
 - ### Cartesian Form 
     - ### $`\begin{vmatrix} x-x_1&y-y_1&z-z_1 \\ α_1&α_2&α_3 \\ β_1&β_2&β_3 \end{vmatrix}=0`$
