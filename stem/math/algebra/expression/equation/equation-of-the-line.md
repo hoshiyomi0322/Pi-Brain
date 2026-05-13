@@ -1,7 +1,7 @@
 # Parameters of Equation of the Line
 - ### <span id="slope">Slope</span>
     - ### $`m=\frac{Δy}{Δx}=\tan{θ}=-\frac{a}{b}=\frac{α_2}{α_1}`$
-- ### <span id="ngle-of-inclination">Angle of Inclination</span>
+- ### <span id="angle-of-inclination">Angle of Inclination</span>
     - ### $`θ=\text{angle between the line and the } x\text{-axis (positive angle)}`$
 - ### Intercept
     - ### $`\left(x_0,~0\right),~\left(0,~y_0\right)`$

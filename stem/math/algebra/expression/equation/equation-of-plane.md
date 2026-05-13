@@ -4,7 +4,7 @@
     - ### $`m_y=\frac{Δz}{Δy}=-\frac{b}{c}`$
 - ### Intercept：$`\left(x_0,~0,~0\right),~\left(0,~y_0,~0\right),~\left(0,~0,~z_0\right)`$
 - ### Vector
-    - ### [Normal Vector](../expression.md#normal-vector)：$`\left(a,~b,~c\right)`$
+    - ### <span id="normal-vector">[Normal Vector](../expression.md#normal-vector)：$`\left(a,~b,~c\right)`$</span>
     - ### [Vectors in the Plane](../expression.md#direction-vector)：$`\left(α_1,~α_2,~α_3\right),~\left(β_1,~β_2,~β_3\right)`$
 - ### Point：$`P\left(x_1,~y_1,~z_1\right)`$
 
