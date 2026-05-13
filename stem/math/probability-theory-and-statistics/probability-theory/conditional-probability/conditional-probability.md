@@ -5,7 +5,7 @@
 
 # Joint Probability
 - ### Joint Probability：$`P\left(A\cap B\right)=P\left(A|B\right)P\left(B\right)=P\left(B|A\right)P\left(A\right)`$
-- ### <span id="independent-mutually-exclusive">Independent events, Mutually Exclusive events</span>
+- ### <span id="independent-events-mutually-exclusive-events">Independent events, Mutually Exclusive events</span>
     |Independent events|Mutually Exclusive events|
     |:---:|:---:|
     |<img src="./image/independent.png" width="60%">|<img src="./image/mutually-exclusive.png" width="60%">|
@@ -16,7 +16,7 @@
 - ### Union Probability：$`P\left(A\cup B\right)=\left(P\left(A\right)+P\left(B\right)\right)-P\left(A\cap B\right)`$
     - #### [Inclusion–Exclusion Principle](../../../discrete-mathematics/set-theory/set-theory.md#inclusionexclusion-principle)
 - ### <span id="mutually-exclusive-collectively-exhaustive">Mutually Exclusive events, Collectively Exhaustive events</span>
-    - #### [Mutually Exclusive events](#independent-mutually-exclusive)：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)`$
+    - #### [Mutually Exclusive events](#independent-events-mutually-exclusive-events)：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)`$
     - #### Collectively Exhaustive events：$`P\left(A\cup B\right)=S`$
     - #### Mutually Exclusive and Collectively Exhaustive events：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)=S`$
 

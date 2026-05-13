@@ -16,7 +16,7 @@
     - $`f\left(x,~y\right)`$ = [Joint Probability Function](./probability-distribution/joint-distribution/joint-distribution-function.md#joint-distribution-function)
 - ### $`E\left[aX+bY\right]=aE\left[X\right]+bE\left[Y\right]`$
 - ### $`E\left[XY\right]=E\left[X\right]E\left[Y\right]+Cov\left(X,~Y\right)=\begin{cases}{\int_{-\infty}^{\infty}{\int_{-\infty}^{\infty}{xy\cdot f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_x{\sum\limits_y{\left(xy\cdot f\left(x,~y\right)\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete} \\ {\sum\limits_y{\int^\infty_{-\infty}{xy\cdot f\left(x,~y\right)\,dx}}} & \text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
-    - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-mutually-exclusive), $`\text{then }E\left[XY\right]=E\left[X\right]E\left[Y\right]`$
+    - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }E\left[XY\right]=E\left[X\right]E\left[Y\right]`$
     - $`Cov\left(X,~Y\right)`$ = [Covariance](../statistics/variance.md#covariance)
 
 # Expected Value of [Multivariate Distribution](./probability-distribution/joint-distribution/multivariate-distribution-function.md)
@@ -34,5 +34,5 @@
 - ### $`E\left[g\left(X\right)|Y=y\right]=\begin{cases}{\int_{-\infty}^{\infty}{g\left(x\right)\cdot f_{X|Y}\left(x|y\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{\left(g\left(x\right)\cdot f_{X|Y}\left(x|y\right)\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Law of Total Expectation (Law of Iterated Expectations)
     - ### $`E\left[ X\right]=E\left[ E\left[ X|Y\right]\right]`$
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-mutually-exclusive), $`\text{then }E\left[X|Y\right]=E\left[X\right]`$
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }E\left[X|Y\right]=E\left[X\right]`$
 
