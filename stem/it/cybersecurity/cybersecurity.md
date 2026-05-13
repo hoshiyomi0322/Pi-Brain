@@ -11,8 +11,8 @@
 - ### Cryptography
 - ### Misc
 
-# Cryptography
-- ### Encoding
+# [Cryptography](./cryptography/cryptography.md)
+- ### [Encoding](../computer-science/data-representation/encoding.md)
 - ### Encryption
 - ### Cryptographic Hash Function
 - ### Cryptanalysis
