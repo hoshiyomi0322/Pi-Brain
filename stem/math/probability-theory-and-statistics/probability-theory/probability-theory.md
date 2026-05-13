@@ -3,7 +3,7 @@
     - #### $`P\left(A\right)`$ = the Probability of Event $A$
     - ### [Conditional Probability](./conditional-probability/conditional-probability.md)
 - ### [Probability of a Random Variable](./probability-distribution/distribution-function.md#probability-of-a-random-variable)
-    - ### [Probability of a [Multivariate Random Variable]](./probability-distribution/joint-distribution/multivariate-distribution-function.md#probability-of-a-multivariate-random-variable)
+    - ### [Probability of a Multivariate Random Variable](./probability-distribution/joint-distribution/multivariate-distribution-function.md#probability-of-a-multivariate-random-variable)
 - ### Sample Space($S$)
     - $P\left(S\right)=1$
 
