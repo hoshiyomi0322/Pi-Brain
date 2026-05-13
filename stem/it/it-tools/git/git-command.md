@@ -27,7 +27,7 @@ git clone
 
 ```bash
 git commit -a
-git commit -m "message" # 提交變更
+git commit -m "message" # create a new commit with message
 git diff # difference, 查看工作目錄與暫存區的差異
 
 git restore

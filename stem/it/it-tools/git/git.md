@@ -1,7 +1,8 @@
 # Git
 - ### [Git Command](git-command.md)
 - ### [Git Flow](#git-flow-1)
-- ### [GitHub](#github-1)
+- ### GitHub
+    - ### GitHub Desktop
     - ### [GitHub Web Editor](#github-web-editor-1)
 - ### Repository (repo)
 - ### [Status](#status-1)
@@ -17,7 +18,10 @@
 
 # Status
 - ### Stage
-- ### add → commit → push
+- ### Add → Commit → Push
+    - ### Add
+    - ### Commit
+    - ### Push
 - ### fetch → merge → pull
 
 # [GitHub Web Editor](https://github.dev/)
