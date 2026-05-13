@@ -23,7 +23,7 @@
 - ### [Unit](../../../../unit.md) (Admittance, Conductance, Susceptance)：$`S`$ (Siemens)
 
 # Resistance, Capacitance, Inductance
-- ### Resistance：$`R=\frac{V}{I}=ρ\frac{l}{A}`$
+- ### <ip id="resistance"> Resistance：$`R=\frac{V}{I}=ρ\frac{l}{A}`$ </span>
     - ### [Unit](../../../../unit.md)：$`Ω`$ (Ohm)
     - ### $`l`$ = 長度
     - ### $`A`$ = 截面積
