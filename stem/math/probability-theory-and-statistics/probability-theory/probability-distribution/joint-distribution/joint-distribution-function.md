@@ -18,7 +18,7 @@
 - ### [Covariance](../../../statistics/variance.md#covariance)
 
 # Marginal Distribution
-- ### <span id="marginal-probability-distribution">Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X\left(x\right),~f_Y\left(y\right)`$</span>
+- ### <span id="marginal-probability-function">Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_X\left(x\right),~f_Y\left(y\right)`$</span>
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$\left(X,~Y\right)$ is Continuous**|**Marginal PDF**<br>$`\begin{cases}f_X\left(x\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dy}\\ f_Y\left(y\right)=\int^\infty_{-\infty}{f_{XY}\left(x,~y\right)\,dx}\end{cases}`$|

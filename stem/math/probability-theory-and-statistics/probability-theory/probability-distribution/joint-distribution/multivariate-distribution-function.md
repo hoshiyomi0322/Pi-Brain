@@ -17,7 +17,7 @@
 - ### [Covariance Matrix](../../../statistics/variance.md#covariance-matrix)
 
 # Marginal Distribution
-- ### <span id="marginal-probability-distribution"> Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i}\left(x_i\right)`$ </span>
+- ### <span id="marginal-probability-function"> Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i}\left(x_i\right)`$ </span>
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Marginal PDF**<br>$`f_{X_i}\left(x_i\right)=\int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_{i-1} dx_{i+1}\cdots dx_n}}`$|
