@@ -1,7 +1,7 @@
 # STEM
-- ### Information Technology(IT)
+- ### Information Technology (IT)
     - #### [Coding](./stem/it/coding/coding.md)
-    - #### [Command-Line Interface(CLI)](./stem/it/cli/cli.md)
+    - #### [Command-Line Interface (CLI)](./stem/it/cli/cli.md)
     - #### [Computer Science](./stem/it/computer-science/computer-science.md)
     - #### [Cybersecurity](./stem/it/cybersecurity/cybersecurity.md)
     - #### Machine Learning
