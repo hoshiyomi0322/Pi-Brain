@@ -3,8 +3,8 @@
     - Angle of Inclination：$`θ=\text{angle between the line and the } x\text{-axis (positive angle)}`$
 - ### Intercept：$`\left(x_0,~0\right),~\left(0,~y_0\right)`$
 - ### Vector
-    - #### [Normal Vector](../../function-and-equation.md#normal-vector)：$`\left(a,~b\right)`$
-    - #### [Direction Vector](../../function-and-equation.md#direction-vector)：$`\left(α_1,~α_2\right)`$
+    - #### [Normal Vector](../expression.md#normal-vector)：$`\left(a,~b\right)`$
+    - #### [Direction Vector](../expression.md#direction-vector)：$`\left(α_1,~α_2\right)`$
 - #### Point：$`P\left(x_1,~y_1\right)`$
 
 # Forms of the Equation of the Line
