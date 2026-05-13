@@ -1,7 +1,7 @@
 # Vector of a function
-- ### Normal Vector
+- ### <span id="normal-vector">Normal Vector</span>
     - #### A vector that is Perpendicular to a function
-- ### Direction Vector
+- ### <span id="direction-vector">Direction Vector</span>
     - #### A vector that is Parallel to a function
 - ### $`\text{Normal Vector}\cdot \text{Direction Vector}=0`$
 
