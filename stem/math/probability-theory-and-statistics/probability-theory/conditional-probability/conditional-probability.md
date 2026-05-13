@@ -1,7 +1,8 @@
 # Conditional Probability
 - ### Conditional Probability：$`P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}`$
     - #### $P\left(A|B\right)$ ＝ the probability of $A$ under the condition $B$
-- ### Bayes' Theorem：$`P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A\right)P\left(A\right)}{P\left(B\right)}`$
+- ### <span id="bayes-theorem"> Bayes' Theorem </span>
+    - ### $`P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A\right)P\left(A\right)}{P\left(B\right)}`$
 
 # Joint Probability
 - ### Joint Probability：$`P\left(A\cap B\right)=P\left(A|B\right)P\left(B\right)=P\left(B|A\right)P\left(A\right)`$
