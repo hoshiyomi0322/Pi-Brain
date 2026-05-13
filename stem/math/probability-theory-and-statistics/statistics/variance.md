@@ -17,7 +17,7 @@
 - ### $`Cov\left(x,~y\right)=σ_{xy}=\frac{D_{xy}}{n}=\frac{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)}{n}`$
     - $`D_{xy}`$ = [Sum of Products of Deviations from the Mean](./correlation-and-regression-analysis/correlation-and-regression-analysis.md#sum-of-products-of-deviations-from-the-mean)
 - ### $`Cov\left(X,~Y\right)=E\left[\left(X-μ_X\right)\left(Y-μ_Y\right)\right]=E\left[\left(X-E\left[X\right]\right)\left(Y-E\left[Y\right]\right)\right]=E\left[XY\right]-E\left[X\right]E\left[Y\right]`$
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }Cov\left(X,~Y\right)=0`$
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }Cov\left(X,~Y\right)=0`$
 
 # Covariance Matrix
 - ### Covariance Matrix
@@ -33,4 +33,4 @@
     - $`E\left[X|Y\right]`$ = [Conditional Expectation](../probability-theory/expected-value.md#conditional-expectation)
 - ### Law of Total Variance
     - ### $`Var\left( X \right)=E\left[ Var\left(X|Y \right) \right]+Var\left( E\left[ X|Y \right] \right)`$
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }Var\left( X|Y \right)=Var\left( X \right)`$
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }Var\left( X|Y \right)=Var\left( X \right)`$

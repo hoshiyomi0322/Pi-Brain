@@ -16,7 +16,7 @@
     - $`D_{xy}=\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)=\sum\limits_{i=1}^{n}{x_iy_i}-nμ_xμ_y`$
 - ### [Covariance](../variance.md#covariance)
 - ### [Correlation Coefficient](#correlation-coefficient-1)
-- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events\right), $`\text{then }X\text{ and }Y\text{ are Zero Correlation}`$
+- ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }X\text{ and }Y\text{ are Zero Correlation}`$
 
 # Correlation Coefficient
 - ### Pearson Correlation Coefficient
