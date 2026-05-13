@@ -1,5 +1,5 @@
 # Parameters of the Equation of the Line in 3D
-- ### [Direction Vector](../function-and-equation.md#direction-vector)：$`\left(α_1,~α_2,~α_3\right)`$
+- ### [Direction Vector](../../function-and-equation.md#direction-vector)：$`\left(α_1,~α_2,~α_3\right)`$
 - ### Point：$`P\left(x_1,~y_1,~z_1\right)`$
 
 # Forms of the Equation of Plane
