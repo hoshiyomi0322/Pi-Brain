@@ -51,9 +51,9 @@
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank ($PR$)
 - ### Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$
-    - #### <span id="standardization">Standardization：$`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$</span>
-    - #### Arithmetic Mean of $z$： $μ_z=0$
-    - #### Standard Deviation of $z$： $σ_z=1$
+    - #### <span id="standardization">Standardization</span>
+        - $`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$
+    - #### $`\left( μ,~σ \right) \overset{Standardize}{\longrightarrow} \left( 0,~1 \right)`$
 
 # Rate of Return (RoR)
 - ### Rate of Return (RoR)：$`r_n=\frac{x_n-x_{n-1}}{x_{n-1}}`$
