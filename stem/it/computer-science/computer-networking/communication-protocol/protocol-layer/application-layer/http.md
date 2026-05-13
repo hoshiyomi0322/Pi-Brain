@@ -21,18 +21,18 @@
     <img src="./image/http-persistent.png" width="50%">
 
     - ### HTTP Non-persistent Connection ([HTTP/0.9, HTTP/1.0](#http09--http10))
-        1. [TCP](tcp.md) connection opened
+        1. [TCP](../transport-layer/tcp.md) connection opened
         2. send and receive Single HTTP request/response
-        3. [TCP](tcp.md) connection closed
+        3. [TCP](../transport-layer/tcp.md) connection closed
     - ### HTTP Persistent Connection ([HTTP/1.1](#http11--http2--http3))
-        1. [TCP](tcp.md) connection opened
+        1. [TCP](../transport-layer/tcp.md) connection opened
         2. send and receive Multiple HTTP requests/responses
-        3. [TCP](tcp.md) connection closed
+        3. [TCP](../transport-layer/tcp.md) connection closed
 - ### Pipelining ([HTTP/1.1](#http11--http2--http3))
     <img src="image/http-pipelining.png" width="50%">
     
     - #### [HTTP HOL Blocking](../../../network-performance/network-performance.md#types-of-hol-blocking)
-- ### Multiplexing over a Single [TCP](tcp.md) Connection ([HTTP/2](#http11--http2--http3))
+- ### Multiplexing over a Single [TCP](../transport-layer/tcp.md) Connection ([HTTP/2](#http11--http2--http3))
     <img src="image/http-multiplexing.png" width="60%">
 
     - #### [Multiplexing](../../../network-access/multiple-access.md#multiplexing)
