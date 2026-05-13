@@ -71,9 +71,9 @@
         ```md
         [Link](#link)
         ```
-        [Operator](../latex.md#operator)
+        [Operator](../latex/latex.md#operator)
         ```md
-        [Operator](../latex.md#operator)
+        [Operator](../latex/latex.md#operator)
         ```
 
 # Image：`![alt text](link)`

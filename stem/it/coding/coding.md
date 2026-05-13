@@ -8,7 +8,7 @@
 # Markup Language
 - ### [Markdown](./markup-language/markdown/markdown.md)
 - ### [HTML](./markup-language/html/html.md)
-- ### [LaTex](./markup-language/latex.md)
+- ### [LaTex](./markup-language/latex/latex.md)
 
 # Query Language
 - ### SQL
