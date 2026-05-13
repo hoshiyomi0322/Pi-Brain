@@ -198,7 +198,7 @@
     |Logical NOT, Negation|$`\lnot`$|`\lnot`, `\neg`|
     |Logical AND|$`\land`$|`\land`|
     |Logical OR|$`\lor`$|`\lor`|
-- ### LaTex Arrow Symbol
+- ### [LaTex Arrow Symbol](latex-arrow-symbol.md)
 
 # Operator
 - ### Not：`\not` + operator
