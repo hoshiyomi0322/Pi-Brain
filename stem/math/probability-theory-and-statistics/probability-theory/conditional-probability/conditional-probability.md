@@ -28,5 +28,6 @@
 
 - ### $\{A_1\cdots A_n\}$ is [Mutually Exclusive and Collectively Exhaustive events](#mutually-exclusive-collectively-exhaustive)
 - ### $P\left(B\right)=\sum\limits_{k=1}^{n}{P\left(A_k\cap B\right)}=\sum\limits_{k=1}^{n}{\left(P\left(B|A_k\right)P\left(A_k\right)\right)}$
-- ### [Bayes' Theorem](#bayes-theorem)：$`P\left(A_i|B\right)=\frac{P\left(A_i\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{\sum\limits_{k=1}^{n}{\left(P\left(B|A_k\right)P\left(A_k\right)\right)}}`$
+- ### [Bayes' Theorem](#bayes-theorem)
+    - ### $`P\left(A_i|B\right)=\frac{P\left(A_i\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{P\left(B\right)}=\frac{P\left(B|A_i\right)P\left(A_i\right)}{\sum\limits_{k=1}^{n}{\left(P\left(B|A_k\right)P\left(A_k\right)\right)}}`$
 
