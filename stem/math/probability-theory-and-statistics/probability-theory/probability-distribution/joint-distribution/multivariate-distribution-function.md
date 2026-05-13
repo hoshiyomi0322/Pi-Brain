@@ -1,10 +1,10 @@
 # Multivariate [Distribution Function](../distribution-function.md)
-- ### Multivariate [Probability Function](../distribution-function.md#probability-function)
-    |Random Variable|Joint Probability Function|
+- ### <span id="multivariate-probability-function">Multivariate [Probability Function](../distribution-function.md#probability-function)：$`f_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$</span>
+    |Random Variable|Multivariate Probability Function|
     |:---:|:---:|
-    |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=\frac{\partial^n}{\partial x_1\cdots\partial x_n}F\left(x_1,~\cdots,~x_n\right)`$|
-    |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=P\left(X_1=x_1,~\cdots,~X_n=x_n\right)=P\left(\left(X_1=x_1\right)\cap\cdots\cap\left(X_n=x_n\right)\right)`$|
-- ### Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)
+    |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Multivariate Probability Density Function (Multivariate PDF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=\frac{\partial^n}{\partial x_1\cdots\partial x_n}F\left(x_1,~\cdots,~x_n\right)`$|
+    |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Multivariate Probability Mass Function (Multivariate PMF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=P\left(X_1=x_1,~\cdots,~X_n=x_n\right)=P\left(\left(X_1=x_1\right)\cap\cdots\cap\left(X_n=x_n\right)\right)`$|
+- ### Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)：$`F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$
     - ### $`\begin{aligned} F\left(x_1,~\cdots,~x_n\right) &= P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right) \\ &= \begin{cases}{\int^{x_1}_{-\infty}{\cdots\int^{x_n}_{-\infty}{f\left(t_1,~\cdots,~t_n\right)\,dt_n\cdots dt_1}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Continuous}\\{\sum\limits_{t_1\le x_1}{\cdots\sum\limits_{t_n\le x_n}{f\left(t_1,~\cdots,~t_n\right)}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Discrete}\end{cases} \end{aligned}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f\left(x_1,~\cdots,~x_n\right)=f_{X_1}\left(x_1\right)\cdots f_{X_n}\left(x_n\right)`$
@@ -17,7 +17,7 @@
 - ### [Covariance Matrix](../../../statistics/variance.md#covariance-matrix)
 
 # Marginal Distribution
-- ### Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i}\left(x_i\right)`$
+- ### <span id="marginal-probability-distribution"> Marginal [Probability Function](../distribution-function.md#probability-function)：$`f_{X_i}\left(x_i\right)`$ </span>
     |Random Variable|Marginal Probability Function|
     |:---:|:---:|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Marginal PDF**<br>$`f_{X_i}\left(x_i\right)=\int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_{i-1} dx_{i+1}\cdots dx_n}}`$|

@@ -10,7 +10,7 @@
 
 # Measure of Central Tendency
 - ### Mean
-    - ### Arithmetic Mean (AM)
+    - ### <span id="arithmetic-mean-am">Arithmetic Mean (AM)</span>
         - ### $`μ=\overline{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
         - ### $μ=E\left[X\right]$
     - ### Geometric Mean (GM)
@@ -25,19 +25,19 @@
 - ### Median
     - ### $`Q_2=\begin{cases}{x_{\left(\frac{n+1}{2}\right)}}&\text{if }n\text{ is odd number}\\{\left(x_{\frac{n}{2}}+x_{\left(\frac{n}{2}+1\right)}\right)\times \frac{1}{2}}&\text{if }n\text{ is even number}\end{cases}`$
 - ### Mode
-    - ### [Mode of Continuous Random Variable](../probability-theory/probability-theory.md#mode-of-continuous--maximum-of-pdf)
+    - ### [Mode of Continuous Random Variable](../probability-theory/probability-theory.md#mode-of-continuous-random-variable)
 
 # Measure of Dispersion (Measure of Variability)
 - ### Range
     - ### $`R=x_{max}-x_{min}`$
 - ### Interquartile Range
     - ### $`IQR=Q_{3}-Q_{1}=P_{75}-P_{25}`$
-- ### Deviation from the Mean
+- ### <span id="deviation-from-the-mean">Deviation from the Mean</span>
     - ### $`D_i=x_i-μ`$
 - ### Mean Absolute Deviation (MAD)
     - ### $`M_D=\frac{\sum\limits_{i=1}^{n}|D_i|}{n}=\frac{\sum\limits_{i=1}^{n}|x_i-μ|}{n}`$
 - ### [Variance](variance.md#variance)
-- ### Standard Deviation (SD)
+- ### <span id="standard-deviation-sd">Standard Deviation (SD)</span>
     - ### $`\sqrt{Var\left(x\right)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-μ\right)^2}{n}}=\sqrt{\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2}`$
     - ### $`\sqrt{Var\left(X\right)}=\sqrt{E\left[\left(X-μ\right)^2\right]}=\sqrt{E\left[\left(X-E\left[X\right]\right)^2\right]}=\sqrt{E\left[X^2\right]-E\left[X\right]^2}`$
 - ### Coefficient of Variation (CV)：$`c_v=\frac{σ}{μ}`$
@@ -51,7 +51,7 @@
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank ($PR$)
 - ### Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$
-    - #### Standardization：$`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$
+    - #### <span id="standardization">Standardization：$`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$</span>
     - #### Arithmetic Mean of $z$： $μ_z=0$
     - #### Standard Deviation of $z$： $σ_z=1$
 

@@ -11,7 +11,7 @@
     |Continuous|Discrete|
     |:---:|:---:|
     |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
-- ### Random Vector (Multivariate Random Variable)
+- ### <span id="random-vector-multivariate-random-variable">Random Vector (Multivariate Random Variable)</span>
     - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Distribution Function](./probability-distribution/distribution-function.md)
@@ -20,7 +20,8 @@
 - ### Random Experiment
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
-- ### [Mode](../statistics/descriptive-statistics.md#mode) of Continuous = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)
+- ### [Variance](../statistics/variance.md#variance)
+- ### <span id="mode-of-continuous-random-variable"></span>[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)
     - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0`$
 - ### [Moment](#moment)
 
@@ -37,7 +38,7 @@
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process
-    - ### Bernoulli Trial
+    - ### <span id="bernoulli-trial">Bernoulli Trial<span>
         - $`\text{Probability of Success}=p`$
         - $`\text{Probability of Failure}=1-p`$
     - ### [Distributions derived from Bernoulli Trials](./probability-distribution/discrete-probability-distribution/distributions-derived-from-bernoulli-trials.md)

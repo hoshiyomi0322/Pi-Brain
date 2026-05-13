@@ -17,7 +17,7 @@
 |Property|Description|
 |:---:|:---:|
 |Notation|$`X\sim B\left(n,~p\right)`$|
-|Situation|Successes in $n$ [Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
+|Situation|Successes in $n$ [Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../../probability-theory.md#bernoulli-trial)|
 |[Random Variable](../../probability-theory.md#random-variable)|$X$ = number of successes|
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{n=\text{number of trials}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`C_x^np^x\left(1-p\right)^{n-x}`$|
@@ -29,7 +29,7 @@
 |Property|Description|
 |:---:|:---:|
 |Notation|$`X\sim PB\left(n,~p_1,~\cdots,~p_n\right)`$|
-|Situation|Successes in $n$ [Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../probability-theory.md#bernoulli-trial) with different probabilities|
+|Situation|Successes in $n$ [Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../../probability-theory.md#bernoulli-trial) with different probabilities|
 |[Random Variable](../../probability-theory.md#random-variable)|$X$ = number of successes|
 |Parameters|$`\begin{cases}{n=\text{number of trials}}\\ {p_1,~\cdots,~p_n=\text{Probabilities of Success}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)||
@@ -41,7 +41,7 @@
 |Property|Description|
 |:---:|:---:|
 |Notation|$`X\sim Geom\left(p\right)`$|
-|Situation|the first success in an infinite sequence of [Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
+|Situation|the first success in an infinite sequence of [Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../../probability-theory.md#bernoulli-trial)|
 |[Random Variable](../../probability-theory.md#random-variable)|$X$ = number of trials|
 |Parameters|$`p=\text{probability of success}`$|
 |[PMF](../distribution-function.md#probability-function)|$`p\left(1-p\right)^{x-1}`$|
@@ -53,7 +53,7 @@
 |Property|Description|
 |:---:|:---:|
 |Notation|$`X\sim NB\left(r,~p\right)`$|
-|Situation|the $r$-th success in an infinite sequence of [Independent](../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../probability-theory.md#bernoulli-trial)|
+|Situation|the $r$-th success in an infinite sequence of [Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events) [Bernoulli Trials](../../probability-theory.md#bernoulli-trial)|
 |[Random Variable](../../probability-theory.md#random-variable)|$X$ = number of failures|
 |Parameters|$`\begin{cases}{p=\text{probability of success}}\\{r=\text{number of successes}}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`H^r_x\cdot p^r\left(1-p\right)^x`$|
