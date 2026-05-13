@@ -5,7 +5,7 @@
 
 # Joint Probability
 - ### Joint Probability：$`P\left(A\cap B\right)=P\left(A|B\right)P\left(B\right)=P\left(B|A\right)P\left(A\right)`$
-- ### Independent events, Mutually Exclusive events
+- ### <span id="independent-events-mutually-exclusive-events">Independent events, Mutually Exclusive events</span>
     |Independent events|Mutually Exclusive events|
     |:---:|:---:|
     |<img src="./image/independent.png" width="60%">|<img src="./image/mutually-exclusive.png" width="60%">|
@@ -18,7 +18,7 @@
 - ### Mutually Exclusive events, Collectively Exhaustive events
     - #### [Mutually Exclusive events](#independent-events-mutually-exclusive-events)：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)`$
     - #### Collectively Exhaustive events：$`P\left(A\cup B\right)=S`$
-    - #### Mutually Exclusive and Collectively Exhaustive events：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)=S`$
+    - #### <span id="mutually-exclusive-and-collectively-exhaustive-events">Mutually Exclusive and Collectively Exhaustive events：$`P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)=S`$</span>
 
 # Law of Total Probability
 <div align="center">
