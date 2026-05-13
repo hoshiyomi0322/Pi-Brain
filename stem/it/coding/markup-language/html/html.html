@@ -116,10 +116,13 @@
         <hr> <!-- hr:水平線 -->
 
         <!-- a:超連結 -->
-        <a href="https://google.com">google</a><br> <!-- href:包含連結的URL位址 -->
+        <a href="https://google.com">link text</a><br> <!-- href:包含連結的URL位址 -->
+
+            <a href="file path">link text</a><br>
+            <a href="#identifier">link text</a><br>
 
             <!-- target:指定在什麼地方打開連結 -->
-            <a target="_blank" href="https://google.com">google</a><br>
+            <a target="_blank" href="https://google.com">link text</a><br>
                 <!--
                 _self: 預設值，在當前視窗開啟
                 _blank: 在新視窗開啟
@@ -129,7 +132,7 @@
                 -->
             
             <!-- rel:指定當前頁面和連結目標彼此之間的關係 -->
-            <a rel="nofollow noopener" href="https://google.com/">google</a><br>
+            <a rel="nofollow noopener" href="https://google.com/">link text</a><br>
                 <!-- 可用空白分開多個值 -->
                     <!--
                     nofollow: 禁止搜尋引擎將該連結與你的網頁關聯在一起，或禁止從你的網頁索引連結網頁
@@ -458,6 +461,7 @@
         <p>Never gonna give 
             <span style="color:red">you</span> up
         </p><br>
+        <span id="identifier">text</span>
 
         <!-- div:區塊容器元素 -->
         <div style="color:blue">
