@@ -1,5 +1,5 @@
 - ### L'Hopital's Rule：$`\lim\limits_{x\to c}{\frac{f\left(x\right)}{g\left(x\right)}}=\lim\limits_{x\to c}{\frac{f^{\prime\left(x\right)}}{g^{\prime\left(x\right)}}}`$
-    - #### conditions：$\lim\limits_{x\to c}{f\left(x\right)}=\lim\limits_{x\to c}{g\left(x\right)}=0\text{ or }\pm\infty$
+    - #### conditions：$`\lim\limits_{x\to c}{f\left(x\right)}=\lim\limits_{x\to c}{g\left(x\right)}=0\text{ or }\pm\infty`$
 - ### [Indeterminate Form](#indeterminate-form)：$`\frac{0}{0},~\frac{\infty}{\infty},~\left(0\times\infty\right),~\left(\infty-\infty\right),~\infty^0,~0^0,~1^\infty`$
     - #### [Exponential Indeterminate Forms](#exponential-indeterminate-forms)：$`\infty^0,~0^0,~1^\infty`$
 
