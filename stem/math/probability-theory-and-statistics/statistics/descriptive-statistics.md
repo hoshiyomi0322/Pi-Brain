@@ -24,7 +24,7 @@
         - ### $`\text{If }x_1=x_2=\cdots =x_n,~\text{then }\frac{x_1+x_2+\cdots +x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}`$
 - ### Median
     - ### $`Q_2=\begin{cases}{x_{\left(\frac{n+1}{2}\right)}}&\text{if }n\text{ is odd number}\\{\left(x_{\frac{n}{2}}+x_{\left(\frac{n}{2}+1\right)}\right)\times \frac{1}{2}}&\text{if }n\text{ is even number}\end{cases}`$
-- ### Mode
+- ### <span id="mode">Mode</span>
     - ### [Mode of Continuous Random Variable](../probability-theory/probability-theory.md#mode-of-continuous-random-variable)
 
 # Measure of Dispersion (Measure of Variability)

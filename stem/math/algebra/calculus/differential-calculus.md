@@ -22,7 +22,7 @@
     - ### $`y-f\left(a\right)=f^\prime\left(a\right)\left(x-a\right)`$
 - ### Concavity
     - ### $`\text{Concavity of }f\left(x\right)\text{ at }\left(x=α\right)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}\left(α\right)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}\left(α\right)<0}\end{cases}`$
-- ### Extremum
+- ### <span id="extremum"> Extremum </span>
     - ### $`\begin{cases}{α=\text{Minimum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)>0}\\ {α=\text{Maximum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0}\end{cases}`$
 - ### Inflection Point
     - ### $`α=\text{Inflection Point},~\text{when }f^{\prime\prime}\left(α\right)=0\text{ and the concavity changes}`$
