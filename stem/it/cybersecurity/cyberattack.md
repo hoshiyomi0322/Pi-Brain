@@ -22,7 +22,7 @@
       - #### Cross-Site Scripting (XSS)
     - #### SQL injection
 - ### Account Takeover (ATO)
-- ### [IP Address Spoofing](../computer-science/computer-networking/communication-protocol/protocol-layer/ip.md#ip-address-spoofing)
+- ### [IP Address Spoofing](../computer-science/computer-networking/communication-protocol/protocol-layer/network-layer/ip.md#ip-address-spoofing)
 
 # SQL injection
 - ### SQLmap
