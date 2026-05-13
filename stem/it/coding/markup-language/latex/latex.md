@@ -340,3 +340,7 @@
     ```latex
     \text{If } a=0 ,~ \text{then } b=0
     ```
+- ### $`a\overset{to}{\longrightarrow}b`$
+    ```latex
+    a \overset{to}{\longrightarrow} b
+    ```
