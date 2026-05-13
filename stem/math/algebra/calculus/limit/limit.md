@@ -28,7 +28,7 @@
         - $x=1.0\cdots 1$
     - #### $`\lim\limits_{x\to 1^-}{\left(2+\left[x\right]+\left[1-x\right]\right)}=\lim\limits_{x\to 1^+}{\left(2+\left[x\right]+\left[1-x\right]\right)}=2 \Rightarrow \lim\limits_{x\to 1}{\left(2+\left[x\right]+\left[1-x\right]\right)}=2`$
 
-# Squeeze Theorem \left(Sandwich Theorem\right)
+# Squeeze Theorem (Sandwich Theorem)
 <div align="center"><img src="./image/squeeze-theorem.png" width="35%"></div>
 
 - ### $`g\left(x\right)\leq f\left(x\right)\leq h\left(x\right)`$
