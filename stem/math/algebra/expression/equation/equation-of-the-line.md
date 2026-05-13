@@ -6,7 +6,7 @@
 - ### Intercept
     - ### $`\left(x_0,~0\right),~\left(0,~y_0\right)`$
 - ### Vector
-    - #### [Normal Vector](../expression.md#normal-vector)：$`\left(a,~b\right)`$
+    - #### <span id="normal-vector">[Normal Vector](../expression.md#normal-vector)：$`\left(a,~b\right)`$</span>
     - #### [Direction Vector](../expression.md#direction-vector)：$`\left(α_1,~α_2\right)`$
 - #### Point：$`P\left(x_1,~y_1\right)`$
 
