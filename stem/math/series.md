@@ -15,7 +15,7 @@
 - ### Harmonic Series：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n}}=1+\frac{1}{2}+\frac{1}{3}+\cdots`$
 - ### Alternating Harmonic Series：$`\sum\limits_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}}{n}}=1-\frac{1}{2}+\frac{1}{3}+\cdots=\ln{2}`$
     - #### Madhava–Leibniz Series \left(Leibniz Formula for π\right)：$`\sum\limits_{n=1}^{\infty}{\frac{\left(-1\right)^{n}}{2n+1}}=1-\frac{1}{3}+\frac{1}{5}+\cdots=\arctan{1}=\frac{π}{4}`$
-- ### P-Series：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}=1+\frac{1}{2^p}+\frac{1}{3^p}+\cdots`$
+- ### <span id="p-series"> P-Series：$`\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}=1+\frac{1}{2^p}+\frac{1}{3^p}+\cdots`$ </span>
 
 # Power Series
 - ### Power Series：$`f\left(x\right)=\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n} = a_0+a_1\left(x-c\right)^1+a_2\left(x-c\right)^2+\cdots`$
@@ -39,7 +39,7 @@
 	- $`\cosh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n}}{\left(2n\right)!}=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots`$
 
 # Other Series
-- ### Alternating Series：$`\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0`$
+- ### <span id="alternating-series"> Alternating Series：$`\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0`$ </span>
 - ### Telescoping Series：$`\sum\limits_{i=1}^{n}{\left(a_i-a_{i+1}\right)}=\left(a_1-a_2\right)+\left(a_2-a_3\right)+\cdots+\left(a_n-a_{n+1}\right)=a_1-a_{n+1}`$
 
 # Convergence Tests

@@ -61,7 +61,7 @@
 - ### Integral test：$`\sum\limits_{n=1}^{\infty}a_n=\sum\limits_{x=1}^{\infty}f\left(x\right)`$
     - $`\text{If }\int_{1}^{\infty}{f\left(x\right)\,dx}\text{ converges},~\text{then }\sum\limits_{n=1}^{\infty}a_n\text{ converges}`$
     - $`\text{If }\int_{1}^{\infty}{f\left(x\right)\,dx}\text{ diverges},~\text{then }\sum\limits_{n=1}^{\infty}a_n\text{ diverges}`$
-- ### [Alternating Series](../../../series.md#alternating-series\right) test：$`\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0`$
+- ### [Alternating Series](../../../series.md#alternating-series) test：$`\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0`$
     |Conditions|Convergent, Divergent|
     |:---:|:---:|
     |meets both conditions|$`\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n}\text{ converges}`$|
