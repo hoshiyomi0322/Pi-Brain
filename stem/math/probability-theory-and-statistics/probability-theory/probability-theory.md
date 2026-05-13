@@ -17,7 +17,7 @@
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Distribution Function](./probability-distribution/distribution-function.md)
     - ### [Joint Distribution](./probability-distribution/probability-distribution.md#joint-distribution)
-- ### [Random Process (Stochastic Process)](#random-process-stochastic-process-1)
+- ### [Random Process (Stochastic Process)](#random-process-stochastic-process)
 - ### Random Experiment
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
