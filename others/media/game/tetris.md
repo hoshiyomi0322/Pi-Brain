@@ -27,6 +27,7 @@
 - ### TKI (開幕TSD)
 - ### MKO Stacking
 - ### [Perfect Clear](#perfect-clear-pc) Opener (PCO)
+- ### Mountainous Stacking 2
 - ### Gamushiro Stacking
 
 # Setup
