@@ -13,6 +13,7 @@
         - POP version 3 (POP3)
 - ### Multipurpose Internet Mail Extensions (MIME)
     - #### [MIME Type (Media Type)](../../computer-networking.md#mime-typemedia-type)
+- ### Dynamic Host Configuration Protocol (DHCP)
 - ### Telnet：Remote login to hosts
 - ### Remote Desktop
 
@@ -61,7 +62,7 @@
     - #### Layer：[Transport layer](#transport-layer) < TLS/SSL < [Application layer](#application-layer)
     - #### Workflow：TCP Three-way Handshake → TLS Handshake → Encrypted Data Transfer
     - #### Protocol + S = Protocol Secure (Protocol over TLS/SSL) = Protocol + [TLS/SSL](#tlsssl)
-- ### Automatic Repeat-reQuest(ARQ)
+- ### Automatic Repeat-reQuest (ARQ)
     - #### Layer：[Data link layer](#data-link-layer), [Transport layer](#transport-layer)
     - #### Stop-and-Wait ARQ
     - #### Go-Back-N ARQ
