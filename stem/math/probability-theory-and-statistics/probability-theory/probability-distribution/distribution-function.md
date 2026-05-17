@@ -26,6 +26,9 @@
     - #### $`P\left(a<X\le b\right)=P\left(X\le b\right)-P\left(X\le a\right)=F\left(b\right)-F\left(a\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a< x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`P\left(a\le X\le b\right)=P\left(X\le b\right)-P\left(X<a\right)=F\left(b\right)-F\left(a^-\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`\text{if }X\text{ is Continuous},~\text{then }P\left(a\le X\le b\right)=P\left(a< X\le b\right)=P\left(a\le X< b\right)=P\left(a< X< b\right)=\int_{a}^{b}{f\left(x\right)\,dx}`$
+- ### Probability of an Absolute Value
+    - #### $`P(|X \le a|)=P(-a \le X \le a)`$
+    - #### $`P(|X \ge a|)=P(X \ge a)+P(X \le -a)`$
 
 # Transformations of [Random Variables](../probability-theory.md#random-variable)
 - ### $X$ is Continuous

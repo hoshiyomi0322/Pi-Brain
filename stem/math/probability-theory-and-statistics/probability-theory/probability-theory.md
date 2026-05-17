@@ -27,7 +27,8 @@
 - ### [Moment](#moment)
 
 # Inequality
-- ### Chebyshev's Inequality：$`P\left(\left|X-μ\right|\ge kσ\right)\le \frac{1}{k^2}`$
+- ### Chebyshev's Inequality
+    - ### $`P\left(\left|X-μ\right|\ge kσ\right)\le \frac{1}{k^2}`$
 - ### Markov's Inequality
 
 # Limit Theorems of Probability
@@ -51,7 +52,8 @@
 - ### Brownian Motion
 
 # Moment
-- ### nth Moment：$`μ_n=E\left[\left(X-c\right)^{n}\right]=\begin{cases}{\int_{-\infty}^{\infty}{(x-c)^nf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{((x-c)^n\cdot f(x))}}&\text{if }X\text{ is Discrete}\end{cases}`$
+- ### nth Moment
+    - ### $`μ_n=E\left[\left(X-c\right)^{n}\right]=\begin{cases}{\int_{-\infty}^{\infty}{(x-c)^nf(x)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_x{((x-c)^n\cdot f(x))}}&\text{if }X\text{ is Discrete}\end{cases}`$
 - ### Type
     ||nth Raw Moment|nth Central Moment|nth Standardized Moment|
     |:---:|:---:|:---:|:---:|
