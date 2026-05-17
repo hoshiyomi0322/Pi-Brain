@@ -9,6 +9,7 @@
     - ### Large-Scale Integration (LSI)
     - ### Very Large-Scale Integration (VLSI)
     - ### Ultra-Large-Scale Integration (ULSI)
+- ### Front Opening Unified Pod (FOUP)
 - ### Yield = 良品數實際生産數
 
 # Semiconductor Manufacturing Process
