@@ -1,5 +1,7 @@
 # Routing
 - ### Routing Algorithm
+    - #### Link State Routing 
+    - #### Distance Vector Routing
 - ### Routing Table
 - ### [Router](networking-hardware.md#router)
 - ### Traceroute (tracert)
