@@ -48,16 +48,7 @@
 # Topological Sort
 - ### Kahn's Algorithm
 
-# Graph Search Algorithm
-- ### Graph Traversal
-    - ### Depth-First-Search (DFS)
-    - ### Breadth-First-Search (BFS)
-    - ### Kosaraju's Algorithm
-    - ### Tarjan's Algorithm
-- ### Shortest Path Algorithm
-    - ### Dijkstra's Algorithm
-    - ### Bellman-Ford Algorithm
-    - ### Floyd-Warshall Algorithm
-    - ### A* Search Algorithm
-
+# Graph Algorithms
+- ### [Graph Traversal](./graph-algorithms/graph-traversal.md)
+- ### [Shortest Path Algorithm](./graph-algorithms/shortest-path-algorithm.md)
 
