@@ -165,6 +165,7 @@
 |Angle|$\angle$|`\angle`|
 |Triangle|$\triangle$|`\triangle`|
 |Square|$\square$|`\square`|
+|h-bar|$\hbar$|`\hbar`|
 - ### Dot
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
