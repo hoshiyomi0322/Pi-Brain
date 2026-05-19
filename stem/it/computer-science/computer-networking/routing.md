@@ -27,7 +27,9 @@
     - #### Stub AS
     - #### Multihomed AS
     - #### Transit AS
-- ### Inter-AS, Intra-AS
+- ### Routing Domain
+    - #### Inter-AS
+    - #### Intra-AS
 - ### Border Gateway Protocol (BGP)
     - #### Internal BGP (iBGP)
     - #### External BGP (eBGP)
