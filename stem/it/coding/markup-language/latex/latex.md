@@ -59,13 +59,15 @@
 # Brackets
 |Output|LaTex|
 |:---:|:---:|
-|$`(a+b)`$|`(a+b)`|
-|$`[a+b]`$|`[a+b]`|
-|$`\{a+b\}`$|`\{a+b\}`|
+|$`(a+b)`$|`( a+b )`|
+|$`[a+b]`$|`[ a+b ]`|
+|$`\{a+b\}`$|`\{ a+b \}`|
+|$`\|a+b\|`$|`\\| a+b \\|`|
+|$`\\|a+b\\|`$|`\\\| a+b \\\|`|
 |$`\set{S}`$|`\set{S}`|
-|$`\langle{a+b}\rangle`$|`\langle{a+b}\rangle`|
-|$`\|a+b\|`$|`\|a+b\|`|
-|$`\\|a+b\\|`$|`\\|a+b\\|`|
+|$`\lceil a+b \rceil`$|`\lceil a+b \rceil`|
+|$`\lfloor a+b \rfloor`$|`\lfloor a+b \rfloor`|
+|$`\langle a+b \rangle`$|`\langle a+b \rangle`|
 - ### Case：`\begin{case}` + `{text}&{text}` + `\\`+$`\cdots`$+`\\` + `{text}&{text}` + `\end{case}`
     - $`\begin{cases}{a=35}\\ {b=69}\\ {c=77}\end{cases}`$
         ```latex
