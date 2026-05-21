@@ -12,11 +12,13 @@
 
 # Geometric Interpretation of Partial Derivatives
 - ### Slope of the Tangent Line
-    - ### $`\frac{\partial}{\partial x_i}f\left(α_1,~\cdots,~α_n\right)=\text{the Slope of the Tangent Line to }f\left(α_1,~\cdots,~x_i,~\cdots,~α_n\right)\text{ at }\left(x_i=α_i\right)`$
-- ### $`z=f\left(x,~y\right)`$
+    - ### $`\frac{\partial}{\partial x_i}f\left(α_1,~\cdots,~α_n\right) = \text{the Slope of the Tangent Line to }f\left(α_1,~\cdots,~x_i,~\cdots,~α_n\right)\text{ at }\left(x_i=α_i\right)`$
+- ### Linear Approximation of $`f\left(x_1,~\cdots,~x_n\right)`$ at $`\left(α_1,~\cdots,~α_n\right)`$
+    - ### $`L\left( x_1,~\cdots,~x_n \right)=f\left( α_1,~\cdots,~α_n \right)+\sum\limits^n_{i=1}{\left( \frac{\partial f\left( α_1,~\cdots,~α_n \right)}{\partial x_i}\left(x_i-α_i\right) \right)}`$
+- ### eg：$`z=f\left(x,~y\right)`$
     - ### $`\frac{\partial}{\partial x}f\left(a,~b\right)=\text{the Slope of the Tangent Line to }f\left(x,~b\right)\text{ at }\left(x=a\right)`$
         <img src="./image/slope-of-the-tangent-line.png" width="50%">
-    - ### [Equation of Tangent Plane](../../expression/equation/equation-of-plane.md#point-slope-form) to $`f\left(x,~y\right)`$ at $`\left(a,~b,~f\left(a,~b\right)\right)`$
+    - ### Linear Approximation：[Equation of Tangent Plane](../../expression/equation/equation-of-plane.md#point-slope-form) to $`f\left(x,~y\right)`$ at $`\left( a,~b \right)`$
         - ### $`z-f\left(a,~b\right)=\frac{\partial f\left(a,~b\right)}{\partial x}\left(x-a\right)+\frac{\partial f\left(a,~b\right)}{\partial y}\left(y-b\right)`$
             <img src="./image/equation-of-tangent-plane.png" width="60%">
 
