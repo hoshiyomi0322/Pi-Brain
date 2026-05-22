@@ -29,6 +29,8 @@
 - ### Probability of an Absolute Value
     - #### $`P(|X \le a|)=P(-a \le X \le a)`$
     - #### $`P(|X \ge a|)=P(X \ge a)+P(X \le -a)`$
+    - #### $`P(|X-b|\le a)=P(-a+b \le X \le a+b)`$
+    - #### $`P(|X-b|\ge a)=P(X \ge a+b)+P(X \le -a+b)`$
 
 # Transformations of [Random Variables](../probability-theory.md#random-variable)
 - ### $X$ is Continuous
