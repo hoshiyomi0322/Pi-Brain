@@ -11,12 +11,20 @@
 - ### Properties
     - #### $`Var\left(c\right)=0`$
     - #### $`Var\left(aX+b\right)=a^2Var\left(X\right)`$
-    - #### $`Var\left(aX+bY\right)=a^2Var\left(X\right)+b^2Var\left(Y\right)+2ab\cdot Cov\left(X,Y\right)`$
+
+# Variance of [Joint Distribution](./probability-distribution/joint-distribution/joint-distribution-function.md)
+- ### $`Var\left(aX+bY\right)=a^2Var\left(X\right)+b^2Var\left(Y\right)+2ab\cdot Cov\left(X,Y\right)`$
+    - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then } Var\left(aX+bY\right)=a^2Var\left(X\right)+b^2Var\left(Y\right) `$
+
+# Variance of [Multivariate Distribution](../probability-theory/probability-distribution/joint-distribution/multivariate-distribution-function.md)
+- ### $`Var\left(c_1X_1+\cdots+c_nX_n\right)=\sum\limits_{i=1}^n{ {c_i}^2 Var\left(X_i\right)}+2\sum\limits_{1 \le i<j \le n}{c_ic_j Cov\left(X_i,~X_j\right)}`$
+    - ### $`\text{If } X_1,~\cdots,~X_n \text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then } Var\left(c_1X_1+\cdots+c_nX_n\right)={c_1}^2 Var\left(X_1\right)+\cdots+{c_n}^2 Var\left(X_n\right) `$
 
 # Covariance
 - ### $`Cov\left(x,~y\right)=σ_{xy}=\frac{D_{xy}}{n}=\frac{\sum\limits_{i=1}^{n}\left(x_i-μ_x\right)\left(y_i-μ_y\right)}{n}`$
     - $`D_{xy}`$ = [Sum of Products of Deviations from the Mean](./correlation-and-regression-analysis/correlation-and-regression-analysis.md#sum-of-products-of-deviations-from-the-mean)
 - ### $`Cov\left(X,~Y\right)=E\left[\left(X-μ_X\right)\left(Y-μ_Y\right)\right]=E\left[\left(X-E\left[X\right]\right)\left(Y-E\left[Y\right]\right)\right]=E\left[XY\right]-E\left[X\right]E\left[Y\right]`$
+    - $`Cov\left(X,~Y\right)=Cov\left(Y,~X\right)`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events), $`\text{then }Cov\left(X,~Y\right)=0`$
 
 # Covariance Matrix

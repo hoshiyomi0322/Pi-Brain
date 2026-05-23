@@ -25,6 +25,7 @@
 - ### $`E\left[g\left(X_1 ,~ \cdots ,~ X_n\right)\right] = \begin{cases}{ \int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{g\left(x_1 ,~ \cdots ,~ x_n\right)\cdot f\left(x_1,~\cdots,~x_n\right)\,dx_1\cdots dx_n}} }&\text{if }\left(X_1 ,~ \cdots ,~ X_n\right)\text{ is Continuous} \\ { \sum\limits_{x_1}{\cdots\sum\limits_{x_n}{\left(g\left(x_1 ,~ \cdots ,~ x_n\right)\cdot f\left(x_1,~\cdots,~x_n\right)\right)}} }&\text{if }\left(X_1 ,~ \cdots ,~ X_n\right)\text{ is Discrete}\end{cases}`$
     - $`X_1 ,~ \cdots ,~ X_n`$ = [Random Variable](probability-theory.md#random-variable)
     - $`f\left(x,~y\right)`$ = [Multivariate Probability Function](./probability-distribution/joint-distribution/multivariate-distribution-function.md#multivariate-probability-function)
+- ### $`E\left[c_1X_1+\cdots+c_nX_n\right]=c_1E\left[X_1\right]+\cdots+c_nE\left[X_n\right]`$
 - ### Mean Vector
     - ### $`\left( E\left[X_1\right],~\cdots,~E\left[X_n\right] \right)^T`$
 

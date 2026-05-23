@@ -3,7 +3,7 @@
     |:---:|:---:|:---:|
     |**Function**|$`f\left( x_1 ,~ \cdots ,~ x_n \right)`$|$`\vec{f}\left( x_1 ,~ \cdots ,~ x_n \right)`$|
     |**Function Value**|Scalar|Vector|
-    - ### Vector Field：$`\vec{f}\left( x_1 ,~ \cdots ,~ x_n \right) = \left( f_1\left( x_1,~\cdots,~x_n \right),~\cdots,~f_m\left( x_1,~\cdots,~x_n \right) \right)`$
+    - #### Vector Field：$`\vec{f}\left( x_1 ,~ \cdots ,~ x_n \right) = \left( f_1\left( x_1,~\cdots,~x_n \right),~\cdots,~f_m\left( x_1,~\cdots,~x_n \right) \right)`$
 - ### $`\nabla=\left( \frac{\partial}{\partial x_1} ,~ \cdots ,~ \frac{\partial}{\partial x_n} \right)`$
 - ### Vector Operator
     |Vector Operator|Transform|
@@ -12,6 +12,8 @@
     |[**Divergence**](#divergence)|$`\vec{f}~(\text{Vector Field}) \to \nabla\cdot\vec{f}~(\text{Scalar Field})`$|
     |[**Curl**](#curl)|$`\vec{f}~(\text{Vector Field}) \to \nabla\times\vec{f}~(\text{Vector Field})`$|
     |[**Laplacian Operator (Laplacian)**](#laplacian-operator-laplacian)|$`f~(\text{Scalar Field}) \to \nabla\cdot\nabla f~(\text{Scalar Field})`$|
+- ### Jacobian Matrix
+    - ### $`J = \begin{bmatrix} {\frac{\partial \vec{f}}{\partial x_1}}&{\cdots}&{\frac{\partial \vec{f}}{\partial x_n}} \end{bmatrix} = \begin{bmatrix} {\nabla f_1} \\ \vdots \\ {\nabla f_m} \end{bmatrix} = \begin{bmatrix} {\frac{\partial f_1}{\partial x_1}}&{\cdots}&{\frac{\partial f_1}{\partial x_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial f_m}{\partial x_1}}&{\cdots}&{\frac{\partial f_m}{\partial x_n}} \end{bmatrix}`$
 
 # Gradient
 - ### $`\nabla f=\left( \frac{\partial f}{\partial x_1} ,~ \cdots ,~ \frac{\partial f}{\partial x_n} \right)`$
