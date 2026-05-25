@@ -108,6 +108,12 @@
 # History of the Internet
 - ### [History of the Internet](history-of-the-internet.md)
 
+# Web Service
+- ### Representational State Transfer (REST)
+    - ### RESTful
+- ### Simple Object Access Protocol (SOAP)
+- ### Web Services Description Language (WSDL)
+
 # MIME Type(Media Type)
 - ### Text
     - #### `text/plain` (.txt)

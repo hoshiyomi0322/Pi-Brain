@@ -2,7 +2,7 @@
 - ### Routing Algorithm
     |Routing|Link State Routing|Distance Vector Routing|
     |:---:|:---:|:---:|
-    |**Algorithm**|Dijkstra's Algorithm|Bellman-Ford Algorithm|
+    |**Algorithm**|[Dijkstra's Algorithm](../../coding/programming-language/data-structures-and-algorithms/data-structure/graph/graph-algorithms/shortest-path-algorithm.md#dijkstras-algorithm)|[Bellman-Ford Algorithm](../../coding/programming-language/data-structures-and-algorithms/data-structure/graph/graph-algorithms/shortest-path-algorithm.md#bellman-ford-algorithm)|
     |**Topology View**|Global View|Routing by Rumor|
     |**What is sent**|Link State Advertisements (LSA)|Routing Table|
     |**To Whom**|Flooding|Neighbors Only|
