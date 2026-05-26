@@ -21,7 +21,7 @@
 - ### $`\text{Correction Factor}=\frac{\text{Sample Size}}{\text{Degree of Freedom}}=\frac{n}{n-1}`$
 - ### Degree of Freedom：$`df=n-1`$
 
-# Methods of Point Estimatio
+# Methods of Point Estimation
 - ### Maximum Likelihood Estimation (MLE)
 - ### Minimum Mean Square Error (MMSE)
 - ### Method of [Moments](../../../probability-theory/probability-theory.md#moment-1)
