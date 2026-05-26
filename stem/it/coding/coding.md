@@ -7,8 +7,9 @@
 
 # Markup Language
 - ### [Markdown](./markup-language/markdown/markdown.md)
-- ### [HTML](./markup-language/html/html.md)
 - ### [LaTex](./markup-language/latex/latex.md)
+- ### [HyperText Markup Language (HTML)](./markup-language/html/html.md)
+- ### Extensible Markup Language (XML)
 
 # Query Language
-- ### SQL
+- ### Structured Query Language (SQL)
