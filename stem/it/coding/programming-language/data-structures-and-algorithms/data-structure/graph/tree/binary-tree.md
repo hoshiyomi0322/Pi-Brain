@@ -13,6 +13,8 @@
     - ### Huffman Coding
 - ### Fibonacci Tree
 - ### Threaded Binary Tree
+- ### Segment Tree
+- ### Binary Indexed Tree (Fenwick Tree)
 
 # Binary Tree Traversal
 
