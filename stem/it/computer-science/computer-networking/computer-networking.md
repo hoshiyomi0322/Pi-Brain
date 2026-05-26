@@ -109,8 +109,8 @@
 - ### [History of the Internet](history-of-the-internet.md)
 
 # Web Service
-- ### Representational State Transfer (REST)
-    - ### RESTful
+- ### Representational State Transfer (REST, RESTful)
+- ### Remote Procedure Call (RPC)
 - ### Simple Object Access Protocol (SOAP)
 - ### Web Services Description Language (WSDL)
 
