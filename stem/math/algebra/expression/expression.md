@@ -11,6 +11,8 @@
     |:---:|:---:|
     |Function is symmetric with respect to the Y-axis| Function is symmetric with respect to the Origin|
     |$`f\left(x\right)=f\left(-x\right)`$|$`-f\left(x\right)=f\left(-x\right)`$|
+- ### Concave Function, Convex Function
+    - ### Jensen's Inequality
 - ### Inverse Function
     - #### $`f^{-1}\left(y\right)=x,~f\left(x\right)=y`$
     - #### $`f^{-1}\left(f\left(x\right)\right)=x,~f\left(f^{-1}\left(y\right)\right)=y`$
