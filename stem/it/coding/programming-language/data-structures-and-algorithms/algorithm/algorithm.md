@@ -1,23 +1,14 @@
 # Algorithm
 - ### [Complexity](complexity.md)
-
-# Sorting Algorithm and Search Algorithm
-- ### [Sorting Algorithm](sorting-algorithm.md)
-- ### [Search Algorithm](search-algorithm.md)
-
-# Recursion
+- ### Sorting Algorithm and Search Algorithm
+    - ### [Sorting Algorithm](sorting-algorithm.md)
+    - ### [Search Algorithm](search-algorithm.md)
 - ### [Recursion](recursion.md)
+- ### [Dynamic Programming (DP)](dynamic-programming.md)
 
 # Two Pointers
 - ### Left and Right Pointers
 - ### Fast and Slow Pointers
-
-# Dynamic Programming(DP)
-- ### Elements of DP
-    - ### optimal substructure
-    - ### overlapping subproblems
-- ### Longest Common Subsequence
-- ### Knapsack problem
 
 # Combinatorial Optimization
 - ### Travelling Salesman Problem(TSP)
@@ -29,7 +20,7 @@
 - ### Branch and Bound
 
 # Euclidean Algorithm
-- ### Greatest Common Divisor(GCD)
+- ### Greatest Common Divisor (GCD)
 - ### Greatest Common Divisor
 - ### Extended Euclidean Algorithm
 
