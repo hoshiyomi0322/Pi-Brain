@@ -16,10 +16,10 @@
 - ### Operator Overloading
 
 # Types of Programming Language
-- ### [C](c.md)
 - ### Object-Oriented Programming(OOP)
     - ### C++
     - ### Python
     - ### PHP
-    - ### Java
+    - ### [Java](./oop/java.md)
+- ### [C](c.md)
 

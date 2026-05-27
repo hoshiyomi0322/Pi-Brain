@@ -3,7 +3,7 @@
 - ### C++
 - ### Python
 - ### PHP
-- ### Java
+- ### [Java](./programming-language/oop/java.md)
 
 # Markup Language
 - ### [Markdown](./markup-language/markdown/markdown.md)
