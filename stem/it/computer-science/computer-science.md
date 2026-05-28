@@ -6,10 +6,11 @@
 # Abstraction
 - ### Rationale：a mental model that removes or hides complex details
 - ### Information Hiding
-- ### Abstract Data Type(ADT)
+- ### Abstract Data Type (ADT)
 
 # [Computer Organization and Architecture](./computer-organization-and-architecture/computer-organization-and-architecture.md)
-- ### [Instruction Set Architecture(ISA)](./computer-organization-and-architecture/isa/isa.md)
+- ### [Instruction Set Architecture (ISA)](./computer-organization-and-architecture/isa/isa.md)
+- ### [Build Process](./computer-organization-and-architecture/build-process.md)
 - ### Pipeline
 - ### System Clock
 
