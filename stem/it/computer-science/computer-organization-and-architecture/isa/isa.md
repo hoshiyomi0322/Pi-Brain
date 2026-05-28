@@ -5,6 +5,7 @@
     - ### Literal Pool
 - ### Instruction Format
     - ### Instruction Length
+- ### [Assembler Directives](#assembler-directives-1)
 - ### [Register](#register-1)
 - ### [Addressing mode](addressing-mode.md)
 
@@ -34,6 +35,13 @@
 - ### Byte
 - ### Halfword
 - ### Word
+
+# Assembler Directives
+- ### Assembler Directives：commands in Assembly Language that instruct the assembler how to translate the code
+- ### Types of Assembler Directives
+    - ### Data Directives：allocate memory and assigns initial values to variables or constants
+    - ### Segment Directives：instruct the assembler regarding the specific memory segment where code or data should be allocated
+    - ### Macro Directives：define a block of code (macro) that can be reused multiple times
 
 # Register
 - ### General-Purpose Register (GPR)
