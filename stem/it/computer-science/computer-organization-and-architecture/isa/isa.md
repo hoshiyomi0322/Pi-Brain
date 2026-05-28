@@ -1,6 +1,6 @@
 # Instruction Set Architecture(ISA)
 - ### [Types of ISA](#types-of-isa-1)
-- ### Data Types
+- ### [Data Type](#data-type-1)
 - ### Literal
     - ### Literal Pool
 - ### Instruction Format
@@ -30,7 +30,7 @@
         - #### Virtual Address eXtension (VAX)
 - ### Very Long Instruction Word (VLIW)
 
-# Data Types
+# Data Type
 - ### Byte
 - ### Halfword
 - ### Word
