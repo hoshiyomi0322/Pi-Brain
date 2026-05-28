@@ -1,4 +1,4 @@
-# Instruction Set Architecture(ISA)
+# Instruction Set Architecture (ISA)
 - ### [Types of ISA](#types-of-isa-1)
 - ### [Data Type](#data-type-1)
 - ### Literal
@@ -8,7 +8,7 @@
 - ### [Assembler Directives](#assembler-directives-1)
 - ### [Register](#register-1)
 - ### [Addressing mode](addressing-mode.md)
-- ### Two Pass Assembler
+- ### [Two Pass Assembler](#two-pass-assembler-1)
 
 # Types of ISA
 - ### RISC, CISC
@@ -61,13 +61,19 @@
 
 # Two Pass Assembler
 - ### used to resolve Forward Reference
+- ### Location Counter：holds the address of the instruction that is being assembled
+- ### Symbol Table：stores Symbols and their corresponding Addresses
+- ### eg
     ```mips
     main:
-        j label # Forward Reference to an undefined label
-    label: # Target label address is defined here
+        j target # Forward Reference to an undefined label
+    target: # Target label address is defined here
         addi $t2,$zero,3
     ```
-- ### Symbol Table 
-- ### Location Counter
+    - Symbol Table
+        |Symbol (Label)|Address|
+        |:---:|:---:|
+        |main|0x0000|
+        |target|0x0004|
 
 
