@@ -36,7 +36,7 @@
 - ### Halfword
 - ### Word
 
-# Assembler Directives
+# Assembler Directives (Pseudo-op)
 - ### Assembler Directives：commands in Assembly Language that instruct the assembler how to translate the code
 - ### Types of Assembler Directives
     - ### Data Directives：allocate memory and assigns initial values to variables or constants
@@ -48,6 +48,12 @@
 - ### Special-Purpose Register (SPR)
     - ### Program Counter (PC)
 
-# Machine Language
-- ### Operation Code (opcode)
-- ### Operand
+# Low-level Programing Language
+- ### Assembly Language
+    - ### Mnemonic
+        - eg：ADD, MOV
+    - ### Operand
+- ### Machine Language
+    - ### Operation Code (opcode)
+    - ### Operand (binary)
+- ### Mnemonic $`\overset{\text{Assembler}}{\longrightarrow}`$ opcode
