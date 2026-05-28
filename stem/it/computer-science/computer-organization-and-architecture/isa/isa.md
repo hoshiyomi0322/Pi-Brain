@@ -55,9 +55,10 @@
         - eg：ADD, MOV
     - ### Operand
 - ### Machine Language
-    - ### Operation Code (opcode)
+    - ### Operation Code (Opcode)
+        - #### Opcode table
     - ### Operand (binary)
-- ### Mnemonic $`\overset{\text{Assembler}}{\longrightarrow}`$ opcode
+- ### Mnemonic $`\overset{\text{Assembler}}{\longrightarrow}`$ Opcode
 
 # Two Pass Assembler
 - ### used to resolve Forward Reference
