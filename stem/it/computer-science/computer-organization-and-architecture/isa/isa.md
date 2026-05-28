@@ -6,7 +6,7 @@
 - ### Instruction Format
     - ### Instruction Length
 - ### [Register](#register-1)
-- ### [Addressing mode](#addressing-mode-1)
+- ### [Addressing mode](addressing-mode.md)
 
 # Types of ISA
 - ### RISC, CISC
@@ -40,14 +40,6 @@
 - ### Special-Purpose Register (SPR)
     - ### Program Counter (PC)
 
-# Addressing mode
-- ### Direct Addressing
-- ### PC-Relative Addressing
-- ### Indexed Addressing
-- ### Addressing mode for Data
-    - ### Immediate Addressing
-
 # Machine Language
 - ### Operation Code (opcode)
 - ### Operand
-
