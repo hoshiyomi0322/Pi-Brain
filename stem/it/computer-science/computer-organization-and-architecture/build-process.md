@@ -3,7 +3,7 @@
 - ### Assembly Language
 - ### Intermediate Language
     - #### Register Transfer Language (RTL)
-- ### Machine Language
+- ### [Machine Language](./isa/isa.md#machine-language)
 
 # Code
 - ### Source code

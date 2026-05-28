@@ -1,7 +1,10 @@
 # Instruction Set Architecture(ISA)
 - ### [Types of ISA](#types-of-isa-1)
-- ### Word
-- ### Translator $\to$ Linker $\to$ Loader
+- ### Data Types
+- ### Literal
+    - ### Literal Pool
+- ### Instruction Format
+    - ### Instruction Length
 - ### [Register](#register-1)
 - ### [Addressing mode](#addressing-mode-1)
 
@@ -27,9 +30,14 @@
         - #### Virtual Address eXtension (VAX)
 - ### Very Long Instruction Word (VLIW)
 
+# Data Types
+- ### Byte
+- ### Halfword
+- ### Word
+
 # Register
-- ### General-Purpose Register(GPR)
-- ### Special-Purpose Register(SPR)
+- ### General-Purpose Register (GPR)
+- ### Special-Purpose Register (SPR)
     - ### Program Counter (PC)
 
 # Addressing mode
