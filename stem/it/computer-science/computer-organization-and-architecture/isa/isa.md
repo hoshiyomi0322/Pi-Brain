@@ -8,6 +8,7 @@
 - ### [Assembler Directives](#assembler-directives-1)
 - ### [Register](#register-1)
 - ### [Addressing mode](addressing-mode.md)
+- ### Two Pass Assembler
 
 # Types of ISA
 - ### RISC, CISC
@@ -46,7 +47,7 @@
 # Register
 - ### General-Purpose Register (GPR)
 - ### Special-Purpose Register (SPR)
-    - ### Program Counter (PC)
+    - ### Program Counter (PC)：holds the address of the next instruction that would be executed
 
 # Low-level Programing Language
 - ### Assembly Language
@@ -57,3 +58,16 @@
     - ### Operation Code (opcode)
     - ### Operand (binary)
 - ### Mnemonic $`\overset{\text{Assembler}}{\longrightarrow}`$ opcode
+
+# Two Pass Assembler
+- ### used to resolve Forward Reference
+    ```mips
+    main:
+        j label # Forward Reference to an undefined label
+    label: # Target label address is defined here
+        addi $t2,$zero,3
+    ```
+- ### Symbol Table 
+- ### Location Counter
+
+
