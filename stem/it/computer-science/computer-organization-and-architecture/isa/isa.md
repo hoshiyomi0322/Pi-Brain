@@ -7,7 +7,8 @@
     - ### Instruction Length
 - ### [Assembler Directives](#assembler-directives-1)
 - ### [Register](#register-1)
-- ### [Addressing mode](addressing-mode.md)
+- ### [Memory Addressing in ISA](memory-addressing-in-isa/memory-addressing-in-isa.md)
+    - ### [Addressing mode](memory-addressing-in-isa/addressing-mode.md)
 - ### [Two Pass Assembler](#two-pass-assembler-1)
 
 # Types of ISA
