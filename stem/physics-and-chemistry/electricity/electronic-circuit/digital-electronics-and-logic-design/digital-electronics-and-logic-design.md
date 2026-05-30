@@ -44,6 +44,7 @@
 |6|110|101|01000000|
 |7|111|100|10000000|
 - ### Binary Encoding
+    - #### Binary-Coded Decimal (BCD)
 - ### Gray Code：two continuous values differ in only one bit    
     - #### 1-bit Gray Code：$`\{0,~1\}`$
         |Binary|Gray Code|
