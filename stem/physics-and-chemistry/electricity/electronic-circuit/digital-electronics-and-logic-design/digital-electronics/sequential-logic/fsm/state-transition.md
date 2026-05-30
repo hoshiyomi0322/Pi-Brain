@@ -5,42 +5,42 @@
     - Outgoing Transitions：$`\text{State}\overset{Input}{\longrightarrow}\text{Next State, Ouput}`$
 - ### eg
     - ### State Transition Table
-        <table border="1" style="border-collapse: collapse; text-align: center;">
+        <table border="1">
             <thead>
                 <tr>
-                    <td rowspan="2">Present State</td>
-                    <td colspan="2">Next State</td>
-                    <td colspan="2">Output</td>
+                    <td align="center" rowspan="2">Present State</td>
+                    <td align="center" colspan="2">Next State</td>
+                    <td align="center" colspan="2">Output</td>
                 </tr>
                 <tr>
-                    <td>x=0</td>
-                    <td>x=1</td>
-                    <td>x=0</td>
-                    <td>x=1</td>
+                    <td align="center">x=0</td>
+                    <td align="center">x=1</td>
+                    <td align="center">x=0</td>
+                    <td align="center">x=1</td>
                 </tr>
             </thead>
             <tr>
-                <td><b>A</b></td>
-                <td>C</td>
-                <td>A</td>
-                <td>0</td>
-                <td>0</td>
+                <th align="center">A</th>
+                <td align="center">C</td>
+                <td align="center">A</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
             <tr>
-                <td><b>B</b></td>
-                <td>A</td>
-                <td>B</td>
-                <td>0</td>
-                <td>0</td>
+                <th align="center">B</th>
+                <td align="center">A</td>
+                <td align="center">B</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
             <tr>
-                <td><b>C</b></td>
-                <td>C</td>
-                <td>B</td>
-                <td>1</td>
-                <td>1</td>
+                <th align="center">C</th>
+                <td align="center">C</td>
+                <td align="center">B</td>
+                <td align="center">1</td>
+                <td align="center">1</td>
             </tr>
-        </table>    
+        </table>
 
 # Completely Specified [State Graph](#state-graph)
 - ### Completely Specified State Graph：Each State specifies the Next State and Output for all Inputs
