@@ -8,9 +8,9 @@
         <table border="1">
             <thead>
                 <tr>
-                    <td align="center" rowspan="2">Present State</td>
-                    <td align="center" colspan="2">Next State</td>
-                    <td align="center" colspan="2">Output</td>
+                    <th align="center" rowspan="2">Present State</th>
+                    <th align="center" colspan="2">Next State</th>
+                    <th align="center" colspan="2">Output</th>
                 </tr>
                 <tr>
                     <td align="center">x=0</td>
