@@ -3,6 +3,44 @@
 - ### State Graph
     - Element：State, Input, Next State, Ouput
     - Outgoing Transitions：$`\text{State}\overset{Input}{\longrightarrow}\text{Next State, Ouput}`$
+- ### eg
+    - ### State Transition Table
+        <table border="1" style="border-collapse: collapse; text-align: center;">
+            <thead>
+                <tr>
+                    <td rowspan="2">Present State</td>
+                    <td colspan="2">Next State</td>
+                    <td colspan="2">Output</td>
+                </tr>
+                <tr>
+                    <td>x=0</td>
+                    <td>x=1</td>
+                    <td>x=0</td>
+                    <td>x=1</td>
+                </tr>
+            </thead>
+            <tr>
+                <td><b>A</b></td>
+                <td>C</td>
+                <td>A</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td><b>B</b></td>
+                <td>A</td>
+                <td>B</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td><b>C</b></td>
+                <td>C</td>
+                <td>B</td>
+                <td>1</td>
+                <td>1</td>
+            </tr>
+        </table>    
 
 # Completely Specified [State Graph](#state-graph)
 - ### Completely Specified State Graph：Each State specifies the Next State and Output for all Inputs
@@ -25,12 +63,4 @@
     3. #### For State Combinations with the same Outputs, fill in their Conditions (Next State Combinations)
     4. #### Eliminate State Combinations whose Conditions have already been eliminated
     5. #### Repeat the above step until no more eliminations are possible
-- ### eg
-    - ### State Transition Table
-        |Present State|Next State<br>(x=0)|Next State<br>(x=1)|Output<br>(x=0)|Output<br>(x=1)|
-        |:---:|:---:|:---:|:---:|:---:|
-        |A|C|A|0|0|
-        |B|A|B|0|0|
-        |C|C|B|1|1|
-
 
