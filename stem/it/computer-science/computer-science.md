@@ -15,7 +15,7 @@
 - ### System Clock
 
 # Computer Hardware
-- ### Memory
+- ### [Memory](./computer-hardware/memory.md)
 
 # [Computer Networking](./computer-networking/computer-networking.md)
 - ### [Communication Protocol](./computer-networking/communication-protocol/communication-protocol.md)
@@ -27,8 +27,13 @@
 - ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models.md)
 - ### [Cloud Computing](./distributed-computing/cloud-computing.md)
 
-# Operating System
-- ### Operating System
+# [Operating System](./operating-system/operating-system.md)
+- ### [Process Management](./operating-system/process-management.md)
+- ### [Scheduling](./operating-system/scheduling.md)
+- ### [Memory Management](./operating-system/memory-management/memory-management.md)
+    - ### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
+    - ### [Non-Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)
+- ### [File System](./operating-system/file-system.md)
 
 # [Data Representation](./data-representation/data-representation.md)
 - ### [Number System](./data-representation/number-system.md)
