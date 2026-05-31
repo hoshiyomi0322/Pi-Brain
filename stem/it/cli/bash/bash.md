@@ -28,6 +28,7 @@ read
 timeout
 clear
 echo
+sudo
 ```
 
 # System
@@ -47,6 +48,14 @@ ls # List
 mv # Move
 rm # Remove
 cp # Copy
+```
+
+# Advanced Package Tool (APT)
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install <package-name>
+sudo apt remove <package-name>
 ```
 
 # Networking
