@@ -33,14 +33,16 @@
     - #### $`P(|X-b|\ge a)=P(X \ge a+b)+P(X \le -a+b)`$
 
 # Transformations of [Random Variables](../probability-theory.md#random-variable)
-- ### $X$ is Continuous
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
+- ### Random Variable $`X`$
     - #### [PDF](#probability-function)：$`f_X\left(x\right)`$
-- ### $Y=g\left(X\right)$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
+- ### $Y=g\left(X\right),~X\text{ is Continuous}$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = f_X\left(g^{-1}\left(y\right)\right)\cdot \left|\frac{d}{dy}g^{-1}\left(y\right)\right|`$
-- ### Probability Integral Transform：$`Y=F_X\left(X\right)`$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=F_X\left(F_X^{-1}\left(y\right)\right)=y`$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+- ### $Y=g\left(X\right),~X\text{ is Discrete}$
+    - #### [PDF](#probability-function)：$`f_Y\left(y\right)=P\left(Y=y\right)=P\left(g\left(X\right)=y\right)=P\left( X=g^{-1}\left(y\right) \right)=f_X\left( g^{-1}\left(y\right) \right)`$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-P\left(X < g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+- ### Probability Integral Transform：$`Y=F_X\left(X\right),~X\text{ is Continuous}`$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right)=1`$
+    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=F_X\left(F_X^{-1}\left(y\right)\right)=y`$
     - #### [Continuous Uniform Distribution](continuous-probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)：$`Y\sim U_c\left(0,1\right)`$
-
