@@ -1,17 +1,31 @@
 - ### Sample：$`x_1,x_2,\cdots,x_n`$
     - #### Sample Size：$`n`$
 
+# Parameter, Estimator
+- ### Parameter
+    - ### $`θ`$
+- ### Estimator
+    - ### $`\hat{θ}`$
+- ### Estimate
+
 # Sample Statistics
 - ### Sample [Mean](../../descriptive-statistics.md#arithmetic-mean-am)
     - ### $`\overline{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
+- ### [Sample Variance](#sample-variance-1)
+- ### Sample [Standard Deviation](../../descriptive-statistics.md#standard-deviation-sd)
+    - ### $`S=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}}`$
+- ### Standard Error (SE)
+    - ### $`SE=\frac{S}{\sqrt{n}}`$
+- ### Mean Squared Error (MSE)
+    - ### $`MSE = E\left[ \left(θ-\hat{θ}\right)^2 \right] = Var\left( \hat{θ} \right) + Bias\left( \hat{θ} \right)^2`$
+- ### Bias
+    - ### $`Bias\left( \hat{θ} \right) = E\left[ \hat{θ} \right]-θ = E\left[ \hat{θ}-θ \right]`$
+
+# Sample Variance
 - ### Biased Sample [Variance](../../variance.md)
     - ### $`\tilde{S}^2=\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n}`$
 - ### Unbiased Sample [Variance](../../variance.md)
     - ### $`S^2=\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}`$
-- ### Sample [Standard Deviation](../../descriptive-statistics.md#standard-deviation-sd)
-    - ### $`S=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}}`$
-- ### Standard Error
-    - ### $`SE=\frac{S}{\sqrt{n}}`$
 - ### Sample [Covariance](../../variance.md#covariance)
     - ### $`q_{xy} = \frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)\left(y_i-\overline{y}\right)}{n-1}`$
 
