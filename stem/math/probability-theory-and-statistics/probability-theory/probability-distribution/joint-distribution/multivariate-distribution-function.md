@@ -4,7 +4,7 @@
     |:---:|:---:|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Continuous**|**Multivariate Probability Density Function (Multivariate PDF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=\frac{\partial^n}{\partial x_1\cdots\partial x_n}F\left(x_1,~\cdots,~x_n\right)`$|
     |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Multivariate Probability Mass Function (Multivariate PMF)**<br>$`f\left(x_1,~\cdots,~x_n\right)=P\left(X_1=x_1,~\cdots,~X_n=x_n\right)=P\left(\left(X_1=x_1\right)\cap\cdots\cap\left(X_n=x_n\right)\right)`$|
-- ### Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)：$`F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$
+- ### <span id="multivariate-cdf">Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)：$`F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$</span>
     - ### $`\begin{aligned} F\left(x_1,~\cdots,~x_n\right) &= P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right) \\ &= \begin{cases}{\int^{x_1}_{-\infty}{\cdots\int^{x_n}_{-\infty}{f\left(t_1,~\cdots,~t_n\right)\,dt_n\cdots dt_1}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Continuous}\\{\sum\limits_{t_1\le x_1}{\cdots\sum\limits_{t_n\le x_n}{f\left(t_1,~\cdots,~t_n\right)}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Discrete}\end{cases} \end{aligned}`$
 - ### $`\text{If } X_1,~\cdots,~X_n \text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f\left(x_1,~\cdots,~x_n\right)=f_{X_1}\left(x_1\right)\cdots f_{X_n}\left(x_n\right)`$
@@ -39,9 +39,9 @@
     - ### $`F_{X_1,~X_3}\left(x_1,~x_3\right)=F\left( x_1,~\infty,~x_3,~\infty,~\cdots,~\infty \right)`$
 
 # [Conditional](../../conditional-probability/conditional-probability.md) Distribution
-- ### [Conditional](../../conditional-probability/conditional-probability.md) [Probability Function](../distribution-function.md#probability-function)
+- ### Conditional [Probability Function](../distribution-function.md#probability-function)
     - ### $`f_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right) = \frac{f_{X_i \cdots X_jX_v \cdots X_w}\left(x_i,~ \cdots,~ x_j,~x_v,~ \cdots,~ x_w\right)}{f_{X_v \cdots X_w}\left(x_v,~ \cdots,~ x_w\right)}`$
-- ### [Conditional](../../conditional-probability/conditional-probability.md) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
+- ### Conditional [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $`\begin{aligned} F_{X_i \cdots X_j| X_v \cdots X_w}\left( x_i \cdots x_j| x_v \cdots x_w \right) &= P\left(X_i \le x_i ,~\cdots,~ X_j \le x_j | X_v=x_v ,~\cdots,~ X_w=x_w \right) \\ &= \begin{cases}{\int^{x_i}_{-\infty}{\cdots\int^{x_j}_{-\infty}{f_{X_i \cdots X_j| X_v \cdots X_w}\left( t_i \cdots t_j| x_v \cdots x_w \right)\,dt_j\cdots dt_i}}}&\text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Continuous} \\ {\sum\limits_{t_i\le x_i}{\cdots\sum\limits_{t_j\le x_j}{f_{X_i \cdots X_j| X_v \cdots X_w}\left( t_i \cdots t_j| x_v \cdots x_w \right)}}}&\text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Discrete}\end{cases}\end{aligned}`$
 - ### $`\text{If }\left( X_i \cdots X_j \right)\text{ and }\left( X_v \cdots X_w \right)\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right)=f_{X_i \cdots X_j}\left(x_i,~ \cdots,~ x_j\right)`$
@@ -60,15 +60,15 @@
 
 # Transformations of [Multivariate Random Variables](../../probability-theory.md#random-vector-multivariate-random-variable)
 - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
-    - #### [PDF](#probability-function)：$`f_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right) = P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right)`$
+    - #### [PDF](#multivariate-probability-function)：$`f_X\left(x_1,~\cdots,~x_n\right)`$
+    - #### [CDF](#multivariate-cdf)：$`F_X\left(x_1,~\cdots,~x_n\right) = P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right)`$
 - ### $`Y=\left( Y_1,~\cdots,~Y_n \right)^T`$
     - ### $`Y_i=g_i\left(X_1,~\cdots,~X_n\right)`$
     - ### $`X_i=h_i\left(Y_1,~\cdots,~Y_n\right)={g_i}^{-1}\left(Y_1,~\cdots,~Y_n\right)`$
+- #### [CDF](#multivariate-cdf)：$`F_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1\le y_1,~\cdots,~Y_n\le y_n\right) = P\left( g_1\left(X\right)\le y_1 ,~\cdots,~ g_n\left(X\right)\le y_n \right) = P\left( \left( X_1 ,~\cdots,~ X_n \right) \in D \right)`$
+    - $`D=g_1\left(X\right)\le y_1 ,~\cdots,~ g_n\left(X\right)\le y_n`$
 - ### $\left(X_1,~\cdots,~X_n\right) \text{ is Continuous}$
-    - #### [PDF](#probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = \frac{\partial^n}{\partial y_1\cdots\partial y_n}F_Y\left(y_1,~\cdots,~y_n\right) = f_X\left( {g_1}^{-1}\left(y\right) ,~\cdots,~ {g_n}^{-1}\left(y\right) \right)\cdot \left|J\right|`$
-        - #### [Jacobian Matrix](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-matrix)：$`J = \begin{bmatrix} {\nabla {g_1}^{-1}\left(y_1,~\cdots,~y_n\right)} \\ \vdots \\ {\nabla {g_n}^{-1}\left(y_1,~\cdots,~y_n\right)} \end{bmatrix} = \begin{bmatrix} {\nabla x_1} \\ \vdots \\ {\nabla x_n} \end{bmatrix} = \begin{bmatrix} {\frac{\partial x_1}{\partial y_1}}&{\cdots}&{\frac{\partial x_1}{\partial y_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial x_n}{\partial y_1}}&{\cdots}&{\frac{\partial x_n}{\partial y_n}} \end{bmatrix}`$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_{Y_1,~\cdots,~Y_n}\left(y_1,~\cdots,~y_n\right) = P\left(Y_1\le y_1,~\cdots,~Y_n\le y_n\right) = P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+    - #### [PDF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = \frac{\partial^n}{\partial y_1\cdots\partial y_n}F_Y\left(y_1,~\cdots,~y_n\right) = f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)\cdot \left| det\left(J\right) \right|`$
+        - #### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla h_1\left(y_1,~\cdots,~y_n\right)} \\ \vdots \\ {\nabla h_n\left(y_1,~\cdots,~y_n\right)} \end{vmatrix} = \begin{vmatrix} {\nabla x_1} \\ \vdots \\ {\nabla x_n} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x_1}{\partial y_1}}&{\cdots}&{\frac{\partial x_1}{\partial y_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial x_n}{\partial y_1}}&{\cdots}&{\frac{\partial x_n}{\partial y_n}} \end{vmatrix}`$
 - ### $\left(X_1,~\cdots,~X_n\right) \text{ is Discrete}$
-    - #### [PDF](#probability-function)：$`f_{Y_1,~\cdots,~Y_n}\left(y_1,~\cdots,~y_n\right) = P\left(Y_1=y_1,~\cdots,~Y_n=y_n\right) = P\left(g\left(X\right)=y\right)=P\left( X=g^{-1}\left(y\right) \right)=f_X\left( g^{-1}\left(y\right) \right)`$
-    - #### [CDF](#cumulative-distribution-function-cdf)：$`F_{Y_1,~\cdots,~Y_n}\left(y_1,~\cdots,~y_n\right) = P\left(Y_1\le y_1,~\cdots,~Y_n\le y_n\right) = P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le g^{-1}\left(y\right)\right)=F_X\left(g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge g^{-1}\left(y\right)\right)=1-P\left(X < g^{-1}\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+    - #### [PMF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1=y_1,~\cdots,~Y_n=y_n\right) = P\left( g_1\left(X\right)=y_1 ,~\cdots,~ g_n\left(X\right)=y_n \right) = P\left( X_1=h_1\left(y\right) ,~\cdots,~ X_n=h_n\left(y\right) \right)=f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)`$
