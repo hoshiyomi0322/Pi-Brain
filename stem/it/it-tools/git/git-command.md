@@ -25,9 +25,13 @@ git clone
         |`-u`|update|
         |`-p`|patch|
 
+- ### git commit
+    ```bash
+    git commit -a
+    git commit -m "message" # create a new commit with message
+    ```
+
 ```bash
-git commit -a
-git commit -m "message" # create a new commit with message
 git diff # difference, 查看工作目錄與暫存區的差異
 
 git restore
@@ -38,6 +42,7 @@ git reset
 ```bash
 git remote
 git push
+
 git fetch
 git pull
 ```

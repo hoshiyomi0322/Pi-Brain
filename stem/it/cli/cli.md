@@ -5,3 +5,6 @@
 
 # CMD
 - ### CMD
+
+# Termux
+- ### [Termux](termux.md)
