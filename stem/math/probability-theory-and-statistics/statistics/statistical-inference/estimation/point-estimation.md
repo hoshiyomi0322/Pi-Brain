@@ -5,7 +5,7 @@
 - ### Population Parameter
     - ### $`θ`$
 - ### Estimator
-    - ### $`\hat{θ} = \begin{cases} \text{Unbiased Estimator} & {\texr{If } E\left( \hat{θ} \right)=θ} \\ \text{Biased Estimator} & {\texr{If } E\left( \hat{θ} \right)\ne θ} \end{cases}`$
+    - ### $`\hat{θ} = \begin{cases} \text{Unbiased Estimator} & {\text{If } E\left( \hat{θ} \right)=θ} \\ \text{Biased Estimator} & {\text{If } E\left( \hat{θ} \right)\ne θ} \end{cases}`$
 - ### Estimate
 
 # Sample Statistics
