@@ -21,5 +21,9 @@
 - ### Edge Computing
     - ### Content Delivery Network (CDN)
         <img src="./image/cdn.png" width="30%">
-
     - ### edge server
+
+# Cloud Service Provider (CSP)
+- ### Google Cloud Platform (GCP)
+- ### Microsoft Azure
+- ### Amazon Web Services (AWS)
