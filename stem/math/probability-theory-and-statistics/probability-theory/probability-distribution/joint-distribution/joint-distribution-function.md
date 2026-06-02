@@ -68,7 +68,7 @@
 - ### $`\left( X,~Y \right)`$
     - #### [PDF](#joint-probability-function)：$`f_{XY}\left( x,~y \right)`$
     - #### [CDF](#joint-cdf)：$`F_{XY}\left( x,~y \right) = P\left( X\le x,~Y\le y\right)`$
-- ### $`\left( U,~V \right) ,~ g^{-1}\text{ exists}`$
+- ### $`\left( U,~V \right) ,~ g\text{ is one-to-one}`$
     - ### $`\begin{cases} {U=g_1\left(X,~Y\right)} \\ {V=g_2\left(X,~Y\right)} \end{cases}`$
     - ### $`\begin{cases} {X=h_1\left(U,~V\right)={g_1}^{-1}\left(U,~V\right)} \\ {Y=h_2\left(U,~V\right)={g_2}^{-1}\left(U,~V\right)} \end{cases}`$
 - ### [Probability Function](#joint-probability-function)

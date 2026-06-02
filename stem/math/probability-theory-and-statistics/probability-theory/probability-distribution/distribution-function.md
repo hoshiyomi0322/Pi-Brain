@@ -27,16 +27,16 @@
     - #### $`P\left(a\le X\le b\right)=P\left(X\le b\right)-P\left(X<a\right)=F\left(b\right)-F\left(a^-\right) = \begin{cases}{\int_{a}^{b}{f\left(x\right)\,dx}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{f\left(x\right)}}&\text{if }X\text{ is Discrete}\end{cases}`$
     - #### $`\text{if }X\text{ is Continuous},~\text{then }P\left(a\le X\le b\right)=P\left(a< X\le b\right)=P\left(a\le X< b\right)=P\left(a< X< b\right)=\int_{a}^{b}{f\left(x\right)\,dx}`$
 - ### Probability of an Absolute Value
-    - #### $`P(|X \le a|)=P(-a \le X \le a)`$
-    - #### $`P(|X \ge a|)=P(X \ge a)+P(X \le -a)`$
-    - #### $`P(|X-b|\le a)=P(-a+b \le X \le a+b)`$
-    - #### $`P(|X-b|\ge a)=P(X \ge a+b)+P(X \le -a+b)`$
+    - #### $`P\left( \left| X \le a \right| \right)=P\left( -a \le X \le a \right)`$
+    - #### $`P\left( \left| X \ge a \right| \right)=P\left( X \ge a \right)+P\left( X \le -a \right)`$
+    - #### $`P\left( \left| X-b \right|\le a \right)=P\left( -a+b \le X \le a+b \right)`$
+    - #### $`P\left( \left| X-b \right|\ge a \right)=P\left( X \ge a+b \right)+P\left( X \le -a+b \right)`$
 
 # Transformations of [Random Variables](../probability-theory.md#random-variable)
 - ### Random Variable $`X`$
     - #### [PDF](#probability-function)：$`f_X\left(x\right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
-- ### $Y=g\left(X\right)$
+- ### $`Y=g\left(X\right) ,~ g\text{ is one-to-one}`$
     - ### $`X=h\left(Y\right)=g^{-1}\left(Y\right)`$
 - ### $X\text{ is Continuous}$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = f_X\left(h\left(y\right)\right)\cdot \left|\frac{d}{dy}h\left(y\right)\right|`$
@@ -44,6 +44,20 @@
 - ### $X\text{ is Discrete}$
     - #### [PMF](#probability-function)：$`f_Y\left(y\right)=P\left(Y=y\right)=P\left(g\left(X\right)=y\right)=P\left( X=h\left(y\right) \right)=f_X\left( h\left(y\right) \right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_Y\left(y\right)=P\left(Y\le y\right)=P\left(g\left(X\right)\le y\right) = \begin{cases} {P\left(X \le h\left(y\right)\right)=F_X\left(h\left(y\right)\right)} & \text{if } g\left(X\right) \text{ increasing} \\ {P\left(X \ge h\left(y\right)\right)=1-P\left(X < h\left(y\right)\right)} & \text{if } g\left(X\right) \text{ decreasing} \end{cases}`$
+- ### eg：$`Y = g\left(X\right) = \left(X-3\right)^2`$
+    - ### $`f_X\left(x\right)=\begin{cases} {\frac{1}{4}} & {\text{for }x \in \left[0,~4\right]} \\ 0&\text{otherwise} \end{cases},~X\text{ is Continuous}`$
+    - ### $`\text{for }y \in \left(0,~1\right) ,~ g\text{ is not one-to-one}`$
+        - $`X = h\left(Y\right) = \sqrt{Y}+3`$
+        - $`f_Y\left(y\right) = f_X\left(h\left(y\right)\right)\cdot \left|\frac{d}{dy}h\left(y\right)\right| = \frac{1}{4}\cdot\frac{1}{2\sqrt{y}}+\frac{1}{4}\cdot\frac{1}{2\sqrt{y}} = \frac{1}{4\sqrt{y}}`$
+            - $\left|\frac{d}{dy}h\left(y\right)\right|=\frac{1}{2\sqrt{y}}$
+        - $`F_Y\left(y\right) = P\left(-\sqrt{Y}+3 < y < \sqrt{Y}+3\right) = \int_{-\sqrt{Y}+3}^{\sqrt{Y}+3}{\frac{1}{4}\,dx} = \frac{\sqrt{y}}{2}`$
+    - ### $`\text{for }y \in \left(1,~9\right) ,~ g\text{ is one-to-one}`$
+        - $`X = h\left(Y\right) = -\sqrt{Y}+3`$
+        - $`f_Y\left(y\right) = f_X\left(h\left(y\right)\right)\cdot \left|\frac{d}{dy}h\left(y\right)\right| = \frac{1}{4}\cdot\frac{1}{2\sqrt{y}} = \frac{1}{8\sqrt{y}}`$
+            - $\left|\frac{d}{dy}h\left(y\right)\right|=\frac{1}{2\sqrt{y}}$
+        - $`F_Y\left(y\right) = P\left(-\sqrt{Y}+3 < y < 4\right) = \int_{-\sqrt{Y}+3}^{4}{\frac{1}{4}\,dx} = \frac{\sqrt{y}+1}{4}`$
+    - ### $`f_Y\left(y\right) = \begin{cases} {\frac{1}{4\sqrt{y}}} & {\text{for }y \in \left(0,~1\right)} \\  {\frac{1}{8\sqrt{y}}} & {\text{for }y \in \left(1,~9\right)} \\ 0&\text{otherwise} \end{cases}`$
+    - ### $`F_Y\left(y\right) = \begin{cases} {\frac{\sqrt{y}}{2}} & {\text{for }y \in \left(0,~1\right)} \\  {\frac{\sqrt{y}+1}{4}} & {\text{for }y \in \left(1,~9\right)} \\ 0&\text{otherwise} \end{cases}`$
 
 # Probability Integral Transform
 - ### Random Variable $`X`$

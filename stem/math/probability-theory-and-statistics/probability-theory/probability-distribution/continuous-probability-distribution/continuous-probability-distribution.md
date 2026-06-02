@@ -4,8 +4,8 @@
 |Notation|$`X\sim U_c\left(a,b\right)`$|
 |[Random Variable](../../probability-theory.md#random-variable)|$`X \in \left[a,~b\right]`$|
 |Parameters|$`a\le b`$|
-|[PDF](../distribution-function.md#probability-function)|$`\frac{1}{b-a}`$|
-|[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|$`\frac{x-a}{b-a}`$|
+|[PDF](../distribution-function.md#probability-function)|$`\begin{cases} {\frac{1}{b-a}} & {\text{for }x \in \left[a,~b\right]} \\ 0&\text{otherwise} \end{cases}`$|
+|[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|$`\begin{cases} 0&{\text{for }x<a} \\ {\frac{x-a}{b-a}} & {\text{for }x \in \left[a,~b\right]} \\ 1&{\text{for }x>b} \end{cases}`$|
 |[Mean](../../expected-value.md)|$`\frac{a+b}{2}`$|
 |[Variance](../../../statistics/variance.md#variance)|$`\frac{\left(b-a\right)^2}{12}`$|
 

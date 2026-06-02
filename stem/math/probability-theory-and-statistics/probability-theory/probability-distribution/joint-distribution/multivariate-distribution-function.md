@@ -62,7 +62,7 @@
 - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
     - #### [PDF](#multivariate-probability-function)：$`f_X\left(x_1,~\cdots,~x_n\right)`$
     - #### [CDF](#multivariate-cdf)：$`F_X\left(x_1,~\cdots,~x_n\right) = P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right)`$
-- ### $`Y=\left( Y_1,~\cdots,~Y_n \right)^T ,~ g^{-1}\text{ exists}`$
+- ### $`Y=\left( Y_1,~\cdots,~Y_n \right)^T ,~ g\text{ is one-to-one}`$
     - ### $`Y_i=g_i\left(X_1,~\cdots,~X_n\right)`$
     - ### $`X_i=h_i\left(Y_1,~\cdots,~Y_n\right)={g_i}^{-1}\left(Y_1,~\cdots,~Y_n\right)`$
 - ### [Probability Function](#multivariate-probability-function)
