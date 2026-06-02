@@ -37,7 +37,6 @@
     - #### [PDF](#probability-function)：$`f_X\left(x\right)`$
     - #### [CDF](#cumulative-distribution-function-cdf)：$`F_X\left(x\right)=P\left(X\le x\right)`$
 - ### $Y=g\left(X\right)$
-    - ### $`Y=g\left(X\right)`$
     - ### $`X=h\left(Y\right)=g^{-1}\left(Y\right)`$
 - ### $X\text{ is Continuous}$
     - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = f_X\left(h\left(y\right)\right)\cdot \left|\frac{d}{dy}h\left(y\right)\right|`$
