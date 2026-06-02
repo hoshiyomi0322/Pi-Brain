@@ -115,5 +115,6 @@ dirb
 
 # Others
 - ### [Vi IMproved (Vim)](vim.md)
-- ### [GNU Compiler Collection (GCC)](gcc.md)
+- ### [Fastfetch](fastfetch.md)
 - ### [Git Command](../../it-tools/git/git-command.md)
+- ### [GNU Compiler Collection (GCC)](gcc.md)
