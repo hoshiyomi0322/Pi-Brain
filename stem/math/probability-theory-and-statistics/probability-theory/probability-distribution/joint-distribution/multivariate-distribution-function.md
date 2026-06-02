@@ -62,13 +62,14 @@
 - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
     - #### [PDF](#multivariate-probability-function)：$`f_X\left(x_1,~\cdots,~x_n\right)`$
     - #### [CDF](#multivariate-cdf)：$`F_X\left(x_1,~\cdots,~x_n\right) = P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right)`$
-- ### $`Y=\left( Y_1,~\cdots,~Y_n \right)^T`$
+- ### $`Y=\left( Y_1,~\cdots,~Y_n \right)^T ,~ g^{-1}\text{ exists}`$
     - ### $`Y_i=g_i\left(X_1,~\cdots,~X_n\right)`$
     - ### $`X_i=h_i\left(Y_1,~\cdots,~Y_n\right)={g_i}^{-1}\left(Y_1,~\cdots,~Y_n\right)`$
-- #### [CDF](#multivariate-cdf)：$`F_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1\le y_1,~\cdots,~Y_n\le y_n\right) = P\left( g_1\left(X\right)\le y_1 ,~\cdots,~ g_n\left(X\right)\le y_n \right) = P\left( \left( X_1 ,~\cdots,~ X_n \right) \in D \right)`$
-    - $`D=g_1\left(X\right)\le y_1 ,~\cdots,~ g_n\left(X\right)\le y_n`$
-- ### $\left(X_1,~\cdots,~X_n\right) \text{ is Continuous}$
-    - #### [PDF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = \frac{\partial^n}{\partial y_1\cdots\partial y_n}F_Y\left(y_1,~\cdots,~y_n\right) = f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)\cdot \left| det\left(J\right) \right|`$
-        - #### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla h_1\left(y_1,~\cdots,~y_n\right)} \\ \vdots \\ {\nabla h_n\left(y_1,~\cdots,~y_n\right)} \end{vmatrix} = \begin{vmatrix} {\nabla x_1} \\ \vdots \\ {\nabla x_n} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x_1}{\partial y_1}}&{\cdots}&{\frac{\partial x_1}{\partial y_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial x_n}{\partial y_1}}&{\cdots}&{\frac{\partial x_n}{\partial y_n}} \end{vmatrix}`$
-- ### $\left(X_1,~\cdots,~X_n\right) \text{ is Discrete}$
-    - #### [PMF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1=y_1,~\cdots,~Y_n=y_n\right) = P\left( g_1\left(X\right)=y_1 ,~\cdots,~ g_n\left(X\right)=y_n \right) = P\left( X_1=h_1\left(y\right) ,~\cdots,~ X_n=h_n\left(y\right) \right)=f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)`$
+- ### [Probability Function](#multivariate-probability-function)
+    - ### $\left(X_1,~\cdots,~X_n\right) \text{ is Continuous}$
+        - ### [PDF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = \frac{\partial^n}{\partial y_1\cdots\partial y_n}F_Y\left(y_1,~\cdots,~y_n\right) = f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)\cdot \left| det\left(J\right) \right|`$
+        - ### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla h_1\left(y_1,~\cdots,~y_n\right)} \\ \vdots \\ {\nabla h_n\left(y_1,~\cdots,~y_n\right)} \end{vmatrix} = \begin{vmatrix} {\nabla x_1} \\ \vdots \\ {\nabla x_n} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x_1}{\partial y_1}}&{\cdots}&{\frac{\partial x_1}{\partial y_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial x_n}{\partial y_1}}&{\cdots}&{\frac{\partial x_n}{\partial y_n}} \end{vmatrix}`$
+    - ### $\left(X_1,~\cdots,~X_n\right) \text{ is Discrete}$
+        - ### [PMF](#multivariate-probability-function)：$`f_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1=y_1,~\cdots,~Y_n=y_n\right) = P\left( g_1\left(X\right)=y_1 ,~\cdots,~ g_n\left(X\right)=y_n \right) = P\left( X_1=h_1\left(y\right) ,~\cdots,~ X_n=h_n\left(y\right) \right)=f_X\left( h_1\left(y\right) ,~\cdots,~ h_n\left(y\right) \right)`$
+- ### [CDF](#multivariate-cdf)：$`F_Y\left(y_1,~\cdots,~y_n\right) = P\left(Y_1\le y_1,~\cdots,~Y_n\le y_n\right) = P\left( g_1\left(X\right)\le y_1 ,~\cdots,~ g_n\left(X\right)\le y_n \right) = P\left( \left( X_1 ,~\cdots,~ X_n \right) \in D \right)`$
+    - $`D=\left\{ \left(x_1 ,~\cdots,~ x_n\right) \mid g_1\left(x\right)\le y_1 ,~\cdots,~ g_n\left(x\right)\le y_n \right\}`$

@@ -5,7 +5,7 @@
     |**$\left(X,~Y\right)$ is Continuous**|**Joint Probability Density Function (Joint PDF)**<br>$`f\left(x,~y\right)=\frac{\partial^2}{\partial x\partial y}F\left(x,~y\right)`$|
     |**$\left(X,~Y\right)$ is Discrete**|**Joint Probability Mass Function (Joint PMF)**<br>$`f\left(x,~y\right)=P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)`$|
     |**$X$ is Continuous, $Y$ is Discrete**|$`f\left(x,~y\right)=f_{X\|Y}\left(x\|y\right)P\left(Y=y\right)=P\left(Y=y\|X=x\right)f_X\left(x\right)`$<br>$`f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)`$|
-- ### [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))：$`F_{XY}\left(x,~y\right)`$
+- ### <span id="joint-cdf">[Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))：$`F_{XY}\left(x,~y\right)`$</span>
     - ### $`F\left(x,~y\right)=P\left(X\le x,~Y\le y\right)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f\left(t,~s\right)\,ds}\,dt}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f\left(t,~s\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f\left(t,~s\right)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
 - ### $`\text{If }X\text{ and }Y\text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $`f_{XY}\left(x,~y\right)=f_X\left(x\right)f_Y\left(y\right)`$
@@ -54,7 +54,7 @@
 - ### [Conditional Expectation](../../expected-value.md#conditional-expectation)
 - ### [Conditional Variance](../../../statistics/variance.md#conditional-variance)
 
-# Probability of a Two [Random Variable](../../probability-theory.md#random-variable)
+# Probability of Two [Random Variables](../../probability-theory.md#random-variable)
 - ### [Joint Probability](../../conditional-probability/conditional-probability.md#joint-probability)
     - #### $`P\left(X=x,~Y=y\right)=P\left(\left(X=x\right)\cap\left(Y=y\right)\right)=P\left(X=x|Y=y\right)P\left(Y=y\right)=P\left(Y=y|X=x\right)P\left(X=x\right)`$
     - #### $`P\left(X\le x,~Y\le y\right)=P\left(\left(X\le x\right)\cap\left(Y\le y\right)\right)=P\left(X\le x|Y\le y\right)P\left(Y\le y\right)=P\left(Y\le y|X\le x\right)P\left(X\le x\right)`$
@@ -64,3 +64,19 @@
     - #### $`P\left(a\le X\le b,~c\le Y\le d\right)=\begin{cases}{\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{a\le x\le b}{\sum\limits_{c\le y\le d}{f\left(x,~y\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{c\le y\le d}{\int_{a}^{b}{f\left(x,~y\right)\,dx}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}`$
     - #### $`\text{if }\left(X,~Y\right)\text{ is Continuous},~\text{then }P\left(a\le X\le b,~c\le Y\le d\right)=P\left(a< X< b,~c< Y< d\right)=\int_{a}^{b}{\int_{c}^{d}{f\left(x,~y\right)\,dy}\,dx}`$
 
+# Transformations of Two [Random Variables](../../probability-theory.md#random-variable)
+- ### $`\left( X,~Y \right)`$
+    - #### [PDF](#joint-probability-function)：$`f_{XY}\left( x,~y \right)`$
+    - #### [CDF](#joint-cdf)：$`F_{XY}\left( x,~y \right) = P\left( X\le x,~Y\le y\right)`$
+- ### $`\left( U,~V \right) ,~ g^{-1}\text{ exists}`$
+    - ### $`\begin{cases} {U=g_1\left(X,~Y\right)} \\ {V=g_2\left(X,~Y\right)} \end{cases}`$
+    - ### $`\begin{cases} {X=h_1\left(U,~V\right)={g_1}^{-1}\left(U,~V\right)} \\ {Y=h_2\left(U,~V\right)={g_2}^{-1}\left(U,~V\right)} \end{cases}`$
+- ### [Probability Function](#joint-probability-function)
+    - ### $\left(X,~Y\right) \text{ is Continuous}$
+        - ### [PDF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = \frac{\partial^2}{\partial u\partial v}F_{UV}\left(u,~v\right) = f_{XY}\left( h_1\left(u,~v\right) ,~ h_2\left(u,~v\right) \right)\cdot \left| det\left(J\right) \right|`$
+        - ### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla h_1\left(u,~v\right)} \\ {\nabla h_2\left(u,~v\right)} \end{vmatrix} = \begin{vmatrix} {\nabla x} \\ {\nabla y} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x}{\partial u}} & {\frac{\partial x}{\partial v}} \\ {\frac{\partial y}{\partial u}} & {\frac{\partial y}{\partial v}} \end{vmatrix}`$
+    - ### $\left(X,~Y\right) \text{ is Discrete}$
+        - ### [PMF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = P\left(U=u,~V=v\right) = P\left( g_1\left( X,~Y \right)=u ,~ g_2\left( X,~Y \right)=v \right) = P\left( X=h_1\left(u,~v\right) ,~ Y=h_2\left(u,~v\right) \right)=f_{XY}\left( h_1\left(u,~v\right) ,~ h_2\left(u,~v\right) \right)`$
+- ### [CDF](#joint-cdf)
+    - ### $`F_{UV}\left(u,~v\right) = P\left(U\le u,~V\le v\right) = P\left( g_1\left( X,~Y \right)\le u ,~ g_2\left( X,~Y \right)\le v \right) = P\left( \left( X,~Y \right) \in D \right)`$
+    - $`D=\left\{ \left( x,~y \right) \mid g_1\left(x,~y\right)\le u ,~ g_2\left(x,~y\right)\le v \right\}`$
