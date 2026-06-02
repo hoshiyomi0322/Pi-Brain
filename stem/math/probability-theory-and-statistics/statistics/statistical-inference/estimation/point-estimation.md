@@ -2,10 +2,10 @@
     - #### Sample Size：$`n`$
 
 # Parameter, Estimator
-- ### Parameter
+- ### Population Parameter
     - ### $`θ`$
 - ### Estimator
-    - ### $`\hat{θ}`$
+    - ### $`\hat{θ} = \begin{cases} \text{Unbiased Estimator} & {\texr{If } E\left( \hat{θ} \right)=θ} \\ \text{Biased Estimator} & {\texr{If } E\left( \hat{θ} \right)\ne θ} \end{cases}`$
 - ### Estimate
 
 # Sample Statistics
