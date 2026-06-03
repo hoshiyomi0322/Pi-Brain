@@ -48,24 +48,25 @@
     - ### [Probability Function](#probability-function)
         - ### $`H=\left\{ x \mid g\left(x\right)= y \right\}`$
         - ### $X\text{ is Continuous}$
-            - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = \sum_{x\in H}{\left( f_X\left(x\right)\cdot \left|\frac{dx}{dy}\right| \right)}`$
+            - #### [PDF](#probability-function)：$`f_Y\left(y\right)=\frac{d}{dy}F_Y\left(y\right) = \sum\limits_{x\in H}{\left( f_X\left(x\right)\cdot \left|\frac{dx}{dy}\right| \right)}`$
         - ### $X\text{ is Discrete}$
-            - #### [PMF](#probability-function)：$`f_Y\left(y\right)=P\left(Y=y\right)=P\left(g\left(X\right)=y\right) = P\left( X \in H \right) = \sum_{x\in H}{f_X\left( x \right)}`$
+            - #### [PMF](#probability-function)：$`f_Y\left(y\right)=P\left(Y=y\right)=P\left(g\left(X\right)=y\right) = P\left( X \in H \right) = \sum\limits_{x\in H}{f_X\left( x \right)}`$
     - ### [CDF](#joint-cdf)
         - ### $`F_Y\left(y\right) = P\left(Y\le y\right) = P\left( g\left( X \right)\le y \right) = P\left( X \in D \right)`$
         - ### $`D=\left\{ x \mid g\left(x\right)\le y \right\}`$
 - ### eg：$`Y = g\left(X\right) = \left(X-3\right)^2`$
     - ### $`f_X\left(x\right)=\begin{cases} {\frac{1}{4}} & {\text{for }x \in \left[0,~4\right]} \\ 0&\text{otherwise} \end{cases},~X\text{ is Continuous}`$
-    - ### $`\text{for }y \in \left(0,~1\right) ,~ g\text{ is many-to-one}`$
+    - ### $x \in \left[0,~4\right] \to y \in \left[0,~1\right) \cup \left[1,~9\right]$
+    - ### $`\text{for }y \in \left[0,~1\right) ,~ g\text{ is many-to-one}`$
         - $`X = \pm\sqrt{Y}+3`$
         - $`f_Y\left(y\right) = \sum{\left( f_X\left(x\right)\cdot \left|\frac{dx}{dy}\right| \right)} = f_X\left(\sqrt{Y}+3\right)\cdot\left|\frac{d}{dy}\left(\sqrt{Y}+3\right)\right| + f_X\left(-\sqrt{Y}+3\right)\cdot\left|\frac{d}{dy}\left(-\sqrt{Y}+3\right)\right| = \frac{1}{4}\cdot\frac{1}{2\sqrt{y}}+\frac{1}{4}\cdot\frac{1}{2\sqrt{y}} = \frac{1}{4\sqrt{y}}`$
         - $`F_Y\left(y\right) = P\left(-\sqrt{y}+3 < X < \sqrt{y}+3\right) = \int_{-\sqrt{y}+3}^{\sqrt{y}+3}{\frac{1}{4}\,dx} = \frac{\sqrt{y}}{2}`$
-    - ### $`\text{for }y \in \left(1,~9\right) ,~ g\text{ is one-to-one}`$
+    - ### $`\text{for }y \in \left[1,~9\right] ,~ g\text{ is one-to-one}`$
         - $`X = h\left(Y\right) = -\sqrt{Y}+3`$
         - $`f_Y\left(y\right) = f_X\left(h\left(y\right)\right)\cdot \left|\frac{d}{dy}h\left(y\right)\right| = \frac{1}{4}\cdot\frac{1}{2\sqrt{y}} = \frac{1}{8\sqrt{y}}`$
         - $`F_Y\left(y\right) = P\left(-\sqrt{y}+3 < X < 4\right) = \int_{-\sqrt{y}+3}^{4}{\frac{1}{4}\,dx} = \frac{\sqrt{y}+1}{4}`$
-    - ### $`f_Y\left(y\right) = \begin{cases} {\frac{1}{4\sqrt{y}}} & {\text{for }y \in \left(0,~1\right)} \\  {\frac{1}{8\sqrt{y}}} & {\text{for }y \in \left(1,~9\right)} \\ 0&\text{otherwise} \end{cases}`$
-    - ### $`F_Y\left(y\right) = \begin{cases} 0&{\text{for }y\le 0} \\ {\frac{\sqrt{y}}{2}} & {\text{for }y \in \left(0,~1\right)} \\  {\frac{\sqrt{y}+1}{4}} & {\text{for }y \in \left(1,~9\right)} \\ 1&{\text{for }y\ge 9} \end{cases}`$
+    - ### $`f_Y\left(y\right) = \begin{cases} {\frac{1}{4\sqrt{y}}} & {\text{for }y \in \left[0,~1\right)} \\  {\frac{1}{8\sqrt{y}}} & {\text{for }y \in \left[1,~9\right]} \\ 0&\text{otherwise} \end{cases}`$
+    - ### $`F_Y\left(y\right) = \begin{cases} 0&{\text{for }y\le 0} \\ {\frac{\sqrt{y}}{2}} & {\text{for }y \in \left[0,~1\right)} \\  {\frac{\sqrt{y}+1}{4}} & {\text{for }y \in \left[1,~9\right]} \\ 1&{\text{for }y> 9} \end{cases}`$
 
 # Probability Integral Transform
 - ### Random Variable $`X`$
