@@ -68,15 +68,15 @@
 - ### $`\left( X,~Y \right)`$
     - #### [PDF](#joint-probability-function)：$`f_{XY}\left( x,~y \right)`$
     - #### [CDF](#joint-cdf)：$`F_{XY}\left( x,~y \right) = P\left( X\le x,~Y\le y\right)`$
-- ### $`\left( U,~V \right) ,~ g\text{ is one-to-one}`$
+- ### $`\left( U,~V \right)`$
     - ### $`\begin{cases} {U=g_1\left(X,~Y\right)} \\ {V=g_2\left(X,~Y\right)} \end{cases}`$
-    - ### $`\begin{cases} {X=h_1\left(U,~V\right)={g_1}^{-1}\left(U,~V\right)} \\ {Y=h_2\left(U,~V\right)={g_2}^{-1}\left(U,~V\right)} \end{cases}`$
 - ### [Probability Function](#joint-probability-function)
+    - ### $`H=\left\{ \left( x,~y \right) \mid g_1\left(x,~y\right)= u ,~ g_2\left(x,~y\right)= v \right\}`$
     - ### $\left(X,~Y\right) \text{ is Continuous}$
-        - ### [PDF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = \frac{\partial^2}{\partial u\partial v}F_{UV}\left(u,~v\right) = f_{XY}\left( h_1\left(u,~v\right) ,~ h_2\left(u,~v\right) \right)\cdot \left| det\left(J\right) \right|`$
-        - ### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla h_1\left(u,~v\right)} \\ {\nabla h_2\left(u,~v\right)} \end{vmatrix} = \begin{vmatrix} {\nabla x} \\ {\nabla y} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x}{\partial u}} & {\frac{\partial x}{\partial v}} \\ {\frac{\partial y}{\partial u}} & {\frac{\partial y}{\partial v}} \end{vmatrix}`$
+        - ### [PDF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = \frac{\partial^2}{\partial u\partial v}F_{UV}\left(u,~v\right) = \sum_{\left( x,~y \right)\in H}{\left (f_{XY}\left( x ,~ y \right)\cdot \left| det\left(J\right) \right| \right)}`$
+        - ### [Jacobian Determinant](../../../../algebra/calculus/multivariable-calculus/vector-calculus.md#jacobian-determinant)：$`det\left(J\right) = \begin{vmatrix} {\nabla x} \\ {\nabla y} \end{vmatrix} = \begin{vmatrix} {\frac{\partial x}{\partial u}} & {\frac{\partial x}{\partial v}} \\ {\frac{\partial y}{\partial u}} & {\frac{\partial y}{\partial v}} \end{vmatrix}`$
     - ### $\left(X,~Y\right) \text{ is Discrete}$
-        - ### [PMF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = P\left(U=u,~V=v\right) = P\left( g_1\left( X,~Y \right)=u ,~ g_2\left( X,~Y \right)=v \right) = P\left( X=h_1\left(u,~v\right) ,~ Y=h_2\left(u,~v\right) \right)=f_{XY}\left( h_1\left(u,~v\right) ,~ h_2\left(u,~v\right) \right)`$
+        - ### [PMF](#joint-probability-function)：$`f_{UV}\left(u,~v\right) = P\left(U=u,~V=v\right) = P\left( g_1\left( X,~Y \right)=u ,~ g_2\left( X,~Y \right)=v \right) = P\left( \left( X,~Y \right) \in H \right) = \sum_{\left( x,~y \right)\in H}{f_{XY}\left( x ,~ y \right)}`$
 - ### [CDF](#joint-cdf)
     - ### $`F_{UV}\left(u,~v\right) = P\left(U\le u,~V\le v\right) = P\left( g_1\left( X,~Y \right)\le u ,~ g_2\left( X,~Y \right)\le v \right) = P\left( \left( X,~Y \right) \in D \right)`$
-    - $`D=\left\{ \left( x,~y \right) \mid g_1\left(x,~y\right)\le u ,~ g_2\left(x,~y\right)\le v \right\}`$
+    - ### $`D=\left\{ \left( x,~y \right) \mid g_1\left(x,~y\right)\le u ,~ g_2\left(x,~y\right)\le v \right\}`$
