@@ -1,5 +1,8 @@
-- ### Sample：$`x_1,x_2,\cdots,x_n`$
-    - #### Sample Size：$`n`$
+- ### Sample：$`X=\left( x_1,x_2,\cdots,x_n \right)`$
+    - ### Sample Size：$`n`$
+- ### Sample Statistic ($`T\left(X\right)`$)
+    - ### Sufficient Statistic
+    - ### [Estimator ($`\hat{θ}`$)](#estimator)
 
 # Parameter and Estimator
 - ### Population Parameter ($`θ`$)
@@ -18,6 +21,17 @@
     - ### $`Bias\left( \hat{θ} \right) = E\left[ \hat{θ} \right]-θ = E\left[ \hat{θ}-θ \right]`$
 - ### Mean Squared Error (MSE)
     - ### $`MSE\left( \hat{θ} \right) = E\left[ \left(\hat{θ}-θ\right)^2 \right] = Var\left( \hat{θ} \right) + Bias\left( \hat{θ} \right)^2`$
+    - ### Root Mean Square Error (RMSE)：$`RMSE\left( \hat{θ} \right) = \sqrt{MSE\left( \hat{θ} \right)}`$
+- ### [Uniformly Minimum Variance Unbiased Estimator (UMVUE)](#uniformly-minimum-variance-unbiased-estimator-umvue-1)
+
+# Uniformly Minimum Variance Unbiased Estimator (UMVUE)
+- ### Minimum Variance
+    - #### $`\hat{θ}=\text{UMVUE},~\text{If }Var\left( \hat{θ} \right) \le Var\left( \tilde{θ} \right),~\forall θ`$
+    - $`\hat{θ} = \text{Unbiased Estimator}`$
+    - $`\tilde{θ} = \text{any other unbiased estimator}`$
+- ### Rao–Blackwell Theorem
+- ### Lehmann–Scheffé Theorem
+- ### Cramer-Rao Lower Bound (CRLB)
 
 # Estimator
 - ### Sample [Mean](../../descriptive-statistics.md#arithmetic-mean-am)
@@ -26,7 +40,8 @@
 - ### Sample [Standard Deviation](../../descriptive-statistics.md#standard-deviation-sd)
     - ### $`S=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}}`$
 - ### Standard Error (SE)
-    - ### $`SE=\frac{S}{\sqrt{n}}`$
+    - ### Exact value：$`SE = \sqrt{Var\left(\overline{X}\right)} = \frac{σ}{\sqrt{n}}`$
+    - ### Estimate：$`\widehat{SE} = \frac{S}{\sqrt{n}}`$
 
 # Sample Variance
 - ### Biased Sample [Variance](../../variance.md)
@@ -44,6 +59,6 @@
 
 # Methods of Point Estimation
 - ### Maximum Likelihood Estimation (MLE)
-- ### Minimum Mean Square Error (MMSE)
+- ### Minimum [Mean Square Error](#mean-squared-error-mse) (M[MSE](#mean-squared-error-mse))
 - ### Method of [Moments](../../../probability-theory/probability-theory.md#moment-1)
 - ### [Least Square Method](../../correlation-and-regression-analysis/linear-regression.md#least-square-method)
