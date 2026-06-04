@@ -77,6 +77,20 @@
         ```latex
         $`x=\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
         ```
+- ### Big Brackets：`\big` + [Brackets](#brackets)
+    |Output|LaTex|
+    |:---:|:---:|
+    |$`\big(a+b\big]`$|`\big( a+b \big)`|
+    |$`\Big(a+b\Big]`$|`\Big( a+b \Big)`|
+    |$`\bigg(a+b\bigg]`$|`\bigg( a+b \bigg)`|
+    |$`\Bigg(a+b\Bigg]`$|`\Bigg( a+b \Bigg)`|
+    - ### Big Left/Right Brackets：`\bigl` + [Brackets](#brackets) + `\bigr` + [Brackets](#brackets)
+        |Output|LaTex|
+        |:---:|:---:|
+        |$`\bigl(a+b\bigr]`$|`\bigl( a+b \bigr)`|
+        |$`\Bigl(a+b\Bigr]`$|`\Bigl( a+b \Bigr)`|
+        |$`\biggl(a+b\biggr]`$|`\biggl( a+b \biggr)`|
+        |$`\Biggl(a+b\Biggr]`$|`\Biggl( a+b \Biggr)`|
 
 # Text Formatting
 |Format|Output|LaTex|
