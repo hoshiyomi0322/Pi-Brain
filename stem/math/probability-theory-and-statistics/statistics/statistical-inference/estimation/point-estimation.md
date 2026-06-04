@@ -1,14 +1,25 @@
 - ### Sample：$`x_1,x_2,\cdots,x_n`$
     - #### Sample Size：$`n`$
 
-# Parameter, Estimator
-- ### Population Parameter
-    - ### $`θ`$
-- ### Estimator
-    - ### $`\hat{θ} = \begin{cases} \text{Unbiased Estimator} & {\text{If } E\left( \hat{θ} \right)=θ} \\ \text{Biased Estimator} & {\text{If } E\left( \hat{θ} \right)\ne θ} \end{cases}`$
-- ### Estimate
+# Parameter and Estimator
+- ### Population Parameter ($`θ`$)
+- ### [Estimator ($`\hat{θ}`$)](#estimator)
+- ### Estimate：the Value of Estimator
+    - ### $`\text{Sample} \overset{\text{Estimator}}{\longrightarrow} \text{Estimate}`$
 
-# Sample Statistics
+# Properties of Estimators
+<div align="center"><img src="./image/properties-of-estimators.png" width="50%"></div>
+
+- ### Unbiasedness
+    - ### $`\hat{θ} = \begin{cases} \text{Unbiased Estimator} & {\text{If } Bias\left( \hat{θ} \right)=0} \\ \text{Biased Estimator} & {\text{If } Bias\left( \hat{θ} \right)\ne 0} \end{cases}`$
+- ### Consistency
+    - ### $`\hat{θ} = \begin{cases} \text{Consistent Estimator} & {\text{If } \lim\limits_{n\to\infty}{MSE\left( \hat{θ} \right)}=0} \\ \text{Inconsistent Estimator} & {\text{If } \lim\limits_{n\to\infty}{MSE\left( \hat{θ} \right)}\ne 0} \end{cases}`$
+- ### Bias
+    - ### $`Bias\left( \hat{θ} \right) = E\left[ \hat{θ} \right]-θ = E\left[ \hat{θ}-θ \right]`$
+- ### Mean Squared Error (MSE)
+    - ### $`MSE\left( \hat{θ} \right) = E\left[ \left(\hat{θ}-θ\right)^2 \right] = Var\left( \hat{θ} \right) + Bias\left( \hat{θ} \right)^2`$
+
+# Estimator
 - ### Sample [Mean](../../descriptive-statistics.md#arithmetic-mean-am)
     - ### $`\overline{x}=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}`$
 - ### [Sample Variance](#sample-variance-1)
@@ -16,10 +27,6 @@
     - ### $`S=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}}`$
 - ### Standard Error (SE)
     - ### $`SE=\frac{S}{\sqrt{n}}`$
-- ### Mean Squared Error (MSE)
-    - ### $`MSE = E\left[ \left(θ-\hat{θ}\right)^2 \right] = Var\left( \hat{θ} \right) + Bias\left( \hat{θ} \right)^2`$
-- ### Bias
-    - ### $`Bias\left( \hat{θ} \right) = E\left[ \hat{θ} \right]-θ = E\left[ \hat{θ}-θ \right]`$
 
 # Sample Variance
 - ### Biased Sample [Variance](../../variance.md)
