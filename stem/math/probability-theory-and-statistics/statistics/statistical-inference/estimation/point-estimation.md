@@ -1,7 +1,9 @@
 - ### Sample：$`X=\left( x_1,x_2,\cdots,x_n \right)`$
     - ### Sample Size：$`n`$
-- ### Sample Statistic ($`T\left(X\right)`$)
+- ### Sample Statistic ($`T`$)
     - ### Sufficient Statistic
+    - ### Complete Statistic
+        - #### $`T\text{ is Complete Statistic} \iff \forall g\Big( \big( \forall θ,~E_θ\left[ g\left(T\right) \right]=0 \big) \implies \big( \forall θ,~P_θ\left( g\left(T\right)=0 \right)=1 \big) \Big)`$
     - ### [Estimator ($`\hat{θ}`$)](#estimator)
 
 # Parameter and Estimator
