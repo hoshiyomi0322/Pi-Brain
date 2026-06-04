@@ -88,14 +88,20 @@
 |Overbrace|$`\overbrace{text}~,~\overbrace{text}^{n}`$|`\overbrace{text}`, `\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
-|Tilde|$\tilde{a}$|`\tilde{a}`|
 |Dot|$\dot{a}$|`\dot{a}`|
 |Double Dot|$\ddot{a}$|`\ddot{a}`|
+|Tilde|$\tilde{a}$|`\tilde{a}`|
 |Hat|$\hat{a}$|`\hat{a}`|
 |Check|$\check{a}$|`\check{a}`|
 |Acute|$\acute{a}$|`\acute{a}`|
 |Grave|$\grave{a}$|`\grave{a}`|
 |Breve|$\breve{a}$|`\breve{a}`|
+- ### Wide
+    |Format|Output|LaTex|
+    |:---:|:---:|:---:|
+    |Wide Tilde|$\widetilde{text}$|`\widetilde{text}`|
+    |Wide Hat|$\widehat{text}$|`\widehat{text}`|
+    |Wide Check|$\widecheck{text}$|`\widecheck{text}`|
 
 # Space
 |Space|Output|LaTex|
