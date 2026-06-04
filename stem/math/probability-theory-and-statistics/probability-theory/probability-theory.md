@@ -28,8 +28,9 @@
 
 # Inequality
 - ### Chebyshev's Inequality
-    - ### $`P\left(\left|X-μ\right|\ge kσ\right)\le \frac{1}{k^2}`$
+    - ### $`P\left( \left|X-μ\right|\ge kσ \right) \le \frac{1}{k^2}`$
 - ### Markov's Inequality
+    - ### $`P\left( X\ge a \right) \le \frac{E\left[X\right]}{a}`$
 
 # Limit Theorems of Probability
 - ### Law of Large Numbers
