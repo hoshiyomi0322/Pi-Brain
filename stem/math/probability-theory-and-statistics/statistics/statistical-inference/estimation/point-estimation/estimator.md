@@ -1,17 +1,3 @@
-- ### Sample：$`X=\left( x_1,x_2,\cdots,x_n \right)`$
-    - ### Sample Size：$`n`$
-- ### Sample Statistic ($`T`$)
-    - ### Sufficient Statistic
-    - ### Complete Statistic
-        - #### $`T\text{ is Complete Statistic} \iff \forall g\Big( \big( \forall θ,~E_θ\left[ g\left(T\right) \right]=0 \big) \implies \big( \forall θ,~P_θ\left( g\left(T\right)=0 \right)=1 \big) \Big)`$
-    - ### [Estimator ($`\hat{θ}`$)](#estimator)
-
-# Parameter and Estimator
-- ### Population Parameter ($`θ`$)
-- ### [Estimator ($`\hat{θ}`$)](#estimator)
-- ### Estimate：the Value of Estimator
-    - ### $`\text{Sample} \overset{\text{Estimator}}{\longrightarrow} \text{Estimate}`$
-
 # Properties of Estimators
 <div align="center"><img src="./image/properties-of-estimators.png" width="50%"></div>
 
@@ -28,7 +14,7 @@
 
 # Uniformly Minimum Variance Unbiased Estimator (UMVUE)
 - ### Minimum Variance
-    - #### $`\hat{θ}=\text{UMVUE},~\text{If }Var\left( \hat{θ} \right) \le Var\left( \tilde{θ} \right),~\forall θ`$
+    - #### $`\hat{θ}=\text{UMVUE},~\text{If }\Big( Var\left( \hat{θ} \right) \le Var\left( \tilde{θ} \right),~\forall θ \Big)`$
     - $`\hat{θ} = \text{Unbiased Estimator}`$
     - $`\tilde{θ} = \text{any other unbiased estimator}`$
 - ### Rao–Blackwell Theorem
@@ -52,15 +38,10 @@
     - ### $`S^2=\frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)^2}{n-1}`$
 - ### Sample [Covariance](../../variance.md#covariance)
     - ### $`q_{xy} = \frac{\sum\limits_{i=1}^{n}\left(x_i-\overline{x}\right)\left(y_i-\overline{y}\right)}{n-1}`$
+- ### [Unbiased Estimation of Sample Variance](#unbiased-estimation-of-sample-variance-1)
 
-# Unbiased Estimation
+# Unbiased Estimation of Sample Variance
 - ### Bessel's Correction
     - ### $`\text{Unbiased Sample Variance}=\text{Biased Sample Variance}\times \text{Correction Factor}`$
 - ### $`\text{Correction Factor}=\frac{\text{Sample Size}}{\text{Degree of Freedom}}=\frac{n}{n-1}`$
 - ### Degree of Freedom：$`df=n-1`$
-
-# Methods of Point Estimation
-- ### Maximum Likelihood Estimation (MLE)
-- ### Minimum [Mean Square Error](#mean-squared-error-mse) (M[MSE](#mean-squared-error-mse))
-- ### Method of [Moments](../../../probability-theory/probability-theory.md#moment-1)
-- ### [Least Square Method](../../correlation-and-regression-analysis/linear-regression.md#least-square-method)

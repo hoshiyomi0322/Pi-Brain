@@ -2,7 +2,7 @@
 - ### Sampling
     - ### [Resampling](#resampling-1)
 - ### Estimation
-    - ### [Point Estimation](./estimation/point-estimation.md)
+    - ### [Point Estimation](./estimation/point-estimation/point-estimation.md)
     - ### [Interval Estimation](./estimation/interval-estimation.md)
 - ### [Hypothesis Testing](hypothesis-testing.md)
 
