@@ -49,8 +49,8 @@
     - #### The third quartile：$`Q_{3}=P_{75}`$
 - ### Percentile
     - #### The k-th percentile ($P_{k}$)
-    - #### Percentile Rank ($PR$)
-- ### Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$
+    - #### Percentile Rank ($PR$) standard-score-z-score
+- ### <span id="standard-score-z-score"> Standard Score (Z-score)：$`z=\frac{x-μ}{σ}`$ </span>
     - #### <span id="standardization">Standardization</span>
         - $`\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)`$
     - #### $`\left( μ,~σ \right) \overset{Standardize}{\longrightarrow} \left( 0,~1 \right)`$

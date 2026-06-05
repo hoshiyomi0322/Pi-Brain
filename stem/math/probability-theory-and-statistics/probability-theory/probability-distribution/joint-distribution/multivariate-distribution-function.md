@@ -7,8 +7,8 @@
 - ### <span id="multivariate-cdf">Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)：$`F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)`$</span>
     - ### $`\begin{aligned} F\left(x_1,~\cdots,~x_n\right) &= P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right) \\ &= \begin{cases}{\int^{x_1}_{-\infty}{\cdots\int^{x_n}_{-\infty}{f\left(t_1,~\cdots,~t_n\right)\,dt_n\cdots dt_1}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Continuous}\\{\sum\limits_{t_1\le x_1}{\cdots\sum\limits_{t_n\le x_n}{f\left(t_1,~\cdots,~t_n\right)}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Discrete}\end{cases} \end{aligned}`$
 - ### $`\text{If } X_1,~\cdots,~X_n \text{ are }`$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
-    - ### $`f\left(x_1,~\cdots,~x_n\right)=f_{X_1}\left(x_1\right)\cdots f_{X_n}\left(x_n\right)`$
-    - ### $`F\left(x_1,~\cdots,~x_n\right)=F_{X_1}\left(x_1\right)\cdots F_{X_n}\left(x_n\right)`$
+    - ### $`f\left(x_1,~\cdots,~x_n\right) = f_{X_1}\left(x_1\right) \times\cdots\times f_{X_n}\left(x_n\right)`$
+    - ### $`F\left(x_1,~\cdots,~x_n\right) = F_{X_1}\left(x_1\right) \times\cdots\times F_{X_n}\left(x_n\right)`$
 - ### Properties
     - #### $`f\left(x_1,~\cdots,~x_n\right)\ge 0`$
     - #### $`F\left(x_1,~\cdots,~ -\infty ,~\cdots,~x_n\right)=0`$
