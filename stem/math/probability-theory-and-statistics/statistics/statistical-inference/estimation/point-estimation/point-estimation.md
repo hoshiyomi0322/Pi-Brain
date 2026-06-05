@@ -1,6 +1,7 @@
 # Point Estimation
 - ### Population
     - ### [Population Parameter ($`θ`$)](../../../descriptive-statistics.md)
+    - ### Fisher Information：$`I\left(θ\right)`$
 - ### Sample：$`X=\left( x_1,x_2,\cdots,x_n \right)`$
     - ### Sample Size：$`n`$
     - ### Sample Statistic ($`T`$)
