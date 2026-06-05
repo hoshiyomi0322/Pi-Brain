@@ -41,8 +41,8 @@
         - $`n`$ = Sample Size
         - $`μ`$ = [Population Mean](../statistics/descriptive-statistics.md#arithmetic-mean-am)
         - $`σ^2`$ = [Population Variance](../statistics/variance.md#variance)
-    - #### $`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_m\right) \overset{\overline{X}}{\longrightarrow} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
-        - [IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid) (Population Distribution)：$`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_m\right)`$
+    - #### $`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \overset{\overline{X}}{\longrightarrow} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
+        - [IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid) (Population Distribution)：$`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right)`$
         - [Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution) ([Sampling Distribution](../statistics/statistical-inference/statistical-inference.md#sampling-distribution) of the mean)：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
     - ### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$`Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}`$
         - $`σ`$ = [Population Standard Deviation](../statistics/descriptive-statistics.md#standard-deviation-sd)
