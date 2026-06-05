@@ -25,9 +25,9 @@
 
 # Twisted Pair
 - ### Types of Twisted Pair
-    - #### Unshielded Twisted Pair(UTP)
-    - #### Foiled Twisted Pair(FTP)
-    - #### Shielded Twisted Pair(STP)
+    - #### Unshielded Twisted Pair (UTP)
+    - #### Foiled Twisted Pair (FTP)
+    - #### Shielded Twisted Pair (STP)
 - ### Category of Twisted Pair
     |Category|Bandwidth|Application|
     |:---:|:---:|:---:|
