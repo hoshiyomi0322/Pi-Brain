@@ -33,20 +33,22 @@
     - ### $`P\left( X\ge a \right) \le \frac{E\left[X\right]}{a}`$
 
 # Limit Theorems of Probability
-- ### Law of Large Numbers
 - ### Central Limit Theorem (CLT)
     <img src="./image/central-limit-theorem.png" width="60%">
     
-    - ### $\overline{X}$ = [Sample Mean](../statistics/statistical-inference/estimation/point-estimation/estimator.md#sample-mean)
-        - $`n`$ = Sample Size
+    - ### $`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \overset{n \to \infty}{\longrightarrow} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
+    - ### Population Distribution ([IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid))：$`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right)`$
         - $`μ`$ = [Population Mean](../statistics/descriptive-statistics.md#arithmetic-mean-am)
         - $`σ^2`$ = [Population Variance](../statistics/variance.md#variance)
-    - #### $`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \overset{\overline{X}}{\longrightarrow} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
-        - [IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid) (Population Distribution)：$`X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right)`$
-        - [Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution) ([Sampling Distribution](../statistics/statistical-inference/statistical-inference.md#sampling-distribution) of the mean)：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
-    - ### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$`Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}`$
         - $`σ`$ = [Population Standard Deviation](../statistics/descriptive-statistics.md#standard-deviation-sd)
-        - $`SE`$ = [Standard Error (SE)](../statistics/statistical-inference/estimation/point-estimation/estimator.md#standard-error-se)
+    - ### [Sampling Distribution](../statistics/statistical-inference/statistical-inference.md#sampling-distribution) of the mean ([Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution))：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
+        - $\overline{X}$ = [Sample Mean](../statistics/statistical-inference/estimation/point-estimation/estimator.md#sample-mean)
+        - $`n`$ = Sample Size
+    - ### [Standard Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#standard-normal-distribution-)：$`Z\sim N\left(0,~1\right)`$
+        - ### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right) \overset{Standardize}{\longrightarrow} Z\sim N\left(0,~1\right)`$
+        - ### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$`Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}`$
+            - $`SE`$ = [Standard Error (SE)](../statistics/statistical-inference/estimation/point-estimation/estimator.md#standard-error-se)
+- ### Law of Large Numbers
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process

@@ -20,7 +20,8 @@
 |[Mean](../../expected-value.md)|$μ$|
 |[Variance](../../../statistics/variance.md#variance)|$σ^2$|
 - ### Standard Normal Distribution ($`μ=0,~σ^2=1`$)
-    - ### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$`X\sim N\left(μ,~σ^2\right) \overset{Standardize}{\longrightarrow} Z=\frac{X-μ}{σ},~Z\sim N\left(0,~1\right)`$
+    - ### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$`X\sim N\left(μ,~σ^2\right) \overset{Standardize}{\longrightarrow} Z\sim N\left(0,~1\right)`$
+    - ### [Z-score](../../../statistics/descriptive-statistics.md#standard-score-z-score)：$`Z=\frac{X-μ}{σ}`$
 - ### 68–95–99.7 Rule (Empirical Rule)
     <img src="../image/empirical-rule.png" width="55%">
 
