@@ -6,10 +6,8 @@
     |Acknowledgement(ACK)|packet was received successfully, and without errors|
     |Negative Acknowledgement(NAK)|packet was not received successfully, or an error occurred|
 - ### Packet Loss
-- ### [Encapsulation](#encapsulation-1)
+- ### Handshake
 - ### [Packet Tools](#packet-tools-1)
-
-# Encapsulation
 
 # Packet Sniffing
 - ### Packet Sniffer
