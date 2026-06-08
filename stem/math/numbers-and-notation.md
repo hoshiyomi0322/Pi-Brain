@@ -16,6 +16,20 @@
     |$`A\leftrightarrow B,~A\Leftrightarrow B,~A\iff B`$|$`\text{If and only if }a,~\text{then }B`$|$`x=2+y\iff y=2+x`$|
     |$`\neg p`$||$``$|
 
+# Extremum 
+|Notation|Definition|
+|:---:|:---:|
+|$\max{x}$|Maximum|
+|$\min{x}$|Minimum|
+|$\argmax{x}$|Argument of the Maximum|
+|$\argmin{x}$|Argument of the Minimum|
+- ### eg
+    - $f(x)=\begin{cases} {f(1)=35}\\{f(2)=69}\\{f(3)=24} \end{cases}$
+    - $\max{f(x)}=69$
+    - $\min{f(x)}=24$
+    - $\argmax{f(x)}=2$
+    - $\argmin{f(x)}=3$
+
 # Mathematical Abbreviation
 |Abbreviation|Definition|
 |:---:|:---:|
