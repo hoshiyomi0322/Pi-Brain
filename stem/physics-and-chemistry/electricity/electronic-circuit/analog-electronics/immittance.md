@@ -44,8 +44,9 @@
 # Linear Component
 - ### <span id="resistor-r"> Resistor (R) </span>
     - ### Resistor Color Code
-        <img src="./image/resistor-color-code.png" width="50%">
+        <img src="./image/resistor-color-code.png" width="60%">
         
+        - 3 Band Resistor：$`\text{Digit}\times 2,~\text{Multiplier}`$
         - 4 Band Resistor：$`\text{Digit}\times 2,~\text{Multiplier},~\text{Tolerance}`$
         - 5 Band Resistor：$`\text{Digit}\times 3,~\text{Multiplier},~\text{Tolerance}`$
         - 6 Band Resistor：$`\text{Digit}\times 3,~\text{Multiplier},~\text{Tolerance},~\text{Temperature Coefficient}`$
