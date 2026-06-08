@@ -30,7 +30,7 @@
     |**Connection**|Connection-Oriented|Connectionless|
     |**Speed**|Slow|Fast|
     |**Reliability**|Reliable|Unreliable|
-    |**Handshake**|Three-way Handshake|No Handshake|
+    |**[Handshake](../../packet.md#handshake)**|[Three-way Handshake](transport-layer/tcp.md#three-way-handshake)|No Handshake|
     |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](ip.md#voice-over-internet-protocolvoip))|
     - ### [TCP/UDP Ports](../../computer-networking.md#tcpudp-ports)
 - ### QUIC
