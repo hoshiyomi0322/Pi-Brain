@@ -11,3 +11,4 @@
 
 # [Least Square Method](../../../correlation-and-regression-analysis/linear-regression.md#least-square-method)
 
+# [Bayesian](../../../../probability-theory/conditional-probability/conditional-probability.md#bayes-theorem) Parameter Estimation
