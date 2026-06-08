@@ -16,8 +16,7 @@
     - ### [Simple Network Management Protocol (SNMP)](application-layer/network-management-protocol.md#simple-network-management-protocol-snmp)
     - ### [Network Configuration Protocol (NETCONF)](application-layer/network-management-protocol.md#network-configuration-protocol-netconf)
     - ### [RESTful Configuration Protocol (RESTCONF)](application-layer/network-management-protocol.md#restful-configuration-protocol-restconf)
-- ### Multipurpose Internet Mail Extensions (MIME)
-    - #### [MIME Type (Media Type)](../../computer-networking.md#mime-typemedia-type)
+- ### [Multipurpose Internet Mail Extensions (MIME)](application-layer/mime.md)
 - ### Dynamic Host Configuration Protocol (DHCP)
 - ### Network Time Protocol (NTP)
 - ### Telnet：Remote login to hosts

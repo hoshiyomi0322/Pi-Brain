@@ -1,0 +1,22 @@
+# MIME Type (Media Type)
+- ### Text
+    - #### `text/plain` (.txt)
+    - #### `text/html` (.html)
+- ### Image
+    - #### `image/png` (.png)
+    - #### `image/jpeg` (.jpg, .jpeg)
+    - #### `image/webp` (.webp)
+    - #### `image/svg+xml` (.svg)
+    - #### `image/gif` (.gif)
+- ### Audio
+    - #### `audio/mpeg` (.mp3)
+    - #### `audio/ogg` (.ogg)
+    - #### `audio/wave` (.wav)
+    - #### `audio/webm` (.webm)
+- ### Video
+    - #### `video/mpeg` (.mpeg)
+    - #### `video/mp4` (.mp4)
+- ### Application
+    - #### `application/x-msdownload` (.exe)
+    - #### `application/pdf` (.pdf)
+

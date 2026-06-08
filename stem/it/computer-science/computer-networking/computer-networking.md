@@ -114,28 +114,6 @@
 - ### Simple Object Access Protocol (SOAP)
 - ### Web Services Description Language (WSDL)
 
-# MIME Type(Media Type)
-- ### Text
-    - #### `text/plain` (.txt)
-    - #### `text/html` (.html)
-- ### Image
-    - #### `image/png` (.png)
-    - #### `image/jpeg` (.jpg, .jpeg)
-    - #### `image/webp` (.webp)
-    - #### `image/svg+xml` (.svg)
-    - #### `image/gif` (.gif)
-- ### Audio
-    - #### `audio/mpeg` (.mp3)
-    - #### `audio/ogg` (.ogg)
-    - #### `audio/wave` (.wav)
-    - #### `audio/webm` (.webm)
-- ### Video
-    - #### `video/mpeg` (.mpeg)
-    - #### `video/mp4` (.mp4)
-- ### Application
-    - #### `application/x-msdownload` (.exe)
-    - #### `application/pdf` (.pdf)
-
 # Network Organization
 - ### Internet Corporation for Assigned Names and Numbers (ICANN)
     - #### manage：[IP address](./communication-protocol/protocol-layer/network-layer/ip.md#ip-address), [DNS](./communication-protocol/protocol-layer/application-layer/dns.md)
