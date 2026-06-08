@@ -23,7 +23,7 @@
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
 - ### <span id="mode-of-continuous-random-variable"></span>[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)
-    - $`α=\text{Mode}=\text{Maximum},~\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0`$
+    - $`\big( α=\text{Mode},~f\left(α\right)=\text{Maximum} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)`$
 - ### [Moment](#moment)
 
 # Inequality

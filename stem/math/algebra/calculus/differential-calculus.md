@@ -25,7 +25,7 @@
 - ### Concavity
     - ### $`\text{Concavity of }f\left(x\right)\text{ at }\left(x=α\right)=\begin{cases}{\text{Concave Up}}&{\text{when }f^{\prime\prime}\left(α\right)>0}\\ {\text{Concave Down}}&{\text{when }f^{\prime\prime}\left(α\right)<0}\end{cases}`$
 - ### <span id="extremum"> Extremum </span>
-    - ### $`\begin{cases}{α=\text{Minimum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)>0}\\ {α=\text{Maximum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0}\end{cases}`$
+    - ### $`f\left(α\right)=\begin{cases}{\text{Minimum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)>0}\\ {\text{Maximum}}&{\text{when }f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0}\end{cases}`$
 - ### Inflection Point
     - ### $`α=\text{Inflection Point},~\text{when }f^{\prime\prime}\left(α\right)=0\text{ and the concavity changes}`$
     - ### Concavity Changes：$`f^{\prime\prime}\left(α+n\right)\times f^{\prime\prime}\left(α-n\right)<0`$
