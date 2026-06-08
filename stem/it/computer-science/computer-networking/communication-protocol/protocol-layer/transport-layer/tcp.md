@@ -13,6 +13,7 @@
         - TCP Reno
     - ### TCP Bottleneck Bandwidth and Round-trip propagation time (TCP BBR)
     - ### TCP Vegas
+    - ### TCP CUBIC
 
 # TCP Flow Control
 
