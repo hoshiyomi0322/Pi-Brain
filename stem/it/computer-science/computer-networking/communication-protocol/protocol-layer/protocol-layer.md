@@ -47,6 +47,9 @@
 - ### Internet Control Message Protocol (ICMP)
 
 # Data link layer
+- ### Sublayers of the Data link layer
+    - ### Logical Link Control (LLC)
+    - ### [Media Access Control (MAC)](data-link-layer/media-access-control.md)
 - ### Wi-Fi
 - ### Ethernet
 - ### [Switch](../../networking-hardware.md#switch)
