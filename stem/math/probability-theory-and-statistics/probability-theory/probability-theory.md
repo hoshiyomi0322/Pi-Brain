@@ -22,8 +22,8 @@
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
-- ### <span id="mode-of-continuous-random-variable"></span>[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)
-    - $`\big( α=\text{Mode},~f\left(α\right)=\text{Maximum} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)`$
+- ### <span id="mode-of-continuous-random-variable">[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = $\argmax\limits_α{f\left(α\right)}$</span>
+    - $`\big( α=\text{Mode},~f\left(α\right)= `$[Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function)$` \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)`$
 - ### [Moment](#moment)
 
 # Inequality
