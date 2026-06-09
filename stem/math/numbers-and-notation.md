@@ -24,7 +24,7 @@
 |$\mathop{\text{argmax}}{~x}$|Argument of the Maximum|
 |$\mathop{\text{argmin}}{~x}$|Argument of the Minimum|
 - ### eg
-    - $f(x)=\begin{cases} {f(1)=35}\\{f(2)=69}\\{f(3)=24} \end{cases}$
+    - $`f(x)=\begin{cases} {f(1)=35}\\{f(2)=69}\\{f(3)=24} \end{cases}`$
     - $\max{f(x)}=69$
     - $\min{f(x)}=24$
     - $\mathop{\text{argmax}}{~f(x)}=2$
