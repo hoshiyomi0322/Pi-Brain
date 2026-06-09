@@ -281,8 +281,8 @@
 |Infimum|$\inf{x}$|`\inf{x}`|
 |Maximum|$\max{x}$|`\max{x}`|
 |Minimum|$\min{x}$|`\min{x}`|
-|Argument of the Maximum|$\mathop{\argmax{~x}}$|`\argmax{x}`|
-|Argument of the Minimum|$\mathop{\argmin{~x}}$|`\argmin{x}`|
+|Argument of the Maximum|$\mathop{\text{argmax}}{~x}$|`\argmax{x}`|
+|Argument of the Minimum|$\mathop{\text{argmin}}{~x}$|`\argmin{x}`|
 |Logarithm|$\log{x}$|`\log{x}`|
 |Sum|$\sum{x}$|`\sum{x}`|
 |Product|$\prod{x}$|`\prod{x}`|
