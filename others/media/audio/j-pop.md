@@ -86,6 +86,7 @@
 - ### King Gnu
 - ### ONE OK ROCK
 - ### MY FIRST STORY
+- ### UVERworld
 - ### sumika
 - ### Saucy Dog
 - ### ClariS
