@@ -17,10 +17,13 @@
 - ### Backpropagation (BP)
 - ### Multilayer Perceptron (MLP)
 
----
-- ### Transfer Learning
-    - #### Fine-Tuning
-- ### Chain of Thought (CoT)
-    - #### Tree of Thoughts (ToT)
-- ### Natural Language Processing (NLP)
+# Kernel Function
+
+# Transfer Learning
+- ### Fine-Tuning
+
+# Chain of Thought (CoT)
+- ### Tree of Thoughts (ToT)
+
+# Natural Language Processing (NLP)
 
