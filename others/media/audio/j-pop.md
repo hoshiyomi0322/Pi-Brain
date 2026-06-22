@@ -90,6 +90,7 @@
 - ### sumika
 - ### Saucy Dog
 - ### ClariS
+- ### yonige
 - ### DISH//
 - ### RADWIMPS
 - ### flumpool
