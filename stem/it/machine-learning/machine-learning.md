@@ -13,17 +13,19 @@
 - ### One-Shot Learning
 - ### Few-Shot Learning
 
-# Neural Network (NN)
+# Artificial Neural Networks (ANN), Neural Networks (NN)
+- ### [Deep Neural Network (DNN)](./deep-neural-network/deep-neural-network.md)
 - ### Backpropagation (BP)
 - ### Multilayer Perceptron (MLP)
 
+# Natural Language Processing (NLP)
+
 # Kernel Function
+- ### Neural Tangent Kernel
 
 # Transfer Learning
 - ### Fine-Tuning
 
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
-
-# Natural Language Processing (NLP)
 

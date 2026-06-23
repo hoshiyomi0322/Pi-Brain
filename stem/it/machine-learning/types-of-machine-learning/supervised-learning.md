@@ -4,6 +4,7 @@
 - ### [Regression Analysis](/stem/math/probability-theory-and-statistics/statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md#regression-analysis)
 
 # Support Vector Machine (SVM)
+- ### Karush–Kuhn–Tucker conditions (KKT conditions)
 
 # Decision Tree
 
