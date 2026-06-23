@@ -1,27 +1,28 @@
 # STEM
 - ### Information Technology (IT)
-    - #### [Coding](./stem/it/coding/coding.md)
-    - #### [Command-Line Interface (CLI)](./stem/it/cli/cli.md)
-    - #### [Computer Science](./stem/it/computer-science/computer-science.md)
-    - #### [Cybersecurity](./stem/it/cybersecurity/cybersecurity.md)
+    - #### [Coding](stem/it/coding/coding.md)
+    - #### [Command-Line Interface (CLI)](stem/it/cli/cli.md)
+    - #### [Computer Science](stem/it/computer-science/computer-science.md)
+    - #### [Cybersecurity](stem/it/cybersecurity/cybersecurity.md)
     - #### Machine Learning
-    - #### [IT Tools](./stem/it/it-tools/it-tools.md)
-    - #### [Keyboard Shortcuts](./stem/it/keyboard-shortcuts.md)
+    - #### [IT Tools](stem/it/it-tools/it-tools.md)
+    - #### [Keyboard Shortcuts](stem/it/keyboard-shortcuts.md)
 - ### Math
     - #### Number and Operator
-    - #### [Algebra](./stem/math/algebra/algebra.md)
-    - #### [Discrete Mathematics](./stem/math/discrete-mathematics/discrete-mathematics.md)
-    - #### [Probability Theory and Statistics](./stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
+    - #### [Algebra](stem/math/algebra/algebra.md)
+    - #### [Discrete Mathematics](stem/math/discrete-mathematics/discrete-mathematics.md)
+    - #### [Probability Theory and Statistics](stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
     - #### Trigonometric Functions and Hyperbolic Functions
     - #### Geometry
-    - #### [Series](./stem/math/series.md)
-    - #### [Numbers and Notation](./stem/math/numbers-and-notation.md)
+    - #### [Series](stem/math/series.md)
+    - #### [Numbers and Notation](stem/math/numbers-and-notation.md)
+    - #### [Operations Research](stem/math/operations-research/operations-research.md)
 - ### Physics and Chemistry
     - #### Elements and Compounds
     - #### Particle
     - #### Mechanics
     - #### Thermodynamics
-    - #### [Electricity](./stem/physics-and-chemistry/electricity/electricity.md)
+    - #### [Electricity](stem/physics-and-chemistry/electricity/electricity.md)
     - #### Chemistry
     - #### Others (Physics and Chemistry)
 - ### Biology
@@ -37,7 +38,7 @@
     - #### Geology
     - #### Meteorology and Oceanography
     - #### Environmental Science
-- ### [Unit](./stem/unit.md)
+- ### [Unit](stem/unit.md)
 
 # Language
 - ### Chinese
@@ -71,7 +72,7 @@
     - #### Others (History)
 - ### Media
     - #### Text
-    - #### [Image](./others/media/image/image.md)
-    - #### [Audio](./others/media/audio/audio.md)
-    - #### [Video](./others/media/video/video.md)
-    - #### [Game](./others/media/game/game.md)
+    - #### [Image](others/media/image/image.md)
+    - #### [Audio](others/media/audio/audio.md)
+    - #### [Video](others/media/video/video.md)
+    - #### [Game](others/media/game/game.md)
