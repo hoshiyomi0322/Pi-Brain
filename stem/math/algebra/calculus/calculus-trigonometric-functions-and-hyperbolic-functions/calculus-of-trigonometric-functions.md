@@ -1,10 +1,10 @@
-# Derivatives of Trigonometric Functions
+# Derivatives of [Trigonometric Functions](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md)
 |Derivatives with Positive Sign|Derivatives with Negative Sign|
 |:---:|:---:|
 |$`\left(\sin{x}\right)^\prime=\cos{x}`$|$`\left(\cos{x}\right)^\prime=-\sin{x}`$|
 |$`\left(\tan{x}\right)^\prime=\frac{1}{\cos^2{x}}=\sec^2{x}`$|$`\left(\cot{x}\right)^\prime=-\frac{1}{\sin^2{x}}=-\csc^2{x}`$|
 |$`\left(\sec{x}\right)^\prime=\frac{\sin{x}}{\cos^2{x}}=\sec{x}\tan{x}`$|$`\left(\csc{x}\right)^\prime=-\frac{\cos{x}}{\sin^2{x}}=-\csc{x}\cot{x}`$|
-# Integrals of Trigonometric Functions
+# Integrals of [Trigonometric Functions](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md)
 - ### $`\int{\sin{x}\, dx}=-\cos{x}+C`$
 - ### $`\int{\cos{x}\, dx}=\sin{x}+C`$
 - ### $`\int{\tan{x}\, dx}=-\ln{\left|\cos{x}\right|}+C=\ln{\left|\sec{x}\right|}+C`$
@@ -15,7 +15,7 @@
 # $`\int{\sec^2{x}\, dx},~\int{\csc^2{x}\, dx}`$
 - ### $`\int{\sec^2{x}\, dx}=\tan{x}+C`$
 - ### $`\int{\csc^2{x}\, dx}=-\cot{x}+C`$
-- ### Pythagorean Identities：$`\int{\tan^2{x}\, dx},~\int{\cot^2{x}\, dx}`$
+- ### [Pythagorean Identities](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#pythagorean-identities)
     - ### $`\int{\tan^2{x}\, dx}=\int{\left(\sec^2{x}-1\right)\, dx}=\tan{x}-x+C`$
     - ### $`\int{\cot^2{x}\, dx}=\int{\left(\csc^2{x}-1\right)\, dx}=-\cot{x}-x+C`$
 

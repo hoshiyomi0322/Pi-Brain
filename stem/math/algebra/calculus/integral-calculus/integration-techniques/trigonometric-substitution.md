@@ -1,30 +1,30 @@
-# Trigonometric Substitution
+# [Trigonometric](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md) Substitution
 - ### $`\int{\sqrt{a^2-x^2}\,dx} = a^2\int{\cos^2{θ}\,dθ}`$
-    - #### Set $`x = a\sin{θ}`$
+    - #### $`\text{Let }x = a\sin{θ}`$
         - $`dx = \left(a\sin{θ}\right)^\prime\,dθ = a\cos{θ}\,dθ`$
     - #### $`\sqrt{a^2-x^2} = \sqrt{a^2-\left(a\sin{θ}\right)^2} = a\sqrt{1-\sin^2{θ}} = a\sqrt{\cos^2{θ}} = a\cos{θ}`$
-        - Pythagorean Identities：$`\sin^2{θ}+\cos^2{θ} = 1`$
+        - [Pythagorean Identities](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#pythagorean-identities)：$`\sin^2{θ}+\cos^2{θ} = 1`$
     - #### $`\int{\sqrt{a^2-x^2}\,dx} = \int{a\cos{θ}\,dx} = \int{a^2\cos^2{θ}\,dθ}`$
 - ### $`\int{\sqrt{a^2+x^2}\,dx} = a^2\int{\sec^3{θ}\,dθ}`$
-    - #### Set $`x = a\tan{θ}`$
+    - #### $`\text{Let }x = a\tan{θ}`$
         - $`dx = \left(a\tan{θ}\right)^\prime\,dθ = a\sec^2{θ}\,dθ`$
     - #### $`\sqrt{a^2+x^2} = \sqrt{a^2+\left(a\tan{θ}\right)^2} = a\sqrt{1+\tan^2{θ}} = a\sqrt{\sec^2{θ}} = a\sec{θ}`$
-        - Pythagorean Identities：$`\tan^2{θ}+1 = \sec^2{θ}`$
+        - [Pythagorean Identities](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#pythagorean-identities)：$`\tan^2{θ}+1 = \sec^2{θ}`$
     - #### $`\int{\sqrt{a^2+x^2}\,dx} = \int{a\sec{θ}\,dx} = \int{a^2\sec^3{θ}\,dθ}`$
 - ### $`\int{\sqrt{x^2-a^2}\,dx} = a^2\int{\sec{θ}\tan^2{θ}\,dθ}`$
-    - #### Set $`x = a\sec{θ}`$
+    - #### $`\text{Let }x = a\sec{θ}`$
         - $`dx = \left(a\sec{θ}\right)^\prime\,dθ = a\sec{θ}\tan{θ}\,dθ`$
     - #### $`\sqrt{x^2-a^2} = \sqrt{\left(a\sec{θ}\right)^2-a^2} = a\sqrt{\sec^2{θ}-1} = a\sqrt{\tan^2{θ}} = a\tan{θ}`$
-        - Pythagorean Identities：$`\tan^2{θ}+1 = \sec^2{θ}`$
+        - [Pythagorean Identities](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#pythagorean-identities)：$`\tan^2{θ}+1 = \sec^2{θ}`$
     - #### $`\int{\sqrt{x^2-a^2}\,dx} = \int{a\tan{θ}\,dx} = \int{a^2\sec{θ}\tan^2{θ}\,dθ}`$
 
-# Trigonometric Substitution of Rational and Radical Function
-- ### Trigonometric Substitution of Rational Function
+# [Trigonometric](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md) Substitution of Rational and Radical Function
+- ### [Trigonometric](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md) Substitution of Rational Function
 	- ### $`\int{\frac{1}{a^2+x^2}\,dx} = \frac{1}{a}\arctan{\left(\frac{x}{a}\right)}+C`$
     	- $`\left(\arctan{x}\right)^\prime = \frac{1}{1+x^2},~|x|<1`$
 	- ### $`\int{\frac{1}{a^2-x^2}\,dx} = \frac{1}{a}\,\text{artanh}\,\left({\frac{x}{a}}\right)+C`$
     	- $`\left(\text{artanh}\,x\right)^\prime = \frac{1}{1-x^2},~|x|<1`$
-- ### Trigonometric Substitution of Rational Function
+- ### [Trigonometric](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md) Substitution of Rational Function
     - ### $`\int{\frac{1}{\sqrt{a^2-x^2}}\,dx}=\arcsin{\left(\frac{x}{a}\right)}+C`$
         - $`\left(\arcsin{x}\right)^\prime=\frac{1}{\sqrt{1-x^2}},~|x|<1`$
     - ### $`\int{\frac{1}{\sqrt{a^2+x^2}}\,dx}=\text{arsinh}\,{\left(\frac{x}{a}\right)}+C`$
@@ -33,10 +33,10 @@
         - $`\left(\text{arcosh}\,x\right)^\prime=\frac{1}{\sqrt{x^2-1}},~x>1`$
 
 ## eg：$`\int{\sqrt{4-x^2}\,dx}`$
-- ### Set $`x=2\sin{θ}`$
+- ### $`\text{Let }x=2\sin{θ}`$
     - $`dx=\left(2\sin{θ}\right)^\prime\,dθ=2\cos{θ}\,dθ`$
 - ### $`\sqrt{2^2-x^2}=\sqrt{2^2-\left(2\sin{θ}\right)^2}=2\sqrt{1-\sin^2{θ}}=2\sqrt{\cos^2{θ}}=2\cos{θ}`$
-    - Pythagorean Identities：$`\sin^2{θ}+\cos^2{θ}=1`$
+    - [Pythagorean Identities](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#pythagorean-identities)：$`\sin^2{θ}+\cos^2{θ}=1`$
 - ### $`\int{\sqrt{2^2-x^2}\,dx}=\int{2\cos{θ}\,dx}=\int{4\cos^2{θ}\,dθ}=\int{2\left(\cos{2θ}+1\right)\,dθ}=\sin{2θ}+2θ+C`$
     - $`\cos^2{θ}=\frac{1+\cos{2θ}}{2}`$
 
