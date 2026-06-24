@@ -5,9 +5,10 @@
 # Elements of Mathematical Optimization
 - ### Decision Variables
 - ### Constraints
+    - #### Feasible Region：The set of all possible points of the decision variables that satisfy all the constraints
 - ### Objective Function
-    - ### Maximize
-    - ### Minimize
+    - #### Maximize
+    - #### Minimize
 
 # Deterministic Optimization
 - ### [Linear Programming (LP)](deterministic-optimization/linear-programming.md)

@@ -20,8 +20,8 @@
 
 # Natural Language Processing (NLP)
 
-# Kernel Function
-- ### Neural Tangent Kernel
+# Kernel Methods
+- ### [Kernel Methods](kernel-methods.md)
 
 # Transfer Learning
 - ### Fine-Tuning

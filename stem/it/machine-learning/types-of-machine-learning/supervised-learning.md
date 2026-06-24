@@ -4,7 +4,9 @@
 - ### [Regression Analysis](/stem/math/probability-theory-and-statistics/statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md#regression-analysis)
 
 # Support Vector Machine (SVM)
-- ### Karush–Kuhn–Tucker conditions (KKT conditions)
+- ### Support Vectors
+- ### [Karush–Kuhn–Tucker conditions (KKT conditions)](/stem/math/operations-research/mathematical-optimization/deterministic-optimization/nonlinear-programming.md#karushkuhntucker-conditions-kkt-conditions)
+- ### [Kernel Methods](../kernel-methods.md)
 
 # Decision Tree
 
