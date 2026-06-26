@@ -1,7 +1,5 @@
 # Layers of Computer Architecture
-<div align="center">
-    <img src="layers-of-computer-architecture.png" width="50%">
-</div>
+<div align="center"><img src="layers-of-computer-architecture.png" width="50%"></div>
 
 # Abstraction
 - ### Rationale：a mental model that removes or hides complex details
