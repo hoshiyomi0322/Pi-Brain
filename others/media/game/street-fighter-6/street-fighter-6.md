@@ -1,0 +1,77 @@
+# Command
+- ### Punch and Kick
+    - Punch (P)
+    - Kick (K)
+- ### Type
+    - Light (L)
+    - Medium (M)
+    - Heavy (H)
+- ### Direction
+    - 5：Standing
+    - 6：Forward
+    - 3
+    - 2：Crouching
+    - 1
+    - 4：Backward
+    - 7：Backward Jump
+    - 8：Neutral Jump
+    - 9：Forward Jump
+- ### Motion
+    - #### Quarter Circle Forward (QCF)：236
+    - #### Quarter Circle Back (QCB)：214
+    - #### Z motion：623
+    - #### Half Circle motion (HC, 180 motion)：624
+    - #### 360 motion (G)：6248
+- ### Special
+    - #### 昇竜 (Dragon Punch, DR)
+    - #### 当身 (Atemi)
+
+# Street Fighter 6
+- ### Drive Gauge
+    - ### Drive Impact (DI)：25F, HP+HK
+        - #### Wall Splat：guarding DI while they are near the corner
+        - #### Stun：wall splat with BO
+    - ### Drive Parry (Parry)：MP+MK
+        - #### Perfect Parry
+    - ### Drive Rush (DR)
+        - #### Cancel Drive Rush (CDR)
+    - ### OverDrive (OD)
+    - ### Drive Reversal (D反)：防禦/倒地時，前+DI
+- ### 後起身：倒地時，按下兩顆手腳
+- ### Frame (F)
+- ### Setup (Set)
+    - ### Reset
+- ### Combo
+    - ### Target Combo (TC)
+- ### Dash
+    - ### Forward Dash：66
+    - ### Backward Dash：44
+- ### 特殊跳攻擊
+    - ### Safe Jump (安全跳)：42F，前跳+跳攻擊連段+後
+    - ### Cross-Up (打背)：換邊攻擊對手，使對手需要變換方向防禦
+    - ### F式：攻擊後，瞬間起跳並跳攻擊
+- ### 連防 (連續防禦)：連續防禦時中間沒有空隙，因此防守方無法使出任何招式
+    - ### D反可以解除連防
+- ### Throw (投げ)：LP+LK
+    - ### Direction
+        - #### Forward Throw：LP+LK
+        - #### Backward Throw：4+LP+LK
+    - ### Throw Escape
+    - ### Command Throw (コマ投げ)
+    - ### Shimmy (シミー)：後退騙對手解摔，以此攻擊對手的解摔硬直
+- ### 起き攻め (OKI)：壓起身
+- ### Reversal (凹)
+- ### Burn Out (BO)
+    - ### Burn out磨血：對手burn out時，削減對手的血量
+- ### 打動力槽：削減對手的動力槽
+- ### Counter
+    - ### Crush Counter
+    - ### Punish Counter (Punish)
+        - #### 4F Punish：Ken(輕龍尾腳/輕迅雷)、Vega(剪刀腳)、Chunli(輕劈腿/OD劈腿)
+        - #### 6F Punish：D反、JP(輕鬼/中手/下重手/下重腳)、Zangief(中手*2)、Jamie(輕推掌/中推掌/醉拳)
+        - #### 8F Punish：JP(中鬼/重鬼)、Zangief(前重腳)、Ken(中龍尾腳/OD龍尾腳)、Lily(中蓄風/重蓄風)、Chunli(輕百裂腳/中百裂腳)
+        - #### 10F Punish：JP(中距離前下重手)、Gouki(蹲防重腳)、Zangief(下重腳、前下重腳)、Honda(OD頭槌)、Vega(Psycho Crusher/埋炸彈/踩頭/下重腳/前下重腳)、Jamie(下重腳/旋轉腳)、Chunli(旋轉踢)
+    - ### 相殺：與對手的攻擊互相抵消、互相受到傷害
+    - ### 差し合い：對方揮空招之後，攻擊(Punish)對手的收招硬直
+
+
