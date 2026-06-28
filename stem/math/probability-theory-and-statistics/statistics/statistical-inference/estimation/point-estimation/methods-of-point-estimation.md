@@ -7,4 +7,5 @@
 # Method of [Moments](../../../../probability-theory/probability-theory.md#moment-1)
 - ### nth Sample [Moments](../../../../probability-theory/probability-theory.md#moment-1)：$`\hat{μ}_n = \overline{X^n} = \frac{\sum\limits_{i=1}^n{\left( {x_i}^n \right)}}{n}`$
 
-# [Least Square Method](../../../correlation-and-regression-analysis/linear-regression.md#least-square-method)
+# Least Square Method
+- ### [Least Square Method](../../../data-analysis/correlation-and-regression-analysis/regression-analysis/linear-regression.md#least-square-method)

@@ -1,7 +1,7 @@
 # Data Analysis
-- ### Classification Analysis
-    - #### [Logistic Regression](/stem/math/probability-theory-and-statistics/statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md#logistic-regression)
-- ### [Regression Analysis](/stem/math/probability-theory-and-statistics/statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md#regression-analysis)
+- ### [Statistical Classification](/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-classification/statistical-classification.md)
+    - #### [Logistic Regression](/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-classification/logistic-regression.md)
+- ### [Regression Analysis](/stem/math/probability-theory-and-statistics/statistics/data-analysis/correlation-and-regression-analysis/correlation-and-regression-analysis.md#regression-analysis)
 
 # Support Vector Machine (SVM)
 - ### Support Vectors

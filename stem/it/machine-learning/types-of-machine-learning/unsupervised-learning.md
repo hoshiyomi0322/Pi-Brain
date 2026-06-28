@@ -1,12 +1,11 @@
 # Data Analysis
-- ### Cluster Analysis
-    - #### K-means Clustering
-    - #### Hierarchical Clustering
-    - #### Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
-- ### Dimensionality Reduction
-- ### Association Analysis
-    - #### Association Rule
-    - #### Apriori Algorithm
+- ### [Cluster Analysis](/stem/math/probability-theory-and-statistics/statistics/data-analysis/cluster-analysis.md)
+- ### [Dimensionality Reduction](/stem/math/probability-theory-and-statistics/statistics/data-analysis/dimensionality-reduction.md)
+- ### [Association Analysis](#association-analysis-1)
+
+# Association Analysis
+- ### Association Rule
+- ### Apriori Algorithm
 
 # Generative Adversarial Network (GAN)
 - ### Deepfake

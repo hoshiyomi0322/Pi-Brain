@@ -1,8 +1,8 @@
 # Statistics
 - ### [Descriptive Statistics](./statistics/descriptive-statistics.md)
-- ### [Correlation and Regression Analysis](./statistics/correlation-and-regression-analysis/correlation-and-regression-analysis.md)
-- ### [Variance](./statistics/variance.md)
 - ### [Statistical Inference](./statistics/statistical-inference/statistical-inference.md)
+- ### [Data Analysis](./statistics/data-analysis/data-analysis.md)
+- ### [Variance](./statistics/variance.md)
 
 # [Probability Theory](./probability-theory/probability-theory.md)
 - ### [Conditional Probability](./probability-theory/conditional-probability/conditional-probability.md)

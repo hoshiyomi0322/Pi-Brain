@@ -4,7 +4,7 @@
     - #### [Command-Line Interface (CLI)](stem/it/cli/cli.md)
     - #### [Computer Science](stem/it/computer-science/computer-science.md)
     - #### [Cybersecurity](stem/it/cybersecurity/cybersecurity.md)
-    - #### Machine Learning
+    - #### [Machine Learning](stem/it/machine-learning/machine-learning.md)
     - #### [IT Tools](stem/it/it-tools/it-tools.md)
     - #### [Keyboard Shortcuts](stem/it/keyboard-shortcuts.md)
 - ### Math

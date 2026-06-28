@@ -14,6 +14,7 @@
     |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
 - ### <span id="random-vector-multivariate-random-variable">Random Vector (Multivariate Random Variable)</span>
     - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
+    - ### Bivariate Random Variables：$`X=\left( X_1,~X_2 \right)^T`$
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
     - ### [Distribution Function](./probability-distribution/distribution-function.md)
     - ### [Joint Distribution](./probability-distribution/probability-distribution.md#joint-distribution)
