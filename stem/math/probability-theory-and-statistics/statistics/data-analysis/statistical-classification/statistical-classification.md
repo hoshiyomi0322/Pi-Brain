@@ -56,8 +56,7 @@
 - ### $`\text{Precision} = \frac{TP}{TP+FP}`$
 - ### $`\text{F1-Score} = \frac{2 \times \text{Precision} \times \text{Sensitivity}}{\text{Precision} + \text{Sensitivity}}`$
 
-# Curve
-- ### Receiver Operating Characteristic Curve (ROC Curve)
+# Receiver Operating Characteristic Curve (ROC Curve)
 - ### Area Under the Curve (AUC)
 
 # Logistic Regression
