@@ -70,10 +70,10 @@
 # Counter
 - ### Crush Counter
 - ### Punish Counter (PC)
-    - #### 4F Punish：Ken(輕龍尾腳/輕迅雷)、Vega(剪刀腳)、Chunli(輕劈腿/OD劈腿)
-    - #### 6F Punish：D反、JP(輕鬼/中手/下重手/下重腳)、Zangief(中手*2)、Jamie(輕推掌/中推掌/醉拳)
-    - #### 8F Punish：JP(中鬼/重鬼)、Zangief(前重腳)、Ken(中龍尾腳/OD龍尾腳)、Lily(中蓄風/重蓄風)、Chunli(輕百裂腳/中百裂腳)
-    - #### 10F Punish：JP(中距離前下重手)、Gouki(蹲防重腳)、Zangief(下重腳、前下重腳)、Honda(OD頭槌)、Vega(Psycho Crusher/埋炸彈/踩頭/下重腳/前下重腳)、Jamie(下重腳/旋轉腳)、Chunli(旋轉踢)
+    - #### 4F Punish：Ken(輕龍尾腳/輕迅雷)、Vega(剪刀腳)、Chunli(輕劈腿/OD劈腿)、Viper(2HP)
+    - #### 6F Punish：D反、JP(輕鬼/中手/2HP/2HK)、Ryu(2HP/2MK)、Zangief(MP*2)、Jamie(輕推掌/中推掌/醉拳)
+    - #### 8F Punish：JP(中鬼/重鬼)、Zangief(6HK)、Ken(中龍尾腳/OD龍尾腳)、Ryu(中足刀)、Lily(中蓄風/重蓄風)、Chunli(輕百裂腳/中百裂腳)
+    - #### 10F Punish：JP(中距離3HP)、Gouki(蹲防HK)、Ryu(中波掌擊/輕足刀/4HP/2HK)、Zangief(2HK/3HK)、Honda(OD頭槌)、Vega(Psycho Crusher/埋炸彈/踩頭/2HK/3HK)、Jamie(2HK/旋轉腳)、Chunli(旋轉踢)
 - ### 相殺：與對手的攻擊互相抵消、互相受到傷害
 - ### 差し合い：對方揮空招之後，攻擊(Punish)對手的收招硬直
 
