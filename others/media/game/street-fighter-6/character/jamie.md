@@ -22,7 +22,7 @@
     - #### 靠牆酔拳Combo
         - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + 前ステ + [8F OKI](#8f-oki)
-        - 醉拳二派生 + [消費](../street-fighter-6.md#frame-kill)(2MK) + [打摔擇](#打摔擇)
+        - 醉拳二派生 + [消費](../street-fighter-6.md#frame-kill)(2MK) + [打摔擇](#打摔擇-4f5f)
 - ### 推掌Combo
     - #### OD推掌Combo
         - #### 場中OD推掌Combo
@@ -58,7 +58,7 @@
         - 靠牆：5HP + 強昇竜
 - ### 2HK Combo
     - 2HK + HK + P
-    - 靠牆：(2HK + HK + P) + [打摔擇](#打摔擇)
+    - 靠牆：(2HK + HK + P) + [打摔擇](#打摔擇-4f5f)
 - ### 6HK Combo
     - #### DR 6HK Combo
         - ガード(DR + 6HK) + (前歩き + [投げ](#投げ))
