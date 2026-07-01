@@ -16,20 +16,20 @@
 # 必殺技, 特殊技Combo
 - ### 酔拳Combo
     - #### 場中酔拳Combo
-        - 醉拳二派生 + SA3
+        - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + OKI ([DR 6HK Combo](#dr-6hk-combo))
     - #### 靠牆酔拳Combo
-        - 醉拳二派生 + SA3
+        - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + 前ステ + [8F OKI](#8f-oki)
         - 醉拳二派生 + 消費(2MK) + [打摔擇](#打摔擇)
 - ### 推掌Combo
     - #### OD推掌Combo
         - #### 場中OD推掌Combo
-            - OD推掌 + SA3
+            - OD推掌 + [SA3 Combo](#sa3-combo)
             - OD推掌 + 酒飲み + [23F OKI](#23f-oki)
         - #### 靠牆OD推掌Combo
-            - OD推掌 + [2HK Combo](#2hk-combo)/強昇竜/SA1/SA3
-            - OD推掌 + 消費(弱旋轉腳) + OKI([コマ投げCombo](#コマ投げCombo))
+            - OD推掌 + [2HK Combo](#2hk-combo)/強昇竜/SA1/[SA3 Combo](#sa3-combo)
+            - OD推掌 + 消費(弱旋轉腳) + Reset ([コマ投げCombo](#コマ投げCombo))
 - ### 空插Combo
     - #### OD空插Combo
         - OD空插 + [2HK Combo](#2hk-combo)
@@ -39,13 +39,21 @@
 - ### 天晴脚Combo
     - 天晴脚 + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
     - #### DR天晴脚Combo
-        - (DR + 天晴脚) + (9 + [JHK Air Combo](#jhk-air-combo))
+        - (DR + 天晴脚) + (9 + [JHK Air Combo](#jhk-air-combo)/[JMP Air Combo](#jmp-air-combo))
+
+# SA3 Combo
+- 打動力槽：SA3 + (DR + 2HP) + DI
+- ### 靠牆SA3 Combo
+    - SA3 + (DR + 5MP + 2HP) + Reset ([コマ投げCombo](#コマ投げCombo))
+    - SA3 + (前ステ + 5LP) + Reset (DI)
+    - SA3 + (DR + 2HP + 5LP) + Reset (DI)
+    - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset (DI)
 
 # Heavy Attack Combo
 - ### 5HK Combo
     - 5HK + DI
     - #### 5HK High-Air Combo
-        - 5HP + [2HK Combo](#2hk-combo)/SA1/SA3
+        - 5HP + [2HK Combo](#2hk-combo)/SA1/[SA3 Combo](#sa3-combo)
         - 靠牆：5HP + 強昇竜
 - ### 2HK Combo
     - 2HK + HK + P
@@ -64,6 +72,9 @@
 - ### 2LP Combo
 
 # Jump Attack Combo
+- ### JMP Combo
+    - #### JMP Air Combo
+        - JMP + [OD空插Combo](#od空插combo)
 - ### JHK Combo
     - #### JHK Air Combo
         - JHK + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
@@ -77,7 +88,8 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - (2HP + SA2 + 2HP) + [コマ投げCombo](#コマ投げCombo)
+    - (2HP + SA2 + 2HP) + Reset ([コマ投げCombo](#コマ投げCombo))
+    - (DR + 5HP + 5LK) + Reset (DI)
 - ### Stun Combo
 
 # 投げ
@@ -98,10 +110,11 @@
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)
 
-# Jamie
-- ### 対空
-    - 昇竜
-    - 2HP + [8F OKI](#8f-oki)
+# 対空
+- ### 昇竜
+- ### 2HP + [8F OKI](#8f-oki)
 
 # todo
+- https://youtu.be/0NISyeWUxMI
+- https://forum.gamer.com.tw/Co.php?bsn=173&sn=94205
 - https://youtu.be/0NISyeWUxMI

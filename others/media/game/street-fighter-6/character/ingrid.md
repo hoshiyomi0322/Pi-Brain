@@ -46,5 +46,7 @@
 - ### 前投げ
 - ### 後ろ投げ
 
-# Ingrid
-- ### 対空：弱昇竜, [4HP Combo](#4hp-combo), [5HK Combo](#5hk-combo)
+# 対空
+- ### 弱昇竜
+- ### [4HP Combo](#4hp-combo)
+- ### [5HK Combo](#5hk-combo)
