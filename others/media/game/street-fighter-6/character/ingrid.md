@@ -2,9 +2,9 @@
 - ### 弾：236P
 - ### 214P
     - ### 集太陽：214LP
-    - ### 光束：214MP, 214HP
-    - ### 空中214P
-        - 8/9 + 214P
+    - ### Beam：214MP/214HP
+- ### 空中214P
+    - 8/9 + 214P
 - ### 昇竜：236K
 - ### 当身：22K
 - ### Teleport：
@@ -19,15 +19,15 @@
         - 強昇竜 + (delay + 5MP + SA3)
     - #### OD昇竜連段
         - OD昇竜 + SA3
-- ### 光束Combo
-    - #### OD光束Combo
+- ### Beam Combo
+    - #### OD BeamCombo
 
 
 # Heavy Attack Combo
 - ### 5HP Combo
 - ### 4HP Combo
 - ### 6HP Combo
-    - ( 6HP + OD光束(2太陽) )*2 + (DR + 2HP) + SA1/(光束+SA3)
+    - ( 6HP + OD Beam(2太陽) )*2 + (DR + 2HP) + SA1/(Beam+SA3)
 - ### 5HK Combo
 
 # Medium Attack Combo
@@ -35,18 +35,30 @@
 # Light Attack Combo
 
 # Counter Combo
+- ### Counter Combo
 - ### PC Combo
 
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
+    - DI (Wall spalt) + (DR + 5HP/2HP + 5LP/5LK) + Reset (DI)
 - ### Stun Combo
 
-# 投げ
+# [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
 - ### 後ろ投げ
 
-# 対空
+# [対空](../street-fighter-6.md#anti-air)
 - ### 弱昇竜
 - ### [4HP Combo](#4hp-combo)
 - ### [5HK Combo](#5hk-combo)
+
+# todo
+- https://youtu.be/LarZbGKREbY
+- https://youtu.be/MUAie1HPhLE
+- sa2
+    - https://youtu.be/98Eu1UWmFfo
+    - https://www.youtube.com/shorts/BUFYxOfbPQI?feature=share
+    - https://www.youtube.com/shorts/EYvxDzCCVNQ?feature=share
+    - https://www.youtube.com/shorts/J3n0_HIMXDI?feature=share
+    - https://youtu.be/-sqCGZvHGYs?t=3m34s

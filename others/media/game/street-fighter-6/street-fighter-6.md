@@ -56,12 +56,42 @@
 - ### Super Art (SA, スーパーアーツ)
     - #### SA1, SA2, SA3
     - #### Critical Art (CA)
+- ### 挑釁
 
 # Combo (コンボ)
 - ### Target Combo (TC)
 - ### Air Combo (Juggle Combo, 浮空連段)：對手在空中
     - ### High-Air Combo：Air Combo，但高度更高
     - ### Highest-Air Combo：Air Combo，但高度比High-Air更高
+- ### After Combo：只能接在Combo後面的Combo
+- `ガード(Combo)` = Combo被防住
+- `消費(Combo)` = 用Combo來消費
+
+# Position
+- 基準
+    - $wall=0,1$
+    - $half=\frac{1}{2}$
+    - (wall+half)的中間：$`quarter=\frac{1}{4},\frac{3}{4}`$
+    - (quater+half)的中間：$`qh=\frac{3}{8},\frac{5}{8}`$
+    - (wall+quater)的中間：$`wq=\frac{1}{8},\frac{7}{8}`$
+- 對手的位置($x$)
+    - 場中：$`quarter(\frac{1}{4})≤x≤quarter(\frac{3}{4})`$
+    - 靠牆 (Corner)：$`x=wall`$
+    - 接近場中：$`quarter≤x≤half`$
+        - QHH：$`qh≤x≤half`$
+        - QQH：$`quarter≤x≤qh`$
+    - 接近牆：$`wall<x<quarter`$
+        - WQQ：$`wq≤x≤quarter`$
+        - WWQ：$`wall≤x≤wq`$
+- 自己的位置(m)
+    - 牆邊：$`m=wall`$
+- 與對手的距離
+    - 近距離<中距離<遠距離
+    - 中近距離：近距離~中距離
+    - 中遠距離：中距離~遠距離
+- 換邊：跟對手交換方向
+    - 換邊(動作) = 該動作會造成換邊
+    - 牆邊換邊：在自己靠牆的時候換邊
 
 # Drive Gauge
 - ### Drive Impact (DI, インパクト)：25F, HP + HK
@@ -76,7 +106,7 @@
 - ### OverDrive (OD)
 - ### Drive Reversal (Dリバ, ドライブリバーサル)：When Guard/Parry/Down, 6 + DI
 
-# 投げ (Throw)：LP + LK
+# <span id="throw"> 投げ (Throw)：LP + LK </span>
 - ### Direction
     - #### 前投げ (Forward Throw)：LP + LK
     - #### 後ろ投げ (Backward Throw)：4 + LP + LK
@@ -86,7 +116,7 @@
 
 # Knocked Down (Down, ダウン, 倒地)
 - ### Hard Knockdown (ハードダウン)
-- ### 起き攻め (OKI, 壓起身)
+- ### <span id="oki"> 起き攻め (OKI, 壓起身) </span>
     - ### 持続当て (重ね, Meaty, 壓持續)
 - ### 起き上がり
     - ### その場受け身 (原地起身)
@@ -95,7 +125,7 @@
 # Frame (F, フレーム)
 - ### 發生
 - ### 硬直差
-- ### 消費 (Frame Kill, フレーム消費)
+- ### <span id="frame-kill"> 消費 (Frame Kill, フレーム消費) </span>
 - ### Delay (ディレイ)
 
 # Street Fighter 6 (SF6)
@@ -112,7 +142,7 @@
 - ### 補正 (ダメージ補正, Damage Scaling)
 - ### Cancel (キャンセル)
     - ### Delayed Cancel (ディレイキャンセル)
-- ### 対空
+- ### <span id="anti-air">対空 (Anti-Air)</span>
 - ### 立ち回り
 - ### ヒット確認 (Hit Confirm)
 - ### Setup (Set, セットプレイ)
@@ -175,3 +205,4 @@
 # Character
 - ### [Jamie](./character/jamie.md)
 - ### [Ingrid](./character/jamie.md)
+

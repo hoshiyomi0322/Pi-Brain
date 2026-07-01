@@ -6,22 +6,23 @@
     - 醉腳派生：236P + 6K
     - 醉腳二派生：236P + 6K*2
 - ### 推掌：214P
-    - 推掌派生 (酔いLv4)：214P + 6P
+    - 推掌派生 (酔い4)：214P + 6P
 - ### 昇竜：623K
-- ### 空插 (酔いLv1)：9 + 214K
-- ### 旋轉腳 (酔いLv2)：236K
-- ### コマ投げ (酔いLv3)：624K
+- ### 空插 (酔い1)：9 + 214K
+- ### 旋轉腳 (酔い2)：236K
+- ### コマ投げ (酔い3)：624K
 - ### 天晴脚：2KK
+- ### 酔い：酒飲み可以+1，最多酔い4
 
 # 必殺技, 特殊技Combo
 - ### 酔拳Combo
     - #### 場中酔拳Combo
         - 醉拳二派生 + [SA3 Combo](#sa3-combo)
-        - 醉拳二派生 + OKI ([DR 6HK Combo](#dr-6hk-combo))
+        - 醉拳二派生 + OKI([DR 6HK Combo](#dr-6hk-combo))
     - #### 靠牆酔拳Combo
         - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + 前ステ + [8F OKI](#8f-oki)
-        - 醉拳二派生 + 消費(2MK) + [打摔擇](#打摔擇)
+        - 醉拳二派生 + [消費](../street-fighter-6.md#frame-kill)(2MK) + [打摔擇](#打摔擇)
 - ### 推掌Combo
     - #### OD推掌Combo
         - #### 場中OD推掌Combo
@@ -29,7 +30,7 @@
             - OD推掌 + 酒飲み + [23F OKI](#23f-oki)
         - #### 靠牆OD推掌Combo
             - OD推掌 + [2HK Combo](#2hk-combo)/強昇竜/SA1/[SA3 Combo](#sa3-combo)
-            - OD推掌 + 消費(弱旋轉腳) + Reset ([コマ投げCombo](#コマ投げCombo))
+            - OD推掌 + [消費](../street-fighter-6.md#frame-kill)(弱旋轉腳) + Reset([コマ投げCombo](#コマ投げCombo))
 - ### 空插Combo
     - #### OD空插Combo
         - OD空插 + [2HK Combo](#2hk-combo)
@@ -44,10 +45,10 @@
 # SA3 Combo
 - 打動力槽：SA3 + (DR + 2HP) + DI
 - ### 靠牆SA3 Combo
-    - SA3 + (DR + 5MP + 2HP) + Reset ([コマ投げCombo](#コマ投げCombo))
-    - SA3 + (前ステ + 5LP) + Reset (DI)
-    - SA3 + (DR + 2HP + 5LP) + Reset (DI)
-    - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset (DI)
+    - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げCombo](#コマ投げCombo))
+    - SA3 + (前ステ + 5LP) + Reset(DI)
+    - SA3 + (DR + 2HP + 5LP) + Reset(DI)
+    - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset(DI)
 
 # Heavy Attack Combo
 - ### 5HK Combo
@@ -88,20 +89,20 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - (2HP + SA2 + 2HP) + Reset ([コマ投げCombo](#コマ投げCombo))
-    - (DR + 5HP + 5LK) + Reset (DI)
+    - (2HP + SA2 + 2HP) + Reset([コマ投げCombo](#コマ投げCombo))
+    - (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
 
-# 投げ
+# [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
     - ### 場中前投げ
-        - 前投げ (ボタンホールド)
+        - 前投げ(ボタンホールド)
         - 前投げ + [23F OKI](#23f-oki)
     - #### 靠牆前投げ
-        - 前投げ (ボタンホールド) + [8F OKI](#8f-oki)
+        - 前投げ(ボタンホールド) + [8F OKI](#8f-oki)
 - ### 後ろ投げ
 
-# OKI
+# [OKI](../street-fighter-6.md#oki)
 - ### 8F OKI
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
@@ -110,7 +111,7 @@
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)
 
-# 対空
+# [対空](../street-fighter-6.md#anti-air)
 - ### 昇竜
 - ### 2HP + [8F OKI](#8f-oki)
 
