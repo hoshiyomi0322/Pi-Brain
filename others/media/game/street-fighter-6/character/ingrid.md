@@ -17,19 +17,19 @@
     - ### BO punch：214214K
     - ### Sun Octopus(sa2)：6248KK
 
-# 必殺技Combo
-- ### 昇竜Combo
-    - #### 中昇竜連段
-    - #### 強昇竜連段
+# 必殺技 Combo
+- ### 昇竜 Combo
+    - #### 中昇竜 Combo
+    - #### 強昇竜 Combo
         - 強昇竜 + (delay + 5MP + SA3)
-    - #### OD昇竜連段
+    - #### OD昇竜 Combo
         - OD昇竜 + SA3
 - ### Beam Combo
     - #### OD Beam Combo
-        - #### 帶1太陽OD Beam連段
+        - #### 帶1太陽OD Beam Combo
             - ODBeam(1太陽) + 前Teleport
-        - #### 帶2太陽OD Beam連段
-            - OD Beam(2太陽) + (下Teleport + [中昇竜連段](#中昇竜連段)/[OD昇竜連段](#od昇竜連段)/sa1)
+        - #### 帶2太陽OD Beam Combo
+            - OD Beam(2太陽) + (下Teleport + [中昇竜 Combo](#中昇竜-combo)/[OD昇竜 Combo](#od昇竜-combo)/sa1)
             - OD Beam(2太陽) + (delay + Beam(2太陽)/OD Beam(1太陽)/OD Beam(2太陽) + sa3)
 
 # Heavy Attack Combo

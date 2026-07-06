@@ -13,9 +13,9 @@
     - #### 連續地波(地波大跳取消地波)：地波+重手(按著)+268*n+(重手按著)
     - #### 大跳取消sa1
 
-# 必殺技Combo
-- ### 衝擊Combo
-    - ### OD衝擊Combo
+# 必殺技 Combo
+- ### 衝擊 Combo
+    - ### OD衝擊 Combo
         - OD衝擊 + 安全飛び
 
 # Heavy Attack Combo

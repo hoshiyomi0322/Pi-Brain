@@ -203,6 +203,8 @@
 - ### 差し合い (差し返し, Whiff Punish)：對方空振り之後，攻擊(Punish)對手的收招硬直
 
 # Character
+- ### [Terry](./character/terry.md)
 - ### [Jamie](./character/jamie.md)
+- ### [Viper](./character/viper.md)
 - ### [Ingrid](./character/ingrid.md)
 

@@ -1,22 +1,24 @@
 # Command
 - ### 昇竜：623手
 
-# 必殺技Combo
-- ### 昇竜連段
-    - ### 中昇竜連段
+# 必殺技 Combo
+- ### 昇竜 Combo
+    - ### 中昇竜 Combo
         - 中昇竜 + SA3/DI
 
 # Heavy Attack Combo
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP + 5HK*2 + Reset (DI)
+    - ### 5MP Air Combo
+        - 5MP + 5HK*2 + Reset (DI)
 
 # Light Attack Combo
 
 # Counter Combo
 - ### Counter Combo
 - ### PC Combo
+    - 5HK + [5MP Air Combo](#5mp-air-combo)
 
 # DI Combo
 - ### DI PC Combo

@@ -14,28 +14,28 @@
 - ### 天晴脚：2KK
 - ### 酔い：酒飲み可以+1，最多酔い4
 
-# 必殺技, 特殊技Combo
-- ### 酔拳Combo
-    - #### 場中酔拳Combo
+# 必殺技, 特殊技 Combo
+- ### 酔拳 Combo
+    - #### 場中酔拳 Combo
         - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + OKI([DR 6HK Combo](#dr-6hk-combo))
-    - #### 靠牆酔拳Combo
+    - #### 靠牆酔拳 Combo
         - 醉拳二派生 + [SA3 Combo](#sa3-combo)
         - 醉拳二派生 + 前ステ + [8F OKI](#8f-oki)
         - 醉拳二派生 + [消費](../street-fighter-6.md#frame-kill)(2MK) + [打摔擇](#打摔擇-4f5f)
-- ### 推掌Combo
-    - #### OD推掌Combo
-        - #### 場中OD推掌Combo
+- ### 推掌 Combo
+    - #### OD推掌 Combo
+        - #### 場中OD推掌 Combo
             - OD推掌 + [SA3 Combo](#sa3-combo)
             - OD推掌 + 酒飲み + [23F OKI](#23f-oki)
-        - #### 靠牆OD推掌Combo
+        - #### 靠牆OD推掌 Combo
             - OD推掌 + [2HK Combo](#2hk-combo)/強昇竜/SA1/[SA3 Combo](#sa3-combo)
-            - OD推掌 + [消費](../street-fighter-6.md#frame-kill)(弱旋轉腳) + Reset([コマ投げCombo](#コマ投げCombo))
-- ### 空插Combo
-    - #### OD空插Combo
+            - OD推掌 + [消費](../street-fighter-6.md#frame-kill)(弱旋轉腳) + Reset([コマ投げ Combo](#コマ投げ-Combo))
+- ### 空插 Combo
+    - #### OD空插 Combo
         - OD空插 + [2HK Combo](#2hk-combo)
-- ### コマ投げCombo
-    - #### ODコマ投げCombo
+- ### コマ投げ Combo
+    - #### ODコマ投げ Combo
         - ODコマ投げ + 9 + JHP + DI
 - ### 天晴脚Combo
     - 天晴脚 + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
@@ -45,7 +45,7 @@
 # SA3 Combo
 - 打動力槽：SA3 + (DR + 2HP) + DI
 - ### 靠牆SA3 Combo
-    - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げCombo](#コマ投げCombo))
+    - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げ Combo](#コマ投げ-Combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
     - SA3 + (DR + 2HP + 5LP) + Reset(DI)
     - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset(DI)
@@ -65,9 +65,9 @@
 
 # Medium Attack Combo
 - ### 5MK Combo
-    - 5MK + [酔拳Combo](#酔拳combo)
+    - 5MK + [酔拳 Combo](#酔拳-combo)
 - ### 2MK Combo
-    - 2MK + [酔拳Combo](#酔拳combo)
+    - 2MK + [酔拳 Combo](#酔拳-combo)
 
 # Light Attack Combo
 - ### 2LP Combo
@@ -75,7 +75,7 @@
 # Jump Attack Combo
 - ### JMP Combo
     - #### JMP Air Combo
-        - JMP + [OD空插Combo](#od空插combo)
+        - JMP + [OD空插 Combo](#od空插-combo)
 - ### JHK Combo
     - #### JHK Air Combo
         - JHK + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
@@ -89,8 +89,8 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - (2HP + SA2 + 2HP) + Reset([コマ投げCombo](#コマ投げCombo))
-    - (DR + 5HP + 5LK) + Reset(DI)
+    - DI (Wall spalt) + (2HP + SA2 + 2HP) + Reset([コマ投げ Combo](#コマ投げ-Combo))
+    - DI (Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
 
 # [投げ](../street-fighter-6.md#throw)
