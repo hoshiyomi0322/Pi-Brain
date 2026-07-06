@@ -9,16 +9,16 @@
 
 # 必殺技 Combo
 - ### 剪刀腳 Combo
-    - ### 剪刀腳 Combo
+    - #### 剪刀腳 Combo
         - 剪刀腳 + 打摔擇
-    - ### OD剪刀腳 Combo
+    - #### OD剪刀腳 Combo
         - OD剪刀腳 + [埋炸彈 Air Combo](#埋炸彈-air-combo)
         - OD剪刀腳 + (DR + 5LP + 3HK) + Reset(DI)
 - ### 埋炸彈 Combo
-    - ### 弱埋炸彈 Combo
-    - ### 中埋炸彈 Combo
-    - ### 強埋炸彈 Combo
-    - ### 埋炸彈 Air Combo
+    - #### 弱埋炸彈 Combo
+    - #### 中埋炸彈 Combo
+    - #### 強埋炸彈 Combo
+    - #### 埋炸彈 Air Combo
         - 弱埋炸彈 + Reset(DI)
         - 中埋炸彈 + [22F OKI](#22f-oki)
         - 強埋炸彈 + SA3
