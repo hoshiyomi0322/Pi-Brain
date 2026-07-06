@@ -204,5 +204,5 @@
 
 # Character
 - ### [Jamie](./character/jamie.md)
-- ### [Ingrid](./character/jamie.md)
+- ### [Ingrid](./character/ingrid.md)
 
