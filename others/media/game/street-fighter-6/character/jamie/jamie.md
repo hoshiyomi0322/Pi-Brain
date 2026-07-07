@@ -71,7 +71,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - ### Midscreen 前投げ
+    - #### Midscreen 前投げ
         - 前投げ(Hold)
         - 前投げ + [23F OKI](#23f-oki)
     - #### Corner 前投げ

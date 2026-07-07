@@ -61,7 +61,7 @@
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
-    - ### Midscreen 前投げ
+    - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
 
