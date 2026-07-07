@@ -33,9 +33,10 @@
     - ### 中段 (Overhead)
     - ### 下段 (Low)
 - ### 特殊跳攻擊
-    - ### Safe Jump (安全飛び, 詐欺飛び, 安全跳)：42F，前跳 + 跳攻擊連段 + 後
-    - ### Cross-up (打背)：換邊攻擊對手，使對手需要變換方向防禦
-    - ### F式：攻擊後，瞬間起跳並跳攻擊
+    - ### Safe Jump (安全飛び, 詐欺飛び, 安全跳)：42F, 相手の起き上がりに合わせて特定のタイミングでジャンプ攻撃を重ねる
+        - 9 + Jump Attack Combo + 4(ボタンホールド)
+    - ### Cross-up (めくり, 打背)：相手の背後を取りつつ攻撃することで, 相手のガードを崩すテクニック
+    - ### F式：しゃがみガード中の相手に対して、一瞬だけ残る「立ち状態の食らい判定」を利用し, 本来しゃがみ状態には当たらない低空ジャンプ攻撃を強制的にガードさせる「しゃがみガード不能の高速中段攻撃」
 
 # Command
 - ### Motion
@@ -50,7 +51,7 @@
     - #### 弾 (飛び道具, 波)
         - 弾抜け (穿波)
     - #### 当身 (Atemi)
-    - #### 溜め技：技を出す際に一定時間方向キーを倒し続ける必要のある技
+    - #### 溜め技 (蓄力招)：技を出す際に一定時間方向キーを倒し続ける必要のある技
     - #### アーマー (Armor)：打撃攻撃に特定回数だけ耐えられる状態
 - ### 特殊技 (Unique Attack)
 - ### Super Art (SA, スーパーアーツ)
@@ -203,8 +204,12 @@
 - ### 差し合い (差し返し, Whiff Punish)：對方空振り之後，攻擊(Punish)對手的收招硬直
 
 # Character
+- ### [Terry](./character/jp/jp.md)
 - ### [Terry](./character/terry.md)
-- ### [Jamie](./character/jamie.md)
+- ### [Jamie](./character/jamie/jamie.md)
 - ### [Viper](./character/viper.md)
-- ### [Ingrid](./character/ingrid.md)
+- ### [Ingrid](./character/ingrid/ingrid.md)
+- ### [Vega](./character/vega/vega.md)
 
+# todo
+- https://docs.google.com/spreadsheets/d/15U0knWcTcLw-BEUaFYq9bUEQ-3GefUEYjPdDalld4oI/edit?gid=139002400#gid=139002400

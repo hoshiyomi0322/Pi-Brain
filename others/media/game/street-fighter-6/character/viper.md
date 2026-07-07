@@ -44,7 +44,7 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - DI (Wall spalt) + (DR + 2HP + 2LP) + Reset (DI)
+    - DI(Wall spalt) + (DR + 2HP + 2LP) + Reset (DI)
 - ### Stun Combo
     
 # [投げ](../street-fighter-6.md#throw)

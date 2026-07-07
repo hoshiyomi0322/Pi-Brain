@@ -10,8 +10,8 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - ### 5MP Air Combo
-        - 5MP + 5HK*2 + Reset (DI)
+- ### 5MP Air Combo
+    - (5MP + 5HK + 5HK) + Reset (DI)
 
 # Light Attack Combo
 
@@ -23,5 +23,5 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - DI (Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset (DI)
+    - DI(Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset (DI)
 - ### Stun Combo

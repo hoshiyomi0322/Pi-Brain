@@ -18,25 +18,13 @@
     - ### Sun Octopus(sa2)：6248KK
 
 # 必殺技 Combo
-- ### 昇竜 Combo
-    - #### 中昇竜 Combo
-    - #### 強昇竜 Combo
-        - 強昇竜 + (delay + 5MP + SA3)
-    - #### OD昇竜 Combo
-        - OD昇竜 + SA3
-- ### Beam Combo
-    - #### OD Beam Combo
-        - #### 帶1太陽OD Beam Combo
-            - ODBeam(1太陽) + 前Teleport
-        - #### 帶2太陽OD Beam Combo
-            - OD Beam(2太陽) + (下Teleport + [中昇竜 Combo](#中昇竜-combo)/[OD昇竜 Combo](#od昇竜-combo)/sa1)
-            - OD Beam(2太陽) + (delay + Beam(2太陽)/OD Beam(1太陽)/OD Beam(2太陽) + sa3)
+- ### [必殺技 Combo](ingrid-special-move.md)
 
 # Heavy Attack Combo
 - ### 5HP Combo
 - ### 4HP Combo
 - ### 6HP Combo
-    - ( 6HP + OD Beam(2太陽) )*2 + (DR + 2HP) + SA1/(Beam+SA3)
+    - ( 6HP + OD Beam(2太陽) + 6HP + OD Beam(2太陽) ) + (DR + 2HP) + SA1/(Beam + SA3)
 - ### 5HK Combo
 
 # Medium Attack Combo
@@ -50,7 +38,7 @@
 # DI Combo
 - ### DI PC Combo
 - ### Wall Splat Combo
-    - DI (Wall spalt) + (DR + 5HP/2HP + 5LP/5LK) + Reset (DI)
+    - DI(Wall spalt) + (DR + 5HP/2HP + 5LP/5LK) + Reset (DI)
 - ### Stun Combo
 
 # [投げ](../street-fighter-6.md#throw)
