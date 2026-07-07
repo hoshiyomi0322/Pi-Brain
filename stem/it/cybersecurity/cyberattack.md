@@ -11,6 +11,7 @@
     - #### Ransomware
     - #### Rootkit
     - #### Trojan Horse
+        - Remote Access Trojan
 - ### Man-in-the-Middle (MitM)
 - ### Denial-of-Service (DoS)
     - #### Distributed Denial-of-Service (DDoS)
