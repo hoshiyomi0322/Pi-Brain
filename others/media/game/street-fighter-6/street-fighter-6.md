@@ -1,3 +1,29 @@
+# Street Fighter 6 (SF6)
+- ### Combo (コンボ)
+    - ### Format：Buff + [Position](#position) + [Attack](#attack) + [Combo Type](#combo-コンボ)
+    - ### `ガード(Combo)` = Combo被防住
+- ### ガード (Blocking)
+    - ### 立ちガード (Standing Block, 站防)
+    - ### しゃがみガード (Crouch Block, 蹲防)
+    - ### 連ガ (Block String)：連ガ時中間沒有空隙, 因此防守方無法使出任何招式, D反可以解除連防
+- ### 歩き
+    - ### 前歩き：6
+    - ### 後ろ歩き：4
+- ### ステ (Dash)
+    - ### 前ステ (Forward Dash)：66
+    - ### バクステ (Backward Dash)：44
+- ### 補正 (ダメージ補正, Damage Scaling)
+- ### Cancel (キャンセル)
+    - ### Delayed Cancel (ディレイキャンセル)
+- ### <span id="anti-air">対空 (Anti-Air)</span>
+- ### 立ち回り
+- ### ヒット確認 (Hit Confirm)
+- ### Setup (Set, セットプレイ)
+    - ### Reset (補正切り)
+- ### Burn Out (BO)
+    - ### BO磨血：對手BO時，削減對手的血量
+- ### 打動力槽：削減對手的動力槽
+
 # Direction
 - ### Number Pad
     ```
@@ -45,6 +71,8 @@
     - #### Z motion：623
     - #### Half Circle motion (HC, 180 motion)：624
     - #### 360 motion (G)：6248
+    - #### Button hold (ボタンホールド)
+        - eg：(2 + 6(Hold) + 8) + K + Release(6)
 - ### 派生 (派生技, 追加技, Follow-up)
 - ### 必殺技 (Special Move)
     - #### 昇竜 (Dragon Punch, DR)
@@ -59,14 +87,14 @@
     - #### Critical Art (CA)
 - ### 挑釁
 
-# Combo (コンボ)
+# Combo Type
 - ### Target Combo (TC)
-- ### Air Combo (Juggle Combo, 浮空連段)：對手在空中
-    - ### High-Air Combo：Air Combo，但高度更高
-    - ### Highest-Air Combo：Air Combo，但高度比High-Air更高
-- ### After Combo：只能接在Combo後面的Combo
-- `ガード(Combo)` = Combo被防住
-- `消費(Combo)` = 用Combo來消費
+- ### Air Combo
+    - #### Air Combo(Juggle Combo, 浮空連段)：對手在空中
+    - #### High-Air Combo：Air Combo，但高度更高
+    - #### Highest-Air Combo：Air Combo，但高度比High-Air更高
+- ### Extension Combo：只能接在Combo後面的Combo
+- ### Carry Combo (搬運連段)
 
 # Position
 - 基準
@@ -75,24 +103,23 @@
     - (wall+half)的中間：$`quarter=\frac{1}{4},\frac{3}{4}`$
     - (quater+half)的中間：$`qh=\frac{3}{8},\frac{5}{8}`$
     - (wall+quater)的中間：$`wq=\frac{1}{8},\frac{7}{8}`$
-- 對手的位置($x$)
-    - 場中：$`quarter(\frac{1}{4})≤x≤quarter(\frac{3}{4})`$
-    - 靠牆 (Corner)：$`x=wall`$
-    - 接近場中：$`quarter≤x≤half`$
-        - QHH：$`qh≤x≤half`$
-        - QQH：$`quarter≤x≤qh`$
-    - 接近牆：$`wall<x<quarter`$
-        - WQQ：$`wq≤x≤quarter`$
-        - WWQ：$`wall≤x≤wq`$
-- 自己的位置(m)
-    - 牆邊：$`m=wall`$
-- 與對手的距離
-    - 近距離<中距離<遠距離
-    - 中近距離：近距離~中距離
-    - 中遠距離：中距離~遠距離
-- 換邊：跟對手交換方向
-    - 換邊(動作) = 該動作會造成換邊
-    - 牆邊換邊：在自己靠牆的時候換邊
+- ### Opponent's Position ($x$)
+    - #### Midscreen：$`quarter(\frac{1}{4})\le x\le quarter(\frac{3}{4})`$
+    - #### Corner：$`x=wall`$
+    - #### Near-Midscreen：$`quarter\le x\le half`$
+        - QHH：$`qh\le x\le half`$
+        - QQH：$`quarter\le x\le qh`$
+    - #### Near-Corner：$`wall<x<quarter`$
+        - WQQ：$`wq\le x\le quarter`$
+        - WWQ：$`wall\le x\le wq`$
+- ### Own Position ($`m`$)
+    - Back-to-Wall (BTW)：$`m=wall`$
+- ### Distance from Opponent
+    - Close-range < Mid-range < Far-range
+    - Mid-close range：Close-range ~ Mid-range
+    - Mid-far range：Mid-range ~ Far-range
+- ### Side-switch：swapping sides/directions with the opponent
+    - Corner side-switch：Swapping sides when your Back-to-Wall
 
 # Drive Gauge
 - ### Drive Impact (DI, インパクト)：25F, HP + HK
@@ -128,29 +155,6 @@
 - ### 硬直差
 - ### <span id="frame-kill"> 消費 (Frame Kill, フレーム消費) </span>
 - ### Delay (ディレイ)
-
-# Street Fighter 6 (SF6)
-- ### ガード (Blocking)
-    - ### 立ちガード (Standing Block, 站防)
-    - ### しゃがみガード (Crouch Block, 蹲防)
-    - ### 連ガ (Block String)：連ガ時中間沒有空隙, 因此防守方無法使出任何招式, D反可以解除連防
-- ### 歩き
-    - ### 前歩き：6
-    - ### 後ろ歩き：4
-- ### ステ (Dash)
-    - ### 前ステ (Forward Dash)：66
-    - ### バクステ (Backward Dash)：44
-- ### 補正 (ダメージ補正, Damage Scaling)
-- ### Cancel (キャンセル)
-    - ### Delayed Cancel (ディレイキャンセル)
-- ### <span id="anti-air">対空 (Anti-Air)</span>
-- ### 立ち回り
-- ### ヒット確認 (Hit Confirm)
-- ### Setup (Set, セットプレイ)
-    - ### Reset (補正切り)
-- ### Burn Out (BO)
-    - ### BO磨血：對手BO時，削減對手的血量
-- ### 打動力槽：削減對手的動力槽
 
 # 択 (mix-up, 擇)
 - ### 打摔擇 (strike/throw mix-ups)：打撃重ね、投げ重ね、シミー

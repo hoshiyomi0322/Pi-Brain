@@ -19,7 +19,7 @@
 
 # SA3 Combo
 - 打動力槽：SA3 + (DR + 2HP) + DI
-- ### 靠牆SA3 Combo
+- ### Corner SA3 Combo
     - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
     - SA3 + (DR + 2HP + 5LP) + Reset(DI)
@@ -30,10 +30,10 @@
     - 5HK + DI
 - ### 5HK High-Air Combo
     - 5HP + [2HK Combo](#2hk-combo)/SA1/[SA3 Combo](#sa3-combo)
-    - 靠牆：5HP + 強昇竜
+    - Corner：5HP + 強昇竜
 - ### 2HK Combo
     - 2HK + HK + P
-    - 靠牆：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 6HK Combo
 - ### DR 6HK Combo
     - ガード(DR + 6HK) + (前歩き + [投げ](#投げ))
@@ -52,11 +52,11 @@
 - ### JHK Combo
 - ### JMK Combo
 - ### Jump Attack Air Combo
-    - ### JMP Air Combo
+    - #### JMP Air Combo
         - JMP + [OD空插 Combo](jamie-special-move.md#od空插-combo)
-    - ### JHK Air Combo
+    - #### JHK Air Combo
         - JHK + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
-    - ### JMK Air Combo
+    - #### JMK Air Combo
         - JMK + (前歩き + [投げ](#投げ))
 
 # Counter Combo
@@ -71,11 +71,11 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - ### 場中前投げ
-        - 前投げ(ボタンホールド)
+    - ### Midscreen 前投げ
+        - 前投げ(Hold)
         - 前投げ + [23F OKI](#23f-oki)
-    - #### 靠牆前投げ
-        - 前投げ(ボタンホールド) + [8F OKI](#8f-oki)
+    - #### Corner 前投げ
+        - 前投げ(Hold) + [8F OKI](#8f-oki)
 - ### 後ろ投げ
 
 # [OKI](../street-fighter-6.md#oki)
@@ -88,7 +88,7 @@
     - [2LP Combo](#2lp-combo)
 
 # [対空](../street-fighter-6.md#anti-air)
-- ### 昇竜
+- ### [昇竜 Combo](jamie-special-move.md#昇竜-combo)
 - ### 2HP + [8F OKI](#8f-oki)
 
 # todo

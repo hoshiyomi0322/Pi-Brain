@@ -3,7 +3,7 @@
 
 # 必殺技 Combo
 - ### 昇竜 Combo
-    - ### 中昇竜 Combo
+    - #### 中昇竜 Combo
         - 中昇竜 + SA3/DI
 
 # Heavy Attack Combo

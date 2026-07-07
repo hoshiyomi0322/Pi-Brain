@@ -15,7 +15,7 @@
 - ### Dark Ingrid：後嘲諷, 等Ingrid回來擊掌時，連按後嘲諷
     - ### Super Beam：22PPP
     - ### BO punch：214214K
-    - ### Sun Octopus(sa2)：6248KK
+    - ### Sun Octopus(SA2)：6248KK
 
 # 必殺技 Combo
 - ### [必殺技 Combo](ingrid-special-move.md)
@@ -53,7 +53,7 @@
 # todo
 - https://youtu.be/LarZbGKREbY
 - https://youtu.be/MUAie1HPhLE
-- sa2
+- SA2
     - https://youtu.be/98Eu1UWmFfo
     - https://www.youtube.com/shorts/BUFYxOfbPQI?feature=share
     - https://www.youtube.com/shorts/EYvxDzCCVNQ?feature=share
