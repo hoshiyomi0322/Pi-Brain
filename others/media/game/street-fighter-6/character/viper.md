@@ -53,7 +53,7 @@
     - #### Corner 前投げ
 - ### 後ろ投げ
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)

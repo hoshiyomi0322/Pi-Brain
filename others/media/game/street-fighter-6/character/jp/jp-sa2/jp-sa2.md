@@ -1,33 +1,33 @@
-# sa2重裂縫後續連段
-- 一般重裂縫後續連段
+# sa2重裂縫後續 Combo
+- 一般重裂縫後續 Combo
     - 裂縫重TC
         - [場中裂縫重TC](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (重腳 + 重手 + 重腳/重手) + [下重手連防連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (重腳 + 重手 + 中鬼/重鬼) + [重TC連防連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - (重腳 + 重手 + 重腳/重手) + [下重手連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - (重腳 + 重手 + 中鬼/重鬼) + [重TC連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
         - [靠牆裂縫重TC](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (重腳 + 重手 + 重腳/重手) + (下中手 + [中風神連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-            - (重腳 + 重手 + 中鬼/重鬼) + [重TC連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - (重腳 + 重手 + 重腳/重手) + (下中手 + [中風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - (重腳 + 重手 + 中鬼/重鬼) + [重TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
     - 靠牆(近距離)：[靠牆裂縫中下鬼](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 - 打動力槽
     - 場中打動力槽
-        - (重手 + DI) + 重地刺/(綠衝 + [空中前重腳連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[sa1連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (重手 + DI) + 重地刺/(綠衝 + [空中前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[sa1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
     - 接近牆打動力槽
-        - (重手 + DI) + (前前 + [靠牆前重腳連段(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - (重手 + DI) + (前前 + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
 - 重裂縫後續reset
     - 綠衝reset
         - (綠衝 + 中腳) + [重風神被防](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[重風神打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[對手DI](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
             - 重風神被防
                 - 重風神 + DI/指令投
             - 重風神打中
-                - 場中：重風神 + (前前 + 綠衝 + [空中前重腳連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-                - 接近牆：重風神 + [空中跳中腳連段(近距離)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - 場中：重風神 + (前前 + 綠衝 + [空中前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                - 接近牆：重風神 + [空中跳中腳 Combo(近距離)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
             - 對手DI
-                - 場中：重風神(對手DI) + [重風神連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-                - 靠牆：重風神(對手DI) + (延遲 + [靠牆前重腳連段(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                - 場中：重風神(對手DI) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - 靠牆：重風神(對手DI) + (delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
         - (綠衝 + 下中手 + 後中手) + (下輕手*2 + DI/指令投)
     - 下重腳reset
-        - (下重腳 + 中鬼/重鬼) + [重風神連段](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - (下重腳 + 中鬼/重鬼) + (延遲(等裂縫引爆) + 輕腳 + 指令投)
+        - (下重腳 + 中鬼/重鬼) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (下重腳 + 中鬼/重鬼) + (delay(等裂縫引爆) + 輕腳 + 指令投)
             - 對手後起身：(下重腳 + 中鬼/重鬼) + (前走(等裂縫引爆) + 輕腳 + 指令投)
         - (下重腳 + 假鬼 + [一般摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
 

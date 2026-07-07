@@ -1,6 +1,6 @@
 # 昇竜 Combo
 - ### 弱昇竜 Combo
-    - 弱昇竜 + 安全飛び
+    - 弱昇竜 + [42F OKI](jamie.md#42f-oki)
 
 # 酔拳 Combo
 - ### Midscreen 酔拳 Combo
@@ -11,6 +11,9 @@
     - 醉拳二派生 + (前ステ + [8F OKI](jamie.md#8f-oki))
     - 醉拳二派生 + ([消費](../../street-fighter-6.md#frame-kill)(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f))
 # 推掌 Combo
+- ### 強推掌 Combo
+    - 強推掌 + [SA3 Combo](jamie.md#sa3-combo)
+    - 強推掌 + [42F OKI](jamie.md#42f-oki)
 - ### OD推掌 Combo
     - #### Midscreen OD推掌 Combo
         - OD推掌 + [SA3 Combo](jamie.md#sa3-combo)

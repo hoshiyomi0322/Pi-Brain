@@ -70,6 +70,9 @@
     - [5MP Combo](#5mp-combo)
 - ### 22F OKI
     - 6HP + [2LP Combo](#2lp-combo)
+- ### 42F OKI
+    - 安全飛び
+    - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)

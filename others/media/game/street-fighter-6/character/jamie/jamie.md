@@ -78,11 +78,14 @@
         - 前投げ(Hold) + [8F OKI](#8f-oki)
 - ### 後ろ投げ
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 8F OKI
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
     - DR + [5HK Combo](#5hk-combo)
+- ### 42F OKI
+    - 安全飛び
+    - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)
