@@ -14,7 +14,11 @@
 |:---:|:---:|:---:|:---:|
 |Bold Text|**text**|`**text**`|select a text, `Ctrl+b`|
 |Italic Text|*text*|`*text*`|select a text, `Ctrl+i`|
+|Bold and Italic Text|***text***|`***text***`||
 |Strikethrough|~~text~~|`~~text~~`||
+|Highlight|==text==|`==text==`||
+|Superscript|a^b^|`a^b^`||
+|Subscript|a~b~|`a~b~`||
 
 # Horizontal Rule
 ---
