@@ -64,7 +64,8 @@
     - #### Marketing
     - #### Chart Patterns
 - ### Geography
-    - #### Geography of Japan
+    - #### [Geography of Japan](others/geography/geography-of-japan/geography-of-japan.md)
+    - #### Geography of Europe
     - #### Others (Geography)
 - ### History
     - #### History of Japan
