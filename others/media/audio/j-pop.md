@@ -12,7 +12,7 @@
 - ### Aimer (エメ)
 - ### Uru
 - ### aiko
-- ### milet
+- ### milet (ミレイ)
 - ### eill
 - ### ReoNa
 - ### あいみょん
