@@ -1,6 +1,10 @@
 - ### 東日本 (ひがしにほん)：関東、東北、東海、甲信越、北海道
 - ### 西日本 (にしにほん)：[近畿](prefectures-of-japan/honshu/kansai/kansai.md)、中部、中国、四国、九州
 
+# [都道府県](prefectures-of-japan/prefectures-of-japan.md)
+- ### [日本の地域](prefectures-of-japan/prefectures-of-japan.md#日本の地域-にほんのちいき)
+- ### [令制国](prefectures-of-japan/provinces-of-japan.md)
+
 # 日本三大 (にほんさんだい)
 - ### 三大都市圏 (さんだい としけん)
     - #### 首都圏 (関東)
@@ -22,10 +26,6 @@
     - #### 松島
     - #### 天橋立
     - #### 宮島 (厳島)
-
-# [都道府県](prefectures-of-japan/prefectures-of-japan.md)
-- ### [日本の地域](prefectures-of-japan/prefectures-of-japan.md#日本の地域-にほんのちいき)
-- ### [令制国](prefectures-of-japan/provinces-of-japan.md)
 
 # 日本旅行
 - ### [日本旅行](japan-travel.md)
