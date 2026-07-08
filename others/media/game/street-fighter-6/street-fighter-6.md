@@ -4,7 +4,7 @@
     - ### `ガード(Combo)` = Combo被防住
 - ### ガード (Blocking)
     - ### 立ちガード (Standing Block, 站防)
-    - ### しゃがみガード (Crouch Block, 蹲防)
+    - ### しゃがみガード (Crouch Block, しゃがみガード)
     - ### 連ガ (Block String)：連ガ時中間沒有空隙, 因此防守方無法使出任何招式, D反可以解除連防
 - ### 歩き
     - ### 前歩き：6
@@ -173,29 +173,29 @@
 - ### Punish Counter (PC, パニカン)
     - #### 4F Punish
         - JP：6HK
-        - Ken：輕龍尾腳, 輕迅雷
+        - Ken：弱龍尾腳, 弱迅雷
         - Vega：剪刀腳
-        - Chunli：輕劈腿, OD劈腿
+        - Chunli：弱劈腿, OD劈腿
         - Viper：2HP
         - Ingrid：HP,6HP
     - #### 6F Punish
         - Dリバ
-        - JP：MP, 2HP, 2HK, 輕弾
+        - JP：MP, 2HP, 2HK, 弱弾
         - Ryu：2HP, 2MK
         - Zangief：MP*2
-        - Jamie：輕推掌, 中推掌, 醉拳
+        - Jamie：弱推掌, 中推掌, 醉拳
     - #### 8F Punish
-        - JP：6HK(蹲防), 中弾, 重弾
+        - JP：6HK(しゃがみガード), 中弾, 強弾
         - Zangief：6HK
         - Ken：中龍尾腳, OD龍尾腳
         - Ryu：中足刀
-        - Lily：中蓄風, 重蓄風
-        - Chunli：輕百裂腳, 中百裂腳
+        - Lily：中蓄風, 強蓄風
+        - Chunli：弱百裂腳, 中百裂腳
     - #### 10F Punish
         - [昇竜](#昇竜-dragon-punch-dr)
-        - JP：3HP(中距離)
-        - Gouki：2HK, HK(蹲防)
-        - Ryu：2HK, 4HP, 中波掌擊, 輕足刀
+        - JP：3HP(Mid-range)
+        - Gouki：2HK, HK(しゃがみガード)
+        - Ryu：2HK, 4HP, 中波掌擊, 弱足刀
         - Zangief：2HK, 3HK
         - Honda：OD頭槌
         - Vega：2HK, 3HK, Psycho Crusher, 埋炸彈, 踩頭
