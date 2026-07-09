@@ -3,9 +3,11 @@
 - ### 214P
     - ### 集太陽：214LP
     - ### Beam：214MP/214HP
+        - OD Beam：214PP
 - ### Air 214P
-    - ### Air 集太陽：8/9 + 214LP
-    - ### Air Beam：8/9 + 214MP/214HP
+    - ### Air-集太陽：8/9 + 214LP
+    - ### Air-beam：8/9 + 214MP/214HP
+        - OD Air-beam：8/9 + 214PP
 - ### 昇竜：236K
 - ### 当身：22K
 - ### Teleport：6/2/4 + KKK
