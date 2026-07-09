@@ -46,7 +46,7 @@
 - ### [九州 (きゅうしゅう)](kyushu/kyushu.md)
 
 # 令制国
-- ### [令制国](provinces-of-japan.md)
+- ### [令制国](provinces-of-japan/provinces-of-japan.md)
 
 # 住民
 - ### 道民 (どうみん)＝北海道の住民

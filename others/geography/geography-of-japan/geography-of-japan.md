@@ -4,7 +4,7 @@
 
 # [都道府県](prefectures-of-japan/prefectures-of-japan.md)
 - ### [日本の地域](prefectures-of-japan/prefectures-of-japan.md#日本の地域-にほんのちいき)
-- ### [令制国](prefectures-of-japan/provinces-of-japan.md)
+- ### [令制国](prefectures-of-japan/provinces-of-japan/provinces-of-japan.md)
 
 # 日本三大 (にほんさんだい)
 - ### 三大都市圏 (さんだい としけん)
