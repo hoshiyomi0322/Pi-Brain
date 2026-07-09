@@ -35,15 +35,15 @@
 # 日本の地域 (にほんのちいき)
 <div align="center"><img src="./image/regions-of-japan.png" width="70%"></div>
 
-- ### 北海道 (ほっかいどう)
+- ### [北海道 (ほっかいどう)](hokkaido/hokkaido.md)
 - ### 本州 (ほんしゅう)
-    - ### 東北 (とうほく)
+    - ### [東北 (とうほく)](honshu/tohoku/tohoku.md)
     - ### [関東 (かんとう)](honshu/kanto/kanto.md)
     - ### [中部 (ちゅうぶ)](honshu/chubu/chubu.md)
     - ### [近畿 (きんき)、関西 (かんさい)](honshu/kansai/kansai.md)
     - ### [中国 (ちゅうごく)](honshu/chugoku/chugoku.md)
-- ### 四国 (しこく)
-- ### 九州 (きゅうしゅう)
+- ### [四国 (しこく)](shikoku/shikoku.md)
+- ### [九州 (きゅうしゅう)](kyushu/kyushu.md)
 
 # 令制国
 - ### [令制国](provinces-of-japan.md)
