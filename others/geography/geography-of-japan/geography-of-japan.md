@@ -1,4 +1,4 @@
-- ### 東日本 (ひがしにほん)：関東、東北、東海、甲信越、北海道
+- ### 東日本 (ひがしにほん)：[関東](prefectures-of-japan/honshu/kanto/kanto.md)、東北、東海、甲信越、北海道
 - ### 西日本 (にしにほん)：[近畿](prefectures-of-japan/honshu/kansai/kansai.md)、中部、中国、四国、九州
 
 # [都道府県](prefectures-of-japan/prefectures-of-japan.md)
@@ -7,15 +7,15 @@
 
 # 日本三大 (にほんさんだい)
 - ### 三大都市圏 (さんだい としけん)
-    - #### 首都圏 (関東)
+    - #### [首都圏 (関東)](prefectures-of-japan/honshu/kanto/kanto.md#首都圏-しゅとけん)
     - #### 中京圏 (中部)
-    - #### [京阪神 (近畿)](prefectures-of-japan/honshu/kansai/kansai.md#京阪神-けいはんしん京都大阪神戸)
+    - #### [京阪神 (近畿)](prefectures-of-japan/honshu/kansai/kansai.md#京阪神-けいはんしん)
 - ### 三大工業地帯 (さんだい こうぎょうちたい)
-    - #### 京浜工業地帯 (関東)
+    - #### [京浜工業地帯 (関東)](prefectures-of-japan/honshu/kanto/kanto.md)
     - #### 中京工業地帯 (中部)
     - #### [阪神工業地帯 (近畿)](prefectures-of-japan/honshu/kansai/kansai.md)
 - ### 三大電気街 (さんだい でんきがい)
-    - #### 秋葉原 (東京)
+    - #### [秋葉原 (東京)](prefectures-of-japan/honshu/kanto/tokyo.md#秋葉原-あきはばら)
     - #### 大須 (名古屋)
     - #### [日本橋 (大阪)](prefectures-of-japan/honshu/kansai/osaka.md#日本橋-にっぽんばし)
 - ### 三大和牛 (さんだい わぎゅう)
