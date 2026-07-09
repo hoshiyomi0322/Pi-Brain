@@ -1,9 +1,11 @@
 # 南西諸島 (なんせいしょとう)
+<div align="center"><img src="./image/nansei-islands.png" width="80%"></div>
+
 - ### [鹿児島県](kagoshima.md)
     - #### [薩南諸島 (さつなん しょとう)](kagoshima.md#薩南諸島-さつなん-しょとう)
 - ### [沖縄県](okinawa.md)
-    - #### 琉球諸島 (りゅうきゅう しょとう)
-    - #### 大東諸島 (だいとう しょとう)
+    - #### [琉球諸島 (りゅうきゅう しょとう)](okinawa/okinawa.md#琉球諸島-りゅうきゅう-しょとう)
+    - #### [大東諸島 (だいとう しょとう)](okinawa/okinawa.md#大東諸島-だいとう-しょとう)
 
 # 九州 (きゅうしゅう)
 - ### [長崎県 (ながさきけん)](nagasaki.md)
@@ -13,4 +15,5 @@
 - ### [大分県 (おおいたけん)](oita.md)
 - ### 宮崎県 (みやざきけん)
 - ### [鹿児島県 (かごしまけん)](kagoshima.md)
-- ### [沖縄県 (おきなわけん)](okinawa.md)
+- ### [沖縄県 (おきなわけん)](okinawa/okinawa.md)
+    - #### [沖縄本島 (おきなわほんとう)](okinawa/okinawa-island.md)
