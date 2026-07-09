@@ -171,27 +171,27 @@
 # Counter
 - ### Crush Counter (CC)
 - ### Punish Counter (PC, パニカン)
-    - #### 4F Punish
+    - #### 4F PC
         - JP：6HK
         - Ken：弱龍尾腳, 弱迅雷
         - Vega：剪刀腳
         - Chunli：弱劈腿, OD劈腿
         - Viper：2HP
         - Ingrid：HP,6HP
-    - #### 6F Punish
+    - #### 6F PC
         - Dリバ
         - JP：MP, 2HP, 2HK, 弱弾
         - Ryu：2HP, 2MK
         - Zangief：MP*2
         - Jamie：弱推掌, 中推掌, 醉拳
-    - #### 8F Punish
+    - #### 8F PC
         - JP：6HK(しゃがみガード), 中弾, 強弾
         - Zangief：6HK
         - Ken：中龍尾腳, OD龍尾腳
         - Ryu：中足刀
         - Lily：中蓄風, 強蓄風
         - Chunli：弱百裂腳, 中百裂腳
-    - #### 10F Punish
+    - #### 10F PC
         - [昇竜](#昇竜-dragon-punch-dr)
         - JP：3HP(Mid-range)
         - Gouki：2HK, HK(しゃがみガード)
