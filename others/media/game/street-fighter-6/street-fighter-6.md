@@ -211,9 +211,10 @@
 - ### [Terry](./character/jp/jp.md)
 - ### [Terry](./character/terry.md)
 - ### [Jamie](./character/jamie/jamie.md)
+- ### [Vega](./character/vega/vega.md)
+- ### [Alex](./character/alex/alex.md)
 - ### [Viper](./character/viper.md)
 - ### [Ingrid](./character/ingrid/ingrid.md)
-- ### [Vega](./character/vega/vega.md)
 
 # todo
 - https://docs.google.com/spreadsheets/d/15U0knWcTcLw-BEUaFYq9bUEQ-3GefUEYjPdDalld4oI/edit?gid=139002400#gid=139002400
