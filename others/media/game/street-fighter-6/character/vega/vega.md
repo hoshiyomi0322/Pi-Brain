@@ -29,7 +29,6 @@
 - ### DR 6HP Combo
     - (DR + 6HP) + [2MP Combo](#2mp-combo)
 
-
 # Medium Attack Combo
 - ### 5MP Combo
     - Close-range：5MP + [2MP Combo](#2mp-combo)
@@ -40,12 +39,14 @@
 
 # Light Attack Combo
 - ### 2LP Combo
-    - (2LP + 2LP) + [Light Cancel Combo](#light-cancel-combo)
+    - 2LP + [Light Cancel Combo](#light-cancel-combo)
 
 # Counter Combo
 - ### Counter Combo
+    - [剪刀腳 Counter Combo](vega-special-move.md#剪刀腳-counter-combo)
 - ### PC Combo
     - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - [剪刀腳 PC Combo](vega-special-move.md#剪刀腳-pc-combo)
 
 # DI Combo
 - ### DI PC Combo

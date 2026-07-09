@@ -26,6 +26,11 @@
     - OD剪刀腳 + (5HP + SA1/SA2/SA3)
     - OD剪刀腳 + [6HP High-Air Combo](vega.md#6hp-high-air-combo)
 
+# 剪刀腳 Counter Combo
+- 剪刀腳 + [2LP Combo](vega.md#2lp-combo)
+- ### 剪刀腳 PC Combo
+    - 剪刀腳 + [2MP Combo](vega.md#2mp-combo)
+
 # 埋炸彈 Combo
 - ### 弱埋炸彈 Combo
 - ### 中埋炸彈 Combo
