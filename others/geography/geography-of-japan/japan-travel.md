@@ -2,9 +2,10 @@
 - ### 訂機票
     - #### [Skyscanner](https://www.skyscanner.com.tw/)
     - #### [Google Flights](https://www.google.com/travel/flights)
-- ### Airline Ticket
-    - #### e-Ticket (電子機票)
-- ### Boarding pass (登機證)
+- ### Airline Ticket、航空券(こうくうけん)
+    - #### e-Ticket、電子機票
+- ### Passport、パスポート、旅券(りょけん)
+- ### Boarding pass、搭乗券(とうじょうけん)、登機證
 - ### [Visit Japan Web](https://www.vjw.digital.go.jp/)：QR code
 
 # 出境流程

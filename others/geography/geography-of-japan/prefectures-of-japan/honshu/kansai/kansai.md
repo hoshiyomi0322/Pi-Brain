@@ -17,9 +17,9 @@
 # 京阪電気鉄道 (けいはんでんきてつどう)
 <div align="center"><img src="./image/keihan.png"></div>
 
-- ### [京都](kyoto.md) → [大阪](osaka.md)
+- ### 京阪：[京都](kyoto.md) → [大阪](osaka.md)
 
 # 阪神電気鉄道 (はんしんでんきてつどう)
 <div align="center"><img src="./image/hanshin.png"></div>
 
-- ### [大阪](osaka.md) → [神戸](hyogo.md#神戸市-こうべし)
+- ### 阪神：[大阪](osaka.md) → [神戸](hyogo.md#神戸市-こうべし)
