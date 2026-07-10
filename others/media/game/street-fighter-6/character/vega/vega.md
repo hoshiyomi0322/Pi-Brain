@@ -1,9 +1,9 @@
 # Command
-- ### Psycho-Crusher：4(溜め) + 6 + P
-- ### 起飛：2(溜め) + 8 + K
-    - #### 踩頭：(2(溜め) + 8 + K) + K
-    - #### 踩打頭：(2(溜め) + 8 + K) + (K + P)
-    - #### 惡魔倒轉：(2(溜め) + 8 + K) + P
+- ### Psycho-Crusher：4(溜め) + 6P
+- ### 起飛：2(溜め) + 8K
+    - #### 踩頭：(2(溜め) + 8K) + K
+    - #### 踩打頭：(2(溜め) + 8K) + (K + P)
+    - #### 惡魔倒轉：(2(溜め) + 8K) + P
 - ### 埋炸彈：214P
 - ### 剪刀腳：236K
 
@@ -31,7 +31,7 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - Close-range：5MP + [2MP Combo](#2mp-combo)
+    - Close：5MP + [2MP Combo](#2mp-combo)
     - ガード(5MP) + [2MP Combo](#2mp-combo)
 - ### 2MP Combo
     - ガード(2MP) + [2MP Combo](#2mp-combo)

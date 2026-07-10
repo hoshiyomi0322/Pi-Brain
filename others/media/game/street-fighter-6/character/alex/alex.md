@@ -10,7 +10,7 @@
     - Stance-move
         - Stance-forward：(2 + PP) + 6
         - Stance-backward：(2 + PP) + 4
-    - Stance-elbow：(2 + PP) + (6 + P)
+    - Stance-elbow：(2 + PP) + 6P
     - Stance-lp：(2 + PP) + LP
     - Stance-対空：(2 + PP) + MP
     - Stance-chop：(2 + PP) + HP
@@ -19,7 +19,7 @@
     - Stance-踩頭：(2 + PP) + MK
     - Stance-下段：(2 + PP) + HK
         - Stance-下段派生：(2 + PP) + (HK + HK)
-    - Stance-投げ (Close-range)：(2 + PP) + 投げ
+    - Stance-投げ (Close)：(2 + PP) + 投げ
     - Stance-コマ投げ：(2 + PP) + (2 + 投げ)
 
 

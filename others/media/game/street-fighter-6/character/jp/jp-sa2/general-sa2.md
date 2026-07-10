@@ -1,137 +1,138 @@
-# 重TC sa2
-- sa2 + 下中腳 + (重腳 + 重手 + 重裂縫) + [sa2重裂縫後續 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# 強TC SA2
+- SA2 + 2MK + (5HK + 5HP + 強裂縫) + [SA2強裂縫Extension Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 換邊sa2
-- sa2 + 下中腳 + 前跳 + (重手 + 重裂縫) + [sa2重裂縫後續 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- 牆邊換邊sa2
-    - sa2 + 下重手 + 中裂縫 + (後後 + 前跳 + 跳重腳) + (前重腳 + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+# Switch SA2
+- SA2 + 2MK + 9 + (5HP + 強裂縫) + [SA2強裂縫Extension Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- C-Switch SA2
+    - SA2 + 2HP + 中裂縫 + (バクステ + 9 + JHK) + (6HK + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
 
-# 打動力槽sa2
-- sa2 + (中腳 + 重裂縫) + (重手 + DI + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+# 打動力槽SA2
+- SA2 + (5MK + 強裂縫) + (5HP + DI + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
 
-# 搬運sa2
-- sa2 + 下中腳 + (前前 + 重手 + 輕裂縫) + (前前 + 重手 + 中鬼) + (前跳 + 跳中腳 + 綠衝 + 前重腳)/(前前 + 前重腳) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- 搬運reset sa2
-    - sa2 + 下中腳 + (前前 + 重手 + 輕裂縫) + (前前 + 重手 + 中鬼) + (前跳 + 跳輕腳) + DI/指令投
-    - sa2 + 下中腳 + (前前 + 重手 + 重裂縫) + (前前 + 重手 + 中鬼) + (前跳 + 跳輕腳) + delay(等對手落地換邊) + (中腳 + DI/指令投)
+# SA2 Carry Combo
+- SA2 + 2MK + (前ステ + 5HP + 弱裂縫) + (前ステ + 5HP + 中弾) + (9 + JMK + DR + 6HK)/(前ステ + 6HK) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 Reset Carry Combo
+    - SA2 + 2MK + (前ステ + 5HP + 弱裂縫) + (前ステ + 5HP + 中弾) + (9 + JLK) + DI/コマ投げ
+    - SA2 + 2MK + (前ステ + 5HP + 強裂縫) + (前ステ + 5HP + 中弾) + (9 + JLK) + delay(等相手 落地Switch ) + (5MK + DI/コマ投げ)
 
-# General reset sa2
-- sa2 + (中腳 + 重裂縫) + (前前 + 中腳 + 裂縫傳送) + [重TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- sa2 + (輕手 + DI) + 重裂縫 + 下輕腳 + (前跳(安全跳) + 跳輕腳) + (跳 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/下中腳 + [空中前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - 場中(對手原地起身)：(前跳(安全跳) + 跳輕腳)
-    - 場中(對手後起身)：(前跳(安全跳) + 跳輕腳)
-    - 靠牆：sa2 + (輕手 + DI) + 重裂縫 + 下輕腳 + (前跳(安全跳) + [通用靠牆裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-- sa2 + (輕手 + DI) + [空中DI sa2](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# General Reset SA2
+- SA2 + (5MK + 強裂縫) + (前ステ + 5MK + 裂縫傳送) + [強TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 + (5LP + DI) + 強裂縫 + 2LK + 安全飛び(JLK) + (8 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/2MK + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - Midscreen (相手 その場受け身)：安全飛び(JLK)
+    - Midscreen (相手 後方受け身)：安全飛び(JLK)
+    - Corner：SA2 + (5LP + DI) + 強裂縫 + 2LK + 安全飛び([通用Corner 裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- SA2 + (5LP + DI) + [Air DI SA2](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 場中General reset sa2
-- sa2 + (下中腳 + OD裂縫(中重)) + (前前 + 輕手 + 下中腳) + 後後 + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[下重手reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - sa2 + (下中腳 + OD裂縫(中重)) + (前前 + 輕手 + 下中腳) + 後後 + [重TC連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- sa2 + 下重手 + (前跳 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 重裂縫 + [sa2重裂縫後續 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[通用場中裂縫摔擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - 對手凹：sa2 + 下重手 + (前跳 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 重裂縫 + (重手 + 輕地刺 + delay(等裂縫引爆) + 重地刺)
+# Midscreen General Reset SA2
+- SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP + 2MK) + バクステ + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[2HP Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP + 2MK) + バクステ + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 + 2HP + (9 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 強裂縫 + [SA2強裂縫Extension Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[通用Midscreen 裂縫投げ擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - 相手 パナシ：SA2 + 2HP + (9 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 強裂縫 + (5HP + 弱地刺 + delay(等裂縫引爆) + 強地刺)
 
-# 靠牆General reset sa2
-- sa2 + (下中腳 + 重手 + 裂縫) + (前前 + 重手 + 地刺) + (OD裂縫 + 下重手) + [中下擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(裂縫傳送(輕) + [通用靠牆裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+# Corner General Reset SA2
+- SA2 + (2MK + 5HP + 裂縫) + (前ステ + 5HP + 地刺) + (OD裂縫 + 2HP) + [中下擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(裂縫傳送(弱) + [通用Corner 裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
     - 中下擇
-        - (中鬼/重鬼 + 中鬼/重鬼) + (delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-        - (中鬼/重鬼 + 中鬼/重鬼) + [靠牆裂縫引爆 Combo(中距離)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (中弾/強弾 + 中弾/強弾) + (delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - (中弾/強弾 + 中弾/強弾) + [Corner 裂縫引爆 Combo(Mid)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# DI指令投sa2
-- sa2 + (中腳 + 輕裂縫) + 前前*2 + (前跳 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 前前 + (下輕手 + DI/指令投)
-- sa2 + (中腳 + 輕手 + 輕裂縫) + 前跳 + (重手 + 中鬼) + (輕腳 + DI/指令投)
-- 場中DI指令投sa2
-    - sa2 + (中腳 + 重裂縫) + [重TC擇reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - sa2 + (中腳 + 輕裂縫) + (前前*2 + 前跳 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + (前前 + 前走) + (下輕手 + DI/指令投)
-    - sa2 + (中腳 + OD裂縫(中重)) + (重手 + 裂縫傳送(輕)) + (跳輕腳 + 後中手) + 前前 + (輕腳 + DI/指令投)
-- 靠牆DI指令投sa2
-    - sa2 + (下中腳 + 中腳 + 重手 + 裂縫) + (綠衝 + 下中手 + 後中手) + (下輕手 + 輕手 + DI/指令投)
-    - sa2 + (下中腳 + 重手 + 裂縫) + (前前 + 重手 + 中鬼) + (下輕手 + DI/指令投)
-    - sa2 + 下中腳 + (前前 + 下重手 + OD裂縫) + (前前 + 中鬼 + 下輕手 + DI)
-    - sa2 + (下重手 + OD裂縫) + (後中手 + 中手 + 下中手 + DI)
+# DIコマ投げSA2
+- SA2 + (5MK + 弱裂縫) + 前ステ*2 + (9 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + 前ステ + (2LP + DI/コマ投げ)
+- SA2 + (5MK + 5LP + 弱裂縫) + 9 + (5HP + 中弾) + (5LK + DI/コマ投げ)
+- Midscreen DIコマ投げSA2
+    - SA2 + (5MK + 強裂縫) + [強TC擇 Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - SA2 + (5MK + 弱裂縫) + (前ステ*2 + 9 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + (前ステ + 前歩き) + (2LP + DI/コマ投げ)
+    - SA2 + (5MK + OD裂縫(中強)) + (5HP + 裂縫傳送(弱)) + (JLK + 4MP) + 前ステ + (5LK + DI/コマ投げ)
+- Corner DIコマ投げSA
+    - SA2 + (2MK + 5MK + 5HP + 裂縫) + (DR + 2MP + 4MP) + (2LP + 5LP + DI/コマ投げ)
+    - SA2 + (2MK + 5HP + 裂縫) + (前ステ + 5HP + 中弾) + (2LP + DI/コマ投げ)
+    - SA2 + 2MK + (前ステ + 2HP + OD裂縫) + (前ステ + 中弾 + 2LP + DI)
+    - SA2 + (2HP + OD裂縫) + (4MP + 5MP + 2MP + DI)
 
-# 摔reset sa2
-- sa2 + (下中腳 + 重手 + 下中手 + delay + 重裂縫) + [場中裂縫摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- sa2 + (中腳*2 + 下中腳 + 重裂縫) + [場中裂縫摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# 投げ Reset SA2
+- SA2 + (2MK + 5HP + 2MP + delay + 強裂縫) + [Midscreen 裂縫投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 + (5MK*2 + 2MK + 強裂縫) + [Midscreen 裂縫投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 牆邊換邊摔reset sa2
-- sa2 + (中腳*2 + 下中腳 + 輕裂縫) + (後摔 + [靠牆裂縫引爆 Combo(綠衝)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[場中裂縫Shimmy Combo(後後)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# C-Switch 投げ Reset SA2
+- SA2 + (5MK*2 + 2MK + 弱裂縫) + (後ろ投げ + [Corner 裂縫引爆 Combo(DR)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[Midscreen 裂縫Shimmy(バクステ)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 場中輕風神reset sa2
-- sa2 + (中腳 + 輕風神 + OD裂縫(輕重)) + (下輕手 + 下重手) + [中下鬼擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[左右擇](https://www.notion.so/2adfcc46db4380658bf1dcd6a98908d8?pvs=25#2c5fcc46db438025a2f5cc9cf16805cd)/[前跳擇](https://www.notion.so/2adfcc46db4380658bf1dcd6a98908d8?pvs=25#2c5fcc46db438068a758da9a17091317)
-    - 中下鬼擇
-        - 中鬼/重鬼 + delay/前前 + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 中鬼/重鬼 + [綠衝中下擇 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 中鬼/重鬼 + 前前 + [重TC連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# Midscreen 弱風神 Reset SA2
+- SA2 + (5MK + 弱風神 + OD裂縫(弱強)) + (2LP + 2HP) + [中下弾擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[左右擇](https://www.notion.so/2adfcc46db4380658bf1dcd6a98908d8?pvs=25#2c5fcc46db438025a2f5cc9cf16805cd)/[前跳擇](https://www.notion.so/2adfcc46db4380658bf1dcd6a98908d8?pvs=25#2c5fcc46db438068a758da9a17091317)
+    - 中下弾擇
+        - 中弾/強弾 + delay/前ステ + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 中弾/強弾 + [DR中下擇 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 中弾/強弾 + 前ステ + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
     - 左右擇
-        - 裂縫傳送(輕)
-            - 裂縫傳送(輕) + (跳輕腳 + 下輕手) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-                - 裂縫傳送(輕) + (跳輕腳 + 下輕腳) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - 裂縫傳送(輕) + [General 摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫傳送(中) + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫被防](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - 裂縫打中：[重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - 裂縫被防：裂縫傳送(中) + [跳輕腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/DI/指令投
-    - 前跳擇：前跳 + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫被防](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫打中：[重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫被防：前跳 + DI/指令投/[跳重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- sa2 + (中腳 + 輕風神 + OD裂縫(輕中)) + (下輕手 + 下重手) + [左右擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[前跳擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[綠衝換邊擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - 綠衝換邊擇：取消綠衝 + delay(等綠衝換邊) + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫被防](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫打中：[重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫被防：[換邊傳送擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[中下擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - 換邊傳送擇：裂縫傳送 + [跳輕腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[General 摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/DI/指令投
-            - 中下擇：前中腳/下中腳 + [空中前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫傳送(弱)
+            - 裂縫傳送(弱) + (JLK + 2LP) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - 裂縫傳送(弱) + (JLK + 2LK) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - 裂縫傳送(弱) + [General 投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫傳送(中) + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫ガード](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - 裂縫打中：[強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - 裂縫ガード：裂縫傳送(中) + [JLK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/DI/コマ投げ
+    - 前跳擇：9 + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫ガード](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫打中：[強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫ガード：9 + DI/コマ投げ/[JHK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 + (5MK + 弱風神 + OD裂縫(弱中)) + (2LP + 2HP) + [左右擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[前跳擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[DRSwitch 擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - DRSwitch 擇：CDR + delay(等DRSwitch ) + [裂縫打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[裂縫ガード](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫打中：[強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫ガード：[Switch 傳送擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[中下擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - Switch 傳送擇：裂縫傳送 + [JLK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[General 投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/DI/コマ投げ
+            - 中下擇：6MK/2MK + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# F式reset sa2
-- 場中F式reset sa2
-    - sa2 + (中腳 + OD裂縫(輕中)) + (輕手 + 裂縫傳送(輕) + 跳輕腳 + 下中腳) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- 牆邊換邊F式reset sa2
-    - sa2 + (中腳 + OD裂縫(輕中)) + (輕手 + 裂縫傳送(輕) + 跳輕腳 + 下中腳) + (前前 + delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-- 靠牆F式reset sa2
-    - sa2 + (中腳 + OD裂縫) + (輕手 + 裂縫傳送(輕) + 跳輕腳) + (前跳 + [靠牆高空前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+# F式 Reset SA2
+- Midscreen F式 Reset SA2
+    - SA2 + (5MK + OD裂縫(弱中)) + (5LP + 裂縫傳送(弱) + JLK + 2MK) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- C-Switch F式 Reset SA2
+    - SA2 + (5MK + OD裂縫(弱中)) + (5LP + 裂縫傳送(弱) + JLK + 2MK) + (前ステ + delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- Corner F式 Reset SA
+    - SA2 + (5MK + OD裂縫) + (5LP + 裂縫傳送(弱) + JLK) + (9 + [Corner High-Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
 
-# 跳重腳reset sa2
-- sa2 + (下中腳 + 重手 + 重裂縫) + (跳 + 跳重腳 + 前中腳) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-    - 前中腳被防
-        - sa2 + (下中腳 + 重手 + 重裂縫) + (跳 + 跳重腳 + 前中腳) + [重TC連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - 場中指令投reset
-        - sa2 + (下中腳 + 重手 + 重裂縫) + (跳 + 跳重腳 + 前中腳) + (輕手 + 指令投)
-- 場中跳重腳reset sa2
-    - sa2 + (下中腳 + 重手 + 重裂縫) + (跳 + 跳重腳) + (重腳 + 重手 + 指令投)
+# JHK Reset SA2
+- SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK + 6MK) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - 6MKガード
+        - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK + 6MK) + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - Midscreen コマ投げ Reset
+        - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK + 6MK) + (5LP + コマ投げ)
+- Midscreen JHK Reset SA2
+    - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + (5HK + 5HP + コマ投げ)
 
-# 下重腳reset sa2
-- sa2 + (下中腳 + 重手*2 + OD裂縫(輕重)) + 下重腳 + [傳送擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[中下鬼擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# 2HK Reset SA2
+- SA2 + (2MK + 5HP*2 + OD裂縫(弱強)) + 2HK + [傳送擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[中下弾擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
     - 傳送擇
-        - (裂縫傳送(中) + 跳中腳) + [綠衝空中前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 裂縫被防
-            - (裂縫傳送(中) + 跳中腳) + [重手 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[前重腳 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[重TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 跳中腳被防
-            - (裂縫傳送(中) + 跳中腳) + [General 摔](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - 中下鬼擇
-        - 中鬼/重鬼 + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 中鬼/重鬼 + 指令投
-- sa2 + (中腳 + 重裂縫) + 下重腳 + (前前 + 下中腳) + [重風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-    - 下中腳被防
-        - 場中：sa2 + (中腳 + 重裂縫) + 下重腳 + (前前 + 下中腳) + [重TC連防 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - 靠牆：sa2 + (中腳 + 重裂縫) + 下重腳 + (前前 + 下中腳) + [重TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- 靠牆下重腳reset sa2
-    - sa2 + (下中腳 + 中腳 + 重手 + OD裂縫) + (下重腳 + 裂縫傳送(中)) + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - sa2 + (下中腳 + 中腳 + 裂縫) + (下中手 + 下重腳 + 前跳 + 後走) + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (裂縫傳送(中) + JMK) + [DR Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 裂縫ガード
+            - (裂縫傳送(中) + JMK) + [5HP Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[強TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - JMKガード
+            - (裂縫傳送(中) + JMK) + [General 投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - 中下弾擇
+        - 中弾/強弾 + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 中弾/強弾 + コマ投げ
+- SA2 + (5MK + 強裂縫) + 2HK + (前ステ + 2MK) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/(delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - 2MKガード
+        - Midscreen：SA2 + (5MK + 強裂縫) + 2HK + (前ステ + 2MK) + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - Corner：SA2 + (5MK + 強裂縫) + 2HK + (前ステ + 2MK) + [強TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- Corner 2HK Reset SA
+    - SA2 + (2MK + 5MK + 5HP + OD裂縫) + (2HK + 裂縫傳送(中)) + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - SA2 + (2MK + 5MK + 裂縫) + (2MP + 2HK + 9 + 後ろ歩き) + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 雙重腳reset sa2
-- 場中雙重腳reset sa2
-    - sa2 + (下中腳 + 重手 + 重裂縫) + (重腳 + 重腳 + 重手) + (前走 + 輕腳 + DI/指令投)
-- 靠牆雙重腳reset sa2
-    - sa2 + (下中腳 + 重手 + 裂縫) + (重腳 + 重腳 + 重手 + 裂縫) + [靠牆裂縫後中下鬼壓起身](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# 雙5HK Reset SA2
+- Midscreen 雙5HK Reset SA2
+    - SA2 + (2MK + 5HP + 強裂縫) + (5HK + 5HK + 5HP) + (前歩き + 5LK + DI/コマ投げ)
+- Corner 雙5HK Reset SA
+    - SA2 + (2MK + 5HP + 裂縫) + (5HK + 5HK + 5HP + 裂縫) + [Corner 裂縫後中下弾OKI](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 靠牆前重腳reset sa2
-# 靠牆前重腳裂縫傳送reset sa2
-- sa2 + (前重腳 + 裂縫) + (裂縫傳送 + 跳中腳) + 跳 + DI/指令投
-- sa2 + (前重腳 + 裂縫) + (裂縫傳送 + 跳中腳) + 輕裂縫 + (delay + [通用靠牆裂縫摔擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[靠牆裂縫Shimmy Combo(後後)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-    - sa2 + (前重腳 + 裂縫) + (裂縫傳送 + 跳中腳) + 中裂縫 + (後摔 + 中腳 + 指令投)
-- sa2 + (前重腳 + 裂縫) + (裂縫傳送 + 輕裂縫) + [靠牆裂縫後中下鬼壓起身](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# Corner 6HK Reset SA2
+# Corner 6HK裂縫傳送 Reset SA2
+- SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 8 + DI/コマ投げ
+- SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 弱裂縫 + (delay + [通用Corner 裂縫投げ擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[Corner 裂縫Shimmy(バクステ)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 中裂縫 + (後ろ投げ + 5MK + コマ投げ)
+- SA2 + (6HK + 裂縫) + (裂縫傳送 + 弱裂縫) + [Corner 裂縫後中下弾OKI](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
 
-# 靠牆前重腳中下擇reset sa2
-- sa2 + (前重腳 + OD裂縫) + 下重手 + (下中腳 + 重腳 + delay + [靠牆前重腳 Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-    - sa2 + (前重腳 + OD裂縫) + (下重手 + 下中腳) + [重TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-- sa2 + (前重腳 + OD裂縫) + 下重手 + (裂縫傳送(輕) + [通用靠牆裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-- sa2 + (前重腳 + 裂縫) + (下重手 + 下中腳) + (裂縫引爆 + [靠牆裂縫引爆 Combo(近距離)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-- sa2 + (前重腳 + 裂縫) + (跳 + 跳中腳 + 地刺*2) + (裂縫 + [通用靠牆裂縫摔擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[靠牆裂縫Shimmy Combo(後走](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)[)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-- sa2 + (前重腳 + 後跳) + [靠牆空中DI sa2](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+# Corner 6HK中下擇 Reset SA2
+- SA2 + (6HK + OD裂縫) + 2HP + (2MK + 5HK + delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - SA2 + (6HK + OD裂縫) + (2HP + 2MK) + [強TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- SA2 + (6HK + OD裂縫) + 2HP + (裂縫傳送(弱) + [通用Corner 裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- SA2 + (6HK + 裂縫) + (2HP + 2MK) + (裂縫引爆 + [Corner 裂縫引爆 Combo(Close)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- SA2 + (6HK + 裂縫) + (8 + JMK + 地刺*2) + (裂縫 + [通用Corner 裂縫投げ擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner 裂縫Shimmy(後ろ歩き](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)[)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- SA2 + (6HK + 後跳) + [Corner Air DI SA2](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+

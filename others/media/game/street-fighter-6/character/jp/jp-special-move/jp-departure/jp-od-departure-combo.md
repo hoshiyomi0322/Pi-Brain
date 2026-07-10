@@ -1,0 +1,64 @@
+- ### Air OD裂縫 Combo
+
+- ### Corner OD裂縫 Combo
+    - Corner OD裂縫 Combo(風神)
+        - 1裂縫(無delay)
+            - [Air JMK Combo(Close)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 2裂縫(delay)
+            - (OD裂縫 + 5HP + 中弾) + (2LK + 2MP)/(6HK + delay) + [Corner Highest-Air 地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - (OD裂縫 + 5HP + 中弾) + (3HP + OD弾 + [Corner High-Air 地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - (OD裂縫 + 5HP + 強弾) + (弱風神 + 地刺) + [Corner SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner OD裂縫擇(地刺)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+            - (OD裂縫 + 5HP + 強弾) + 弱風神 + (DR + [Near-Corner Air DR2HP Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - 2裂縫 Reset(delay)
+                - (OD裂縫 + 5HP + 強弾) + (5MK + 裂縫) + [Corner 裂縫後中下弾OKI](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - (OD裂縫 + 5HK + 6MK) + (5HK + delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                    - (OD裂縫 + 5HK + 6MK) + (2MK + delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - 3裂縫(delay)
+            - (OD裂縫 + 5HP + 地刺) + (delay + OD裂縫 + 裂縫引爆 + 5LP + [Corner High-Air 地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - Corner OD裂縫Rese
+        - Corner OD裂縫F式Rese
+            - (OD裂縫 + 2HP + 裂縫傳送(弱)) + [通用Corner 裂縫F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - Corner OD裂縫中下弾Rese
+            - (OD裂縫 + delay + 2HP + 中弾/強弾 + 中弾/強弾) + (delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - (OD裂縫 + delay + 2HP + 中弾/強弾 + 2MP + DI)
+    - Corner OD裂縫 Combo(6HK中弾)
+        - (OD裂縫 + delay + 6HK + 中弾) + (delay + [Corner OD裂縫 Combo(風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner OD裂縫 Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - [Corner OD裂縫 Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - Corner OD裂縫 Combo(弱弾)
+        - delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 2MK/前ステ + [Corner OD裂縫 Combo(6HK中弾)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - Corner OD裂縫 Combo(バクステ6HK)
+        - delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 前ステ + [Corner OD裂縫 Combo(6HK中弾)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (delay + OD裂縫 + 中風神) + (2HK + [Corner OD裂縫 Combo(風神2裂縫)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+
+- ### Midscreen OD裂縫 Combo
+
+    - Midscreen OD裂縫 Combo(風神)
+        - (前ステ + delay + [2HP Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - 1裂縫
+            - 前歩き + [Air JMK Combo(Close)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - 2裂縫
+            - 2裂縫(引爆)
+                - delay + (OD裂縫(弱中) + 5HP + 裂縫引爆) + (delay(等第2個裂縫引爆) + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                - delay + (OD裂縫(弱中) + 5HP + 裂縫引爆) + (5MP + [SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - 2裂縫(中弾)
+                - delay + (OD裂縫(弱中) + 5HP + 中弾) + (バクステ + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                - delay + (OD裂縫(弱中) + 5HP + 中弾) + (5MP + [SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+            - 2裂縫 Reset
+                - delay + (OD裂縫(弱強) + 2HP + 裂縫傳送(弱)) + (JHK + [中下擇](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                    - 中下擇
+                        - (9 + [F式](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)) + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                        - 2MK + [HP Air Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[2HP Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - delay + (OD裂縫(中強) + 2HP + 中弾/強弾) + (前ステ*2 + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                    - delay + (OD裂縫(中強) + 2HP + 中弾/強弾) + (前ステ*2 + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - Midscreen OD裂縫 Combo(弱弾)
+        - (前ステ*2 + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+
+- ### BTW OD裂縫 Combo
+    - (OD裂縫(中強) + 5HP + 強弾) + (バクステ + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - (OD裂縫(中強) + 5HP + 強弾) + (5MP + [SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+
+- ### 打動力槽OD裂縫 Combo
+
+    - OD裂縫(弱強) + (5HP + DI) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)

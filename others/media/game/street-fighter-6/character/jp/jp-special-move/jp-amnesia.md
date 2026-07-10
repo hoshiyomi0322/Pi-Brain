@@ -1,0 +1,32 @@
+# 当身 Combo
+- 当身 + 2MK + 前ステ + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- ### BTW 当身 Combo
+    - 当身 + (4MP + 強裂縫) + (前歩き + 6HK + 強地刺) + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- ### C-Switch 当身 Combo
+    - 当身 + (4MP + 強裂縫) + (前歩き + 6HK + 裂縫引爆) + 前ステ + [Corner HP Air Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+
+# OD当身 Combo
+- ### General OD当身 Combo
+    - OD当身 + (SA1 + [SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- ### OD当身中下擇 Combo
+    - OD当身 + (2MK/6HK + 強裂縫) + (中弾 + 強地刺 + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - OD当身 + (6MK + 強裂縫) + (強地刺*2 + [Midscreen 強地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - OD当身 + (中弾/強弾 + 強裂縫) + (delay + 強地刺*2 + [Midscreen 強地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- ### Midscreen OD当身 Combo
+    - [General OD当身 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - OD当身 + 6MK + (前ステ*2 + 9 + JMK + [DR Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+- ### BTW OD当身 Combo
+    - [General OD当身 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - OD当身 + (2MP/5MK + delay(等前一個動作結束) + 強裂縫) + (中弾 + 強地刺 + [Far中弾 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+    - BTW OD当身2LP Combo
+        - OD当身 + (2LP + 5MK + 強裂縫) + (弱弾 + 強地刺 + 弱弾 + [Midscreen 強地刺 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (9 + JMK) + 安全飛び
+    - OD当身 + [2HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - OD当身 + 5MK/2HP + [BTW OD当身SA2 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+- ### C-Switch OD当身 Combo
+    - BTW OD当身後ろ投げ Combo
+        - OD当身 + 後ろ投げ + (6HK + delay + [Corner 強風神 Combo(Far)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - OD当身 + 後ろ投げ + (2LP + 5LK + DI/コマ投げ)
+        - OD当身 + 後ろ投げ + [2HP Reset](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+    - OD当身 + (2MP + OD裂縫(中強)) + (裂縫傳送(中) + JMK) + (前歩き + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))

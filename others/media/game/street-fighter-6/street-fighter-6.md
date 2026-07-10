@@ -1,6 +1,6 @@
 # Street Fighter 6 (SF6)
 - ### Combo (コンボ)
-    - ### Format：Buff + [Position](#position) + [Attack](#attack) + [Combo Type](#combo-コンボ)
+    - ### Format：Buff + [Position](#position) + [Attack](#attack) + [Combo Type](#combo-type)
     - ### `ガード(Combo)` = Combo被防住
 - ### ガード (Blocking)
     - ### 立ちガード (Standing Block, 站防)
@@ -76,7 +76,7 @@
 - ### 派生 (派生技, 追加技, Follow-up)
 - ### 必殺技 (Special Move)
     - #### 昇竜 (Dragon Punch, DR)
-    - #### 弾 (飛び道具, 波)
+    - #### 弾 (飛び道具, Projectile, 波)
         - 弾抜け (穿波)
     - #### 当身 (Atemi)
     - #### 溜め技 (蓄力招)：技を出す際に一定時間方向キーを倒し続ける必要のある技
@@ -115,11 +115,11 @@
 - ### Own Position ($`m`$)
     - Back-to-Wall (BTW)：$`m=wall`$
 - ### Distance from Opponent
-    - Close-range < Mid-range < Far-range
-    - Mid-close range：Close-range ~ Mid-range
-    - Mid-far range：Mid-range ~ Far-range
-- ### Side-switch：swapping sides/directions with the opponent
-    - Corner side-switch：Swapping sides when your Back-to-Wall
+    - Close range (Close) < Mid range (Mid) < Far range (Far)
+    - Mid-close range (Mid-close)：Close ~ Mid
+    - Mid-far range (Mid-far)：Mid ~ Far
+- ### Side-switch (Switch)：swapping sides/directions with the opponent
+    - Corner side-switch (C-Switch)：Swapping sides when your Back-to-Wall
 
 # Drive Gauge
 - ### Drive Impact (DI, インパクト)：25F, HP + HK
