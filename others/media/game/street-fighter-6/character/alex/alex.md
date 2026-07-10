@@ -34,6 +34,7 @@
 - ### 5HP Combo
     - 5HP + [5F打摔擇](#5f打摔擇-4f5f)
     - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo-1)/[OD Chop Combo](alex-special-move.md#od-chop-combo)
+- ### 2HP Combo
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -44,14 +45,16 @@
 # Counter Combo
 - ### Counter Combo
 - ### PC Combo
-    - [Chop PC Combo](alex-special-move.md#chop-pc-combo)
+    - [Stance PC Combo](alex-special-move.md#stance-pc-combo)
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + 前ステ + (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)
+    - DI(Wall spalt) + (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
 - ### Stun Combo
-    
+
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
@@ -60,7 +63,9 @@
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 6F OKI (6F/7F)
-    - コマ投げ
+    - 中コマ投げ
+    - [5MP Combo](#5mp-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
+    - 強コマ投げ/ODコマ投げ
     - [5MP Combo](#5mp-combo)
