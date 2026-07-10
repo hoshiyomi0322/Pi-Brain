@@ -22,7 +22,6 @@
     - Stance-投げ (Close)：(2 + PP) + 投げ
     - Stance-コマ投げ：(2 + PP) + (2 + 投げ)
 
-
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](alex-special-move.md)
 
