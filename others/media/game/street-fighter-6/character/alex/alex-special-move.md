@@ -19,7 +19,7 @@
     - Chop + [Chop Extension Combo](#chop-extension-combo)
 - ### OD Chop Combo
     - #### OD Chop Air Combo
-        - OD Chop + 安全飛び
+        - OD Chop + 安全飛び/[SA2 Air Combo](alex.md#sa2-air-combo)
 
 # Stance Combo
 - Stance-chop + [2LP Combo](alex.md#2lp-combo)/[6F OKI](alex.md#6f-oki-6f7f)
