@@ -199,7 +199,7 @@
         - Ryu：2HK, 4HP, 中波掌擊, 弱足刀
         - Zangief：2HK, 3HK
         - Honda：OD頭槌
-        - Vega：2HK, 3HK, Psycho Crusher, 埋炸彈, 踩頭
+        - Vega：2HK, 3HK, Psycho Crusher, 埋炸彈, OD剪刀腳, 踩頭
         - Jamie：2HK, 旋轉腳
         - Chunli：旋轉踢
         - Viper：2HK
