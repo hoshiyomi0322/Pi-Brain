@@ -24,6 +24,9 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
+- ### DR 5HP Combo
+    - DR + 5HP + 
+    - DR + ガード(5HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 4HP Combo
 - ### 6HP Combo
     - ( 6HP + OD Beam(2太陽) + 6HP + OD Beam(2太陽) ) + (DR + 2HP) + SA1/(Beam + SA3)
