@@ -219,3 +219,4 @@
 
 # todo
 - https://docs.google.com/spreadsheets/d/15U0knWcTcLw-BEUaFYq9bUEQ-3GefUEYjPdDalld4oI/edit?gid=139002400#gid=139002400
+- https://youtu.be/C1tN7YuqeDw

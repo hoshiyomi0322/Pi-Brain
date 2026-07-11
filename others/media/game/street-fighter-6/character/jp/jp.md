@@ -594,5 +594,4 @@
         - https://youtu.be/8iKvOhzX8m0
 - https://youtu.be/D0gf1YooclQ?t=439
 - https://youtu.be/TwYpOj5wTgs
-- https://youtu.be/C1tN7YuqeDw
 

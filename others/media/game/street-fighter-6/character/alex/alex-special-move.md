@@ -8,18 +8,20 @@
 - ### 中Axe Combo
     - 中Axe + SA3
 
+# Chop Extension Combo
+- [2LP Combo](alex.md#2lp-combo)
+- 4MK
+- コマ投げ
+- (コマ投げ + 6(Hold)) + 安全飛び
+- (コマ投げ + PP(SA2))
+
 # Chop Combo
-- ### Chop Extension Combo
-    - [2LP Combo](alex.md#2lp-combo)
-    - 4MK
-    - コマ投げ
-    - (コマ投げ + 6(Hold)) + 安全飛び
-    - (コマ投げ + PP(SA2))
-- ### Chop Combo
+- ### 強Chop Combo
     - Chop + [Chop Extension Combo](#chop-extension-combo)
 - ### OD Chop Combo
-    - #### OD Chop Air Combo
-        - OD Chop + 安全飛び/[SA2 Air Combo](alex.md#sa2-air-combo)
+
+# OD Chop Air Combo
+- OD Chop + 安全飛び/[SA2 Air Combo](alex.md#sa2-air-combo)
 
 # Stance Combo
 - Stance-chop + [2LP Combo](alex.md#2lp-combo)/[6F OKI](alex.md#6f-oki-6f7f)

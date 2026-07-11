@@ -1,24 +1,24 @@
-# Psycho-Crusher Combo
-- ### 弱Psycho-Crusher Combo
-    - 弱Psycho-Crusher + SA3
-    - 弱Psycho-Crusher + Reset(DI)
-    - 弱Psycho-Crusher + (前ステ + [5F打摔擇](vega.md#5f打摔擇-4f5f))
-- ### 中Psycho-Crusher Combo
-    - 中Psycho-Crusher + SA3
-    - 中Psycho-Crusher + Reset(DI)
-    - 中Psycho-Crusher + (前ステ + [5F打摔擇](vega.md#5f打摔擇-4f5f))
-- ### OD Psycho-Crusher Combo
-    - #### OD Psycho-Crusher Combo with Bomb
-        - OD Psycho-Crusher(with Bomb) + (5HP + SA1/SA2/SA3)
-        - (OD Psycho-Crusher(with Bomb) + OD踩頭) + (5HP + SA1/SA2/SA3)
-        - (OD Psycho-Crusher(with Bomb) + OD踩頭) + (5HP + [消費](../../street-fighter-6.md#frame-kill)(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
-        - OD Psycho-Crusher(with Bomb) + (DR + 5MP) + [6HP High-Air Combo](vega.md#6hp-high-air-combo)
+# Psycho-crusher Combo
+- ### 弱Psycho-crusher Combo
+    - 弱Psycho-crusher + SA3
+    - 弱Psycho-crusher + Reset(DI)
+    - 弱Psycho-crusher + (前ステ + [5F打摔擇](vega.md#5f打摔擇-4f5f))
+- ### 中Psycho-crusher Combo
+    - 中Psycho-crusher + SA3
+    - 中Psycho-crusher + Reset(DI)
+    - 中Psycho-crusher + (前ステ + [5F打摔擇](vega.md#5f打摔擇-4f5f))
+- ### OD Psycho-crusher Combo
+    - #### OD Psycho-crusher Combo with Bomb
+        - OD Psycho-crusher(with Bomb) + (5HP + SA1/SA2/SA3)
+        - (OD Psycho-crusher(with Bomb) + OD踩頭) + (5HP + SA1/SA2/SA3)
+        - (OD Psycho-crusher(with Bomb) + OD踩頭) + (5HP + [消費](../../street-fighter-6.md#frame-kill)(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
+        - OD Psycho-crusher(with Bomb) + (DR + 5MP) + [6HP High-Air Combo](vega.md#6hp-high-air-combo)
 
 # 剪刀腳 Combo
 - ### 剪刀腳 Combo
     - 剪刀腳 + [3F打摔擇](vega.md#3f打摔擇-2f3f)
 - ### OD剪刀腳 Combo
-    - OD剪刀腳 + [埋炸彈 Air Combo](#埋炸彈-air-combo)/[中Psycho-Crusher Combo](#中psycho-crusher-combo)
+    - OD剪刀腳 + [埋炸彈 Air Combo](#埋炸彈-air-combo)/[中Psycho-crusher Combo](#中psycho-crusher-combo)
     - OD剪刀腳 + (5HP + SA1/SA2/SA3)
     - OD剪刀腳 + (DR + 5LP + 3HK) + Reset(DI)
     - Corner：OD剪刀腳 + [Corner 6HP Air Combo](vega.md#corner-6hp-air-combo)

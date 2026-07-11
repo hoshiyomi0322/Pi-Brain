@@ -1,6 +1,6 @@
 # Command
 - ### 236P
-    - ### Axe：236LP, 236LP
+    - ### Axe：236LP, 236MP
     - ### Chop：236HP
         - OD Chop：236PP
 - ### 昇竜：623K
@@ -32,7 +32,7 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [5F打摔擇](#5f打摔擇-4f5f)
-    - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo-1)/[OD Chop Combo](alex-special-move.md#od-chop-combo)
+    - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### 2HP Combo
 
 # Medium Attack Combo

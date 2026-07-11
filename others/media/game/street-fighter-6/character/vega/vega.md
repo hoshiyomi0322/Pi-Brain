@@ -1,5 +1,5 @@
 # Command
-- ### Psycho-Crusher：4(溜め) + 6P
+- ### Psycho-crusher：4(溜め) + 6P
 - ### 起飛：2(溜め) + 8K
     - #### 踩頭：(2(溜め) + 8K) + K
     - #### 踩打頭：(2(溜め) + 8K) + (K + P)
@@ -61,7 +61,7 @@
 - ### Light Cancel Combo
     - 弱剪刀腳 Combo
     - [弱埋炸彈 Combo](vega-special-move.md#弱埋炸彈-combo)/[OD埋炸彈 Combo](vega-special-move.md#od埋炸彈-combo)
-    - [弱Psycho-Crusher Combo](vega-special-move.md#弱psycho-crusher-combo)/[OD Psycho-Crusher Combo](vega-special-move.md#od-psycho-crusher-combo)
+    - [弱Psycho-crusher Combo](vega-special-move.md#弱psycho-crusher-combo)/[OD Psycho-crusher Combo](vega-special-move.md#od-psycho-crusher-combo)
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
