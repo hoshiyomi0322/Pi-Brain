@@ -26,11 +26,17 @@
     - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset(DI)
 
 # Heavy Attack Combo
-- ### 5HK Combo
-    - 5HK + DI
-- ### 5HK High-Air Combo
+- ### 5HP High-Air Combo
     - 5HP + [2HK Combo](#2hk-combo)/SA1/[SA3 Combo](#sa3-combo)
     - Corner：5HP + 強昇竜
+- ### 2HP Combo
+    - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
+- ### 2HP Air Combo
+    - 2HP + [推掌 Combo](jamie-special-move.md#推掌-combo)/[旋轉腳 Combo](jamie-special-move.md#旋轉腳-combo)
+    - 2HP + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
+- ### 5HK Combo
+    - 5HK + [Heavy Cancel Combo](#heavy-cancel-combo)
+    - 5HK + Reset(DI)
 - ### 2HK Combo
     - 2HK + HK + P
     - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -64,21 +70,26 @@
     - #### JMP Air Combo
         - JMP + [OD空插 Combo](jamie-special-move.md#od空插-combo)
     - #### JHK Air Combo
-        - JHK + (前歩き + [5HK High-Air Combo](#5hk-high-air-combo))
+        - JHK + (前歩き + [5HP High-Air Combo](#5hp-high-air-combo))
     - #### JMK Air Combo
         - JMK + (前歩き + [投げ](#投げ))
 
 # Counter Combo
 - ### PC Combo
+    - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
 - ### Wall Splat Combo
+    - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
     - DI(Wall spalt) + (2HP + SA2 + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))
     - DI(Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
 
 # Cancel Combo
+- ### Heavy Cancel Combo
+    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[旋轉腳 Combo](jamie-special-move.md#旋轉腳-combo)
 - ### Medium Cancel Combo
     - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱旋轉腳 Combo](jamie-special-move.md#弱旋轉腳-combo)/[OD旋轉腳 Combo](jamie-special-move.md#od旋轉腳-combo)
 
@@ -103,6 +114,9 @@
 - ### 27F OKI
     - [DR 6HK Combo](#dr-6hk-combo)
     - Corner：前ステ + [8F OKI](#8f-oki)
+- ### 32F OKI
+    - [DR 6MK Combo](#dr-6mk-combo)
+    - Corner：[消費](../../street-fighter-6.md#frame-kill)(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
