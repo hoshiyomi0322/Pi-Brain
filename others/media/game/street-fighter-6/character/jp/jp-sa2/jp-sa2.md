@@ -1,33 +1,33 @@
 # SA2強裂縫Extension Combo
 - General 強裂縫Extension Combo
     - 裂縫強TC
-        - [Midscreen 裂縫強TC](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (5HK + 5HP + 5HK/5HP) + [2HP連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (5HK + 5HP + 中弾/強弾) + [強TC連ガ Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-        - [Corner 裂縫強TC](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-            - (5HK + 5HP + 5HK/5HP) + (2MP + [中風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-            - (5HK + 5HP + 中弾/強弾) + [強TC Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - [Midscreen 裂縫強TC]()
+            - (5HK + 5HP + 5HK/5HP) + [2HP連ガ Combo]()
+            - (5HK + 5HP + 中弾/強弾) + [強TC連ガ Combo]()
+        - [Corner 裂縫強TC]()
+            - (5HK + 5HP + 5HK/5HP) + (2MP + [中風神 Combo]())
+            - (5HK + 5HP + 中弾/強弾) + [強TC Combo]()
     - Corner (Close)：[Corner 裂縫中下弾](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8pvs=21)
 - 打動力槽
     - Midscreen 打動力槽
-        - (5HP + DI) + 強地刺/(DR + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))/[SA1 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (5HP + DI) + 強地刺/(DR + [Air 6HK Combo]())/[SA1 Combo]()
     - Near-Corner 打動力槽
-        - (5HP + DI) + (前ステ + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - (5HP + DI) + (前ステ + [Corner 6HK Combo(中風神)]())
 - 強裂縫後續 Reset
     - DR Reset
-        - (DR + 5MK) + [強風神ガード](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[強風神打中](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)/[相手 DI](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (DR + 5MK) + [強風神ガード]()/[強風神打中]()/[相手 DI]()
             - 強風神ガード
                 - 強風神 + DI/コマ投げ
             - 強風神打中
-                - Midscreen：強風神 + (前ステ + DR + [Air 6HK Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
-                - Near-Corner：強風神 + [Air JMK Combo(Close)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+                - Midscreen：強風神 + (前ステ + DR + [Air 6HK Combo]())
+                - Near-Corner：強風神 + [Air JMK Combo(Close)]()
             - 相手 DI
-                - Midscreen：強風神(相手 DI) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
-                - Corner：強風神(相手 DI) + (delay + [Corner 6HK Combo(中風神)](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+                - Midscreen：強風神(相手 DI) + [強風神 Combo]()
+                - Corner：強風神(相手 DI) + (delay + [Corner 6HK Combo(中風神)]())
         - (DR + 2MP + 4MP) + (2LP*2 + DI/コマ投げ)
     - 2HK Reset
-        - (2HK + 中弾/強弾) + [強風神 Combo](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21)
+        - (2HK + 中弾/強弾) + [強風神 Combo]()
         - (2HK + 中弾/強弾) + (delay(等裂縫引爆) + 5LK + コマ投げ)
             - 相手 後方受け身：(2HK + 中弾/強弾) + (前歩き(等裂縫引爆) + 5LK + コマ投げ)
-        - (2HK + 偽弾 + [General 投げ](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8?pvs=21))
+        - (2HK + 偽弾 + [General 投げ]())
 
