@@ -32,6 +32,7 @@
 # Medium Attack Combo
 
 # Light Attack Combo
+- ### 2LP Combo
 
 # Counter Combo
 - ### Counter Combo
@@ -46,6 +47,15 @@
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
 - ### 後ろ投げ
+
+# [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
+    - [2LP Combo](#2lp-combo)
+- ### 5F打摔擇 (4F/5F)
+    - [投げ](#投げ)
+    - 
+
 
 # [対空](../street-fighter-6.md#anti-air)
 - ### 弱昇竜

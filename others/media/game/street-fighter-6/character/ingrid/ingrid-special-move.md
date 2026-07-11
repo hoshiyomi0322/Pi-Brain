@@ -2,6 +2,7 @@
 - ### 中昇竜 Combo
 - ### 強昇竜 Combo
     - 強昇竜 + (delay + 5MP + SA3)
+    - 強昇竜 + (Air-集太陽 + 前ステ+ [5F打摔擇](ingrid.md#5f打摔擇-4f5f))
 - ### OD昇竜 Combo
     - OD昇竜 + SA3
 
