@@ -175,6 +175,7 @@
         - JP：6HK
         - Ken：弱龍尾腳, 弱迅雷
         - Vega：剪刀腳
+        - Jamie：5HK
         - Chunli：弱劈腿, OD劈腿
         - Viper：2HP
         - Ingrid：HP,6HP
@@ -183,7 +184,7 @@
         - JP：MP, 2HP, 2HK, 弱弾
         - Ryu：2HP, 2MK
         - Zangief：MP*2
-        - Jamie：弱推掌, 中推掌, 醉拳
+        - Jamie：2MK, 2HP, 弱推掌, 中推掌, 醉拳
     - #### 8F PC
         - JP：6HK(しゃがみガード), 中弾, 強弾
         - Zangief：6HK

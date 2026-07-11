@@ -36,13 +36,22 @@
     - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 6HK Combo
 - ### DR 6HK Combo
-    - ガード(DR + 6HK) + (前歩き + [投げ](#投げ))
+    - DR + 6HK + [2MP Combo](#2mp-combo)
+    - DR + ガード(6HK) + (前歩き + [投げ](#投げ))
 
 # Medium Attack Combo
+- ### 2MP Combo
+    - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2MP + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
 - ### 5MK Combo
-    - 5MK + [酔拳 Combo](jamie-special-move.md#酔拳-combo)
+    - 5MK + [Medium Cancel Combo](#medium-cancel-combo)
+    - 5MK + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
 - ### 2MK Combo
-    - 2MK + [酔拳 Combo](jamie-special-move.md#酔拳-combo)
+    - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
+- ### 酔い2 6MK Combo
+    - 酔い2：6MK + 5MK + P
+- ### DR 6MK Combo
+    - (DR + 6MK) + [2LP Combo](#2lp-combo)
 
 # Light Attack Combo
 - ### 2LP Combo
@@ -69,26 +78,37 @@
     - DI(Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
 
+# Cancel Combo
+- ### Medium Cancel Combo
+    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱旋轉腳 Combo](jamie-special-move.md#弱旋轉腳-combo)/[OD旋轉腳 Combo](jamie-special-move.md#od旋轉腳-combo)
+
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
+    - 前投げ + [23F OKI](#23f-oki)
     - #### Midscreen 前投げ
         - 前投げ(Hold)
-        - 前投げ + [23F OKI](#23f-oki)
     - #### Corner 前投げ
         - 前投げ(Hold) + [8F OKI](#8f-oki)
 - ### 後ろ投げ
+    - 後ろ投げ + [27F OKI](#27f-oki)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 8F OKI
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
     - DR + [5HK Combo](#5hk-combo)
+    - Corner
+        - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
+        - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
+- ### 27F OKI
+    - [DR 6HK Combo](#dr-6hk-combo)
+    - Corner：前ステ + [8F OKI](#8f-oki)
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
-    - [2LP Combo](#2lp-combo)
+    - [2MP Combo](#2mp-combo)
 
 # [対空](../street-fighter-6.md#anti-air)
 - ### [昇竜 Combo](jamie-special-move.md#昇竜-combo)
