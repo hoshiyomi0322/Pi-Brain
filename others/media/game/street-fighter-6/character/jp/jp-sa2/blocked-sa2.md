@@ -1,15 +1,15 @@
--  ガード SA2的投げ時機：SA2的任意兩個弾之間
+-  ガード SA2的[投げ](../jp.md#投げ)時機：SA2的任意兩個弾之間
 
-# General  ガード SA2 Combo
-- SA2 + (2LP + 2MK/2HK + 2MK/6MK + 2LP) + (5HK + 5HP + 中風神)/[強TC連ガ Combo]()/[Corner 6HK Combo(強風神)]()
-    - SA2 + (2LP + 2MK/2HK) + (5HP + 強裂縫 + [SA2強裂縫Extension Combo]())
-    - SA2 + (2LP + 2MK/2HK + 2MK) + (強裂縫 + [SA2強裂縫Extension Combo]())
-    - SA2 + (2LP + 2MK/2HK + 6MK) + (5HP + [強風神 Combo]())/[Corner 6HK Combo(強風神)]()
+# General ガード SA2 Combo
+- SA2 + ガード(2LP + 2MK/2HK + 2MK/6MK + 2LP) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK Combo(強風神)]()
+    - SA2 + ガード(2LP + 2MK/2HK) + (5HP + 強裂縫 + [SA2強裂縫Extension Combo]())
+    - SA2 + ガード(2LP + 2MK/2HK + 2MK) + (強裂縫 + [SA2強裂縫Extension Combo]())
+    - SA2 + ガード(2LP + 2MK/2HK + 6MK) + (5HP + [強風神 Combo]())/[Corner 6HK Combo(強風神)]()
 - 相手 Parry
-    - SA2 + 2LP + (前ステ + delay)/DR + [General 投げ]()
+    - SA2 + 2LP + (前ステ + delay)/DR + [投げ](../jp.md#投げ)
 - 相手 Dリバ
     - 2LP、Parry同時按(2LP要先按)
-        - SA2 + (2LP + Parry)(同時按) + (2MK/2HK + 2MK/6MK + 2LP) + (5HK + 5HP + 中風神)/[強TC連ガ Combo]()/[Corner 6HK Combo(強風神)]()
+        - SA2 + (2LP + Parry)(同時按) + (2MK/2HK + 2MK/6MK + 2LP) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK Combo(強風神)]()
     - SA2 + 後 + (2LP + 5HP + 強裂縫) + [SA2強裂縫Extension Combo]()
     - SA2 + 8/9 + (5HK + 5HP + 強裂縫) + [SA2強裂縫Extension Combo]()
 - ### Corner F式SA2 Combo
@@ -26,15 +26,15 @@
     - SA2 + 後ろ投げ + (9 + JMK) + (delay + DR + [Corner 6HK Combo(中風神)]())
 
 # OD弾 ガード SA2 Combo
-- CloseOD弾 ガード SA2 Combo
-    - SA2 + 前ステ + (2HK + 2MP + 2MK) + (5HK + 5HP + 中風神)/[強TC連ガ Combo]()/[Corner 6HK Combo(強風神)]()
+- Close OD弾 ガード SA2 Combo
+    - SA2 + 前ステ + (2HK + 2MP + 2MK) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK Combo(強風神)]()
         - SA2 + 前ステ + (2HK + 2MP) + 強裂縫 + [SA2強裂縫Extension Combo]()
         - SA2 + 前ステ + (2HK + 2MP + 2MK) + [強風神 Combo]()
     - SA2 + (9 + JHP + 2MK*2)
         - SA2 + (9 + JHP) + (5HP + 強裂縫 + [SA2強裂縫Extension Combo]())
         - SA2 + (9 + JHP + 2MK) + (強裂縫 + [SA2強裂縫Extension Combo]())
         - 相手 Parry
-            - SA2 + (9 + [General 投げ]())
+            - SA2 + (9 + [投げ](../jp.md#投げ))
     - SA2 + OD裂縫(中強) + (裂縫傳送(中) + JHP + 2HP) + [強風神 Combo]()/[OD裂縫擇]()
         - OD裂縫擇：(OD裂縫(中強) + 2HP) + [傳送擇]()/[中下弾擇]()
             - 傳送擇
@@ -59,7 +59,7 @@
     - OD裂縫擇
         - Midscreen：中腳 + [Midscreen OD裂縫擇(その場受け身)]()
         - Corner：中腳 + [Corner OD裂縫擇(地刺)]()
-- 相手 Parry：SA2 + (強裂縫 + 裂縫傳送) + JHK + [General 投げ]()
+- 相手 Parry：SA2 + (強裂縫 + 裂縫傳送) + JHK + [投げ](../jp.md#投げ)
 
 # Corner 裂縫 ガード SA2 Combo
 - (5HK + 5HP) + SA2 + (2LP + 裂縫引爆 + 2MK) + 裂縫 + [SA2強裂縫Extension Combo]()
@@ -80,7 +80,7 @@
     - SA2 + (9 + JHP + 2MK) + (裂縫 + [SA2強裂縫Extension Combo]())
     - SA2 + (9 + JHP + 6MK) + [Corner 6HK Combo(強風神)]()
     - 相手 Parry
-        - SA2 + (9 + [General 投げ]())
+        - SA2 + (9 + [投げ](../jp.md#投げ))
     - 相手 昇竜
         - SA2 + (9 + JHP) + (裂縫 + 中風神*2) + (delay(等裂縫引爆) + [Corner Highest-Air 地刺 Combo]())
 

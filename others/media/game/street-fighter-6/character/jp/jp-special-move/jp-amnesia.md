@@ -8,7 +8,7 @@
 # OD当身 Combo
 - ### General OD当身 Combo
     - OD当身 + (SA1 + [SA1 Combo]())
-- ### OD当身中下擇 Combo
+- ### OD当身 中下擇 Combo
     - OD当身 + (2MK/6HK + 強裂縫) + (中弾 + 強地刺 + [Far中弾 Combo]())
     - OD当身 + (6MK + 強裂縫) + (強地刺*2 + [Midscreen 強地刺 Combo]())
     - OD当身 + (中弾/強弾 + 強裂縫) + (delay + 強地刺*2 + [Midscreen 強地刺 Combo]())
@@ -18,14 +18,14 @@
 - ### BTW OD当身 Combo
     - [General OD当身 Combo]()
     - OD当身 + (2MP/5MK + delay(等前一個動作結束) + 強裂縫) + (中弾 + 強地刺 + [Far中弾 Combo]())
-    - BTW OD当身2LP Combo
+    - OD当身 + [2HK Combo]()
+    - OD当身 + 5MK/2HP + [BTW OD当身 SA2 Combo]()
+    - #### BTW OD当身 2LP Combo
         - OD当身 + (2LP + 5MK + 強裂縫) + (弱弾 + 強地刺 + 弱弾 + [Midscreen 強地刺 Combo]())
         - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + [Air 6HK Combo]()
         - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (9 + JMK) + 安全飛び
-    - OD当身 + [2HK Combo]()
-    - OD当身 + 5MK/2HP + [BTW OD当身SA2 Combo]()
 - ### C-Switch OD当身 Combo
-    - BTW OD当身後ろ投げ Combo
+    - #### BTW OD当身 後ろ投げ Combo
         - OD当身 + 後ろ投げ + (6HK + delay + [Corner 強風神 Combo(Far)]())
         - OD当身 + 後ろ投げ + (2LP + 5LK + DI/コマ投げ)
         - OD当身 + 後ろ投げ + [2HP Reset]()

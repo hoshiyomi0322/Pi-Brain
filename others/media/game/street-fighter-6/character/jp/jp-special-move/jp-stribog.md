@@ -37,22 +37,18 @@
 # OD風神 Combo
 - OD風神ガード
     - OD風神 + [General  ガード SA2 Combo]()
-
-### Midscreen OD風神 Combo
-- OD風神 + [Midscreen 強地刺 Combo]()
-    - OD風神 + (OD地刺(中強) + [Midscreen 強地刺 Combo]())
-- OD風神SA3
-    - 前面 Combo≤2段：OD風神 + (2LP + SA3)
-    - 前面 Combo>2段：OD風神 + (強地刺 + SA3)
-- OD風神 + delay(等撞牆) + [Midscreen OD風神地刺SA2 Combo]()
-- OD風神 + [SA1 Combo]()
-
-### [QQH]() OD風神 Combo
-- OD風神 + (DR + [Air 6HK Combo]())
-
-### Corner OD風神 Combo
-- OD風神 + (delay + [Corner HP Air Combo]())
-- OD風神 + (DR + 4MP + 5MP + DI/コマ投げ)
-
-### BTW OD風神 Combo
-- OD風神 + [C-Switch OD風神SA2 Combo]()
+- ### Midscreen OD風神 Combo
+    - OD風神 + [Midscreen 強地刺 Combo]()
+        - OD風神 + (OD地刺(中強) + [Midscreen 強地刺 Combo]())
+    - OD風神SA3
+        - 前面 Combo≤2段：OD風神 + (2LP + SA3)
+        - 前面 Combo>2段：OD風神 + (強地刺 + SA3)
+    - OD風神 + delay(等撞牆) + [Midscreen OD風神地刺SA2 Combo]()
+    - OD風神 + [SA1 Combo]()
+- ### QQH OD風神 Combo
+    - OD風神 + (DR + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+- ### Corner OD風神 Combo
+    - OD風神 + (delay + [Corner 5HP Air Combo](../jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo))
+    - OD風神 + (DR + 4MP + 5MP) + Reset(DI/コマ投げ)
+- ### BTW OD風神 Combo
+    - OD風神 + [C-Switch OD風神SA2 Combo]()
