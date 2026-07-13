@@ -30,8 +30,15 @@
     - (2HP + 輕地波) + (大跳取消空中中火腿) + (中衝擊派生 + [30F OKI](#30f-oki))
     - (2HP + 輕地波) + (大跳取消空中中火腿) + (消費(重火腿) + [5F打摔擇](#5f打摔擇-4f5f))
     - (2HP + 輕地波) + (大跳取消空中中火腿) + (消費(2HP) + [25F OKI](#25f-oki))
+- ### DR 5HP Combo
+    - (DR + 5HP) + [2MP Combo](#2mp-combo)
+    - ガード(DR + 5HP) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### DR 6HK Combo
+    - (DR + 6HK + 5HK) + [2MP Combo](#2mp-combo)
+    - ガード(DR + 6HK + 5HK) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # Medium Attack Combo
+- ### 5MP Combo
 - ### 2MP Combo
 
 # Light Attack Combo
