@@ -3,23 +3,24 @@
     - 地刺(視距離決定大小)
 - ### Mid-close 裂縫引爆 Combo
     - #### Close 裂縫引爆 Combo
-        - [HP Air Combo]()/[2HP Reset]()
-        - 消費(2LP) + 5LK + DI/コマ投げ
+        - [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)/[2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)
+        - 消費(2LP) + 5LK + Reset(DI/コマ投げ)
     - #### Mid 裂縫引爆 Combo
-        - [6HK Air Combo]()/(前歩き + [2HP Reset]())
+        - [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
+        - 前歩き + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)
     - #### Mid-far 裂縫引爆 Combo
-        - [DR 6HK Air Combo]()
+        - [DR 6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#dr-6hk-air-combo)
 
 # Corner 裂縫引爆 Combo
 - ### Close Corner 裂縫引爆 Combo
-    - delay + [Corner 6HK Combo(中風神)]()
-    - [Corner 裂縫引爆 Reset]()
+    - delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+    - [Corner 裂縫引爆 Reset](#corner-裂縫引爆-reset)
 - ### Mid Corner 裂縫引爆 Combo
-    - [Corner 6HK High-Air Combo]()
-    - [Corner 裂縫引爆 Reset]()
+    - [Corner 6HK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+    - [Corner 裂縫引爆 Reset](#corner-裂縫引爆-reset)
 - ### Corner DR 裂縫引爆 Combo
-    - DR + [Corner DR 6HK Combo]()
-    - DR + (6HK + 5LP) + Reset(DI)
+    - DR + [Corner DR 6HK Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-dr-6hk-combo)
+    - (DR + 6HK + 5LP) + Reset(DI)
 - ### Corner 裂縫引爆 Reset
-    - DR + (6HK + 5LP) + Reset(DI)
+    - (DR + 6HK + 5LP) + Reset(DI)
     - 消費(2LP) + 5LK + Reset(DI/コマ投げ)

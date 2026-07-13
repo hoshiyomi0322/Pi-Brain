@@ -49,7 +49,7 @@
     - SA2 + (5MK*2 + 2MK + 弱裂縫) + (後ろ投げ + [Corner 裂縫引爆 Combo(DR)]())/[Midscreen 裂縫Shimmy(バクステ)]()
 
 # Midscreen 弱風神 SA2 Reset
-- SA2 + (5MK + 弱風神 + OD裂縫(弱強)) + (2LP + 2HP) + [中下弾擇]()/[左右擇]/[前跳擇]
+- SA2 + (5MK + 弱風神 + OD裂縫(弱強)) + (2LP + 2HP) + [中下弾擇]()/[左右擇]()/[前跳擇]()
     - #### 中下弾擇
         - 中弾/強弾 + delay/前ステ + [強風神 Combo]()
         - ガード(中弾/強弾) + [DR中下擇 Combo]()
@@ -84,30 +84,30 @@
 - SA2 + (2MK + 5HP + 裂縫) + (前ステ + 5HP + 地刺) + (OD裂縫 + 2HP) + [中下擇]()
     - #### 中下擇
         - Reset(中弾/強弾) + 中弾/強弾 + (delay + [Corner 6HK Combo(中風神)]())
-        - ガード(中弾/強弾) + 中弾/強弾 + [Corner 裂縫引爆 Combo(Mid)]()
+        - ガード(中弾/強弾) + Reset(中弾/強弾) + [Corner 裂縫引爆 Combo(Mid)]()
         - Reset(中弾/強弾) + 5LP + Reset(DI)
 - SA2 + (2MK + 5HP + 裂縫) + (前ステ + 5HP + 地刺) + (OD裂縫 + 2HP) + (裂縫傳送(弱) + [通用Corner 裂縫F式]())
 
 # JHK SA2 Reset
 - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + Reset(6MK) + [強風神 Combo]()/(delay + [Corner 6HK Combo(中風神)]())
     - ガード：SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + ガード(6MK) + [強TC Combo](../jp.md#強tc-combo)
+    - Close：SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + Reset(6MK) + 5LP + Reset(コマ投げ)
 - ### Midscreen JHK SA2 Reset
-    - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + Reset(6MK) + ( 5LP + Reset(コマ投げ) )
-    - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + ( 5HK + 5HP + Reset(コマ投げ) )
+    - SA2 + (2MK + 5HP + 強裂縫) + (8 + JHK) + (5HK + 5HP) + Reset(コマ投げ)
 
 # 2HK SA2 Reset
 - SA2 + ( 2MK + 5HP*2 + OD裂縫(弱強) ) + 2HK + [傳送擇]()/[中下弾擇]()
-    - 傳送擇
-        - (裂縫傳送(中) + JMK) + [DR Air 6HK Combo]()/[Corner 6HK Combo(中風神)]()
-        - 裂縫ガード
-            - (裂縫傳送(中) + JMK) + [5HP Combo]()/[6HK Combo]()/[強TC Combo]()
-        - JMKガード
-            - (裂縫傳送(中) + JMK) + [投げ](../jp.md#投げ)
-    - 中下弾擇
-        - 中弾/強弾 + [強風神 Combo]()/[Corner 6HK Combo(中風神)]()
-        - 中弾/強弾 + コマ投げ
+    - #### 傳送擇
+        - 裂縫傳送(中) + JMK + [DR Air 6HK Combo]()/[Corner 6HK Combo(中風神)]()
+        - 裂縫引爆 ガード
+            - 裂縫傳送(中) + JMK + [5HP Combo]()/[6HK Combo]()/[強TC Combo]()
+        - JMK ガード
+            - 裂縫傳送(中) + ガード(JMK) + [投げ](../jp.md#投げ)
+    - #### 中下弾擇
+        - Reset(中弾/強弾) + [強風神 Combo]()/[Corner 6HK Combo(中風神)]()
+        - ガード(中弾/強弾) + コマ投げ
 - SA2 + (5MK + 強裂縫) + 2HK + (前ステ + 2MK) + [強風神 Combo]()/(delay + [Corner 6HK Combo(中風神)]())
-    - 2MKガード
+    - 2MK ガード
         - SA2 + (5MK + 強裂縫) + 2HK + (前ステ + 2MK) + [強TC Combo](../jp.md#強tc-combo)
 - Corner 2HK Reset SA
     - SA2 + (2MK + 5MK + 5HP + OD裂縫) + (2HK + 裂縫傳送(中)) + [Corner 6HK Combo(中風神)]()
@@ -116,12 +116,12 @@
 # Double 5HK SA2 Reset
 - Midscreen 雙5HK SA2 Reset
     - SA2 + (2MK + 5HP + 強裂縫) + (5HK + 5HK + 5HP) + (前歩き + 5LK + DI/コマ投げ)
-- Corner 雙5HK Reset SA
+- Corner 雙5HK Reset SA2
     - SA2 + (2MK + 5HP + 裂縫) + (5HK + 5HK + 5HP + 裂縫) + [Corner 裂縫後中下弾OKI]()
 
 # Corner 6HK SA2 Reset
 - ### Corner 6HK 裂縫傳送 SA2 Reset
-    - SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 8 + DI/コマ投げ
+    - SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 8 + Reset(DI/コマ投げ)
     - SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 弱裂縫 + (delay + [通用Corner 裂縫投げ擇]())/[Corner 裂縫Shimmy(バクステ)]()
         - SA2 + (6HK + 裂縫) + (裂縫傳送 + JMK) + 中裂縫 + (後ろ投げ + 5MK + コマ投げ)
     - SA2 + (6HK + 裂縫) + (裂縫傳送 + 弱裂縫) + [Corner 裂縫後中下弾OKI]()

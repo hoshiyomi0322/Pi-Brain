@@ -159,6 +159,8 @@
 - ### 硬直差
 - ### <span id="frame-kill"> 消費 (Frame Kill, フレーム消費) </span>
 - ### Delay (ディレイ)
+    - delay(cancel) = [Delayed Cancel](#delayed-cancel-ディレイキャンセル)
+    - delay(no cancel) = Delay without Cancel
 
 # 択 (mix-up, 擇)
 - ### 打摔擇 (strike/throw mix-ups)：打撃重ね、投げ重ね、シミー
@@ -218,7 +220,7 @@
 - ### 差し合い (差し返し, Whiff Punish)：對方空振り之後，攻擊(Punish)對手的收招硬直
 
 # Character
-- ### [Terry](./character/jp/jp.md)
+- ### [JP](./character/jp/jp.md)
 - ### [Terry](./character/terry.md)
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)

@@ -31,3 +31,7 @@
             - 相手 後方受け身：(2HK + 中弾/強弾) + (前歩き(等裂縫引爆) + 5LK + コマ投げ)
         - (2HK + 偽弾 + [投げ](../jp.md#投げ))
 
+# SA2 Combo
+- ### [General SA2 Combo](general-sa2.md)
+- ### [ガード SA2 Combo](blocked-sa2.md)
+- ### [SA2 Αir Combo](air-sa2.md)

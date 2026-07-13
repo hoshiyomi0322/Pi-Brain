@@ -1,181 +1,175 @@
 # General Corner 裂縫擇
 - ### General Corner 裂縫 投げ擇
-    - 前投げ + (DR + 2MP + [Corner HP Air Combo]())
-    - 前投げ + (DR + 2MK) + 5LK/(2HP + delay) + DI/コマ投げ
+    - 前投げ + (DR + 2MP + [Corner 5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo))
+    - 前投げ + (DR + 2MK) + 消費(5LK) + Reset(DI/コマ投げ)
+    - 前投げ + (DR + 2MK) + (2HP + delay) + Reset(DI/コマ投げ)
 - ### General Corner 裂縫 強TC擇
-    - (5HK + 5HP + 5HK/5HP/中弾/強弾) + (delay + [Corner 6HK Combo(中風神)]())
-    - 裂縫 強TC Reset
-        - (5HK + 5HP + 中弾/強弾) + 5LP + Reset(DI/コマ投げ)
-        - (5HK + 5HP + 中弾/強弾) + 消費(9 + JMK) + Reset(DI)
+    - ガード(5HK + 5HP) + 5HK/5HP/中弾/強弾 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - ガード(5HK) + 6MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - ガード(5HK + 5HP) + 中弾/強弾 + 5LP + Reset(DI/コマ投げ)
+    - ガード(5HK + 5HP) + 中弾/強弾 + 消費(9 + JMK) + Reset(DI)
 - ### General Corner 裂縫 傳送擇
-    - (裂縫傳送 + JHP + [2HP Combo]())
-        - (裂縫傳送 + JHP + 2HP) + Reset(DI/コマ投げ)
-    - [裂縫傳送 Combo]()
+    - 裂縫傳送 + (JHP + [2HP Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo))
+    - 裂縫傳送 + ガード(JHP + 2HP) + Reset(DI/コマ投げ)
+    - [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
 - ### General Corner 裂縫 F式擇
-    - JHK + (9 + [F式]()) + [Corner 6HK Combo(中風神)]()
-    - JHK + 2MK + (delay + [Corner 6HK Combo(中風神)]())
+    - JHK + (9 + [F式](../../jp.md#f式)) + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+    - JHK + 2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
 - ### General Corner 裂縫 当身擇
-    - 当身 + 2MK + (前ステ + delay + [Corner 6HK Combo(中風神)]())
-    - OD当身 + 2MK + (前ステ + 裂縫) + (delay + 6HK + 中弾 + delay + [Corner HP Air Combo]())
+    - 当身 + 2MK + (前ステ + delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD当身 + 2MK + (前ステ + 裂縫) + (delay + 6HK + 中弾 + delay + [Corner 5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo))
 - ### General Corner 裂縫 Dリバ
-    - バクステ + [Near-Corner 強風神 Combo]()
+    - バクステ + [Near-Corner 強風神 Combo](../jp-stribog.md#near-corner-強風神-combo)
 
 # General Midscreen 裂縫擇
 - ### General Midscreen 裂縫 投げ
-    - 前投げ + [HP Air Combo]()
+    - 前投げ + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
 - ### General Midscreen 裂縫 強TC擇
-    - (5HK + 5HP + 5HK/5HP) + [HP Air Combo]()
-    - (5HK + 5HP + 中弾/強弾) + [強風神 Combo]()
+    - ガード(5HK + 5HP) + 5HK/5HP + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
+    - (5HK + 5HP + 中弾/強弾) + [強風神 Combo](../jp-stribog.md#強風神-combo)
     - #### C-Switch 強TC擇
-        - (5HK + 5HP + 5HK/5HP) + 前歩き + [Corner 6HK Combo(中風神)]()
-        - (5HK + 5HP + 中弾/強弾) + 前ステ + [Corner 6HK Combo(中風神)]()
+        - ガード(5HK + 5HP) + 5HK/5HP + 前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+        - ガード(5HK + 5HP) + 中弾/強弾 + 前ステ + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - #### 強TC擇 Reset
-        - (5HK + 5HP + 5HK/5HP) + (前歩き + 5LK) + Reset(DI/コマ投げ)
-        - (5HK + 5HP + 中弾/強弾) + (前ステ + 5LK) + Reset(コマ投げ)
+        - ガード(5HK + 5HP) + 5HK/5HP + (前歩き + 5LK) + Reset(DI/コマ投げ)
+        - ガード(5HK + 5HP) + 中弾/強弾 + (前ステ + 5LK) + Reset(コマ投げ)
 
 # Corner 裂縫 Extension Combo
 - ### Close Corner 裂縫 Extension Combo
-    - ### Corner 裂縫中下擇
-        - (2HP + 中弾/強弾 + 5LP) + [Corner High-Air JMK Combo]()
-        - (2HP + 中弾/強弾 + 5LP) + (delay(等裂縫引爆) + [Corner 裂縫引爆 Combo(Mid)]())
-        - 中下弾ガード
-            - (2HP + 中弾/強弾) + 6MK/2MK + (delay + [Corner 6HK Combo(中風神)]())
+    - ### Corner 裂縫 中下擇
+        - (2HP + 中弾/強弾 + 5LP) + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+        - (2HP + 中弾/強弾 + 5LP) + (delay(等裂縫引爆) + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+        - ガード(2HP + 中弾/強弾) + 6MK/2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - ### Corner 裂縫 弱風神
-        - (2LK + 2LP + 弱風神) + [Air JMK Combo(Close)]()
-        - (2LK + 2LP) + 6MK/2MK + [Corner 6HK Combo(中風神)]()
+        - (2LK + 2LP) + 弱風神 + [Close JMK Air Combo](../../jp.md#close-jmk-air-combo)
+        - ガード(2LK + 2LP) + 6MK/2MK + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - ### Corner 裂縫 当身
-        - [General Corner 裂縫当身]()
+        - [General Corner 裂縫 当身擇](#general-corner-裂縫-当身擇)
 - ### Corner 裂縫 強TC擇
-    - (5HK + 5HP + 裂縫引爆) + [Corner 裂縫引爆 Combo(Mid)]()
-    - 強TC ガード
-        - [General Corner 裂縫強TC擇]()
-        - (5HK + 5HP) + [General Corner 裂縫傳送擇]()
-    - Corner 投げ Reset
-        - (5HK + 5HP + 弱弾) + 2LP + (6HK + 地刺 + [Corner 裂縫投げ]())
+    - (5HK + 5HP + 裂縫引爆) + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo)
+    - [General Corner 裂縫 強TC擇](#general-corner-裂縫-強tc擇)
+    - ガード(5HK + 5HP) + [General Corner 裂縫 傳送擇](#general-corner-裂縫-傳送擇)
+    - (5HK + 5HP + 弱弾) + 消費(2LP) + (6HK + 地刺 + [Corner 裂縫 投げ擇](#corner-裂縫-投げ擇))
 
 # Corner 5HP 裂縫擇
-- 裂縫 + 2LP + [Corner 裂縫Extension Combo]()
-- 裂縫 + [Corner 裂縫Extension Combo]()
+- 裂縫 + 消費(2LP) + [Corner 裂縫 Extension Combo](#corner-裂縫-extension-combo)
+- 裂縫 + [Corner 裂縫 Extension Combo](#corner-裂縫-extension-combo)
 
 # Corner 地刺 裂縫擇
-- 裂縫 + [Corner 裂縫Extension Combo]()
-- 裂縫 + [Corner 裂縫 ガード SA2 Combo]()
+- 裂縫 + [Corner 裂縫 Extension Combo](#corner-裂縫-extension-combo)
+- 裂縫 + [Corner 裂縫 ガード SA2 Combo](../../jp-sa2/blocked-sa2.md#corner-裂縫-ガード-sa2-combo)
 - ### Close Corner 地刺 裂縫擇
     - ### Corner 裂縫 投げ擇
-        - 裂縫 + [General Corner 裂縫 投げ擇]()/[Corner 裂縫 Shimmy (バクステ)](../../shimmy.md#corner-裂縫-shimmy-バクステ)
-        - 對手 投げ抜け：前投げ(對手 投げ抜け) + (DR + 5MK + 裂縫引爆 + [Corner 裂縫引爆 Combo(Mid)]())
+        - 裂縫 + [General Corner 裂縫 投げ擇](#general-corner-裂縫-投げ擇)/[Corner 裂縫 Shimmy (バクステ)](../../shimmy.md#corner-裂縫-shimmy-バクステ)
+        - 相手 投げ抜け：前投げ(投げ抜け) + (DR + 5MK + 裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
 
 # Corner 5HP OD裂縫擇
 - ### Close Corner 5HP OD裂縫擇
     - ### Corner OD裂縫 中下擇
-        - OD裂縫 + (中弾/強弾 + 2MP) + (5HK + delay + [Corner 6HK Combo(中風神)]())
-        - 中下弾ガード
-            - OD裂縫 + (中弾/強弾 + 2MP + 中弾/強弾) + (delay + [Corner 6HK Combo(中風神)]())
-            - OD裂縫 + (中弾/強弾) + [Corner 前投げ]()
-        - 中下弾 Reset
-            - OD裂縫 + (中弾/強弾 + 5LP*2 + DI)
+        - OD裂縫 + (中弾/強弾 + 2MP) + (5HK + delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + ガード(中弾/強弾 + 2MP) + 中弾/強弾 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + ガード(中弾/強弾) + [Corner 前投げ](../../jp.md#corner-前投げ)
+        - OD裂縫 + (中弾/強弾 + 5LP*2) + Reset(DI)
     - ### Corner OD裂縫 4MP擇
-        - OD裂縫 + 2LP + (4MP + 5MP + 中弾) + (delay + [Corner 6HK Combo(中風神)]())
-            - OD裂縫 + 2LP + (4MP + 5MP + 中弾/強弾) + (delay + [Corner 6HK Combo(中風神)]())
-        - 中下擇ガード
-            - OD裂縫 + 2LP + (4MP + 5MP + 中弾/強弾) + [強TC Combo]()
-        - OD裂縫4MPDI(對手 無法反DI)
-            - OD裂縫 + 2LP + (4MP/4MP + DI) + (delay + [Corner 6HK Combo(中風神)]())
-            - OD裂縫 + 2LP + (4MP/4MP + DI) + [Corner 前投げ]()/[5MK Combo]()
-        - 對手 Dリバ：看到Dリバ後，4MP的後hold
-            - OD裂縫 + 2LP + 4MP(後hold) + [General Corner 裂縫Dリバ]()
+        - OD裂縫 + 消費(2LP) + (4MP + 5MP + 中弾) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + 消費(2LP) + ガード(4MP + 5MP) + 中弾/強弾 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + 消費(2LP) + ガード(4MP + 5MP + 中弾/強弾) + [強TC Combo](../../jp.md#強tc-combo)
+        - #### OD裂縫 4MP DI(對手無法反DI)
+            - OD裂縫 + 消費(2LP) + 4MP/ガード(4MP) + (DI) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+            - OD裂縫 + 消費(2LP) + 4MP/ガード(4MP) + ガード(DI) + (delay + [Corner 前投げ](../../jp.md#corner-前投げ))/[5MK Combo](../../jp.md#5mk-combo)
+        - #### 相手 Dリバ：看到Dリバ後，按住4MP的4
+            - OD裂縫 + 消費(2LP) + 4MP + 4(Hold) + [General Corner 裂縫 Dリバ](#general-corner-裂縫-dリバ)
     - ### Corner OD裂縫 地刺擇
-        - OD裂縫 + 地刺 + (6HK + delay + [Corner HP Air Combo]())
-            - OD裂縫 + 地刺 + (6HK + delay + DR + [Corner 6HK Combo(中風神)]())
-        - OD裂縫 + 地刺 + (5LP + 中弾/強弾) + (delay + [Corner 6HK Combo(中風神)]())
+        - OD裂縫 + 地刺 + (6HK + delay + [Corner 5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo))
+        - OD裂縫 + 地刺 + (6HK + delay + DR + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + ガード(地刺) + (5LP + 中弾/強弾) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
 - ### Mid Corner 5HP OD裂縫擇
     - ### Corner OD裂縫 強風神擇
-        - OD裂縫 + (強風神 + 中弾/強弾) + [Corner 6HK Combo(強風神)]()
-            - OD裂縫 + (強風神 + 6MK) + (delay + [Corner 6HK Combo(中風神)]())
-        - OD裂縫 + (強風神 + [Air JMK Combo(Close)]())
-        - 對手 DI
-            - OD裂縫 + 強風神(對手 DI) + (バクステ + [Near-Corner 強風神 Combo]())
+        - OD裂縫 + (強風神 + [Close JMK Air Combo](../../jp.md#close-jmk-air-combo))
+        - OD裂縫 + ガード(強風神) + 中弾/強弾 + [Corner 6HK 強風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
+        - OD裂縫 + ガード(強風神) + 6MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - #### 相手 DI
+            - OD裂縫 + 強風神(相手 DI) + (バクステ + [Near-Corner 強風神 Combo](../jp-stribog.md#near-corner-強風神-combo))
 - ### Corner OD裂縫 F式擇
-    - OD裂縫 + 2LP + (裂縫傳送(弱) + [General Corner 裂縫F式]())
+    - OD裂縫 + 消費(2LP) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](#general-corner-裂縫-f式擇))
 - ### Corner OD裂縫 引爆擇
-    - OD裂縫 + 裂縫引爆 + (5LP + DI/コマ投げ)
-    - OD裂縫 + 裂縫引爆 + (delay + [Corner 6HK Combo(中風神)]())
+    - OD裂縫 + 裂縫引爆 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD裂縫 + ガード(裂縫引爆) + 2LP + Reset(DI/コマ投げ)
 - ### Corner OD裂縫 DI(對手 無法反DI)
-    - (OD裂縫 + 5LP + DI) + (delay + [Corner 6HK Combo(中風神)]())
+    - (OD裂縫 + 消費(5LP) + DI) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
 
 # Corner 地刺 OD裂縫擇
 - ### Close Corner 地刺 OD裂縫擇
     - ### Corner OD裂縫 投げ擇
-        - OD裂縫 + [General Corner 裂縫 投げ擇]()/[Corner OD裂縫 Shimmy (バクステ)](../../shimmy.md#corner-od裂縫-shimmy-バクステ)
+        - OD裂縫 + [General Corner 裂縫 投げ擇](#general-corner-裂縫-投げ擇)/[Corner OD裂縫 Shimmy (バクステ)](../../shimmy.md#corner-od裂縫-shimmy-バクステ)
     - ### Corner OD裂縫 弱風神擇
-        - OD裂縫 + (5LK + 弱風神) + (2MP + [Corner OD裂縫 Combo(風神)]())
-        - OD裂縫 + (5LK + 弱風神) + (前ステ/5MK + [Corner OD裂縫 Reset]())
-        - ガード
-            - OD裂縫 + (5LK + 弱風神) + 6MK/2MK + [Corner 6HK Combo(中風神)]()
-            - OD裂縫 + 5LK + (裂縫傳送(弱) + [General Corner 裂縫F式]())
-        - 對手 Dリバ：看到Dリバ後，後hold
-            - OD裂縫 + 5LK(後hold) + (2LP + [General Corner 裂縫Dリバ]())
+        - OD裂縫 + (5LK + 弱風神) + 消費(2MP) + [Corner 風神 OD裂縫 Air Combo](jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo)
+        - OD裂縫 + (5LK + 弱風神) + 消費(2MK/前ステ) + [Corner OD裂縫 Air Reset](jp-od-departure-air-combo.md#corner-od裂縫-air-reset)
+        - OD裂縫 + ガード(5LK + 弱風神) + 6MK/2MK + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+        - OD裂縫 + ガード(5LK) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](#general-corner-裂縫-f式擇))
+        - #### 相手 Dリバ：看到Dリバ後，按住4
+            - OD裂縫 + 5LK + 4(Hold) + (2LP + [General Corner 裂縫 Dリバ](#general-corner-裂縫-dリバ))
     - ### Corner OD裂縫 2MP擇
-        - OD裂縫 + (2MP + 中風神) + (delay + [Corner OD裂縫 Combo(風神)]())
-        - ガード
-            - OD裂縫 + (2MP + 中風神) + 2MK + (delay + [Corner 6HK Combo(中風神)]())
-            - OD裂縫 + 2MP + (裂縫傳送(弱) + [General Corner 裂縫F式]())
+        - OD裂縫 + (2MP + 中風神) + (delay + [Corner 風神 OD裂縫 Air Combo](jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo))
+        - OD裂縫 + ガード(2MP + 中風神) + 2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - OD裂縫 + ガード(2MP) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](#general-corner-裂縫-f式擇))
     - ### Corner OD裂縫 当身擇
-        - OD裂縫 + 2LP + [General Corner 裂縫当身]()
+        - OD裂縫 + 消費(2LP) + [General Corner 裂縫 当身擇](#general-corner-裂縫-当身擇)
 - ### Corner OD裂縫 強TC擇
-    - OD裂縫 + (5HK + 5HP + 中弾) + (delay + [Corner 6HK Combo(中風神)]())
-    - 強TCガード
-        - OD裂縫 + [General Corner 裂縫強TC擇]()
-            - OD裂縫 + (5HK + 5HP + 5HK/5HP) + (2MP + [中風神 Combo]())
-            - OD裂縫 + (5HK + 5HP + 中弾/強弾) + [強TC Combo]()
-        - OD裂縫 + (5HK + 5HP) + (裂縫傳送(弱) + JMK) + (delay + [Corner 6HK Combo(中風神)]())
-    - OD裂縫強TC投げ Reset
-        - OD裂縫 + (5HK + 5HP + 中弾) + 2LP + (6HK + 地刺 + [Corner 裂縫投げ]())
+    - OD裂縫 + (5HK + 5HP + 中弾) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD裂縫 + [General Corner 裂縫 強TC擇](#general-corner-裂縫-強tc擇)
+    - 連ガ
+        - OD裂縫 + ガード(5HK + 5HP + 5HK/5HP) + [2MP Combo](../../jp.md#2mp-combo)
+        - OD裂縫 + ガード(5HK + 5HP + 中弾/強弾) + [強TC Combo](../../jp.md#強tc-combo)
+    - OD裂縫 + ガード(5HK + 5HP) + (裂縫傳送(弱) + JMK) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD裂縫 + (5HK + 5HP + 中弾) + 消費(2LP) + (6HK + 地刺 + [Corner 裂縫 投げ擇](#corner-裂縫-投げ擇))
 - ### Corner OD裂縫 傳送擇
-    - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [Corner High-Air JMK Combo]()/(裂縫引爆 + [Corner 裂縫引爆 Combo(Mid)]())
-    - JMKガード
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2LK*2/6MK + (delay + [Corner 6HK Combo(中風神)]())
-            - OD裂縫 + (裂縫傳送(弱) + JMK) + 2LK*2 + (前歩き + [Corner 前投げ]()/[強TC Combo]())
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + [Corner 前投げ]()
-    - 對手 跳
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + (delay +  + [Corner 6HK Combo(中風神)]())
-    - 對手 前跳
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + [Air 6HK Combo]()/[DR Air 6HK Combo]()
-    - 對手 昇竜
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [Corner High-Air JMK Combo]()/(裂縫引爆 + [Corner 裂縫引爆 Combo(Mid)]())
-    - 對手 Dリバ
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [強風神 Combo]()/(9 + JMK + [DR Air 6HK Combo]())
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + (前ステ + [2HP Reset]())
+    - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+    - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + (裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+    - OD裂縫 + 裂縫傳送(弱) + ガード(JMK) + 2LK*2/6MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD裂縫 + 裂縫傳送(弱) + ガード(JMK + 2LK*2) + (前歩き + [Corner 前投げ](../../jp.md#corner-前投げ)/[強TC Combo](../../jp.md#強tc-combo))
+    - OD裂縫 + 裂縫傳送(弱) + ガード(JMK) + (前歩き + [Corner 前投げ](../../jp.md#corner-前投げ))
+    - #### 相手 垂直ジャンプ
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - #### 相手 前ジャンプ
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + (前歩き + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + (delay + [DR 6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#dr-6hk-air-combo))
+    - #### 相手 パナシ
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + delay + 2HP(PC) + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + delay + 2HP(PC) + (裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+    - #### 相手 Dリバ
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [強風神 Combo](../jp-stribog.md#強風神-combo)/(9 + JMK + [DR Air 6HK Combo]())
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + (前ステ + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
 - ### Corner OD裂縫 雙傳送擇
-    - OD裂縫 + (裂縫傳送(弱) + JHP + 2HP) + (裂縫引爆 + [Corner 裂縫引爆 Combo(Mid)]())
-    - OD裂縫 + (裂縫傳送(弱) + JHP + 2HP) + [General Corner 裂縫傳送擇]()
-- OD裂縫 + [Corner OD裂縫 ガード SA2 Combo]()
+    - OD裂縫 + 裂縫傳送(弱) + (JHP + 2HP) + (裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+    - OD裂縫 + 裂縫傳送(弱) + ガード(JHP + 2HP) + [General Corner 裂縫 傳送擇](#general-corner-裂縫-傳送擇)
+- OD裂縫 + [Corner OD裂縫 ガード SA2 Combo](../../jp-sa2/blocked-sa2.md#corner-od裂縫-ガード-sa2-combo)
 
 # Midscreen 裂縫擇
-- 裂縫 前歩き：前歩き至保持不會被攻撃到的距離
-    - 裂縫引爆時(對手 在裂縫附近)
-        - 9 + [Jump Attack Combo]()
+- ### 裂縫前歩き
+    - 前歩き(保持不會被攻擊到的距離)
+    - #### 裂縫引爆時
+        - 9 + [Jump Attack Combo](../../jp.md#jump-attack-combo)
         - 往前 + [投げ](../jp.md#投げ)/6MK/2MK
-        - [裸DR Combo]()
-    - 對手 後ろ歩き至裂縫後：OD裂縫 + [裂縫前歩き]()
-- 裂縫DR(對手 在裂縫附近)
-    - 裂縫DR中下擇
-        - 裂縫 + DR + (6MK/2MK + 2MP) + (裂縫引爆 + [裂縫引爆 Combo(Mid-close)]())
-        - 裂縫DR中下擇ガード
-            - 裂縫 + DR + (6MK/2MK + 6MK/2MK) + [強風神 Combo]()
-            - 裂縫 + DR + (6MK/2MK + 2LP) + [裂縫傳送 Combo]()
-            - 裂縫 + DR + [DR中下擇ガード Combo]()
-    - 裂縫DR強TC
-        - 裂縫 + DR + (5HK + 5HP) + (裂縫引爆 + [裂縫引爆 Combo(Mid-close)]())
-        - 裂縫DR強TCガード
-            - 裂縫 + DR + (5HK + 5HP) + [裂縫傳送 Combo]()
-            - 裂縫 + DR + [強TCガード Combo]()
+        - [生ラッシュ Combo](../../jp.md#生ラッシュ-combo)
+    - #### 對手後退到裂縫後
+        - OD裂縫 + [裂縫前歩き](#裂縫前歩き)
+- ### 裂縫DR
+    - #### 裂縫 DR 中下擇
+        - 裂縫 + DR + (6MK/2MK + 2MP) + (裂縫引爆 + [Mid-close 裂縫引爆 Combo](jp-departure-shadow.md#mid-close-裂縫引爆-combo))
+        - 裂縫 + DR + ガード(6MK/2MK) + 6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo)
+        - 裂縫 + DR + ガード(6MK/2MK + 2LP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
+    - #### 裂縫 DR 強TC
+        - 裂縫 + DR + (5HK + 5HP) + (裂縫引爆 + [Mid-close 裂縫引爆 Combo](jp-departure-shadow.md#mid-close-裂縫引爆-combo))
+        - 裂縫 + DR + ガード(5HK + 5HP) + 5HK/5HP/中弾/強弾 + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
+        - 裂縫 + DR + ガード(5HK) + 6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo)
+        - 裂縫 + DR + ガード(5HK + 5HP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
     - 裂縫 + DR + [投げ](../jp.md#投げ)
-- 引爆後DR
-    - [DR中下擇 Combo]()
-    - 對手 Parry：DR + [投げ](../jp.md#投げ)
-- 裂縫ラッシュ止め(對手 DR)
-    - [ラッシュ止め]() + 裂縫引爆 + [裂縫引爆 Combo(Mid-close)]()
+- ### 引爆後DR
+    - [DR 中下擇 Combo](../../jp.md#dr-中下擇-combo)
+    - 相手 Parry：DR + [投げ](../jp.md#投げ)
+- ### 裂縫ラッシュ止め(對手DR)
+    - [ラッシュ止め](../../jp.md#ラッシュ止め-combo)(2MP/5MK) + 裂縫引爆 + [Mid-close 裂縫引爆 Combo](jp-departure-shadow.md#mid-close-裂縫引爆-combo)
 
 # Midscreen 強裂縫擇
 - ### Close Midscreen 強裂縫擇
@@ -183,16 +177,16 @@
         - Midscreen 裂縫投げ
             - [General Midscreen 裂縫投げ擇]()/[Midscreen 裂縫 Shimmy (バクステ)]()
             - 對手 後跳擇
-                - 前投げ(被後跳) + DR + (6MK/2MK + [強風神 Combo]())
+                - 前投げ(被後跳) + DR + (6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo))
                 - 前投げ(被後跳) + DR + [投げ](../jp.md#投げ)
         - Midscreen 裂縫強TC
-            - (5HK + 5HP + 弱地刺) + [強風神 Combo]()
+            - (5HK + 5HP + 弱地刺) + [強風神 Combo](../jp-stribog.md#強風神-combo)
             - 強TCガード
                 - [General Midscreen 裂縫強TC擇]()
-                - (5HK + 5HP) + [裂縫傳送 Combo]()
+                - (5HK + 5HP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
             - 中風神 Reset
-                - (5HK + 5HP + 中風神) + [2HP Reset]()/[Midscreen 強裂縫擇(Close)]()/[Midscreen OD裂縫擇]()
-    - ### 後方受け身：強裂縫 + [Midscreen 裂縫擇](#midscreen-裂縫擇)/[裂縫傳送 Combo]()
+                - (5HK + 5HP + 中風神) + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)/[Midscreen 強裂縫擇(Close)]()/[Midscreen OD裂縫擇]()
+    - ### 後方受け身：強裂縫 + [Midscreen 裂縫擇](#midscreen-裂縫擇)/[裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
 - ### Far Midscreen 強裂縫擇
     - [Midscreen 裂縫擇](#midscreen-裂縫擇)
     - 強裂縫 + (中弾/強弾 + 地刺) + [Far中弾 Combo]()
@@ -203,29 +197,29 @@
 # Midscreen OD裂縫擇
 - ### その場受け身：OD裂縫(弱強) + [左右擇]()/[中下弾擇]()/[強TC擇]()/[投げ擇]()
     - #### 左右擇
-        - 裂縫傳送(弱) + (JLK + 2LP*2) + [強風神 Combo]()
-            - 裂縫傳送(弱) + (JLK + 2LK*2) + [強風神 Combo]()
-        - 裂縫傳送(中) + (JLK + 2LP) + [強風神 Combo]()
-            - 裂縫傳送(弱) + (JLK + 2LK) + [強風神 Combo]()
+        - 裂縫傳送(弱) + (JLK + 2LP*2) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+            - 裂縫傳送(弱) + (JLK + 2LK*2) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+        - 裂縫傳送(中) + (JLK + 2LP) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+            - 裂縫傳送(弱) + (JLK + 2LK) + [強風神 Combo](../jp-stribog.md#強風神-combo)
         - 裂縫傳送(弱)/裂縫傳送(中) + [投げ](../jp.md#投げ)
     - #### 中下弾擇
-        - (中弾/強弾 + 5MK + 弱弾) + [強風神 Combo]()
-        - (中弾/強弾 + 中弾/強弾) + [強風神 Combo]()
+        - (中弾/強弾 + 5MK + 弱弾) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+        - (中弾/強弾 + 中弾/強弾) + [強風神 Combo](../jp-stribog.md#強風神-combo)
     - #### 強TC擇
-        - (5HK + 5HP + 中弾) + [強風神 Combo]()/(前ステ + [2HP Reset]())
+        - (5HK + 5HP + 中弾) + [強風神 Combo](../jp-stribog.md#強風神-combo)/(前ステ + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
         - 強TCガード
             - 強TC中下擇
                 - [General Midscreen 裂縫強TC擇]()
                     - (5HK + 5HP + 5HK/5HP) + [2HP連ガ Combo]()
                     - (5HK + 5HP + 中弾/強弾) + [DR2HP連ガ Combo]()
-                - (5HK + 5HP + 裂縫引爆) + [強風神 Combo]()
+                - (5HK + 5HP + 裂縫引爆) + [強風神 Combo](../jp-stribog.md#強風神-combo)
             - 強TC左右擇
-                - (5HK + 5HP + 裂縫傳送(弱)) + JHK + [HP Air Combo]()
+                - (5HK + 5HP + 裂縫傳送(弱)) + JHK + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
                 - (5HK + 5HP + 裂縫傳送(中)) + [JLK Combo]()/[投げ](../jp.md#投げ)/DI/コマ投げ
         - 相打ち：5HK(相打ち) + [6HK Combo]()
         - BTW 強TCSwitch 
-            - (5HK + 5HP + 5HK) + 前歩き + [Corner 6HK Combo(中風神)]()
-            - (5HK + 5HP + 裂縫引爆) + 前歩き + [Corner 6HK Combo(中風神)]()
+            - (5HK + 5HP + 5HK) + 前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+            - (5HK + 5HP + 裂縫引爆) + 前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - #### 投げ擇
         - [General Midscreen 裂縫 投げ擇]()
         - [Midscreen OD裂縫 Shimmy (バクステ)](../../shimmy.md#midscreen-od裂縫-shimmy-バクステ)
@@ -233,8 +227,8 @@
     - 後方受け身 中下弾擇
         - (中弾/強弾 + 中弾/強弾) + 中地刺
     - DR中下擇
-        - (DR + 6MK/2MK + 2MP) + delay(等第2個裂縫引爆) + [強風神 Combo]()
+        - (DR + 6MK/2MK + 2MP) + delay(等第2個裂縫引爆) + [強風神 Combo](../jp-stribog.md#強風神-combo)
     - 裂縫引爆擇
-        - 裂縫引爆 + delay(等第2個裂縫引爆) + [強風神 Combo]()
+        - 裂縫引爆 + delay(等第2個裂縫引爆) + [強風神 Combo](../jp-stribog.md#強風神-combo)
         - 裂縫引爆 + [DR中下擇 Combo]()
 
