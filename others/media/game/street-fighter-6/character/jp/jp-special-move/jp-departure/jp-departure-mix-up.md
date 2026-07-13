@@ -22,11 +22,11 @@
     - バクステ + [Near-Corner 強風神 Combo](../jp-stribog.md#near-corner-強風神-combo)
 
 # General Midscreen 裂縫擇
-- ### General Midscreen 裂縫 投げ
+- ### General Midscreen 裂縫 投げ擇
     - 前投げ + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
 - ### General Midscreen 裂縫 強TC擇
     - ガード(5HK + 5HP) + 5HK/5HP + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
-    - (5HK + 5HP + 中弾/強弾) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+    - ガード(5HK + 5HP) + 中弾/強弾 + [強風神 Combo](../jp-stribog.md#強風神-combo)
     - #### C-Switch 強TC擇
         - ガード(5HK + 5HP) + 5HK/5HP + 前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
         - ガード(5HK + 5HP) + 中弾/強弾 + 前ステ + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
@@ -61,7 +61,7 @@
 - ### Close Corner 地刺 裂縫擇
     - ### Corner 裂縫 投げ擇
         - 裂縫 + [General Corner 裂縫 投げ擇](#general-corner-裂縫-投げ擇)/[Corner 裂縫 Shimmy (バクステ)](../../shimmy.md#corner-裂縫-shimmy-バクステ)
-        - 相手 投げ抜け：前投げ(投げ抜け) + (DR + 5MK + 裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+        - 相手 投げ抜け：裂縫 + 前投げ(投げ抜け) + (DR + 5MK + 裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
 
 # Corner 5HP OD裂縫擇
 - ### Close Corner 5HP OD裂縫擇
@@ -173,26 +173,26 @@
 
 # Midscreen 強裂縫擇
 - ### Close Midscreen 強裂縫擇
-    - #### その場受け身：強裂縫 + [Midscreen 裂縫投げ]()/[Midscreen 裂縫強TC]()
-        - Midscreen 裂縫投げ
-            - [General Midscreen 裂縫投げ擇]()/[Midscreen 裂縫 Shimmy (バクステ)]()
-            - 對手 後跳擇
-                - 前投げ(被後跳) + DR + (6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo))
-                - 前投げ(被後跳) + DR + [投げ](../jp.md#投げ)
-        - Midscreen 裂縫強TC
-            - (5HK + 5HP + 弱地刺) + [強風神 Combo](../jp-stribog.md#強風神-combo)
-            - 強TCガード
-                - [General Midscreen 裂縫強TC擇]()
-                - (5HK + 5HP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
-            - 中風神 Reset
-                - (5HK + 5HP + 中風神) + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)/[Midscreen 強裂縫擇(Close)]()/[Midscreen OD裂縫擇]()
-    - ### 後方受け身：強裂縫 + [Midscreen 裂縫擇](#midscreen-裂縫擇)/[裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
+    - ### その場受け身
+        - #### Midscreen 裂縫 投げ擇
+            - 強裂縫 + [General Midscreen 裂縫 投げ擇](#general-midscreen-裂縫-投げ擇)/[Midscreen 裂縫 Shimmy (バクステ)](../../shimmy.md#midscreen-裂縫-shimmy-バクステ)
+            - #### 相手 バックジャンプ
+                - 強裂縫 + 前投げ(相手 バックジャンプ) + DR + (6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo))
+                - 強裂縫 + 前投げ(相手 バックジャンプ) + DR + [投げ](../jp.md#投げ)
+        - #### Midscreen 裂縫 強TC擇
+            - 強裂縫 + (5HK + 5HP + 弱地刺) + [強風神 Combo](../jp-stribog.md#強風神-combo)
+            - 強裂縫 + [General Midscreen 裂縫 強TC擇](#general-midscreen-裂縫-強tc擇)
+            - 強裂縫 + ガード(5HK + 5HP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
+            - 強裂縫 + (5HK + 5HP + 中風神) + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)/[Close Midscreen 強裂縫擇](#close-midscreen-強裂縫擇)/[Midscreen OD裂縫擇](#midscreen-od裂縫擇)
+    - ### 後方受け身
+        - 強裂縫 + [Midscreen 裂縫擇](#midscreen-裂縫擇)
+        - 強裂縫 + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
 - ### Far Midscreen 強裂縫擇
     - [Midscreen 裂縫擇](#midscreen-裂縫擇)
-    - 強裂縫 + (中弾/強弾 + 地刺) + [Far中弾 Combo]()
-        - 對手 BO：(強裂縫 + 中弾/強弾 + [SA1 Combo]())
-            - 對手 前跳：(強裂縫 + 中弾/強弾 + SA1) + [裂縫引爆 Combo]()
-    - 強裂縫 + (地刺 + 2LP + 中弾/強弾)
+    - 強裂縫 + (中弾/強弾 + 地刺) + [Far 中弾 Combo](../jp-projectile.md#far-中弾-combo)
+    - 相手 BO磨血：(強裂縫 + ガード(中弾/強弾) + [SA1 Combo](../../jp.md#sa1-combo))
+        - 相手 前ジャンプ：(強裂縫 + ガード(中弾/強弾) + SA1) + [裂縫引爆 Combo](jp-departure-shadow.md)
+    - 強裂縫 + (地刺 + 消費(2LP) + 中弾/強弾)
 
 # Midscreen OD裂縫擇
 - ### その場受け身：OD裂縫(弱強) + [左右擇]()/[中下弾擇]()/[強TC擇]()/[投げ擇]()
