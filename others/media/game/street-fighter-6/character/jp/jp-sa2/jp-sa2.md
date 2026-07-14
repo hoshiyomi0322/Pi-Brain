@@ -1,35 +1,35 @@
 # SA2 強裂縫 Extension Combo
 - ### General 強裂縫 Extension Combo
-    - #### 裂縫強TC
-        - [Midscreen 裂縫強TC]()
-            - (5HK + 5HP) + ガード(5HK/5HP) + [2HP連ガ Combo]()
+    - ### 裂縫強TC
+        - [Midscreen 裂縫 強TC擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-強tc擇)
+        - [Corner 裂縫 強TC擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-裂縫-強tc擇)
+        - 連ガ
             - (5HK + 5HP) + ガード(中弾/強弾) + [強TC Combo](../jp.md#強tc-combo)
-        - [Corner 裂縫強TC]()
-            - (5HK + 5HP) + ガード(5HK/5HP) + (2MP + [中風神 Combo]())
-            - (5HK + 5HP) + ガード(中弾/強弾) + [強TC Combo](../jp.md#強tc-combo)
-    - Close Corner：[Corner 裂縫中下弾](https://app.notion.com/p/JP-2adfcc46db4380658bf1dcd6a98908d8pvs=21)
+            - Midscreen：(5HK + 5HP) + ガード(5HK/5HP) + [2HP Combo](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)
+            - Corner：(5HK + 5HP) + ガード(5HK/5HP) + [2MP Combo](../jp.md#2mp-combo)
+    - Close Corner：[Corner 裂縫 中下弾](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-裂縫-中下擇)
 - ### 打動力槽
-    - #### Midscreen 打動力槽
-        - (5HP + DI) + 強地刺/(DR + [Air 6HK Combo]())/[SA1 Combo]()
-    - #### Near-Corner 打動力槽
-        - (5HP + DI) + (前ステ + [Corner 6HK Combo(中風神)]())
+    - ### Midscreen 打動力槽
+        - (5HP + DI) + [Midscreen 強地刺 Combo](../jp-special-move/jp-special-move.md#midscreen-強地刺-combo)/[SA1 Combo](../jp.md#sa1-combo)
+        - (5HP + DI) + (DR + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+    - ### Near-Corner 打動力槽
+        - (5HP + DI) + (前ステ + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
 - ### 強裂縫 Extension Reset
-    - #### DR Reset
-        - (DR + 5MK) + [強風神ガード]()/[強風神打中]()/[相手 DI]()
-            - 強風神ガード
-                - 強風神 + DI/コマ投げ
-            - 強風神打中
-                - Midscreen：強風神 + (前ステ + DR + [Air 6HK Combo]())
-                - Near-Corner：強風神 + [Air JMK Combo(Close)]()
-            - 相手 DI
-                - Midscreen：強風神(相手 DI) + [強風神 Combo]()
-                - Corner：強風神(相手 DI) + (delay + [Corner 6HK Combo(中風神)]())
-        - (DR + 2MP + 4MP) + (2LP*2 + DI/コマ投げ)
-    - #### 2HK Reset
-        - (2HK + 中弾/強弾) + [強風神 Combo]()
-        - (2HK + 中弾/強弾) + (delay(等裂縫引爆) + 5LK + コマ投げ)
-            - 相手 後方受け身：(2HK + 中弾/強弾) + (前歩き(等裂縫引爆) + 5LK + コマ投げ)
-        - (2HK + 偽弾 + [投げ](../jp.md#投げ))
+    - (DR + 2MP + 4MP + 2LP*2) + Reset(DI/コマ投げ)
+    - ### DR 5MK Reset
+        - Midscreen：(DR + 5MK) + 強風神 + (前ステ + DR + [Air 6HK Combo]())
+        - Near-Corner：(DR + 5MK) + 強風神 + [Air JMK Combo(Close)]()
+        - (DR + 5MK) + ガード(強風神) + Reset(DI/コマ投げ)
+        - #### 相手 DI
+            - Midscreen：(DR + 5MK) + 強風神(相手 DI) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
+            - Corner：(DR + 5MK) + 強風神(相手 DI) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - ### 2HK Reset
+        - Midscreen：(2HK + 中弾/強弾) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
+        - Corner：(2HK + 中弾/強弾) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - (2HK + 偽弾) + [投げ](../jp.md#投げ)
+        - #### Midscreen 2HK コマ投げ Reset
+            - その場受け身：(2HK + 中弾/強弾) + (delay(等裂縫引爆) + 5LK) + Reset(コマ投げ)
+            - 後方受け身：(2HK + 中弾/強弾) + (前歩き(等裂縫引爆) + 5LK) + Reset(コマ投げ)
 
 # SA2 Combo
 - ### [General SA2 Combo](general-sa2.md)

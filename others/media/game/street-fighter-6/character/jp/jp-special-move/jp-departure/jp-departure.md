@@ -9,7 +9,8 @@
 - [裂縫擇/OD裂縫擇](jp-departure-mix-up.md)
 
 # OD裂縫 Combo
-- ### [OD裂縫 Air Combo](jp-od-departure-air-combo.md)
-- ### 打動力槽OD裂縫 Combo
+- ### 打動力槽 OD裂縫 Combo
     - OD裂縫(弱強) + (5HP + DI) + [強風神 Combo](../jp-stribog.md#強風神-combo)/[Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
 
+# OD裂縫 Air Combo
+- ### [OD裂縫 Air Combo](jp-od-departure-air-combo.md)

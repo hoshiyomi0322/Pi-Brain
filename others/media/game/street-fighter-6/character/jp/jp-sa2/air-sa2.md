@@ -5,10 +5,10 @@
     - (8 + JHK) + [General Corner 6HK Combo]()/[Corner DR 6HK Combo]()
     - (8 + JHK) + OD裂縫 + (2HP + 中風神) + (delay + [Corner OD裂縫 Combo(風神)]())
     - (8 + JHK) + [Corner 裂縫投げ]()
-- ### DI SA2 Αir (對手無法反DI)
-    - #### Midscreen Air DI SA2
+- ### DI SA2 Αir Reset (對手無法反DI)
+    - #### Midscreen DI SA2 Αir Reset
         - OD裂縫(弱強) + (2LP + 2MK) + Reset(DI) + (後ろ歩き + [HP Air Combo]())
-    - #### Corner Air DI SA
+    - #### Corner DI SA2 Αir Reset
         - OD裂縫(弱強) + (2LP + 2MK) + Reset(DI) + [Corner 6HK Combo(中風神)]()
 
 # OD風神地刺 SA2 Combo
@@ -37,12 +37,12 @@
             - Close Midscreen OD弾 SA2 Reset
                 - SA2 + 弱風神 + (前ステ + 強裂縫) + (前ステ + 9 + JMK) + Reset(6MK) + [裂縫引爆 Combo(Mid-close)]()
                     - SA2 + 弱風神 + (前ステ + 強裂縫) + (前ステ + 9 + JMK) + ガード(6MK) + [2HP連ガ Combo]()
-                - SA2 + 弱風神 + (バクステ + 前ステ + [Midscreen Air DI SA2]())
+                - SA2 + 弱風神 + (バクステ + 前ステ + [Midscreen DI SA2 Αir Reset](#midscreen-di-sa2-αir-reset))
         - #### Mid Midscreen OD弾 SA2 Combo
             - SA2 + (8 + JMK) + 強裂縫 + (前ステ + 5MK) + 中弾 + 強地刺*2
             - Mid Midscreen OD弾 SA2 Reset
                 - SA2 + (前ステ + 中風神) + (前ステ + 中裂縫) + (8 + JMK) + Reset(6MK) + [強風神 Combo]()
-                - SA2 + (前ステ + 中風神) + (5LK + [Midscreen Air DI SA2]())
+                - SA2 + (前ステ + 中風神) + (5LK + [Midscreen DI SA2 Αir Reset](#midscreen-di-sa2-αir-reset))
     - ### Mid-close C-Switch OD弾 SA2 Combo
         - SA2 + (前ステ + 中風神) + (前ステ + 弱裂縫 + 中風神) + 前歩き(到裂縫正下方) + DI + [Corner 6HK Combo(中風神)]()
     - ### Mid-close Corner OD弾 SA2 Combo
@@ -73,12 +73,12 @@
             - (OD弾 + 中弾) + (delay(等裂縫引爆) + [Corner Highest-Air 地刺 Combo]())
     - SA2 + (弱風神 + [Corner Air 中下弾 SA2 Reset]())
     - SA2 + (中風神 + [Corner Air JHK SA2 Reset]())
-    - SA2 + (7 + 強地刺) + [Corner Air DI SA2]()
+    - SA2 + (7 + 強地刺) + [Corner DI SA2 Αir Reset](#corner-di-sa2-αir-reset)
     - #### F式 SA2 Reset
         - SA2 + (弱風神 + 中風神) + (裂縫 + 5LP) + 安全飛び([通用Corner 裂縫F式]())
         - SA2 + (弱風神 + 中風神) + (2MK + OD裂縫) + 安全飛び([通用Corner 裂縫F式]())
 
 # BTW OD当身 SA2 Combo
 - [Midscreen 弱風神 SA2 Reset]()
-- SA2 + (9 + 中風神) + [Corner Air DI SA2]()
+- SA2 + (9 + 中風神) + [Corner DI SA2 Αir Reset](#corner-di-sa2-αir-reset)
 

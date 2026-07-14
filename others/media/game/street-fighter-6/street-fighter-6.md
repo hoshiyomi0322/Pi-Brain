@@ -195,7 +195,7 @@
         - Zangief：5MP*2
         - Jamie：2MK, 2HP, 弱推掌, 中推掌, 醉拳
     - #### 8F PC
-        - JP：6HK(しゃがみガード), 中弾, 強弾
+        - JP：6HK(しゃがみガード), 中弾, 強弾, 中風神
         - Gouki：輕灼火
         - Ken：中龍尾腳, OD龍尾腳
         - Ryu：中足刀
@@ -204,7 +204,7 @@
         - Chunli：弱百裂腳, 中百裂腳
     - #### 10F PC
         - [昇竜](#昇竜-dragon-punch-dr)
-        - JP：3HP(Mid-range)
+        - JP：3HP(Mid-range), 弱風神
         - Gouki：2HK, 5HK(しゃがみガード), 灼火派生, 旋風腳
         - Ken：(5MP + 5HP)
         - Ryu：2HK, 4HP, 中波掌擊, 弱足刀

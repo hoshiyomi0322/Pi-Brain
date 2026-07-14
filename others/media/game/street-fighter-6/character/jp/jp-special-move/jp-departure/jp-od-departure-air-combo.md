@@ -32,24 +32,25 @@
                 - OD裂縫 + 消費(5HK) + ガード(6MK) + 2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - #### Corner 風神 OD裂縫 3裂縫 Air Combo (need delay or 消費)
         - (OD裂縫 + 5HP + 地刺) + (delay + OD裂縫 + 裂縫引爆) + (消費(5LP) + [Corner 地刺 High-Air Combo](../jp-special-move.md#corner-地刺-high-air-combo))
-- ### Corner OD裂縫 Air Reset
-    - #### Corner OD裂縫 F式 Air Reset
-        - (OD裂縫 + delay + 2HP) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](jp-departure-mix-up.md#general-corner-裂縫-f式擇))
-    - #### Corner OD裂縫 中下弾 Air Reset
-        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + 中弾/強弾 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)/[Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
-        - (OD裂縫 + delay + 2HP) + ガード(中弾/強弾) + Reset(中弾/強弾) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)/[Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
-        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + 2MP + Reset(DI)
-        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇)
 - ### Corner 6HK中弾 OD裂縫 Air Combo
     - (OD裂縫 + delay + 6HK + 中弾) + (delay + [Corner 風神 OD裂縫 Air Combo](#corner-風神-od裂縫-air-combo)/[Corner OD裂縫 Air Reset](#corner-od裂縫-air-reset))
     - [Corner OD裂縫 Air Reset](#corner-od裂縫-air-reset)
 - ### Corner 弱弾 OD裂縫 Air Combo
     - delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
-    - 2MK/前ステ + [Corner 6HK中弾 OD裂縫 Air Combo](#corner-6hk中弾-od裂縫-air-combo)
+    - 消費(5MK/2MK) + [Corner 6HK中弾 OD裂縫 Air Combo](#corner-6hk中弾-od裂縫-air-combo)
+    - (前ステ + delay) + [Corner 6HK中弾 OD裂縫 Air Combo](#corner-6hk中弾-od裂縫-air-combo)
 - ### Corner バクステ6HK OD裂縫 Air Combo
     - delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - 前ステ + [Corner 6HK中弾 OD裂縫 Air Combo](#corner-6hk中弾-od裂縫-air-combo)
     - (delay + OD裂縫 + 中風神) + (2HK + [Corner 風神 OD裂縫 2裂縫 Air Combo](#corner-風神-od裂縫-2裂縫-air-combo-need-delay-or-消費))
+- ### Corner OD裂縫 Air Reset
+    - #### Corner OD裂縫 F式 Air Reset
+        - (OD裂縫 + delay + 2HP) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](jp-departure-mix-up.md#general-corner-裂縫-f式擇))
+    - #### Corner OD裂縫 中下弾 Air Reset
+        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + 中弾/強弾 + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)/[Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
+        - (OD裂縫 + delay + 2HP) + ガード(中弾/強弾) + Reset(中弾/強弾) + [Corner 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#corner-裂縫引爆-combo)/(delay + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
+        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + 2MP + Reset(DI)
+        - (OD裂縫 + delay + 2HP) + Reset(中弾/強弾) + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇)
 
 # BTW OD裂縫 Air Combo
 - (OD裂縫(中強) + 5HP + 強弾) + 消費(バクステ) + [Far 中弾 Combo](../jp-projectile.md#far-中弾-combo)
