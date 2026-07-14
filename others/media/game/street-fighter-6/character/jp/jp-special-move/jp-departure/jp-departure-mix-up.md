@@ -13,8 +13,10 @@
     - 裂縫傳送 + ガード(JHP + 2HP) + Reset(DI/コマ投げ)
     - [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
 - ### General Corner 裂縫 F式擇
-    - JHK + (9 + [F式](../../jp.md#f式)) + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
-    - JHK + 2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - (JHK + 9 + [F式](../../jp.md#f式)) + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
+    - (JHK + 2MK) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - (JHK + 9 + [F式](../../jp.md#f式)) + (delay + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
+    - (JHK + 2MK) + (前歩き + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
 - ### General Corner 裂縫 当身擇
     - 当身 + 2MK + (前ステ + delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - OD当身 + 2MK + (前ステ + 裂縫) + (delay + 6HK + 中弾 + delay + [Corner 5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo))
@@ -33,6 +35,9 @@
     - #### 強TC擇 Reset
         - ガード(5HK + 5HP) + 5HK/5HP + (前歩き + 5LK) + Reset(DI/コマ投げ)
         - ガード(5HK + 5HP) + 中弾/強弾 + (前ステ + 5LK) + Reset(コマ投げ)
+- ### General Midscreen 裂縫 F式擇
+    - JHK + (9 + [F式](../../jp.md#f式)) + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
+    - JHK + 2MK + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)/[2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)
 
 # Corner 裂縫 Extension Combo
 - ### Close Corner 裂縫 Extension Combo
