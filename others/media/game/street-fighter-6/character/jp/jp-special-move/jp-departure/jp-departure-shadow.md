@@ -9,7 +9,10 @@
         - [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
         - 前歩き + [2HP Reset](../../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)
     - #### Mid-far Midscreen 裂縫引爆 Combo
+        - [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
         - [DR 6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#dr-6hk-air-combo)
+- ### Far Midscreen 裂縫引爆 Combo
+    - [DR 6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#dr-6hk-air-combo)
 
 # Corner 裂縫引爆 Combo
 - ### Close Corner 裂縫引爆 Combo
@@ -21,6 +24,7 @@
 - ### Corner 裂縫引爆 Reset
     - (DR + 6HK + 5LP) + Reset(DI)
     - 消費(2LP) + 5LK + Reset(DI/コマ投げ)
+    - delay + [Corner-2HP-中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇)
 
 # Corner DR 裂縫引爆 Combo
 - DR + [Corner DR 6HK Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-dr-6hk-combo)
