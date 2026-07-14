@@ -35,12 +35,16 @@
 3. ### Customs、税関(ぜいかん)
     - #### 出示Passport + QR code/海關申報單
 
-# 住宿
+# Hotel
 - ### 訂房
     - #### [楽天トラブル (Rakuten Travel)](https://travel.rakuten.com/twn/zh-tw)
     - #### [じゃらん (Jalan)](https://www.jalan.net/)
     - #### [Airbnb](https://www.airbnb.com.tw/)
     - #### [Agoda](https://www.agoda.com/)
+- ### チェーンホテル (Chain Hotel)
+    - #### 東横イン (Toyoko Inn)
+    - #### Dormy Inn
+    - #### APA Hotel
 - ### 訂房網站訂完後：Gmail飯店進行確認
 
 # 行李
@@ -70,6 +74,10 @@
     - #### 3.5以上＝いいね
     - #### 4以上＝最高
 - ### 予約
+
+# 訂票
+- ### [KKday](https://www.kkday.com/)
+- ### [Klook](https://www.klook.com/)
 
 # エンタメ
 - ### Round 1
