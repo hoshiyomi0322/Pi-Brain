@@ -17,8 +17,8 @@
 - ### 強裂縫 Extension Reset
     - (DR + 2MP + 4MP + 2LP*2) + Reset(DI/コマ投げ)
     - ### DR 5MK Reset
-        - Midscreen：(DR + 5MK) + 強風神 + (前ステ + DR + [Air 6HK Combo]())
-        - Near-Corner：(DR + 5MK) + 強風神 + [Air JMK Combo(Close)]()
+        - Midscreen：(DR + 5MK) + 強風神 + (前ステ + DR + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+        - Near-Corner：(DR + 5MK) + 強風神 + [Close JMK Air Combo](../jp.md#close-jmk-air-combo)
         - (DR + 5MK) + ガード(強風神) + Reset(DI/コマ投げ)
         - #### 相手 DI
             - Midscreen：(DR + 5MK) + 強風神(相手 DI) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)

@@ -10,7 +10,7 @@
 
 # Chop Extension Combo
 - [2LP Combo](alex.md#2lp-combo)
-- 4MK
+- 4MK + [33F OKI](alex.md#33f-oki)
 - コマ投げ
 - (コマ投げ + 6(Hold)) + 安全飛び
 - (コマ投げ + PP(SA2))

@@ -121,7 +121,7 @@
     - ### 2HK 中下弾擇
         - Reset(中弾/強弾) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/(delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
         - ガード(中弾/強弾) + [強TC Combo](../jp.md#強tc-combo)
-- ### Corner 2HK Reset SA
+- ### Corner 2HK SA2 Reset
     - SA2 + (2MK + 5MK + 5HP + OD裂縫) + (2HK + 裂縫傳送(中)) + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - SA2 + (2MK + 5MK + 裂縫) + (2MP + 2HK + 9 + 後ろ歩き) + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
 
