@@ -35,7 +35,7 @@
 - DI(Wall spalt) + 5HP*2 + (236中腳 + SA3)
 - DI(Wall spalt) + 5HP*2 + SA1/SA2
 
-### Wall Splat ComboDR Combo
+### Wall Splat Combo DR Combo
 
 - DI(Wall spalt) + 5HP*2 + (DR + 2HP + 2145HK) + 236中腳 + 強昇竜/(SA1 + 強昇竜)
 - DI(Wall spalt) + 5HP*2 + (DR + 2HP + 2145HK) + 2365HK + SA3

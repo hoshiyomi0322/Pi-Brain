@@ -141,11 +141,15 @@
     - 8/9 + JMP + [2MP Combo](#2mp-combo)/[5MK Combo](#5mk-combo)
 
 # Counter Combo
-- ### Counter Combo
-    - (6MK/2MK)(Counter) + [5LK Combo]()
-    - 2MP(Counter) + [5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
-    - DR + 2MP(Counter) + [Heavy Attack Combo](#heavy-attack-combo)
-- ### [PC Combo](jp-pc-combo.md)
+- (6MK/2MK)(Counter) + [5LK Combo]()
+- 2MP(Counter) + [5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
+- DR + 2MP(Counter) + [Heavy Attack Combo](#heavy-attack-combo)
+
+# [PC Combo](jp-pc-combo.md)
+- ### [Light Attack PC Combo](jp-pc-combo.md#light-attack-pc-combo)
+- ### [Medium Attack PC Combo](jp-pc-combo.md#medium-attack-pc-combo)
+- ### [Heavy Attack PC Combo](jp-pc-combo.md#heavy-attack-pc-combo)
+- ### [DR PC Combo](jp-pc-combo.md#dr-pc-combo)
 
 # [DI Combo](jp-di-combo.md)
 - ### [DI PC Combo](jp-di-combo.md#di-pc-combo)

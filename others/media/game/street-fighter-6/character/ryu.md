@@ -53,8 +53,6 @@
 
 - OD Air 旋風腳 + SA1/(強昇竜 + SA3)
 
-## PC/DI
-
 ## DI Combo
 
 ## Wall Splat Combo

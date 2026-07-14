@@ -29,9 +29,9 @@
 # Light Attack Combo
 
 # Counter Combo
-- ### Counter Combo
-- ### PC Combo
-    - 5HK + [5MP Air Combo](#5mp-air-combo)
+
+# PC Combo
+- 5HK + [5MP Air Combo](#5mp-air-combo)
 
 # DI Combo
 - ### DI PC Combo

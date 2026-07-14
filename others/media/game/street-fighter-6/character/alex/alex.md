@@ -48,9 +48,9 @@
 - ### 2LP Combo
 
 # Counter Combo
-- ### Counter Combo
-- ### PC Combo
-    - [Stance PC Combo](alex-special-move.md#stance-pc-combo)
+
+# PC Combo
+- [Stance PC Combo](alex-special-move.md#stance-pc-combo)
 
 # DI Combo
 - ### DI PC Combo

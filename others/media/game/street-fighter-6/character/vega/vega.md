@@ -44,11 +44,11 @@
     - 2LP + [Light Cancel Combo](#light-cancel-combo)
 
 # Counter Combo
-- ### Counter Combo
-    - [剪刀腳 Counter Combo](vega-special-move.md#剪刀腳-counter-combo)
-- ### PC Combo
-    - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
-    - [剪刀腳 PC Combo](vega-special-move.md#剪刀腳-pc-combo)
+- [剪刀腳 Counter Combo](vega-special-move.md#剪刀腳-counter-combo)
+
+# PC Combo
+- 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+- [剪刀腳 PC Combo](vega-special-move.md#剪刀腳-pc-combo)
 
 # DI Combo
 - ### DI PC Combo

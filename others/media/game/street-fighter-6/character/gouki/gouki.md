@@ -73,9 +73,9 @@
 - ガード後可以Heavy Attack PC：[10F PC]
 - [5HP Combo]()
     - Close：[5HP Combo]() + [2MP Combo]()
-- 2HKPC Combo
-    - 2HK + (前ステ*2 + [5HP 強ね]())
-    - 2HK + (前ステ + 2MP + [5MP 強ね(バクステ)]())
+- 2HK PC Combo
+    - 2HK + (前ステ*2 + [5HP 重ね]())
+    - 2HK + (前ステ + 2MP + [5F打摔擇 (バクステ)]())
 
 ### Shimmy
 
@@ -129,13 +129,13 @@
 
 - 6HP*2 + 中昇竜/[Corner 弱昇竜 Combo]()
 - Corner Air 6HP Comb
-    - 6HP*2 + [Corner 強旋風腳 Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
+    - 6HP*2 + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 
-### DR6HP Combo
+### DR 6HP Combo
 
 - DR + 6HP + [2HP Combo]()
 - (DR + 6HP + 2HP) + (CDR + [DR6HP Combo]())
-- DR + 6HP + [5MP 強ね(後ろ歩き)]()
+- DR + 6HP + [5F打摔擇 (後ろ歩き)]()
 
 ## 5HK Combo
 
@@ -144,84 +144,14 @@
 ### Air 5HK Combo
 
 - 5HK + [中旋風 Combo]()/SA1/[SA2 Combo]()/SA3
-- Corner：5HK + [Corner 強旋風腳 Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
+- Corner：5HK + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
 
 ## 2HK Combo
 
 - 2HK + 安全飛び
-- Corner：2HK + (DR + 5MP) + [5MP 強ね(バクステ)]()
+- Corner：2HK + (DR + 5MP) + [5F打摔擇 (バクステ)]()
 
-## 4HK Combo
-
-- ガード
-    - 4HK + [百鬼襲 Combo(弱)]()
-    - 連ガ：4HK + 弱弾/OD弾
-
-### General 4HK Combo
-
-- 4HK + [Close High-Air 旋風腳 Combo]()
-- (4HK + OD百鬼旋風腳) + [強旋風腳 Combo]()/SA2/[弱昇竜 Combo]()
-
-### 4HK OD溜め弾 Combo
-
-- (4HK + OD溜め弾) + [中旋風腳 Combo]()
-    - QQH：(4HK + OD溜め弾) + [High-Air Near-wall 中旋風腳 Combo]()
-
-#### 4HK OD溜め弾 DR Combo
-
-- (4HK + OD溜め弾) + (DR + delay + 2HP + [Close High-Air 旋風腳 Combo]())
-- (4HK + OD溜め弾) + (DR + 4HK + 強百鬼5HK + [中旋風腳 Combo]())
-- QQH 4HKOD溜め弾DR Combo
-    - (4HK + OD溜め弾) + (DR + [High-Air Corner 4HK Combo]())
-    - (4HK + OD溜め弾) + (DR + 4HK/(delay + 2HP)) + (CDR + [High-Air Corner 4HK Combo]())
-    - (4HK + OD溜め弾) + (DR + 4HK) + (CDR + 4HK) + (強溜め弾2 + [5MP 強ね(後ろ歩き)]())
-
-#### Corner 4HKOD溜め弾 Combo
-
-- (4HK + OD溜め弾) + (OD旋風腳 + OD昇竜)
-- (4HK + OD溜め弾) + (9 + OD空弾) + [Air Corner 中旋風腳 Combo]()/SA1/SA2
-
-### Midscreen 4HK Combo
-
-- [General 4HK Combo]()
-- [4HKOD溜め弾 Combo]()
-- (4HK + 弱弾) + SA1
-- (4HK + 弱弾) + (DR + [HP Air Combo]())
-
-### C-Switch 4HK Combo
-
-- 4HK + CDR + [Corner 強旋風腳 Combo]()/[Corner 弱昇竜 Combo]()
-- 4HK + 強灼火 + (DR + 2LK) + [5MP 強ね(後ろ歩き)]()
-- 4HK + 中百鬼下段 + [5MP 強ね(バクステ)]()
-- 4HK + 強百鬼Cancel + (DR + 5LP) + [5MP 強ね(バクステ)]()
-
-### Corner 4HK Combo
-
-- (4HK + 溜め弾1) + [Corner 強旋風腳 Combo]()/[Air Corner 中旋風腳 Combo]()/SA1/SA2
-- [4HKOD溜め弾 Combo]()
-
-#### General Corner 4HK Combo
-
-- [General 4HK Combo]()
-- (4HK + 百鬼腳) + [Corner 強旋風腳 Combo]()/[2HK Combo]()/SA2/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + OD百鬼空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + OD百鬼空弾) + (OD旋風腳 + [弱昇竜 Combo]())
-    - (4HK + OD百鬼空弾) + (DR + 5MP) + (CDR + [Corner 4HK Combo]())
-    - (4HK + OD百鬼空弾) + (OD弾 + SA1/SA2)
-    - (4HK + OD百鬼空弾) + (delay + SA1)/SA2
-    - (4HK + OD百鬼空弾) + (DR + 5HK) + [5MP 強ね(バクステ)]()
-- (4HK + 強灼火派生) + (弱昇竜 + OD昇竜/SA1/SA2/SA3)
-- 4HK + 百鬼下段 + [5MP 強ね(バクステ)]()
-
-#### High-Air Corner 4HK Combo
-
-- (4HK + delay-百鬼腳) + [Corner 強旋風腳 Combo]()/SA1/SA2/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + delay-OD百鬼空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + delay-OD百鬼空弾) + (OD旋風腳 + [弱昇竜 Combo]())
-    - (4HK + OD百鬼空弾) + (DR + 5MP) + (CDR + [High-Air Corner 4HK Combo]())
-    - (4HK + delay-OD百鬼空弾) + SA1/SA2
-    - (4HK + delay-OD百鬼空弾) + (DR + 5HK) + [5MP 強ね(バクステ)]()
-- (4HK + OD百鬼旋風腳) + [強旋風腳 Combo]()/SA1/SA2/[弱昇竜 Combo]()
+## [4HK Combo](gouki-4hk-combo.md)
 
 ## Medium Attack Combo
 
@@ -303,27 +233,21 @@
 - DR2LK Combo
     - DR + 2LK + [5MK Combo]()
 
-### DRLight Attack combo
+### DR Light Attack combo
 
 - (DR + 5LP/2LP/5LK/2LK) + [5MP Combo]()/[2MP Combo]()
 
-## Cancel Combo
-
-## Medium Attack Cancel Combo
-
-- [CDR Combo]()
-- [旋風腳 Combo]()/[OD灼火 Combo]()
-- 中灼火 + 瞬獄殺
-
-## Light Attack Cancel Combo
-
-- [旋風腳 Combo]()
-- 弱灼火 + 瞬獄殺
-
-## CDR Combo
-
-- CDR + [DR2MP Combo]()
-- CDR + [DR6HP Combo]()
+# Cancel Combo
+- ### Medium Attack Cancel Combo
+    - [CDR Combo]()
+    - [旋風腳 Combo]()/[OD灼火 Combo]()
+    - 中灼火 + 瞬獄殺
+- ### Light Attack Cancel Combo
+    - [旋風腳 Combo]()
+    - 弱灼火 + 瞬獄殺
+- ### CDR Combo
+    - CDR + [DR2MP Combo]()
+    - CDR + [DR6HP Combo]()
 
 ## Jump Attack Combo
 
@@ -336,8 +260,8 @@
 - Corner Air JMP Comb
     - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
     - (9 + JMP + Air SA1) + (delay + SA1/SA2)
-    - (9 + JMP + OD空弾) + [Corner 強旋風腳 Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
-    - (9 + JMP + OD Air 旋風腳) + [Corner 強旋風腳 Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
+    - (9 + JMP + OD空弾) + [Corner 強旋風腳 Air Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
+    - (9 + JMP + OD Air 旋風腳) + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 - 8/9 + JHP/JHK + [5HP Combo]()/[2HP Combo]()
 - 8/9 + JMK + [5MP Combo]()
 - 9 + J2MK + [2LP Combo]()
@@ -353,7 +277,7 @@
 ### Corner 前投げ
 
 - 前投げ + (前ステ + [Corner 4HK Combo]())/[DR 6MP Combo]()
-- 前投げ + (DR + 5LP) + [5MP 強ね(バクステ)]()
+- 前投げ + (DR + 5LP) + [5F打摔擇 (バクステ)]()
 
 ## 対空
 
@@ -371,7 +295,7 @@
 
 - DR + 6MK + [Corner 4HK Combo]()
 - (DR + 5HP) + (5LK + DI)
-- (DR + 5HP) + (2HP + [5MP 強ね(バクステ)]())
+- (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())
 
 ## 近Mid 立ち回り
 
@@ -385,25 +309,17 @@
 
 - [DR2LK Combo]()
 
-## 強ね
-
-### 5MP 強ね(4F)
-
-### 5MP 強ね(後ろ歩き)
-
-- [5MP Combo]()/[Close2MP Combo]()
-- [投げ]()/[Shimmy(後ろ歩き)]()/瞬獄殺
-
-### 5MP 強ね(バクステ)
-
-- [5MP Combo]()/[Close2MP Combo]()
-- [投げ]()/[Shimmy(バクステ)]()/瞬獄殺
-
-### 5HP 強ね
-
-- 5HP + [2MP Combo]()
-
-### 6HP 強ね
+# [OKI](../../street-fighter-6.md#oki)
+- ### 5F打摔擇 (4F/5F)
+    - ### 5F打摔擇 (後ろ歩き)
+        - [5MP Combo]()/[Close2MP Combo]()
+        - [投げ]()/[Shimmy(後ろ歩き)]()/瞬獄殺
+    - ### 5F打摔擇 (バクステ)
+        - [5MP Combo]()/[Close2MP Combo]()
+        - [投げ]()/[Shimmy(バクステ)]()/瞬獄殺
+- ### 5HP 重ね
+    - 5HP + [2MP Combo]()
+- ### 6HP OKI
 
 - その場受け身/Corner ：6HP + [5MP Combo]()
 - Midscreen 後方受け身：[6HP Combo]()

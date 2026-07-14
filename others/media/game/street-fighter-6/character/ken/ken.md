@@ -30,16 +30,16 @@
 - 2HK + (跑步 + 5HK) + [打摔擇(バクステ)]()
 - [跑步旋風腳PC Combo]()
 
-### 5HPPC Combo
+### 5HP PC Combo
 
 - 5HP + [強迅雷起始 Combo]()
 - Close：5HP + [5MP Combo]()
 
-### 5HKPC Combo
+### 5HK PC Combo
 
 - 5HK + [Air 跑步 Combo]()/[Air DR5HP Combo]()
 
-#### Corner 5HKPC Combo
+#### Corner 5HK PC Combo
 
 - 5HK + [Air 中迅雷起始 Combo]()/[High-Air OD迅雷起始 Combo]()
 - 5HK + (弱迅雷delay弱派生 + [Air 弱迅雷弱派生 Combo]())

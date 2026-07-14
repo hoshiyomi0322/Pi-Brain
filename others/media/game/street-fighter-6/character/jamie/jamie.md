@@ -75,8 +75,9 @@
         - JMK + (前歩き + [投げ](#投げ))
 
 # Counter Combo
-- ### PC Combo
-    - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+
+# PC Combo
+- 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
 
 # DI Combo
 - ### DI PC Combo

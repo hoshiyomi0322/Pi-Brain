@@ -53,8 +53,8 @@
 - ### 5LP Combo
 
 # Counter Combo
-- ### Counter Combo
-- ### PC Combo
+
+# PC Combo
 
 # DI Combo
 - ### DI PC Combo
