@@ -47,7 +47,7 @@
 
 ### 強迅雷起始 Combo
 
-- 強迅雷 + [強派生 Combo]()/[Air OD龍尾腳 Combo]()/SA3
+- 強迅雷 + [強派生 Combo]()/[Air OD龍尾腳 Combo]()/OD旋風腳/SA3
 
 ### Corner 強迅雷起始 Combo
 
