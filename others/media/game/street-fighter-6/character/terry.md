@@ -39,7 +39,7 @@
     - DI(Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset (DI)
 - ### Stun Combo
 
-# [投げ](street-fighter-6.md#throw)
+# [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ

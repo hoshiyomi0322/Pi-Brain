@@ -230,9 +230,7 @@
     - shimmy：バクステ + [5HP Combo]()
 
 # Air DR Reset
-
 ### General Air DR Reset
-
 - (DR + 5HK) + (弱突刺 + 5LK + DI/蛇行コマ投げ/弱突刺)
 - Near-wall：(DR + 5HK) + (5LK/5MP/2MP + DI/蛇行コマ投げ/弱突刺)
 - (DR + 5MP/5MK/2MK) + (5MP/2MP + DI/蛇行コマ投げ/弱突刺)
@@ -240,7 +238,7 @@
 - Near-wall：(DR + 5HK) + (弱蛇弱功 + [Far 25F OKI]())
     - Corner：5HK + (弱蛇弱功 + [Far 25F OKI]())
 
-## 対空
+# 対空
 
 - 5HK/2HK
 - [強毒鞭 Combo]()
@@ -253,9 +251,9 @@
 - [5HK Combo]()
 - Far：[2HP Combo]()
 
-- todo
-    - https://www.youtube.com/shorts/bMSf3fhPrGY?feature=share
-    - https://youtu.be/1AtZbehf5v8
-    - https://youtu.be/_fKgcGagDDg
-    - https://www.youtube.com/watch?v=mUENlBPG0dU
-    - https://www.youtube.com/watch?v=Yrm86Ym667o&t=268s
+# todo
+- https://www.youtube.com/shorts/bMSf3fhPrGY?feature=share
+- https://youtu.be/1AtZbehf5v8
+- https://youtu.be/_fKgcGagDDg
+- https://www.youtube.com/watch?v=mUENlBPG0dU
+- https://www.youtube.com/watch?v=Yrm86Ym667o&t=268s
