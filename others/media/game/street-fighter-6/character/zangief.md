@@ -23,16 +23,20 @@
 - ### 俄式背摔 Combo
     - 弱俄式背摔/中俄式背摔/強俄式背摔 + [26F DR 6MK 重ね](#26f-dr-6mk-重ね)
     - OD俄式背摔 + [27F DR 6MK 重ね](#27f-dr-6mk-重ね)
+- ### 西伯利亞 Combo
+    - 西伯利亞/OD西伯利亞 + 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
+    - 西伯利亞/OD西伯利亞 + (DR + delay + 6MK + [3MP Combo](#3mp-combo))
+    - 西伯利亞/OD西伯利亞 + (DR + delay + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f))
 
 # SA2 Combo
 - (SA2 + 手) + 前ステ/(DR + 6MK) + 6MK + [8F打摔擇](#8f打摔擇-6f8f)
 - (SA2 + 手) + 前ステ + [3MP High-Air Combo](#3mp-high-air-combo)
 - ### 前旋風手 Reset
     - その場受け身/Corner：(SA2 + 手) + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
-    - 後方受け身：(SA2 + 手) + 前ステ + (3MP + 前旋風手) + 消費(6MK) + 西伯利亞
+    - 後方受け身：(SA2 + 手) + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
     - #### Midscreen 前旋風手 Reset
         - その場受け身/Corner：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
-        - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + 西伯利亞
+        - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
 - ### Midscreen SA2 Combo
     - (SA2 + 手) + (DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
 - ### Corner SA2 Combo
@@ -48,10 +52,10 @@
 - ### 6HP Combo
     - 6HP + [3MP Combo](#3mp-combo)
     - ガード(6HP) + [8F打摔擇](#8f打摔擇-6f8f)
-    - ガード(6HP) + (delay + 西伯利亞)
+    - ガード(6HP) + (delay + [西伯利亞 Combo](#西伯利亞-combo))
 - ### 2HP Combo
     - #### 2HP Reset
-        - その場受け身/Corner：2HP + 西伯利亞
+        - その場受け身/Corner：2HP + [西伯利亞 Combo](#西伯利亞-combo)
 - ### 6HK Combo
     - 6HK + [28F DR 6MK 重ね](#28f-dr-6mk-重ね-28f29f)
 
@@ -89,7 +93,7 @@
 ## Light Attack combo
 - ### 5LK Combo
     - #### Mid 5LK Combo
-        - 5LK/ガード(5LK) + 西伯利亞
+        - 5LK/ガード(5LK) + [西伯利亞 Combo](#西伯利亞-combo)
         - 5LK/ガード(5LK) + [CDR Combo](#cdr-combo)
         - 5LK/ガード(5LK) + (CDR + [Close 2LK Combo](#close-2lk-combo))
 - ### 2LK Combo
@@ -99,10 +103,10 @@
         - (2LK + 2LP) + [CDR Combo](#cdr-combo)
         - (2LK + 2LP) + [Mid 5LK Combo](#mid-5lk-combo)
     - #### Mid 2LK Combo
-        - (2LK + 2LP) + 西伯利亞
+        - (2LK + 2LP) + [西伯利亞 Combo](#西伯利亞-combo)
         - (2LK + 2LP) + [CDR Combo](#cdr-combo)
 - ### 2LP Air Reset
-    - Midscreen：2LP + delay(no cancel) + Reset(西伯利亞)
+    - Midscreen：2LP + delay(no cancel) + Reset([西伯利亞 Combo](#西伯利亞-combo))
     - Corner：2LP + delay + [10F打摔擇](#10f打摔擇)
 
 # Jump Attack Combo
@@ -165,25 +169,25 @@
     - [6HP Combo](#6hp-combo)
     - #### Midscreen 前旋風手 Reset
         - その場受け身/Corner：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [俄式背摔 Combo](#俄式背摔-combo)/[8F打摔擇](#8f打摔擇-6f8f)
-        - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + 西伯利亞
+        - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
 - ### DR 6MK 重ね (26F~29F)
     - #### 26F DR 6MK 重ね
         - DR + 6MK + [3MP Combo](#3mp-combo)
         - DR + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
-        - 前ステ + 西伯利亞
+        - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [5F打摔擇](#5f打摔擇-3f5f)
     - #### 27F DR 6MK 重ね
         - DR + 6MK + [3MP Combo](#3mp-combo)
         - DR + ガード(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
-        - 前ステ + 西伯利亞
+        - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [5F打摔擇](#5f打摔擇-3f5f)
     - #### 28F DR 6MK 重ね (28F/29F)
         - DR + 6MK + [3MP Combo](#3mp-combo)
         - DR + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
-        - 前ステ + 西伯利亞
+        - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [8F打摔擇](#8f打摔擇-6f8f)
 - ### 5F打摔擇 (3F~5F)
     - [投げ](#投げ)
@@ -194,7 +198,7 @@
 - ### 8F打摔擇 (6F~8F)
     - (delay + [コマ投げ Combo](#コマ投げ-combo)/SA3)
     - [俄式背摔 Combo](#俄式背摔-combo)/[5MP Combo](#5mp-combo)
-    - Mid：西伯利亞
+    - Mid：[西伯利亞 Combo](#西伯利亞-combo)
     - 防パナシ/対空
 - ### 10F打摔擇
     - delay + [コマ投げ Combo](#コマ投げ-combo)/[俄式背摔 Combo](#俄式背摔-combo)/SA3
@@ -203,7 +207,7 @@
 
 # 生ラッシュ Combo
 - DR + [5LK Combo](#5lk-combo)/[コマ投げ Combo](#コマ投げ-combo)
-- Close：DR + 西伯利亞
+- Close：DR + [西伯利亞 Combo](#西伯利亞-combo)
 
 # todo
 - https://youtu.be/yd2ELZS56rg
