@@ -88,6 +88,7 @@
         - 5LK/ガード(5LK) + (CDR + [Close 2LK Combo](#close-2lk-combo))
 - ### 2LK Combo
     - #### Close 2LK Combo
+        - 2LK/ガード(5LK) + [コマ投げ Combo](#コマ投げ-combo)
         - (2LK + 2LP) + [旋風手 Combo](#旋風手-combo)
         - (2LK + 2LP) + [CDR Combo](#cdr-combo)
         - (2LK + 2LP) + [Mid 5LK Combo](#mid-5lk-combo)
