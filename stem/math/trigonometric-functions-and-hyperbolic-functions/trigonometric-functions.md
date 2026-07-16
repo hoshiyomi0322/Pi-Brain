@@ -94,11 +94,11 @@
         - $`\cos{2θ} = 1-2\sin^2{θ}`$
         - $`\tan{2θ} = \frac{2\tan{θ}}{1-\tan^2{θ}}`$
 - ### Triple-Angle Formulas
-    - ### $`\sin{3θ} = 3\sin{θ}-4\sin^3{θ}`$
+    - #### $`\sin{3θ} = 3\sin{θ}-4\sin^3{θ}`$
         - Mnemonic：$`山富士山`$
-    - ### $`\cos{3θ} = -3\cos{θ}+4\cos^3{θ}`$
+    - #### $`\cos{3θ} = -3\cos{θ}+4\cos^3{θ}`$
         - Mnemonic：$`-\sin{3θ}`$
-    - ### $`\tan{3θ} = \frac{3\tan{θ}-\tan^3{θ}}{1-3\tan^2{θ}}`$
+    - #### $`\tan{3θ} = \frac{3\tan{θ}-\tan^3{θ}}{1-3\tan^2{θ}}`$
 
 # Half-Angle Formulas
 - ### Derived from [Double-Angle Formulas ($`\cos{2θ}`$)](#double-cos)
@@ -118,19 +118,19 @@
 - ### $`\tan{2θ} = \frac{2\tan{θ}}{1-\tan^2{θ}}`$
 
 # Laws of Triangles
-<div align="center"><img src="./image/laws-of-triangles.png" width="25%"></div>
+<div align="center"><img src="./image/laws-of-triangles.png" width="20%"></div>
 
 - ### Law of sines
-    - $`\frac{a}{\sin{α}}=\frac{b}{\sin{β}}=\frac{c}{\sin{γ}}=2R`$
+    - #### $`\frac{a}{\sin{α}}=\frac{b}{\sin{β}}=\frac{c}{\sin{γ}}=2R`$
     - $`R`$ = [Circumradius]()
 - ### Law of cosines
-    - $`a^2=b^2+c^2-2bc\cos{α}`$
+    - #### $`a^2=b^2+c^2-2bc\cos{α}`$
     - #### If $a$ is the longest side:
         - Acute triangle：$`a^2<b^2+c^2`$
         - Right triangle (Pythagorean Theorem)：$`a^2=b^2+c^2`$
         - Obtuse triangle：$`a^2>b^2+c^2`$
 - ### Law of tangents
-    - $`\frac{a-b}{a+b}=\frac{\tan{\left(\frac{α-β}{2}\right)}}{\tan{\left(\frac{α+β}{2}\right)}}`$
+    - #### $`\frac{a-b}{a+b}=\frac{\tan{\left(\frac{α-β}{2}\right)}}{\tan{\left(\frac{α+β}{2}\right)}}`$
 - ### Others
     - $`\sin{α}+\sin{β}+\sin{γ} = 4\cos{\frac{α}{2}}\cos{\frac{β}{2}}\cos{\frac{γ}{2}}`$
     - $`\cos{α}+\cos{β}+\cos{γ} = 4\sin{\frac{α}{2}}\sin{\frac{β}{2}}\sin{\frac{γ}{2}}+1`$
