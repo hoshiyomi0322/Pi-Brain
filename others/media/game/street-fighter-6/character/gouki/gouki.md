@@ -74,8 +74,7 @@
 - [5HP Combo]()
     - Close：[5HP Combo]() + [2MP Combo]()
 - 2HK PC Combo
-    - 2HK + (前ステ*2 + [5HP 重ね]())
-    - 2HK + (前ステ + 2MP + [5F打摔擇 (バクステ)]())
+    - 2HK + [Close 47F OKI](#close-47f-oki)
 
 ### Shimmy
 
@@ -122,14 +121,15 @@
 - DR + 5HP + [5MK Combo]()
 
 ## 6HP Combo
-
 - 6HP*2 + 5HK
+- 6HP + [2LP Combo]()
 
 ### Corner 6HP Combo
 
 - 6HP*2 + 中昇竜/[Corner 弱昇竜 Combo]()
-- Corner Air 6HP Comb
-    - 6HP*2 + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
+
+## Corner Air 6HP Combo
+- 6HP*2 + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 
 ### DR 6HP Combo
 
@@ -141,19 +141,20 @@
 
 - 5HK + [5MP Combo]()
 
-### Air 5HK Combo
+## Air 5HK Combo
 
 - 5HK + [中旋風 Combo]()/SA1/[SA2 Combo]()/SA3
-- Corner：5HK + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
+- Corner：5HK + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
 
-## 2HK Combo
-
-- 2HK + 安全飛び
-- Corner：2HK + (DR + 5MP) + [5F打摔擇 (バクステ)]()
+- ### 2HK Combo 
+    - 2HK
+- ### Air 2HK Combo 
+    - 2HK + [百鬼 OKI](#百鬼-oki-37f)
+    - Corner：2HK + 消費(2LP) + [6MP 重ね](#6mp-重ね-22f23f)
 
 ## [4HK Combo](gouki-4hk-combo.md)
 
-## Medium Attack Combo
+# Medium Attack Combo
 
 ### 5MP Combo
 
@@ -212,7 +213,7 @@
 - (DR + 6MP) + [2MP Combo]()/[5MK Combo]()
 - ガード：(DR + 6MP) + [2MP Combo]()
 
-## Light Attack combo
+# Light Attack combo
 
 ### 5LP Combo
 
@@ -253,7 +254,6 @@
 ## Jump Attack Combo
 
 ### Air JMP Combo
-
 - Midscreen Air JMP Combo
     - (9 + JMP + 空弾) + [Air DR Combo]()/SA1
     - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo]()/[HP Air Combo]())
@@ -261,56 +261,26 @@
 - Corner Air JMP Comb
     - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
     - (9 + JMP + Air SA1) + (delay + SA1/SA2)
-    - (9 + JMP + OD空弾) + [Corner 強旋風腳 Air Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
-    - (9 + JMP + OD Air 旋風腳) + [Corner 強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
+    - (9 + JMP + OD空弾) + [強旋風腳 Air Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
+    - (9 + JMP + OD Air 旋風腳) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 - 8/9 + JHP/JHK + [5HP Combo]()/[2HP Combo]()
 - 8/9 + JMK + [5MP Combo]()
 - 9 + J2MK + [2LP Combo]()
 
-## General Combo
 
-## 投げ
-
-### 前投げ
-
-- 前投げ + 弱弾/[百鬼襲 Combo]()
-
-### Corner 前投げ
-
-- 前投げ + (前ステ + [Corner 4HK Combo]())/[DR 6MP Combo]()
-- 前投げ + (DR + 5LP) + [5F打摔擇 (バクステ)]()
-
-## 対空
-
-- 昇竜
-- [Air JMP Combo]()
-
-## DR Combo
-
-### Air DR Combo
-
-- DR + [4HK Combo]()/[HP Air Combo]()
-- [DR中腳 Combo]()
-
-### Corner High-Air DR Combo
-
-- DR + 6MK + [Corner 4HK Combo]()
-- (DR + 5HP) + (5LK + DI)
-- (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())
-
-## 近Mid 立ち回り
-
-- 6MK/[2MP Combo]()/[2MK Combo]()/[6HP Combo]()
-
-## ラッシュ止め Combo
-
-- [2MP Combo]()/[2MK Combo]()
-
-## 裸DR Combo
-
-- [DR2LK Combo]()
+# 投げ
+- ### 前投げ
+    - 前投げ + [28F OKI](#28f-oki)
+    - #### Midscreen 前投げ
+        - 前投げ + 弱弾/[百鬼襲 Combo]()
+    - ### Corner 前投げ
+        - 前投げ + 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+- ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
+    - [2LP Combo](#2lp-combo)
 - ### 5F打摔擇 (4F/5F)
     - ### 5F打摔擇 (後ろ歩き)
         - [5MP Combo]()/[Close2MP Combo]()
@@ -318,17 +288,86 @@
     - ### 5F打摔擇 (バクステ)
         - [5MP Combo]()/[Close2MP Combo]()
         - [投げ]()/[Shimmy(バクステ)]()/瞬獄殺
-- ### 5HP 重ね
-    - 5HP + [2MP Combo]()
-- ### 6HP OKI
+- ### 5HP OKI (6F/7F)
+    - [5HP Combo]()
+- ### 5HP 重ね (12F)
+    - ### 9F 5HP 重ね
+        - 5HP + [2LP Combo]()
+        - [4HK Combo]()
+    - ### 12F 5HP 重ね
+        - 5HP + [2MP Combo]()
+        - [4HK Combo]()
+- ### 28F OKI
+    - [DR 6MP Combo]()
+    - Close：消費(2LK) + [12F 5HP 重ね](#12f-5hp-重ね)
+    - Corner：前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
+- ### 47F OKI
+    - #### Close 47F OKI
+        - 前ステ + [28F OKI](#28f-oki)
+        - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
+        - 消費(5MP) + Reset(DI)
+        - その場受け身/Corner
+            - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
+    - #### Far 47F OKI
+        - 前ステ + [28F OKI](#28f-oki)
+        - その場受け身/Corner
+            - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
+            - 消費(5MP) + Reset(DI)
+        - Corner
+            - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
+- ### 30F OKI
+    - [DR 6MP Combo]()/朧
+    - その場受け身/Corner
+        - 前ステ + [12F 5HP 重ね](#12f-5hp-重ね)
+    - Corner
+        - 消費(5MK) + [5F打摔擇 (後ろ歩き)]()
+        - (溜め弾1 + [Corner 溜め弾後 Combo]())
+- ### 百鬼 OKI (37F)
+    - 中百鬼強腳 + [2MP Combo]()
+    - その場受け身/Corner
+        - ガード(中百鬼強腳) + [3F打摔擇]()
+        - 消費(DR + 5MP) + [5F打摔擇 (バクステ)]()
+    - 後方受け身
+        - ガード(中百鬼強腳) + (delay + [3F打摔擇]())
+    - Corner
+        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね)
+        - 消費(2HP) + [3F打摔擇]()
+        - 消費(5LP) + DI
+    - DI(騙相手 DI) + 反DI
+- ### 6MP 重ね (22F/23F)
+    - 6MP + [2LP Combo]()
 
-- その場受け身/Corner ：6HP + [5MP Combo]()
-- Midscreen 後方受け身：[6HP Combo]()
-- todo
-    - https://youtu.be/qJeAVbZ5Brc
-    - https://youtu.be/WXBMlWVtChY
-    - https://www.youtube.com/watch?v=l9s5C3pz76A&t=179s
-    - https://www.youtube.com/watch?v=EoGuxAu0DMU&t=478s
-    - https://www.youtube.com/watch?v=EgyP9v7j50M
-    - https://www.youtube.com/watch?v=vrByHMhWR8s
-    - https://forum.gamer.com.tw/C.php?bsn=173&snA=17464
+# 対空
+- 昇竜
+- [Air JMP Combo]()
+
+# DR Combo
+- ### Air DR Combo
+    - DR + [4HK Combo]()/[HP Air Combo]()
+    - [DR中腳 Combo]()
+- ### Corner High-Air DR Combo
+    - DR + 6MK + [Corner 4HK Combo]()
+    - (DR + 5HP) + (5LK + DI)
+    - (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())
+
+# 近Mid 立ち回り
+
+- 6MK/[2MP Combo]()/[2MK Combo]()/[6HP Combo]()
+
+# ラッシュ止め Combo
+
+- [2MP Combo]()/[2MK Combo]()
+
+# 裸DR Combo
+- [DR2LK Combo]()
+
+# todo
+- https://youtu.be/qJeAVbZ5Brc
+- https://youtu.be/WXBMlWVtChY
+- https://www.youtube.com/watch?v=l9s5C3pz76A&t=179s
+- https://www.youtube.com/watch?v=EoGuxAu0DMU&t=478s
+- https://www.youtube.com/watch?v=EgyP9v7j50M
+- https://www.youtube.com/watch?v=vrByHMhWR8s
+- https://forum.gamer.com.tw/C.php?bsn=173&snA=17464
