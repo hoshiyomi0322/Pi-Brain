@@ -27,7 +27,7 @@
 - ### Open System Interconnection model (OSI model)
     <img src="./image/osi-model.png" width="50%">
 
-    - hint：A Pretty Sexy Teacher Never Dates Physicists (APSTNDP)
+    - Mnemonic：A Pretty Sexy Teacher Never Dates Physicists (APSTNDP)
 - ### TCP/IP Protocol Suite (Internet Protocol Suite, DoD model)
     <img src="./image/tcp-ip.png" width="50%">
 - ### Wireless Application Protocol Stack (WAP Stack)

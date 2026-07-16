@@ -1,5 +1,5 @@
 # Derivatives of [Trigonometric Functions](/stem/math/trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md)
-|Derivatives with Positive Sign|Derivatives with Negative Sign|
+|Derivatives with Positive Sign|Derivatives with Negative Sign ([Cofunction](../../../trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#complementary-function-cofunction))|
 |:---:|:---:|
 |$`\left(\sin{x}\right)^\prime=\cos{x}`$|$`\left(\cos{x}\right)^\prime=-\sin{x}`$|
 |$`\left(\tan{x}\right)^\prime=\frac{1}{\cos^2{x}}=\sec^2{x}`$|$`\left(\cot{x}\right)^\prime=-\frac{1}{\sin^2{x}}=-\csc^2{x}`$|

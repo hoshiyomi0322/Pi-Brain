@@ -1,4 +1,6 @@
 # Trigonometric Functions
+<div align="center"><img src="./image/trigonometric-functions.png" width="30%"></div>
+
 - ### Complementary Function (Cofunction)
     |Functions|Cofunction|
     |:--:|:---:|
@@ -13,6 +15,7 @@
     |$`\cos{θ} = \frac{\text{adjacent}}{\text{hypotenuse}}`$|$`\sec{θ} = \frac{1}{\cos{θ}} = \frac{\text{hypotenuse}}{\text{adjacent}}`$|
     |$`\tan{θ} = \frac{\text{opposite}}{\text{adjacent}}`$|$`\cot{θ} = \frac{1}{\tan{θ}} = \frac{\text{adjacent}}{\text{opposite}}`$|
     - [Reciprocal Identities](#reciprocal-identities)
+- ### Mnemonic：SOH CAH TOA
 
 # Value of Trigonometric Functions
 |Degrees|Radians|$`\sin{\theta}`$|$`\cos{\theta}`$|$`\tan{\theta}`$|$`\csc{\theta}`$|$`\sec{\theta}`$|$`\cot{\theta}`$|
@@ -92,9 +95,9 @@
         - $`\tan{2θ} = \frac{2\tan{θ}}{1-\tan^2{θ}}`$
 - ### Triple-Angle Formulas
     - ### $`\sin{3θ} = 3\sin{θ}-4\sin^3{θ}`$
-        - hint：$`山富士山`$
+        - Mnemonic：$`山富士山`$
     - ### $`\cos{3θ} = -3\cos{θ}+4\cos^3{θ}`$
-        - hint：$`-\sin{3θ}`$
+        - Mnemonic：$`-\sin{3θ}`$
     - ### $`\tan{3θ} = \frac{3\tan{θ}-\tan^3{θ}}{1-3\tan^2{θ}}`$
 
 # Half-Angle Formulas
