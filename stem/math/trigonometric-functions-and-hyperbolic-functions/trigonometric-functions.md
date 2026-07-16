@@ -122,7 +122,7 @@
 
 - ### Law of sines
     - #### $`\frac{a}{\sin{α}}=\frac{b}{\sin{β}}=\frac{c}{\sin{γ}}=2R`$
-    - $`R`$ = [Circumradius]()
+    - $`R`$ = [Circumradius](../geometry/trigonometry/triangle-center.md#circumradius-radius-of-circumcircle)
 - ### Law of cosines
     - #### $`a^2=b^2+c^2-2bc\cos{α}`$
     - #### If $a$ is the longest side:
