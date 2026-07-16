@@ -91,6 +91,7 @@
 ### Midscreen 強灼火 Combo
 
 - 強灼火派生 + [百鬼襲 Combo(強)]()
+- 強灼火派生 + 強溜め弾1 + [溜め弾後 Combo]()
 
 ### Corner 強灼火 Combo
 
@@ -148,11 +149,11 @@
 
 - 百鬼腳 + [2LP Combo]()/[投げ]()
 
-### 溜め弾後 Combo
+# 溜め弾後 Combo
+- Mid Near-wall：SA1
+- ### Corner 溜め弾後 Combo
+    - [Corner 強旋風腳 Air Combo]()/SA1/SA2/[弱昇竜 Combo]()
 
+# OD溜め弾 Combo
 - OD溜め弾 + SA1
-
-### Corner 溜め弾後 Combo
-
-- [Corner 強旋風腳 Air Combo]()/SA1/SA2/[弱昇竜 Combo]()
 

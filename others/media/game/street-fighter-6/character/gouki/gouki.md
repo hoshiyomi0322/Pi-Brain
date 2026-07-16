@@ -219,7 +219,7 @@
 - (5LP/2LP)*2 + [Light Attack Cancel Combo]()
 - (5LP/2LP) + [投げ]()
 
-### DR5LP Combo
+### DR 5LP Combo
 
 - DR + (5LP/2LP) + [2HP Combo]()
 - ガードDR5LP
@@ -245,6 +245,7 @@
 - ### Light Attack Cancel Combo
     - [旋風腳 Combo]()
     - 弱灼火 + 瞬獄殺
+    - CDR + [DR 5LP Combo](#dr-5lp-combo)
 - ### CDR Combo
     - CDR + [DR2MP Combo]()
     - CDR + [DR6HP Combo]()
