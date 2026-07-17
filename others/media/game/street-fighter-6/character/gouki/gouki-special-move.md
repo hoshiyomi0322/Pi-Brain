@@ -6,7 +6,6 @@
 - Corner 弱昇竜 Comb
     - 弱昇竜 + SA3
     - 弱昇竜 + [百鬼 OKI](gouki.md#百鬼-oki-37f)
-    - Corner：弱昇竜 + 消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
 
 ### 強昇竜 Combo
 
