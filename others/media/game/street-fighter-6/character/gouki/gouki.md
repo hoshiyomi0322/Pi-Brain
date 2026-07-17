@@ -51,55 +51,7 @@
 - [WWQ] SA2 Combo
     - SA2 + [Corner Air 2HP Combo]()
 
-## PC/DI
-
-## PC Combo
-
-- 強灼火 + [2HP Combo]()/[4HK Combo]()
-- 5HK + [2HP Combo]()
-
-#### Light Attack PC Combo
-
-- ガード後可以Light Attack PC：[4F PC]
-- 5LP/2LP + [5MP Combo]()/[2MP Combo]()
-
-#### Medium Attack PC Combo
-
-- ガード後可以Medium Attack PC：[6F PC]、[8F PC]
-- 2MP + [2HP Combo]()/[4HK Combo]()
-
-#### Heavy Attack PC Combo
-
-- ガード後可以Heavy Attack PC：[10F PC]
-- [5HP Combo]()
-    - Close：[5HP Combo]() + [2MP Combo]()
-- 2HK PC Combo
-    - 2HK + [Close 47F OKI](#close-47f-oki)
-
-### Shimmy
-
-### Shimmy(バクステ)
-
-- バクステ + [5HP Combo]()
-
-### Shimmy(後ろ歩き)
-
-- 後ろ歩き + [5HP Combo]()
-
-## DI Combo
-
-### DI PC Combo
-
-- DI + (8 + JHP) + [Air DR Combo]()
-- DI + 前ステ + [4HK Combo]()/[HP Air Combo]()
-
-## Wall Splat Combo
-
-- DI(Wall spalt) + [Corner Air 6HP Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo]()
-- DI(Wall spalt) + (5MP*2 + [Corner Air OD灼火 Combo]())
-- DI(Wall spalt) + [Corner High-Air DR Combo]()
-
-## Heavy Attack Combo
+# Heavy Attack Combo
 
 ## 5HP Combo
 
@@ -238,6 +190,36 @@
 
 - (DR + 5LP/2LP/5LK/2LK) + [5MP Combo]()/[2MP Combo]()
 
+# Counter Combo
+
+# PC Combo
+- 強灼火(PC) + [2HP Combo]()/[4HK Combo]()
+- 5HK(PC) + [2HP Combo]()
+- ### Light Attack PC Combo
+    - ガード後可以Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
+    - 5LP/2LP(PC) + [5MP Combo]()/[2MP Combo]()
+- ### Medium Attack PC Combo
+    - ガード後可以Medium Attack PC：[6F PC](../../street-fighter-6.md#6f-pc)、[8F PC](../../street-fighter-6.md#8f-pc)
+    - 2MP(PC) + [2HP Combo]()/[4HK Combo]()
+- ### Heavy Attack PC Combo
+    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - 5HP PC Combo
+        - [5HP Combo]()
+        - Close：[5HP Combo]()(PC) + [2MP Combo]()
+    - 2HK PC Combo
+        - 2HK(PC) + [Close 47F OKI](#close-47f-oki)
+
+# DI Combo
+- ### DI PC Combo
+    - DI(PC) + (8 + JHP) + [Air DR Combo]()
+    - DI(PC) + 前ステ + [4HK Combo]()/[HP Air Combo]()
+- ### Wall Splat Combo
+    - DI(Wall spalt) + [Corner Air 6HP Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo]()
+    - DI(Wall spalt) + (5MP*2 + [Corner Air OD灼火 Combo]())
+    - DI(Wall spalt) + [Corner High-Air DR Combo]()
+- ### Stun Combo
+
+
 # Cancel Combo
 - ### Medium Attack Cancel Combo
     - [CDR Combo]()
@@ -288,6 +270,11 @@
     - ### 5F打摔擇 (バクステ)
         - [5MP Combo]()/[Close2MP Combo]()
         - [投げ]()/[Shimmy(バクステ)]()/瞬獄殺
+- ### Shimmy
+    - #### Shimmy(バクステ)
+        - バクステ + [5HP Combo]()
+    - #### Shimmy(後ろ歩き)
+        - 後ろ歩き + [5HP Combo]()
 - ### 5HP OKI (6F/7F)
     - [5HP Combo]()
 - ### 5HP 重ね (12F)

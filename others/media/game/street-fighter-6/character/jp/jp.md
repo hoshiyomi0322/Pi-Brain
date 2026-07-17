@@ -208,46 +208,43 @@
 - ### [Shimmy](shimmy.md)
 
 # 対空
-- 対空(Close)：[空投げ]()
-- 対空(Mid/Mid-far)
-    - 対空(Mid)：[Air 2HP Combo]()
-    - 対空(Mid-far)：[6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)
-- 対空(Close/Far)：[Air JMK Combo]()
-- 対空(Far)：[地刺]()
-- JP裂縫傳送：Jump Attack(Cross-up)/[空投げ]()
-    - Jump Attack(Cross-up)：[JLK Combo]()
-- Air Special(百弾襲、惡魔倒轉、旋風腳、Dhalsim漂浮、Honda百貫落、aki214K…)
-    - (8/9 + JLK/JMK/JHK/JMP) + (delay + [Air 6HK Combo]())
-    - 2HP + [強風神 Combo]()
+- 対空 (Close)：[空投げ](#空投げ)
+- 対空 (Mid/Mid-far)
+    - 対空 (Mid)：[2HP Air Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-air-combo)
+    - 対空 (Mid-far)：[6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)
+- 対空 (Close/Far)：[JMK Air Combo](#jmk-air-combo)
+- 対空 (Far)：[地刺 Combo](./jp-special-move/jp-special-move.md#地刺-combo)
+- JP裂縫傳送
+    - Jump Attack(Cross-up)：[JLK Combo](#jlk-combo)
+    - [空投げ](#空投げ)
+- Air Special Move (百弾襲、惡魔倒轉、旋風腳、Dhalsim漂浮、Honda百貫落、aki214K…)
+    - (8/9 + JLK/JMK/JHK/JMP) + (delay + [6HK Air Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+    - 5LP/2HP + [強風神 Combo](./jp-special-move/jp-stribog.md#強風神-combo)
     - [空投げ](#空投げ)
 
 # Mid-close 立ち回り
-- [5HP Combo]()/5MP/[JMP Combo]()
+- [5HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#5hp-combo)/5MP/[JMP Combo](#jmp-combo)
 - ### 下段
-    - [3HP Combo]()/[2MK Combo]()
+    - [3HP Combo](#3hp-combo)/2MK
 
 # ラッシュ止め Combo
-- [2MP Combo]()/[5MK Combo](#5mk-combo)
+- [2MP Combo](#2mp-combo)/[5MK Combo](#5mk-combo)
 
 # 生ラッシュ Combo
 - [DR 中下擇 Combo](#dr-中下擇-combo)
-- DR + [DR5HK Combo]()
+- DR + [DR 5HK Combo](#dr-5hk-combo)
 - DR + [2LP Combo](#5lp2lp-combo)
 - DR + [投げ](#投げ)
 
-# Corner DI(相手 BO)
-- 5HP/(5HK + 5HP)/6HK + DI
-- (5HK + 5HP) + DI
-
 # 被壓BTW 
-- 倒地：Dリバ/5LP
+- ダウン：Dリバ/5LP
 - 相手 攻撃：OD当身/Parry
 - 相手 投げ：OD当身
-- 相手 跳：対空([空投げ]()/2HP)
-- 相手 後ろ歩き：[5HP Combo]()/[強TC Combo]()/[2MP Combo]()/[下段]()
+- 相手 跳：対空([空投げ](#空投げ)/2HP)
+- 相手 後ろ歩き：[5HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#5hp-combo)/[強TC Combo](#強tc-combo)/[2MP Combo](#2mp-combo)/[下段](#下段)
 
 # 角色對策
-- Mai(OD扇)：ガード第一下後，[強TC Combo]()
+- Mai(OD扇)：ガード第一下後，[強TC Combo](#強tc-combo)
 
 # todo
 - [JP百科全書](https://docs.google.com/document/d/1-ZtsLNWrExfmlJKumUKdexeAKzgoe4Z7Vs5J6onc_OI/edit?tab=t.dqtykfbhjgwn)
