@@ -1,7 +1,8 @@
 # Circumcenter
 - ### Circumcircle (Circumscribed Circle)
 - ### Circumradius (Radius of Circumcircle)
-    - $`R`$
+    - $`R=\frac{abc}{4Δ}`$
+    - [Law of sines](../../trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md#law-of-sines)
 
 # Incenter
 - ### Inscribed Circle
