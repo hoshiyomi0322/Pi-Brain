@@ -41,7 +41,8 @@
     - 禊(SA2)：214214K
     - 金剛國裂斬(SA2)：22PPP
 
-# 必殺技, 特殊技 Combo
+# 必殺技 Combo
+- ### [必殺技 Combo](gouki-special-move.md)
 
 ## SA2 Combo
 
@@ -295,6 +296,7 @@
         - 消費(5MP) + Reset(DI)
         - その場受け身/Corner
             - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
             - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
     - #### Far 47F OKI
         - 前ステ + [28F OKI](#28f-oki)
@@ -303,6 +305,7 @@
             - 消費(5MP) + Reset(DI)
         - Corner
             - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
             - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 30F OKI
     - [DR 6MP Combo]()/朧
