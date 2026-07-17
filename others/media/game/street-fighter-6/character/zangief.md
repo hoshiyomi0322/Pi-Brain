@@ -83,7 +83,7 @@
     - 3MP + (delay + 9 + OD Air-コマ投げ)
     - 3MP + (9 + [8F打摔擇](#8f打摔擇-6f8f))
 - ### 6MK Combo
-    - 6MK + [8F打摔擇](#8f打摔擇-6f8f)
+    - 6MK + [5F打摔擇](#5f打摔擇-3f5f)
 - #### DR 6MK Air Combo
     - (DR + 6MK) + [3MP Air Combo](#3mp-air-combo)
     - (DR + 6MK) + [2LP Air Reset](#2lp-air-reset)
@@ -172,19 +172,19 @@
         - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
 - ### DR 6MK 重ね (26F~29F)
     - #### 26F DR 6MK 重ね
-        - DR + 6MK + [3MP Combo](#3mp-combo)
+        - (DR + 6MK) + [3MP Combo](#3mp-combo)/[8F打摔擇](#8f打摔擇-6f8f)
         - DR + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
         - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [5F打摔擇](#5f打摔擇-3f5f)
     - #### 27F DR 6MK 重ね
-        - DR + 6MK + [3MP Combo](#3mp-combo)
+        - (DR + 6MK) + [3MP Combo](#3mp-combo)/[8F打摔擇](#8f打摔擇-6f8f)
         - DR + ガード(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
         - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [5F打摔擇](#5f打摔擇-3f5f)
     - #### 28F DR 6MK 重ね (28F/29F)
-        - DR + 6MK + [3MP Combo](#3mp-combo)
+        - (DR + 6MK) + [3MP Combo](#3mp-combo)/[8F打摔擇](#8f打摔擇-6f8f)
         - DR + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
         - [生ラッシュ Combo](#生ラッシュ-combo)
         - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
