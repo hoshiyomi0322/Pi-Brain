@@ -42,5 +42,5 @@
 - ### Data Management
 
 # History of Computing
-- ### History of Computing Hardware
-- ### History of Computing Software
+- ### [History of Computing Hardware](./history-of-computing/history-of-computing-hardware.md)
+- ### [History of Computing Software](./history-of-computing/history-of-computing-software.md)
