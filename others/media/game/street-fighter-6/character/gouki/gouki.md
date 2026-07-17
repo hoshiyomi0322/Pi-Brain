@@ -173,7 +173,7 @@
 ### 2MP Combo
 
 - 2MP + [Medium Attack Cancel Combo]()
-
+- 相打ち：2MP(相打ち) + [5HP Combo]()
 ### Close2MP Combo
 
 - 2MP*2 + [Medium Attack Cancel Combo]()
