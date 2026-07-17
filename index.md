@@ -12,8 +12,8 @@
     - #### [Algebra](stem/math/algebra/algebra.md)
     - #### [Discrete Mathematics](stem/math/discrete-mathematics/discrete-mathematics.md)
     - #### [Probability Theory and Statistics](stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
-    - #### Trigonometric Functions and Hyperbolic Functions
-    - #### Geometry
+    - #### [Trigonometric and Hyperbolic Functions](stem/math/trigonometric-and-hyperbolic-functions/trigonometric-and-hyperbolic-functions.md)
+    - #### [Geometry](stem/math/geometry/geometry.md)
     - #### [Series](stem/math/series.md)
     - #### [Numbers and Notation](stem/math/numbers-and-notation.md)
     - #### [Operations Research](stem/math/operations-research/operations-research.md)

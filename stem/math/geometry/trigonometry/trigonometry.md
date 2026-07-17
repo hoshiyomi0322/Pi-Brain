@@ -7,4 +7,4 @@
 - ### [Orthocenter](triangle-center.md#orthocenter)
 - ### [Excenter](triangle-center.md#excenter)
 
-# [Trigonometric Functions](../../trigonometric-functions-and-hyperbolic-functions/trigonometric-functions.md)
+# [Trigonometric Functions](../../trigonometric-and-hyperbolic-functions/trigonometric-functions.md)

@@ -44,4 +44,4 @@
     - ### [Trigonometric Substitution](./integration-techniques/trigonometric-substitution.md)
 - ### [Integration by Parts](./integration-techniques/integration-by-parts.md)
 - ### [Partial Fraction Decomposition](./integration-techniques/partial-fraction-decomposition.md)
-- ### [Reduction Formula](../calculus-trigonometric-functions-and-hyperbolic-functions/reduction-formula.md)
+- ### [Reduction Formula](../calculus-of-trigonometric-and-hyperbolic-functions/reduction-formula.md)
