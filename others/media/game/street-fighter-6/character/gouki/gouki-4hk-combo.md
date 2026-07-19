@@ -20,7 +20,7 @@
 - QQH 4HKOD溜め弾DR Combo
     - (4HK + OD溜め弾) + (DR + [High-Air Corner 4HK Combo]())
     - (4HK + OD溜め弾) + (DR + 4HK/(delay + 2HP)) + (CDR + [High-Air Corner 4HK Combo]())
-    - (4HK + OD溜め弾) + (DR + 4HK) + (CDR + 4HK) + (強溜め弾2 + [5F打摔擇 (後ろ歩き)]())
+    - (4HK + OD溜め弾) + (DR + 4HK) + (CDR + 4HK) + 消費(強溜め弾2) + [5F打摔擇 (後ろ歩き)]()
 
 #### Corner 4HKOD溜め弾 Combo
 
@@ -37,9 +37,9 @@
 ### C-Switch 4HK Combo
 
 - 4HK + CDR + [強旋風腳 Air Combo]()/[Corner 弱昇竜 Combo]()
-- 4HK + 強灼火 + (DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
-- 4HK + 中百鬼下段 + [5F打摔擇 (バクステ)]()
-- 4HK + 強百鬼Cancel + (DR + 5LP) + [5F打摔擇 (バクステ)]()
+- 4HK + 消費(中百鬼下段) + [5F打摔擇 (バクステ)]()
+- 4HK + 消費(強灼火) + [32F OKI](gouki.md#32f-oki)
+- 4HK + 消費(強百鬼Cancel) + [Close 28F OKI](gouki.md#close-28f-oki)
 
 ### Corner 4HK Combo
 
@@ -55,9 +55,9 @@
     - (4HK + OD百鬼空弾) + (DR + 5MP) + (CDR + [Corner 4HK Combo]())
     - (4HK + OD百鬼空弾) + (OD弾 + SA1/SA2)
     - (4HK + OD百鬼空弾) + (delay + SA1)/SA2
-    - (4HK + OD百鬼空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
-- (4HK + 強灼火派生) + (弱昇竜 + OD昇竜/SA1/SA2/SA3)
-- 4HK + 百鬼下段 + [5F打摔擇 (バクステ)]()
+    - (4HK + OD百鬼空弾) + 消費(DR + 5HK) + [5F打摔擇 (バクステ)]()
+- (4HK + 強灼火派生) + 消費(弱昇竜) + OD昇竜/SA1/SA2/SA3
+- (4HK + 強灼火派生) + 消費(弱旋風腳) + [5F打摔擇 (バクステ)]()
 
 #### High-Air Corner 4HK Combo
 

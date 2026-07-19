@@ -1,4 +1,4 @@
-## 昇竜 Combo
+# 昇竜 Combo
 
 ### 弱昇竜 Combo
 
@@ -13,7 +13,7 @@
 - Corner 強昇竜 Combo
     - 強昇竜 + [30F OKI](gouki.md#30f-oki)
 
-## 旋風腳 Combo
+# 旋風腳 Combo
 
 ### 弱旋風腳 Combo
 
@@ -36,11 +36,11 @@
 - 中旋風腳 + [Corner 弱昇竜 Combo]()
 - 中旋風腳 + (OD弾 + [5F打摔擇 (後ろ歩き)]())
 
-#### Close High-Air 旋風腳 Combo
+#### Close 旋風腳 High-Air Combo
 
 - 中旋風腳 + [強昇竜 Combo]()/SA3
 
-#### High-Air Near-wall 中旋風腳 Combo
+#### Near-wall 中旋風腳 High-Air Combo
 
 - 中旋風腳 + [強旋風腳 Air Combo]()/[Corner 弱昇竜 Combo]()
 
@@ -58,7 +58,7 @@
 
 #### Corner OD旋風腳 Combo
 
-#### Corner High-Air OD旋風腳 Combo
+#### Corner OD旋風腳 High-Air Combo
 
 - OD旋風腳 + [強旋風腳 Air Combo]()/[Corner 弱昇竜 Combo]()
 
@@ -67,7 +67,7 @@
 - [Air Corner 中旋風腳 Combo]()
 - [Corner High-Air OD旋風腳 Combo]()
 
-## 灼火 Combo
+# 灼火 Combo
 
 - 灼火 + 瞬獄殺
 - 前面 Combo≤2段：灼火 + SA3
@@ -130,18 +130,20 @@
 - (OD灼火派生 + 2HP) + (弱弾 + [強旋風腳 Air Combo]()/SA1)
 - (OD灼火派生 + 2HP) + (弱弾 + 弱弾 + [5F打摔擇 (後ろ歩き)]())
 - (OD灼火派生 + 5MP*2) + (弱溜め弾2 + [Corner 溜め弾後 Combo]())
-    - (OD灼火派生 + 5MP*2) + (弱溜め弾2 + DI/[Corner 4HK Combo]())
-    - (OD灼火派生 + 5MP*2) + (OD溜め弾 + [5F打摔擇 (後ろ歩き)]())
+    - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + DI/[Corner 4HK Combo]()
+- (OD灼火派生 + 5MP*2) + 消費(OD溜め弾) + [5F打摔擇 (後ろ歩き)]()
 - OD灼火派生 + [Corner 4HK Combo]()
 
-## 百鬼襲 Combo
+# 百鬼襲 Combo
 
 - 百鬼腳 + [2LP Combo]()/[投げ]()
 
 # 溜め弾後 Combo
+DR + [4HK Combo]()
 - Mid Near-wall：SA1
 - ### Corner 溜め弾後 Combo
     - [強旋風腳 Air Combo]()/SA1/SA2/[弱昇竜 Combo]()
+
 
 # OD溜め弾 Combo
 - OD溜め弾 + SA1

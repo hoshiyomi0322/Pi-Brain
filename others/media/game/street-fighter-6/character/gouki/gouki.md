@@ -205,11 +205,9 @@
 
 # 投げ
 - ### 前投げ
-    - 前投げ + [28F OKI](#28f-oki)
+    - 前投げ + [Far 28F OKI](#far-28f-oki)
     - #### Midscreen 前投げ
-        - 前投げ + 弱弾/[百鬼襲 Combo]()
-    - ### Corner 前投げ
-        - 前投げ + 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+        - 前投げ + [百鬼襲 Combo]()
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
@@ -238,20 +236,29 @@
         - 5HP + [2MP Combo]()
         - [4HK Combo]()
 - ### 28F OKI
-    - [DR 6MP Combo]()
-    - Close：消費(2LK) + [12F 5HP 重ね](#12f-5hp-重ね)
-    - Corner：前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
+    - #### Close 28F OKI
+        - [DR 6MP Combo]()/弱弾
+        - 前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
+        - 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+        - その場受け身/Corner
+            - 消費(2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(2LK) + [12F 5HP 重ね](#12f-5hp-重ね)
+    - #### Far 28F OKI
+        - [DR 6MP Combo]()/弱弾
+        - Corner
+            - 前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
+            - 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
 - ### 47F OKI
     - #### Close 47F OKI
-        - 前ステ + [28F OKI](#28f-oki)
+        - 前ステ + [Close 28F OKI](#close-28f-oki)
         - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
         - 消費(5MP) + Reset(DI)
         - その場受け身/Corner
-            - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
+            - 消費(5HK) + [5F打摔擇 (バクステ)]()
             - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
             - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
     - #### Far 47F OKI
-        - 前ステ + [28F OKI](#28f-oki)
+        - 前ステ + [Close 28F OKI](#close-28f-oki)
         - その場受け身/Corner
             - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
             - 消費(5MP) + Reset(DI)
@@ -266,6 +273,9 @@
     - Corner
         - 消費(5MK) + [5F打摔擇 (後ろ歩き)]()
         - (溜め弾1 + [Corner 溜め弾後 Combo]())
+- ### 32F OKI
+    - [DR 6MP Combo]()
+    - 消費(DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
 - ### 百鬼 OKI
     - 強百鬼強腳 + [2MP Combo]()
     - ガード(強百鬼強腳) + [3F打摔擇]()
