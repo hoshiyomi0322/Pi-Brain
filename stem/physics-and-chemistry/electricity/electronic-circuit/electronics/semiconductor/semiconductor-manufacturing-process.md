@@ -43,7 +43,7 @@
 - ### Interconnect
     - #### VIA
 
-- # IC Packaging：Die → Integrated Circuits
+# IC Packaging：Die → Integrated Circuits
 - ### Bonding
     - ### Die Bonding
     - ### Wire Bonding

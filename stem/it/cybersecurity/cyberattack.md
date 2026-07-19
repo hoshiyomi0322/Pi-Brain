@@ -16,6 +16,10 @@
 - ### Denial-of-Service (DoS)
     - #### Distributed Denial-of-Service (DDoS)
 - ### Server-Side Request Forgery (SSRF)
+- ### Side-Channel Attack
+    - #### Cache Attack
+    - #### Timing Attack
+    - #### [DMA](../computer-science/computer-organization-and-architecture/computer-organization-and-architecture.md#direct-memory-access-dma) Attack
 - ### Remote Code Execution (RCE)
 - ### Injection Attack
     - #### Command Injection

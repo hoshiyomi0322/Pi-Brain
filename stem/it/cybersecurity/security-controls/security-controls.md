@@ -18,14 +18,15 @@
     - ### Attribute-Based Access Control(ABAC)
     - ### Role-Based Access Control(RBAC)
 - ### Access Control Policy
-    <img src="access-control-policy.png" width="14%">
+    <img src="./image/access-control-policy.png" width="20%">
 - ### Access Control List(ACL)
-    <img src="acl.png" width="18%">
+    <img src="./image/acl.png" width="25%">
 - ### [Authentication, Authorization, Accounting(AAA)](#authentication-authorization-accountingaaa-1)
     - ### Authentication：identity
     - ### Authorization：permission
     - ### Accounting：logging
 - ### Firewall
+- ### Whitelist
 
 # Authentication, Authorization, Accounting(AAA)
 - ### Session-based Authentication

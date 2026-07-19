@@ -14,34 +14,41 @@
 - ### Disk storage
     - #### SSD, HDD, CD, …
 
+# Memory Access Methods
+- ### Random Access
+    - #### Random Access Memory (RAM)
+        - [Volatile RAM](#volatile-ram)
+        - [Non-Volatile RAM (NVRAM)](#non-volatile-ram-nvram)
+- ### Sequential Access
+    - #### Sequential Access Memory (SAM)
+
 # Register
-- ### Program Counter(PC)：holds the address of the next instruction that would be executed
-- ### Instruction Register(IR)：holds the instruction that is being executed
-- ### Data Register(DR)
+- ### Program Counter (PC)：holds the address of the next instruction that would be executed
+- ### Instruction Register (IR)：holds the instruction that is being executed
+- ### Data Register (DR)
 - ### Accumulator：holds the data and results of operations
 
 # Volatile Memory
-- ### Random Access Memory(RAM)
-    - #### Dynamic RAM(DRAM)
+- ### Volatile RAM
+    - #### Dynamic RAM (DRAM)
  
-        - Synchronous DRAM(SDRAM)
-    - #### Static RAM(SRAM)
+        - Synchronous DRAM (SDRAM)
+    - #### Static RAM (SRAM)
  
 
-# Non-Volatile Memory(NVM)
-- ### Random Access Memory(RAM)
-    - #### Non-Volatile RAM(NVRAM)
-    - #### Resistive RAM(RRAM)
-- ### Read Only Memory(ROM)
-    - #### Programmable ROM(PROM)
-        - Erasable PROM(EPROM)
-        - Electrically-Erasable PROM(EEPROM)
+# Non-Volatile Memory (NVM)
+- ### Non-Volatile RAM (NVRAM)
+    - #### Resistive RAM (RRAM)
+- ### Read Only Memory (ROM)
+    - #### Programmable ROM (PROM)
+        - Erasable PROM (EPROM)
+        - Electrically-Erasable PROM (EEPROM)
     - #### Flash Memory
  
         - USB flash drive
  
 - ### Magnetic storage
-    - #### Hard Disk Drive(HDD)
+    - #### Hard Disk Drive (HDD)
         - ATA HDD
         - SATA HDD
  
@@ -52,15 +59,15 @@
  
     - #### Magnetic Tape
  
-- ### Solid-State Drive(SSD)
+- ### Solid-State Drive (SSD)
  
 - ### Optical Disc
-    - #### Compact Disc(CD)
+    - #### Compact Disc (CD)
  
         - CD-ROM
-    - #### Digital Versatile Disc(DVD)
+    - #### Digital Versatile Disc (DVD)
  
-    - #### Blu-ray Disc(BD)
+    - #### Blu-ray Disc (BD)
  
 - ### 3D XPoint
 
