@@ -36,7 +36,7 @@
 
 - OD足刀 + delay + [6HK Combo]()
 - OD足刀 + delay + SA1
-- OD足刀 + SA2(蓄力)
+- OD足刀 + SA2(蓄力) + 消費(強旋風腳) + [3F打摔擇]()
 - OD足刀 + delay + (強昇竜 + SA3)
 
 ## 旋風腳 Combo
@@ -53,13 +53,7 @@
 
 - OD Air 旋風腳 + SA1/(強昇竜 + SA3)
 
-## DI Combo
-
-## Wall Splat Combo
-
-- DI + (DR + 5HP + 5HK) + (5LK + DI)
-
-## Heavy Attack Combo
+# Heavy Attack Combo
 
 ## 5HP Combo
 
@@ -82,7 +76,7 @@
 - 4HK(2段) + [足刀 Combo]()/[旋風腳 Combo]()/[CDR Combo]()
 - 4HK(2段) + SA1/SA2/(強昇竜 + SA3)
 
-## Medium Attack Combo
+# Medium Attack Combo
 
 ## 5MP Combo
 
@@ -98,12 +92,39 @@
 - 2MK + 中足刀/[OD足刀 Combo]()/[旋風腳 Combo]()
 - 2MK + SA1/SA2/(強昇竜 + SA3)
 
-## CDR Combo
+# Jump Attack Combo
+- ### Air JMP Combo
+    - 8/9 + JMP(2段) + [Air 旋風腳 Combo]()/SA1/(強昇竜 + SA3)
 
-- CDR + [DR5HK Combo]()
+# Counter Combo
 
-## Jump Attack Combo
+# PC Combo
+- ### Light Attack PC Combo
+    - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
+- ### Medium Attack PC Combo
+    - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+- ### Heavy Attack PC Combo
+    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
 
-### Air JMP Combo
+# DI Combo
+- ### DI PC Combo
+- ### Wall Splat Combo
+    - DI(Wall spalt) + (DR + 5HP + 5HK) + (5LK + DI)
+- ### Stun Combo
 
-- 8/9 + JMP(2段) + [Air 旋風腳 Combo]()/SA1/(強昇竜 + SA3)
+# Cancel Combo
+- ### CDR Combo
+    - CDR + [DR 5HK Combo]()
+
+# [投げ](../street-fighter-6.md#throw)
+- ### 前投げ
+    - #### Midscreen 前投げ
+    - #### Corner 前投げ
+- ### 後ろ投げ
+
+# [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
+- ### 5F打摔擇 (4F/5F)
+    - [投げ](#投げ)
+
