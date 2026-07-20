@@ -170,12 +170,11 @@
     - #### ver.2：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an integrated circuit doubles every 18 months
     - #### ver.3：the computer [chip](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#integrated-circuits-ic-chip) performance double every 18 months, or the price drops by half
 
-# Parallel Computing and Networking
-- ### Parallel Computing
+# [Parallel Computing](../computer-organization-and-architecture/parallel-computing/parallel-computing.md) and [Networking](../computer-networking/computer-networking.md)
+- ### [Parallel Computing](../computer-organization-and-architecture/parallel-computing/parallel-computing.md)
     - #### computers rely on interconnected central processing and/or memory units to increase processing speed
-- ### Networking
+- ### [Networking](../computer-networking/computer-networking.md)
     - #### Ethernet connects small computers to share resources
-    - #### file servers connect PCs
-        - in the late 1980s
-- ### ARPANET and LANs→Internet
+    - #### file servers connect PCs, in the late 1980s
+- ### [ARPANET](../computer-networking/history-of-the-internet.md#1969advanced-research-projects-agency-network-arpanet) and [LANs](../computer-networking/computer-networking.md#local-area-networklan) $`\to`$ Internet
 

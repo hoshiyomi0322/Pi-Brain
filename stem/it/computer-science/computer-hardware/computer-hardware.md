@@ -12,7 +12,7 @@
     - #### output devices
     - #### both input and output devices
 - ### Central Processing Unit (CPU)
-    - #### Datapath
+    - #### [Datapath](datapath.md)
         - Arithmetic Logic Unit (ALU)
             
             <img src="./image/alu.png" width="45%">

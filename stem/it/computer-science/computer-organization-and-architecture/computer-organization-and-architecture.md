@@ -6,7 +6,7 @@
 - ### [Modes of Data Transfer](#modes-of-data-transfer-1)
 - ### [Computer Operation](#computer-operation)
 - ### System Clock
-- ### Pipeline
+- ### [Parallel Computing](./parallel-computing/parallel-computing.md)
 - ### [Virtualization](./virtualization/virtualization.md)
 
 # Computer Operation
@@ -19,5 +19,14 @@
 - ### Direct Memory Access (DMA)
 - ### Programmed Input/Output (PIO)
 - ### Interrupt-Driven Input/Output (Interrupt-Driven I/O)
+
+# 
+- ### Single-cycle Processor
+- ### Multi-cycle Processor
+- ### Pipeline
+
+# Embedded system
+- ### based on Microprocessor
+- ### dedicated to specific tasks
 
 
