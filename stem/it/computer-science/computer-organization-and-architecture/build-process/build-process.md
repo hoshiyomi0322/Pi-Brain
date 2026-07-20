@@ -1,8 +1,8 @@
 # Language
-- ### High-Level Programming Language
+- ### [High-Level Programming Language](../../../coding/programming-language/programming-language.md)
 - ### Low-level Programing Language
-    - ### [Assembly Language](./isa/isa.md#assembly-language)
-    - ### [Machine Language](./isa/isa.md#machine-language)
+    - ### [Assembly Language](../isa/isa.md#assembly-language)
+    - ### [Machine Language](../isa/isa.md#machine-language)
 - ### Intermediate Language
     - #### Register Transfer Language (RTL)
 
@@ -21,10 +21,13 @@
     - #### [High-Level Programming Language](#high-level-programming-language) $`\overset{\text{Compiler}}{\longrightarrow}`$ Bytecode $`\overset{\text{JIT Compiler}}{\longrightarrow}`$ [Executable code](#executable-code) (in memory) $`\to`$ execution
 
 # Translator
-- ### Assembler：[Assembly Language](#assembly-language) $`\overset{\text{Assembler}}{\longrightarrow}`$ [Object code](#object-code)
-- ### Compiler：[High-Level Programming Language](#high-level-programming-language) $`\overset{\text{Compiler}}{\longrightarrow}`$ [Object code](#object-code)
-- ### Interpreter：executes [Source code](#source-code) without compiling it to [Object code](#object-code)
-    - ### eg：Python, JavaScript, Ruby
+- ### Assembler
+    - #### [Assembly Language](#assembly-language) $`\overset{\text{Assembler}}{\longrightarrow}`$ [Object code](#object-code)
+- ### Compiler
+    - #### [High-Level Programming Language](#high-level-programming-language) $`\overset{\text{Compiler}}{\longrightarrow}`$ [Object code](#object-code)
+- ### Interpreter
+    - #### executes [Source code](#source-code) without compiling it to [Object code](#object-code)
+    - #### eg：Python, JavaScript, Ruby
 
 # Linker, Loader
 - ### [Linker](linker.md)

@@ -1,14 +1,14 @@
 - ### Silicon
-    - ### Polysilicon
-    - ### Monocrystalline Silicon (Single-Crystal Silicon)
+    - #### Polysilicon
+    - #### Monocrystalline Silicon (Single-Crystal Silicon)
 - ### Wafer
 - ### Die
 - ### Integrated Circuits (IC, Chip)
-    - ### Small-Scale Integration (SSI)
-    - ### Medium-Scale Integration (MSI)
-    - ### Large-Scale Integration (LSI)
-    - ### Very Large-Scale Integration (VLSI)
-    - ### Ultra-Large-Scale Integration (ULSI)
+    - #### Small-Scale Integration (SSI)
+    - #### Medium-Scale Integration (MSI)
+    - #### Large-Scale Integration (LSI)
+    - #### Very Large-Scale Integration (VLSI)
+    - #### Ultra-Large-Scale Integration (ULSI)
 - ### Front Opening Unified Pod (FOUP)
 - ### Yield = 良品數實際生産數
 
@@ -30,10 +30,10 @@
 - ### Photolithography
 - ### Etching
 - ### Doping
-    - ### Ion Implantation
+    - #### Ion Implantation
 - ### Deposition
-    - ### Chemical Vapor Deposition (CVD)
-    - ### Physical Vapor Deposition (PVD)
+    - #### Chemical Vapor Deposition (CVD)
+    - #### Physical Vapor Deposition (PVD)
 - ### Annealing
 - ### Chemical Mechanical Polishing (CMP)
 
@@ -45,9 +45,9 @@
 
 # IC Packaging：Die → Integrated Circuits
 - ### Bonding
-    - ### Die Bonding
-    - ### Wire Bonding
+    - #### Die Bonding
+    - #### Wire Bonding
 - ### Encapsulation
 - ### Type of IC Packaging
-    - ### Dual in-line package (DIP)
+    - #### Dual in-line package (DIP)
         - DIP Switch

@@ -16,10 +16,12 @@
 - ### Operator Overloading
 
 # Types of Programming Language
-- ### Object-Oriented Programming(OOP)
-    - ### C++
-    - ### Python
+- ### Object-Oriented Programming (OOP)
+    - ### [C++](./oop/cpp.md)
+    - ### C#
+    - ### [Python](./oop/python.md)
     - ### PHP
     - ### [Java](./oop/java.md)
+    - ### JavaScript
 - ### [C](c.md)
 

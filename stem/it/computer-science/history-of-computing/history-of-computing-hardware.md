@@ -159,11 +159,12 @@
 
 # Fourth Generation (1971~)
 - ### [Very Large-Scale Integration (VLSI)](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#very-large-scale-integration-vlsi)
- 
+    <img src="./image/vlsi.png" width="25%">
+
     - #### type：electronic component
 - ### Personal Computers
     - #### Workstations
- 
+        <img src="./image/workstations.png" width="40%">
     - #### new companies emerge：Apple, Sun, Dell…
 - ### Laptops, Tablet Computers, Smart Phones
 - ### Moore's law

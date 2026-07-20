@@ -6,19 +6,19 @@
 - ### [Fifth-Generation Software (1990~)](#fifth-generation-software-1990-1)
 
 # First-Generation Software (1951~1959)
- 
-- ### Machine Language
-    - #### binary
-- ### Assembly Language
-    - #### Mnemonics
-    - #### Assembler
+<div align="center"><img src="./image/first-generation-software.png" width="40%"></div>
+
+- ### [Machine Language](../computer-organization-and-architecture/isa/isa.md#machine-language)
+- ### [Assembly Language](../computer-organization-and-architecture/isa/isa.md#assembly-language)
+    - #### [Assembler](../computer-organization-and-architecture/build-process/build-process.md#assembler)
         - translate assembly language into machine language
 - ### Computer Users
     - #### systems programmers
     - #### application programmers
 
 # Second-Generation Software (1959~1965)
- 
+<div align="center"><img src="./image/second-generation-software.png" width="50%"></div>
+
 - ### High-level Language
     - #### Unstructured BASIC
     - #### FORTRAN
@@ -28,18 +28,19 @@
     - #### Lisp
         - for artificial intelligence
         - is Functional Language
-- ### Compiler
+- ### [Compiler](../computer-organization-and-architecture/build-process/build-process.md#compiler)
 
 # Third-Generation Software (1965~1971)
- 
+<div align="center"><img src="./image/third-generation-software.png" width="60%"></div>
+
 - ### Systems Software
-    - #### utility program
-        - Loader
-        - Linker
-    - #### operating system
-    - #### translators
-        - assemblers
-        - compilers
+    - #### Utility Program
+        - [Loader](../computer-organization-and-architecture/build-process/loader.md)
+        - [Linker](../computer-organization-and-architecture/build-process/linker.md)
+    - #### [Operating System](../operating-system/operating-system.md)
+    - #### [Translators](../computer-organization-and-architecture/build-process/build-process.md#translator)
+        - [Assemblers](../computer-organization-and-architecture/build-process/build-process.md#assembler)
+        - [Compilers](../computer-organization-and-architecture/build-process/build-process.md#compiler)
 - ### Computer Users
     - #### non-programmers became computer users
 
@@ -48,17 +49,16 @@
     - #### Structured BASIC
     - #### Pascal
     - #### Modula-2
-    - #### C
-    - #### C++
+    - #### [C](../../coding/programming-language/c.md)
+    - #### [C++](../../coding/programming-language/oop/cpp.md)
 - ### Operating Systems (OS)
-    - #### UNIX
-        - Developer：AT&T
-    - #### PC-DOS
-        - Developer：IBM
-    - #### MS-DOS
-        - Developer：Microsoft
-    - #### Macintosh
-        - Developer：Apple
+    |Operating Systems|Developer|
+    |:---:|:---:|
+    |UNIX|AT&T|
+    |Personal Computer [DOS](#disk-operating-system-dos) (PC-[DOS](#disk-operating-system-dos))|IBM|
+    |Microsoft [DOS](#disk-operating-system-dos) (MS-[DOS](#disk-operating-system-dos))|Microsoft|
+    |Macintosh (Mac)|Apple|
+    - #### Disk Operating System (DOS)
 - ### Application Software
     - #### Spreadsheets
         - Lotus
@@ -74,20 +74,20 @@
 - ### Office Suites
     - #### Microsoft 365
     - #### Google Workspace
-- ### Object-Oriented Design/Programming (OOD/OOP)
+- ### Object-Oriented Design (OOD)/[Object-Oriented Programming (OOP)](../../coding/programming-language/programming-language.md#object-oriented-programmingoop)
     - #### Simula
-    - #### Java
-    - #### JavaScript
+    - #### [C++](../../coding/programming-language/oop/cpp.md)
+    - #### Objective-C
+    - #### Object Pascal
+    - #### [Python](../../coding/programming-language/oop/python.md)
     - #### Object-Oriented BASIC
         - Visual Basic
         - Visual Basic .NET
-    - #### Object Pascal
-    - #### C++
-    - #### Objective-C
-    - #### C#
-    - #### Python
+    - #### [Java](../../coding/programming-language/oop/java.md)
+    - #### JavaScript
     - #### PHP
     - #### Ruby
+    - #### C#
 - ### World Wide Web (WWW)
     - #### HTML
     - #### Browsers

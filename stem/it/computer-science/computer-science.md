@@ -7,10 +7,11 @@
 - ### Abstract Data Type (ADT)
 
 # [Computer Organization and Architecture](./computer-organization-and-architecture/computer-organization-and-architecture.md)
+- ### [Computer Architecture](./computer-hardware/computer-hardware.md#computer-architecture)
 - ### [Instruction Set Architecture (ISA)](./computer-organization-and-architecture/isa/isa.md)
-- ### [Build Process](./computer-organization-and-architecture/build-process.md)
-- ### System Clock
-- ### Pipeline
+- ### [Build Process](./computer-organization-and-architecture/build-process/build-process.md)
+- ### [System Clock](./computer-organization-and-architecture/system-clock.md)
+- ### [Parallel Computing](./computer-organization-and-architecture/parallel-computing/parallel-computing.md)
 - ### [Virtualization](./computer-organization-and-architecture/virtualization/virtualization.md)
 
 # Computer Hardware
