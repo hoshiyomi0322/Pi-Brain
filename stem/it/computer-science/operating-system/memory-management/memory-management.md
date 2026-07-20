@@ -1,5 +1,5 @@
 # Memory Hierarch
-- ### [Memory Hierarchy](../../computer-hardware/memory.md#memory-hierarchy)
+- ### [Memory Hierarchy](../../computer-hardware/memory/memory.md#memory-hierarchy)
 
 # Address
 <div align="center"><img src="./image/address.png" width="50%"></div>

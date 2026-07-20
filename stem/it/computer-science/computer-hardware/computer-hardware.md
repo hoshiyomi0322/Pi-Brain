@@ -18,7 +18,7 @@
             <img src="./image/alu.png" width="45%">
         - Register
     - #### Control Unit
-- ### [Memory Unit](memory.md)
+- ### [Memory Unit](./memory/memory.md)
 
 # Microprocessor
 - ### Central Processing Unit (CPU)
@@ -49,6 +49,8 @@
     - #### Control bus
 - ### Universal Serial Bus (USB)
     <img src="./image/usb.png" width="45%">
+    
+    - #### [USB Flash Drive](./memory/non-volatile-memory.md#usb-flash-drive)
 - ### Serial Advanced Technology Attachment (SATA)
     <img src="./image/sata.png" width="30%">
     

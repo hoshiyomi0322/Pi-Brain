@@ -15,7 +15,7 @@
 - ### [Virtualization](./computer-organization-and-architecture/virtualization/virtualization.md)
 
 # Computer Hardware
-- ### [Memory](./computer-hardware/memory.md)
+- ### [Memory](./computer-hardware/memory/memory.md)
 
 # [Computer Networking](./computer-networking/computer-networking.md)
 - ### [Communication Protocol](./computer-networking/communication-protocol/communication-protocol.md)

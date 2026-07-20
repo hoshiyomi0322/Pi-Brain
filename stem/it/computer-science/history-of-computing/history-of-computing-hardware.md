@@ -103,17 +103,17 @@
 - ### Magnetic Drums
     <img src="./image/magnetic-drums.png" width="15%">
 
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
 - ### Card Readers
     <img src="./image/card-readers.png" width="25%">
 
     - #### type：punched card input device
     - #### IBM card
         <img src="./image/ibm-card.png" width="35%">
-- ### [Magnetic Tape](../computer-hardware/memory.md#magnetic-tape)
+- ### [Magnetic Tape](../computer-hardware/memory/non-volatile-memory.md#magnetic-tape)
     <img src="./image/magnetic-tape.jpg" width="15%">
 
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
         - sequential access
     - #### Magnetic Tape Drives
         <img src="./image/magnetic-tape-drives.jpg" width="20%">
@@ -129,13 +129,13 @@
 - ### Magnetic Core Memory
     <img src="./image/magnetic-cores.png" width="20%">
     
-    - #### type：[Non-Volatile RAM](../computer-hardware/memory.md#non-volatile-ram-nvram)
+    - #### type：[Non-Volatile RAM](../computer-hardware/memory/non-volatile-memory.md#non-volatile-ram-nvram)
         - information available instantly
     - #### replaced [Magnetic Drums](#magnetic-drums)
 - ### Magnetic Disks
     <img src="./image/magnetic-disks.png" width="25%">
     
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
         - data can be accessed directly
     - #### replaced [Magnetic Tape](#magnetic-tape)
 
@@ -149,7 +149,7 @@
 - ### Semiconductor Memory
    <img src="./image/semiconductor-memory.png" width="25%">
     
-    - #### type：[volatile memory device](../computer-hardware/memory.md#volatile-memory)
+    - #### type：[Volatile Memory device](../computer-hardware/memory/volatile-memory.md)
     - #### uses [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) and capacitors
 - ### Terminal
     - #### type：input/output device
