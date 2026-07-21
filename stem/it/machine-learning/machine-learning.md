@@ -2,10 +2,10 @@
 - ### [Supervised Learning](./types-of-machine-learning/supervised-learning.md)
 - ### [Unsupervised Learning](./types-of-machine-learning/unsupervised-learning.md)
 - ### Self-Supervised Learning
-- ### [Reinforcement Learning](./types-of-machine-learning/reinforcement-learning.md)
+- ### [Reinforcement Learning (RL)](./types-of-machine-learning/reinforcement-learning.md)
 
 # Deep Learning
-- ### [Deep Learning](deep-learning.md)
+- ### [Deep Learning](./deep-learning/deep-learning.md)
 
 # Small Data
 - ### Meta Learning
@@ -14,7 +14,7 @@
 - ### Few-Shot Learning
 
 # Artificial Neural Networks (ANN), Neural Networks (NN)
-- ### [Deep Neural Network (DNN)](./deep-neural-network/deep-neural-network.md)
+- ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
 - ### Backpropagation (BP)
 - ### Multilayer Perceptron (MLP)
 
@@ -24,7 +24,7 @@
 - ### [Kernel Methods](kernel-methods.md)
 
 # Transfer Learning
-- ### Fine-Tuning
+- ### [Fine-Tuning](fine-tuning.md)
 
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
