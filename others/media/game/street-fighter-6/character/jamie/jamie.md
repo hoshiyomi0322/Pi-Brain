@@ -20,10 +20,12 @@
 # SA3 Combo
 - 打動力槽：SA3 + (DR + 2HP) + DI
 - ### Corner SA3 Combo
-    - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
     - SA3 + (DR + 2HP + 5LP) + Reset(DI)
-    - SA3 + (DR + 5MP + 5HK) + (CDR + 5HP + 5LK) + Reset(DI)
+    - SA3 + (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
+        - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
+    - SA3 + (DR + 5MP + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))/[5F打摔擇](#5f打摔擇-4f5f)
+        - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))/[5F打摔擇](#5f打摔擇-4f5f)
 
 # Heavy Attack Combo
 - ### 5HP High-Air Combo
@@ -105,6 +107,9 @@
     - 後ろ投げ + [27F OKI](#27f-oki)
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 5F打摔擇 (4F/5F)
+    - [投げ](#投げ)
+    - [2MP Combo](#2mp-combo)
 - ### 8F OKI
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
@@ -121,9 +126,6 @@
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 5F打摔擇 (4F/5F)
-    - [投げ](#投げ)
-    - [2MP Combo](#2mp-combo)
 
 # [対空](../street-fighter-6.md#anti-air)
 - ### [昇竜 Combo](jamie-special-move.md#昇竜-combo)
