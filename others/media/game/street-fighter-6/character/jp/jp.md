@@ -141,7 +141,7 @@
     - 8/9 + JMP + [2MP Combo](#2mp-combo)/[5MK Combo](#5mk-combo)
 
 # Counter Combo
-- (6MK/2MK)(Counter) + [5LK Combo]()
+- (6MK/2MK)(Counter) + [5LK Combo](#5lk-combo)
 - 2MP(Counter) + [5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
 - DR + 2MP(Counter) + [Heavy Attack Combo](#heavy-attack-combo)
 
@@ -193,10 +193,6 @@
     - (8/9 + 空投げ) + (2MK + [Corner 前投げ](#corner-前投げ))
 
 # [OKI](../../street-fighter-6.md#oki)
-- ### 12F OKI
-    - [強TC Combo](#強tc-combo)
-- ### 22F OKI
-    - 6MK + 2LP\*2 + [Light Cancel Combo](#light-cancel-combo)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - (2LK + 5LP + [Light Cancel Combo](#light-cancel-combo))
@@ -206,6 +202,27 @@
     - [2MP Combo](#2mp-combo)
     - [Shimmy (後ろ歩き)](shimmy.md#shimmy-後ろ歩き)/[Shimmy (バクステ)](shimmy.md#shimmy-バクステ)
 - ### [Shimmy](shimmy.md)
+- ### 2MP 重ね (8F)
+    - 2MP + [5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
+- ### 2MK 重ね (10F)
+    - 2MK + [5LK Combo](#5lk-combo)
+    - [強TC Combo](#強tc-combo)
+- ### 6MK 重ね (22F)
+    - 6MK + (2LP\*2 + [Light Cancel Combo](#light-cancel-combo))
+- ### 12F OKI
+    - [強TC Combo](#強tc-combo)
+- ### 34F OKI
+    - 消費(5MK) + [5F打摔擇](#5f打摔擇-4f5f)
+    - 消費(4MP) + [2MP 重ね](#2mp-重ね-8f)
+    - 消費(2MP) + [2MK 重ね](#2mk-重ね-10f)
+    - 前ステ + [12F OKI](#12f-oki)
+    - [Corner delay 中下弾 OKI](./jp-special-move/jp-projectile.md#corner-delay-中下弾-oki)
+- ### 39F OKI
+    - 消費(4MP) + [12F OKI](#12f-oki)
+    - [Corner delay 中下弾 OKI](./jp-special-move/jp-projectile.md#corner-delay-中下弾-oki)
+    - Close
+        - 消費(2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 消費(2LK) + [6MK 重ね](#6mk-重ね-22f)
 
 # 対空
 - 対空 (Close)：[空投げ](#空投げ)

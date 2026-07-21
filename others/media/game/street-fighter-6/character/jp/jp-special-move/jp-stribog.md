@@ -6,7 +6,7 @@
     - 弱風神 + SA3/OD裂縫/[Corner delay 中下弾 OKI](#corner-delay-中下弾-oki)
     - 弱風神 + 消費(2HK) + [5F打摔擇](../jp.md#5f打摔擇-4f5f)
     - 弱風神 + 消費(4MP) + [12F OKI](../jp.md#12f-oki)
-    - 弱風神 + 消費(2LP) + [22F OKI](../jp.md#22f-oki)
+    - 弱風神 + 消費(2LP) + [6MK 重ね](../jp.md#6mk-重ね-22f)
 
 # 中風神 Combo
 - ### Midscreen 中風神 Combo
