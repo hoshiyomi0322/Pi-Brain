@@ -61,6 +61,9 @@
     - [5MP Combo](#5mp-combo)
 - ### 6HP 重ね (23F)
     - 6HP + [2LP Combo](#2lp-combo)
+- ### 42F OKI
+    - 安全飛び
+    - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 強弾 OKI
     - ### 28F 強弾 OKI
         - [強弾 Combo](terry-special-move.md#強弾-combo)

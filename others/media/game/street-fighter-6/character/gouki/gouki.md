@@ -228,7 +228,7 @@
         - 後ろ歩き + [5HP Combo]()
 - ### 5HP OKI (6F/7F)
     - [5HP Combo]()
-- ### 5HP 重ね (12F)
+- ### 5HP 重ね
     - ### 9F 5HP 重ね
         - 5HP + [2LP Combo]()
         - [4HK Combo]()

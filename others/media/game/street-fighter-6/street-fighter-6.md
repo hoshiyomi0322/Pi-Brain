@@ -191,14 +191,13 @@
     - #### 6F PC
         - Dリバ
         - JP：5MP, 2HP, 2HK, 弱弾
-        - Ryu：2HP, 2MK
+        - Ryu：2HP, 2MK, 弱足刀, 中足刀
         - Zangief：5MP*2
         - Jamie：2MK, 2HP, 弱推掌, 中推掌, 醉拳
     - #### 8F PC
         - JP：6HK(しゃがみガード), 中弾, 強弾, 中風神
         - Gouki：輕灼火
         - Ken：中龍尾腳, OD龍尾腳
-        - Ryu：中足刀
         - Zangief：6HK
         - Lily：中蓄風, 強蓄風
         - Chunli：弱百裂腳, 中百裂腳

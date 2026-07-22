@@ -181,7 +181,7 @@
         - 前投げ + (前ステ + [3F打摔擇](#3f打摔擇-2f3f))
 - ### 後ろ投げ
     - 後ろ投げ + 裂縫/強地刺    
-    - #### C-Switch 後ろ投げ            
+    - #### C-Switch 後ろ投げ
         - 後ろ投げ + (前ステ + [OKI](../../street-fighter-6.md#oki)([2MP Combo](#2mp-combo)))
         - 後ろ投げ + (前ステ + ガード(2MP)) + delay(等對手攻撃) + 差し合い([Heavy Attack PC Combo](jp-pc-combo.md#heavy-attack-pc-combo))
         - 後ろ投げ + [DR 中下擇 Combo](#dr-中下擇-combo)

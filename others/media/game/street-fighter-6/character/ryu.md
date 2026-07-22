@@ -121,6 +121,8 @@
     - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
+    - #### C-Switch 後ろ投げ
+        - 後ろ投げ + 弱足刀
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)

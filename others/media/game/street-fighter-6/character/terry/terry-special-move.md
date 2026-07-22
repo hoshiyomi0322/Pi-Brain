@@ -24,9 +24,17 @@
 
 # Burning-knuckle Air Combo
 
+# Power-charge Combo
+- ### 弱Power-charge Combo
+    - 弱Power-charge + [3F打摔擇](terry.md#3f打摔擇-2f3f)
+- ### 中Power-charge Combo
+    - 中Power-charge + [42F OKI](terry.md#42f-oki)
+- ### 強Power-charge Combo
+- ### OD Power-charge Combo
+
 # Crack-shoot Combo
 - ### 強Crack-shoot Combo
-    - 強Crack-shoot + 安全飛び
+    - 強Crack-shoot + [42F OKI](terry.md#42f-oki)
 
 # 強弾 Combo
 - Close：強弾 + [2HP Combo](terry.md#2hp-combo)

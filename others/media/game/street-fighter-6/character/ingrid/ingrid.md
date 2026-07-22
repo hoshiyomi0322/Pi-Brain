@@ -1,8 +1,12 @@
 # Command
 - ### 弾：236P
+    - 強溜め弾：236HP(Hold)
+    - OD溜め弾：236PP(Hold)
 - ### 214P
     - ### 集太陽：214LP
     - ### Beam：214MP/214HP
+        - Beam(1太陽)：214HP
+        - Beam(2太陽)：214HP
         - OD Beam：214PP
 - ### Air 214P
     - ### Air-集太陽：8/9 + 214LP
@@ -24,13 +28,13 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
-- ### DR 5HP Combo
-    - DR + 5HP + 
-    - DR + ガード(5HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 4HP Combo
 - ### 6HP Combo
     - ( 6HP + OD Beam(2太陽) + 6HP + OD Beam(2太陽) ) + (DR + 2HP) + SA1/(Beam + SA3)
 - ### 5HK Combo
+- ### DR 5HK Combo
+    - DR + 5HK + 
+    - DR + ガード(5HK) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # Medium Attack Combo
 
@@ -50,6 +54,8 @@
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
 - ### 後ろ投げ
+    - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [弾 OKI](#弾-oki)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -58,12 +64,16 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - 
+- ### 弾 OKI
+    - 弱弾 + [DR 5HK Combo](#dr-5hk-combo)
+    - 相手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
+    - 相手 Parry：強溜め弾 + [投げ](#投げ)
 
 
 # [対空](../street-fighter-6.md#anti-air)
-- ### 弱昇竜
+- ### [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
 - ### [4HP Combo](#4hp-combo)
-- ### [5HK Combo](#5hk-combo)
+- ### 5HK + [弾 OKI](#弾-oki)
 
 # todo
 - https://youtu.be/LarZbGKREbY
