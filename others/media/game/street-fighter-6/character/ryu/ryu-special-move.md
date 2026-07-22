@@ -1,0 +1,50 @@
+# 昇竜 Combo
+- ### 弱昇竜 Combo
+    - 弱昇竜 + SA3
+- ### 中昇竜 Combo
+    - 中昇竜 + SA3
+    - Corner：中昇竜 + 消費(5MP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+- ### 強昇竜 Combo
+    - 強昇竜 + SA3
+    - その場受け身/Corner
+        - 強昇竜 + 消費(弱波掌撃) + [3F打摔擇](ryu.md#3f打摔擇-2f3f)
+        - 強昇竜 + 消費(DR + 5MP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+    - Corner：強昇竜 + 消費(5HP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+
+# 波掌撃 Combo
+- 波掌撃 + SA3
+- ### 強波掌撃 Combo
+    - 強波掌撃 + 中足刀/[OD足刀 Combo]()/[旋風腳 Combo]()
+    - 強波掌撃 + SA1/SA2/SA3
+    - #### Corner 強波掌撃 Combo
+        - 強波掌撃 + [強昇竜 Combo](#強昇竜-combo)
+        - 強波掌撃 + [6HK Combo]()
+
+# 足刀 Combo
+- ### 弱足刀 Combo
+    - 弱足刀 + SA3
+    - 弱足刀 + [42F OKI](ryu.md#42f-oki)
+- ### 中足刀 Combo
+    - 中足刀 + SA3
+    - Corner：中足刀 + [40F OKI](ryu.md#40f-oki)
+- ### 強足刀 Combo
+    - 強足刀 + SA3
+    - #### Corner 強足刀 Combo
+        - 強足刀 + [中昇竜 Combo](#中昇竜-combo)
+        - 強足刀 + [45F OKI](ryu.md#45f-oki)
+- ### OD足刀 Combo
+    - #### Midscreen OD足刀 Combo
+        - OD足刀 + delay + [6HK Combo]()
+        - OD足刀 + delay + SA1
+        - OD足刀 + SA2(Hold) + 消費(強旋風腳) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+        - OD足刀 + delay + [強昇竜 Combo](#強昇竜-combo)
+
+# 旋風腳 Combo
+- ### OD旋風腳 Combo
+    - OD旋風腳 + SA1(帶電)
+    - #### Corner OD旋風腳 Comb
+        - OD旋風腳 + SA1/SA2/[強昇竜 Combo](#強昇竜-combo)
+
+- ### Air-旋風腳 Combo
+    - #### Corner OD Air-旋風腳
+        - OD Air-旋風腳 + SA1/[強昇竜 Combo](#強昇竜-combo)

@@ -10,6 +10,11 @@
 - ### 西伯利亞：624P(Far)
     - #### 俄式背摔：624P(Close)
 - ### 抓腳：22K
+- ### SA2：236236P
+    - Damage-SA2：236236P/(236236P + 2(Hold))
+    - Forward-SA2：236236P + 6(Hold)
+    - Switch-SA2：236236P + 4(Hold)
+    - 旋轉SA2：236236P + 手(Hold)
 
 # 必殺技, 特殊技 Combo
 - ### 旋風手 Combo
@@ -29,24 +34,24 @@
     - 西伯利亞/OD西伯利亞 + (DR + delay + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f))
 
 # SA2 Combo
-- (SA2 + 手) + 前ステ/(DR + 6MK) + 6MK + [8F打摔擇](#8f打摔擇-6f8f)
-- (SA2 + 手) + 前ステ + [3MP High-Air Combo](#3mp-high-air-combo)
+- 旋轉SA2 + 前ステ/(DR + 6MK) + 6MK + [8F打摔擇](#8f打摔擇-6f8f)
+- 旋轉SA2 + 前ステ + [3MP High-Air Combo](#3mp-high-air-combo)
 - ### 前旋風手 Reset
-    - その場受け身/Corner：(SA2 + 手) + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
-    - 後方受け身：(SA2 + 手) + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
+    - その場受け身/Corner：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
+    - 後方受け身：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
     - #### Midscreen 前旋風手 Reset
-        - その場受け身/Corner：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
-        - 後方受け身：(SA2 + 手) + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
+        - その場受け身/Corner：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
+        - 後方受け身：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
 - ### Midscreen SA2 Combo
-    - (SA2 + 手) + (DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
+    - 旋轉SA2 + (DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
 - ### Corner SA2 Combo
-    - (SA2 + 手) + (DR + 5HK) + [3MP High-Air Combo](#3mp-high-air-combo)
-    - (SA2 + 手) + (delay + 5HK) + (delay + 9 + OD Air-コマ投げ)/SA1
-    - (SA2 + 手) + (DR + 5HK) + (delay + 5LK + DI)
+    - 旋轉SA2 + (DR + 5HK) + [3MP High-Air Combo](#3mp-high-air-combo)
+    - 旋轉SA2 + (delay + 5HK) + (delay + 9 + OD Air-コマ投げ)/SA1
+    - 旋轉SA2 + (DR + 5HK) + (delay + 5LK + DI)
 
 # SA2 Air Combo
-- (SA2 + 手) + (9 + OD Air-コマ投げ)/SA1
-- (SA2 + 手) + (DR + 6MK*2) + [10F打摔擇](#10f打摔擇)
+- 旋轉SA2 + (9 + OD Air-コマ投げ)/SA1
+- 旋轉SA2 + (DR + 6MK*2) + [10F打摔擇](#10f打摔擇)
 
 # Heavy Attack Combo
 - ### 6HP Combo
