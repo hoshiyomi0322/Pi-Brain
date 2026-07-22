@@ -24,7 +24,10 @@
 - ### [Kernel Methods](kernel-methods.md)
 
 # Transfer Learning
-- ### [Fine-Tuning](fine-tuning.md)
+- ### [Fine-Tuning](./transfer-learning/fine-tuning.md)
+
+# AI Safety
+- ### [AI Alignment](./ai-safety/ai-alignment.md)
 
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
