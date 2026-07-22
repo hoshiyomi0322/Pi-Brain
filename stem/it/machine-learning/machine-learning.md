@@ -29,6 +29,13 @@
 # AI Safety
 - ### [AI Alignment](./ai-safety/ai-alignment.md)
 
+# Distribution
+- ### In-Distribution
+- ### Out-of-Distribution (OOD)
+- ### Distribution Shift
+    - #### Label Shift
+    - ### Domain Adaptation
+
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
 
