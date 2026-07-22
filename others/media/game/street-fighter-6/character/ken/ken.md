@@ -73,6 +73,7 @@
 - ### 5LP Combo
 - ### 2LP Combo
     - 2LP + [5MP Combo]()
+- ### 5LK Combo
 - ### 2LK Combo
     - (2LK + 2LP) + [弱旋風腳 Combo]()/中旋風腳
 

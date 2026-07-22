@@ -86,20 +86,20 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP*2 + [Medium Attack Cancel Combo]()
+    - 5MP*2 + [Medium Cancel Combo]()
     - ガード
         - 5MP*2 + 弱弾
         - 5MP + [2MP Combo]()
 - ### 2MP Combo
-    - 2MP + [Medium Attack Cancel Combo]()
+    - 2MP + [Medium Cancel Combo]()
     - #### Close 2MP Combo
-        - 2MP*2 + [Medium Attack Cancel Combo]()
-        - ガード：2MP + 2MP + [Medium Attack Cancel Combo]()
+        - 2MP*2 + [Medium Cancel Combo]()
+        - ガード：2MP + 2MP + [Medium Cancel Combo]()
     - 相打ち：2MP(相打ち) + [5HP Combo]()
 - ### 5MK Combo
-    - 5MK + [Medium Attack Cancel Combo]()
+    - 5MK + [Medium Cancel Combo]()
 - ### 2MK Combo
-    - 2MK + [Medium Attack Cancel Combo]()
+    - 2MK + [Medium Cancel Combo]()
     - #### 2MK ガード Combo
         - 2MK + 中灼火
         - 2MK + [百鬼襲 Combo(弱/中)]()
@@ -108,7 +108,7 @@
     - (DR + 5MP) + [5MP Combo]()
     - #### ガード DR 5MP 打摔擇
         - (DR + 5MP) + (delay + [投げ]())
-        - (DR + 5MP) + (5MP + [Medium Attack Cancel Combo]())
+        - (DR + 5MP) + (5MP + [Medium Cancel Combo]())
 - ### DR 2MP Combo
     - (DR + 2MP) + [5HP Combo]()
     - Close：(DR + 2MP) + [2HP Combo]()
@@ -123,22 +123,22 @@
     - (DR + 6MK) + [2MP Combo]()/[5MK Combo]()
 
 # Light Attack combo
-- ### 5LP/2LP Combo
-    - (5LP/2LP)*2 + [Light Attack Cancel Combo]()
-    - (5LP/2LP) + [投げ]()
+- ### 5LP Combo
+    - 5LP*2 + [Light Cancel Combo]()
+    - ガード(5LP) + [投げ]()
+- ### 2LP Combo
+    - 2LP*2 + [Light Cancel Combo]()
+    - ガード(2LP) + [投げ]()
+- ### 5LK Combo
+    - 5LK + [Light Cancel Combo]()
 - ### 2LK Combo
-    - 2LK + 5LP + [Light Attack Cancel Combo]()
-    - DR2LK Combo
-        - DR + 2LK + [5MK Combo]()
+    - (2LK + 5LP) + [Light Cancel Combo]()
 - ### DR 2LP Combo
     - DR + 2LP + [5HP Combo]()
     - Close：DR + 2LP + [2HP Combo]()
-    - ガード
-        - DR + ガード(2LP) + [投げ]()
-        - DR + ガード(2LP) + [2MP Combo]()
-        - Shimmy：DR + ガード(2LP) + バクステ + [5HP Combo]()
-- ### DR Light Attack combo
-    - (DR + 2LP/5LK/2LK) + [5MP Combo]()/[2MP Combo]()
+    - DR + ガード(2LP) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### DR 5LK/2LK combo
+    - (DR + 5LK/2LK) + [5MP Combo]()/[2MP Combo]()
 
 # Counter Combo
 
@@ -171,17 +171,17 @@
 
 
 # Cancel Combo
-- ### Medium Attack Cancel Combo
+- ### Medium Cancel Combo
     - [CDR Combo]()
     - [旋風腳 Combo]()/[OD灼火 Combo]()
     - 中灼火 + 瞬獄殺
-- ### Light Attack Cancel Combo
+- ### Light Cancel Combo
     - [旋風腳 Combo]()
     - 弱灼火 + 瞬獄殺
     - CDR + [DR 2LP Combo](#dr-2lp-combo)
 - ### CDR Combo
-    - CDR + [DR2MP Combo]()
-    - CDR + [DR6HP Combo]()
+    - CDR + [DR 2MP Combo]()
+    - CDR + [DR 6HP Combo]()
 
 # Jump Attack Combo
 - ### JMP Air Combo
@@ -213,7 +213,7 @@
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
-    - [2LP Combo](#5lp2lp-combo)
+    - [2LP Combo](#2lp-combo)
 - ### 5F打摔擇 (4F/5F)
     - ### 5F打摔擇 (後ろ歩き)
         - [5MP Combo]()/[Close2MP Combo]()

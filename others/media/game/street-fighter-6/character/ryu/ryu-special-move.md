@@ -19,6 +19,9 @@
     - #### Corner 強波掌撃 Combo
         - 強波掌撃 + [強昇竜 Combo](#強昇竜-combo)
         - 強波掌撃 + [6HK Combo]()
+    - #### 帶電強波掌撃 Combo
+- ### OD波掌撃 Combo
+    - #### 帶電OD波掌撃 Combo
 
 # 足刀 Combo
 - ### 弱足刀 Combo
@@ -40,11 +43,17 @@
         - OD足刀 + delay + [強昇竜 Combo](#強昇竜-combo)
 
 # 旋風腳 Combo
+- ### 弱旋風腳 Combo
+    - 弱旋風腳 + [35F OKI](ryu.md#35f-oki)
+- ### 中旋風腳 Combo
+    - その場受け身/Corner：中旋風腳 + 消費(前ステ) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+- ### 強旋風腳 Combo
+    - Corner：強旋風腳 + 消費(2LP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
 - ### OD旋風腳 Combo
     - OD旋風腳 + SA1(帶電)
     - #### Corner OD旋風腳 Comb
         - OD旋風腳 + SA1/SA2/[強昇竜 Combo](#強昇竜-combo)
 
-- ### Air-旋風腳 Combo
-    - #### Corner OD Air-旋風腳
-        - OD Air-旋風腳 + SA1/[強昇竜 Combo](#強昇竜-combo)
+# Air-旋風腳 Combo
+- ### Corner OD Air-旋風腳 Combo
+    - OD Air-旋風腳 + SA1/[強昇竜 Combo](#強昇竜-combo)
