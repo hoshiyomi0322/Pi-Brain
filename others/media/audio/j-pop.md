@@ -67,6 +67,8 @@
 - ### KOKIA
 - ### Superfly
 - ### クリス・ハート
+- ### MAISONdes
+- ### 音葉文庫 (浅夏レイ)
 
 # バンド
 - ### Mrs. GREEN APPLE (ミセス)
