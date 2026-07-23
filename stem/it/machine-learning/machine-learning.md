@@ -26,15 +26,32 @@
 # Transfer Learning
 - ### [Fine-Tuning](./transfer-learning/fine-tuning.md)
 
+# Multi-Task Learning (MTL)
+
+# Batch(Offline) Learning, Online Learning
+- ### Batch Learning (Offline Learning)
+- ### Online Learning
+
+# 
+- ### Continual Learning
+- ### Incremental Learning
+    - #### Task-incremental
+    - #### Domain-incremental
+    - #### Class-incremental
+
 # AI Safety
 - ### [AI Alignment](./ai-safety/ai-alignment.md)
 
-# Distribution
+# Data Distribution
 - ### In-Distribution
 - ### Out-of-Distribution (OOD)
 - ### Distribution Shift
-    - #### Label Shift
+    - ### Prior Shift (Label Shift)
+    - ### Covariate Shift
+    - ### Concept Shift
+- ### Solution
     - ### Domain Adaptation
+    - ### Domain Generalization
 
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
