@@ -42,7 +42,7 @@
         - $`μ`$ = [Population Mean](../statistics/descriptive-statistics.md#arithmetic-mean-am)
         - $`σ^2`$ = [Population Variance](../statistics/variance.md#variance)
         - $`σ`$ = [Population Standard Deviation](../statistics/descriptive-statistics.md#standard-deviation-sd)
-    - ### [Sampling Distribution](../statistics/statistical-inference/sampling/sampling.md#sampling-distribution) of the mean ([Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution))：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
+    - ### [Sampling Distribution](../statistics/data-collection/sampling/sampling.md#sampling-distribution) of the mean ([Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution))：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
         - $\overline{X}$ = [Sample Mean](../statistics/statistical-inference/estimation/point-estimation/estimator.md#sample-mean)
         - $`n`$ = Sample Size
     - ### [Standard Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#standard-normal-distribution-)：$`Z\sim N\left(0,~1\right)`$
