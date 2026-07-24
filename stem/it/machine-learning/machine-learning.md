@@ -39,9 +39,6 @@
     - #### Domain-incremental
     - #### Class-incremental
 
-# AI Safety
-- ### [AI Alignment](./ai-safety/ai-alignment.md)
-
 # Data Distribution
 - ### In-Distribution
 - ### Out-of-Distribution (OOD)
@@ -52,6 +49,9 @@
 - ### Solution
     - ### Domain Adaptation
     - ### Domain Generalization
+
+# AI Safety
+- ### [AI Alignment](./ai-safety/ai-alignment.md)
 
 # Chain of Thought (CoT)
 - ### Tree of Thoughts (ToT)
