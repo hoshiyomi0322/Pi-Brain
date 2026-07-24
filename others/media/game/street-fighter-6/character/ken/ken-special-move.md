@@ -76,6 +76,7 @@
 ### Air 中迅雷起始 Combo
 
 - 中迅雷delay強派生 + [強昇竜 Combo]()/OD旋風腳/SA1/SA2/(delay + SA3)
+- 中迅雷delay強派生 + 消費(5HK) + [5F打摔擇 (後ろ歩き)](ken.md#5f打摔擇-後ろ歩き)
 - 中迅雷弱派生 + DI
     - 中迅雷中派生 + (DI(騙相手 DI) + 反DI)
 
