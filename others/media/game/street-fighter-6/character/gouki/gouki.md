@@ -54,9 +54,8 @@
 - ### 5HP Combo
     - 5HP/2HP + [CDR Combo]()/[旋風腳 Combo]()/[灼火 Combo]()
 - ### 5HP Air Combo
-    - 5HP + [中旋風腳 Combo]()/[強旋風腳 Combo]()/[Air OD灼火 Combo]()
+    - 5HP + [中旋風腳 Air Combo]()/[強旋風腳 Combo]()/[Air OD灼火 Combo]()
     - 5HP + (強灼火派生 + SA3)
-    - Near-wall：5HP + [Air Corner 中旋風腳 Combo]()
 - ### Corner Air 2HP Combo
     - 2HP + [Corner Extension 旋風腳 Combo]()/SA1
 - ### 6HP Combo
@@ -67,7 +66,7 @@
 - ### Corner 6HP Air Combo
     - 6HP*2 + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 - ### 5HK Combo
-    - 5HK + [5MP Combo]()
+    - 5HK + [5MP Combo]()/[Close 2MP Combo]()
 - ### 5HK Air Combo
     - 5HK + [中旋風 Combo]()/SA1/[SA2 Combo]()/SA3
     - Corner：5HK + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
@@ -173,11 +172,11 @@
 # Cancel Combo
 - ### Medium Cancel Combo
     - [CDR Combo]()
-    - [旋風腳 Combo]()/[OD灼火 Combo]()
-    - 中灼火 + 瞬獄殺
+    - [旋風腳 Combo]()
+    - [中灼火 Combo]()/[OD灼火 Combo]()
 - ### Light Cancel Combo
     - [旋風腳 Combo]()
-    - 弱灼火 + 瞬獄殺
+    - [弱灼火 Combo]()
     - CDR + [DR 2LP Combo](#dr-2lp-combo)
 - ### CDR Combo
     - CDR + [DR 2MP Combo]()
@@ -216,10 +215,10 @@
     - [2LP Combo](#2lp-combo)
 - ### 5F打摔擇 (4F/5F)
     - ### 5F打摔擇 (後ろ歩き)
-        - [5MP Combo]()/[Close2MP Combo]()
+        - [5MP Combo]()/[Close 2MP Combo]()
         - [投げ]()/[Shimmy(後ろ歩き)]()/瞬獄殺
     - ### 5F打摔擇 (バクステ)
-        - [5MP Combo]()/[Close2MP Combo]()
+        - [5MP Combo]()/[Close 2MP Combo]()
         - [投げ]()/[Shimmy(バクステ)]()/瞬獄殺
 - ### Shimmy
     - #### Shimmy(バクステ)
@@ -235,6 +234,10 @@
     - ### 12F 5HP 重ね
         - 5HP + [2MP Combo]()
         - [4HK Combo]()
+- ### DI OKI (25F/26F)
+    - DI
+    - 消費(5MP) + [5F打摔擇 (バクステ)]()
+    - 消費(5LP) + [12F 5HP 重ね](#12f-5hp-重ね)
 - ### 28F OKI
     - #### Close 28F OKI
         - [DR 6MP Combo]()/弱弾
@@ -256,11 +259,14 @@
         - Corner
             - 前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
             - 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+- ### 45F OKI
+    - 中旋風腳 + 消費(弱旋風腳) + [5F打摔擇 (バクステ)]()
+    - 中旋風腳 + 消費(前ステ) + [DI OKI](#di-oki-25f26f)
 - ### 47F OKI
     - #### Close 47F OKI
         - 前ステ + [Close 28F OKI](#close-28f-oki)
         - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
-        - 消費(5MP) + Reset(DI)
+        - 消費(5MP) + [DI OKI](#di-oki-25f26f)
         - その場受け身/Corner
             - 消費(5HK) + [5F打摔擇 (バクステ)]()
             - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
@@ -269,7 +275,7 @@
         - 前ステ + [Mid 28F OKI](#mid-28f-oki)
         - その場受け身/Corner
             - 消費(前ジャンプ) + [5F打摔擇 (バクステ)]()
-            - 消費(5MP) + Reset(DI)
+            - 消費(5MP) + [DI OKI](#di-oki-25f26f)
         - Corner
             - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
             - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
@@ -308,7 +314,7 @@
     - [DR中腳 Combo]()
 - ### Corner High-Air DR Combo
     - DR + 6MK + [Corner 4HK Combo]()
-    - (DR + 5HP) + (5LK + DI)
+    - (DR + 5HP + 5LK) + Reset(DI)
     - (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())
 
 # 近Mid 立ち回り
