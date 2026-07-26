@@ -4,10 +4,11 @@
 
 # Types of Internet Access
 - ### Broadband Internet
-    - ### [Cable Internet (Coaxial Cable Internet)](#cable-internetcoaxial-cable-internet-1)
-    - ### [Fiber Internet](#fiber-internet-1)
+    - #### [Cable Internet (Coaxial Cable Internet)](#cable-internetcoaxial-cable-internet-1)
+    - #### [Fiber Internet](#fiber-internet-1)
 - ### [Digital Subscriber Line (DSL)](#digital-subscriber-linedsl-1)
-- ### [Wireless Network](wireless-network.md)
+- ### [Wireless Network](./wireless-network/wireless-network.md)
+    - #### [Cellular Network (Mobile Network)](./wireless-network/cellular-network.md)
 - ### [Satellite Internet](#satellite-internet-1)
 
 # Cable Internet (Coaxial Cable Internet)
@@ -19,7 +20,7 @@
     - ### Fiber To The Home (FTTH)
 
 # Digital Subscriber Line (DSL)
-<div align="center"><img src="dsl.png" width="50%"></div>
+<div align="center"><img src="./image/dsl.png" width="50%"></div>
 
 - ### Digital Subscriber Line Access Multiplexer (DSLAM)
 - ### [DSL Modem](../networking-hardware.md#dsl-modem)

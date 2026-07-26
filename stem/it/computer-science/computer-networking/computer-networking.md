@@ -49,41 +49,31 @@
 - ### [Cloud Computing](../distributed-computing/cloud-computing.md)
 
 # Types of Computer Networks
-<div align="center">
-    <img src="./image/types-of-computer-networks.png" width="20%">
-</div>
+<div align="center"><img src="./image/types-of-computer-networks.png" width="20%"></div>
 
 - ### Nanonetwork
-- ### Personal Area Network(PAN)
-    <img src="./image/pan.png" width="30%">
+- ### Personal Area Network (PAN)
+    <img src="./image/pan.png" width="35%">
 
-    - ### Wireless PAN(WPAN)
-        - Bluetooth
-        - Li-Fi
-- ### Local Area Network(LAN)
+    - #### [Wireless PAN (WPAN)](network-access/wireless-network/wireless-network.md#wireless-pan-wpan)
+- ### Local Area Network (LAN)
     <img src="./image/lan.png" width="45%">
 
-    - ### Wireless LAN(WLAN)
-        - Wi-Fi
-        - Wireless USB
-            
-            <img src="./image/wireless-usb.png" width="10%">
-        - Hotspot
-    - ### Virtual Local Area Network(VLAN)
-    - ### Home Area Network(HAN)
-- ### Campus Area Network(CAN)
-    <img src="./image/can.png" width="40%">
-- ### Metropolitan Area Network(MAN)
-    <img src="./image/man.png" width="40%">
-- ### Radio Access Network(RAN)
-- ### Wide Area Network(WAN)
-    <img src="./image/wan.png" width="40%">
-- ### Virtual Private Network(VPN)
+    - #### [Wireless LAN (WLAN)](network-access/wireless-network/wireless-network.md#wireless-lan-wlan)
+    - #### Virtual Local Area Network (VLAN)
+    - #### Home Area Network (HAN)
+- ### Campus Area Network (CAN)
+    <img src="./image/can.png" width="45%">
+- ### Metropolitan Area Network (MAN)
+    <img src="./image/man.png" width="60%">
+- ### [Radio Access Network (RAN)](network-access/wireless-network/cellular-network.md#radio-access-network-ran)
+- ### Wide Area Network (WAN)
+    <img src="./image/wan.png" width="45%">
 
 # Firewall
 - ### Network Firewall
     <img src="./image/network-firewall.png" width="30%">
-- ### Web Application Firewall(WAF)
+- ### Web Application Firewall (WAF)
 
 # End-to-End principle (E2E Principle)
 - ### Layers of End-to-End

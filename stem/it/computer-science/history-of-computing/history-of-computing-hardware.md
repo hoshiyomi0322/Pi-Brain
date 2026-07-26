@@ -177,5 +177,5 @@
 - ### [Networking](../computer-networking/computer-networking.md)
     - #### Ethernet connects small computers to share resources
     - #### file servers connect PCs, in the late 1980s
-- ### [ARPANET](../computer-networking/history-of-the-internet.md#1969advanced-research-projects-agency-network-arpanet) and [LANs](../computer-networking/computer-networking.md#local-area-networklan) $`\to`$ Internet
+- ### [ARPANET](../computer-networking/history-of-the-internet.md#1969advanced-research-projects-agency-network-arpanet) and [LANs](../computer-networking/computer-networking.md#local-area-network-lan) $`\to`$ Internet
 
