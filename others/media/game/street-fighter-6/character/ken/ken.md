@@ -116,7 +116,7 @@
         - DI(PC) + 前ステ + [Corner 2HP Combo]()
         - DI(PC) + (DR + 5HP + 5LK + DI)
         - DI(PC) + (8 + delay + JHK) + 5LP + 中迅雷強派生/(弱迅雷弱派生*2) + [強昇竜 Combo]()/SA1/SA2/SA3
-- ## DI PC Air Combo
+- ### DI PC Air Combo
     - DI(PC) + 2HP + 消費(跑步煞車) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
     - DI(PC) + 消費(5LK + 前ステ) + (5MP + [跑步旋風腳 Combo]())
 - ### Wall Splat Combo
@@ -137,6 +137,7 @@
 - ### 5HP 重ね
     - ### 10F 5HP 重ね
         - 5HP + [5LP Combo](#5lp-combo)
+        - [5HP Combo]()
     - ### 12F 5HP 重ね (12F/13F)
         - 5HP + [2MP Combo](#2mp-combo)
 - ### 29F OKI
@@ -147,7 +148,7 @@
     - (前ステ + 前ステ) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
     - 消費(5LP) + [29F OKI](#29f-oki)
     - 消費(2LK) + Reset(DI)
-    - その場受け身/Corner：消費(2LK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+    - その場受け身/Corner：消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
 - ### 47F OKI
     - 消費(前ステ + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
     - 消費(2HK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)

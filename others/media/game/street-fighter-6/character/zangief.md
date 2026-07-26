@@ -36,18 +36,22 @@
 # SA2 Combo
 - 旋轉SA2 + 前ステ/(DR + 6MK) + 6MK + [8F打摔擇](#8f打摔擇-6f8f)
 - 旋轉SA2 + 前ステ + [3MP High-Air Combo](#3mp-high-air-combo)
-- ### 前旋風手 Reset
+- ### 前旋風手 SA2 Reset
     - その場受け身/Corner：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
     - 後方受け身：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
-    - #### Midscreen 前旋風手 Reset
+    - #### Midscreen 前旋風手 SA2 Reset
         - その場受け身/Corner：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f8f)
         - 後方受け身：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
+    - #### Corner 前旋風手 SA2 Reset
+        - 旋轉SA2 + (DR + 5HK) + (3MP + 前旋風手) + 消費(前ステ) + [8F打摔擇](#8f打摔擇-6f8f)
 - ### Midscreen SA2 Combo
     - 旋轉SA2 + (DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
 - ### Corner SA2 Combo
     - 旋轉SA2 + (DR + 5HK) + [3MP High-Air Combo](#3mp-high-air-combo)
     - 旋轉SA2 + (delay + 5HK) + (delay + 9 + OD Air-コマ投げ)/SA1
-    - 旋轉SA2 + (DR + 5HK) + (delay + 5LK + DI)
+    - 旋轉SA2 + (DR + 5HK + delay + 5LK) + Reset(DI)
+    - 旋轉SA2 + (DR + 5HK + 5MP) + [8F打摔擇](#8f打摔擇-6f8f)
+    - 旋轉SA2 + (DR + 3HK) + [DI OKI](#di-oki-25f26f)
 
 # SA2 Air Combo
 - 旋轉SA2 + (9 + OD Air-コマ投げ)/SA1
@@ -74,19 +78,19 @@
     - 3MP + delay + [コマ投げ Combo](#コマ投げ-combo)/[ODコマ投げ Combo](#コマ投げ-combo)/SA3
 - ### 3MP Air Combo
     - 3MP + SA1/[SA2 Air Combo](#sa2-air-combo)
-    - 3MP + (9 + [5F打摔擇](#5f打摔擇-3f5f))
+    - 3MP + 消費(9) + [5F打摔擇](#5f打摔擇-3f5f)
     - (3MP + 旋風手) + [28F DR 6MK 重ね](#28f-dr-6mk-重ね-28f29f)
     - #### Corner 3MP Air Combo
         - [3MP Air Combo](#3mp-air-combo)
         - (3MP + OD旋風手) + (delay + 9 + OD Air-コマ投げ)
-        - (3MP + OD旋風手) + (9 + [8F打摔擇](#8f打摔擇-6f8f))
+        - (3MP + OD旋風手) + 消費(9) + [8F打摔擇](#8f打摔擇-6f8f)
         - (3MP + OD旋風手) + 消費(6HP) + [16F OKI](#16f-oki-16f17f)
-        - (3MP + OD旋風手) + 消費(2MP) + [25F OKI](#25f-oki-25f26f)
+        - (3MP + OD旋風手) + 消費(2MP) + [DI OKI](#di-oki-25f26f)
 - ### 3MP High-Air Combo
     - 9 + delay + Air-コマ投げ
     - 3MP + 旋風手/SA1/(OD旋風手 + [SA2 Air Combo](#sa2-air-combo))
     - 3MP + (delay + 9 + OD Air-コマ投げ)
-    - 3MP + (9 + [8F打摔擇](#8f打摔擇-6f8f))
+    - 3MP + 消費(9) + [8F打摔擇](#8f打摔擇-6f8f)
 - ### 6MK Combo
     - 6MK + [5F打摔擇](#5f打摔擇-3f5f)
 - #### DR 6MK Air Combo
@@ -127,7 +131,7 @@
     - Corner
         - 2HP(PC) + [Corner 3MP Air Combo](#corner-3mp-air-combo)
         - 2HP(PC) + 6MK + [10F打摔擇](#10f打摔擇)
-        - 2HP(PC) + 旋風手 + [25F OKI](#25f-oki-25f26f)
+        - 2HP(PC) + 旋風手 + [DI OKI](#di-oki-25f26f)
 - ### 5HK PC Combo
     - 5HK(PC) + [3MP High-Air Combo](#3mp-high-air-combo)
     - 5HK(PC) + 6MK + [10F打摔擇](#10f打摔擇)
@@ -136,7 +140,9 @@
     - 6HK(PC) + [2LP Air Reset](#2lp-air-reset)
 - ### Corner 3HK PC Combo
     - 3HK(PC) + [コマ投げ Combo](#コマ投げ-combo)/SA3
-    - 3HK(PC) + (3MP + 旋風手) + [25F OKI](#25f-oki-25f26f)
+    - 3HK(PC) + (3MP + 旋風手) + [DI OKI](#di-oki-25f26f)
+- ### Corner 溜め5HP PC Combo
+    - 5HP(Hold) + 消費(9) + [10F打摔擇](#10f打摔擇)
 
 # DI Combo
 - ### DI PC Combo
@@ -151,7 +157,7 @@
         - DI(PC) + (9 + J2HP) + SA1/(9 + Air-コマ投げ)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [Corner 3MP Air Combo](#corner-3mp-air-combo)
-    - [2HP Reset](#2hp-reset)
+    - DI(Wall spalt) + [2HP Reset](#2hp-reset)
 - ### Stun Combo
 
 # Cancel Combo
@@ -167,7 +173,22 @@
     - その場受け身/Corner：後ろ投げ + [8F打摔擇](#8f打摔擇-6f8f)
 
 # [OKI](../street-fighter-6.md#oki)
-- ### 25F OKI (25F/26F)
+- ### 5F打摔擇 (3F~5F)
+    - [投げ](#投げ)
+    - [コマ投げ Combo](#コマ投げ-combo)/SA3
+    - [俄式背摔 Combo](#俄式背摔-combo)
+    - [2LK Combo](#2lk-combo)
+    - 防パナシ/対空
+- ### 8F打摔擇 (6F~8F)
+    - (delay + [コマ投げ Combo](#コマ投げ-combo)/SA3)
+    - [俄式背摔 Combo](#俄式背摔-combo)/[5MP Combo](#5mp-combo)
+    - Mid：[西伯利亞 Combo](#西伯利亞-combo)
+    - 防パナシ/対空
+- ### 10F打摔擇
+    - delay + [コマ投げ Combo](#コマ投げ-combo)/[俄式背摔 Combo](#俄式背摔-combo)/SA3
+    - [6HP Combo](#6hp-combo)
+    - 防パナシ/対空
+- ### DI OKI (25F/26F)
     - DI
     - 前ステ + [5F打摔擇](#5f打摔擇-3f5f)
 - ### 16F OKI (16F/17F)
@@ -194,21 +215,6 @@
         - [生ラッシュ Combo](#生ラッシュ-combo)
         - 前ステ + [西伯利亞 Combo](#西伯利亞-combo)
         - その場受け身/Corner (Close)：前ステ + [8F打摔擇](#8f打摔擇-6f8f)
-- ### 5F打摔擇 (3F~5F)
-    - [投げ](#投げ)
-    - [コマ投げ Combo](#コマ投げ-combo)/SA3
-    - [俄式背摔 Combo](#俄式背摔-combo)
-    - [2LK Combo](#2lk-combo)
-    - 防パナシ/対空
-- ### 8F打摔擇 (6F~8F)
-    - (delay + [コマ投げ Combo](#コマ投げ-combo)/SA3)
-    - [俄式背摔 Combo](#俄式背摔-combo)/[5MP Combo](#5mp-combo)
-    - Mid：[西伯利亞 Combo](#西伯利亞-combo)
-    - 防パナシ/対空
-- ### 10F打摔擇
-    - delay + [コマ投げ Combo](#コマ投げ-combo)/[俄式背摔 Combo](#俄式背摔-combo)/SA3
-    - [6HP Combo](#6hp-combo)
-    - 防パナシ/対空
 
 # 生ラッシュ Combo
 - DR + [5LK Combo](#5lk-combo)/[コマ投げ Combo](#コマ投げ-combo)

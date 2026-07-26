@@ -67,13 +67,13 @@
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 5F打摔擇 (4F/5F)
+    - [投げ](#投げ)
+    - 強コマ投げ/ODコマ投げ
+    - [5MP Combo](#5mp-combo)
 - ### 6F OKI (6F/7F)
     - 中コマ投げ
     - [5MP Combo](#5mp-combo)
 - ### 33F OKI
     - [DR 溜め5HP Combo](#dr-溜め5hp-combo)
     - [DR 溜め5HK Combo](#dr-溜め5hk-combo)
-- ### 5F打摔擇 (4F/5F)
-    - [投げ](#投げ)
-    - 強コマ投げ/ODコマ投げ
-    - [5MP Combo](#5mp-combo)
