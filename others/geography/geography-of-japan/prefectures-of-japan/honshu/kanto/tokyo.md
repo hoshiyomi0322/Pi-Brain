@@ -32,6 +32,10 @@
     - #### 明治神宮 (めいじじんぐう)
     - #### 代々木公園 (よよぎ こうえん)
     - #### MIYASHITA PARK
+    - #### SHIBUYA TSUTAYA
+        - SHIBUYA TSUTAYA 6階 IP書店
+    - #### HMV&BOOKS SHIBUYA
+    - #### GiGO渋谷
 - ### 新宿区 (しんじゅくく)
     - #### 早稲田大学 (わせだだいがく)
     - #### 須賀神社 (すがじんじゃ)
