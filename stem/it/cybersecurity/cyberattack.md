@@ -5,6 +5,7 @@
     - #### Keystroke Logging (Keylogging)
 - ### Botnet
 - ### Phishing
+    - #### ClickFix
 - ### Malicious Software (Malware)
     - #### Adware
     - #### Spyware
