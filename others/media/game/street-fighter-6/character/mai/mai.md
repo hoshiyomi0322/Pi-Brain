@@ -19,25 +19,29 @@
 - ### 5HP Combo
     - 5HP + 弱弾/溜め弾
     - 5HP + [Medium Cancel Combo](#medium-cancel-combo)
-
 - ### 5HP Air Combo
     - 5HP + 強龍炎舞 + [強昇竜 Combo]()/SA2/(中忍蜂 + SA3)
     - 5HP + (強龍炎舞 + 弱忍蜂*2) + (delay + [5F打摔擇(後ろ歩き)]())/[2MP Combo](#2mp-combo)
-    - #### Corner HP Air Comb
+    - 5HP + [OD忍蜂 Air Combo]()
+    - #### Corner 5HP Air Combo
         - 5HP + (強龍炎舞 + 弱忍蜂 + 弱昇竜)
         - 5HP + 強龍炎舞 + SA2/(中忍蜂 + SA3)
         - 5HP + (強龍炎舞 + SA1)
         - 5HP + (強龍炎舞 + 弱忍蜂*2) + (delay + [5F打摔擇(後ろ歩き)]())/[2MP Combo](#2mp-combo)
-    - #### 帶火5HP Air Combo
+    - #### 帶火 5HP Air Combo
         - 5HP + 強龍炎舞(帶火) + [強昇竜 Combo]()/SA2/(中忍蜂 + SA3)
         - 5HP + 強龍炎舞(帶火) + SA1(帶火)
-        - ##### Corner 帶火HP Air Comb
+        - ##### Corner 帶火 5HP Air Combo
             - 5HP + 強龍炎舞(帶火) + (中忍蜂 + SA3)
             - 5HP + (強龍炎舞(帶火) + 弱忍蜂) + [強昇竜 Combo]()/SA1/SA2
+- ### 2HP Combo
+    - 2HP + [5LP Combo](#5lp-combo)
 - ### 4HK Combo
     - 4HK + 5HK
     - #### Corner 4HK Combo
         - (4HK + 5HK) + [中昇竜 Combo]()/SA1
+- ### DR 5HP Combo
+    - DR + 5HP + OD溜め弾 + [5HP Combo]()
 - ### DR 4HK Combo
     - DR + 4HK + [2MP Combo](#2mp-combo)
     - DR + ガード(4HK) + [3F打摔擇]()/[4HK Combo](#4hk-combo)
@@ -58,10 +62,19 @@
     - DR + (2MP) + [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
 
 # Light Attack combo
-- (5LP/2LP)*2 + [弱忍蜂 Combo]()
-- (2LK + 5LP) + [弱忍蜂 Combo]()
-- 5LK*3 + [空插 Combo]()
-- (5LP/2LP/5LK/2LK) + [投げ](#投げ)
+- ### 5LP Combo
+    - 5LP*2 + [弱忍蜂 Combo]()/[OD忍蜂 Combo]()
+    - 5LP + [投げ](#投げ)
+- ### 2LP Combo
+    - 2LP*2 + [弱忍蜂 Combo]()
+    - 2LP + [投げ](#投げ)
+- ### 5LK Combo
+    - 5LK*3 + [空插 Combo]()
+    - 5LK + [投げ](#投げ)
+- ### 2LK Combo
+    - (2LK + 5LP) + [弱忍蜂 Combo]()
+    - 2LK + [投げ](#投げ)
+
 
 # Jump Attack Combo
 - 8/9 + JLK + [Light Attack combo]()
