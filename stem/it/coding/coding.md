@@ -9,7 +9,11 @@
 - ### [Markdown](./markup-language/markdown/markdown.md)
 - ### [LaTex](./markup-language/latex/latex.md)
 - ### [HyperText Markup Language (HTML)](./markup-language/html/html.md)
-- ### Extensible Markup Language (XML)
 
 # Query Language
 - ### Structured Query Language (SQL)
+
+# Data Serialization
+- ### Extensible Markup Language (XML)
+- ### JavaScript Object Notation (JSON)
+- ### YAML
