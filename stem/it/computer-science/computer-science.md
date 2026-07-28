@@ -40,7 +40,7 @@
 - ### [Encoding](./data-representation/encoding.md)
 
 # [Data Management](./data-management/data-management.md)
-- ### Data Management
+- ### [Data Engineering](./data-management/data-engineering.md)
 
 # History of Computing
 - ### [History of Computing Hardware](./history-of-computing/history-of-computing-hardware.md)
