@@ -45,6 +45,7 @@
         - 弱派生 + [3F打摔擇](#3f打摔擇-2f3f)
     - #### 中派生 Combo
         - 中派生 + SA3
+        - Corner：中派生 + [弱昇竜 Combo](#弱昇竜-combo)
         - 中派生 + [48F OKI](#48f-oki)
         - ガード(中派生) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 強派生 Combo
@@ -134,6 +135,7 @@
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - 6HK + [6HK Combo](#6hk-combo)/[4HP Combo](#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -202,6 +204,9 @@
         - 消費(弱Tiger-knee) + [投げ](#投げ)
 - ### 48F OKI
     - 消費(弱Tiger-knee) + [6F OKI](#6f-oki)
+    - Corner
+        - 消費(5HK) + [5MP 重ね](#5mp-重ね-8f)
+        - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 弾 OKI (19F~21F)
     - 弱弾/中弾/強弾
     - [OD弾 Combo](#od弾-combo)
