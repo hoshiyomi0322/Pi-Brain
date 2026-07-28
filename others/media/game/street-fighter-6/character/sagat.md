@@ -17,14 +17,19 @@
     - #### 弱昇竜 Combo
         - 弱昇竜 + SA3
     - #### 中昇竜 Combo
-        - 中昇竜 + SA3
+        - 中昇竜 + SA3/[5F打摔擇](#5f打摔擇-4f5f)
     - #### 強昇竜 Combo
-        - 強昇竜 + SA3
+        - 強昇竜 + SA3/[5F打摔擇](#5f打摔擇-4f5f)
 - ### Tiger-knee Combo
     - ### 弱Tiger-knee Combo
         - 弱Tiger-knee + [36F Tiger-knee OKI](#36f-tiger-knee-oki)
+        - 弱Tiger-knee + 消費(2MP) + [5MP 重ね](#5mp-重ね-8f)
     - ### 中Tiger-knee Combo
         - 中Tiger-knee + [39F Tiger-knee OKI](#39f-tiger-knee-oki)
+    - ### 強Tiger-knee Combo
+        - 強Tiger-knee + [42F OKI](#42f-oki)
+    - ### OD Tiger-knee Combo
+        - Corner：OD Tiger-knee + [弱昇竜 Combo](#弱昇竜-combo)
 - ### 迅雷 Combo
     - ### 弱迅雷 Combo
         - 弱迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
@@ -43,13 +48,12 @@
         - 中派生 + [48F OKI](#48f-oki)
         - ガード(中派生) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 強派生 Combo
-        - 強派生 + [強昇竜 Combo](#強昇竜-combo)/[6HK Air Combo](#6hk-air-combo)
-        - 強派生 + 消費(弱Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 強派生 + [Far 6HK Air Combo](#far-6hk-air-combo)
+        - 強派生 + 消費(強Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
         - ガード(強派生) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # SA2 Combo
-- Forward-SA2 + [強昇竜 Combo](#強昇竜-combo)/[6HK Air Combo](#6hk-air-combo)
-- Forward-SA2 + (DR + [4HP Air Combo](#4hp-air-combo))
+- Forward-SA2 + [Far 6HK Air Combo](#far-6hk-air-combo)
 - Crouching-SA2 + [弾 OKI](#弾-oki-19f21f)
 - General-SA2/Switch-SA2
 
@@ -57,19 +61,36 @@
 - ### 5HP Combo
     - (5HP + 5HK) + [39F Tiger-knee OKI](#39f-tiger-knee-oki)
 - ### 2HP Combo
-    - 2HP + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 4HP Combo
     - 4HP + 強Tiger-knee + [弱昇竜 Combo](#弱昇竜-combo)
+    - 4HP + 中弾 + [Far 6HK Air Combo](#far-6hk-air-combo)
+- ### DR 4HP Combo
+    - (DR + 4HP) + 中迅雷強派生 + [Close 6HK Air Combo](#close-6hk-air-combo)
+    - Corner：(DR + 4HP) + 中迅雷強派生 + [4HP Air Combo](#4hp-air-combo)
 - ### 4HP Air Combo
-    - 4HP + 強Tiger-knee + [中昇竜 Combo](#中昇竜-combo)
+    - delay + 4HP + 強Tiger-knee + [中昇竜 Combo](#中昇竜-combo)/SA1/[SA2 Combo](#sa2-combo)
 - ### 5HK Combo
     - 5HK + [強迅雷 Combo](#強迅雷-combo)
-    - 5HK + delay(等第二下打完) + [Medium Cancel Combo](#medium-cancel-combo)
+    - 5HK + delay(等第二下打完) + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 6HK Combo
+    - 6HK + [2MP Combo](#2mp-combo)
 - ### 6HK Air Combo
-    - 6HK + SA1/[SA2 Combo](#sa2-combo)/SA3
-    - 6HK + [48F OKI](#48f-oki)
-    - Close：6HK + [強昇竜 Combo](#強昇竜-combo)
+    - #### Far 6HK Air Combo
+        - 6HK + SA1/[SA2 Combo](#sa2-combo)/SA3
+        - 6HK + [48F OKI](#48f-oki)
+        - [強昇竜 Combo](#強昇竜-combo)/[DR 2MP Combo](#dr-2mp-combo)
+        - Corner
+            - 6HK + [中昇竜 Combo](#中昇竜-combo)
+            - [Corner DR 5HK Air Combo](#corner-dr-5hk-air-combo)
+    - #### Close 6HK Air Combo
+        - 6HK + [強昇竜 Combo](#強昇竜-combo)/SA1/[SA2 Combo](#sa2-combo)
+        - Corner：[Corner DR 5HK Air Combo](#corner-dr-5hk-air-combo)
+- ### Corner DR 5HK Air Combo
+    - (DR + 5HK + delay(等第二下打完)) + (DR + [4HP Air Combo](#4hp-air-combo))
+    - (DR + 5HK + delay(等第二下打完)) + (CDR + 5HK + delay(等第二下打完)) + (DR + [4HP Air Combo](#4hp-air-combo))
+- ### DR 6HK Combo
+    - (DR + 6HK) + [4HP Combo](#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -120,10 +141,14 @@
 - ### Stun Combo
 
 # Cancel Combo
+- ### Heavy Cancel Combo
+    - [Medium Cancel Combo](#medium-cancel-combo)
+    - [OD迅雷 Combo](#od迅雷-combo)
+    - CDR + [DR 6HK Combo](#dr-6hk-combo)
 - ### Medium Cancel Combo
     - [昇竜 Combo](#昇竜-combo)/[Tiger-knee Combo](#tiger-knee-combo)
     - [中迅雷 Combo](#中迅雷-combo)
-    - CDR + [DR 5MP Combo](#dr-5mp-combo)/[5HK Combo](#5hk-combo)/[4HP Combo](#4hp-combo)
+    - CDR + [DR 5MP Combo](#dr-5mp-combo)/[5HK Combo](#5hk-combo)/[DR 4HP Combo](#dr-4hp-combo)
     - ガード後
         - [弱迅雷 Combo](#弱迅雷-combo)/[中迅雷 Combo](#中迅雷-combo)
         - CDR + [DR 5MP Combo](#dr-5mp-combo)
@@ -153,6 +178,15 @@
 - ### 6F OKI
     - [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
     - 前歩き + [投げ](#投げ)
+- ### 6MP 重ね (22F/23F)
+    - 6MP + [2LP Combo](#2lp-combo)
+- ### 42F OKI
+    - 安全飛び
+    - Close：消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
+- ### 5MP 重ね (8F)
+    - 5MP + [2MP Combo](#2mp-combo)
+    - ガード(5MP) + [6F OKI](#6f-oki)
+    - Close：5MP + [4HP Combo](#4hp-combo)
 - ### Tiger-knee OKI
     - #### 36F Tiger-knee OKI
         - 強Tiger-knee

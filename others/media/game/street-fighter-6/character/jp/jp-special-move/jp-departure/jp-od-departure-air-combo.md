@@ -42,7 +42,7 @@
 - ### Corner バクステ6HK OD裂縫 Air Combo
     - delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo)
     - 前ステ + [Corner 6HK中弾 OD裂縫 Air Combo](#corner-6hk中弾-od裂縫-air-combo)
-    - (delay + OD裂縫 + 中風神) + (2HK + [Corner 風神 OD裂縫 2裂縫 Air Combo](#corner-風神-od裂縫-2裂縫-air-combo-need-delay-or-消費))
+    - (delay + OD裂縫 + 中風神) + (前歩き + [Corner 風神 OD裂縫 2裂縫 Air Combo](#corner-風神-od裂縫-2裂縫-air-combo-need-delay-or-消費))
 - ### Corner OD裂縫 Air Reset
     - #### Corner OD裂縫 F式 Air Reset
         - (OD裂縫 + delay + 2HP) + (裂縫傳送(弱) + [General Corner 裂縫 F式擇](jp-departure-mix-up.md#general-corner-裂縫-f式擇))
