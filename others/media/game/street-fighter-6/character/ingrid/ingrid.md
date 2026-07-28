@@ -32,11 +32,13 @@
 - ### 6HP Combo
     - ( 6HP + OD Beam(2太陽) + 6HP + OD Beam(2太陽) ) + (DR + 2HP) + SA1/(Beam + SA3)
 - ### 5HK Combo
+    - 5HK + [2LP Combo](#2lp-combo)
 - ### DR 5HK Combo
     - DR + 5HK + 
     - DR + ガード(5HK) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # Medium Attack Combo
+- ### 5MP Combo
 
 # Light Attack Combo
 - ### 2LP Combo
@@ -64,6 +66,11 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - 
+- ### 6MP 重ね
+    - #### 22F 6MP 重ね
+        - 6MP + [2LP Combo](#2lp-combo)
+    - #### 23F 6MP 重ね
+        - 6MP + [5MP Combo](#5mp-combo)
 - ### 弾 OKI
     - 弱弾 + [DR 5HK Combo](#dr-5hk-combo)
     - 相手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)

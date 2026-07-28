@@ -188,6 +188,7 @@
         - Jamie：5HK
         - Chunli：弱劈腿, OD劈腿
         - Viper：2HP
+        - Sagat：強Tiger-knee, X迅雷弱派生
         - Ingrid：5HP,6HP
     - #### 6F PC
         - Dリバ
@@ -195,6 +196,7 @@
         - Ryu：2HP, 2MK, 弱足刀, 中足刀
         - Zangief：5MP*2
         - Jamie：2MK, 2HP, 弱推掌, 中推掌, 醉拳
+        - Sagat：中Tiger-knee
     - #### 8F PC
         - JP：6HK(しゃがみガード), 中弾, 強弾, 中風神
         - Gouki：輕灼火
@@ -202,6 +204,7 @@
         - Zangief：6HK
         - Lily：中蓄風, 強蓄風
         - Chunli：弱百裂腳, 中百裂腳
+        - Sagat：弱Tiger-knee
     - #### 10F PC
         - [昇竜](#昇竜-dragon-punch-dr)
         - JP：3HP(Mid-range), 弱風神
