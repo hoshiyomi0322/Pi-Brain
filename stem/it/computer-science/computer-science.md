@@ -39,7 +39,7 @@
 - ### [Number System](./data-representation/number-system.md)
 - ### [Encoding](./data-representation/encoding.md)
 
-# Data Management
+# [Data Management](./data-management/data-management.md)
 - ### Data Management
 
 # History of Computing

@@ -16,7 +16,7 @@
 - ### Cascading Style Sheets (CSS)
 
 # Query Language
-- ### Structured Query Language (SQL)
+- ### [Structured Query Language (SQL)](./query-language/sql.md)
 
 # Data Serialization
 - ### Extensible Markup Language (XML)
