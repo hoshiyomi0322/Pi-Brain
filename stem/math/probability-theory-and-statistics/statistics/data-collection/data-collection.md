@@ -3,13 +3,7 @@
 - ### [Non-Probabilistic Sampling](./sampling/sampling-methods/non-probabilistic-sampling.md)
 
 # Bias
-- ### Selection Bias
-    - #### Sampling Bias
-    - #### Survivorship Bias
-    - #### Non-response Bias
-    - #### Self-Selection Bias
-- ### Information Bias
-    - #### Response Bias
-    - #### Social Desirability Bias
-- ### Confounding
-    - #### Confounder
+- ### [Selection Bias](bias/selection-bias.md)
+- ### [Information Bias](bias/information-bias.md)
+- ### [Confounding](bias/confounding.md)
+

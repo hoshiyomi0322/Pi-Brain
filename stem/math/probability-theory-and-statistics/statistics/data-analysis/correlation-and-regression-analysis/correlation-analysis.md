@@ -28,3 +28,4 @@
     - #### Nonlinear relationship
     - #### No relationship ([Independent](../../../probability-theory/conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events))
 
+# Spurious Relationship (Spurious Correlation)
