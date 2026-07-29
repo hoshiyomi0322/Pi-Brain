@@ -35,7 +35,7 @@
     - #### Corner 前投げ
 - ### 後ろ投げ
 
-# [OKI](../../street-fighter-6.md#oki)
+# [OKI](../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)

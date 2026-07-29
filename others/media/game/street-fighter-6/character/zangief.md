@@ -165,7 +165,7 @@
     - CDR + 2LP + [3MP Combo](#3mp-combo)
     - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)
 
-# [投げ](street-fighter-6.md#throw)
+# [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ

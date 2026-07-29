@@ -179,7 +179,7 @@
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [弾 OKI](#弾-oki-19f21f)
 
-# [OKI](../../street-fighter-6.md#oki)
+# [OKI](../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)

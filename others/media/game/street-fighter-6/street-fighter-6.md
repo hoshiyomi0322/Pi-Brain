@@ -225,11 +225,11 @@
 # Character
 - ### [JP](./character/jp/jp.md)
 - ### [Gouki](./character/gouki/gouki.md)
-- ### [Ryu](./character/ryu.md)
+- ### [Ryu](./character/ryu/ryu.md)
 - ### [Ken](./character/ken/ken.md)
 - ### [Aki](./character/aki/aki.md)
 - ### [Mai](./character/mai/mai.md)
-- ### [Terry](./character/terry.md)
+- ### [Terry](./character/terry/terry.md)
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)
 - ### [Lily](./character/lily/lily.md)
@@ -242,6 +242,7 @@
 - ### [Chunli](./character/chunli.md)
 - ### [Elena](./character/elena.md)
 - ### [Alex](./character/alex/alex.md)
+- ### [Sagat](./character/sagat.md)
 - ### [Viper](./character/viper.md)
 - ### [Ingrid](./character/ingrid/ingrid.md)
 
