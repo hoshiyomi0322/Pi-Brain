@@ -16,6 +16,7 @@
 # 必殺技, 特殊技 Combo
 - ### 高OD弾 Combo
     - 高OD弾 + SA1
+    - Close：高OD弾 + [6HK Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-air-combo)
 - ### 昇竜 Combo
     - #### 弱昇竜 Combo
         - 弱昇竜 + [SA3 Combo](#sa3-combo)
@@ -138,7 +139,7 @@
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
-    - 6HK + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
+    - 6HK(PC) + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -166,15 +167,14 @@
         - [弱迅雷 Combo](#弱迅雷-combo)/[中迅雷 Combo](#中迅雷-combo)
         - CDR + [DR 5MP Combo](#dr-5mp-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
-    - #### Midscreen 前投げ
-    - #### Corner 前投げ
+    - 前投げ + [弾 OKI](#弾-oki-19f21f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [弾 OKI](#弾-oki-19f21f)
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)
@@ -190,6 +190,7 @@
     - [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)
 - ### 42F OKI
     - 安全飛び
+    - 消費(前ステ) + [弾 OKI](#弾-oki-19f21f)
     - Close：消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 5MP 重ね (8F)
     - 5MP + [2MP Combo](#2mp-combo)
@@ -209,14 +210,14 @@
         - 強Tiger-knee
         - ガード(強Tiger-knee) + [6F OKI](#6f-oki)
         - 消費(弱Tiger-knee) + [投げ](#投げ)
+- ### 弾 OKI (19F~21F)
+    - [高OD弾 Combo](#高od弾-combo)
+    - その場受け身/Corner：[中迅雷 Combo](#中迅雷-combo)
 - ### 48F OKI
     - 消費(弱Tiger-knee) + [6F OKI](#6f-oki)
     - Corner
         - 消費(5HK) + [5MP 重ね](#5mp-重ね-8f)
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)
-- ### 弾 OKI (19F~21F)
-    - 弱弾/中弾/強弾
-    - [高OD弾 Combo](#高od弾-combo)
 
 # 対空
 - ### [昇竜 Combo](#昇竜-combo)

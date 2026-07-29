@@ -242,7 +242,7 @@
 - ### [Chunli](./character/chunli.md)
 - ### [Elena](./character/elena.md)
 - ### [Alex](./character/alex/alex.md)
-- ### [Sagat](./character/sagat.md)
+- ### [Sagat](./character/sagat/sagat.md)
 - ### [Viper](./character/viper.md)
 - ### [Ingrid](./character/ingrid/ingrid.md)
 
