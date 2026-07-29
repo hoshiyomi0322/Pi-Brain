@@ -125,7 +125,7 @@
 
 # Drive Gauge(ドライブゲージ)
 - ### Drive Impact (DI, インパクト)：26F, HP + HK
-    - #### Wall Splat (壁やられ)：guarding DI while they are near the corner
+    - #### Wall Splat (壁やられ)：blocking DI while they are near the corner
     - #### Stun：wall splat with BO
 - ### Drive Parry (Parry, パリィ)：MP + MK
     - #### Perfect Parry (ジャスパ, ジャストパリィ)
@@ -134,7 +134,7 @@
     - #### 生ラッシュ
     - #### ラッシュ止め (截綠衝)
 - ### OverDrive (OD)
-- ### Drive Reversal (Dリバ, ドライブリバーサル)：When Guard/Parry/Down, 6 + DI
+- ### Drive Reversal (Dリバ, ドライブリバーサル)：When Block/Parry/Down, 6 + DI
 - ### Burn Out (BO)
     - ### BO磨血：對手BO時，削減對手的血量
 - ### ドライブゲージを削る (打動力槽)：削減對手的動力槽

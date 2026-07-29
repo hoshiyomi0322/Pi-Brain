@@ -1,0 +1,26 @@
+# 4HP Combo
+- 4HP + 強Tiger-knee + [弱昇竜 Combo](../sagat.md#弱昇竜-combo)
+- 4HP + 中弾 + [6HK Air Combo](sagat-6hk-combo.md#6hk-air-combo)
+
+# DR 4HP Combo
+- (DR + 4HP) + 中迅雷強派生 + [6HK Highest-Air Combo](sagat-6hk-combo.md#6hk-highest-air-combo)
+
+# Corner 4HP Air Combo
+- (delay + 4HP) + 強Tiger-knee + [中昇竜 Combo](../sagat.md#中昇竜-combo)/SA1/[SA2 Combo](../sagat.md#sa2-combo)
+
+# DR 4HP Air Combo
+- (DR + delay + 4HP) + [溜め強昇竜 Combo](../sagat.md#溜め強昇竜-combo)
+- (DR + delay + 4HP) + 強Tiger-knee + [中昇竜 Combo](../sagat.md#中昇竜-combo)/SA1/[SA2 Combo](../sagat.md#sa2-combo)
+- [Midscreen DR 4HP SA1 Air Combo](#midscreen-dr-4hp-sa1-air-combo)
+
+# DR 4HP High-Air Combo
+- (DR + 4HP) + [溜め強昇竜 Combo](../sagat.md#溜め強昇竜-combo)
+- (delay + DR + 4HP) + 強Tiger-knee + [中昇竜 Combo](../sagat.md#中昇竜-combo)/SA1/[SA2 Combo](../sagat.md#sa2-combo)
+
+# Midscreen DR 4HP SA1 Air Combo
+- (DR + delay + 4HP) + 高OD弾*2 + SA1
+- (DR + delay + 4HP) + 高OD弾*3 + SA1
+
+# Midscreen DR 4HP SA1 High-Air Combo
+- (DR + 4HP) + 高OD弾*2 + SA1
+- (DR + 4HP) + 高OD弾*3 + SA1
