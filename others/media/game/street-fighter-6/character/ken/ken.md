@@ -126,13 +126,19 @@
     - DI(Stun) + (バクステ + 後跳) + (9 + Air-旋風腳) + OD迅雷強派生*3 + [強昇竜 Combo]()/(delay + SA1/SA2/SA3)
     - DI(Stun) + (バクステ + 後跳) + (9 + Air-旋風腳) + OD迅雷強派生/(OD迅雷強派生*2) + [強昇竜 Combo]()/SA1/SA2/SA3
 
+# [投げ](../street-fighter-6.md#throw)
+- ### 前投げ
+    - その場受け身/Corner：[5F打摔擇](#5f打摔擇)
+- ### 後ろ投げ
+    - #### C-Switch 後ろ投げ
+
 # [OKI](../../street-fighter-6.md#oki)
 - ### 5F打摔擇 (4F/5F)
     - ### 5F打摔擇 (後ろ歩き)
-        - 投げ/[5MP Combo]()
+        - [投げ](#投げ)/[5MP Combo]()
         - 後ろ歩き + [5HP PC Combo]()/[5HK PC Combo]()
     - ### 5F打摔擇 (バクステ)
-        - 投げ/[5MP Combo]()
+        - [投げ](#投げ)/[5MP Combo]()
         - バクステ + [5HP PC Combo]()
 - ### 5HP 重ね
     - ### 10F 5HP 重ね
