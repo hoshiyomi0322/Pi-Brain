@@ -69,6 +69,7 @@
     - #### Quarter Circle Forward (QCF)：236
     - #### Quarter Circle Back (QCB)：214
     - #### Z motion：623
+        - 2(Hold) + 66
     - #### Half Circle motion (HC, 180 motion)：624
     - #### 360 motion (G)：6248
     - #### Button hold (ボタンホールド)

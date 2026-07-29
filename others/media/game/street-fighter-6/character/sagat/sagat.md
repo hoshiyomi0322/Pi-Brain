@@ -27,26 +27,26 @@
     - #### 溜め強昇竜 Combo
         - 溜め強昇竜 + [SA3 Combo](#sa3-combo)
 - ### Tiger-knee Combo
-    - ### 弱Tiger-knee Combo
+    - #### 弱Tiger-knee Combo
         - 弱Tiger-knee + [36F Tiger-knee OKI](#36f-tiger-knee-oki)
         - 弱Tiger-knee + 消費(2MP) + [5MP 重ね](#5mp-重ね-8f)
-    - ### 中Tiger-knee Combo
+    - #### 中Tiger-knee Combo
         - 中Tiger-knee + [39F Tiger-knee OKI](#39f-tiger-knee-oki)
-    - ### 強Tiger-knee Combo
+    - #### 強Tiger-knee Combo
         - 強Tiger-knee + [SA3 Combo](#sa3-combo)
         - 強Tiger-knee + [42F OKI](#42f-oki)
-    - ### OD Tiger-knee Combo
+    - #### OD Tiger-knee Combo
         - OD Tiger-knee + [SA3 Combo](#sa3-combo)
         - その場受け身/Corner：OD Tiger-knee + 消費(強Tiger-knee) + [5MP 重ね](#5mp-重ね-8f)
         - Corner：OD Tiger-knee + [弱昇竜 Combo](#弱昇竜-combo)
 - ### 迅雷 Combo
-    - ### 弱迅雷 Combo
+    - #### 弱迅雷 Combo
         - 弱迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
-    - ### 中迅雷 Combo
+    - #### 中迅雷 Combo
         - 中迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
-    - ### 強迅雷 Combo
+    - #### 強迅雷 Combo
         - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
-    - ### OD迅雷 Combo
+    - #### OD迅雷 Combo
         - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
 - ### 迅雷派生 Combo
     - #### 弱派生 Combo
@@ -106,6 +106,7 @@
     - (DR + 2MP + 5HP) + [強昇竜 Combo](#強昇竜-combo)/SA1/[SA2 Combo](#sa2-combo)
     - (DR + 2MP + 5HP) + 弱Tiger-knee + [38F Tiger-knee OKI](#38f-tiger-knee-oki)
     - (DR + 2MP + 5HP) + 中Tiger-knee/強Tiger-knee + [42F OKI](#42f-oki)
+    - Corner：(DR + 2MP + 5HP) + OD Tiger-knee + [中昇竜 Combo](#中昇竜-combo)
 - ### DR 2MK Combo
     - (DR + 2MK) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### DR 6MP Combo
