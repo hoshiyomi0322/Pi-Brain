@@ -16,8 +16,9 @@
     - SA2 + 2MK + (前ステ + 5HP + 弱裂縫) + (前ステ + 5HP + 中弾) + (9 + JLK) + Reset(DI/コマ投げ)
     - SA2 + 2MK + (前ステ + 5HP + 強裂縫) + (前ステ + 5HP + 中弾) + (9 + JLK) + delay(等對手落地換邊) + 5MK + Reset(DI/コマ投げ)
 
-# 裂縫傳送 SA2 Reset
-- SA2 + (5MK + 強裂縫) + (前ステ + 5MK + 裂縫傳送) + [強TC Combo](../jp.md#強tc-combo)
+# Midscreen 裂縫傳送 SA2 Reset
+- SA2 + (5MK + 強裂縫) + (前ステ + 5MK + 裂縫傳送) + Reset([強TC Combo](../jp.md#強tc-combo))
+- SA2 + (5MK + 強裂縫) + (前ステ*2 + 裂縫傳送) + Reset([強TC Combo](../jp.md#強tc-combo))
 
 # 5LP DI SA2 Reset
 - ### Midscreen
@@ -30,14 +31,14 @@
 - SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)/[General Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-midscreen-裂縫-投げ擇)
     - 相手 パナシ：SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + (5HP + 弱地刺 + delay(等裂縫引爆) + 強地刺)
 
-# DI コマ投げ SA2
+# DI コマ投げ SA2 Reset
 - SA2 + (5MK + 弱裂縫) + 前ステ*2 + (9 + [F式](../jp.md#f式)) + (前ステ + 2LP) + Reset(DI/コマ投げ)
 - SA2 + (5MK + 5LP + 弱裂縫) + 9 + (5HP + 中弾 + 5LK) + Reset(DI/コマ投げ)
-- ### Midscreen DI コマ投げ SA2
+- ### Midscreen DI コマ投げ SA2 Reset
     - SA2 + (5MK + 強裂縫) + [強TC擇 Reset](../jp-special-move/jp-departure/jp-departure-mix-up.md#強tc擇-reset)
     - SA2 + (5MK + 弱裂縫) + (前ステ*2 + 9 + [F式](../jp.md#f式)) + (前ステ + 前歩き + 2LP) + Reset(DI/コマ投げ)
     - SA2 + (5MK + OD裂縫(中強)) + (5HP + 裂縫傳送(弱)) + (JLK + 4MP) + (前ステ + 5LK) + Reset(DI/コマ投げ)
-- ### Corner DI コマ投げ SA2
+- ### Corner DI コマ投げ SA2 Reset
     - SA2 + (2MK + 5MK + 5HP + 裂縫) + (DR + 2MP + 4MP) + (2LP + 5LP) + Reset(DI/コマ投げ)
     - SA2 + (2MK + 5HP + 裂縫) + (前ステ + 5HP + 中弾 + 2LP) + Reset(DI/コマ投げ)
     - SA2 + (2MK + 前ステ + 2HP + OD裂縫) + (前ステ + 中弾 + 2LP) + Reset(DI)
