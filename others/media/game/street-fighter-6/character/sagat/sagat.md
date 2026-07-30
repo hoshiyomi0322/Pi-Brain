@@ -16,14 +16,18 @@
 # 必殺技, 特殊技 Combo
 - ### 高OD弾 Combo
     - 高OD弾 + SA1
+    - 高OD弾 + 前ステ*2
     - Close：高OD弾 + [6HK Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-air-combo)
 - ### 昇竜 Combo
     - #### 弱昇竜 Combo
         - 弱昇竜 + [SA3 Combo](#sa3-combo)
+        - Corner：弱昇竜 + 消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 中昇竜 Combo
-        - 中昇竜 + [SA3 Combo](#sa3-combo)/[5F打摔擇](#5f打摔擇-4f5f)
+        - 中昇竜 + [SA3 Combo](#sa3-combo)
+        - その場受け身/Corner：中昇竜 + 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 強昇竜 Combo
-        - 強昇竜 + [SA3 Combo](#sa3-combo)/[5F打摔擇](#5f打摔擇-4f5f)
+        - 強昇竜 + [SA3 Combo](#sa3-combo)
+        - その場受け身/Corner：強昇竜 + 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 溜め強昇竜 Combo
         - 溜め強昇竜 + [SA3 Combo](#sa3-combo)
 - ### Tiger-knee Combo
@@ -82,8 +86,10 @@
     - 5HK + [強迅雷 Combo](#強迅雷-combo)
     - 5HK + delay(等第二下打完) + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### Corner DR 5HK Air Combo
-    - (DR + 5HK + delay(等第二下打完)) + (DR + [Corner 4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#corner-4hp-air-combo))
-    - (DR + 5HK + delay(等第二下打完)) + (CDR + 5HK + delay(等第二下打完)) + (DR + [Corner 4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#corner-4hp-air-combo))
+    - (DR + 5HK + delay(等第二下打完)) + (CDR + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo))
+    - (DR + 5HK + delay(等第二下打完)) + (CDR + 5HK + delay(等第二下打完)) + (CDR + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo))
+- ### Corner DR 5HK High-Air Combo
+    - (DR + 5HK) + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -114,7 +120,7 @@
 
 # Light Attack Combo
 - ### 5LP Combo
-    - 5LP*2 + [Light Cancel Combo](#light-cancel-combo)
+    - 5LP*2 + [Light Cancel Combo](#light-cancel-combo)/[弱迅雷 Combo](#弱迅雷-combo)
 - ### 2LP Combo
     - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
 - ### 5LK Combo
@@ -125,6 +131,8 @@
     - Close：6LK + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 2LP Combo
     - (DR + 2LP) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
+- ### DR 6LK Combo
+    - (DR + 6LK) + [2MP Combo](#2mp-combo)
 
 # Jump Attack Combo
 - ### JHK Air Combo
@@ -144,7 +152,9 @@
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + 前ステ + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
 - ### Wall Splat Combo
+    - DI(Wall spalt) + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
 - ### Stun Combo
 
 # Cancel Combo
@@ -162,7 +172,7 @@
         - CDR + [DR 5MP Combo](#dr-5mp-combo)
 - ### Light Cancel Combo
     - [中昇竜 Combo](#中昇竜-combo)
-    - [弱迅雷 Combo](#弱迅雷-combo)/[弱Tiger-knee Combo](#弱tiger-knee-combo)
+    - [弱Tiger-knee Combo](#弱tiger-knee-combo)
     - CDR + [DR 2LP Combo](#dr-2lp-combo)
     - ガード後
         - [弱迅雷 Combo](#弱迅雷-combo)/[中迅雷 Combo](#中迅雷-combo)
