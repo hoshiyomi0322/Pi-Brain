@@ -277,6 +277,7 @@
 - ### 48F OKI
     - 消費(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
     - その場受け身/Corner：消費(弱Tiger-knee) + [6F OKI](#6f-oki)
+    - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - Corner
         - 消費(5HK) + [5MP 重ね](#5mp-重ね-8f)
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)
