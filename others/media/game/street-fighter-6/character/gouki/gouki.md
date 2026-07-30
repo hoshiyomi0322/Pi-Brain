@@ -112,7 +112,7 @@
     - (DR + 2MP) + [5HP Combo]()
     - Close：(DR + 2MP) + [2HP Combo]()
 - ### DR 5MK Combo
-    - (DR + 5MK + 5HK) + [強旋風腳 Combo]()/SA1/SA2/[弱昇竜 Combo]()
+    - (DR + 5MK + 5HK) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
 - ### DR 2MK Combo
     - (DR + 2MK) + [CDR Combo]()/[旋風腳 Combo]()/[灼火 Combo]()
 - ### DR 6MP Combo
@@ -190,7 +190,7 @@
         - (9 + JMP + OD Air 旋風腳) + [強昇竜 Combo]()/SA1/[SA2 Combo]()/[弱昇竜 Combo]()
     - #### Corner JMP Air Combo
         - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
-        - (9 + JMP + Air SA1) + (delay + SA1/SA2)
+        - (9 + JMP + Air SA1) + (delay + SA1/[SA2 Combo](gouki.md#sa2-combo))
         - (9 + JMP + OD空弾) + [強旋風腳 Air Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
         - (9 + JMP + OD Air 旋風腳) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 - ### JHP Combo

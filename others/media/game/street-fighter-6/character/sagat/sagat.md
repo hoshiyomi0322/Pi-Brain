@@ -21,13 +21,19 @@
 - ### 昇竜 Combo
     - #### 弱昇竜 Combo
         - 弱昇竜 + [SA3 Combo](#sa3-combo)
-        - Corner：弱昇竜 + 消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
+        - その場受け身/Corner：弱昇竜 + [32F 強迅雷 OKI](#32f-強迅雷-oki-32f33f)
     - #### 中昇竜 Combo
         - 中昇竜 + [SA3 Combo](#sa3-combo)
-        - その場受け身/Corner：中昇竜 + 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+        - その場受け身/Corner：中昇竜 + [28F 強迅雷 OKI](#28f-強迅雷-oki-27f28f)
     - #### 強昇竜 Combo
         - 強昇竜 + [SA3 Combo](#sa3-combo)
-        - その場受け身/Corner：強昇竜 + 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 強昇竜 + [28F 強迅雷 OKI](#28f-強迅雷-oki-27f28f)
+    - #### 弱昇竜 Air Combo
+        - 弱昇竜 + [SA3 Combo](#sa3-combo)
+        - その場受け身/Corner：弱昇竜 + [34F 強迅雷 OKI](#34f-強迅雷-oki)
+    - #### 中昇竜 Air Combo
+        - 中昇竜 + [SA3 Combo](#sa3-combo)
+        - その場受け身/Corner：中昇竜 + [29F 強迅雷 OKI](#29f-強迅雷-oki)
     - #### 溜め強昇竜 Combo
         - 溜め強昇竜 + [SA3 Combo](#sa3-combo)
 - ### Tiger-knee Combo
@@ -53,11 +59,12 @@
     - #### OD迅雷 Combo
         - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
     - #### 迅雷 Counter Combo
-        - (弱迅雷/中迅雷)(Counter) + [派生 Counter Combo](#派生-counter-combo)
+        - (弱迅雷/中迅雷)(Counter) + [Counter 派生 Combo](#counter-派生-combo)
 - ### 迅雷派生 Combo
     - #### 弱派生 Combo
         - 弱派生 + [SA3 Combo](#sa3-combo)
         - 弱派生 + [3F打摔擇](#3f打摔擇-2f3f)
+        - 弱派生(Counter) + [DI OKI](#di-oki-25f26f)
     - #### 中派生 Combo
         - 中派生 + [SA3 Combo](#sa3-combo)
         - 中派生 + [48F OKI](#48f-oki)
@@ -67,7 +74,7 @@
         - 強派生 + [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
         - 強派生 + 消費(強Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
         - ガード(強派生) + [3F打摔擇](#3f打摔擇-2f3f)
-    - #### 派生 Counter Combo
+    - #### Counter 派生 Combo
         - 弱派生 + [中昇竜 Combo](#中昇竜-combo)/[SA2 Combo](#sa2-combo)
         - その場受け身/Corner
             - 弱派生 + 消費(弱Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -167,11 +174,11 @@
 - ### DI PC Combo
     - DI(PC) + 前ステ + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
     - DI(PC) + 前ステ + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
-    - DI(PC) + 前ステ + (DR + 5HK + 5LP/2LP/5LK) + Reset (DI)
+    - DI(PC) + 前ステ + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
     - DI(Wall spalt) + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
-    - DI(Wall spalt) + (DR + 5HK + 5LP/2LP/5LK) + Reset (DI)
+    - DI(Wall spalt) + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Stun Combo
 
 # Cancel Combo
@@ -219,10 +226,6 @@
     - 6MP + [2LP Combo](#2lp-combo)
 - ### 6HK OKI (15F)
     - [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)
-- ### 42F OKI
-    - 安全飛び
-    - 消費(前ステ) + [Close 弾 OKI](#close-弾-oki)
-    - Close：消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 5MP 重ね (8F)
     - 5MP + [2MP Combo](#2mp-combo)
     - ガード(5MP) + [6F OKI](#6f-oki)
@@ -247,6 +250,30 @@
         - その場受け身/Corner：[中迅雷 Combo](#中迅雷-combo)
     - #### Far 弾 OKI
         - 中弾/[高OD弾 Combo](#高od弾-combo)
+        - 中Tiger-knee + 消費(前ステ) + [中迅雷 Combo](#中迅雷-combo)
+        - ガード(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 強迅雷 OKI (25F~33F)
+    - #### 28F 強迅雷 OKI (27F/28F)
+        - [強迅雷 Combo](#強迅雷-combo)
+        - その場受け身/Corner：消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+    - #### 29F 強迅雷 OKI
+        - [強迅雷 Combo](#強迅雷-combo)
+        - その場受け身/Corner
+            - 消費(前ステ) + [6F OKI](#6f-oki)
+            - 消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - #### 32F 強迅雷 OKI (32F/33F)
+        - [強迅雷 Combo](#強迅雷-combo)
+        - Corner：消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - #### 34F 強迅雷 OKI
+        - [強迅雷 Combo](#強迅雷-combo)
+        - Corner：消費(2MP) + [6F OKI](#6f-oki)
+    - #### DI OKI (25F/26F)
+        - DI
+        - [強迅雷 Combo](#強迅雷-combo)
+- ### 42F OKI
+    - 安全飛び
+    - 消費(前ステ) + [Close 弾 OKI](#close-弾-oki)
+    - Close：消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 48F OKI
     - 消費(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
     - その場受け身/Corner：消費(弱Tiger-knee) + [6F OKI](#6f-oki)

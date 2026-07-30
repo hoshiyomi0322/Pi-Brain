@@ -22,7 +22,7 @@
 - DR + [4HK Combo]()
 - Mid Near-wall：SA1
 - ### Corner 溜め弾後 Combo
-    - [強旋風腳 Air Combo]()/SA1/SA2/[弱昇竜 Combo]()
+    - [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
 
 # OD溜め弾 Combo
 - OD溜め弾 + SA1
