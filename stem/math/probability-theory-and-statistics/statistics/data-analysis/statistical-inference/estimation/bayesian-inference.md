@@ -1,5 +1,5 @@
 # Bayesian Inference
-- ### [Bayes' Theorem](../../../probability-theory/conditional-probability/conditional-probability.md#bayes-theorem)
+- ### [Bayes' Theorem](../../../../probability-theory/conditional-probability/conditional-probability.md#bayes-theorem)
 - ### Likelihood Function：$`P\left(Χ|θ\right)`$
 - ### Prior Distribution：$`P\left(θ\right)`$
 - ### Posterior Distribution：$`P\left(θ|X\right) = \frac{P\left(X|θ\right)P\left(θ\right)}{P\left(X\right)}`$

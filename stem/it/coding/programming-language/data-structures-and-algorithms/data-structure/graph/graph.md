@@ -4,6 +4,8 @@
 - ### Directed Graph
 
     - ### [Tree Data Structure](./tree/tree.md)
+    - ### Directed Acyclic Graph (DAG)
+        <img src="./image/dag.png" width="40%">
 - ### [Regular Graph](#regular-graph-1)
     - ### Complete Graph
 - ### Weighted Graph：edges have edge weight

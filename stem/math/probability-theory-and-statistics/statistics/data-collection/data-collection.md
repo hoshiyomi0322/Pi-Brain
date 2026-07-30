@@ -5,5 +5,3 @@
 # Bias
 - ### [Selection Bias](bias/selection-bias.md)
 - ### [Information Bias](bias/information-bias.md)
-- ### [Confounding](bias/confounding.md)
-

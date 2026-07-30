@@ -43,12 +43,12 @@
         - $`σ^2`$ = [Population Variance](../statistics/variance.md#variance)
         - $`σ`$ = [Population Standard Deviation](../statistics/descriptive-statistics.md#standard-deviation-sd)
     - ### [Sampling Distribution](../statistics/data-collection/sampling/sampling.md#sampling-distribution) of the mean ([Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution))：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)`$
-        - $\overline{X}$ = [Sample Mean](../statistics/statistical-inference/estimation/point-estimation/estimator.md#sample-mean)
+        - $\overline{X}$ = [Sample Mean](../statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator.md#sample-mean)
         - $`n`$ = Sample Size
     - ### [Standard Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#standard-normal-distribution-)：$`Z\sim N\left(0,~1\right)`$
         - ### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$`\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right) \overset{Standardize}{\longrightarrow} Z\sim N\left(0,~1\right)`$
         - ### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$`Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}`$
-            - $`SE`$ = [Standard Error (SE)](../statistics/statistical-inference/estimation/point-estimation/estimator.md#standard-error-se)
+            - $`SE`$ = [Standard Error (SE)](../statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator.md#standard-error-se)
 - ### Law of Large Numbers
 
 # Random Process (Stochastic Process)
