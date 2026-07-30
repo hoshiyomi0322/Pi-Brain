@@ -6,6 +6,7 @@
 
 # DR 4HP Combo
 - (DR + 4HP) + 中迅雷強派生 + [6HK Highest-Air Combo](sagat-6hk-combo.md#6hk-highest-air-combo)
+- その場受け身/Corner：(DR + 4HP) + 中迅雷弱派生 + [6MP 重ね](#6mp-重ね-22f23f)
 
 # 4HP Air Combo
 - 4HP + [溜め強昇竜 Combo](../sagat.md#溜め強昇竜-combo)
