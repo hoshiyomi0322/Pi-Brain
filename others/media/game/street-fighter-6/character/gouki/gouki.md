@@ -161,7 +161,7 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (8 + JHP) + [Air DR Combo]()
-    - DI(PC) + 前ステ + [4HK Combo]()/[HP Air Combo]()
+    - DI(PC) + 前ステ + [4HK Combo]()/[5HP Air Combo]()
 - ### Wall Splat Combo
     - DI(Wall spalt) + [Corner 6HP Air Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo]()
     - DI(Wall spalt) + (5MP*2 + [Corner Air OD灼火 Combo]())
@@ -186,7 +186,7 @@
 - ### JMP Air Combo
     - #### Midscreen JMP Air Combo
         - (9 + JMP + 空弾) + [Air DR Combo]()/SA1
-        - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo]()/[HP Air Combo]())
+        - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo]()/[5HP Air Combo]())
         - (9 + JMP + OD Air 旋風腳) + [強昇竜 Combo]()/SA1/[SA2 Combo]()/[弱昇竜 Combo]()
     - #### Corner JMP Air Combo
         - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
@@ -260,6 +260,12 @@
         - Corner
             - 前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
             - 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+- ### 42F OKI
+    - 安全飛び
+    - (前ステ + 前ステ) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(2LK) + Reset(DI)
+    - その場受け身/Corner：前ステ + [6MP 重ね](#6mp-重ね-22f23f)
+    - Corner：消費(2MK) + [12F 5HP 重ね](#12f-5hp-重ね)
 - ### 45F OKI
     - 中旋風腳 + 消費(弱旋風腳) + [5F打摔擇 (バクステ)]()
     - 中旋風腳 + 消費(前ステ) + [DI OKI](#di-oki-25f26f)
@@ -311,7 +317,7 @@
 
 # DR Combo
 - ### Air DR Combo
-    - DR + [4HK Combo]()/[HP Air Combo]()
+    - DR + [4HK Combo]()/[5HP Air Combo]()
     - [DR中腳 Combo]()
 - ### Corner High-Air DR Combo
     - DR + 6MK + [Corner 4HK Combo]()

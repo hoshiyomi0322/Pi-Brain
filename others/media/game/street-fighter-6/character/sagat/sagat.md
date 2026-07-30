@@ -166,8 +166,11 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + 前ステ + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
+    - DI(PC) + 前ステ + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
+    - DI(PC) + 前ステ + (DR + 5HK + 5LP/2LP/5LK) + Reset (DI)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
+    - DI(Wall spalt) + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
     - DI(Wall spalt) + (DR + 5HK + 5LP/2LP/5LK) + Reset (DI)
 - ### Stun Combo
 
@@ -226,26 +229,27 @@
     - Close：5MP + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### Tiger-knee OKI
     - #### 36F Tiger-knee OKI
-        - 強Tiger-knee
+        - 強Tiger-knee + [42F OKI](#42f-oki)
         - ガード(強Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
         - 消費(弱Tiger-knee) + [投げ](#投げ)
     - #### 38F Tiger-knee OKI
-        - 強Tiger-knee
+        - 強Tiger-knee + [42F OKI](#42f-oki)
         - ガード(強Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(弱Tiger-knee) + [投げ](#投げ)
         - 消費(前ステ) + [6HK OKI](#6hk-oki-15f)
     - #### 39F Tiger-knee OKI
-        - 強Tiger-knee
+        - 強Tiger-knee + [42F OKI](#42f-oki)
         - ガード(強Tiger-knee) + [6F OKI](#6f-oki)
         - 消費(弱Tiger-knee) + [投げ](#投げ)
 - ### 弾 OKI (19F~21F)
     - #### Close 弾 OKI
-        - [高OD弾 Combo](#高od弾-combo)
+        - 中弾/[高OD弾 Combo](#高od弾-combo)
         - その場受け身/Corner：[中迅雷 Combo](#中迅雷-combo)
     - #### Far 弾 OKI
-        - [高OD弾 Combo](#高od弾-combo)
+        - 中弾/[高OD弾 Combo](#高od弾-combo)
 - ### 48F OKI
-    - 消費(弱Tiger-knee) + [6F OKI](#6f-oki)
+    - 消費(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
+    - その場受け身/Corner：消費(弱Tiger-knee) + [6F OKI](#6f-oki)
     - Corner
         - 消費(5HK) + [5MP 重ね](#5mp-重ね-8f)
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)

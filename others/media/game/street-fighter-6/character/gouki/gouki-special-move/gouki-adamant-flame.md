@@ -10,14 +10,14 @@
 - 前面 Combo≤2段：中灼火 + SA3
 - 前面 Combo>2段：中灼火派生 + SA3
 - 中灼火 + [3F打摔擇]()
-- 中灼火派生 + [32F OKI](gouki.md#32f-oki)
+- 中灼火派生 + [32F OKI](../gouki.md#32f-oki)
 
 # 強灼火 Combo
 - 強灼火 + 瞬獄殺
 - 前面 Combo≤2段：強灼火 + SA3
 - 前面 Combo>2段：強灼火派生 + SA3
 - 強灼火 + [3F打摔擇]()
-- 強灼火派生 + [Far 47F OKI](gouki.md#far-47f-oki)
+- 強灼火派生 + [Far 47F OKI](../gouki.md#far-47f-oki)
 - ### Midscreen 強灼火 Combo
     - 強灼火派生 + [百鬼襲 Combo(強)]()
     - 強灼火派生 + 強溜め弾1 + [溜め弾後 Combo]()
@@ -29,7 +29,7 @@
 - 前面 Combo>2段：OD灼火派生 + [SA2 Combo]()/SA3/瞬獄殺
 - ### Midscreen OD灼火 Combo
     - OD灼火派生 + (中弾 + [DR 2LK Combo]()/[DR 6MP Combo]())
-    - OD灼火派生 + (前阿修羅 + [12F 5HP 重ね](gouki.md#12f-5hp-重ね)/(delay + [投げ]())/瞬獄殺)
+    - OD灼火派生 + (前阿修羅 + [12F 5HP 重ね](../gouki.md#12f-5hp-重ね)/(delay + [投げ]())/瞬獄殺)
 - ### QQH OD灼火 Combo
     - OD灼火派生 + (DR + [Corner Air 6HP Combo]())
     - OD灼火派生 + (DR + 6HP + 5LK) + Reset(DI)
