@@ -32,7 +32,7 @@
 - [General 4HK Combo]()
 - [4HKOD溜め弾 Combo]()
 - (4HK + 弱弾) + SA1
-- (4HK + 弱弾) + (DR + [HP Air Combo]())
+- (4HK + 弱弾) + (DR + [5HP Air Combo]())
 
 ### C-Switch 4HK Combo
 
