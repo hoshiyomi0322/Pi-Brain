@@ -2,6 +2,7 @@
 - 4HP + 強Tiger-knee + [弱昇竜 Combo](../sagat.md#弱昇竜-combo)
 - Midscreen/Near-corner：4HP + 中弾 + [6HK Air Combo](sagat-6hk-combo.md#6hk-air-combo)
 - Corner：4HP + [Corner DR 5HK High-Air Combo](../sagat.md#corner-dr-5hk-high-air-combo)
+- 4HP(相打ち) + [4HP Air Combo](#4hp-air-combo)
 
 # DR 4HP Combo
 - (DR + 4HP) + 中迅雷強派生 + [6HK Highest-Air Combo](sagat-6hk-combo.md#6hk-highest-air-combo)
