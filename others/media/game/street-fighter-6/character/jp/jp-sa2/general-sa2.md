@@ -45,7 +45,7 @@
     - SA2 + (2HP + OD裂縫) + (4MP + 5MP + 2MP) + Reset(DI)
 
 # 投げ SA2 Reset
-- SA2 + (2MK + 5HP + 2MP + delay + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
+- SA2 + (2MK + 5HK + 2MP + delay(no cancel) + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
 - SA2 + (5MK*2 + 2MK + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
 - ### C-Switch 投げ SA2 Reset
     - SA2 + (5MK*2 + 2MK + 弱裂縫) + Reset(後ろ投げ) + [Corner DR 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#corner-dr-裂縫引爆-combo)

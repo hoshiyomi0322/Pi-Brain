@@ -114,7 +114,7 @@
     - 8/9 + ガード(JHK) + (delay + [投げ](#投げ))
     - Switch：8/9 + JHK/ガード(JHK) + (9 + [F式](#f式))
 - ### Corner JHK High-Air Combo
-    - 8 + JHK + Reset(DI/コマ投げ)
+    - 9 + JHK + Reset(DI/コマ投げ)
 - ### JMK Combo
     - 8/9 + JMK + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)
     - 8/9 + ガード(JMK) + (delay + [投げ](#投げ))

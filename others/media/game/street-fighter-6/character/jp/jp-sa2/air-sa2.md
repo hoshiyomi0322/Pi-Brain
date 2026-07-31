@@ -75,6 +75,6 @@
     - SA2 + (弱風神 + 中風神) + 消費(2MK) + OD裂縫 + 安全飛び([General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇))
 
 # BTW OD当身 SA2 Combo
+- [General SA2 Combo(2MK起始)](general-sa2.md)
 - [Midscreen 弱風神 SA2 Reset](general-sa2.md#midscreen-弱風神-sa2-reset)
 - SA2 + (9 + 中風神) + [Corner DI SA2 Αir Reset](#corner-di-sa2-αir-reset)
-

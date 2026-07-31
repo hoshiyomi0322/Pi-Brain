@@ -42,7 +42,7 @@
 # Corner 裂縫 Extension Combo
 - ### Close Corner 裂縫 Extension Combo
     - ### Corner 裂縫 中下擇
-        - (2HP + 中弾/強弾 + 5LP) + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+        - (2HP + 中弾/強弾 + 5LP) + [Corner JMK High-Air Combo](../../jp.md#corner-jmk-high-air-combo)
         - (2HP + 中弾/強弾 + 5LP) + (delay(等裂縫引爆) + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
         - ガード(2HP + 中弾/強弾) + 6MK/2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - ### Corner 裂縫 弱風神
@@ -129,7 +129,7 @@
     - OD裂縫 + ガード(5HK + 5HP) + (裂縫傳送(弱) + JMK) + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - OD裂縫 + (5HK + 5HP + 中弾) + 消費(2LP) + (6HK + 地刺 + [Corner 裂縫 投げ擇](#corner-裂縫-投げ擇))
 - ### Corner OD裂縫 傳送擇
-    - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+    - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [Corner JMK High-Air Combo](../../jp.md#corner-jmk-high-air-combo)
     - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + (裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
     - OD裂縫 + 裂縫傳送(弱) + ガード(JMK) + 2LK*2/6MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - OD裂縫 + 裂縫傳送(弱) + ガード(JMK + 2LK*2) + (前歩き + [Corner 前投げ](../../jp.md#corner-前投げ)/[強TC Combo](../../jp.md#強tc-combo))
@@ -140,7 +140,7 @@
         - OD裂縫 + (裂縫傳送(弱) + JMK) + (前歩き + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
         - OD裂縫 + (裂縫傳送(弱) + JMK) + (delay + [DR 6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#dr-6hk-air-combo))
     - #### 相手 パナシ
-        - OD裂縫 + (裂縫傳送(弱) + JMK) + delay + 2HP(PC) + [Corner JMK High-Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-high-air-combo)
+        - OD裂縫 + (裂縫傳送(弱) + JMK) + delay + 2HP(PC) + [Corner JMK High-Air Combo](../../jp.md#corner-jmk-high-air-combo)
         - OD裂縫 + (裂縫傳送(弱) + JMK) + delay + 2HP(PC) + (裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
     - #### 相手 Dリバ
         - OD裂縫 + (裂縫傳送(弱) + JMK) + 2HP + [強風神 Combo](../jp-stribog.md#強風神-combo)

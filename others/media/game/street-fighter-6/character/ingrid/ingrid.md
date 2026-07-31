@@ -76,6 +76,9 @@
     - 相手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
     - 相手 Parry：強溜め弾 + [投げ](#投げ)
 
+# Dリバ
+- Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
+- Close：Dリバ + [23F 6MP 重ね](#23f-6mp-重ね)
 
 # [対空](../street-fighter-6.md#anti-air)
 - ### [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
