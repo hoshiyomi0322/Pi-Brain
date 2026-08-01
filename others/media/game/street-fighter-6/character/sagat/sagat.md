@@ -294,7 +294,7 @@
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)
 
 # 対空
-- ### [昇竜 Combo](#昇竜-combo)
-- ### [JHK Air Combo](#jhk-air-combo)
-- ### [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
-- ### [Mid 5HK Air Combo](#mid-5hk-air-combo)
+- [昇竜 Combo](#昇竜-combo)
+- [JHK Air Combo](#jhk-air-combo)
+- [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
+- [Mid 5HK Air Combo](#mid-5hk-air-combo)
