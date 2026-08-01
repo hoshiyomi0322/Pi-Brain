@@ -20,9 +20,9 @@
 # Medium Attack Combo
 - ### 5MP Combo
 - ### DR 5MP Combo
-    - DR + (5MP + 5HK + 5HK) + Reset (DI)
+    - DR + (5MP + 5HK + 5HK) + [DI OKI](#di-oki-25f26f)
 - ### 5MP Air Combo
-    - (5MP + 5HK + 5HK) + Reset (DI)
+    - (5MP + 5HK + 5HK) + [DI OKI](#di-oki-25f26f)
     - (5MP + 5MK + 5MP) + 消費(5LP) + [6HP 重ね](#6hp-重ね-23f)
 - ### DR 5MP Air Combo
     - DR + [5MP Air Combo](#5mp-air-combo)
@@ -44,7 +44,7 @@
     - DI(PC) + 前ステ + [5MP Air Combo](#5mp-air-combo)/[DR 5MP Air Combo](#dr-5mp-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (delay + [5MP Air Combo](#5mp-air-combo))
-    - DI(Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset (DI)
+    - DI(Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset(DI)
 - ### Stun Combo
 
 # [投げ](../street-fighter-6.md#throw)
@@ -53,6 +53,8 @@
     - #### Corner 前投げ
         - 前投げ + [Quick-burn OKI](#quick-burn-oki-22f)
 - ### 後ろ投げ
+    - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [弱Crack-shoot OKI](#弱crack-shoot-oki-18f)
 
 # [OKI](../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -66,18 +68,23 @@
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 5HP OKI (8F~11F)
+- ### 5HP OKI (6F~11F)
     - [5HP Combo](#5hp-combo)
+- ### DI OKI (25F~26F)
+    - DI
+    - 前ステ + [5HP OKI](#5hp-oki-6f11f)
 - ### 強弾 OKI
     - ### 28F 強弾 OKI (27F~29F)
         - [強弾 Combo](terry-special-move.md#強弾-combo)
-        - 前ステ + [5HP OKI](#5hp-oki-8f11f)
+        - 前ステ + [5HP OKI](#5hp-oki-6f11f)
         - Corner：消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - ### 30F 強弾 OKI
         - [強弾 Combo](terry-special-move.md#強弾-combo)
-        - 前ステ + [5HP OKI](#5hp-oki-8f11f)
+        - 前ステ + [5HP OKI](#5hp-oki-6f11f)
         - [DR 6HP Combo](#dr-6hp-combo)
         - Corner：消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 弱Crack-shoot OKI (18F)
+    - [弱Crack-shoot Combo](terry-special-move.md#弱crack-shoot-combo)
 - ### Quick-burn OKI (22F)
     - [Quick-burn Combo](terry-special-move.md#quick-burn-combo)
     - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)

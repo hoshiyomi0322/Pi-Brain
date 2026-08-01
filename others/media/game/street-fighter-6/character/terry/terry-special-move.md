@@ -1,6 +1,7 @@
 # 昇竜 Combo
 - ### 中昇竜 Combo
-    - 中昇竜 + SA3/DI
+    - 中昇竜 + SA3
+    - 中昇竜 + [DI OKI](terry.md#di-oki-25f26f)
 - ### 強昇竜 Combo
     - 強昇竜 + [28F 強弾 OKI](terry.md#28f-強弾-oki)
 # 昇竜 Air Combo
@@ -40,6 +41,8 @@
 - ### OD Power-charge Combo
 
 # Crack-shoot Combo
+- ### 弱Crack-shoot Combo
+    - 弱Crack-shoot + [3F打摔擇](terry.md#3f打摔擇-2f3f)
 - ### 強Crack-shoot Combo
     - 強Crack-shoot + [42F OKI](terry.md#42f-oki)
 
