@@ -41,6 +41,7 @@
     - #### Corner 4HK Combo
         - (4HK + 5HK) + [中昇竜 Combo]()/SA1
 - ### DR 5HP Combo
+    - DR + [5HP Combo]()
     - DR + 5HP + OD溜め弾 + [5HP Combo]()
 - ### DR 4HK Combo
     - DR + 4HK + [2MP Combo](#2mp-combo)
@@ -83,14 +84,13 @@
 
 # Counter Combo
 
-# PC
+# PC Combo
 - ### Light Attack PC Combo
 - ### Medium Attack PC Combo
 - ### Heavy Attack PC Combo
-    - 2HK(PC) + (前ステ + 2MP) + [5F打摔擇(後ろ歩き)]()
+    - 2HK(PC) + 消費(前ステ + 2MP) + [5F打摔擇(後ろ歩き)]()
     - #### 5HP PC Combo
-        - 5HP(PC) + OD溜め弾(帶火) + (9 + [JHK Combo]())
-        - 5HP(PC) + OD溜め弾 + [5HP Combo]()
+        - 5HP(PC) + [OD溜め弾 Combo](mai-special-move.md#od溜め弾-combo)
     - #### 5HK PC Combo
         - Close：5HK(PC) + [5HP Air Combo](#5hp-air-combo)
         - Far：5HK(PC) + (DR + [5HP Air Combo](#5hp-air-combo))
@@ -141,6 +141,11 @@
         - バクステ + [5HP PC Combo](#5hp-pc-combo)
     - #### Shimmy (後ろ歩き)
         - 後ろ歩き + [5HP PC Combo](#5hp-pc-combo)/[5HK PC Combo](#5hk-pc-combo)
+- ### 5HP OKI (9F/10F)
+    - [5HP Combo]()
+- ### OD溜め弾 OKI (27F~30F)
+    - Midscreen：中弾
+    - その場受け身/Corner：[OD溜め弾 Combo](mai-special-move.md#od溜め弾-combo)
 
 # todo
 - https://www.youtube.com/watch?v=2nqeLIbdOPg
