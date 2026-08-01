@@ -11,7 +11,7 @@
     - #### OD Psycho-crusher Combo with Bomb
         - OD Psycho-crusher(with Bomb) + (5HP + SA1/SA2/SA3)
         - (OD Psycho-crusher(with Bomb) + OD踩頭) + (5HP + SA1/SA2/SA3)
-        - (OD Psycho-crusher(with Bomb) + OD踩頭) + (5HP + [消費](../../street-fighter-6.md#frame-kill)(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
+        - (OD Psycho-crusher(with Bomb) + OD踩頭) + (5HP + 消費(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
         - OD Psycho-crusher(with Bomb) + (DR + 5MP) + [6HP High-Air Combo](vega.md#6hp-high-air-combo)
 
 # 剪刀腳 Combo
@@ -34,6 +34,7 @@
 # 埋炸彈 Combo
 - ### 弱埋炸彈 Combo
 - ### 中埋炸彈 Combo
+    - Corner：中埋炸彈 + 消費(2LK) + [5F打摔擇](vega.md#5f打摔擇-4f5f)
 - ### 強埋炸彈 Combo
 - ### OD埋炸彈 Combo
     - OD埋炸彈 + SA2/SA3
