@@ -1,0 +1,86 @@
+# Command
+- ### 頭槌：4(溜め) + 6P
+- ### 百貫落：2(溜め) + 8P
+- ### コマ投げ：624K
+- ### 百裂掌：214P
+- ### 相撲ステ：236K
+    - #### 相撲ステ鉄砲：236K + P
+        - #### 相撲ステ鉄砲派生：236K + P + P
+    - #### 相撲ステ大砲：236K + 4P
+- ### 拍掌：22P
+- ### 曬太陽：22K
+
+# 必殺技, 特殊技 Combo
+- ### [必殺技, 特殊技 Combo](honda-special-move.md)
+
+# Heavy Attack Combo
+- ### 5HP Air Combo
+    - 5HP + [百裂掌 Air Combo](honda-special-move.md#百裂掌-air-combo)
+    - 5HP + [相撲ステ鉄砲 Combo](honda-special-move.md#相撲ステ鉄砲-combo)
+- ### 5HP High-Air Combo
+    - 5HP + [弱百裂掌 Air Combo](honda-special-move.md#弱百裂掌-air-combo)/[強百裂掌 High-Air Combo](honda-special-move.md#強百裂掌-high-air-combo)
+    - 5HP + [相撲ステ鉄砲 Air Combo](honda-special-move.md#相撲ステ鉄砲-air-combo)
+- ### 2HP Combo
+    - 2HP + [打摔擇](#打摔擇-2f5f)
+- ### 3HK Combo
+    - 3HK + コマ投げ
+- ### 3HK Air Combo
+    - 3HK + 5HK + [相撲ステ鉄砲 Air Combo](honda-special-move.md#相撲ステ鉄砲-air-combo)
+
+# Medium Attack Combo
+- ### 5MP Combo
+    - 5MP + [コマ投げ OKI](#コマ投げ-oki-6f)
+- ### 2MK Combo
+    - 2MK + [コマ投げ OKI](#コマ投げ-oki-6f)
+- ### 2MP Combo
+
+# Light Attack combo
+- ### 2LP Combo
+    - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 2LK Combo
+    - (2LK + 5LP) + [Light Cancel Combo](#light-cancel-combo)
+
+# Jump Attack Combo
+
+# Counter Combo
+
+# PC Combo
+- ### 5HP PC Combo
+    - Corner：5HP + [3HK Air Combo](#3hk-air-combo)
+
+# DI Combo
+- ### DI PC Combo
+    - DI(PC) + 前ステ + [5HP Air Combo](#5hp-air-combo)
+    - DI(PC) + [3HK Air Combo](#3hk-air-combo)
+- ### Wall Splat Combo
+    - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
+    - DI(Wall spalt) + [3HK Air Combo](#3hk-air-combo)
+- ### Stun Combo
+
+# Cancel Combo
+- ### Light Cancel Combo
+    - SA1/中百裂掌 + SA3
+
+# [投げ](../../street-fighter-6.md#throw)
+- ### 前投げ
+    - #### Midscreen 前投げ
+    - #### Corner 前投げ
+- ### 後ろ投げ
+
+# [OKI](../../street-fighter-6.md#oki)
+- ### 打摔擇 (2F~5F)
+    - [投げ](#投げ)/コマ投げ
+    - [2LK Combo](#2lk-combo)
+- ### コマ投げ OKI (6F)
+    - コマ投げ
+    - [2MP Combo](#2mp-combo)
+- ### 3HK 重ね (22F/23F)
+    - 3HK + [2LP Combo](#2lp-combo)/コマ投げ
+    - [3HK Combo](#3hk-combo)
+- ### 48F/49F OKI
+    - ### 48F OKI
+        - その場受け身/Corner：消費(9) + [打摔擇](#打摔擇-2f5f)
+        - Corner：消費(DR + 2LK) + [3HK 重ね](#3hk-重ね-22f23f)
+    - ### 49F OKI
+        - その場受け身/Corner：消費(9) + [コマ投げ OKI](#コマ投げ-oki-6f)
+        - Corner：消費(DR + 2LK) + [3HK 重ね](#3hk-重ね-22f23f)
