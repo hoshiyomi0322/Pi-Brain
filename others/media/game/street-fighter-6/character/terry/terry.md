@@ -27,6 +27,8 @@
 - ### DR 5MP Air Combo
     - DR + [5MP Air Combo](#5mp-air-combo)
     - (DR + 5MP + 5MK + 6MK) + [強Burning-knuckle OKI](#強burning-knuckle-oki-34f)
+- ### 2MK Combo
+    - Corner：(2MK + 2HK) + SA1*2
 
 # Light Attack Combo
 
@@ -49,7 +51,7 @@
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
-        - 前投げ + [Quick-burn Combo](#quick-burn-combo)
+        - 前投げ + [Quick-burn OKI](#quick-burn-oki-22f)
 - ### 後ろ投げ
 
 # [OKI](../street-fighter-6.md#oki)
@@ -64,16 +66,21 @@
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 5HP OKI (8F~11F)
+    - [5HP Combo](#5hp-combo)
 - ### 強弾 OKI
-    - ### 28F 強弾 OKI
+    - ### 28F 強弾 OKI (27F~29F)
         - [強弾 Combo](terry-special-move.md#強弾-combo)
-        - 前ステ + [5HP Combo](#5hp-combo)
+        - 前ステ + [5HP OKI](#5hp-oki-8f11f)
         - Corner：消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - ### 30F 強弾 OKI
         - [強弾 Combo](terry-special-move.md#強弾-combo)
-        - 前ステ + [5HP Combo](#5hp-combo)
+        - 前ステ + [5HP OKI](#5hp-oki-8f11f)
         - [DR 6HP Combo](#dr-6hp-combo)
         - Corner：消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### Quick-burn OKI (22F)
+    - [Quick-burn Combo](terry-special-move.md#quick-burn-combo)
+    - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 強Burning-knuckle OKI (34F)
     - 強Burning-knuckle
     - ガード(強Burning-knuckle) + [5F打摔擇](#5f打摔擇-4f5f)

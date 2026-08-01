@@ -29,6 +29,7 @@
     - #### 強昇竜 Combo
         - 強昇竜 + [SA3 Combo](#sa3-combo)
         - 強昇竜 + [28F 強迅雷 OKI](#28f-強迅雷-oki-27f28f)
+- ### 昇竜 Air Combo
     - #### 弱昇竜 Air Combo
         - 弱昇竜 + [SA3 Combo](#sa3-combo)
         - その場受け身/Corner：弱昇竜 + [34F 強迅雷 OKI](#34f-強迅雷-oki)
@@ -36,8 +37,9 @@
         - 中昇竜 + [SA3 Combo](#sa3-combo)
         - [SA2 Combo](#sa2-combo)
         - その場受け身/Corner：中昇竜 + [29F 強迅雷 OKI](#29f-強迅雷-oki)
-    - #### 溜め強昇竜 Combo
-        - 溜め強昇竜 + [SA3 Combo](#sa3-combo)
+- ### 溜め強昇竜 Combo
+    - 溜め強昇竜 + [SA3 Combo](#sa3-combo)
+    - 溜め強昇竜 + OKI(DR + [2HP Combo](#2hp-combo))
 - ### Tiger-knee Combo
     - #### 弱Tiger-knee Combo
         - 弱Tiger-knee + [36F Tiger-knee OKI](#36f-tiger-knee-oki)
@@ -198,7 +200,7 @@
     - [昇竜 Combo](#昇竜-combo)/[Tiger-knee Combo](#tiger-knee-combo)
     - [中迅雷 Combo](#中迅雷-combo)
     - [SA1 Combo](#sa1-combo)/[SA2 Combo](#sa2-combo)
-    - CDR + [DR 5MP Combo](#dr-5mp-combo)/[5HK Combo](#5hk-combo)/[DR 4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#dr-4hp-combo)
+    - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#dr-4hp-combo)/[5HK Combo](#5hk-combo)
     - ガード後
         - [弱迅雷 Combo](#弱迅雷-combo)/[中迅雷 Combo](#中迅雷-combo)
         - CDR + [DR 5MP Combo](#dr-5mp-combo)
@@ -224,7 +226,7 @@
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
-    - [5MP Combo](#5mp-combo)
+    - [2LP Combo](#2lp-combo)/[2LK Combo](#2lk-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
