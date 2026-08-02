@@ -21,18 +21,18 @@
 - ### [地刺 Combo](jp-special-move/jp-special-move.md#地刺-combo)
 - ### [当身 Combo](jp-special-move/jp-amnesia.md)
 
-# SA1 Combo
-- SA1 + OD裂縫
-- Far：SA1 + 裂縫
-- ### Corner SA1 Combo
-    - SA1 + [中下弾 OKI](./jp-special-move/jp-projectile.md#中下弾-oki)
-    - SA1 + Reset(DI/コマ投げ)
-    - SA1 + (前ステ + [3F打摔擇](#3f打摔擇-2f3f))
-
-# [SA2 Combo](./jp-sa2/jp-sa2.md)
-- ### [General SA2 Combo](./jp-sa2/general-sa2.md)
-- ### [ガード SA2 Combo](./jp-sa2/blocked-sa2.md)
-- ### [SA2 Αir Combo](./jp-sa2/air-sa2.md)
+# SA Combo
+- ### SA1 Combo
+    - SA1 + OD裂縫
+    - Far：SA1 + 裂縫
+    - #### Corner SA1 Combo
+        - SA1 + [中下弾 OKI](./jp-special-move/jp-projectile.md#中下弾-oki)
+        - SA1 + Reset(DI/コマ投げ)
+        - SA1 + (前ステ + [3F打摔擇](#3f打摔擇-2f3f))
+- ### [SA2 Combo](./jp-sa2/jp-sa2.md)
+    - #### [General SA2 Combo](./jp-sa2/general-sa2.md)
+    - #### [ガード SA2 Combo](./jp-sa2/blocked-sa2.md)
+    - #### [SA2 Αir Combo](./jp-sa2/air-sa2.md)
 
 # Heavy Attack Combo
 - ### [5HP/2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md)
