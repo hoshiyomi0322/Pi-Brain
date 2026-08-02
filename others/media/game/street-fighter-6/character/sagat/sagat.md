@@ -137,7 +137,7 @@
     - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#dr-4hp-combo)/[5HK Combo](#5hk-combo)
     - ガード後
         - [弱迅雷 Combo](sagat-special-move.md#弱迅雷-combo)/[中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
-        - CDR + [DR 5MP Combo](#dr-5mp-combo)
+        - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MK Combo](#dr-2mk-combo)/[DR 6MP Combo](#dr-6mp-combo)
 - ### Light Cancel Combo
     - [中昇竜 Combo](sagat-special-move.md#中昇竜-combo)
     - [弱Tiger-knee Combo](sagat-special-move.md#弱tiger-knee-combo)
@@ -145,7 +145,7 @@
     - CDR + [DR 2LP Combo](#dr-2lp-combo)
     - ガード後
         - [弱迅雷 Combo](sagat-special-move.md#弱迅雷-combo)/[中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
-        - CDR + [DR 5MP Combo](#dr-5mp-combo)
+        - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MK Combo](#dr-2mk-combo)/[DR 6MP Combo](#dr-6mp-combo)
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
