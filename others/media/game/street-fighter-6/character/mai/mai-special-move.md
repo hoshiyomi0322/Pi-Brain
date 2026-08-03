@@ -17,10 +17,9 @@
         - ##### Corner 帶火 強龍炎舞 Comb
             - 強龍炎舞(帶火) + 中龍炎舞(帶火) + [強昇竜 Combo]()/SA1/SA2
 - ### OD龍炎舞 Combo
-    - OD龍炎舞 + SA1/SA2/[OD忍蜂 Combo]()
-    - OD龍炎舞 + (delay + 中忍蜂 + SA3)
-    - #### 帶火 OD龍炎舞 Combo
-        - OD龍炎舞(帶火) + 強龍炎舞(帶火) + SA2
+    - OD龍炎舞 + SA2/SA3
+    - #### Corner 帶火 OD龍炎舞 Combo
+        - OD龍炎舞(帶火) + [Wall Splat Combo](mai.md#wall-splat-combo)
 
 # 昇竜 Combo
 - ### 弱昇竜 Combo

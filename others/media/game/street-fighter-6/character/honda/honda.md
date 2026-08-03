@@ -29,9 +29,9 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP + [コマ投げ OKI](#コマ投げ-oki-6f)
+    - 5MP + [コマ投げ OKI](#コマ投げ-oki-6f7f)
 - ### 2MK Combo
-    - 2MK + [コマ投げ OKI](#コマ投げ-oki-6f)
+    - 2MK + [コマ投げ OKI](#コマ投げ-oki-6f7f)
 - ### 2MP Combo
 
 # Light Attack combo
@@ -47,6 +47,9 @@
 # PC Combo
 - ### 5HP PC Combo
     - Corner：5HP + [3HK Air Combo](#3hk-air-combo)
+- ### 6HK PC Combo
+    - 6HK + 消費(弱頭槌) + [DI OKI](#di-oki-25f26f)
+    - 6HK + 消費(中頭槌) + [3HK 重ね](#3hk-重ね-22f23f)
 
 # DI Combo
 - ### DI PC Combo
@@ -55,6 +58,7 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
     - DI(Wall spalt) + [3HK Air Combo](#3hk-air-combo)
+    - DI(Wall spalt) + (DR + 5HP/5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Stun Combo
 
 # Cancel Combo
@@ -71,16 +75,20 @@
 - ### 打摔擇 (2F~5F)
     - [投げ](#投げ)/コマ投げ
     - [2LK Combo](#2lk-combo)
-- ### コマ投げ OKI (6F)
+- ### コマ投げ OKI (6F/7F)
     - コマ投げ
     - [2MP Combo](#2mp-combo)
 - ### 3HK 重ね (22F/23F)
     - 3HK + [2LP Combo](#2lp-combo)/コマ投げ
     - [3HK Combo](#3hk-combo)
+    - 前ステ + [打摔擇](#打摔擇-2f5f)
+- ### DI OKI (25F/26F)
+    - DI
+    - 前ステ + [コマ投げ OKI](#コマ投げ-oki-6f7f)
 - ### 48F/49F OKI
     - ### 48F OKI
         - その場受け身/Corner：消費(9) + [打摔擇](#打摔擇-2f5f)
         - Corner：消費(DR + 2LK) + [3HK 重ね](#3hk-重ね-22f23f)
     - ### 49F OKI
-        - その場受け身/Corner：消費(9) + [コマ投げ OKI](#コマ投げ-oki-6f)
+        - その場受け身/Corner：消費(9) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
         - Corner：消費(DR + 2LK) + [3HK 重ね](#3hk-重ね-22f23f)

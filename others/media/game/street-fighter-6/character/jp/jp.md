@@ -116,7 +116,7 @@
 - ### Corner JHK High-Air Combo
     - 9 + JHK + Reset(DI/コマ投げ)
 - ### JMK Combo
-    - 8/9 + JMK + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)
+    - 8/9 + JMK + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)/[6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)
     - 8/9 + ガード(JMK) + (delay + [投げ](#投げ))
 - ### JMK Air Combo
     - #### Close JMK Air Combo
