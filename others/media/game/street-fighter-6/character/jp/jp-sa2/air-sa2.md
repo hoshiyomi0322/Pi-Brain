@@ -78,3 +78,7 @@
 - [General SA2 Combo(2MK起始)](general-sa2.md)
 - [Midscreen 弱風神 SA2 Reset](general-sa2.md#midscreen-弱風神-sa2-reset)
 - SA2 + (9 + 中風神) + [Corner DI SA2 Αir Reset](#corner-di-sa2-αir-reset)
+
+# BTW OD当身2LP SA2 Combo
+- SA2 + (2MP + 中裂縫) + (裂縫傳送 + [JMK Air Combo](../jp.md#jmk-air-combo))
+- SA2 + (2MP + 弱裂縫) + 消費(9 + JMK) + (中風神 + OD裂縫) + 9(安全飛び) + [General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇)

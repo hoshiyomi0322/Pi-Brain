@@ -20,14 +20,19 @@
     - OD当身 + (2MP/5MK + delay(no cancel) + 強裂縫) + (中弾 + 強地刺 + [Far 中弾 Combo](jp-projectile.md#far-中弾-combo))
     - OD当身 + [2HK Combo](../jp.md#2hk-combo)
     - OD当身 + 5MK/2HP + [BTW OD当身 SA2 Combo](../jp-sa2/air-sa2.md#btw-od当身-sa2-combo)
-    - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
-    - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (DR + 5HP + [強風神 Combo](jp-stribog.md#強風神-combo))
-    - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (9 + JMK) + 安全飛び
-    - OD当身 + (2LP*2 + 強裂縫) + (弱弾 + 強地刺 + 弱弾 + [Midscreen 強地刺 Combo](jp-special-move.md#midscreen-強地刺-combo))
-    - OD当身 + 2LP*2 + 前ステ\*2 + (delay + 6HK + [強風神 Combo](jp-stribog.md#強風神-combo))
-    - OD当身 + (2LP + 強裂縫) + Reset(2MK) + (裂縫傳送 + JMK) + (前歩き + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
-        - 裂縫打中：OD当身 + (2LP + 強裂縫) + (裂縫引爆 + [強風神 Combo](jp-stribog.md#強風神-combo))
-        - OD当身 + (2LP + 強裂縫) + ガード(2MK) + (裂縫傳送 + [JMK Combo](../jp.md#jmk-combo))
+    - ### BTW OD当身 2LP Combo
+        - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
+        - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (DR + 5HP + [強風神 Combo](jp-stribog.md#強風神-combo))
+        - OD当身 + (2LP + 5MK + 強裂縫) + (裂縫傳送 + JMK) + (9 + JMK) + 安全飛び
+        - OD当身 + (2LP + 5MK + 強裂縫) + 消費(2LP) + 強地刺 + 裂縫傳送(安全飛び)
+        - OD当身 + (2LP*2 + 強裂縫) + (弱弾 + 強地刺 + 弱弾 + [Midscreen 強地刺 Combo](jp-special-move.md#midscreen-強地刺-combo))
+        - OD当身 + 2LP*2 + 前ステ\*2 + (delay + 6HK + [強風神 Combo](jp-stribog.md#強風神-combo))
+        - OD当身 + 2LP*2 + 前ステ\*2 + (9 + delay + JLK) + Reset([強TC Combo](../jp.md#強tc-combo)/コマ投げ)
+        - OD当身 + 2LP*2 + 前ステ + (DR + delay + [JMK High-Air Combo](../jp.md#jmk-high-air-combo))
+        - OD当身 + (2LP + 強裂縫) + Reset(2MK) + (裂縫傳送 + JMK) + (前歩き + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+            - 裂縫打中：OD当身 + (2LP + 強裂縫) + (裂縫引爆 + [強風神 Combo](jp-stribog.md#強風神-combo))
+            - OD当身 + (2LP + 強裂縫) + ガード(2MK) + (裂縫傳送 + [JMK Combo](../jp.md#jmk-combo))
+        - OD当身 + 2LP + [BTW OD当身2LP SA2 Combo](../jp-sa2/air-sa2.md#btw-od当身2lp-sa2-combo)
     - #### C-Switch OD当身 Combo
         - OD当身 + (2MP + OD裂縫(中強)) + (裂縫傳送(中) + JMK) + (前歩き + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
         - OD当身 + 後ろ投げ + (6HK + delay(cancel) + [Far Corner 強風神 Combo](jp-stribog.md#far-corner-強風神-combo))

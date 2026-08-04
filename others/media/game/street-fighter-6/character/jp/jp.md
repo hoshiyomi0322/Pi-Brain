@@ -41,7 +41,7 @@
     - (5HK + 5HP) + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
     - 5HK + [2MP Combo](#2mp-combo)
         - Corner：(5HK + 2MP) + [QQH OD風神 Combo](./jp-special-move/jp-stribog.md#qqh-od風神-combo)
-    - 相打ち：5HK(相打ち) + [6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)/[強TC Combo](#強tc-combo)
+    - 5HK(相打ち) + [6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)/[強TC Combo](#強tc-combo)
     - #### 強TC ガード Combo
         - ガード(5HK + 5HP) + [Heavy Attack ガード弾 Combo](jp-special-move/jp-projectile.md#heavy-attack-ガード-弾-combo)/DI/コマ投げ
         - ガード(5HK + 5HP) + 5HK/5HP/中弾/強弾
@@ -70,20 +70,20 @@
     - ガード
         - ガード(5MK) + [ガード後 CDR Combo](#ガード後-cdr-combo)
         - Midscreen 連ガ：ガード(5MK) + 弱風神
-    - 相打ち：5MK(相打ち) + [6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)/[5MK Combo](#5mk-combo)
+    - 5MK(相打ち) + [6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)/[5MK Combo](#5mk-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
     - 2MP + CDR + [DR 5HP Combo(2HP)]()/[DR Corner 6HK Combo]()/[ガード後 CDR Combo](#ガード後-cdr-combo)
     - ガード
         - ガード(2MP) + [General ガード SA2 Combo](./jp-sa2/blocked-sa2.md#general-ガード-sa2-combo)/[ガード後 CDR Combo](#ガード後-cdr-combo)
         - Midscreen 連ガ：ガード(2MP) + 弱風神
-    - 相打ち：2MP(相打ち) + [5MK Combo](#5mk-combo)
+    - 2MP(相打ち) + [5MK Combo](#5mk-combo)
 - ### 4MP Combo
     - (4MP + 5MP) + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
     - ガード
         - ガード(4MP) + [General ガード SA2 Combo](./jp-sa2/blocked-sa2.md#general-ガード-sa2-combo)/[ガード後 CDR Combo](#ガード後-cdr-combo)
         - Midscreen 連ガ：ガード(4MP) + 弱風神
-    - 相打ち：4MP(相打ち) + [5MK Combo](#5mk-combo)/[2HK Combo](#2hk-combo)
+    - 4MP(相打ち) + [5MK Combo](#5mk-combo)/[2HK Combo](#2hk-combo)
 - ### DR 2MP/5MK Combo
     - DR + 2MP + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)/[5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
     - DR + 5MK + [2MP Combo](#2mp-combo)
@@ -94,7 +94,7 @@
 - ### DR 4MP Combo
     - DR + [4MP Combo](#4mp-combo)
     - DR + (4MP + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo))
-    - ガード：DR + ガード(4MP) + [3F打摔擇](#3f打摔擇-2f3f)
+    - ガード：DR + ガード(4MP) + [3F打摔擇](#3f打摔擇-2f3f)/DI/コマ投げ
 
 # Light Attack combo
 - ### 5LP/2LP Combo
@@ -125,9 +125,9 @@
         - (9 + JMK) + 裂縫
 - ### JMK High-Air Combo
     - (9 + JMK) + (delay + [6HK Air Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
-- ### Corner JMK High-Air Combo
-    - (9 + JMK) + (delay + [Corner 6HK 中風神 Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
-    - [Corner JHK High-Air Combo](#corner-jhk-high-air-combo)
+    - #### Corner JMK High-Air Combo
+        - (9 + JMK) + (delay + [Corner 6HK 中風神 Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - [Corner JHK High-Air Combo](#corner-jhk-high-air-combo)
 - ### JLK Combo
     - 8/9 + JLK + [2LP Combo](#5lp2lp-combo)
     - 8/9 + ガード(JLK) + [投げ](#投げ)/(8 + [JHK Combo](#jhk-combo))

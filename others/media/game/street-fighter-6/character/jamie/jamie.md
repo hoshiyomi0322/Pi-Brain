@@ -9,7 +9,7 @@
     - 推掌派生 (酔い4)：214P + 6P
 - ### 昇竜：623K
 - ### 空插 (酔い1)：9 + 214K
-- ### 旋轉腳 (酔い2)：236K
+- ### 爆廻 (酔い2)：236K
 - ### コマ投げ (酔い3)：624K
 - ### 天晴脚：2KK
 - ### 酔い：酒飲み可以+1，最多酔い4
@@ -34,7 +34,7 @@
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2HP Air Combo
-    - 2HP + [推掌 Combo](jamie-special-move.md#推掌-combo)/[旋轉腳 Combo](jamie-special-move.md#旋轉腳-combo)
+    - 2HP + [推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
     - 2HP + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
 - ### 5HK Combo
     - 5HK + [Heavy Cancel Combo](#heavy-cancel-combo)
@@ -92,9 +92,9 @@
 
 # Cancel Combo
 - ### Heavy Cancel Combo
-    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[旋轉腳 Combo](jamie-special-move.md#旋轉腳-combo)
+    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
 - ### Medium Cancel Combo
-    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱旋轉腳 Combo](jamie-special-move.md#弱旋轉腳-combo)/[OD旋轉腳 Combo](jamie-special-move.md#od旋轉腳-combo)
+    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[OD爆廻 Combo](jamie-special-move.md#od爆廻-combo)
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
