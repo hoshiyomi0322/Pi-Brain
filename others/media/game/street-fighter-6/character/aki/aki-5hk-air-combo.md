@@ -1,64 +1,64 @@
-# General Air 5HK Combo
-- ### Midscreen Air 5HK Combo
-    - 5HK + [Air 中毒鞭 Combo]()/[Air OD毒鞭 Combo]()
+# General 5HK Air Combo
+- ### Midscreen 5HK Air Combo
+    - 5HK + [中毒鞭 Air Combo]()/[OD毒鞭 Air Combo]()
     - 6HP + SA1/中SA2/SA3
-- ### WWQ Air 5HK Combo
+- ### WWQ 5HK Air Combo
     - 5HK + [Corner Air 毒泡 Combo]()
-- ### 帶毒 Air 5HK Combo
-    - 5HK + [帶毒Air 中毒鞭 Combo]()/[帶毒Corner Air OD毒鞭 Combo]()
-    - [帶毒HP Air Combo]()
-- [Air DR 5HK Combo]()
+- ### 帶毒 5HK Air Combo
+    - 5HK + [帶毒 中毒鞭 Air Combo]()/[帶毒Corner Air OD毒鞭 Combo]()
+    - [帶毒 5HP Air Combo]()
+- [DR 5HK Air Combo]()
 
-# Close Air 5HK Combo
-- ### Close Near-wall Air 5HK Combo
+# Close 5HK Air Combo
+- ### Close Near-wall 5HK Air Combo
     - 5HK + [強毒鞭 Combo]()/SA1
     - 5HK + (弱突刺 + SA3)
     - 5HK + (中毒鞭 + 弱SA2)
-    - 5HK + (CDR + [Near-wall High-Air DR5HK Combo]())
-    - 5HK + (CDR + 5HK + 中毒鞭) + [Near-wall Highest-Air DR5HK Combo]()
-    - 5HK + (CDR + 5HK + [Near-wall High-Air OD突刺 Combo]())
-    - 5HK + (弱蛇弱功 + [Far下段擇]())
-- (5HK + 蛇行踢) + [General Air DR5HK Combo]()/弱毒鞭/強SA2
-    - (5HK + 蛇行踢) + (DR + 5HK) + (CDR + 5HK) + (OD突刺 + SA1/弱SA2/SA3)
+    - 5HK + (CDR + [Near-wall DR 5HK Highest-Air Combo]())
+    - 5HK + (CDR + 5HK + 中毒鞭) + [帶毒 Near-wall DR 5MP High-Air Combo](aki.md#帶毒-near-wall-dr-5mp-high-air-combo)
+    - 5HK + (CDR + 5HK + [Near-wall OD突刺 High-Air Combo]())
+    - 5HK + 消費(弱蛇弱功) + [Far 25F OKI](../aki.md#far-25f-oki)
+- (5HK + 蛇行踢) + [General DR 5HK Air Combo]()/弱毒鞭/強SA2
+- (5HK + 蛇行踢) + (DR + 5HK) + (CDR + 5HK) + (OD突刺 + SA1/弱SA2/SA3)
+- (5HK + 蛇行踢) + 消費(強蛇輕功) + [5HK 重ね]()
 - (5HK + 弱突刺) + SA3
-- [General Air 5HK Combo]()
+- [General 5HK Air Combo]()
+- [5HP Air Combo](aki.md#5hp-air-combo)
 
-# Air DR 5HK Combo
-- ### General Near-wall Air DR5HK Combo
-    - DR + [Close Near-wall Air 5HK Combo]()
-- ### Midscreen Air DR5HK Combo
-    - (DR + 5HK + 蛇行踢) + [General Near-wall Air DR5HK Combo]()/[Air 中毒鞭 Combo]()/強SA2
-        - (DR + 5HK + 蛇行踢) + (DR + 5HK + [Air 中毒鞭 Combo]()/SA1/中SA2/SA3)
-        - (DR + 5HK + 蛇行踢) + (DR + 5HK) + (CDR + 5HK) + (中突刺 + SA3)/[Air OD突刺 Combo]()
-        - (DR + 5HK + 蛇行踢) + (DR + 5HK) + (CDR + 2HK) + SA1/中SA2
+# DR 5HK Air Combo
+- ### General Near-wall DR 5HK Air Combo
+    - DR + [Close Near-wall 5HK Air Combo]()
+- ### Midscreen DR 5HK Air Combo
+    - (DR + 5HK + 蛇行踢) + [General Near-wall DR 5HK Air Combo]()/[中毒鞭 Air Combo]()/強SA2
+    - (DR + 5HK + 蛇行踢) + (DR + 5HK + [中毒鞭 Air Combo]()/SA1/中SA2/SA3)
+    - (DR + 5HK + 蛇行踢) + (DR + 5HK) + (CDR + 5HK) + (中突刺 + SA3)/[OD突刺 Air Combo]()
+    - (DR + 5HK + 蛇行踢) + (DR + 5HK) + (CDR + 2HK) + SA1/中SA2
+    - (DR + 5HK + 蛇行踢) + 消費(強蛇輕功) + [5HK 重ね]()
     - (DR + 5HK + 弱突刺) + SA3
-    - [Air DR Reset]()
-- ### Near-wall Air DR5HK Combo
+    - [DR Air Reset]()
+- ### Near-wall DR 5HK Air Combo
     - (DR + 5HK + 蛇行踢) + SA1/弱SA2
     - (DR + 5HK + 蛇行踢) + (delay + 中毒鞭 + 下毒/SA3)
-    - [Air DR Reset]()
-    - WQQ Air DR5HK Combo
+    - [DR Air Reset]()
+    - #### WQQ DR 5HK Air Combo
         - (DR + 5HK) + [Corner Air 毒泡 Combo]()
-        - [Air DR Reset]()
+        - [DR Air Reset]()
+- DR + [5HP Air Combo](aki.md#5hp-air-combo)
 
-# Near-wall High-Air DR5HK Combo
-- ### General Near-wall High-Air DR5HK Combo
+# Near-wall DR 5HK High-Air Combo
+- ### General Near-wall DR 5HK High-Air Combo
     - (DR + 5HK) + (中突刺 + SA3)
-        - (DR + 5HK) + (CDR + 5HK) + [Air 強突刺 Combo]()
-        - (DR + 5HK) + (CDR + 5HK)*2 + [Air 強突刺 Combo]()
+        - (DR + 5HK) + (CDR + 5HK) + [強突刺 Air Combo]()
+        - (DR + 5HK) + (CDR + 5HK)*2 + [強突刺 Air Combo]()
     - (DR + delay + 2HK) + SA1/弱SA2
         - (DR + 5HK) + (CDR + delay + 2HK) + 弱SA2
         - (DR + 5HK) + (CDR + 5HK) + (CDR + delay + 2HK) + 弱SA2
-- (DR + 5HK) + [Air OD突刺 Combo]()
-    - (DR + 5HK) + (CDR + 5HK) + [Air OD突刺 Combo]()
+- (DR + 5HK) + [OD突刺 Air Combo]()
+- (DR + 5HK) + (CDR + 5HK) + [OD突刺 Air Combo]()
+- (DR + 5HK) + (CDR + 5HK) + 蛇行突刺 + [Close 25F OKI]()
 
 # Near-wall DR 5HK Highest-Air Combo
-- 弱毒鞭 + SA1/弱SA2
-- (弱毒鞭 + 中毒鞭) + SA3
-- (弱毒鞭 + 強毒鞭) + 安全飛び
-    - (弱毒鞭 + 強毒鞭) + (5HP + [2MK 重ね]())
-    - (弱毒鞭 + 強毒鞭) + (中蛇弱功 + [5F打摔擇]())
-- (DR + 5MP + 蛇行踢) + (弱毒鞭 + SA1/弱SA2)
-- (DR + 5MP) + (CDR + 5HK) + [Near-wall 帶毒Air 蛇行突刺 Combo]()
-- 強毒鞭 + (DR + 5HK + 中突刺) + SA3
-- 強毒鞭 + (DR + 5HK + OD突刺) + SA1/弱SA2/SA3
+- [General Near-wall DR 5HK High-Air Combo](#general-near-wall-dr-5hk-high-air-combo)
+- (DR + 5HK) + [Near-wall OD突刺 High-Air Combo]()
+- (DR + 5HK) + (CDR + 5HK) + [Near-wall OD突刺 High-Air Combo]()
+- (DR + 5HK) + (CDR + 5HK) + 蛇行突刺 + [Close 25F OKI]()

@@ -29,7 +29,7 @@
 
 # Heavy Attack Combo
 - ### 5HP High-Air Combo
-    - 5HP + [2HK Combo](#2hk-combo)/SA1/[SA3 Combo](#sa3-combo)
+    - 5HP + [2HK Combo](#2hk-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/SA1/[SA3 Combo](#sa3-combo)
     - Corner：5HP + 強昇竜
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
@@ -41,6 +41,7 @@
     - 5HK + Reset(DI)
 - ### 2HK Combo
     - 2HK + HK + P
+    - (2HK + HK) + [Mid 23F OKI](#mid-23f-oki)
     - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 6HK Combo
 - ### DR 6HK Combo
@@ -57,9 +58,11 @@
 - ### 2MK Combo
     - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 酔い2 6MK Combo
-    - 酔い2：6MK + 5MK + P
+    - 6MK + 5MK + P
+    - Corner：(6MK + 5MK + P) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 6MK Combo
     - (DR + 6MK) + [2LP Combo](#2lp-combo)
+    - 酔い2：DR + [酔い2 6MK Combo](#酔い2-6mk-combo)
 
 # Light Attack Combo
 - ### 2LP Combo
@@ -98,7 +101,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - 前投げ + [23F OKI](#23f-oki)
+    - 前投げ + [Mid 23F OKI](#mid-23f-oki)
     - #### Midscreen 前投げ
         - 前投げ(Hold)
     - #### Corner 前投げ
@@ -107,16 +110,29 @@
     - 後ろ投げ + [27F OKI](#27f-oki)
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
+    - [2LP Combo](#2lp-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
 - ### 8F OKI
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
-    - DR + [5HK Combo](#5hk-combo)
-    - Corner
+    - ### Close 23F OKI
+        - DR + [5HK Combo](#5hk-combo)
         - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
         - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
+    - ### Mid 23F OKI
+        - DR + [5HK Combo](#5hk-combo)
+        - その場受け身/Corner
+            - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
+            - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
+    - ### Far 23F OKI
+        - DR + [5HK Combo](#5hk-combo)
+        - Corner
+            - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
+            - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
 - ### 27F OKI
     - [DR 6HK Combo](#dr-6hk-combo)
     - Corner：前ステ + [8F OKI](#8f-oki)
@@ -125,7 +141,7 @@
     - Corner：[消費](../../street-fighter-6.md#frame-kill)(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
 - ### 42F OKI
     - 安全飛び
-    - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+    - 前ステ + [Close 23F OKI](#close-23f-oki)
 
 # [対空](../street-fighter-6.md#anti-air)
 - ### [昇竜 Combo](jamie-special-move.md#昇竜-combo)

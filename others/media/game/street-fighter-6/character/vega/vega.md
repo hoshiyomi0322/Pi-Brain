@@ -70,6 +70,12 @@
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
+    - [2MP Combo](#2mp-combo)
+- ### 5F打摔擇 (4F/5F)
+    - [投げ](#投げ)
+    - [2MP Combo](#2mp-combo)
 - ### 8F OKI
     - [5MP Combo](#5mp-combo)
 - ### 22F OKI
@@ -77,12 +83,6 @@
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 3F打摔擇 (2F/3F)
-    - [投げ](#投げ)
-    - [2MP Combo](#2mp-combo)
-- ### 5F打摔擇 (4F/5F)
-    - [投げ](#投げ)
-    - [2MP Combo](#2mp-combo)
 
 # todo
 - ### https://steamcommunity.com/sharedfiles/filedetails/?id=3278075787
