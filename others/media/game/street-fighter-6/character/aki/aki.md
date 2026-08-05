@@ -48,12 +48,14 @@
             - (5HP*2 + 中毒鞭) + 消費(前ステ + 5MP) + [5F打摔擇]()
 - ### DR 5HP Air Combo
     - DR + 5HP*2 + SA1/SA3
-    - DR + 5HP*2 + [Far 44F OKI](#far-44f-oki)
-    - DR + 5HP*2 + 消費(2HP) + [5F打摔擇]()
+    - 不帶毒
+        - DR + 5HP*2 + [Far 44F OKI](#far-44f-oki)
+        - DR + 5HP*2 + 消費(2HP) + [5F打摔擇]()
 - ### DR 5HP High-Air Combo
     - DR + delay + 5HP*2 + SA1/SA3
-    - DR + delay + 5HP*2 + [Far 44F OKI](#far-44f-oki)
-    - DR + delay + 5HP*2 + 消費(2HP) + [5F打摔擇]()
+    - 不帶毒
+        - DR + delay + 5HP*2 + [Far 44F OKI](#far-44f-oki)
+        - DR + delay + 5HP*2 + 消費(2HP) + [5F打摔擇]()
 - ### 2HP Combo
     - 2HP + (前ステ + [2MK 重ね]())
     - 2HP(相打ち) + 消費(5HP) + [2MK OKI]()

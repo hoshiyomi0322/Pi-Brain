@@ -45,7 +45,9 @@
         - (DR + delay + 2HK) + SA1/弱SA2
             - (DR + 5HK) + (CDR + delay + 2HK) + 弱SA2
             - (DR + 5HK) + (CDR + 5HK) + (CDR + delay + 2HK) + 弱SA2
-    - [DR 5HP High-Air Combo]()
+        - [DR 5HP High-Air Combo](aki.md#dr-5hp-high-air-combo)
+            - (DR + 5HK) + (CDR + [DR 5HP High-Air Combo](aki.md#dr-5hp-high-air-combo))
+            - (DR + 5HK) + (CDR + 5HK) + (CDR + [DR 5HP High-Air Combo](aki.md#dr-5hp-high-air-combo))
     - (DR + 5HK) + [OD突刺 Air Combo]()
     - (DR + 5HK) + (CDR + 5HK) + [OD突刺 Air Combo]()
     - (DR + 5HK) + (CDR + 5HK) + 蛇行突刺 + [Close 25F OKI]()
