@@ -29,7 +29,7 @@
     - 5HP*2 + [Far 44F OKI](#far-44f-oki)
     - Close
         - 5HP*2 + SA1/SA3
-        - (5HP*2 + 2HP) + [コマ投げ OKI](#コマ投げ-oki-30f31f)
+        - (5HP*2 + 2HP) + [コマ投げ OKI](#コマ投げ-oki-30f32f)
     - Corner：(5HP*2 + 強毒鞭) + [Near-wall DR 5MP Air Combo](#near-wall-dr-5mp-air-combo)
     - 5HP(相打ち) + [10F 相打ち Combo]()
     - #### 帶毒 5HP Combo
@@ -38,7 +38,7 @@
 - ### 5HP Air Combo
     - 5HP*2 + SA1/SA3
     - 5HP*2 + [Far 44F OKI](#far-44f-oki)
-    - (5HP*2 + 2HP) + [コマ投げ OKI](#コマ投げ-oki-30f31f)
+    - (5HP*2 + 2HP) + [コマ投げ OKI](#コマ投げ-oki-30f32f)
     - Corner：5HP*2 + 強毒鞭 + SA1/弱SA2/SA3/下毒
     - ### 帶毒 5HP Air Combo
         - 5HP*2 + (DR + 5HK + [Air 蛇行突刺 Combo]())
@@ -50,6 +50,10 @@
     - DR + 5HP*2 + SA1/SA3
     - DR + 5HP*2 + [Far 44F OKI](#far-44f-oki)
     - DR + 5HP*2 + 消費(2HP) + [5F打摔擇]()
+- ### DR 5HP High-Air Combo
+    - DR + delay + 5HP*2 + SA1/SA3
+    - DR + delay + 5HP*2 + [Far 44F OKI](#far-44f-oki)
+    - DR + delay + 5HP*2 + 消費(2HP) + [5F打摔擇]()
 - ### 2HP Combo
     - 2HP + (前ステ + [2MK 重ね]())
     - 2HP(相打ち) + 消費(5HP) + [2MK OKI]()
@@ -162,13 +166,13 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (8 + JHK) + (DR + 5HK + [Air 蛇行突刺 Combo]())
+    - DI(PC) + 前ステ + [5HK Air Combo](aki-5hk-air-combo.md#5hk-air-combo)
+    - DI(PC) + (8 + JHK) + (DR + 5HK + [蛇行突刺 Air Combo]())
     - #### Corner DI PC Combo
-        - DI(PC) + 前ステ + [General Air 5HK Combo]()
         - DI(PC) + 9 + (JLK + 2MP) + [Close 25F OKI]()
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [General Air 5HK Combo]()
-    - Near-wall：DI(Wall spalt) + 前ステ + [General Air 5HK Combo]()
+    - DI(Wall spalt) + [5HK Air Combo]()
+    - Near-wall：DI(Wall spalt) + 前ステ + [5HK Air Combo](aki-5hk-air-combo.md#5hk-air-combo)
 - ### Stun Combo
     - DI(Stun) + 下毒 + [5HK Combo]()/[JHK Combo]()/[JHP Combo]()
 
@@ -214,7 +218,7 @@
         - (DR + 2HK) + [5HK Combo](#5hk-combo)
             - ガード(DR + 2HK) + [2MP Combo]()
             - ガード(DR + 2HK) + (前歩き + 投げ)
-- ### コマ投げ OKI (30F/31F)
+- ### コマ投げ OKI (30F~32F)
     - 消費(前ステ) + [6HK OKI](#6hk-oki-12f19f)
     - Corner
         - 消費(5MK) + [5F打摔擇]()
@@ -243,14 +247,15 @@
             - 消費(投げ) + [6HK OKI]()
 
 # DR Air Reset
-### General DR Air Reset
-- (DR + 5HK + 弱突刺 + 5LK) + (DI/蛇行コマ投げ/弱突刺)
+- ### General DR Air Reset
+    - (DR + 5HK + 弱突刺 + 5LK) + (DI/蛇行コマ投げ/弱突刺)
+    - Near-wall：(DR + 5HK + 5LK/5MP/2MP) + (DI/蛇行コマ投げ/弱突刺)
+- ### Near-wall DR 弱蛇輕功 Air Reset
+    - (DR + 5HK) + 消費(弱蛇輕功) + [Far 25F OKI]()
+- ### Corner 弱蛇輕功 Air Reset
+    - 5HK + 消費(弱蛇輕功) + [Far 25F OKI]()
 - (DR + 5MP/5MK/2MK + 5MP/2MP) + (DI/蛇行コマ投げ/弱突刺)
 - Close：(DR + 2LP + 5LP*2) + [5F打摔擇]()
-- Near-wall
-    - (DR + 5HK + 5LK/5MP/2MP) + (DI/蛇行コマ投げ/弱突刺)
-    - (DR + 5HK) + 消費(弱蛇輕功) + [Far 25F OKI]()
-- Corner：5HK + 消費(弱蛇輕功) + [Far 25F OKI]()
 
 # 対空
 - 5HK/2HK
