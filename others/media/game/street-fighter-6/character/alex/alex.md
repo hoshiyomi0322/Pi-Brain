@@ -53,6 +53,7 @@
 
 # PC Combo
 - [Stance PC Combo](alex-special-move.md#stance-pc-combo)
+- 5HK(Hold)(PC) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
 
 # DI Combo
 - ### DI PC Combo
