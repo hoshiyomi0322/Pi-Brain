@@ -16,13 +16,14 @@
     - [Corner DR 5HK Air Combo](../sagat.md#corner-dr-5hk-air-combo)
 
 # 6HK High-Air Combo
-- [強昇竜 Combo](../sagat-special-move.md#強昇竜-combo)
-- [DR 2MP Air Combo](../sagat.md#dr-2mp-air-combo)/[DR 4HP High-Air Combo](sagat-4hp-combo.md#dr-4hp-high-air-combo)
-- 6HK + [SA1 Combo](#sa1-combo)/[SA2 Combo](../sagat.md#sa2-combo)/[SA3 Combo](../sagat.md#sa3-combo)
-- 6HK + [48F OKI](../sagat.md#48f-oki)
-- Corner
-    - 6HK + [中昇竜 Air Combo](../sagat.md#中昇竜-air-combo)
-    - [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo)/[Corner DR 5HK Air Combo](../sagat.md#corner-dr-5hk-air-combo)
+- ### General 6HK High-Air Combo
+    - [強昇竜 Combo](../sagat-special-move.md#強昇竜-combo)
+    - [DR 2MP Air Combo](../sagat.md#dr-2mp-air-combo)/[DR 4HP High-Air Combo](sagat-4hp-combo.md#dr-4hp-high-air-combo)
+    - 6HK + [SA1 Combo](#sa1-combo)/[SA2 Combo](../sagat.md#sa2-combo)/[SA3 Combo](../sagat.md#sa3-combo)
+    - 6HK + [48F OKI](../sagat.md#48f-oki)
+    - Corner
+        - 6HK + [中昇竜 Air Combo](../sagat.md#中昇竜-air-combo)
+- Corner：[4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo)
 
 # 6HK Highest-Air Combo
 - 6HK + [強昇竜 Combo](../sagat-special-move.md#強昇竜-combo)
@@ -32,4 +33,3 @@
 - Corner
     - [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo)/[Corner DR 5HK Air Combo](../sagat.md#corner-dr-5hk-air-combo)
     - 中昇竜 + [DI OKI](#di-oki-25f26f)
-    - (6HK + 中昇竜) + [6MP 重ね](../sagat.md#6mp-重ね-22f23f)

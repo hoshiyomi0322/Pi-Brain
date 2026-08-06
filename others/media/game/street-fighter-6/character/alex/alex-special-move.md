@@ -29,12 +29,14 @@
 - ### Stance-対空 Combo
     - Stance-対空 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - Stance-対空 + (delay + SA1/[SA2 Air Combo](alex.md#sa2-air-combo))
+
+# Stance Air Combo
 - ### Stance-対空 Air Combo
     - Stance-対空 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - Stance-対空 + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
     - Stance-対空 + 消費(Chop) + [5F打摔擇](#5f打摔擇-4f5f)
     - Stance-対空 + (中Axe + 消費(2LP)) + Reset(DI)
-    - Stance-対空 + (9 + JMP + J2HP) + [弱コマ投げ OKI](alex.md#弱コマ投げ-oki-8f9f)
+    - Stance-対空 + [JMP Air Combo](alex.md#jmp-air-combo)
 
 # Stance PC Combo
 - Stance-踩頭 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)

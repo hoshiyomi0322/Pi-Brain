@@ -49,6 +49,10 @@
 # Light Attack Combo
 - ### 2LP Combo
 
+# Jump Attack Combo
+- ### JMP Air Combo
+    - (9 + JMP + J2HP) + [弱コマ投げ OKI](#弱コマ投げ-oki-8f9f)
+
 # Counter Combo
 
 # PC Combo
@@ -57,6 +61,7 @@
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + (8 + JHK) + [JMP Air Combo](#jmp-air-combo)
     - Corner：DI(PC) + 前ステ + (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)

@@ -49,7 +49,7 @@
 - ### 強迅雷 Combo
     - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
 - ### OD迅雷 Combo
-    - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
+    - OD迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
 - ### 迅雷 Counter Combo
     - (弱迅雷/中迅雷)(Counter) + [Counter 派生 Combo](#counter-派生-combo)
 
@@ -65,7 +65,7 @@
     - Corner：中派生 + [弱昇竜 Combo](#弱昇竜-combo)
 - ### 強派生 Combo
     - 強派生 + [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
-    - 強派生 + 消費(強Tiger-knee) + [5F打摔擇](sagat.md#5f打摔擇-4f5f)
+    - Corner：強派生 + [Corner DR 5HK Air Combo](sagat.md#corner-dr-5hk-air-combo)
     - ガード(強派生) + [3F打摔擇](sagat.md#3f打摔擇-2f3f)
 - ### Counter 派生 Combo
     - 弱派生 + [中昇竜 Combo](#中昇竜-combo)

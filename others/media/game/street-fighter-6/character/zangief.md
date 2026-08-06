@@ -34,18 +34,8 @@
     - 西伯利亞/OD西伯利亞 + (DR + delay + ガード(6MK) + [5F打摔擇](#5f打摔擇-3f5f))
 
 # SA2 Combo
-- 旋轉SA2 + 前ステ/(DR + 6MK) + 6MK + [8F打摔擇](#8f打摔擇-6f9f)
 - 旋轉SA2 + 前ステ + [3MP High-Air Combo](#3mp-high-air-combo)
-- ### 前旋風手 SA2 Reset
-    - その場受け身/Corner：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
-    - 後方受け身：旋轉SA2 + 前ステ + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
-    - #### Midscreen 前旋風手 SA2 Reset
-        - その場受け身/Corner：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f9f)
-        - 後方受け身：旋轉SA2 + (DR + 6MK) + (3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
-    - #### Corner 前旋風手 SA2 Reset
-        - 旋轉SA2 + (DR + 5HK) + (3MP + 前旋風手) + 消費(前ステ) + [8F打摔擇](#8f打摔擇-6f9f)
-- ### Midscreen SA2 Combo
-    - 旋轉SA2 + (DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
+- 旋轉SA2 + [DR 6MK High-Air Combo](#dr-6mk-high-air-combo)
 - ### Corner SA2 Combo
     - 旋轉SA2 + (DR + 5HK) + [3MP High-Air Combo](#3mp-high-air-combo)
     - 旋轉SA2 + (delay + 5HK) + (delay + 9 + OD Air-コマ投げ)/SA1
@@ -94,13 +84,20 @@
     - 3MP + [51F OKI](#51f-oki)
     - (3MP + OD旋風手) + 消費(9 + Air-コマ投げ) + [5F打摔擇](#5f打摔擇-3f5f)
     - 3MP + 消費(9) + [8F打摔擇](#8f打摔擇-6f9f)
+    - その場受け身/Corner：(3MP + 前旋風手) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f9f)
+        - 後方受け身：(3MP + 前旋風手) + 消費(6MK) + [西伯利亞 Combo](#西伯利亞-combo)
 - ### 6MK Combo
     - 6MK + [5F打摔擇](#5f打摔擇-3f5f)
 - #### DR 6MK Air Combo
     - (DR + 6MK) + [3MP Air Combo](#3mp-air-combo)
     - (DR + 6MK) + [2LP Air Reset](#2lp-air-reset)
-    - (DR + 6MK) + 5LK + Reset(DI)
+    - (DR + 6MK) + 5LK/2LP + Reset(DI)
     - (DR + 6MK) + 消費(6MK) + [10F打摔擇](#10f打摔擇)
+- #### DR 6MK High-Air Combo
+    - (DR + 6MK) + 消費(2LP) + [2LP Air Reset](#2lp-air-reset)
+    - (DR + 6MK) + 消費(2LP) + 2LP + Reset(DI)
+    - (DR + 6MK)/前ステ + 6MK + [10F打摔擇](#10f打摔擇)
+    - Midscreen：(DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
 
 ## Light Attack combo
 - ### 5LK Combo
