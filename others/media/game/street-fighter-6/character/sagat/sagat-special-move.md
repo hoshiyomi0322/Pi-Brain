@@ -14,6 +14,7 @@
 - ### 強昇竜 Combo
     - 強昇竜 + [SA3 Combo](sagat.md#sa3-combo)
     - 強昇竜 + [28F 強迅雷 OKI](sagat.md#28f-強迅雷-oki-27f28f)
+
 # 昇竜 Air Combo
 - ### 弱昇竜 Air Combo
     - 弱昇竜 + [SA3 Combo](sagat.md#sa3-combo)
