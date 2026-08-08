@@ -114,8 +114,12 @@
 - ### Light Attack PC Combo
     - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
 - ### Medium Attack PC Combo
-    - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
-    - 5MP(PC) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
+    - ### 5MP PC Combo
+        - ガード後可以Medium Attack PC：[6F PC](../../street-fighter-6.md#6f-pc)
+        - 5MP(PC) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[5HK Combo](#5hk-combo)
+    - ### 2MP PC Combo
+        - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+        - 2MP(PC) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
     - 6HK(PC) + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
