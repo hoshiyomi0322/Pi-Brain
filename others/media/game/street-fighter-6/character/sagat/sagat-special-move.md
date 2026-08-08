@@ -26,7 +26,7 @@
 
 # 溜め強昇竜 Combo
 - 溜め強昇竜 + [SA3 Combo](sagat.md#sa3-combo)
-- 溜め強昇竜 + OKI(DR + [2HP Combo](sagat.md#2hp-combo))
+- 溜め強昇竜 + [Far 23F OKI](sagat.md#far-23f-oki)
 
 # Tiger-knee Combo
 - ### 弱Tiger-knee Combo

@@ -56,17 +56,17 @@
 - ### 5MP Combo
     - 5MP + [2LP Combo](#2lp-combo)/[6F OKI](#6f-oki)
     - ガード(5MP) + [3F打摔擇](#3f打摔擇-2f3f)
-    - 相打ち(5MP) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
-- ### DR 5MP Combo
-    - DR + 5MP + [5HK Combo](#5hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
-    - DR + ガード(5MP) + [6F OKI](#6f-oki)
-    - DR + 相打ち(5MP) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
+    - 5MP(相打ち) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
     - (2MP + 5HK) + [SA1 Air Combo](#sa1-air-combo)/[SA2 Combo](#sa2-combo)/[SA3 Combo](#sa3-combo)
-    - 相打ち(2MP) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
+    - 2MP(相打ち) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### 5MK Combo
     - (5MK + 5HK) + [38F Tiger-knee OKI](#38f-tiger-knee-oki)
+- ### DR 5MP Combo
+    - DR + 5MP + [5HK Combo](#5hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
+    - DR + ガード(5MP) + [6F OKI](#6f-oki)
+    - DR + 5MP(相打ち) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 - ### DR 2MP Combo
     - (DR + 2MP) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
     - (DR + 2MP + 5HP) + [Medium Cancel Combo](#medium-cancel-combo)
@@ -115,6 +115,7 @@
     - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
 - ### Medium Attack PC Combo
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+    - 5MP(PC) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
     - 6HK(PC) + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](#5hk-combo)
@@ -178,26 +179,14 @@
     - 前歩き + [投げ](#投げ)
 - ### 6MP 重ね (22F/23F)
     - 6MP + [2LP Combo](#2lp-combo)
+    - ### Far 23F OKI
+        - DR + [2HP Combo](#2hp-combo)
 - ### 6HK OKI (15F)
     - [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)
 - ### 5MP 重ね (8F)
     - 5MP + [2MP Combo](#2mp-combo)
     - ガード(5MP) + [6F OKI](#6f-oki)
     - Close：5MP + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
-- ### Tiger-knee OKI
-    - #### 36F Tiger-knee OKI
-        - 強Tiger-knee + [42F OKI](#42f-oki)
-        - ガード(強Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
-        - 消費(弱Tiger-knee) + [投げ](#投げ)
-    - #### 38F Tiger-knee OKI
-        - 強Tiger-knee + [42F OKI](#42f-oki)
-        - ガード(強Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
-        - 消費(弱Tiger-knee) + [投げ](#投げ)
-        - 消費(前ステ) + [6HK OKI](#6hk-oki-15f)
-    - #### 39F Tiger-knee OKI
-        - 強Tiger-knee + [42F OKI](#42f-oki)
-        - ガード(強Tiger-knee) + [6F OKI](#6f-oki)
-        - 消費(弱Tiger-knee) + [投げ](#投げ)
 - ### 弾 OKI (19F~21F)
     - #### Close 弾 OKI
         - 中弾/[高OD弾 Combo](sagat-special-move.md#高od弾-combo)
@@ -207,6 +196,9 @@
         - 中Tiger-knee + 消費(前ステ) + [中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
         - ガード(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 強迅雷 OKI (25F~33F)
+    - #### DI OKI (25F/26F)
+        - DI
+        - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
     - #### 28F 強迅雷 OKI (27F/28F)
         - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
         - その場受け身/Corner：消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -221,17 +213,28 @@
     - #### 34F 強迅雷 OKI
         - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
         - Corner：消費(2MP) + [6F OKI](#6f-oki)
-    - #### DI OKI (25F/26F)
-        - DI
-        - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
+- ### Tiger-knee OKI
+    - #### 36F Tiger-knee OKI
+        - 強Tiger-knee + [42F OKI](#42f-oki)
+        - ガード(強Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
+        - 消費(弱Tiger-knee) + [投げ](#投げ)
+    - #### 38F Tiger-knee OKI
+        - 強Tiger-knee + [42F OKI](#42f-oki)
+        - ガード(強Tiger-knee) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 消費(弱Tiger-knee) + [投げ](#投げ)
+        - 消費(前ステ) + [6HK OKI](#6hk-oki-15f)
+    - #### 39F Tiger-knee OKI
+        - 強Tiger-knee + [42F OKI](#42f-oki)
+        - ガード(強Tiger-knee) + [6F OKI](#6f-oki)
+        - 消費(弱Tiger-knee) + [投げ](#投げ)
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [Close 弾 OKI](#close-弾-oki)
     - Close：消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### 48F OKI
+    - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - 消費(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
     - その場受け身/Corner：消費(弱Tiger-knee) + [6F OKI](#6f-oki)
-    - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - Corner
         - 消費(5HK) + [5MP 重ね](#5mp-重ね-8f)
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)

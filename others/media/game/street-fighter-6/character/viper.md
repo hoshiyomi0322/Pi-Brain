@@ -24,13 +24,15 @@
 - ### 5HP Combo
 - ### 2HP Combo
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + SA1/SA2/SA3
-    - (2HP + 弱地波) + (大跳取消Air-中火腿) + (5HK + delay(等5HK打完) + 大跳取消SA1)
-    - (2HP + 弱地波) + (大跳取消Air-中火腿) + (5HK + delay(等5HK打完) + 大跳取消OD火腿 + SA2/SA3)
+    - (2HP + 弱地波) + (大跳取消Air-中火腿) + [5HK Air Combo](#5hk-air-combo)
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + (OD火腿 + SA2/SA3)
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + (中衝擊 + [40F OKI](#40f-oki))
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + (中衝擊派生 + [30F OKI](#30f-oki))
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + (消費(強火腿) + [5F打摔擇](#5f打摔擇-4f5f))
     - (2HP + 弱地波) + (大跳取消Air-中火腿) + (消費(2HP) + [25F OKI](#25f-oki))
+- ### 5HK Air Combo
+    - (5HK + delay(等5HK打完) + 大跳取消SA1)
+    - (5HK + delay(等5HK打完) + 大跳取消OD火腿 + SA2/SA3)
 - ### DR 5HP Combo
     - (DR + 5HP) + [2MP Combo](#2mp-combo)
     - ガード(DR + 5HP) + [3F打摔擇](#3f打摔擇-2f3f)
@@ -54,6 +56,7 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 2HP + 2LP) + Reset (DI)
 - ### Stun Combo
+    - OD當身(Hold) + [2HP Combo](#2hp-combo)
     
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
