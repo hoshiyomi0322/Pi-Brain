@@ -36,6 +36,8 @@
     - (5HP + 5HK) + [39F Tiger-knee OKI](#39f-tiger-knee-oki)
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
+- ### 2HK Combo
+    - 2HK + [29F 強迅雷 OKI](#29f-強迅雷-oki)
 - ### 5HK Combo
     - 5HK + [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
     - 5HK + delay(等第二下打完) + [Heavy Cancel Combo](#heavy-cancel-combo)
@@ -197,8 +199,9 @@
         - その場受け身/Corner：[中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
     - #### Far 弾 OKI
         - 中弾/[高OD弾 Combo](sagat-special-move.md#高od弾-combo)
-        - 中Tiger-knee + 消費(前ステ) + [中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
-        - ガード(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
+        - その場受け身/Corner
+            - 中Tiger-knee + [48F OKI](#48f-oki)
+            - ガード(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 強迅雷 OKI (25F~33F)
     - #### DI OKI (25F/26F)
         - DI
