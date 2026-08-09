@@ -102,17 +102,16 @@
 - ### 強裂縫2MK SA2 Reset
     - SA2 + (5MK + 強裂縫) + 2HK + 前ステ + Reset(2MK) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/(delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - SA2 + (5MK + 強裂縫) + 2HK + 前ステ + ガード(2MK) + [強TC Combo](../jp.md#強tc-combo)
-- SA2 + (2MK + 5HP + OD裂縫(弱中)) + 5LP + Reset(2MK)
 - ### OD裂縫2MK SA2 Reset
     - ### Midscreen OD裂縫2MK SA2 Reset
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + Reset(2MK) + (バクステ + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/[2HP Reset](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + ガード(2MK) + (バクステ + [強TC Combo](../jp.md#強tc-combo))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + Reset(2MK) + (バクステ + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/[2HP Reset](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + ガード(2MK) + (バクステ + [強TC Combo](../jp.md#強tc-combo))
     - ### C-Switch OD裂縫2MK SA2 Reset
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + Reset(2MK) + (前ステ + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/[2HP Reset](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + ガード(2MK) + (前ステ + [強TC Combo](../jp.md#強tc-combo))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + Reset(2MK) + (前ステ + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/[2HP Reset](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + ガード(2MK) + (前ステ + [強TC Combo](../jp.md#強tc-combo))
     - ### Corner OD裂縫2MK SA2 Reset
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + Reset(2MK) + (前ステ + delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
-        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 5LP) + ガード(2MK) + (前ステ + [強TC Combo](../jp.md#強tc-combo))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + Reset(2MK) + (前ステ + delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - SA2 + (2MK + OD裂縫(中強)) + (前ステ + 2LP) + ガード(2MK) + (前ステ + [強TC Combo](../jp.md#強tc-combo))
 
 # 2HK SA2 Reset
 - SA2 + (2MK + 5HP*2) + OD裂縫(弱強) + 2HK + [2HK 傳送擇](#2hk-傳送擇)/[2HK 中下弾擇](#2hk-中下弾擇)
