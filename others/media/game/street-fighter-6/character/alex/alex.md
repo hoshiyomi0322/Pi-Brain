@@ -27,15 +27,17 @@
 
 # SA2 Air Combo
 - ### Corner
-    - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/SA1
+    - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/[DR 2HP Combo](#dr-2hp-combo)/SA1
 
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [5F打摔擇](#5f打摔擇-4f5f)
     - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### 2HP Combo
+- ### 2HP Air Combo
+    - (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
 - ### DR 2HP Combo
-    - (DR + 2HP) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
+    - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
     - DR + 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
     - DR + ガード(5HP(Hold)) + [Chop Combo](alex-special-move.md#chop-combo)
@@ -62,10 +64,10 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (8 + JHK) + [JMP Air Combo](#jmp-air-combo)
-    - Corner：DI(PC) + 前ステ + (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
+    - Corner：DI(PC) + 前ステ + [2HP Air Combo](#2hp-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)
-    - DI(Wall spalt) + (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
+    - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
 - ### Stun Combo
 
 # [投げ](../street-fighter-6.md#throw)
