@@ -63,7 +63,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (8 + JHK) + [JMP Air Combo](#jmp-air-combo)
+    - DI(PC) + (8 + delay + JHK) + [JMP Air Combo](#jmp-air-combo)
     - Corner：DI(PC) + 前ステ + [2HP Air Combo](#2hp-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)

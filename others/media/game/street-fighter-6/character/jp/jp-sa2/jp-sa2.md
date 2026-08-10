@@ -31,6 +31,9 @@
             - その場受け身：(2HK + 中弾/強弾) + (delay(等裂縫引爆) + 5LK) + Reset(コマ投げ)
             - 後方受け身：(2HK + 中弾/強弾) + (前歩き(等裂縫引爆) + 5LK) + Reset(コマ投げ)
 
+# Corner F式 Extension Combo
+- 強裂縫 + 前ステ + (5HP + 地刺) + [Corner OD裂縫F式 OKI](../jp.md#corner-od裂縫f式-oki-82f)
+
 # SA2 Combo
 - ### [General SA2 Combo](general-sa2.md)
 - ### [ガード SA2 Combo](blocked-sa2.md)

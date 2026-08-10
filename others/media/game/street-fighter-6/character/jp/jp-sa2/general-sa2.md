@@ -2,7 +2,7 @@
 - SA2 + 2MK + (5HK + 5HP + 強裂縫) + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
 
 # Switch SA2
-- SA2 + 2MK + 9 + (5HP + 強裂縫) + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
+- SA2 + (2MK + 9) + (5HP + 強裂縫) + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
 - ### C-Switch SA2
     - SA2 + 2HP + 中裂縫 + (バクステ + 9) + 消費(JHK) + (6HK + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
 
@@ -20,12 +20,19 @@
 - SA2 + (5MK + 強裂縫) + (前ステ + 5MK + 裂縫傳送) + Reset([強TC Combo](../jp.md#強tc-combo))
 - SA2 + (5MK + 強裂縫) + (前ステ*2 + 裂縫傳送) + Reset([強TC Combo](../jp.md#強tc-combo))
 
-# 5LP DI SA2 Reset
-- ### Midscreen
-    - SA2 + (5LP + DI) + 強裂縫 + 消費(2LK) + 安全飛び(JLK) + (8 + [F式](../jp.md#f式))/2MK + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
-- ### Corner
-    - SA2 + (5LP + DI) + 強裂縫 + 消費(2LK) + 安全飛び([General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇))
+# 5LP-DI SA2 Reset
+- ### 5LP-DI-F式 SA2 Reset
+    - #### Midscreen 5LP-DI-F式 SA2 Reset
+        - SA2 + (5LP + DI) + 強裂縫 + 消費(2LK) + 安全飛び(9) + delay + JLK + (8 + [F式](../jp.md#f式))/2MK + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
+    - #### Corner 5LP-DI-F式 SA2 Reset
+        - SA2 + (5LP + DI) + [Corner 裂縫F式 OKI](../jp.md#corner-裂縫f式-oki-110f)
 - SA2 + (5LP + DI) + [DI SA2 Αir Reset](air-sa2.md#di-sa2-αir-reset-對手無法反di)
+
+# F式 SA2 Reset
+- ### Corner F式 SA2 Reset
+    - SA2 + (2MK + 5HP) + [Corner F式 Extension Combo](jp-sa2.md#corner-f式-extension-combo)
+- ### C-Switch F式 SA2 Reset
+    - SA2 + (2MK + 9) + [Corner F式 Extension Combo](jp-sa2.md#corner-f式-extension-combo)
 
 # Midscreen SA2 Reset
 - SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)/[General Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-midscreen-裂縫-投げ擇)

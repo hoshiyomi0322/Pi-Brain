@@ -34,8 +34,13 @@
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2HP Air Combo
-    - 2HP + [推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
-    - 2HP + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
+    - 2HP + [Air Cancel Combo](#air-cancel-combo)
+- ### 酔い3 DR 4HP Combo
+    - (4HP + 5HP) + [Heavy Cancel Combo](#heavy-cancel-combo)
+    - Corner：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)
+- ### 酔い3 4HP Air Combo
+    - (4HP + 5HP) + [Air Cancel Combo](#air-cancel-combo)
+    - Corner：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)
 - ### 5HK Combo
     - 5HK + [Heavy Cancel Combo](#heavy-cancel-combo)
     - 5HK + Reset(DI)
@@ -87,17 +92,26 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - 酔い3：DI(PC) + (前ステ + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
 - ### Wall Splat Combo
     - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
+    - 酔い3：DI(Wall spalt) + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
     - DI(Wall spalt) + (2HP + SA2 + 2HP) + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))
     - DI(Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
+    - 酒飲み*2 + [ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 
 # Cancel Combo
 - ### Heavy Cancel Combo
-    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[酔拳 Combo](jamie-special-move.md#酔拳-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
+    - SA1
 - ### Medium Cancel Combo
-    - [酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[OD爆廻 Combo](jamie-special-move.md#od爆廻-combo)
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[酔拳 Combo](jamie-special-move.md#酔拳-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[OD爆廻 Combo](jamie-special-move.md#od爆廻-combo)
+    - SA1
+- ### Air Cancel Combo
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Combo](jamie-special-move.md#爆廻-combo)
+    - [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
+    - SA1
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
@@ -138,7 +152,9 @@
     - Corner：前ステ + [8F OKI](#8f-oki)
 - ### 32F OKI
     - [DR 6MK Combo](#dr-6mk-combo)
-    - Corner：[消費](../../street-fighter-6.md#frame-kill)(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
+    - Corner：消費(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
+- ### 36F OKI
+    - 
 - ### 42F OKI
     - 安全飛び
     - 前ステ + [Close 23F OKI](#close-23f-oki)

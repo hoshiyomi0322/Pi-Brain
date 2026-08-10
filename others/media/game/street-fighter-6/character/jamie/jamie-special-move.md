@@ -6,7 +6,7 @@
 - 醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[27F OKI](jamie.md#27f-oki)
 
 # 強酔拳 Air Combo
-- 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[32F OKI](jamie.md#32f-oki)
+- 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[36F OKI](jamie.md#36f-oki)
 
 # 推掌 Combo
 - ### 中推掌 Combo
@@ -36,7 +36,9 @@
 
 # コマ投げ Combo
 - ### ODコマ投げ Combo
-    - ODコマ投げ + 9 + JHP + Reset(DI)
+    - ODコマ投げ + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - 酔い3：ODコマ投げ + (前ステ + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
+    - ODコマ投げ + (9 + JHP) + Reset(DI)
 
 # 天晴脚 Combo
 - 天晴脚 + (前歩き + [5HP High-Air Combo](jamie.md#5hp-high-air-combo))

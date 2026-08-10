@@ -223,6 +223,14 @@
     - Close
         - 消費(2HP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(2LK) + [6MK 重ね](#6mk-重ね-22f)
+- ### Corner OD裂縫F式 OKI (82F)
+    - OD裂縫 + 安全飛び(9) + delay + JHK + (9 + [F式](jp.md#f式))/2MK + (delay + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - OD裂縫 + 安全飛び(9) + delay + JHK + (9 + [F式](jp.md#f式)) + (delay + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
+    - OD裂縫 + 安全飛び(9) + delay + (JHK + 2MK) + (前歩き + [Corner 2HP 中下擇](../../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇))
+    - 連ガ：OD裂縫 + 安全飛び(9) + delay + ガード(JHK + (9 + [F式](jp.md#f式))/2MK) + [強TC Combo](jp.md#強tc-combo)
+- ### Corner 裂縫F式 OKI (110F)
+    - 裂縫 + 消費(2LK) + 安全飛び(9) + delay + [General Corner 裂縫 F式擇](./jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇)
+    - 消費(2MK) + [Corner OD裂縫F式 OKI](#corner-od裂縫f式-oki-82f)
 
 # 対空
 - 対空 (Close)：[空投げ](#空投げ)

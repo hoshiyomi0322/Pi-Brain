@@ -71,8 +71,7 @@
     - #### OD弾打中
         - (OD弾 + 中弾) + (delay(等裂縫引爆) + [Corner 地刺 Highest-Air Combo](../jp-special-move/jp-special-move.md#corner-地刺-highest-air-combo))
 - #### F式 SA2 Reset
-    - SA2 + (弱風神 + 中風神) + 裂縫 + 消費(5LP) + 安全飛び([General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇))
-    - SA2 + (弱風神 + 中風神) + 消費(2MK) + OD裂縫 + 安全飛び([General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇))
+    - SA2 + (弱風神 + 中風神) + [Corner 裂縫F式 OKI](../jp.md#corner-裂縫f式-oki-110f)
 
 # BTW OD当身 SA2 Combo
 - [General SA2 Combo(2MK起始)](general-sa2.md)
@@ -81,4 +80,4 @@
 
 # BTW OD当身2LP SA2 Combo
 - SA2 + (2MP + 中裂縫) + (裂縫傳送 + [JMK Air Combo](../jp.md#jmk-air-combo))
-- SA2 + (2MP + 弱裂縫) + 消費(9 + JMK) + (中風神 + OD裂縫) + 9(安全飛び) + [General Corner 裂縫 F式擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-corner-裂縫-f式擇)
+- SA2 + (2MP + 弱裂縫) + 消費(9 + JMK) + (中風神 + [Corner OD裂縫F式 OKI](../jp.md#corner-od裂縫f式-oki-82f))
