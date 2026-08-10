@@ -2,9 +2,8 @@
 - 4HP + 強Tiger-knee + [弱昇竜 Air Combo](../sagat-special-move.md#弱昇竜-air-combo)
 - Midscreen/Near-corner：4HP + 中弾 + [6HK Air Combo](sagat-6hk-combo.md#6hk-air-combo)
 - 4HP + [DR 5HK High-Air Combo](../sagat.md#dr-5hk-high-air-combo)
-- 連ガ
-    - ガード(4HP + 中弾) + [3F打摔擇](../sagat.md#3f打摔擇-2f3f)
-    - ガード(4HP + OD Tiger-knee)
+- ガード(4HP) + [ガード後 Heavy Cancel Combo](../sagat.md#ガード後-heavy-cancel-combo)
+    
 - 4HP(相打ち) + [4HP Air Combo](#4hp-air-combo)
 
 # DR 4HP Combo

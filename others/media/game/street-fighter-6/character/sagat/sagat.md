@@ -147,12 +147,16 @@
     - [Medium Cancel Combo](#medium-cancel-combo)
     - [OD迅雷 Combo](#od迅雷-combo)
     - CDR + [DR 6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#dr-6hk-combo)
+    - #### ガード後 Heavy Cancel Combo
+        - 連ガ：ガード(OD Tiger-knee)
+        - [ガード後 Medium Cancel Combo](#ガード後-medium-cancel-combo)
 - ### Medium Cancel Combo
     - [昇竜 Combo](sagat-special-move.md#昇竜-combo)/[Tiger-knee Combo](sagat-special-move.md#tiger-knee-combo)
     - [中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
     - [SA1 Combo](#sa1-combo)/[SA2 Combo](#sa2-combo)
     - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#dr-4hp-combo)/[5HK Combo](#5hk-combo)
-    - ガード後
+    - #### ガード後 Medium Cancel Combo
+        - 連ガ：ガード(中弾) + [3F打摔擇](../sagat.md#3f打摔擇-2f3f)
         - [弱迅雷 Combo](sagat-special-move.md#弱迅雷-combo)/[中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
         - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MK Combo](#dr-2mk-combo)/[DR 6MP Combo](#dr-6mp-combo)
 - ### Light Cancel Combo
