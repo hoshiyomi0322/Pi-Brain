@@ -41,20 +41,21 @@
     - 中忍蜂/強忍蜂 + SA3
     - 中忍蜂/強忍蜂 + (前ステ + [5F打摔擇(バクステ)]())
 - ### OD忍蜂 Combo
-    - (OD忍蜂 + JMP) + 空插/[強昇竜 Combo]()/SA2
+    - (OD忍蜂 + JMP) + 空插/[強昇竜 Combo]()/SA1/SA2
     - (OD忍蜂 + JMP) + (OD空插 + SA2)
     - (OD忍蜂 + JMP) + (delay + 弱龍炎舞 + SA3)
-    - Corner：(OD忍蜂 + JMP) + SA1
     - #### 帶火 OD忍蜂 Combo
         - (OD忍蜂(帶火) + JMP + OD空插(帶火)) + [強昇竜 Combo]()/SA1/SA3
         - (OD忍蜂(帶火) + JMP + OD空插(帶火)) + (delay(等落地) + SA2)
         - Corner：(OD忍蜂(帶火) + JMP + OD空插(帶火)) + (delay(等落地) + SA2 + [強昇竜 Combo]()/SA1)
+
+# 忍蜂 Air Combo
 - ### 弱忍蜂 Air Combo
     - 弱忍蜂 + SA3
     - 弱忍蜂 + [OD溜め弾 OKI](mai.md#od溜め弾-oki-27f30f)
     - Corner：弱忍蜂 + (2MP + [5F打摔擇(後ろ歩き)]())
 - ### OD忍蜂 Air Combo
-    - OD忍蜂 + 空插/SA2
+    - OD忍蜂 + 空插/SA1/SA2
     - OD忍蜂 + (OD空插 + SA2)
     - (OD忍蜂 + JMP) + [強昇竜 Combo]()
     - (OD忍蜂 + JMP) + (delay + 弱龍炎舞) + SA3
