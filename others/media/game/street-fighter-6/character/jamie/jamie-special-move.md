@@ -40,6 +40,8 @@
 - ### OD空插 Combo
     - OD空插 + [2HK Combo](jamie.md#2hk-combo)
     - Corner：OD空插 + [5HP High-Air Combo](jamie.md#5hp-high-air-combo)
+- ### OD空插 Air Combo
+    - OD空插 + [2HK Combo](jamie.md#2hk-combo)
 
 # 爆廻 Combo
 - ### 弱爆廻 Combo

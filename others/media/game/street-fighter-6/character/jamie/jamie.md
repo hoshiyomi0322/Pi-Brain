@@ -82,7 +82,8 @@
 - ### JMK Combo
 - ### Jump Attack Air Combo
     - #### JMP Air Combo
-        - JMP + [OD空插 Combo](jamie-special-move.md#od空插-combo)
+        - JMP + [OD空插 Air Combo](jamie-special-move.md#od空插-air-combo)
+        - (JMP + 空插) + [DI OKI](#di-oki-25f26f)
     - #### JHK Air Combo
         - JHK + (前歩き + [5HP High-Air Combo](#5hp-high-air-combo))
     - #### JMK Air Combo
@@ -125,7 +126,7 @@
     - #### Midscreen 前投げ
         - 前投げ(Hold)
     - #### Corner 前投げ
-        - 前投げ(Hold) + [5MK OKI](#5mk-oki-8f)
+        - 前投げ(Hold) + [5MK OKI](#5mk-oki-6f8f)
 - ### 後ろ投げ
     - 後ろ投げ + [27F OKI](#27f-oki)
 
@@ -136,7 +137,7 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
-- ### 5MK OKI (8F)
+- ### 5MK OKI (6F~8F)
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
     - ### Close 23F OKI
@@ -153,14 +154,17 @@
         - Corner
             - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
             - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
+- ### DI OKI (25F/26F)
+    - DI
+    - 前ステ + [5MK OKI](#5mk-oki-6f8f)
 - ### 27F OKI
     - [DR 6HK Combo](#dr-6hk-combo)
-    - Corner：前ステ + [5MK OKI](#5mk-oki-8f)
+    - Corner：前ステ + [5MK OKI](#5mk-oki-6f8f)
 - ### 31F OKI (31F/32F)
     - [DR 6MK Combo](#dr-6mk-combo)
     - Corner
         - 消費(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
-        - 消費(2MP) + [5MK OKI](#5mk-oki-8f)
+        - 消費(2MP) + [5MK OKI](#5mk-oki-6f8f)
 - ### 35F OKI (34F~36F)
     - 
 - ### 42F OKI
@@ -169,7 +173,7 @@
 
 # [対空](../street-fighter-6.md#anti-air)
 - [昇竜 Combo](jamie-special-move.md#昇竜-combo)
-- 2HP + [5MK OKI](#5mk-oki-8f)
+- 2HP + [5MK OKI](#5mk-oki-6f8f)
 
 # todo
 - https://youtu.be/0NISyeWUxMI
