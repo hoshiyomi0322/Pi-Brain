@@ -9,6 +9,8 @@
     - 弱旋風腳 + [弱昇竜 Combo]()/[中昇竜 Combo]()/SA2
 - ### 中旋風腳 Combo
     - 中旋風腳 + (前ステ*2 + [5F打摔擇 (バクステ)](ken.md#5f打摔擇-バクステ))
+- ### 強旋風腳 Combo
+    - 強旋風腳
 
 # 跑步 Combo
 - ### General 跑步 Combo
