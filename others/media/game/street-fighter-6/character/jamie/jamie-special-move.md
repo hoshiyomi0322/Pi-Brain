@@ -15,7 +15,7 @@
     - 強昇竜
 
 # 酔拳 Combo
-- 醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[27F OKI](jamie.md#27f-oki)
+- 醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[31F OKI](jamie.md#31f-oki-31f32f)
 
 # 強酔拳 Air Combo
 - 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[35F OKI](jamie.md#35f-oki-34f36f)

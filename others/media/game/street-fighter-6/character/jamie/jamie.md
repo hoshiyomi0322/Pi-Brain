@@ -19,6 +19,8 @@
 
 # SA3 Combo
 - 打動力槽：SA3 + (DR + 2HP) + DI
+- SA3 + 消費(弱爆廻) + [5F打摔擇](#5f打摔擇-4f5f)
+- SA3 + [強爆廻 Air Combo](jamie-special-move.md#強爆廻-air-combo)/[OD爆廻 Air Combo](jamie-special-move.md#od爆廻-air-combo)
 - ### Corner SA3 Combo
     - SA3 + (前ステ + 5LP) + Reset(DI)
     - SA3 + (DR + 2HP + 5LP) + Reset(DI)
@@ -89,7 +91,9 @@
 # Counter Combo
 
 # PC Combo
-- 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+- ### 5HK PC Combo
+    - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
 
 # DI Combo
 - ### DI PC Combo
@@ -121,7 +125,7 @@
     - #### Midscreen 前投げ
         - 前投げ(Hold)
     - #### Corner 前投げ
-        - 前投げ(Hold) + [8F OKI](#8f-oki)
+        - 前投げ(Hold) + [5MK OKI](#5mk-oki-8f)
 - ### 後ろ投げ
     - 後ろ投げ + [27F OKI](#27f-oki)
 
@@ -132,7 +136,7 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
-- ### 8F OKI
+- ### 5MK OKI (8F)
     - [5MK Combo](#5mk-combo)
 - ### 23F OKI
     - ### Close 23F OKI
@@ -151,10 +155,12 @@
             - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
 - ### 27F OKI
     - [DR 6HK Combo](#dr-6hk-combo)
-    - Corner：前ステ + [8F OKI](#8f-oki)
-- ### 32F OKI
+    - Corner：前ステ + [5MK OKI](#5mk-oki-8f)
+- ### 31F OKI (31F/32F)
     - [DR 6MK Combo](#dr-6mk-combo)
-    - Corner：消費(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
+    - Corner
+        - 消費(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
+        - 消費(2MP) + [5MK OKI](#5mk-oki-8f)
 - ### 35F OKI (34F~36F)
     - 
 - ### 42F OKI
@@ -162,8 +168,8 @@
     - 前ステ + [Close 23F OKI](#close-23f-oki)
 
 # [対空](../street-fighter-6.md#anti-air)
-- ### [昇竜 Combo](jamie-special-move.md#昇竜-combo)
-- ### 2HP + [8F OKI](#8f-oki)
+- [昇竜 Combo](jamie-special-move.md#昇竜-combo)
+- 2HP + [5MK OKI](#5mk-oki-8f)
 
 # todo
 - https://youtu.be/0NISyeWUxMI
