@@ -58,6 +58,9 @@ sudo apt install <package-name>
 sudo apt remove <package-name>
 ```
 
+# fdisk
+
+
 # Networking
 - ### IP：`ip`
     |Command|Description|
