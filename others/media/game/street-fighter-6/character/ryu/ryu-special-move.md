@@ -36,10 +36,10 @@
     - Corner：中足刀 + [40F OKI](ryu.md#40f-oki)
 - ### 強足刀 Combo
     - 強足刀 + SA3
+    - 強足刀 + [45F OKI](ryu.md#45f-oki)
     - #### Corner 強足刀 Combo
         - 強足刀 + 中昇竜 + SA3
         - 強足刀 + 中昇竜 + (前ステ + [5HP 重ね](ryu.md#5hp-重ね-12f13f))
-        - 強足刀 + [45F OKI](ryu.md#45f-oki)
 - ### OD足刀 Combo
     - #### Midscreen OD足刀 Combo
         - OD足刀 + delay + [6HK Combo]()

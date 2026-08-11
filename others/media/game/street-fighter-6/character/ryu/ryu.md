@@ -14,6 +14,9 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
+- ### 6HP Combo
+    - 6HP + 
+    - ガード(6HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 4HP Combo
     - 4HP + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
     - 4HP + [強足刀 Combo](ryu-special-move.md#強足刀-combo)
@@ -83,8 +86,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - #### Midscreen 前投げ
-    - #### Corner 前投げ
+    - その場受け身/Corner：前投げ + [6HP OKI](#6hp-oki-12f13f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + 弱足刀
@@ -100,6 +102,8 @@
     - [5HP Combo]()
 - ### 5HP 重ね (12F/13F)
     - 5HP + [2MP Combo](#2mp-combo)
+- ### 6HP OKI (12F/13F)
+    - [6HP Combo](#6hp-combo)
 - ### 6MP 重ね (21F/22F)
     - 6MP + [2LP Combo](#2lp-combo)
 - ### 35F OKI
@@ -117,7 +121,8 @@
     - 消費(5MK) + [5HP 重ね](#5hp-重ね-12f13f)
     - 消費(2LK) + Reset(DI)
 - ### 45F OKI
-    - 消費(中波掌撃) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
-    - 消費(5HP) + [5HP 重ね](#5hp-重ね-12f13f)
-    - 消費(2MP) + [6MP 重ね](#6mp-重ね-21f22f)
     - 消費(前ステ) + Reset(DI)
+    - Corner
+        - 消費(中波掌撃) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+        - 消費(5HP) + [5HP 重ね](#5hp-重ね-12f13f)
+        - 消費(2MP) + [6MP 重ね](#6mp-重ね-21f22f)

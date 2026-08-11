@@ -30,17 +30,19 @@
 # Heavy Attack Combo
 - ### 5HP High-Air Combo
     - 5HP + [2HK Combo](#2hk-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/SA1/[SA3 Combo](#sa3-combo)
-    - Corner：5HP + 強昇竜
+    - Corner：5HP + [昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2HP Air Combo
     - 2HP + [Air Cancel Combo](#air-cancel-combo)
 - ### 酔い3 DR 4HP Combo
-    - (4HP + 5HP) + [Heavy Cancel Combo](#heavy-cancel-combo)
-    - Corner：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)
+    - DR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
 - ### 酔い3 4HP Air Combo
     - (4HP + 5HP) + [Air Cancel Combo](#air-cancel-combo)
-    - Corner：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)
+    - QQH
+        - (4HP + 5HP + 5HK) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
+        - (4HP + 5HP + 5HK) + (前ステ + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1)
+    - Near-wall：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
 - ### 5HK Combo
     - 5HK + [Heavy Cancel Combo](#heavy-cancel-combo)
     - 5HK + Reset(DI)
@@ -153,7 +155,7 @@
 - ### 32F OKI
     - [DR 6MK Combo](#dr-6mk-combo)
     - Corner：消費(2MK) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
-- ### 36F OKI
+- ### 35F OKI (34F~36F)
     - 
 - ### 42F OKI
     - 安全飛び

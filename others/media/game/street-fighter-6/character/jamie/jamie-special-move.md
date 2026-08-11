@@ -1,12 +1,24 @@
 # 昇竜 Combo
 - ### 弱昇竜 Combo
     - 弱昇竜 + [42F OKI](jamie.md#42f-oki)
+- ### 中昇竜 Combo
+    - 中昇竜
+- ### 強昇竜 Combo
+    - 強昇竜
+
+# 昇竜 Air Combo
+- ### 弱昇竜 Air Combo
+    - 弱昇竜
+- ### 中昇竜 Air Combo
+    - 中昇竜
+- ### 強昇竜 Air Combo
+    - 強昇竜
 
 # 酔拳 Combo
 - 醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[27F OKI](jamie.md#27f-oki)
 
 # 強酔拳 Air Combo
-- 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[36F OKI](jamie.md#36f-oki)
+- 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[35F OKI](jamie.md#35f-oki-34f36f)
 
 # 推掌 Combo
 - ### 中推掌 Combo
@@ -27,12 +39,27 @@
 # 空插 Combo
 - ### OD空插 Combo
     - OD空插 + [2HK Combo](jamie.md#2hk-combo)
+    - Corner：OD空插 + [5HP High-Air Combo](jamie.md#5hp-high-air-combo)
 
 # 爆廻 Combo
 - ### 弱爆廻 Combo
     - 弱爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[42F OKI](jamie.md#42f-oki)
+- ### 中爆廻 Combo
+    - 中爆廻 + [SA3 Combo](jamie.md#sa3-combo)
+- ### 強爆廻 Combo
+    - 強爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[35F OKI](jamie.md#35f-oki-34f36f)
 - ### OD爆廻 Combo
     - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[Far 23F OKI](jamie.md#far-23f-oki)
+
+# 爆廻 Air Combo
+- ### 弱爆廻 Air Combo
+    - 弱爆廻 + [SA3 Combo](jamie.md#sa3-combo)
+- ### 中爆廻 Air Combo
+    - 中爆廻 + [SA3 Combo](jamie.md#sa3-combo)
+- ### 強爆廻 Air Combo
+    - 強爆廻 + [SA3 Combo](jamie.md#sa3-combo)
+- ### OD爆廻 Air Combo
+    - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)
 
 # コマ投げ Combo
 - ### ODコマ投げ Combo
