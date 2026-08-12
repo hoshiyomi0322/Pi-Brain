@@ -83,6 +83,7 @@
     - #### 溜め技 (蓄力招)：技を出す際に一定時間方向キーを倒し続ける必要のある技
     - #### アーマー (Armor)：打撃攻撃に特定回数だけ耐えられる状態
     - #### 竜巻旋風脚 (Tatsumaki Senpukyaku, Tatsumaki)：214K
+    - #### 構え (Stance)
 - ### 特殊技 (Unique Attack)
 - ### Super Art (SA, スーパーアーツ)
     - #### SA1, SA2, SA3
@@ -212,6 +213,7 @@
         - Gouki：2HK, 5HK(しゃがみガード), 灼火派生, 旋風腳
         - Ken：(5MP + 5HP)
         - Ryu：2HK, 4HP, 中波掌擊, 弱足刀
+        - Blanka：弱前翻滾, 中前翻滾
         - Zangief：2HK, 3HK
         - Honda：OD頭槌
         - Vega：2HK, 3HK, Psycho Crusher, 埋炸彈, OD剪刀腳, 踩頭

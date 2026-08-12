@@ -58,15 +58,15 @@
 # Medium Attack Combo
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo]()
-    - ガード(2MP) + [ガード Cancel Combo]()
+    - ガード(2MP) + [ガード後 Cancel Combo]()
     - 2MP(相打ち) + [2MP Combo]()
 - ### 5MK Combo
     - 5MK + [5MP Combo]()
-    - ガード(5MK + 5MP) + [ガード Cancel Combo]()
+    - ガード(5MK + 5MP) + [ガード後 Cancel Combo]()
     - 5MK(相打ち) + [10F 相打ち Combo]()
 - ### 2MK Combo
     - 2MK + [5LP Combo]()
-    - ガード(2MK + 5LP*2) + [ガード Cancel Combo]()
+    - ガード(2MK + 5LP*2) + [ガード後 Cancel Combo]()
     - 2MK(相打ち) + [10F 相打ち Combo]()
 - ### DR 3MP Combo
     - DR + 3MP + [2MP Combo]()
@@ -87,17 +87,17 @@
 # Light Attack combo
 - ### 5LP Combo
     - 5LP*2 + [Light Cancel Combo]()
-    - ガード(5LP*2) + [ガード Cancel Combo]()
+    - ガード(5LP*2) + [ガード後 Cancel Combo]()
 - ### 2LP Combo
     - #### Close 2LP Combo
         - 2LP*2 + [Light Cancel Combo]()
-        - ガード(2LP*2) + [ガード Cancel Combo]()
+        - ガード(2LP*2) + [ガード後 Cancel Combo]()
     - #### Far 2LP Combo
         - 2LP + [Light Cancel Combo]()
-        - ガード(2LP) + [ガード Cancel Combo]()
+        - ガード(2LP) + [ガード後 Cancel Combo]()
 - ### 5LK Combo
     - 5LK + [Light Cancel Combo]()
-    - ガード(5LK) + [ガード Cancel Combo]()
+    - ガード(5LK) + [ガード後 Cancel Combo]()
 
 # Jump Attack Combo
 - ### JHK Combo
@@ -143,7 +143,7 @@
     - [毒鞭 Combo]()/[毒泡 Combo]()
 - ### Light Cancel Combo
     - [中毒鞭 Combo]()/[強毒鞭 Combo]()/[毒泡 Combo]()
-- ### ガード Cancel Combo
+- ### ガード後 Cancel Combo
     - [蛇行コマ投げ](./aki-special-move/2pp.md#蛇行コマ投げ-combo)/[蛇行踢 Combo]()
     - [毒泡 Combo]()/[Close OD弾 Combo]()
 
@@ -186,7 +186,7 @@
 - ### 25F OKI
     - #### Close 25F OKI
         - 3MP + [5LP Combo]()
-            - ガード：(3MP + 5LP*2) + [ガード Cancel Combo]()
+            - ガード：(3MP + 5LP*2) + [ガード後 Cancel Combo]()
         - [Far 25F OKI](#far-25f-oki)
     - #### Far 25F OKI
         - 前ステ + [2MK OKI]()

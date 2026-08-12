@@ -1,6 +1,6 @@
 # 5MP Combo
 - 5MP + [Light Cancel Combo]()
-- ガード(5MP) + [ガード Cancel Combo]()
+- ガード(5MP) + [ガード後 Cancel Combo]()
 - 5MP(相打ち) + [2MP Combo]()
 
 # DR 5MP Combo

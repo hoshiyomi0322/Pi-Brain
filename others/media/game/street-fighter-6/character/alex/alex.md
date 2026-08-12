@@ -5,22 +5,22 @@
         - OD Chop：236PP
 - ### 昇竜：623K
 - ### コマ投げ：624P
-- ### Stance：2 + PP
-    - Stance-cancel：(2 + PP) + 8
-    - Stance-move
-        - Stance-forward：(2 + PP) + 6
-        - Stance-backward：(2 + PP) + 4
-    - Stance-elbow：(2 + PP) + 6P
-    - Stance-lp：(2 + PP) + LP
-    - Stance-対空：(2 + PP) + MP
-    - Stance-chop：(2 + PP) + HP
-        - Stance-armor：(2 + PP) + HP(Hold)
-    - Stance-jump：(2 + PP) + LK
-    - Stance-踩頭：(2 + PP) + MK
-    - Stance-下段：(2 + PP) + HK
-        - Stance-下段派生：(2 + PP) + (HK + HK)
-    - Stance-投げ (Close)：(2 + PP) + 投げ
-    - Stance-コマ投げ：(2 + PP) + (2 + 投げ)
+- ### 構え：2 + PP
+    - 構え-cancel：(2 + PP) + 8
+    - 構え-move
+        - 構え-forward：(2 + PP) + 6
+        - 構え-backward：(2 + PP) + 4
+    - 構え-elbow：(2 + PP) + 6P
+    - 構え-lp：(2 + PP) + LP
+    - 構え-対空：(2 + PP) + MP
+    - 構え-chop：(2 + PP) + HP
+        - 構え-armor：(2 + PP) + HP(Hold)
+    - 構え-jump：(2 + PP) + LK
+    - 構え-踩頭：(2 + PP) + MK
+    - 構え-下段：(2 + PP) + HK
+        - 構え-下段派生：(2 + PP) + (HK + HK)
+    - 構え-投げ (Close)：(2 + PP) + 投げ
+    - 構え-コマ投げ：(2 + PP) + (2 + 投げ)
 
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](alex-special-move.md)
@@ -35,7 +35,7 @@
     - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### 2HP Combo
 - ### 2HP Air Combo
-    - (2HP + 中Axe) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
+    - (2HP + 中Axe) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
 - ### DR 2HP Combo
     - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
@@ -58,8 +58,8 @@
 # Counter Combo
 
 # PC Combo
-- [Stance PC Combo](alex-special-move.md#stance-pc-combo)
-- 5HK(Hold)(PC) + [Stance-対空 Air Combo](alex-special-move.md#stance-対空-air-combo)
+- [構え PC Combo](alex-special-move.md#構え-pc-combo)
+- 5HK(Hold)(PC) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
 
 # DI Combo
 - ### DI PC Combo

@@ -1,6 +1,6 @@
 # 5HK Combo
 - 5HK + [Medium Cancel Combo]()/[蛇行踢 Combo]()
-- ガード(5HK) + [ガード Cancel Combo]()
+- ガード(5HK) + [ガード後 Cancel Combo]()
 - 5HK(相打ち) + [10F 相打ち Combo]()
 
 # DR 5HK Combo
