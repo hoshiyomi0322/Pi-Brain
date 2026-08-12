@@ -49,8 +49,8 @@
     - #### Structured BASIC
     - #### Pascal
     - #### Modula-2
-    - #### [C](../../coding/programming-language/c.md)
-    - #### [C++](../../coding/programming-language/oop/cpp.md)
+    - #### [C](../../coding/programming-language/types-of-programming-language/c/c.md)
+    - #### [C++](../../coding/programming-language/types-of-programming-language/oop/cpp/cpp.md)
 - ### Operating Systems (OS)
     |Operating Systems|Developer|
     |:---:|:---:|
@@ -76,14 +76,14 @@
     - #### Google Workspace
 - ### Object-Oriented Design (OOD)/[Object-Oriented Programming (OOP)](../../coding/programming-language/programming-language.md#object-oriented-programmingoop)
     - #### Simula
-    - #### [C++](../../coding/programming-language/oop/cpp.md)
+    - #### [C++](../../coding/programming-language/types-of-programming-language/oop/cpp/cpp.md)
     - #### Objective-C
     - #### Object Pascal
-    - #### [Python](../../coding/programming-language/oop/python.md)
+    - #### [Python](../../coding/programming-language/types-of-programming-language/oop/python/python.md)
     - #### Object-Oriented BASIC
         - Visual Basic
         - Visual Basic .NET
-    - #### [Java](../../coding/programming-language/oop/java.md)
+    - #### [Java](../../coding/programming-language/types-of-programming-language/oop/java/java.md)
     - #### JavaScript
     - #### PHP
     - #### Ruby
