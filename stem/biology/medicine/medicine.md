@@ -16,8 +16,8 @@
 - ### Gastroenterology
 
 # Hematology, Cardiology and Immunology
-- ### Hematology
-- ### Cardiology
+- ### [Hematology](./hematology-cardiology-and-immunology/hematology/hematology.md)
+- ### [Cardiology](./hematology-cardiology-and-immunology/cardiology/cardiology.md)
 - ### Immunology
 
 # Urology and Reproductive Medicine
