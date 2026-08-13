@@ -26,13 +26,12 @@
     - #### Chemistry
     - #### Others (Physics and Chemistry)
 - ### Biology
-    - #### Medicine
-    - #### Cell Biology
+    - #### [Medicine](stem/biology/medicine/medicine.md)
+    - #### [Cell Biology](stem/biology/cell-biology.md)
     - #### Genetics
     - #### Botany
     - #### Virology
     - #### Taxonomy
-    - #### Others (Biology)
 - ### Geoscience
     - #### Astronomy
     - #### Geology
