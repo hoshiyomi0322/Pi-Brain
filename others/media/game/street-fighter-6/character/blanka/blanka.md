@@ -211,4 +211,6 @@
     - 弱放炸彈 + [放電 OKI](#放電-oki-7f)
     - 連ガ (その場受け身/Corner)
         - 弱放炸彈 + ガード(OD放電 + 5LK + [放電 Combo](blanka-special-move.md#放電-combo-1)/[OD放電 Combo](blanka-special-move.md#od放電-combo)/[2MP Combo](#2mp-combo))
+- ### 60F OKI
+    - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 

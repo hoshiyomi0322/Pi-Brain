@@ -35,6 +35,9 @@
 - ### Mid OD後翻滾 Combo
     - ガード(OD後翻滾) + [4MK OKI](blanka.md#4mk-oki-6f7f)
 
+# Close OD後翻滾 Air Combo
+- OD後翻滾 + [60F OKI](blanka.md#60f-oki)
+
 # 強後翻滾 PC Combo
 - 強後翻滾(PC) + (DR + 3HP) + [35F OKI](blanka.md#35f-oki)
 - Corner：強後翻滾(PC) + 3HP + [35F OKI](blanka.md#35f-oki)
@@ -67,3 +70,4 @@
 - Corner
     - 構え-attack + [中昇竜 Air Combo](#中昇竜-air-combo)
     - 構え-attack + [55F OKI](blanka.md#55f-oki-54f55f)
+    - 構え-attack + [Close OD後翻滾 Air Combo](#close-od後翻滾-air-combo)
