@@ -236,7 +236,7 @@
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)
 - ### [Lily](./character/lily/lily.md)
-- ### [Blanka](./character/blanka.md)
+- ### [Blanka](./character/blanka/blanka.md)
 - ### [Zangief](./character/zangief.md)
 - ### [Honda](./character/honda.md)
 - ### [Manon](./character/manon.md)
