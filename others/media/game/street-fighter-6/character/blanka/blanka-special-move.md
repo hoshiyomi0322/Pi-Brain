@@ -54,8 +54,9 @@
 
 # 放電 Combo
 - ### 放電 Combo
+    - 放電 + [中コマ投げ OKI](blanka.md#中コマ投げ-oki-39f)
 - ### OD放電 Combo
-    - OD放電 + [強コマ投げ OKI](blanka.md#強コマ投げ-oki-40f)
+    - OD放電 + [40F 強コマ投げ OKI](blanka.md#40f-強コマ投げ-oki-40f)
     - 連ガ：ガード(OD放電) + [5LK Combo](blanka.md#5lk-combo)
 
 # 構え-attack Combo
