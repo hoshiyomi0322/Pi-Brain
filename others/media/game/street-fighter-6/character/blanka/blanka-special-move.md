@@ -41,9 +41,11 @@
 
 # 昇竜 Combo
 - ### 弱昇竜 Combo
+    - 弱昇竜 + [35F OKI](blanka.md#35f-oki)
 - ### 中昇竜 Combo
     - 中昇竜 + [42F OKI](blanka.md#42f-oki)
 - ### 強昇竜 Combo
+    - 強昇竜 + [42F OKI](blanka.md#42f-oki)
 - ### OD昇竜 Combo
     - OD昇竜 + [28F OKI](blanka.md#28f-oki)
 
