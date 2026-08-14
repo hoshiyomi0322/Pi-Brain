@@ -15,10 +15,11 @@
     - #### 構え-jump：2PP + K
     - #### 構えCancel：2PP + 8
 - ### コマ投げ：236K
-- ### 帶電：SA2狀態中
 - ### Hop：6/4 + KKK
     - #### 前hop：6 + KKK
     - #### 後hop：4 + KKK
+- ### 帶電：SA2狀態中
+- ### 帶炸彈：有放炸彈
 
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](blanka-special-move.md)
@@ -214,3 +215,7 @@
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 
+# todo
+- https://youtu.be/zUvNygdO7t0
+- https://youtube.com/shorts/O41qKAXCTRI
+- https://youtube.com/shorts/E7W6IKryp3g
