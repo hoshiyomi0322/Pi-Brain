@@ -5,11 +5,13 @@
     - 中前翻滾 + [SA3 Combo](blanka.md#sa3-combo)
 - ### 強前翻滾 Combo
     - 強前翻滾 + [SA3 Combo](blanka.md#sa3-combo)
-    - その場受け身/Corner：強前翻滾 + [30F OKI](#30f-oki)
+    - その場受け身/Corner：強前翻滾 + [ODコマ投げ OKI](blanka.md#odコマ投げ-oki-30f)
 - ### OD前翻滾 Combo
     - OD前翻滾 + [中昇竜 Air Combo](#中昇竜-air-combo)
     - OD前翻滾 + (delay + SA1/SA2/[SA3 Combo](blanka.md#sa3-combo))
     - OD前翻滾 + [57F OKI](blanka.md#57f-oki)
+    - #### 帶電 OD前翻滾 Combo
+        - OD前翻滾 + 弱昇竜 + 翻滾Cancel(9MP + 8MP + 9MP) + [60F OKI](blanka.md#60f-oki)
 
 # 前翻滾 Air Combo
 - ### 弱前翻滾 Air Combo
@@ -17,6 +19,10 @@
     - 中前翻滾 + [SA3 Combo](blanka.md#sa3-combo)
 - ### 強前翻滾 Air Combo
 - ### OD前翻滾 Air Combo
+
+# 強前翻滾 PC Combo
+- 強前翻滾(PC) + (DR + 3HP) + [35F OKI](blanka.md#35f-oki)
+- Corner：強前翻滾(PC) + 3HP + [35F OKI](blanka.md#35f-oki)
 
 # 後翻滾 Combo
 - ### 弱後翻滾 Combo
@@ -36,11 +42,12 @@
     - ガード(OD後翻滾) + [4MK OKI](blanka.md#4mk-oki-6f7f)
 
 # Close OD後翻滾 Air Combo
+- OD後翻滾 + [6HP Combo](blanka.md#6hp-combo)
 - OD後翻滾 + [60F OKI](blanka.md#60f-oki)
+- OD後翻滾 + 消費(2LP) + SA1/[SA3 Combo](blanka.md#sa3-combo)
 
-# 強後翻滾 PC Combo
-- 強後翻滾(PC) + (DR + 3HP) + [35F OKI](blanka.md#35f-oki)
-- Corner：強後翻滾(PC) + 3HP + [35F OKI](blanka.md#35f-oki)
+# 後翻滾 PC Combo
+- (弱後翻滾/中後翻滾/強後翻滾/OD後翻滾)(PC) + [5HP Combo](blanka.md#5hp-combo)
 
 # 昇竜 Combo
 - ### 弱昇竜 Combo
@@ -50,7 +57,7 @@
 - ### 強昇竜 Combo
     - 強昇竜 + [42F OKI](blanka.md#42f-oki)
 - ### OD昇竜 Combo
-    - OD昇竜 + [28F OKI](blanka.md#28f-oki)
+    - OD昇竜 + [27F OKI](blanka.md#27f-oki)
 
 # 中昇竜 Air Combo
 - 中昇竜 + [46F OKI](blanka.md#46f-oki-46f47f)
@@ -58,9 +65,14 @@
 # 放電 Combo
 - ### 放電 Combo
     - 放電 + [中コマ投げ OKI](blanka.md#中コマ投げ-oki-39f)
+    - #### 帶炸彈 放電 Combo
+        - Corner
+            - (放電 + delay + 放炸彈) + OD放電 + 
 - ### OD放電 Combo
     - OD放電 + [40F 強コマ投げ OKI](blanka.md#40f-強コマ投げ-oki-40f)
+    - OD放電 + SA2 + [帶電 OD前翻滾 Combo](#帶電-od前翻滾-combo)
     - 連ガ：ガード(OD放電) + [5LK Combo](blanka.md#5lk-combo)
+    - #### 帶炸彈 OD放電 Combo
 
 # 構え-attack Combo
 - 構え-attack + [中前翻滾 Air Combo](#中前翻滾-air-combo)
@@ -71,3 +83,13 @@
     - 構え-attack + [中昇竜 Air Combo](#中昇竜-air-combo)
     - 構え-attack + [55F OKI](blanka.md#55f-oki-54f55f)
     - 構え-attack + [Close OD後翻滾 Air Combo](#close-od後翻滾-air-combo)
+
+# コマ投げ Combo
+- ### 弱コマ投げ Combo
+    - 弱コマ投げ + [35F OKI](blanka.md#35f-oki)
+- ### 中コマ投げ Combo
+    - 中コマ投げ + [35F OKI](blanka.md#35f-oki)
+- ### 強コマ投げ Combo
+    - 強コマ投げ + [35F OKI](blanka.md#35f-oki)
+- ### ODコマ投げ Combo
+    - ODコマ投げ
