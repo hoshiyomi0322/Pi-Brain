@@ -6,7 +6,7 @@
 ### General 4HK Combo
 
 - 4HK + [Close High-Air 旋風腳 Combo]()
-- (4HK + OD百鬼旋風腳) + [強旋風腳 Combo]()/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
+- (4HK + OD百鬼-旋風腳) + [強旋風腳 Combo]()/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
 
 ### 4HK OD溜め弾 Combo
 
@@ -16,7 +16,7 @@
 #### 4HK OD溜め弾 DR Combo
 
 - (4HK + OD溜め弾) + (DR + delay + 2HP + [Close High-Air 旋風腳 Combo]())
-- (4HK + OD溜め弾) + (DR + 4HK + 強百鬼5HK + [中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3)
+- (4HK + OD溜め弾) + (DR + 4HK + 強百鬼-強踢 + [中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3)
 - QQH 4HKOD溜め弾DR Combo
     - (4HK + OD溜め弾) + (DR + [High-Air Corner 4HK Combo]())
     - (4HK + OD溜め弾) + (DR + 4HK/(delay + 2HP)) + (CDR + [High-Air Corner 4HK Combo]())
@@ -37,34 +37,34 @@
 ### C-Switch 4HK Combo
 
 - 4HK + CDR + [強旋風腳 Air Combo]()/[Corner 弱昇竜 Combo]()
-- 4HK + 消費(中百鬼下段) + [5F打摔擇 (バクステ)]()
+- 4HK + 消費(中百鬼-下段) + [5F打摔擇 (バクステ)]()
 - 4HK + 消費(強灼火) + [32F OKI](gouki.md#32f-oki)
-- 4HK + 消費(強百鬼Cancel) + [Close 28F OKI](gouki.md#close-28f-oki)
+- 4HK + 消費(強百鬼-Cancel) + [Close 28F OKI](gouki.md#close-28f-oki)
 
 ### Corner 4HK Combo
 
 - (4HK + 溜め弾1) + [強旋風腳 Air Combo]()/[Air Corner 中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)
-- [4HKOD溜め弾 Combo]()
+- [4HK OD溜め弾 Combo]()
 
 #### General Corner 4HK Combo
 
 - [General 4HK Combo]()
-- (4HK + 百鬼腳) + [強旋風腳 Air Combo]()/[Air 2HK Combo](gouki.md#air-2hk-combo)/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + OD百鬼空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + OD百鬼空弾) + (OD旋風腳 + [弱昇竜 Combo]())
-    - (4HK + OD百鬼空弾) + (DR + 5MP) + (CDR + [Corner 4HK Combo]())
-    - (4HK + OD百鬼空弾) + (OD弾 + SA1/[SA2 Combo](gouki.md#sa2-combo))
-    - (4HK + OD百鬼空弾) + (delay + SA1)/[SA2 Combo](gouki.md#sa2-combo)
-    - (4HK + OD百鬼空弾) + 消費(DR + 5HK) + [5F打摔擇 (バクステ)]()
+- (4HK + 百鬼-踢) + [強旋風腳 Air Combo]()/[Air 2HK Combo](gouki.md#air-2hk-combo)/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
+- (4HK + OD百鬼-空弾) + [Air Corner 中旋風腳 Combo]()
+    - (4HK + OD百鬼-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
+    - (4HK + OD百鬼-空弾) + (DR + 5MP) + (CDR + [Corner 4HK Combo]())
+    - (4HK + OD百鬼-空弾) + (OD弾 + SA1/[SA2 Combo](gouki.md#sa2-combo))
+    - (4HK + OD百鬼-空弾) + (delay + SA1)/[SA2 Combo](gouki.md#sa2-combo)
+    - (4HK + OD百鬼-空弾) + 消費(DR + 5HK) + [5F打摔擇 (バクステ)]()
 - (4HK + 強灼火派生) + 消費(弱昇竜) + OD昇竜/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3
 - (4HK + 強灼火派生) + 消費(弱旋風腳) + [5F打摔擇 (バクステ)]()
 
 #### High-Air Corner 4HK Combo
 
-- (4HK + delay-百鬼腳) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + delay-OD百鬼空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + delay-OD百鬼空弾) + (OD旋風腳 + [弱昇竜 Combo]())
-    - (4HK + OD百鬼空弾) + (DR + 5MP) + (CDR + [High-Air Corner 4HK Combo]())
-    - (4HK + delay-OD百鬼空弾) + SA1/[SA2 Combo](gouki.md#sa2-combo)
-    - (4HK + delay-OD百鬼空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
-- (4HK + OD百鬼旋風腳) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
+- (4HK + delay-百鬼-踢) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
+- (4HK + delay-OD百鬼-空弾) + [Air Corner 中旋風腳 Combo]()
+    - (4HK + delay-OD百鬼-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
+    - (4HK + OD百鬼-空弾) + (DR + 5MP) + (CDR + [High-Air Corner 4HK Combo]())
+    - (4HK + delay-OD百鬼-空弾) + SA1/[SA2 Combo](gouki.md#sa2-combo)
+    - (4HK + delay-OD百鬼-空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
+- (4HK + OD百鬼-旋風腳) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()

@@ -58,13 +58,13 @@
 - ### Stun Combo
     - OD當身(Hold) + [2HP Combo](#2hp-combo)
     
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)

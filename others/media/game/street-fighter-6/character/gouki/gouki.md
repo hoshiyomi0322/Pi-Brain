@@ -12,16 +12,13 @@
     - #### 灼火派生：214P + 6P
 - ### 昇竜：623P
 - ### 百鬼襲：236K
-    - #### 百鬼下段：236K
-    - #### 百鬼中段：236K + P
-        - delay-百鬼中段：236K + delay + P
-    - #### 百鬼x腳：236K + xK
-        - delay-百鬼x腳：236K + delay + xK
-    - #### 百鬼Cancel：236K + 2
-    - #### OD百鬼空弾：236KK + 236P
-        - delay-OD百鬼空弾：236KK + delay + 236P
-    - #### OD百鬼旋風腳：236KK + 214K
-        - delay-OD百鬼旋風腳：236KK + delay + 214K
+    - #### 百鬼-下段：236K
+    - #### 百鬼-中段：236K + P
+    - #### 百鬼-x踢：236K + xK
+    - #### 百鬼-cancel：236K + 2
+    - #### OD百鬼-空弾：236KK + 236P
+    - #### OD百鬼-旋風腳：236KK + 214K
+    - #### delay-百鬼-x：236K + delay + x
 - ### 旋風腳：214K
     - #### Air 旋風腳：9 + 214K
 - ### 阿修羅：6/4 + KKK
@@ -41,8 +38,9 @@
     - #### 禊(SA2)：214214K
     - #### 金剛國裂斬(SA2)：22PPP
 
-# 必殺技 Combo
-- ### [必殺技 Combo](gouki-special-move.md)
+# [必殺技 Combo](./gouki-special-move/gouki-special-move.md)
+- ### [旋風腳 Combo](./gouki-special-move/gouki-tatsumaki.md)
+- ### [灼火 Combo](./gouki-special-move/gouki-adamant-flame.md)
 
 # SA2 Combo
 - ### Near-wall SA2 Combo(相手 沒有Hard Knockdown)
@@ -299,8 +297,8 @@
     - 消費(DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
     - その場受け身/Corner：消費(5MP) + [9F 5HP 重ね](#9f-5hp-重ね)
 - ### 百鬼 OKI
-    - 強百鬼強腳 + [2MP Combo]()
-    - ガード(強百鬼強腳) + [3F打摔擇]()
+    - 強百鬼-強踢 + [2MP Combo]()
+    - ガード(強百鬼-強踢) + [3F打摔擇]()
     - その場受け身/Corner
         - 消費(DR + 5MP) + [5F打摔擇 (バクステ)]()
     - Corner

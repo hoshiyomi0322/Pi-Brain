@@ -21,17 +21,17 @@
 
 # Cancel Combo
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
 
 # todo
-- https://youtube.com/shorts/Yaq5Yxzv6C4?si=R1z_tFvoms9F4nm7
+- https://www.youtube.com/shorts/WJ5C3K_8bxo?feature=share

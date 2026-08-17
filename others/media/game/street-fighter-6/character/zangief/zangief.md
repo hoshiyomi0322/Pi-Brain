@@ -165,14 +165,14 @@
     - CDR + 2LP + [3MP Combo](#3mp-combo)
     - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
     - その場受け身/Corner：後ろ投げ + [8F打摔擇](#8f打摔擇-6f9f)
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 5F打摔擇 (3F~5F)
     - [投げ](#投げ)
     - [コマ投げ Combo](#コマ投げ-combo)/SA3

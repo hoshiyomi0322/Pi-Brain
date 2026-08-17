@@ -16,7 +16,7 @@
 - ### [灼火 Combo](gouki-adamant-flame.md)
 
 # 百鬼襲 Combo
-- 百鬼腳 + [2LP Combo]()/[投げ]()
+- 百鬼-踢 + [2LP Combo]()/[投げ]()
 
 # 溜め弾後 Combo
 - DR + [4HK Combo]()

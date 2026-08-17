@@ -34,9 +34,11 @@
 
 # 6HK Air Combo
 - 6HK + [OD弾 Air Combo](../jp-special-move/jp-projectile.md#od弾-air-combo)/[SA1 Combo](../jp.md#sa1-combo)
-- (6HK + 弱弾) + 裂縫/SA3
-- (6HK + 弱弾) + 前ステ + Reset(DI)
+- (6HK(打到第二段) + 中弾) + 安全飛び/SA3
 - [6HK 地刺 Combo](#6hk-地刺-combo)
+- ### Midscreen/Near-corner
+    - (6HK + 弱弾) + 裂縫/SA3
+    - (6HK + 弱弾) + 前ステ + Reset(DI)
 - ### 6HK CDR Air Combo
     - (6HK + CDR) + (5HK/5HP + delay + [5HP Air Combo](jp-hp-combo.md#5hp-air-combo))
     - [Near-corner 6HK CDR Combo](#near-corner-6hk-cdr-combo)

@@ -61,13 +61,13 @@
 - ### Wall Splat Combo
 - ### Stun Combo
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
 - ### 後ろ投げ
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 53F OKI
     - 消費(2MK) + Reset(DI)
     - 前ステ + [強旋風 Combo](#強旋風-combo)/[OD旋風 Combo](#od旋風-combo)
