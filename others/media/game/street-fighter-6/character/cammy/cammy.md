@@ -5,7 +5,7 @@
     - #### 強溜め昇竜：623HK(Hold)
 - ### Hooligan：236P
     - #### Hooligan-下段：236P
-    - #### Hooligan-x踢：236P + xK
+    - #### Hooligan-x空插：236P + xK
     - #### Hooligan-中段：236P + 2K
     - #### Hooligan-Cancel：236P + P
     - #### Hooligan-コマ投げ：236P + 投げ
@@ -27,10 +27,10 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - (5HP + 5HK) + 強昇竜 + [24F 中Spin-knuckle 重ね](#24f-中spin-knuckle-重ね)
-    - [SA1 Combo](#sa1-combo)/SA3
+    - (5HP + 5HK) + [SA1 Combo](#sa1-combo)/SA3
     - (5HP + 5HK) + [中Spiral-arrow Air Combo](cammy-special-move.md#中spiral-arrow-air-combo)/[OD Spiral-arrow Air Combo](cammy-special-move.md#od-spiral-arrow-air-combo)
-    - (5HP + 5HK) + delay(no cancel) + [DI OKI](#di-oki-25f26f)
     - (5HP + 5HK) + [空插 Air Combo](cammy-special-move.md#空插-air-combo)
+    - (5HP + 5HK) + delay(no cancel) + [26F 中Spin-knuckle 重ね](#26f-中spin-knuckle-重ね-26f)
     - Corner
         - (5HP + 5HK) + [強昇竜 Air Combo](cammy-special-move.md#強昇竜-air-combo)
         - (5HP + 5HK) + (OD空插 + [5HK Air Combo](#5hk-air-combo))
@@ -38,9 +38,14 @@
     - 2HP
 - ### 4HK Combo
     - 4HK + [強昇竜 Air Combo](cammy-special-move.md#強昇竜-air-combo)/強溜め昇竜
-    - (4HK + OD空插) + (前ステ*2 + [DI OKI](#di-oki-25f26f))
+    - (4HK + 強Hooligan-強空插) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
+        - (4HK + 強Hooligan-強空插) + [31F OKI](#31f-oki-31f32f)
     - Close：4HK + (9 + 5MP + [空插 Air Combo](cammy-special-move.md#空插-air-combo))
-    - Mid：4HK + (9 + 5MP + 中空插)
+        - Mid：4HK + (9 + 5MP + 中空插) + [31F OKI](#31f-oki-31f32f)
+    - 4HK + (9 + 5MP + OD空插) + (前ステ*2 + [DI OKI](#di-oki-25f26f))
+    - C-Switch
+        - 4HK + 消費(中Spiral-arrow) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
+        - 4HK + 消費(弱Spiral-arrow) + [31F OKI](#31f-oki-31f32f)
 - ### 5HK Air Combo
     - 5HK + [2HP 重ね](#2hp-重ね-10f)
 
@@ -49,7 +54,6 @@
 - ### 2MP Combo
 - ### 4MP Combo
     - 4MP + [4HK Combo](#4hk-combo)
-    - 
     - Corner：(4MP + 5HK) + [5HK Air Combo](#5hk-air-combo)
 - ### 2MK Combo
 
@@ -151,4 +155,8 @@
         - OD Spin-knuckle + [2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
         - ガード(強Spin-knuckle) + [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
         - ガード(OD Spin-knuckle) + [2LP Combo](#2lp-combo)
+    - #### 31F OKI (31F/32F)
+        - 相手Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
 
+# todo
+- https://youtu.be/112_Q34pwYM

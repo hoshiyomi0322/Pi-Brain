@@ -232,6 +232,7 @@
 - ### [Ken](./character/ken/ken.md)
 - ### [Aki](./character/aki/aki.md)
 - ### [Mai](./character/mai/mai.md)
+- ### [Cammy](./character/cammy/cammy.md)
 - ### [Terry](./character/terry/terry.md)
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)
