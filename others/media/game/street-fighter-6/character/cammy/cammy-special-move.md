@@ -26,7 +26,9 @@
 
 # 昇竜 Combo
 - ### 弱昇竜 Combo
+    - 弱昇竜 + [20F 中Spiral-arrow OKI](cammy.md#20f-中spiral-arrow-oki-20f)
 - ### 中昇竜 Combo
+    - 中昇竜 + [21F 中Spiral-arrow OKI](cammy.md#21f-中spiral-arrow-oki-21f)
 - ### 強昇竜 Combo
     - 強昇竜 + [23F 中Spiral-arrow OKI](cammy.md#23f-中spiral-arrow-oki-22f23f)
 - ### OD昇竜 Combo
@@ -43,6 +45,14 @@
     - 強Spin-knuckle + [2LP Combo](cammy.md#2lp-combo)
 - ### OD Spin-knuckle Combo
     - OD Spin-knuckle + [2MP Combo](cammy.md#2mp-combo)
+
+# Hooligan Combo
+- ### Hooligan-下段 Combo
+    - Hooligan-下段 + [48F OKI](cammy.md#48f-oki)
+    - ガード(Hooligan-下段) + [3F打摔擇](cammy.md#3f打摔擇-2f3f)
+
+# Hooligan Air Combo
+
 
 # 空插 Air Combo
 - 中空插 + [30F 強Spin-knuckle 重ね](cammy.md#30f-強spin-knuckle-重ね)

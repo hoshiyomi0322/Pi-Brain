@@ -61,10 +61,10 @@
 
 #### High-Air Corner 4HK Combo
 
-- (4HK + delay-百鬼-踢) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + delay-OD百鬼-空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + delay-OD百鬼-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
+- (4HK + 百鬼-delay-踢) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
+- (4HK + OD百鬼-delay-空弾) + [Air Corner 中旋風腳 Combo]()
+    - (4HK + OD百鬼-delay-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
     - (4HK + OD百鬼-空弾) + (DR + 5MP) + (CDR + [High-Air Corner 4HK Combo]())
-    - (4HK + delay-OD百鬼-空弾) + SA1/[SA2 Combo](gouki.md#sa2-combo)
-    - (4HK + delay-OD百鬼-空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
+    - (4HK + OD百鬼-delay-空弾) + SA1/[SA2 Combo](gouki.md#sa2-combo)
+    - (4HK + OD百鬼-delay-空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
 - (4HK + OD百鬼-旋風腳) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()

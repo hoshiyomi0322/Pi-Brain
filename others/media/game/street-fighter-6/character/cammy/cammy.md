@@ -3,6 +3,7 @@
     - #### 強溜めSpiral-arrow：236HK(Hold)
 - ### 昇竜：236K
     - #### 強溜め昇竜：623HK(Hold)
+- ### Spin-knuckle：214P
 - ### Hooligan：236P
     - #### Hooligan-下段：236P
     - #### Hooligan-x空插：236P + xK
@@ -10,8 +11,7 @@
     - #### Hooligan-Cancel：236P + P
     - #### Hooligan-コマ投げ：236P + 投げ
     - #### 強溜めHooligan-x：236HP + X
-    - #### delay-Hooligan-x：236K + delay + x
-- ### Spin-knuckle：214P
+    - #### Hooligan-delay-x：236K + delay + x
 - ### 空插：9 + 214K
 
 # 必殺技, 特殊技 Combo
@@ -19,7 +19,7 @@
 
 # SA Combo
 - ### SA1 Combo
-    - Corner：SA1 + [2HP 重ね](#2hp-重ね-10f)
+    - Corner：SA1 + [2HP 重ね](#2hp-重ね-10f12f)
 - ### SA2 Air Combo
     - SA2 + 強溜め昇竜
     - SA2 + [強溜めSpiral-arrow Air Combo](cammy-special-move.md#強溜めspiral-arrow-air-combo)
@@ -39,15 +39,17 @@
 - ### 4HK Combo
     - 4HK + [強昇竜 Air Combo](cammy-special-move.md#強昇竜-air-combo)/強溜め昇竜
     - (4HK + 強Hooligan-強空插) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
-        - (4HK + 強Hooligan-強空插) + [31F OKI](#31f-oki-31f32f)
+        - (4HK + 強Hooligan-中空插) + [31F OKI](#31f-oki-31f32f)
+    
     - Close：4HK + (9 + 5MP + [空插 Air Combo](cammy-special-move.md#空插-air-combo))
         - Mid：4HK + (9 + 5MP + 中空插) + [31F OKI](#31f-oki-31f32f)
-    - 4HK + (9 + 5MP + OD空插) + (前ステ*2 + [DI OKI](#di-oki-25f26f))
-    - C-Switch
+    - 4HK + (9 + 5MP + OD空插) + 消費(前ステ*2) + [DI OKI](#di-oki-25f26f)
+    - #### C-Switch
         - 4HK + 消費(中Spiral-arrow) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
         - 4HK + 消費(弱Spiral-arrow) + [31F OKI](#31f-oki-31f32f)
+        - 4HK + 消費(強Spin-knuckle) + [26F 中Spin-knuckle 重ね](#26f-中spin-knuckle-重ね-26f)
 - ### 5HK Air Combo
-    - 5HK + [2HP 重ね](#2hp-重ね-10f)
+    - 5HK + [2HP 重ね](#2hp-重ね-10f12f)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -84,6 +86,8 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + 
+    - #### C-Switch DI PC Combo
+        - DI(PC) + (強Hooligan-delay-強空插 + [DI OKI](#di-oki-25f26f))
 - ### Wall Splat Combo
     - DI(Wall spalt) + 
 - ### Stun Combo
@@ -110,25 +114,29 @@
     - [投げ](#投げ)
 - ### 5MP 重ね (7F/8F)
     - 5MP + [5HP Combo](#5hp-combo)
-- ### 2HP 重ね (10F/11F)
+- ### 5HP OKI (9F)
+    - [5HP Combo](#5hp-combo)
+    - [2HP Combo](#2hp-combo)
+- ### 2HP 重ね (10F~12F)
     - 2HP + [5HP Combo](#5hp-combo)
     - ガード(2HP) + [2LP Combo](#2lp-combo)
 - ### Spiral-arrow OKI
-    - #### 弱Spiral-arrow OKI (20F)
-        - 弱Spiral-arrow
+    - #### 20F 中Spiral-arrow OKI (20F)
+        - 中Spiral-arrow + [46F OKI](#46f-oki)
         - その場受け身/Corner
-            - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
+            - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
+            - 弱Spiral-arrow + [48F OKI](#48f-oki)
             - [弱Spin-knuckle Combo](cammy-special-move.md#弱spin-knuckle-combo)
     - #### 21F 中Spiral-arrow OKI (21F)
-        - 中Spiral-arrow + 消費(中Spiral-arrow) + [3F打摔擇](#3f打摔擇-2f3f)
+        - 中Spiral-arrow + [47F OKI](#47f-oki)
         - その場受け身/Corner
-            - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
+            - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
             - [中Spin-knuckle Combo](cammy-special-move.md#中spin-knuckle-combo)
     - #### 23F 中Spiral-arrow OKI (22F/23F)
-        - 中Spiral-arrow + 消費(中Spiral-arrow) + [3F打摔擇](#3f打摔擇-2f3f)
+        - 中Spiral-arrow + [48F OKI](#48f-oki)
         - [中Spin-knuckle Combo](cammy-special-move.md#中spin-knuckle-combo)/[OD Spin-knuckle Combo](cammy-special-move.md#od-spin-knuckle-combo)
         - その場受け身/Corner
-            - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
+            - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
             - 弱Spin-knuckle + [2LP Combo](#2lp-combo)
 - ### Spin-knuckle OKI (24F~30F)
     - #### 24F 中Spin-knuckle 重ね
@@ -137,26 +145,39 @@
     - #### DI OKI (25F/26F)
         - DI
         - [24F 中Spin-knuckle 重ね](#24f-中spin-knuckle-重ね)
-        - その場受け身/Corner：前ステ + [5MP 重ね](#5mp-重ね-7f8f)
+        - その場受け身/Corner：消費(前ステ) + [5MP 重ね](#5mp-重ね-7f8f)
     - #### 26F 中Spin-knuckle 重ね (26F)
         - [DI OKI](#di-oki-25f26f)
         - 中Spin-knuckle + [5MP Combo](#5mp-combo)
         - ガード(中 Spin-knuckle) + [2LP Combo](#2lp-combo)
-    - #### 強Spin-knuckle OKI (27F/28F)
+    - #### 27F 強Spin-knuckle OKI (27F)
         - [強Spin-knuckle Combo](cammy-special-move.md#強spin-knuckle-combo)
         - [OD Spin-knuckle Combo](cammy-special-move.md#od-spin-knuckle-combo)
+        - 消費(前ステ) + [5HP OKI](#5hp-oki-9f)
+    - #### 28F 強Spin-knuckle OKI (28F)
+        - [強Spin-knuckle Combo](cammy-special-move.md#強spin-knuckle-combo)
+        - [OD Spin-knuckle Combo](cammy-special-move.md#od-spin-knuckle-combo)
+        - 消費(前ステ) + [2HP 重ね](#2hp-重ね-10f12f)
     - #### 29F 強Spin-knuckle 重ね
         - 強Spin-knuckle + [2MP Combo](#2mp-combo)
         - OD Spin-knuckle + [5HP Combo](#5hp-combo)/[4HK Combo](#4hk-combo)
         - ガード(強Spin-knuckle) + [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
         - ガード(OD Spin-knuckle) + [2LP Combo](#2lp-combo)
+        - 消費(前ステ) + [2HP 重ね](#2hp-重ね-10f12f)
     - #### 30F 強Spin-knuckle 重ね
         - 強Spin-knuckle + [5HP Combo](#5hp-combo)
         - OD Spin-knuckle + [2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
         - ガード(強Spin-knuckle) + [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
         - ガード(OD Spin-knuckle) + [2LP Combo](#2lp-combo)
+        - 消費(前ステ) + [2HP 重ね](#2hp-重ね-10f12f)
     - #### 31F OKI (31F/32F)
         - 相手Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
+- ### 46F OKI
+    - 消費(前ステ) + [28F 強Spin-knuckle OKI](#28f-強spin-knuckle-oki-28f)
+- ### 47F OKI
+    - 消費(前ステ) + [29F 強Spin-knuckle 重ね](#29f-強spin-knuckle-重ね)
+- ### 48F OKI
+    - 消費(前ステ) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
 
 # todo
 - https://youtu.be/112_Q34pwYM
