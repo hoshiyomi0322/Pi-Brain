@@ -33,7 +33,7 @@
     - 5HP + [構え-attack Combo](./blanka-special-move/blanka-special-move.md#構え-attack-combo)
     - 5HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 6HP Combo
-    - 6HP + [27F OKI](#27f-oki)
+    - 6HP + [27F OKI](#27f-oki-27f28f)
 - ### 3HP Combo
     - 3HP + [29F OKI](#29f-oki)
 - ### 5HK Combo
@@ -135,6 +135,8 @@
 - ### 前投げ
     - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-30f)
 - ### 後ろ投げ
+    - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [27F OKI](#27f-oki-27f28f)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)

@@ -63,6 +63,9 @@
     - (DR + 4HK*2) + delay(no cancel) + (強Spiral-arrow + [Hooligan-中段 重ね](#hooligan-中段-重ね-39f40f))
     - (DR + 4HK*2) + delay(no cancel) + (弱Spiral-arrow\*2 + [Hooligan-空插 OKI](#hooligan-空插-oki-30f34f))
     - (DR + 4HK*2) + (9 + JHP) + Reset(DI)
+- ### DR 5HP Combo
+    - (DR + 5HP) + 
+    - ガード(DR + 5HP) + [2LP Combo](#2lp-combo)
 - ### 5HK Air Combo
     - 5HK + [2HP 重ね](#2hp-重ね-10f12f)
 
@@ -77,6 +80,12 @@
     - (4MP + 5HK) + delay(no cancel) + (DR + 5LP + 強Spin-knuckle + [37F Hooligan-中段 OKI](#37f-hooligan-中段-oki-37f38f))
     - Corner：(4MP + 5HK) + [5HK Air Combo](#5hk-air-combo)
 - ### 2MK Combo
+- ### DR 5MP Combo
+    - (DR + 5MP) + [5HP Combo](#5hp-combo)
+    - ガード(DR + 5MP) + [5HP Combo](#5hp-combo)
+    - Close
+        - (DR + 5MP) + [5HP Combo](#5hp-combo)/[2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
+        - ガード(DR + 5MP) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # Light Attack Combo
 - ### 5LP Combo
@@ -121,10 +130,10 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - #### Midscreen 前投げ
-    - #### Corner 前投げ
+    - 前投げ + [Far DR 5HP OKI](#far-dr-5hp-oki-17f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [Far DR 5MP OKI](#far-dr-5mp-oki-14f)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -139,6 +148,10 @@
 - ### 2HP 重ね (10F~12F)
     - 2HP + [5HP Combo](#5hp-combo)
     - ガード(2HP) + [2LP Combo](#2lp-combo)
+- ### Far DR 5HP OKI (17F)
+    - [DR 5HP Combo](#dr-5hp-combo)
+- ### Far DR 5MP OKI (14F)
+    - [DR 5MP Combo](#dr-5mp-combo)
 - ### Spiral-arrow OKI
     - #### 20F 中Spiral-arrow OKI (20F)
         - 中Spiral-arrow + [46F OKI](#46f-oki)
