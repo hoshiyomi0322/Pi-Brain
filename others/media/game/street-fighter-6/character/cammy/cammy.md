@@ -171,7 +171,7 @@
         - ガード(OD Spin-knuckle) + [2LP Combo](#2lp-combo)
         - 消費(前ステ) + [2HP 重ね](#2hp-重ね-10f12f)
     - #### 31F OKI (31F/32F)
-        - 相手Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
+        - 相手 Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
 - ### 46F OKI
     - 消費(前ステ) + [28F 強Spin-knuckle OKI](#28f-強spin-knuckle-oki-28f)
 - ### 47F OKI
