@@ -1,11 +1,11 @@
 # Command
 - ### 翻滾技
     - #### 前翻滾：4(溜め) + 6P
-    - #### Air 前翻滾：7 + (4(溜め) + 6P)
     - #### 後翻滾：624K
         - 前-後翻滾：624K + 6
         - 後-後翻滾：624K + 4
     - #### 昇竜：2(溜め) + 8P
+    - #### Air-前翻滾：7 + (4(溜め) + 6P)
     - #### 翻滾Cancel(最多可以3次)：[翻滾技](#翻滾技) + (方向 + 手)
 - ### 放電：214P
     - #### 蓄力放電：214P(Hold)
@@ -22,7 +22,7 @@
 - ### 帶炸彈：有放炸彈
 
 # 必殺技, 特殊技 Combo
-- ### [必殺技, 特殊技 Combo](blanka-special-move.md)
+- ### [必殺技, 特殊技 Combo](./blanka-special-move/blanka-special-move.md)
 
 # SA Combo
 - ### SA3 Combo
@@ -30,7 +30,7 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
-    - 5HP + [構え-attack Combo](blanka-special-move.md#構え-attack-combo)
+    - 5HP + [構え-attack Combo](./blanka-special-move/blanka-special-move.md#構え-attack-combo)
     - 5HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 6HP Combo
     - 6HP + [27F OKI](#27f-oki)
@@ -42,7 +42,7 @@
 - ### DR 5HK Combo
     - (DR + 5HK) + [5HP Combo](#5hp-combo)
 - ### 5HP Air Combo
-    - 5HP + [構え-attack Combo](blanka-special-move.md#構え-attack-combo)
+    - 5HP + [構え-attack Air Combo](./blanka-special-move/blanka-special-move.md#構え-attack-air-combo)
     - Corner：5HP + (弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f))
 - ### DR 5HP Air Combo
     - (DR + 5HP) + [SA3 Combo](#sa3-combo)
@@ -64,7 +64,7 @@
 - ### 6MK Combo
     - 6MK + [5LK Combo](#5lk-combo)
 - ### DR 2MK Combo
-    - (DR + 2MK) + [構え-attack Combo](blanka-special-move.md#構え-attack-combo)/[4MK Combo](#4mk-combo)
+    - (DR + 2MK) + [構え-attack Combo](./blanka-special-move/blanka-special-move.md#構え-attack-combo)/[4MK Combo](#4mk-combo)
 - ### DR 4MK Combo
     - (DR + 4MK) + [5HP Combo](#5hp-combo)
 - ### DR 6MK Combo
@@ -100,8 +100,8 @@
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
 - 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
 - 3HP(PC) + [29F OKI](#29f-oki)
-- [強前翻滾 PC Combo](blanka-special-move.md#強前翻滾-pc-combo)
-- [後翻滾 PC Combo](blanka-special-move.md#後翻滾-pc-combo)
+- [強前翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#強前翻滾-pc-combo)
+- [後翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#後翻滾-pc-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -114,21 +114,21 @@
 # Cancel Combo
 - ### Heavy Cancel Combo
     - [Medium Cancel Combo](#medium-cancel-combo)
-    - [前翻滾 Combo](blanka-special-move.md#前翻滾-combo)
+    - [前翻滾 Combo](./blanka-special-move/blanka-special-move.md#前翻滾-combo)
     - #### ガード後 Heavy Cancel Combo
         - 連ガ：DR + [5HP Combo](#5hp-combo)
         - [ガード後 Medium Cancel Combo](#ガード後-medium-cancel-combo)
 - ### Medium Cancel Combo
-    - [放電 Combo](blanka-special-move.md#放電-combo-1)/[OD放電 Combo](blanka-special-move.md#od放電-combo)
-    - [中前翻滾 Combo](blanka-special-move.md#中前翻滾-combo)/[OD前翻滾 Combo](blanka-special-move.md#od前翻滾-combo)
-    - [Close OD後翻滾 Combo](blanka-special-move.md#close-od後翻滾-combo)
+    - [放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+    - [中前翻滾 Combo](./blanka-special-move/blanka-special-move.md#中前翻滾-combo)/[OD前翻滾 Combo](./blanka-special-move/blanka-special-move.md#od前翻滾-combo)
+    - [Close OD後翻滾 Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-combo)
     - CDR + [DR 5HK Combo](#dr-5hk-combo)
     - #### ガード後 Medium Cancel Combo
-        - 連ガ：[放電 Combo](blanka-special-move.md#放電-combo-1)/[OD放電 Combo](blanka-special-move.md#od放電-combo)
-        - [コマ投げ Combo](blanka-special-move.md#コマ投げ-combo)
+        - 連ガ：[放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+        - [コマ投げ Combo](./blanka-special-move/blanka-special-move.md#コマ投げ-combo)
 - ### Light Cancel Combo
-    - [放電 Combo](blanka-special-move.md#放電-combo-1)/[OD放電 Combo](blanka-special-move.md#od放電-combo)
-    - [中前翻滾 Combo](blanka-special-move.md#中前翻滾-combo)
+    - [放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+    - [中前翻滾 Combo](./blanka-special-move/blanka-special-move.md#中前翻滾-combo)
     - CDR + [DR 5LK Combo](#dr-5lk-combo)
 
 # [投げ](../../street-fighter-6.md#throw)
@@ -143,13 +143,17 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MK Combo](#5mk-combo)/[2MK Combo](#2mk-combo)
+    - #### 帶炸彈 5F打摔擇 (4F/5F)
+        - [5F打摔擇](#5f打摔擇-4f5f)
+        - 5MK/2MK + [帶炸彈 放電 Combo](./blanka-special-move/214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
 - ### 4MK OKI (6F/7F)
     - [4MK Combo](#4mk-combo)
     - delay + [投げ](#投げ)
 - ### 放電 OKI (7F)
-    - [OD放電 Combo](blanka-special-move.md#od放電-combo)
+    - [OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
     - その場受け身/Corner
-        - [放電 Combo](blanka-special-move.md#放電-combo-1)
+        - [放電 Combo](./blanka-special-move/214p.md#放電-combo)
+        - [5HP Combo](#5hp-combo)
         - [4MK OKI](#4mk-oki-6f7f)
 - ### 5HK 重ね
     - ### 8F 5HK 重ね (8F/9F)
@@ -175,31 +179,31 @@
     - Corner：消費(4MK) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### コマ投げ OKI
     - ### ODコマ投げ OKI (30F)
-        - [ODコマ投げ Combo](blanka-special-move.md#odコマ投げ-combo)
+        - [ODコマ投げ Combo](./blanka-special-move/blanka-special-move.md#odコマ投げ-combo)
         - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
         - 消費(前hop) + [3F打摔擇](#3f打摔擇-2f3f)
         - [DR 6MP Combo](#dr-6mp-combo)/[DR 6MK Combo](#dr-6mk-combo)
     - ### 弱コマ投げ OKI (36F)
-        - [弱コマ投げ Combo](blanka-special-move.md#弱コマ投げ-combo)
+        - [弱コマ投げ Combo](./blanka-special-move/blanka-special-move.md#弱コマ投げ-combo)
         - [35F OKI](#35f-oki)
         - Corner：消費(5MP) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - ### 中コマ投げ OKI (39F)
-        - [中コマ投げ Combo](blanka-special-move.md#中コマ投げ-combo)
+        - [中コマ投げ Combo](./blanka-special-move/blanka-special-move.md#中コマ投げ-combo)
         - その場受け身/Corner：消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - ### 強コマ投げ OKI (40F~42F)
         - #### 40F 強コマ投げ OKI (40F)
-            - [強コマ投げ Combo](blanka-special-move.md#強コマ投げ-combo)
+            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
             - その場受け身/Corner
                 - 消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
                 - 消費(2HK) + [3F打摔擇](#3f打摔擇-2f3f)
         - #### 41F 強コマ投げ OKI (41F)
-            - [強コマ投げ Combo](blanka-special-move.md#強コマ投げ-combo)
+            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
             - その場受け身/Corner
                 - 消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
                 - 消費(2HK) + [5F打摔擇](#5f打摔擇-4f5f)
         - #### 42F OKI
             - 安全飛び
-            - [強コマ投げ Combo](blanka-special-move.md#強コマ投げ-combo)
+            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
             - 消費(前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 44F OKI
     - 安全飛び
@@ -214,20 +218,31 @@
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 放炸彈
 - ### 55F OKI (54F/55F)
-    - 弱放炸彈 + [5F打摔擇](#5f打摔擇-4f5f)
-        - 連ガ：弱放炸彈 + ガード(5MK/2MK + OD放電 + [5HP Combo](#5hp-combo))
+    - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
     - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-36f)
+    - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+- ### 56F OKI
+    - 弱放炸彈 + [4MK OKI](#4mk-oki-6f7f)
+    - 消費(弱前翻滾/5MK) + [DI OKI](#di-oki-25f26f)
+    - 消費(6HP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 57F OKI
     - 弱放炸彈 + [放電 OKI](#放電-oki-7f)
-    - 連ガ (その場受け身/Corner)
-        - 弱放炸彈 + ガード(OD放電 + 5LK + [放電 Combo](blanka-special-move.md#放電-combo-1)/[OD放電 Combo](blanka-special-move.md#od放電-combo)/[2MP Combo](#2mp-combo))
+    - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+- ### 58F OKI (58F/59F)
+    - 弱放炸彈 + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 消費(5HK) + [DI OKI](#di-oki-25f26f)
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(前ステ) + [41F 強コマ投げ OKI](#41f-強コマ投げ-oki-41f)
 
 # todo
-- https://youtu.be/zUvNygdO7t0
-- https://youtube.com/shorts/O41qKAXCTRI
-- https://youtube.com/shorts/E7W6IKryp3g
 - https://youtu.be/CD42X4IP9w0
+- https://youtube.com/shorts/O41qKAXCTRI
+- https://youtu.be/EjKhBx6mToE
+- https://youtube.com/playlist?list=PL7ybKQxgO2opC1rAAHyGlZQ2ZVbEGFo-9&si=A7fccAvVmQyzX555
+- SA2
+    - https://youtu.be/26yMz5mT1Zo
+    - https://youtube.com/shorts/E7W6IKryp3g
+    - https://youtu.be/zUvNygdO7t0

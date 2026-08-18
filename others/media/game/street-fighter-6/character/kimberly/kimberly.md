@@ -35,3 +35,4 @@
 
 # todo
 - https://www.youtube.com/shorts/WJ5C3K_8bxo?feature=share
+- https://www.youtube.com/shorts/aNSkdgzPqCE?feature=share
