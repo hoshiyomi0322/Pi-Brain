@@ -4,6 +4,7 @@
 - ### Close 中Spiral-arrow Combo
     - 中Spiral-arrow + [26F 中Spin-knuckle 重ね](cammy.md#26f-中spin-knuckle-重ね-26f)
 - ### Close 強Spiral-arrow Combo
+    - 強Spiral-arrow + [29F 強Spin-knuckle 重ね](cammy.md#29f-強spin-knuckle-重ね)
 - ### OD Spiral-arrow Combo
     - OD Spiral-arrow + [強昇竜 Combo](#強昇竜-combo)/SA2/SA3
 
@@ -11,7 +12,7 @@
 - ### 弱Spiral-arrow Air Combo
     - 弱Spiral-arrow
 - ### 中Spiral-arrow Air Combo
-    - 中Spiral-arrow
+    - 中Spiral-arrow + [Mid 36F Hooligan-中段 OKI](cammy.md#mid-36f-hooligan-中段-oki-36f)
 - ### 強Spiral-arrow Air Combo
 - ### OD Spiral-arrow Air Combo
     - OD Spiral-arrow + [強昇竜 Combo](#強昇竜-combo)/[SA2 Air Combo](cammy.md#sa2-air-combo)
@@ -34,7 +35,13 @@
 - ### OD昇竜 Combo
 
 # 強昇竜 Air Combo
+- 強昇竜 + [DI OKI](cammy.md#di-oki-25f26f)
+
+# 強昇竜 High-Air Combo
 - 強昇竜 + [26F 中Spin-knuckle 重ね](cammy.md#26f-中spin-knuckle-重ね-26f)
+
+# 強溜め昇竜 Combo
+- 強溜め昇竜 + SA3
 
 # Spin-knuckle Combo
 - ### 弱Spin-knuckle Combo
@@ -46,17 +53,22 @@
 - ### OD Spin-knuckle Combo
     - OD Spin-knuckle + [2MP Combo](cammy.md#2mp-combo)
 
-# Hooligan Combo
-- ### Hooligan-下段 Combo
-    - Hooligan-下段 + [48F OKI](cammy.md#48f-oki)
-    - ガード(Hooligan-下段) + [3F打摔擇](cammy.md#3f打摔擇-2f3f)
-
-# Hooligan Air Combo
-
+# Hooligan Extension Combo
+- ### Hooligan-中段 Extension Combo
+    - [5HP Combo](cammy.md#5hp-combo)
+- ### Hooligan-下段 Extension Combo
+    - [48F OKI](cammy.md#48f-oki)/SA3
+    - ガード後：[3F打摔擇](cammy.md#3f打摔擇-2f3f)
+- ### OD Hooligan-下段 Extension Combo
+    - [48F OKI](cammy.md#48f-oki)/[強昇竜 Combo](#強昇竜-combo)/SA3
+    - ガード後：[3F打摔擇](cammy.md#3f打摔擇-2f3f)
+- ### OD Hooligan-コマ投げ Extension Combo
+    - [強昇竜 Air Combo](#強昇竜-air-combo)/[SA1 Combo](cammy.md#sa1-combo)/[SA2 Air Combo](cammy.md#sa2-air-combo)/SA3
 
 # 空插 Air Combo
 - 中空插 + [30F 強Spin-knuckle 重ね](cammy.md#30f-強spin-knuckle-重ね)
 - ### OD空插 Air Combo
-    - OD空插 + 強昇竜 + [DI OKI](cammy.md#di-oki-25f26f)
-    - OD空插 + [Spiral-arrow Air Combo](#spiral-arrow-air-combo)/[SA2 Air Combo](cammy.md#sa2-air-combo)
+    - OD空插 + [強昇竜 Air Combo](#強昇竜-air-combo)
+    - OD空插 + [OD Spiral-arrow Air Combo](#od-spiral-arrow-air-combo)/[SA2 Air Combo](cammy.md#sa2-air-combo)
     - OD空插 + delay(no cancel) + [SA1 Combo](cammy.md#sa1-combo)/SA3
+    - OD空插 + [強溜めHooligan-delay-中段 OKI](#強溜めhooligan-delay-中段-oki-58f)
