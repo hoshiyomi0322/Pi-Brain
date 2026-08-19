@@ -5,7 +5,7 @@
         - 前-後翻滾：624K + 6
         - 後-後翻滾：624K + 4
     - #### 昇竜：2(溜め) + 8P
-    - #### Air-前翻滾：7 + (4(溜め) + 6P)
+    - #### Air-前翻滾：7/8/9 + (4(溜め) + 6P)
     - #### 翻滾Cancel(最多可以3次)：[翻滾技](#翻滾技) + (方向 + 手)
 - ### 放電：214P
     - #### 蓄力放電：214P(Hold)
@@ -97,7 +97,8 @@
 - ### Medium Attack PC Combo
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
 - ### Heavy Attack PC Combo
-    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - ガード後可以Heavy Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+    - 5HK(PC) + [5HP Combo](#5hp-combo)
 - 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
 - 3HP(PC) + [29F OKI](#29f-oki)
 - [強前翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#強前翻滾-pc-combo)
@@ -210,15 +211,18 @@
 - ### 44F OKI
     - 安全飛び
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
+    - 消費(弱前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - 消費(中前翻滾) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 46F OKI (46F/47F)
     - 消費(DR + 前hop) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 消費(中前翻滾) + [5F打摔擇](#5f打摔擇-4f5f)
     - その場受け身/Corner：消費(前hop + 5LK) + [4MK OKI](#4mk-oki-6f7f)
     - Corner
         - 消費(6MP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 50F OKI
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-    - 放炸彈
+    - 消費(9) + [放電 OKI](#放電-oki-7f)
 - ### 55F OKI (54F/55F)
     - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
@@ -238,6 +242,9 @@
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(前ステ) + [41F 強コマ投げ OKI](#41f-強コマ投げ-oki-41f)
+# 対空
+- [昇竜 Combo](./blanka-special-move/blanka-special-move.md#昇竜-combo)
+- 4MK + 前hop + [4MK OKI](#4mk-oki-6f7f)
 
 # todo
 - https://youtu.be/CD42X4IP9w0
