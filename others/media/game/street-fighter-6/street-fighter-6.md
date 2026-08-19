@@ -67,9 +67,21 @@
 # Command
 - ### Motion
     - #### Quarter Circle Forward (QCF)：236
+        - 2(Hold) + (6 + 8)
     - #### Quarter Circle Back (QCB)：214
+        - 2(Hold) + (4 + 8)
+    - #### QCF*2：236236
+        - 2 + 6(Hold) + (4 + 2)
+        - 2(Hold) + (6 + 8)*2
+    - #### QCB*2：214214
+        - 2 + 4(Hold) + (6 + 2)
+        - 2(Hold) + (4 + 8)*2
     - #### Z motion：623
-        - 2(Hold) + 66
+        - 2(Hold) + (6 + 6)
+        - 6(Hold) + (4 + 2)
+    - #### Z motion cancel SA3：623P + 236236K
+        - 6(Hold) + (4 + 2 + P) + (4 + 2 + K)
+        - 6(Hold) + (4 + 2 + P) + Release(6) + (2 + 6 + K)
     - #### Half Circle motion (HC, 180 motion)：624
     - #### 360 motion (G)：6248
     - #### Button hold (ボタンホールド)

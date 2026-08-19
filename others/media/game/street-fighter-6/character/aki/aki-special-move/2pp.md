@@ -6,17 +6,18 @@
 # 蛇行突刺 Air Combo
 - 蛇行突刺 + (前ステ + 投げ)
 - ### 帶毒 蛇行突刺 Air Combo
-    - #### Midscreen 帶毒 蛇行突刺 Air Combo
+    - ### Midscreen 帶毒 蛇行突刺 Air Combo
         - 蛇行突刺(帶毒) + 弱毒鞭/[SA1 Combo](../aki.md#sa1-combo)/強SA2/[SA3 Combo](../aki.md#sa3-combo)
         - (蛇行突刺(帶毒) + 下毒) + [弾 OKI]()
         - 蛇行突刺(帶毒) + (DR + 5HK) + [中毒鞭 Air Combo]()/[弱突刺 Air Combo](214k.md#弱突刺-air-combo)
         - 蛇行突刺(帶毒) + (DR + 2HK) + [SA1 Combo](../aki.md#sa1-combo)/弱SA2
-    - #### Near-wall 帶毒 蛇行突刺 Air Combo
-        - ##### General Near-wall 帶毒 蛇行突刺 Air Combo
+    - ### Near-wall 帶毒 蛇行突刺 Air Combo
+        - #### General Near-wall 帶毒 蛇行突刺 Air Combo
             - 蛇行突刺(帶毒) + [SA1 Combo](../aki.md#sa1-combo)/弱SA2/[SA3 Combo](../aki.md#sa3-combo)
             - 蛇行突刺(帶毒) + (DR + 2HK) + [SA1 Combo](../aki.md#sa1-combo)/弱SA2/[SA3 Combo](../aki.md#sa3-combo)
             - (蛇行突刺(帶毒) + 下毒) + [Corner 弾 OKI]()
             - (蛇行突刺(帶毒) + 下毒) + 消費(5HK) + [2MK 重ね]()
+            - (蛇行突刺(帶毒) + 下毒) + 消費(5LP) + [Far 25F OKI](../aki.md#far-25f-oki)
             - (蛇行突刺(帶毒) + 下毒) + 消費(前ステ + 2LP) + [5F打摔擇]()
             - (蛇行突刺(帶毒) + 下毒) + 消費(前ステ) + [6HK OKI]()
         - 蛇行突刺(帶毒) + (弱毒鞭 + [SA3 Combo](../aki.md#sa3-combo))
