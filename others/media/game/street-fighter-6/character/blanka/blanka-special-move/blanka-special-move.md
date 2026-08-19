@@ -84,6 +84,7 @@
     - 構え-attack + [55F OKI](../blanka.md#55f-oki-54f55f)
     - 構え-attack + [Close OD後翻滾 High-Air Combo](#close-od後翻滾-high-air-combo)
     - #### 帶炸彈 Corner 構え-attack Combo
+        - (構え-attack + 放電) + [Close OD後翻滾 Air Combo](#close-od後翻滾-air-combo)
         - (構え-attack + 放電) + 消費(5LK) + (弱放炸彈 + OD後翻滾) + [56F OKI](../blanka.md#56f-oki)
 
 # 構え-attack Air Combo
