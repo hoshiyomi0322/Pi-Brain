@@ -134,7 +134,7 @@
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
-    - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-30f)
+    - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [27F OKI](#27f-oki-27f28f)
@@ -181,7 +181,7 @@
     - 消費(前hop) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
     - Corner：消費(4MK) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### コマ投げ OKI
-    - ### ODコマ投げ OKI (30F)
+    - ### ODコマ投げ OKI (30F/31F)
         - [ODコマ投げ Combo](./blanka-special-move/blanka-special-move.md#odコマ投げ-combo)
         - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
         - 消費(前hop) + [3F打摔擇](#3f打摔擇-2f3f)
@@ -213,14 +213,24 @@
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - 消費(弱前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(中前翻滾) + [3F打摔擇](#3f打摔擇-2f3f)
-- ### 46F OKI (46F/47F)
+- ### 46F OKI
+    - 消費(前ステ) + [27F OKI](#27f-oki-27f28f)
     - 消費(DR + 前hop) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
     - 消費(中前翻滾) + [5F打摔擇](#5f打摔擇-4f5f)
     - その場受け身/Corner：消費(前hop + 5LK) + [4MK OKI](#4mk-oki-6f7f)
     - Corner
         - 消費(6MP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+- ### 48F OKI
+    - 消費(前ステ) + [29F OKI](#29f-oki)
+    - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - 消費(中前翻滾) + [4MK OKI](#4mk-oki-6f7f)
+    - 消費(前hop + 2LK) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner
+        - 消費(6MP) + [4MK OKI](#4mk-oki-6f7f)
+        - 消費(2HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 50F OKI
+    - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [放電 OKI](#放電-oki-7f)
 - ### 55F OKI (54F/55F)
@@ -247,6 +257,7 @@
 - 4MK + 前hop + [4MK OKI](#4mk-oki-6f7f)
 
 # todo
+- https://youtu.be/c_6SYV0BudA
 - https://youtu.be/CD42X4IP9w0
 - https://youtube.com/shorts/O41qKAXCTRI
 - https://youtu.be/EjKhBx6mToE
