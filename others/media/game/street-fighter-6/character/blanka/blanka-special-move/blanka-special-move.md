@@ -15,20 +15,24 @@
     - OD前翻滾 + (delay + [Close OD後翻滾 High-Air Combo](#close-od後翻滾-high-air-combo))
     - OD前翻滾 + (delay + SA2) + [帶電 中前翻滾 Air Combo](#帶電-中前翻滾-air-combo)
     - Corner：OD前翻滾 + 強昇竜 + [47F OKI](../blanka.md#47f-oki-47f48f)
-    - #### 帶電 OD前翻滾 Combo
+    - ### 帶電 OD前翻滾 Combo
         - OD前翻滾 + 弱昇竜 + 翻滾Cancel(9P + 8P + 9P) + [60F OKI](../blanka.md#60f-oki)
 
 # 前翻滾 Air Combo
 - ### 弱前翻滾 Air Combo
 - ### 中前翻滾 Air Combo
     - 中前翻滾 + [SA3 Combo](../blanka.md#sa3-combo)
-    - #### 帶電 中前翻滾 Air Combo
-        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
-        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
+    - ### 帶電 中前翻滾 Air Combo
+        - #### Midscreen 帶電 中前翻滾 Air Combo
+            - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
+            - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
+        - #### Corner 帶電 中前翻滾 Air Combo
 - ### 強前翻滾 Air Combo
-    - #### 帶電 強前翻滾 Air Combo
-        - 強前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
-        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
+    - ### 帶電 強前翻滾 Air Combo
+        - #### Midscreen 帶電 強前翻滾 Air Combo
+            - 強前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
+            - 強前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
+        - #### Corner 帶電 強前翻滾 Air Combo
 - ### OD前翻滾 Air Combo
 
 
