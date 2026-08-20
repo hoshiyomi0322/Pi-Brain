@@ -143,9 +143,11 @@
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [5LK Combo](#5lk-combo)/[2LK Combo](#2lk-combo)
+    - Shimmy：7 + [Air-前翻滾 Combo](./blanka-special-move/blanka-special-move.md#air-前翻滾-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MK Combo](#5mk-combo)/[2MK Combo](#2mk-combo)
+    - Shimmy：7 + [Air-前翻滾 Combo](./blanka-special-move/blanka-special-move.md#air-前翻滾-combo)
     - #### 帶炸彈 5F打摔擇 (4F/5F)
         - [5F打摔擇](#5f打摔擇-4f5f)
         - 5MK/2MK + [帶炸彈 放電 Combo](./blanka-special-move/214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
@@ -237,6 +239,7 @@
     - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
     - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-36f)
+    - 消費(中前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 56F OKI
     - 弱放炸彈 + [4MK OKI](#4mk-oki-6f7f)
@@ -255,12 +258,14 @@
 # 対空
 - [昇竜 Combo](./blanka-special-move/blanka-special-move.md#昇竜-combo)
 - 4MK + 前hop + [4MK OKI](#4mk-oki-6f7f)
+- 5HK
 
 # todo
 - https://youtu.be/c_6SYV0BudA
 - https://youtu.be/CD42X4IP9w0
 - https://youtube.com/shorts/O41qKAXCTRI
 - https://youtu.be/EjKhBx6mToE
+- https://youtu.be/gBATejXagzA
 - https://youtube.com/playlist?list=PL7ybKQxgO2opC1rAAHyGlZQ2ZVbEGFo-9&si=A7fccAvVmQyzX555
 - SA2
     - https://youtu.be/26yMz5mT1Zo

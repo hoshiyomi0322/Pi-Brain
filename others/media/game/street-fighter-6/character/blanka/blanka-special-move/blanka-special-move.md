@@ -14,7 +14,7 @@
     - OD前翻滾 + (8 + JMP) + 消費(Air-前翻滾) + [DI OKI](../blanka.md#di-oki-25f26f)
     - Corner：OD前翻滾 + 強昇竜 + [47F OKI](../blanka.md#47f-oki-47f48f)
     - #### 帶電 OD前翻滾 Combo
-        - OD前翻滾 + 弱昇竜 + 翻滾Cancel(9MP + 8MP + 9MP) + [60F OKI](../blanka.md#60f-oki)
+        - OD前翻滾 + 弱昇竜 + 翻滾Cancel(9P + 8P + 9P) + [60F OKI](../blanka.md#60f-oki)
 
 # 前翻滾 Air Combo
 - ### 弱前翻滾 Air Combo
@@ -25,7 +25,9 @@
 
 # 強前翻滾 PC Combo
 - 強前翻滾(PC) + (DR + 3HP) + [35F OKI](../blanka.md#35f-oki)
-- Corner：強前翻滾(PC) + 3HP + [35F OKI](../blanka.md#35f-oki)
+- Corner
+    - 強前翻滾(PC) + 3HP + [35F OKI](../blanka.md#35f-oki)
+    - 強前翻滾(PC) + (DR + [5HP Air Combo](../blanka.md#5hp-air-combo))
 
 # 後翻滾 Combo
 - ### 弱後翻滾 Combo
@@ -74,7 +76,8 @@
     - 強昇竜 + [46F OKI](../blanka.md#46f-oki)
 
 # Air-前翻滾 Combo
-- Air-前翻滾 + [DI OKI](../blanka.md#di-oki-25f26f)
+- Air-前翻滾 + [40F 強コマ投げ OKI](../blanka.md#40f-強コマ投げ-oki-40f)
+- OD Air-前翻滾 + [DI OKI](../blanka.md#di-oki-25f26f)
 
 # [放電 Combo](214p.md)
 - [放電 Combo](214p.md#放電-combo)
