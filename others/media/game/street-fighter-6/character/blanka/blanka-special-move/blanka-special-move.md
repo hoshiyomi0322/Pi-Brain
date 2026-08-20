@@ -8,11 +8,12 @@
     - その場受け身/Corner：強前翻滾 + [ODコマ投げ OKI](../blanka.md#odコマ投げ-oki-30f31f)
 - ### OD前翻滾 Combo
     - OD前翻滾 + [中昇竜 Air Combo](#中昇竜-air-combo)
-    - OD前翻滾 + (delay + SA1/SA2/[SA3 Combo](../blanka.md#sa3-combo))
+    - OD前翻滾 + (delay + SA1/[SA3 Combo](../blanka.md#sa3-combo))
     - OD前翻滾 + [57F OKI](../blanka.md#57f-oki)
     - OD前翻滾 + (9 + JMP + Air-前翻滾) + 消費(前ステ) + [3F打摔擇](../blanka.md#3f打摔擇-2f3f)
     - OD前翻滾 + (8 + JMP) + 消費(Air-前翻滾) + [DI OKI](../blanka.md#di-oki-25f26f)
     - OD前翻滾 + (delay + [Close OD後翻滾 High-Air Combo](#close-od後翻滾-high-air-combo))
+    - OD前翻滾 + (delay + SA2) + [帶電 中前翻滾 Air Combo](#帶電-中前翻滾-air-combo)
     - Corner：OD前翻滾 + 強昇竜 + [47F OKI](../blanka.md#47f-oki-47f48f)
     - #### 帶電 OD前翻滾 Combo
         - OD前翻滾 + 弱昇竜 + 翻滾Cancel(9P + 8P + 9P) + [60F OKI](../blanka.md#60f-oki)
@@ -21,8 +22,14 @@
 - ### 弱前翻滾 Air Combo
 - ### 中前翻滾 Air Combo
     - 中前翻滾 + [SA3 Combo](../blanka.md#sa3-combo)
+    - #### 帶電 中前翻滾 Air Combo
+        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
 - ### 強前翻滾 Air Combo
+    - #### 帶電 強前翻滾 Air Combo
+        - 強前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
 - ### OD前翻滾 Air Combo
+
+
 
 # 強前翻滾 PC Combo
 - 強前翻滾(PC) + (DR + 3HP) + [35F OKI](../blanka.md#35f-oki)
