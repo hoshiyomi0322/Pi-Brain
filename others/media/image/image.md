@@ -2,7 +2,8 @@
 - ### Art History
 - ### Art Style
 
-# Computer Graphics(CG)
+# Computer Graphics (CG)
+- ### Open Graphics Library (OpenGL)
 - ### 2D Computer Graphics
     - ### Krita
     - ### MediBang Paint
