@@ -24,9 +24,11 @@
     - 中前翻滾 + [SA3 Combo](../blanka.md#sa3-combo)
     - #### 帶電 中前翻滾 Air Combo
         - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
+        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
 - ### 強前翻滾 Air Combo
     - #### 帶電 強前翻滾 Air Combo
         - 強前翻滾 + 翻滾Cancel(6P + 4P + 6P) + [60F OKI](../blanka.md#60f-oki)
+        - 中前翻滾 + 翻滾Cancel(6P + 4P + 6P) + (delay + SA1)
 - ### OD前翻滾 Air Combo
 
 
