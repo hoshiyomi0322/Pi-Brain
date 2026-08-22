@@ -46,10 +46,10 @@
     - (DR + 5HK) + [5HP Combo](#5hp-combo)
 - ### 5HP Air Combo
     - 5HP + [構え-attack Air Combo](./blanka-special-move/blanka-special-move.md#構え-attack-air-combo)
-    - Corner：5HP + (弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f))
+    - Corner：5HP + [60F OKI](#60f-oki)
 - ### DR 5HP Air Combo
     - (DR + 5HP) + [SA3 Combo](#sa3-combo)
-    - Corner：(DR + 5HP) + (弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f))
+    - Corner：(DR + 5HP) + [60F OKI](#60f-oki)
 
 # Medium Attack Combo
 - ### 2MP Combo
