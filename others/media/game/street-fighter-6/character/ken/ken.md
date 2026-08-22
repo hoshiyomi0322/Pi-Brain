@@ -40,7 +40,7 @@
         - 2HK + 消費(DR + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
         - 2HK + 消費(跑步煞車) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
 - ### DR 2HP Combo
-    - (DR + 2HP) + 跑步煞車 + ([2LP Combo](#2lp-combo))
+    - (DR + 2HP) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### DR 5HP Combo
     - (DR + 5HP) + [5MP Combo]()/[強迅雷起始 Combo]()
 - ### DR 5HP Air Combo
@@ -96,7 +96,7 @@
     - 5HP(PC) + [強迅雷起始 Combo]()
     - Close：5HP(PC) + [5MP Combo]()
 - ### 2HP Combo
-    - 2HP(PC) + 跑步煞車 + ([2LP Combo](#2lp-combo))
+    - 2HP(PC) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### 5HK PC Combo
     - 5HK(PC) + [Air 跑步 Combo]()/[Air DR5HP Combo]()
     - #### Corner 5HK PC Combo
