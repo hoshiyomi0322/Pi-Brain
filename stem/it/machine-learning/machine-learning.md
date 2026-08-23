@@ -15,9 +15,9 @@
 
 # Artificial Neural Networks (ANN), Neural Networks (NN)
 - ### Input Layer $\to$ Hidden Layers $\to$ Output Layer
+- ### Activation Function
 - ### Backward Propagation of Errors (Backpropagation)
 - ### Feedforward Neural Network
-- ### Activation Function
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
 - ### Multilayer Perceptron (MLP)
 
