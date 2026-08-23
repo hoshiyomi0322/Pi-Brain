@@ -256,3 +256,7 @@
 - [JHK Air Combo](#jhk-air-combo)
 - [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
 - [5HK High-Air Combo](#5hk-high-air-combo)
+
+# todo
+- https://youtu.be/rtbtRI0FdSg?t=1m25s
+- https://youtu.be/ClGJsT9nX-8
