@@ -14,8 +14,11 @@
 - ### Few-Shot Learning
 
 # Artificial Neural Networks (ANN), Neural Networks (NN)
+- ### Input Layer $\to$ Hidden Layers $\to$ Output Layer
+- ### Backward Propagation of Errors (Backpropagation)
+- ### Feedforward Neural Network
+- ### Activation Function
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
-- ### Backpropagation (BP)
 - ### Multilayer Perceptron (MLP)
 
 # Natural Language Processing (NLP)
