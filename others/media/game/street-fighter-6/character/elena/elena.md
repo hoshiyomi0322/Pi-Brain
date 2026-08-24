@@ -28,28 +28,46 @@
         - OD Rhinohorn + [SA1 Combo](#sa1-combo)/SA2/SA3
 - ### Spinscythe Combo
     - ### 強Spinscythe Combo
-        - 強Spinscythe + [中Rhinohorn Combo](中rhinohorn-combo)/SA2/SA3
+        - 強Spinscythe + [中Rhinohorn Combo](#中rhinohorn-combo)/SA2/SA3
         - 強Spinscythe + OD Rhinohorn + 強昇竜/[SA1 Combo](#sa1-combo)/(delay + SA3)
         - #### Corner 強Spinscythe Combo
             - 強Spinscythe + 弱Rhinohorn + 強昇竜/(SA1 + 強昇竜)
             - 強Spinscythe + 中Rhinohorn + SA3
             - 強Spinscythe + OD Rhinohorn + 昇竜/[SA1 Combo](#sa1-combo)/SA1/SA3
+- ### 強Spinscythe Air Combo
+    - 強Spinscythe + 中Rhinohorn + 強昇竜/(SA1 + 強昇竜)
+    - 強Spinscythe + (強Rhinohorn + SA3)
+    - 強Spinscythe + SA2
+
 
 # SA1 Combo
 - SA1 + 強昇竜
 - SA1 + SA1 + 強昇竜
 
 # Heavy Attack Combo
-- 2HP + [強Spinscythe Combo](強spinscythe-combo)
+- ### 2HP Combo
+    - 2HP + [強Spinscythe Combo](#強spinscythe-combo)
+- ### 5HP Air Combo
+    - 5HP*2 + 弱迅雷中派生
+    - 5HP*2 + (中Rhinohorn + SA3)
+    - 5HP*2 + SA1/SA2
+    - 5HP*2 + (DR + 2HP + [強Spinscythe Air Combo](#強spinscythe-air-combo))
 
 # Medium Attack Combo
-- 5MP*2 + 中Spinscythe
-- 2MP + 中Spinscythe
-- (2MK + 5HK) + 中Spinscythe
+- ### 5MP Combo
+    - 5MP*2 + 中Spinscythe
+- ### 2MP Combo
+    - 2MP + 中Spinscythe
+- ### 2MK Combo
+    - (2MK + 5HK) + 中Spinscythe
 
 # Light Attack combo
-- (5LP/2LP)*2 + (弱Spinscythe + SA3)/SA1/SA2
-- (5LK + 5LP) + (弱Spinscythe + SA3)/SA1/SA2
+- ### 5LP Combo
+    - 5LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 2LP Combo
+    - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 5LK Combo
+    - (5LK + 5LP) + [Light Cancel Combo](#light-cancel-combo)
 
 # Jump Attack Combo
 
@@ -67,13 +85,7 @@
 - ### DI PC Combo
     - DI(PC) + 
 - ### Wall Splat Combo
-    - DI(Wall spalt) + 5HP*2 + 弱迅雷中派生
-    - DI(Wall spalt) + 5HP*2 + (236中腳 + SA3)
-    - DI(Wall spalt) + 5HP*2 + SA1/SA2
-    - #### Wall Splat DR Combo
-         - DI(Wall spalt) + 5HP*2 + (DR + 2HP + 2145HK) + 236中腳 + 強昇竜/(SA1 + 強昇竜)
-         - DI(Wall spalt) + 5HP*2 + (DR + 2HP + 2145HK) + 2365HK + SA3
-         - DI(Wall spalt) + 5HP*2 + (DR + 2HP + 2145HK) + SA2
+    - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
 - ### Stun Combo
     - DI(Stun) + 
 
@@ -81,6 +93,8 @@
 - ### Heavy Cancel Combo
 - ### Medium Cancel Combo
 - ### Light Cancel Combo
+    - 弱Spinscythe + SA3
+    - SA1/SA2
 - ### CDR Combo
 - ### ガード後 Cancel Combo
 
