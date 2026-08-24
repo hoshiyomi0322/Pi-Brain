@@ -1,28 +1,33 @@
 # Command
+- ### Rhinohorn：236K
+- ### Spinscythe：214K
+    - #### Spinscythe-spin：214K + 6P
+    - #### Spinscythe-nspin-x：214K + 6P*n + x
+- ### 昇竜：623K
+- ### 構え：236P
+    - #### 構え-kick：236P + 6LK
+    - #### 構え-circle：236P + 6MK
+    - #### 構え-中段：236P + 6HK
+    - #### 構え-spin：236P + 6P
+    - #### 構え-nspin-x：236P + 6P*n + x
+- ### Moonglider：214P
+    - ####：Moonglider-派生：214P + 6P
 
 # 必殺技, 特殊技 Combo
-
-## 236K Combo
-
-### 236K Combo
-
-- Close：236K + SA3
-- Corner：236K + 中昇竜/SA3
-
-### 236KK Combo
-
-- 236KK + [SA1 Combo](#sa1-combo)/SA2/SA3
-
-## 2145HK Combo
-
-- 2145HK + [236中腳 Combo]()/SA2/SA3
-- 2145HK + 236KK + 強昇竜/[SA1 Combo](#sa1-combo)/(delay + SA3)
-
-### Corner 2145HK Combo
-
-- 2145HK + 2365LK + 強昇竜/(SA1 + 強昇竜)
-- 2145HK + 236中腳 + SA3
-- 2145HK + 236KK + 昇竜/[SA1 Combo](#sa1-combo)/SA1/SA3
+- ### Rhinohorn Combo
+    - #### 強Rhinohorn Combo
+        - Close：強Rhinohorn + SA3
+        - Corner：強Rhinohorn + 中昇竜/SA3
+    - ### OD Rhinohorn Combo
+        - OD Rhinohorn + [SA1 Combo](#sa1-combo)/SA2/SA3
+- ### Spinscythe Combo
+    - ### 強Spinscythe Combo
+        - 強Spinscythe + [中Rhinohorn Combo]()/SA2/SA3
+        - 強Spinscythe + OD Rhinohorn + 強昇竜/[SA1 Combo](#sa1-combo)/(delay + SA3)
+        - ### Corner 強Spinscythe Combo
+            - 強Spinscythe + 弱Rhinohorn + 強昇竜/(SA1 + 強昇竜)
+            - 強Spinscythe + 中Rhinohorn + SA3
+            - 強Spinscythe + OD Rhinohorn + 昇竜/[SA1 Combo](#sa1-combo)/SA1/SA3
 
 # SA1 Combo
 - SA1 + 強昇竜
