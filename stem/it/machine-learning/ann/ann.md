@@ -10,5 +10,5 @@
 
 # Types of ANN
 - ### Feedforward Neural Network
-- ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
+- ### [Deep Neural Network (DNN)](../deep-learning/dnn/dnn.md)
 - ### Multilayer Perceptron (MLP)
