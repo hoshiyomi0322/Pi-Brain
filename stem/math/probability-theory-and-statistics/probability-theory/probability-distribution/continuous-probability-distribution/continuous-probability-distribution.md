@@ -1,7 +1,7 @@
 # Continuous Uniform Distribution
 |Property|Description|
 |:---:|:---:|
-|Notation|$`X\sim U_c\left(a,b\right)`$|
+|Notation|$`X\sim U_c\left(a,~b\right)`$|
 |[Random Variable](../../probability-theory.md#random-variable)|$`X \in \left[a,~b\right]`$|
 |Parameters|$`a\le b`$|
 |[PDF](../distribution-function.md#probability-function)|$`\begin{cases} {\frac{1}{b-a}} & {\text{for }x \in \left[a,~b\right]} \\ 0&\text{otherwise} \end{cases}`$|
