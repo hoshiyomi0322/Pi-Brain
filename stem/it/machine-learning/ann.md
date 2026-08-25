@@ -4,8 +4,7 @@
 - ### Activation Function
 - ### Self-attention
     - #### Self-attention Layer
-
-- ### Backward Propagation of Errors (Backpropagation)
+- ### Backward Propagation of Errors (Backpropagation, BP)
 
 # Types of ANN
 - ### Feedforward Neural Network
