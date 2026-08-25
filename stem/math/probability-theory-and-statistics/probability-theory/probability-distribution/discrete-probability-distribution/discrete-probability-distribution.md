@@ -1,8 +1,8 @@
 # Discrete Uniform Distribution
 |Property|Description|
 |:---:|:---:|
-|Notation|$`X\sim U_d\left(a,b\right)`$|
-|[Random Variable](../../probability-theory.md#random-variable)|$`x\in\{a,a+1,\cdots ,b-1,b\}`$|
+|Notation|$`X\sim U_d\left(a,~b\right)`$|
+|[Random Variable](../../probability-theory.md#random-variable)|$`x\in\{a,~a+1,~\cdots ,~b-1,~b\}`$|
 |Parameters|$`\begin{cases}{n=b-a+1}\\ {a\leq b}\end{cases}`$|
 |[PMF](../distribution-function.md#probability-function)|$`\frac{1}{n}`$|
 |[CDF](../distribution-function.md#cumulative-distribution-function-cdf)|$`\frac{k-a+1}{n}`$|
