@@ -1,7 +1,7 @@
 # Multivariate [Continuous Uniform Distribution](../continuous-probability-distribution/continuous-probability-distribution.md#continuous-uniform-distribution)
 |Property|Description|
 |:---:|:---:|
-|Notation|$`X\sim U_c\left(a,b\right)`$|
+|Notation|$`X\sim U_c\left(a,~b\right)`$|
 |[Random Variable](../../probability-theory.md#random-variable)|$`X=\left( X_1,~\cdots,~X_n \right) \\ X_i \in \left[a_i,~b_i\right],~\forall i`$|
 |Parameters|$`a=\left( a_1,~\cdots,~a_n \right) \\ b=\left( b_1,~\cdots,~b_n \right) \\ a_i\le b_i,~\forall i`$|
 |[PDF](../distribution-function.md#probability-function)|$`\begin{cases} {\prod\limits_{i=1}^n{\frac{1}{b_i-a_i}}} & {\text{for all }x_i \in \left[a_i,~b_i\right]} \\ 0&\text{otherwise} \end{cases}`$|
