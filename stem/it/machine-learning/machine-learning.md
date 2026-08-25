@@ -15,7 +15,7 @@
 
 # [Artificial Neural Networks (ANN), Neural Networks (NN)](./ann/ann.md)
 - ### [Activation Function](ann/activation-function/activation-function.md)
-    - #### [NonLinear Activation Function](activation-function/nonlinear-activation-function/nonlinear-activation-function.md) 
+    - #### [NonLinear Activation Function](ann/activation-function/nonlinear-activation-function/nonlinear-activation-function.md) 
 - ### [Backward Propagation of Errors (Backpropagation, BP)](ann/backpropagation.md)
 - ### Feedforward Neural Network
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
