@@ -18,6 +18,7 @@
     - #### Dying ReLU Problem
 - ### Leaky ReLU
     - A small variation of ReLU that allows a tiny, non-zero gradient for negative inputs to prevent "dead" neurons
+- ### Gaussian Error Linear Unit (GELU)
 
 # Softmax
 - Converts raw output scores into probability distributions for multi-class classification problems
