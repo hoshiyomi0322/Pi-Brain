@@ -7,4 +7,8 @@
     - #### [Non-Saturating Activation Function](nonlinear-activation-function/non-saturating-activation-function.md)
     - #### [Softmax](nonlinear-activation-function/nonlinear-activation-function.md#softmax-activation-function)
 
+# Ridge Activation Function
 
+# Radial Activation Function
+
+# Fold Activation Function
