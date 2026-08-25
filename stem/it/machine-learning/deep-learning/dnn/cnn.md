@@ -1,4 +1,4 @@
-# Layer
+# Layers in CNN
 - ### Input Layer $\to$ [Convolutional Layer](#convolutional-layer) $\to$ [Pooling Layer](#pooling-layer) $\to$ [Dense Layer](../../machine-learning.md#dense-layer-fully-connected-layer) $\to$ Output Layer
 
 # Convolutional Layer
