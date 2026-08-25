@@ -1,6 +1,5 @@
 # Layer
-- ### Input Layer $\to$ [Convolutional Layer](#convolutional-layer) $\to$ [Pooling Layer
-](#pooling-layer
+- ### Input Layer $\to$ [Convolutional Layer](#convolutional-layer) $\to$ [Pooling Layer](#pooling-layer
 ) $\to$ [Dense Layer](../../machine-learning#dense-layer-fully-connected-layer) $\to$ Output Layer
 
 # Convolutional Layer
