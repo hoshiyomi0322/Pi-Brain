@@ -13,12 +13,7 @@
 - ### One-Shot Learning
 - ### Few-Shot Learning
 
-# Artificial Neural Networks (ANN), Neural Networks (NN)
-- ### Input Layer $\to$ Hidden Layers $\to$ Output Layer
-    - #### Dense Layer (Fully Connected Layer)
-- ### Activation Function
-- ### Self-attention
-    - #### Self-attention Layer
+# [Artificial Neural Networks (ANN), Neural Networks (NN)](ann.md)
 - ### Backward Propagation of Errors (Backpropagation)
 - ### Feedforward Neural Network
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
