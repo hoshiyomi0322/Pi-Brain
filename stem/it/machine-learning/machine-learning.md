@@ -15,6 +15,7 @@
 
 # Artificial Neural Networks (ANN), Neural Networks (NN)
 - ### Input Layer $\to$ Hidden Layers $\to$ Output Layer
+    - #### Dense Layer (Fully Connected Layer)
 - ### Activation Function
 - ### Backward Propagation of Errors (Backpropagation)
 - ### Feedforward Neural Network
