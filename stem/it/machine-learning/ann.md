@@ -6,6 +6,8 @@
     - #### Self-attention Layer
 
 - ### Backward Propagation of Errors (Backpropagation)
+
+# Types of ANN
 - ### Feedforward Neural Network
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
 - ### Multilayer Perceptron (MLP)
