@@ -1,5 +1,5 @@
 # Artificial Neural Networks (ANN), Neural Networks (NN)
-- ### [Activation Function](activation-function.md)
+- ### [Activation Function](activation-function/activation-function.md)
 - ### Self-attention
     - #### Self-attention Layer
 - ### [Backward Propagation of Errors (Backpropagation, BP)](backpropagation.md)
