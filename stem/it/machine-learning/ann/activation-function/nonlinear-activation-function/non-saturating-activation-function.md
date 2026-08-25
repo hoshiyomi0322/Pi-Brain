@@ -8,6 +8,3 @@
 # Gaussian Error Linear Unit (GELU) Activation Function
 
 # Exponential Linear Unit (ELU) Activation Function
-
-# Softmax Activation Function
-- Converts raw output scores into probability distributions for multi-class classification problems
