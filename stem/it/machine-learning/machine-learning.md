@@ -13,8 +13,9 @@
 - ### One-Shot Learning
 - ### Few-Shot Learning
 
-# [Artificial Neural Networks (ANN), Neural Networks (NN)](ann.md)
-- ### Backward Propagation of Errors (Backpropagation)
+# [Artificial Neural Networks (ANN), Neural Networks (NN)](./ann/ann.md)
+- ### [Activation Function](ann/activation-function.md)
+- ### [Backward Propagation of Errors (Backpropagation, BP)](ann/backpropagation.md)
 - ### Feedforward Neural Network
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
 - ### Multilayer Perceptron (MLP)
