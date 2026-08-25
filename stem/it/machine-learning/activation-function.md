@@ -13,7 +13,7 @@
 - ### Vanishing Gradient Problem
 
 # Non-Saturated Activation Function
-- ### ReLU (Rectified Linear Unit)
+- ### Rectified Linear Unit (ReLU)
     - Outputs the input directly if it is positive, and returns 0 if it is negative. It is the most common choice for hidden layers because it speeds up training
     - #### Dying ReLU Problem
 - ### Leaky ReLU
