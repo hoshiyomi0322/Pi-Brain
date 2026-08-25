@@ -48,6 +48,7 @@
 |`Ctrl + C`|Copy selected item|
 |`Ctrl + X`|Cut selected item|
 |`Ctrl + V`|Paste selected item|
+|`Ctrl + Shift + V`|Paste selected text as plain text, removing all original fonts, colors, sizes, and links|
 |`Ctrl + Z`|Undo|
 |`Ctrl + Y`|Redo|
 |`Ctrl + +/-`|Zoom in/out|
