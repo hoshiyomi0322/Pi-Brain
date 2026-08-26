@@ -225,3 +225,6 @@
 
 # todo
 - https://youtu.be/yd2ELZS56rg
+- https://youtu.be/F2Tea6BI0eo?si=CLz2FyyLNr7RAs_B
+- https://youtu.be/OZeT2EAeL-4?si=ygAzVlrXkt7v8O1z
+- https://youtu.be/56mDKi5ioqs?si=4YdYPkGTSCYgXbBP
