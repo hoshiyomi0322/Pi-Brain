@@ -169,6 +169,8 @@
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
+    - Shimmy：[OD空插 Combo
+](jamie-special-move.md#od空插-combo)
 - ### 5MK OKI (6F~8F)
     - [5MK Combo](#5mk-combo)
 - ### コマ投げ OKI (6F~8F)
