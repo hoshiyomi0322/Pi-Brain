@@ -1,5 +1,5 @@
 # Activation Function
-- ### Net input：$`z = \sum{wx} + b`$
+- ### Net input：$`z = \left( \sum{wx} \right) + b`$
     - $`x`$ = input
     - [Parameters](../ann.md#parameters)
         - $`w`$ = [weight](../ann.md#weight)
