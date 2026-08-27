@@ -1,8 +1,3 @@
-# Machine Learning Model
-- ### Parameters
-- ### Architecture
-- ### Hyperparameters
-
 # Types of Machine Learning
 - ### [Supervised Learning](./types-of-machine-learning/supervised-learning.md)
 - ### [Unsupervised Learning](./types-of-machine-learning/unsupervised-learning.md)
@@ -18,9 +13,7 @@
 - ### One-Shot Learning
 - ### Few-Shot Learning
 
-# [Artificial Neural Networks (ANN), Neural Networks (NN)](./ann/ann.md)
-- ### [Activation Function](ann/activation-function/activation-function.md)
-    - #### [NonLinear Activation Function](ann/activation-function/nonlinear-activation-function/nonlinear-activation-function.md) 
+# [Artificial Neural Networks (ANN), Neural Networks (NN)](./ann/ann.md) 
 - ### [Backward Propagation of Errors (Backpropagation, BP)](ann/backpropagation.md)
 - ### Feedforward Neural Network
 - ### [Deep Neural Network (DNN)](./deep-learning/dnn/dnn.md)
