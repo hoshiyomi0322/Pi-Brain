@@ -1,3 +1,8 @@
+# Machine Learning Model
+- ### Parameters
+- ### Architecture
+- ### Hyperparameters
+
 # Types of Machine Learning
 - ### [Supervised Learning](./types-of-machine-learning/supervised-learning.md)
 - ### [Unsupervised Learning](./types-of-machine-learning/unsupervised-learning.md)
