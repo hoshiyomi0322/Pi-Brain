@@ -8,3 +8,5 @@
 
 # Pooling Layer
 
+# Recurrent Layers
+- ### Long Short-Term Memory (LSTM)
