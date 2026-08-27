@@ -1,7 +1,7 @@
 # Sigmoid (Logistic) Activation Function
 |Property|Description|
 |:---:|:---:|
-|Function ($`f\left(x\right)`$)|$`σ\left(x\right) = \frac{1}{1+e^{-x}}`$|
+|[Activation Function](../activation-function.md#activation-function)|$`σ\left(z\right) = \frac{1}{1+e^{-z}}`$|
 |Range|$`\left( 0,~1 \right)`$|
 |Plot||
 - Squashes input values into a range between 0 and 1, making it popular for output layers in binary classification
