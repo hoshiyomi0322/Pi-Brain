@@ -8,7 +8,7 @@
     - #### <span id="weight"> Weight ($`w`$)： </span>
     - #### <span id="bias"> Bias ($`b`$)： </span>
 - ### Architecture：designed by engineer
-    - #### [Layer](layer.md)
+    - #### [Layer](layer/layer.md)
     - #### Artificial Neuron
     - #### Connections (Topology)
     - #### [Activation Function](activation-function/activation-function.md)
