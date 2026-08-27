@@ -5,8 +5,8 @@
 
 # Machine Learning Model
 - ### <span id="parameters"> Parameters：Learned by Model </span>
-    - #### <span id="weight"> Weight ($`w`$) </span>
-    - #### <span id="bias"> Bias ($`b`$) </span>
+    - #### <span id="weight"> Weight ($`w`$)： </span>
+    - #### <span id="bias"> Bias ($`b`$)： </span>
 - ### Architecture：designed by engineer
     - #### [Layer](layer.md)
     - #### Artificial Neuron
