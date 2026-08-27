@@ -1,5 +1,5 @@
 # Activation Function
-- ### $`z=\sum{\left(wx+b\right)}`$
+- ### Net input：$`z = \sum{wx} + b`$
     - $`x=input`$
     - $`w=weight`$
     - $`b=bias`$
