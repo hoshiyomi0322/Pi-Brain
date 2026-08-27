@@ -63,13 +63,14 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)
+- ### 5HP OKI (6F~11F)
+    - [5HP Combo](#5hp-combo)
+    - delay + [投げ](#投げ)
 - ### 6HP 重ね (23F)
     - 6HP + [2LP Combo](#2lp-combo)
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 5HP OKI (6F~11F)
-    - [5HP Combo](#5hp-combo)
 - ### DI OKI (25F~26F)
     - DI
     - 前ステ + [5HP OKI](#5hp-oki-6f11f)
