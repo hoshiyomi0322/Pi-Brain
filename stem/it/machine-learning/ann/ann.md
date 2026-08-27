@@ -8,7 +8,7 @@
     - #### <span id="weight"> Weight ($`w`$) </span>
     - #### <span id="bias"> Bias ($`b`$) </span>
 - ### Architecture：designed by engineer
-    - #### Layer
+    - #### [Layer](layer.md)
     - #### Artificial Neuron
     - #### Connections (Topology)
     - #### [Activation Function](activation-function/activation-function.md)
@@ -17,10 +17,6 @@
     - #### Batch Size
     - #### Epochs
     - #### Optimizer Choice
-
-# Layers in ANN
-- ### Input Layer $\to$ Hidden Layers $\to$ Output Layer
-- ### Dense Layer (Fully Connected Layer)
 
 # Types of ANN
 - ### Feedforward Neural Network
