@@ -95,7 +95,7 @@
 - ### 5HP PC Combo
     - 5HP(PC) + [強迅雷起始 Combo]()
     - Close：5HP(PC) + [5MP Combo]()
-- ### 2HP Combo
+- ### 2HP PC Combo
     - 2HP(PC) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### 5HK PC Combo
     - 5HK(PC) + [Air 跑步 Combo]()/[Air DR5HP Combo]()
