@@ -3,10 +3,10 @@
     - 中昇竜 + SA3
     - 中昇竜 + [DI OKI](terry.md#di-oki-25f26f)
 - ### 強昇竜 Combo
-    - 強昇竜 + [28F 強弾 OKI](terry.md#28f-強弾-oki)
+    - 強昇竜 + [28F 強弾 OKI](terry.md#28f-強弾-oki-27f29f)
 # 昇竜 Air Combo
 - ### 中昇竜 Air Combo
-    - 中昇竜 + [28F 強弾 OKI](terry.md#28f-強弾-oki)
+    - 中昇竜 + [28F 強弾 OKI](terry.md#28f-強弾-oki-27f29f)
 - ### 強昇竜 Air Combo
     - 強昇竜 + [30F 強弾 OKI](terry.md#30f-強弾-oki)
 
