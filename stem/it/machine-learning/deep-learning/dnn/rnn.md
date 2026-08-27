@@ -4,6 +4,7 @@
 # Vanilla RNN (Simple RNN)
 - ### Elman Neural Network
 - ### Jordan Neural Network
+- ### SimpleRNN
 
 # Gated RNN
 - ### Gated Recurrent Unit (GRU)
