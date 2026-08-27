@@ -117,6 +117,7 @@
 # PC Combo
 - ### 5HK PC Combo
     - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
     - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
 
 # DI Combo
