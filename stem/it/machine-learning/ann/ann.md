@@ -4,9 +4,9 @@
 - ### [Backward Propagation of Errors (Backpropagation, BP)](backpropagation.md)
 
 # Machine Learning Model
-- ### Parameters：Learned by Model
-    - #### Weights ($`w`$)
-    - #### Biases ($`b`$)
+- ### <span id="parameters"> Parameters：Learned by Model </span>
+    - #### <span id="weight"> Weight ($`w`$) </span>
+    - #### <span id="bias"> Bias ($`b`$) </span>
 - ### Architecture：designed by engineer
     - #### Layer
     - #### Artificial Neuron
