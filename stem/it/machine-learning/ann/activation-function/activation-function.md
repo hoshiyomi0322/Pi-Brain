@@ -1,4 +1,6 @@
 # Activation Function
+<div align="center"><img src="./image/activation-function.png" width="45%"></div>
+
 - ### Net input：$`z = \left( \sum{wx} \right) + b`$
     - $`x`$ = input
     - [Parameters](../ann.md#parameters)
