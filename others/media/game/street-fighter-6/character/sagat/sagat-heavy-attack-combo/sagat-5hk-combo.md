@@ -20,3 +20,4 @@
 
 # DR 5HK Highest-Air Combo
 - DR + 5HK + (強迅雷 + [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo))
+- DR + [5HK High-Air Combo](#5hk-high-air-combo)
