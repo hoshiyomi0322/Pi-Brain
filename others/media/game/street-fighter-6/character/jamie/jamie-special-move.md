@@ -83,6 +83,8 @@
         - OD推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 空插 Combo
+- ### 空插 Combo
+    - 空插 + 消費(前ステ*2) + [5MK OKI](#5mk-oki-6f8f)
 - ### OD空插 Combo
     - OD空插 + delay + [2HK Combo](jamie.md#2hk-combo)
     - Corner：OD空插 + [5HP High-Air Combo](jamie.md#5hp-high-air-combo)

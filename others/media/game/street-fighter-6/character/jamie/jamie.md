@@ -68,6 +68,8 @@
     - DR + ガード(6HK) + (前歩き + [投げ](#投げ))
 
 # Medium Attack Combo
+- ### 5MP Combo
+    - 5MP + [2MP Combo](#2mp-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
     - 2MP + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
@@ -174,6 +176,7 @@
 ](jamie-special-move.md#od空插-combo)
 - ### 5MK OKI (6F~8F)
     - [5MK Combo](#5mk-combo)
+    - [5MP Combo](#5mp-combo)
 - ### コマ投げ OKI (6F~8F)
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
     - [5MK OKI](#5mk-oki-6f8f)
