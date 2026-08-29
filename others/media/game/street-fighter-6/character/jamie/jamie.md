@@ -24,7 +24,9 @@
 - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
     - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
 - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
+- SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
 - 打動力槽：SA3 + (DR + delay + 2HP + DI)
+- Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### Corner SA3 Combo
     - SA3 + 前ステ + (5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
@@ -69,10 +71,12 @@
     - 2HK + HK + P
     - (2HK + HK) + [Mid 23F OKI](#mid-23f-oki)
     - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 酔い4 6HK Combo
-    - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
-    - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
-    - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
+- ### 6HK Combo
+    - 6HK + SA1/[SA3 Combo](#sa3-combo)
+    - ### 酔い4 6HK Combo
+        - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
+        - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
+        - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
 - ### DR 6HK Combo
     - DR + 6HK + [2MP Combo](#2mp-combo)
     - DR + ガード(6HK) + (前歩き + [投げ](#投げ))
@@ -262,6 +266,7 @@
 - 2HP + [5MK OKI](#5mk-oki-6f10f)
 
 # todo
-- https://youtu.be/0NISyeWUxMI
+- https://youtube.com/@%E6%B7%B1%E7%94%B0%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%9F
 - https://forum.gamer.com.tw/Co.php?bsn=173&sn=94205
+- https://youtu.be/0NISyeWUxMI
 - https://youtu.be/0NISyeWUxMI
