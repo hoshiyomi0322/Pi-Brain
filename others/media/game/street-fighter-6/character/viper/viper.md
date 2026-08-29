@@ -39,7 +39,7 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP + [Medium Cancel Combo](#medium-cancel-combo)
+    - 5MP + [2MP Combo](#2mp-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 2MP Air Combo
@@ -79,7 +79,8 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
-- ### 9F OKI (8F/9F)
+- ### 5MP 重ね (8F/9F)
+    - 5MP + [5MP Combo](#5mp-combo)
     - [2HP Combo](#2hp-combo)
 - ### 中Thunder 重ね (16F~18F)
     - 中Thunder + [5F打摔擇](#5f打摔擇-4f5f)
@@ -97,7 +98,7 @@
     - [DI OKI](#di-oki-25f26f)
     - Corner：[Corner OD地波 OKI](#corner-od地波-oki-24f25f)
 - ### 30F OKI
-    - 前ステ + [9F OKI](#9f-oki-8f9f)
+    - 前ステ + [5MP 重ね](#5mp-重ね-8f9f)
     - 強火腿 + 安全飛び
         - ガード(強火腿) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### OD Thunder OKI (40F)
@@ -105,7 +106,7 @@
         - ガード(OD Thunder) + [3F打摔擇](#3f打摔擇-2f3f)
     - Corner
         - 消費(5HP) + [5F打摔擇](#5f打摔擇-4f5f)
-        - 消費(2HP) + [9F OKI](#9f-oki-8f9f)
+        - 消費(2HP) + [5MP 重ね](#5mp-重ね-8f9f)
 - ### 42F OKI
     - 安全飛び
 - ### 45F OKI

@@ -100,6 +100,7 @@
 # 構え-attack Combo
 - 構え-attack + [中前翻滾 Air Combo](#中前翻滾-air-combo)
 - 構え-attack + 3HP + [35F OKI](../blanka.md#35f-oki)
+- 構え-attack + (DR + 5LK + [構え-attack Air Combo](#構え-attack-air-combo))
 - ### Midscreen 構え-attack Combo
     - 構え-attack + (中昇竜 + [44F OKI](../blanka.md#44f-oki))
 - ### Corner 構え-attack Combo
@@ -113,6 +114,7 @@
 
 # 構え-attack Air Combo
 - 構え-attack + 3HP + [35F OKI](../blanka.md#35f-oki)
+- 構え-attack + (DR + 5LK + 弱放炸彈)
 - ### Corner 構え-attack Air Combo
     - 構え-attack + [強昇竜 Air Combo](#強昇竜-air-combo)
     - 構え-attack + [55F OKI](../blanka.md#55f-oki-54f55f)
