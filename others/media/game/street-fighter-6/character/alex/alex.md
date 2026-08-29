@@ -26,7 +26,9 @@
 - ### [必殺技, 特殊技 Combo](alex-special-move.md)
 
 # SA2 Air Combo
-- ### Corner
+- ### QQH SA2 Air Combo
+    - SA2 + 消費(中昇竜) + [弱コマ投げ OKI](#弱コマ投げ-oki-8f9f)
+- ### Corner SA2 Air Combo
     - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/[DR 2HP Combo](#dr-2hp-combo)/SA1
 
 # Heavy Attack Combo
@@ -72,8 +74,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - #### Midscreen 前投げ
-    - #### Corner 前投げ
+    - 前投げ + [Far 28F OKI](#far-28f-oki)
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
@@ -85,9 +86,20 @@
     - ### 中コマ投げ OKI (6F/7F)
         - 中コマ投げ
         - [5MP Combo](#5mp-combo)
+        - delay + [投げ](#投げ)
     - ### 弱コマ投げ OKI (8F/9F)
         - 弱コマ投げ
         - [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
+- ### 28F OKI
+    - ### Close 28F OKI
+        - [Far 28F OKI](#far-28f-oki)
+        - その場受け身/Corner：消費(前ステ) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
+        - 消費(前ステ) + [5MP Combo](#5mp-combo)
+    - ### Far 28F OKI
+        - (DR + 5HK) + [5MP Combo](#5mp-combo)
+        - ガード(DR + 5HK) + [2LP Combo](#2lp-combo)
+        - その場受け身/Corner：消費(前ステ) + [5MP Combo](#5mp-combo)
 - ### 33F OKI
     - [DR 溜め5HP Combo](#dr-溜め5hp-combo)
     - [DR 溜め5HK Combo](#dr-溜め5hk-combo)
+

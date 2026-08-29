@@ -37,12 +37,14 @@
         - (5HP + 5HK) + [強昇竜 High-Air Combo](cammy-special-move.md#強昇竜-high-air-combo)
         - (5HP + 5HK) + (OD空插 + [5HK Air Combo](#5hk-air-combo))
 - ### 2HP Combo
-    - 2HP
+    - 2HP + [2MP Combo](#2mp-combo)
 - ### 4HK Combo
     - 4HK + [4HK Extension Combo](#4hk-extension-combo)
     - 4HK + delay(no cancel) + (強Spiral-arrow Air + [Close 36F Hooligan-中段 OKI](#close-36f-hooligan-中段-oki-36f))
     - 4HK + delay(no cancel) + (中Spiral-arrow Air + 消費(前ステ) + [23F 中Spiral-arrow OKI](#23f-中spiral-arrow-oki-22f23f))
-    - Corner：4HK + delay(no cancel) + (中Spiral-arrow + [強昇竜 Combo](#強昇竜-combo))
+    - Corner
+        - 4HK + delay(no cancel) + (中Spiral-arrow + [強昇竜 Combo](#強昇竜-combo))
+        - 4HK + delay(no cancel) + (弱Spiral-arrow\*2 + [Hooligan-空插 OKI](#hooligan-空插-oki-30f34f))
 - ### 4HK Extension Combo
     - [強昇竜 High-Air Combo](cammy-special-move.md#強昇竜-high-air-combo)/強溜め昇竜
     - delay(no cancel) + [OD Spiral-arrow Air Combo](cammy-special-move.md#od-spiral-arrow-air-combo)
@@ -56,8 +58,8 @@
     - delay(no cancel) + (DR + 5LK) + [強溜めHooligan-中段 OKI](#強溜めhooligan-中段-oki-53f57f)
     - #### C-Switch
         - 消費(中Spiral-arrow) + [30F 強Spin-knuckle 重ね](#30f-強spin-knuckle-重ね)
-        - 消費(強Spin-knuckle) + [26F 中Spin-knuckle 重ね](#26f-中spin-knuckle-重ね-26f)
         - 消費(弱Spiral-arrow) + [31F OKI](#31f-oki-31f32f)
+        - 消費(強Spin-knuckle) + [26F 中Spin-knuckle 重ね](#26f-中spin-knuckle-重ね-26f)
 - ### Corner DR 4HK Combo
     - (DR + 4HK*2) + delay(no cancel) + (中Spiral-arrow + [強昇竜 Combo](#強昇竜-combo)/SA1/SA3)
     - (DR + 4HK*2) + delay(no cancel) + (強Spiral-arrow + [Hooligan-中段 重ね](#hooligan-中段-重ね-39f40f))
@@ -140,6 +142,7 @@
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
+    - Shimmy：空插(PC) + [4MP Combo](#4mp-combo)
 - ### 5MP 重ね (7F/8F)
     - 5MP + [5HP Combo](#5hp-combo)
 - ### 5HP OKI (9F)

@@ -15,8 +15,8 @@
 - ### 5HP Combo
     - 5HP + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
 - ### 6HP Combo
-    - 6HP + 
-    - ガード(6HP) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 6HP + [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
+    - ガード(6HP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 4HP Combo
     - 4HP + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
     - 4HP + [強足刀 Combo](ryu-special-move.md#強足刀-combo)
@@ -26,6 +26,7 @@
     - 4HK(2段) + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
 - ### 6HK Combo
     - 6HK + [Air-旋風腳 Combo](ryu-special-move.md#air-旋風腳-combo)
+    - (6HK + Air-旋風腳) + [前ステ6HP OKI](#前ステ6hp-oki-36f42f)
 - ### DR 5HK Combo
     - DR + 5HK + [5HP Combo](#5hp-combo)
 
@@ -86,7 +87,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - その場受け身/Corner：前投げ + [6HP OKI](#6hp-oki-12f13f)
+    - その場受け身/Corner：前投げ + [6HP OKI](#6hp-oki-17f23f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + 弱足刀
@@ -102,27 +103,34 @@
     - [5HP Combo]()
 - ### 5HP 重ね (12F/13F)
     - 5HP + [2MP Combo](#2mp-combo)
-- ### 6HP OKI (12F/13F)
+- ### 6HP OKI (17F~23F)
     - [6HP Combo](#6hp-combo)
 - ### 6MP 重ね (21F/22F)
     - 6MP + [2LP Combo](#2lp-combo)
+    - [6HP OKI](#6hp-oki-17f23f)
+- ### DI OKI (25F/26F)
+    - DI
 - ### 35F OKI
     - 消費(5HP) + [3F打摔擇](#3f打摔擇-2f3f)
     - 消費(5MP) + [5HP 重ね](#5hp-重ね-12f13f)
     - 消費(5LP) + [6MP 重ね](#6mp-重ね-21f22f)
 - ### 40F OKI
+    - [前ステ6HP OKI](#前ステ6hp-oki-36f42f)
     - 消費(弱波掌撃) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5MK) + [5HP 重ね](#5hp-重ね-12f13f)
     - 消費(前ステ) + [6MP 重ね](#6mp-重ね-21f22f)
     - 消費(2LP) + Reset(DI)
 - ### 42F OKI
     - 安全飛び
+    - [前ステ6HP OKI](#前ステ6hp-oki-36f42f)
     - (前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5MK) + [5HP 重ね](#5hp-重ね-12f13f)
-    - 消費(2LK) + Reset(DI)
+    - 消費(2LK) + [DI OKI](#di-oki-25f26f)
 - ### 45F OKI
-    - 消費(前ステ) + Reset(DI)
+    - 消費(前ステ) + Reset()
     - Corner
-        - 消費(中波掌撃) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+        - 消費(中波掌撃) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5HP) + [5HP 重ね](#5hp-重ね-12f13f)
         - 消費(2MP) + [6MP 重ね](#6mp-重ね-21f22f)
+- ### 前ステ6HP OKI (36F~42F)
+    - 消費(前ステ) + [6HP OKI](#6hp-oki-17f23f)

@@ -15,7 +15,7 @@
 - 5HP*2 + [2HP Air Combo](../aki.md#2hp-air-combo)
 - Corner：5HP*2 + 強毒鞭 + [SA1 Combo](../aki.md#sa1-combo)/弱SA2/[SA3 Combo](../aki.md#sa3-combo)/下毒
 - ### 帶毒 5HP Air Combo
-    - 5HP*2(帶毒) + (DR + 5HK + [蛇行突刺 Air Combo]())
+    - 5HP*2(帶毒) + (DR + 5HK + [構え-突刺 Air Combo]())
     - #### Corner 帶毒 5HP Air Combo
         - (5HP*2(帶毒) + 中毒鞭) + 消費(5MK) + [Close 25F OKI]()
         - (5HP*2(帶毒) + 中毒鞭) + 消費(強蛇輕功) + [2MK OKI]()

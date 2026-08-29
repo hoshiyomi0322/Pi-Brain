@@ -21,14 +21,19 @@
 - SA3 + 消費(弱爆廻) + [5F打摔擇](#5f打摔擇-4f5f)
 - SA3 + [強爆廻 Air Combo](jamie-special-move.md#強爆廻-air-combo)/[OD爆廻 Air Combo](jamie-special-move.md#od爆廻-air-combo)
 - SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)
+- SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
+    - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
+- SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
 - 打動力槽：SA3 + (DR + delay + 2HP + DI)
 - ### Corner SA3 Combo
+    - SA3 + 前ステ + (5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
     - SA3 + (DR + 2HP + 5LP) + Reset(DI)
     - SA3 + (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
         - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
     - SA3 + (DR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
         - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - SA3 + (DR + 5MP + 6HK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 
 # Heavy Attack Combo
 - ### 5HP Combo
@@ -42,8 +47,7 @@
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2HP Air Combo
     - 2HP + [Air Cancel Combo](#air-cancel-combo)
-- ### 2HP High-Air Combo
-    - 2HP + [強推掌 Combo](jamie-special-move.md#強推掌-combo)/[爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)
+    - 酔い3：2HP + (CDR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
 - ### 酔い3 DR 4HP Combo
     - DR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
 - ### 酔い3 4HP Air Combo
@@ -62,7 +66,7 @@
 - ### 酔い4 6HK Combo
     - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
     - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
-    - (6HK + 4HK + P) + (CDR + [2HP High-Air Combo](#2hp-high-air-combo))
+    - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
 - ### DR 6HK Combo
     - DR + 6HK + [2MP Combo](#2mp-combo)
     - DR + ガード(6HK) + (前歩き + [投げ](#投げ))
@@ -70,6 +74,7 @@
 # Medium Attack Combo
 - ### 5MP Combo
     - 5MP + [2MP Combo](#2mp-combo)
+    - ガード(5MP) + [2LP Combo](#2lp-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
     - 2MP + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
@@ -170,10 +175,9 @@
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
-    - [2MP Combo](#2mp-combo)
+    - [2MP Combo](#2mp-combo)/[5MP Combo](#5mp-combo)
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
-    - Shimmy：[OD空插 Combo
-](jamie-special-move.md#od空插-combo)
+    - Shimmy：[OD空插 Combo](jamie-special-move.md#od空插-combo)
 - ### 5MK OKI (6F~8F)
     - [5MK Combo](#5mk-combo)
     - [5MP Combo](#5mp-combo)

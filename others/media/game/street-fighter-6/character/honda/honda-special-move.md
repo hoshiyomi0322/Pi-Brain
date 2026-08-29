@@ -6,6 +6,12 @@
 - ### 百貫落 Combo (2段)
     - 百貫落(2段) + [3HK 重ね](honda.md#3hk-重ね-22f23f)
 
+# 百貫落 PC Combo
+- ### 百貫落 PC Combo (1段)
+    - 百貫落(1段, PC) + (5HK + [強百裂掌 High-Air Combo](#強百裂掌-high-air-combo))
+- ### 百貫落 PC Combo (2段)
+    - 百貫落(2段, PC) + [3HK 重ね](honda.md#3hk-重ね-22f23f)
+
 # 百裂掌 Combo
 - ### 弱百裂掌 Combo
     - 弱百裂掌 + [打摔擇](honda.md#打摔擇-2f5f)

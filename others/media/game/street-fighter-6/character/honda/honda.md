@@ -6,7 +6,7 @@
 - ### 相撲ステ：236K
     - #### 相撲ステ鉄砲：236K + P
         - #### 相撲ステ鉄砲派生：236K + P + P
-    - #### 相撲ステ大砲：236K + 4P
+    - #### 相撲ステ大砲：236K + 2P
 - ### 拍掌：22P
 - ### 曬太陽：22K
 
@@ -20,6 +20,8 @@
 - ### 5HP High-Air Combo
     - 5HP + [弱百裂掌 Air Combo](honda-special-move.md#弱百裂掌-air-combo)/[強百裂掌 High-Air Combo](honda-special-move.md#強百裂掌-high-air-combo)
     - 5HP + [相撲ステ鉄砲 Air Combo](honda-special-move.md#相撲ステ鉄砲-air-combo)
+- ### 5HK Combo
+    - 5HK + delay(等第二段打完) + [百裂掌 Combo](honda-special-move.md#百裂掌-combo)
 - ### 2HP Combo
     - 2HP + [打摔擇](#打摔擇-2f5f)
 - ### 3HK Combo
@@ -50,6 +52,7 @@
 - ### 6HK PC Combo
     - 6HK + 消費(弱頭槌) + [DI OKI](#di-oki-25f26f)
     - 6HK + 消費(中頭槌) + [3HK 重ね](#3hk-重ね-22f23f)
+- [百貫落 PC Combo](honda-special-move.md#百貫落-pc-combo)
 
 # DI Combo
 - ### DI PC Combo

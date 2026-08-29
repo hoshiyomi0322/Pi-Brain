@@ -1,6 +1,7 @@
 # 昇竜 Combo
 - ### 弱昇竜 Combo
     - 弱昇竜 + SA3
+    - 弱昇竜 + [前ステ6HP OKI](ryu.md#前ステ6hp-oki-36f42f)
 - ### 中昇竜 Combo
     - 中昇竜 + SA3
     - Corner
@@ -8,6 +9,7 @@
         - 中昇竜 + 消費(5MP) + [5HP 重ね](ryu.md#5hp-重ね-12f13f)
 - ### 強昇竜 Combo
     - 強昇竜 + SA3
+    - 強昇竜 + [前ステ6HP OKI](ryu.md#前ステ6hp-oki-36f42f)
     - その場受け身/Corner
         - 強昇竜 + 消費(弱波掌撃) + [3F打摔擇](ryu.md#3f打摔擇-2f3f)
         - 強昇竜 + 消費(DR + 5MP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
@@ -56,6 +58,7 @@
     - Corner：強旋風腳 + 消費(2LP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
 - ### OD旋風腳 Combo
     - OD旋風腳 + SA1(帶電)
+    - OD旋風腳 + (消費(5HP) + [DI OKI](ryu.md#di-oki-25f26f))
     - #### Corner OD旋風腳 Comb
         - OD旋風腳 + SA1/SA2
         - (OD旋風腳 + 強昇竜) + SA3
