@@ -77,7 +77,7 @@
     - OD推掌 + [SA3 Combo](jamie.md#sa3-combo)
     - OD推掌 + (酒飲み + [DI OKI](jamie.md#di-oki-25f26f))
     - Corner
-        - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/[5HP Air Combo](#5hp-air-combo)/強昇竜/SA1
+        - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/[5HP Air Combo](jamie.md#5hp-air-combo)/強昇竜/SA1
     - 酔い4
         - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
         - OD推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
@@ -124,12 +124,13 @@
 # コマ投げ Combo
 - ### コマ投げ Combo
 - ### ODコマ投げ Combo
-    - ODコマ投げ + (前ステ + [2HP Air Combo](#2hp-air-combo))
-    - 酔い3：ODコマ投げ + (前ステ + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
+    - ODコマ投げ + (前ステ + [2HP Air Combo](jamie.md#2hp-air-combo))
+    - 酔い3：ODコマ投げ + (前ステ + [酔い3 4HP Air Combo](jamie.md#酔い3-4hp-air-combo))
     - ODコマ投げ + (9 + JHP) + Reset(DI)
 
 # 天晴脚 Combo
 - 天晴脚 + (前歩き + [5HP High-Air Combo](jamie.md#5hp-high-air-combo))
+- 天晴脚 + 5HP + 消費(CDR + 5HP) + [Close 23F OKI](jamie.md#close-23f-oki)
 
 # DR 天晴脚 Combo
 - (DR + 天晴脚) + (9 + [JHK Air Combo](jamie.md#jhk-air-combo)/[JMP Air Combo](jamie.md#jmp-air-combo))

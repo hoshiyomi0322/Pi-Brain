@@ -30,12 +30,10 @@
 - ### Corner SA3 Combo
     - SA3 + 前ステ + (5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
-    - SA3 + (DR + 2HP + 5LP) + Reset(DI)
-    - SA3 + (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
+        - SA3 + (DR + 2HP + 5LP) + Reset(DI)
+    - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
         - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
-    - SA3 + (DR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
         - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
-    - SA3 + (DR + 5MP + 6HK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 
 # Heavy Attack Combo
 - ### 5HP Combo
@@ -77,6 +75,9 @@
         - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
         - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
         - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
+        - Corner
+            - (6HK + 4HK + P) + (CDR + [Corner DR Air Reset](#corner-dr-air-reset))
+            - (6HK + 4HK + P) + (CDR + 5MP + [5HP High-Air Combo](#5hp-high-air-combo))
 - ### DR 6HK Combo
     - DR + 6HK + [2MP Combo](#2mp-combo)
     - DR + ガード(6HK) + (前歩き + [投げ](#投げ))
@@ -260,6 +261,11 @@
     - 安全飛び
     - 消費(前ステ) + [Close 23F OKI](#close-23f-oki)
     - Corner：消費(5HP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+
+# Corner DR Air Reset
+- (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
+- (DR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+- (DR + 5MP + 6HK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 
 # [対空](../street-fighter-6.md#anti-air)
 - [昇竜 Combo](jamie-special-move.md#昇竜-combo)
