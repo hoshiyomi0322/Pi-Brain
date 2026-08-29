@@ -70,7 +70,7 @@
     - 2MK(相打ち) + [10F 相打ち Combo]()
 - ### DR 3MP Combo
     - DR + 3MP + [2MP Combo]()
-- ### DR 2MP Combo
+- ### DR 2MP Air Combo
     - (DR + 2MP) + (CDR + [DR 5HP Air Combo](#dr-5hp-air-combo))
     - (DR + 2MP) + (CDR + 5HK) + [中凶襲突 Air Combo](aki-special-move/214k.md#中凶襲突-air-combo)
 - ### DR 5MK Combo
@@ -98,8 +98,16 @@
 - ### 5LK Combo
     - 5LK + [Light Cancel Combo]()
     - ガード(5LK) + [ガード後 Cancel Combo]()
-- ### 5LK Air Combo
-    - 
+- ### 2LP Air Combo
+    - 2LP + [毒泡 Air Combo]()/[弱凶襲突 Air Combo]()/[強毒鞭 Combo]()
+    - (2LP + 構え-踢) + 弱毒鞭/[DR 2MP Air Combo](#dr-2mp-air-combo)/[SA1 Combo](#sa1-combo)/弱SA2
+    - Midscreen：(2LP + 構え-踢) + 強SA2
+    - Near-wall
+        - (2LP + 構え-踢) + 弱SA2
+        - (2LP + 構え-踢) + 弱毒鞭 + [SA3 Combo](#sa3-combo)
+        - (2LP + 構え-踢) + 弱毒鞭 + 消費(前ステ) + [6HK OKI](#6hk-oki-12f19f)
+    - #### 帶毒 2LP Air Combo
+        - 2LP + (OD毒鞭(帶毒) + [DR 5HK Air Combo](aki-heavy-attack-combo/aki-5hk-combo.md#dr-5hk-air-combo))
 
 # Jump Attack Combo
 - ### JHK Combo
@@ -124,7 +132,7 @@
             - 5HK(PC) + [帶毒構え-突刺 Combo]()
     - ### 2HK PC Combo
         - 2HK(PC) + 中毒鞭/[SA1 Combo](#sa1-combo)/弱SA2/[SA3 Combo](#sa3-combo)
-        - 2HK(PC) + (DR + 2LP) + [Air 毒泡 Combo]()/[強毒鞭 Combo]()
+        - 2HK(PC) + (DR + [2LP Air Combo](#2lp-air-combo))
     - ### 2HP PC Combo
         - 2HP(PC) + 消費(8) + [5F打摔擇](#5f打摔擇-4f5f)
 - [弱毒鞭 PC Combo](./aki-special-move/236p.md#弱毒鞭-pc-combo)
@@ -147,7 +155,7 @@
 - ### Light Cancel Combo
     - [中毒鞭 Combo]()/[強毒鞭 Combo]()/[毒泡 Combo]()
 - ### ガード後 Cancel Combo
-    - [構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
+    - [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
     - [毒泡 Combo]()/[Close OD弾 Combo]()
 
 # [投げ](../street-fighter-6.md#throw)
@@ -172,7 +180,7 @@
     - 2MK + [5MP Combo]()
     - ガード(2MK) + [5MP Combo]()
     - ガード(2MK) + (前歩き + [投げ](#投げ))
-- ### 5HK 重ね (9F/10F)
+- ### 5HK 重ね (10F)
     - 5HK + [5MP Combo]()
 - ### 6HK OKI (12F~19F)
     - [6HK Combo]()
@@ -203,7 +211,7 @@
         - [Close DR 6HK Combo](#close-dr-6hk-combo)
         - Corner
             - 消費(5MK) + [5F打摔擇]()
-            - [構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
+            - [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
     - ### Mid 30F OKI (30F~32F)
         - 消費(前ステ) + [6HK OKI](#6hk-oki-12f19f)
         - [Close DR 6HK Combo](#close-dr-6hk-combo)
@@ -213,7 +221,7 @@
     - #### Close 42F OKI
         - [Far 42F OKI](#far-42f-oki)
         - 消費(5HP) + [2MK 重ね]()
-        - DR + [構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
+        - DR + [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
         - Corner
             - 消費(投げ) + [6HK OKI]()
     - #### Far 42F OKI
@@ -223,7 +231,7 @@
     - #### Close 44F OKI
         - 下毒/安全飛び
         - 消費(中蛇輕功) + [5F打摔擇]()
-        - DR + [構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
+        - DR + [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
         - Corner
             - 消費(前ステ) + [Close 25F OKI]()
             - 消費(投げ) + [6HK OKI]()
@@ -233,17 +241,17 @@
         - Corner
             - 消費(前ステ) + [Close 25F OKI]()
             - 消費(投げ) + [6HK OKI]()
-            - DR + [構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
+            - DR + [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
 
 # DR Air Reset
 - ### General DR Air Reset
-    - (DR + 5HK + 弱凶襲突 + 5LK) + (DI/[構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
-    - Near-wall：(DR + 5HK + 5LK/5MP/2MP) + (DI/[構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
+    - (DR + 5HK + 弱凶襲突 + 5LK) + (DI/[構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
+    - Near-wall：(DR + 5HK + 5LK/5MP/2MP) + (DI/[構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
 - ### Near-wall DR 弱蛇輕功 Air Reset
     - (DR + 5HK) + 消費(弱蛇輕功) + [Far 25F OKI]()
 - ### Corner 弱蛇輕功 Air Reset
     - 5HK + 消費(弱蛇輕功) + [Far 25F OKI]()
-- (DR + 5MP/5MK/2MK + 5MP/2MP) + (DI/[構え-コマ投げ](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
+- (DR + 5MP/5MK/2MK + 5MP/2MP) + (DI/[構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo)/[弱凶襲突 Combo](./aki-special-move/214k.md#弱凶襲突-combo))
 - Close：(DR + 2LP + 5LP*2) + [5F打摔擇]()
 
 # 対空

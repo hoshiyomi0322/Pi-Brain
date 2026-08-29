@@ -21,7 +21,8 @@
             - (構え-突刺(帶毒) + 下毒) + 消費(前ステ + 2LP) + [5F打摔擇]()
             - (構え-突刺(帶毒) + 下毒) + 消費(前ステ) + [6HK OKI]()
         - 構え-突刺(帶毒) + (弱毒鞭 + [SA3 Combo](../aki.md#sa3-combo))
-        - 構え-突刺(帶毒) + [General Near-wall DR 5HK Air Combo](../aki-heavy-attack-combo/aki-5hk-combo.md#general-near-wall-dr-5hk-air-combo)
+        - 構え-突刺(帶毒) + (DR + 5HK) + (CDR + [General Near-wall DR 5HK Air Combo](../aki-heavy-attack-combo/aki-5hk-combo.md#general-near-wall-dr-5hk-air-combo))
+        - 構え-突刺(帶毒) + (DR + 6HK) + (DR + 5LK) + (CDR + [General Near-wall DR 5HK Air Combo](../aki-heavy-attack-combo/aki-5hk-combo.md#general-near-wall-dr-5hk-air-combo))
 
 # 構え-踢 Combo
 - 構え-踢 + [2LP Combo]()

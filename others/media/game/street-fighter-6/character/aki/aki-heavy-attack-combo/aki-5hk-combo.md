@@ -36,7 +36,7 @@
 # DR 5HK Air Combo
 - (DR + 5HK) + [弱凶襲突 Air Combo](../aki-special-move/214k.md#弱凶襲突-air-combo)
 - DR + [5HP Air Combo](aki-5hp-combo.md#5hp-air-combo)
-- [DR 2MP Combo](../aki.md#dr-2mp-combo)
+- [DR 2MP Air Combo](../aki.md#dr-2mp-air-combo)
 - (DR + 5HK) + [構え-踢 High-Air Combo]()
 - [DR Air Reset]()
 - ### Near-wall DR 5HK Air Combo
