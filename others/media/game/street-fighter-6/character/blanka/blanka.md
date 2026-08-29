@@ -11,7 +11,7 @@
     - #### Air-前翻滾：7/8/9 + (4(溜め) + 6P)
     - #### 翻滾Cancel(最多可以3次)：[翻滾技](#翻滾技) + ([Direction](../../street-fighter-6.md#direction) + P)
 - ### 放電：214P
-    - #### 蓄力放電：214P(Hold)
+    - #### 溜め放電：214P(Hold)
 - ### 放炸彈：22P
 - ### 構え：2PP
     - #### 構え-attack：2PP + P
@@ -38,7 +38,7 @@
 - ### 6HP Combo
     - 6HP + [27F OKI](#27f-oki-27f28f)
 - ### 3HP Combo
-    - 3HP + [29F OKI](#29f-oki)
+    - 3HP + [30F OKI](#30f-oki-29f33f)
 - ### 5HK Combo
 - ### 2HK Combo
     - 2HK + [DI OKI](#di-oki-25f26f)
@@ -103,13 +103,14 @@
     - ガード後可以Heavy Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
     - 5HK(PC) + [5HP Combo](#5hp-combo)
 - 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
-- 3HP(PC) + [29F OKI](#29f-oki)
+- 3HP(PC) + [30F OKI](#30f-oki-29f33f)
 - [強前翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#強前翻滾-pc-combo)
 - [後翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#後翻滾-pc-combo)
 
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + 前ステ + [5HP Air Combo](#5hp-air-combo)
+    - C-Switch：DI(PC) + 前hop + [5HP Air Combo](#5hp-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
 - ### Stun Combo
@@ -156,18 +157,19 @@
         - 5MK/2MK + [帶炸彈 放電 Combo](./blanka-special-move/214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
 - ### 4MK OKI (6F/7F)
     - [4MK Combo](#4mk-combo)
-    - delay + [投げ](#投げ)
-- ### 放電 OKI (7F)
+    - 前歩き + [投げ](#投げ)
+- ### 放電 OKI (7F~11F)
     - [OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
     - その場受け身/Corner
         - [放電 Combo](./blanka-special-move/214p.md#放電-combo)
-        - [5HP Combo](#5hp-combo)
-        - [4MK OKI](#4mk-oki-6f7f)
+        - [5HP Combo](#5hp-combo)/[4MK Combo](#4mk-combo)
+        - 前歩き + [投げ](#投げ)
 - ### 5HK 重ね
     - ### 8F 5HK 重ね (8F/9F)
         - 5HK + [5MK Combo](#5mk-combo)/[2MK Combo](#2mk-combo)
         - [4MK Combo](#4mk-combo)
-        - delay + [投げ](#投げ)
+        - 前歩き + [投げ](#投げ)
+        - [放電 OKI](#放電-oki-7f11f)
     - ### 10F 5HK 重ね (10F~14F)
         - 5HK + [5HP Combo](#5hp-combo)
         - 4MK + [5HP Combo](#5hp-combo)
@@ -177,13 +179,13 @@
     - DI
     - 消費(前ステ) + [4MK OKI](#4mk-oki-6f7f)
 - ### 27F OKI (27F/28F)
-    - 消費(前ステ) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 消費(前ステ) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - [DR 6MK Combo](#dr-6mk-combo)
-- ### 29F OKI
+- ### 30F OKI (29F~33F)
     - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - [DR 6MP Combo](#dr-6mp-combo)/[DR 6MK Combo](#dr-6mk-combo)
 - ### 35F OKI
-    - 消費(前hop) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 消費(前hop) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - Corner：消費(4MK) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### コマ投げ OKI
     - ### ODコマ投げ OKI (30F/31F)
@@ -220,14 +222,14 @@
     - 消費(中前翻滾) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 46F OKI
     - 消費(前ステ) + [27F OKI](#27f-oki-27f28f)
-    - 消費(DR + 前hop) + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 消費(DR + 前hop) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - 消費(中前翻滾) + [5F打摔擇](#5f打摔擇-4f5f)
     - その場受け身/Corner：消費(前hop + 5LK) + [4MK OKI](#4mk-oki-6f7f)
     - Corner
         - 消費(6MP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 48F OKI
-    - 消費(前ステ) + [29F OKI](#29f-oki)
+    - 消費(前ステ) + [30F OKI](#30f-oki-29f33f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(中前翻滾) + [4MK OKI](#4mk-oki-6f7f)
     - 消費(前hop + 2LK) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -237,7 +239,7 @@
 - ### 50F OKI
     - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-    - 消費(9) + [放電 OKI](#放電-oki-7f)
+    - 消費(9) + [放電 OKI](#放電-oki-7f11f)
 - ### 55F OKI (54F/55F)
     - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
@@ -250,10 +252,10 @@
     - 消費(6HP) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 57F OKI
-    - 弱放炸彈 + [放電 OKI](#放電-oki-7f)
+    - 弱放炸彈 + [放電 OKI](#放電-oki-7f11f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 58F OKI (58F/59F)
-    - 弱放炸彈 + [8F 5HK 重ね](blanka.md#8f-5hk-重ね-8f9f)
+    - 弱放炸彈 + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - 消費(5HK) + [DI OKI](#di-oki-25f26f)
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
