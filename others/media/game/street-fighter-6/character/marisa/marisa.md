@@ -13,7 +13,7 @@
     - #### Scutum-コマ投げ：214K + 投げ
 
 # 必殺技, 特殊技 Combo
-
+- [必殺技, 特殊技 Combo](marisa-special-move.md)
 
 # Heavy Attack Combo
 - ### 5HP Combo
