@@ -288,6 +288,8 @@
 - https://youtu.be/EjKhBx6mToE
 - https://youtu.be/gBATejXagzA
 - https://youtube.com/playlist?list=PL7ybKQxgO2opC1rAAHyGlZQ2ZVbEGFo-9&si=A7fccAvVmQyzX555
+- https://x.com/Fufexo30Tobar/status/2091727739992650203
+    - https://x.com/LiquidHbox/status/2091228635327865165
 - SA2
     - https://youtu.be/26yMz5mT1Zo
     - https://youtu.be/RZw9HjpPXxY
