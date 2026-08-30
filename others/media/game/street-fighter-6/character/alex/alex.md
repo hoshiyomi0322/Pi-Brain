@@ -6,21 +6,23 @@
 - ### 昇竜：623K
 - ### コマ投げ：624P
 - ### 構え：2 + PP
-    - 構え-cancel：(2 + PP) + 8
-    - 構え-move
+    - #### 構え-cancel：(2 + PP) + 8
+    - #### 構え-move
         - 構え-forward：(2 + PP) + 6
         - 構え-backward：(2 + PP) + 4
-    - 構え-elbow：(2 + PP) + 6P
-    - 構え-lp：(2 + PP) + LP
-    - 構え-対空：(2 + PP) + MP
-    - 構え-chop：(2 + PP) + HP
+    - #### 構え-elbow：(2 + PP) + 6P
+    - #### 構え-lp：(2 + PP) + LP
+    - #### 構え-対空：(2 + PP) + MP
+    - #### 構え-chop：(2 + PP) + HP
         - 構え-armor：(2 + PP) + HP(Hold)
-    - 構え-jump：(2 + PP) + LK
-    - 構え-踩頭：(2 + PP) + MK
-    - 構え-下段：(2 + PP) + HK
+    - #### 構え-jump：(2 + PP) + LK
+    - #### 構え-踩頭：(2 + PP) + MK
+        - 前-構え-踩頭：(2 + PP) + MK + 6
+        - 後-構え-踩頭：(2 + PP) + MK + 4
+    - #### 構え-下段：(2 + PP) + HK
         - 構え-下段派生：(2 + PP) + (HK + HK)
-    - 構え-投げ (Close)：(2 + PP) + 投げ
-    - 構え-コマ投げ：(2 + PP) + (2 + 投げ)
+    - #### 構え-投げ (Close)：(2 + PP) + 投げ
+    - #### 構え-コマ投げ：(2 + PP) + (2 + 投げ)
 
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](alex-special-move.md)
@@ -38,6 +40,11 @@
 - ### 2HP Combo
 - ### 2HP Air Combo
     - (2HP + 中Axe) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
+- ### 2HP High-Air Combo
+    - (2HP + 中Axe) + (中構え-elbow + SA1 + [31F OKI](#31f-oki))
+    - Corner
+        - (2HP + 中Axe) + (中構え-elbow + [中昇竜 Combo](alex-special-move.md#中昇竜-combo))
+        - [2HP Air Combo](#2hp-air-combo)
 - ### DR 2HP Combo
     - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
@@ -99,7 +106,14 @@
         - (DR + 5HK) + [5MP Combo](#5mp-combo)
         - ガード(DR + 5HK) + [2LP Combo](#2lp-combo)
         - その場受け身/Corner：消費(前ステ) + [5MP Combo](#5mp-combo)
-- ### 33F OKI
+- ### 31F OKI
+    - [DR 溜め5HP OKI](#dr-溜め5hp-oki-31f33f)
+    - Corner
+        - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-8f9f)
+        - 消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### DR 溜め5HP OKI (31F~33F)
     - [DR 溜め5HP Combo](#dr-溜め5hp-combo)
+- ### DR 溜め5HK OKI (33F)
     - [DR 溜め5HK Combo](#dr-溜め5hk-combo)
+    - [DR 溜め5HP OKI](#dr-溜め5hp-oki-31f33f)
 

@@ -250,9 +250,11 @@
 - ### [Vega](./character/vega/vega.md)
 - ### [Lily](./character/lily/lily.md)
 - ### [Blanka](./character/blanka/blanka.md)
+- ### [Dhalsim](./character/dhalsim/dhalsim.md)
 - ### [Zangief](./character/zangief/zangief.md)
 - ### [Honda](./character/honda/honda.md)
 - ### [Manon](./character/manon/manon.md)
+- ### [Marisa](./character/marisa/marisa.md)
 - ### [Kimberly](./character/kimberly/kimberly.md)
 - ### [Rashid](./character/rashid/rashid.md)
 - ### [Chunli](./character/chunli/chunli.md)
@@ -261,6 +263,7 @@
 - ### [Sagat](./character/sagat/sagat.md)
 - ### [Viper](./character/viper/viper.md)
 - ### [Ingrid](./character/ingrid/ingrid.md)
+- ### [Yasmine](./character/yasmine/yasmine.md)
 
 # todo
 - https://docs.google.com/spreadsheets/d/15U0knWcTcLw-BEUaFYq9bUEQ-3GefUEYjPdDalld4oI/edit?gid=139002400#gid=139002400

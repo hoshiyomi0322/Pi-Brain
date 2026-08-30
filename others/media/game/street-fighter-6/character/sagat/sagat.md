@@ -41,8 +41,10 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP + [2LP Combo](#2lp-combo)/[6F OKI](#6f-oki)
-    - ガード(5MP) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 5MP + [2LP Combo](#2lp-combo)/[6F 5MP 重ね](#6f-5mp-重ね-6f)
+    - ガード
+        - ガード(5MP) + [2LP Combo](#2lp-combo)
+        - ガード(5MP) + (前歩き + [投げ](#投げ))
     - 5MP(相打ち) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)
 - ### 2MP Combo
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
@@ -52,7 +54,7 @@
     - (5MK + 5HK) + [38F Tiger-knee OKI](#38f-tiger-knee-oki)
 - ### DR 5MP Combo
     - DR + 5MP + [5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
-    - DR + ガード(5MP) + [6F OKI](#6f-oki)
+    - DR + ガード(5MP) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
     - DR + 5MP(相打ち) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)
 - ### DR 2MP Combo
     - (DR + 2MP) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
@@ -170,13 +172,15 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
-- ### 6F OKI
-    - [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
-    - 前歩き + [投げ](#投げ)
-- ### 5MP 重ね (7F/8F)
-    - 5MP + [2MP Combo](#2mp-combo)
-    - ガード(5MP) + [6F OKI](#6f-oki)
-    - Close：5MP + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
+- ### 5MP 重ね
+    - #### 6F 5MP 重ね (6F)
+        - 5MP + [2MP Combo](#2mp-combo)
+        - ガード(5MP) + [2LP Combo](#2lp-combo)
+        - ガード(5MP) + (前歩き + [投げ](#投げ))
+    - #### 7F 5MP 重ね (7F/8F)
+        - 5MP + [2MP Combo](#2mp-combo)
+        - Close：5MP + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
+        - ガード(5MP) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
 - ### 6MP 重ね (22F/23F)
     - 6MP + [2LP Combo](#2lp-combo)
     - ### Far 23F OKI
@@ -202,14 +206,14 @@
     - #### 29F 強迅雷 OKI
         - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
         - その場受け身/Corner
-            - 消費(前ステ) + [6F OKI](#6f-oki)
+            - 消費(前ステ) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
             - 消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 32F 強迅雷 OKI (32F/33F)
         - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
         - Corner：消費(2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 34F 強迅雷 OKI
         - [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
-        - Corner：消費(2MP) + [6F OKI](#6f-oki)
+        - Corner：消費(2MP) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
 - ### Tiger-knee OKI
     - #### 36F Tiger-knee OKI
         - 強Tiger-knee + [42F OKI](#42f-oki)
@@ -222,21 +226,27 @@
         - 消費(前ステ) + [6HK OKI](#6hk-oki-15f)
     - #### 39F Tiger-knee OKI
         - 強Tiger-knee + [42F OKI](#42f-oki)
-        - ガード(強Tiger-knee) + [6F OKI](#6f-oki)
+        - ガード(強Tiger-knee) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
         - 消費(弱Tiger-knee) + [投げ](#投げ)
+- ### 41F OKI
+    - 消費(前ステ) + [Close 弾 OKI](#close-弾-oki)
+    - Corner
+        - 消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
+        - 消費(2HP) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
+        - 消費(前ステ + 2LP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [Close 弾 OKI](#close-弾-oki)
     - Corner
         - 消費(2LK) + [6MP 重ね](#6mp-重ね-22f23f)
-        - 消費(2HP) + [5MP 重ね](#5mp-重ね-7f8f)
+        - 消費(2HP) + [7F 5MP 重ね](#7f-5mp-重ね-7f8f)
         - 消費(前ステ + 2LP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 48F OKI
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - 消費(中Tiger-knee) + [3F打摔擇](#3f打摔擇-2f3f)
-    - その場受け身/Corner：消費(弱Tiger-knee) + [6F OKI](#6f-oki)
+    - その場受け身/Corner：消費(弱Tiger-knee) + [6F 5MP 重ね](#6f-5mp-重ね-6f)
     - Corner
-        - 消費(5HK) + [5MP 重ね](#5mp-重ね-7f8f)
+        - 消費(5HK) + [7F 5MP 重ね](#7f-5mp-重ね-7f8f)
         - 消費(5LK) + [6MP 重ね](#6mp-重ね-22f23f)
 
 # 対空
@@ -244,6 +254,8 @@
 - [JHK Air Combo](#jhk-air-combo)
 - [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
 - [5HK High-Air Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-high-air-combo)
+    - 5HK + (強Tiger-knee + [弱昇竜 Air Combo](./sagat-special-move.md#弱昇竜-air-combo))
+    - Midscreen/Near-corner：5HK + (中弾 + [6HK Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-air-combo))
 
 # todo
 - https://youtu.be/rtbtRI0FdSg?t=1m25s

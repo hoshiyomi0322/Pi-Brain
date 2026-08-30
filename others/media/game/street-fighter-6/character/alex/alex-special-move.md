@@ -1,5 +1,8 @@
 # 昇竜 Combo
-- 昇竜 + (前ステ + [中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f))
+- ### 弱昇竜 Combo
+    - 弱昇竜 + (前ステ + [中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f))
+- ### 中昇竜 Combo
+    - 中昇竜 + (前ステ + [中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f))
 - ### 強昇竜 Combo
     - 強昇竜 + (前ステ + [中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f))
 
@@ -10,7 +13,7 @@
 
 # Chop Extension Combo
 - [2LP Combo](alex.md#2lp-combo)
-- 4MK + [33F OKI](alex.md#33f-oki)
+- 4MK + [DR 溜め5HK OKI](alex.md#dr-溜め5hk-oki-33f)
 - コマ投げ
 - (コマ投げ + 6(Hold)) + 安全飛び
 - (コマ投げ + PP(SA2))
@@ -41,8 +44,10 @@
     - 構え-対空 + [JMP Air Combo](alex.md#jmp-air-combo)
 
 # 構え PC Combo
-- 構え-踩頭 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
-- 構え-踩頭 + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
-- 構え-elbow + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
-- 構え-elbow + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
+- ### 構え-踩頭 PC Combo
+    - 構え-踩頭 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)/[2HP High-Air Combo](alex.md#2hp-high-air-combo)
+    - 構え-踩頭 + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
+- ### 構え-elbow PC Combo
+    - 構え-elbow + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
+    - 構え-elbow + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
 - 構え-chop + [Chop Extension Combo](#chop-extension-combo)

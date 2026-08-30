@@ -124,15 +124,15 @@
         - 連ガ：DR + [5HP Combo](#5hp-combo)
         - [ガード後 Medium Cancel Combo](#ガード後-medium-cancel-combo)
 - ### Medium Cancel Combo
-    - [放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+    - [放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
     - [中前翻滾 Combo](./blanka-special-move/blanka-special-move.md#中前翻滾-combo)/[OD前翻滾 Combo](./blanka-special-move/blanka-special-move.md#od前翻滾-combo)
     - [Close OD後翻滾 Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-combo)
     - CDR + [DR 5HK Combo](#dr-5hk-combo)
     - #### ガード後 Medium Cancel Combo
-        - 連ガ：[放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+        - 連ガ：[放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
         - [コマ投げ Combo](./blanka-special-move/blanka-special-move.md#コマ投げ-combo)
 - ### Light Cancel Combo
-    - [放電 Combo](./blanka-special-move/214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+    - [放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)/[OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
     - [中前翻滾 Combo](./blanka-special-move/blanka-special-move.md#中前翻滾-combo)
     - CDR + [DR 5LK Combo](#dr-5lk-combo)
 
@@ -154,14 +154,14 @@
     - Shimmy：7 + [Air-前翻滾 Combo](./blanka-special-move/blanka-special-move.md#air-前翻滾-combo)
     - #### 帶炸彈 5F打摔擇 (4F/5F)
         - [5F打摔擇](#5f打摔擇-4f5f)
-        - 5MK/2MK + [帶炸彈 放電 Combo](./blanka-special-move/214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
+        - 5MK/2MK + [帶炸彈 放電 Combo](./blanka-special-move/blanka-214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
 - ### 4MK OKI (6F/7F)
     - [4MK Combo](#4mk-combo)
     - 前歩き + [投げ](#投げ)
 - ### 放電 OKI (7F~11F)
-    - [OD放電 Combo](./blanka-special-move/214p.md#od放電-combo)
+    - [OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
     - その場受け身/Corner
-        - [放電 Combo](./blanka-special-move/214p.md#放電-combo)
+        - [放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)
         - [5HP Combo](#5hp-combo)/[4MK Combo](#4mk-combo)
         - 前歩き + [投げ](#投げ)
 - ### 5HK 重ね

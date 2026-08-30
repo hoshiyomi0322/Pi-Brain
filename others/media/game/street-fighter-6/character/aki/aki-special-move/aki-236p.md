@@ -19,12 +19,12 @@
 
 # 帶毒 強毒鞭 Extension Combo
 - [中毒鞭 Air Combo]()/強SA2/[SA3 Combo](../aki.md#sa3-combo)
-- (DR + 2MP) + [毒泡 Air Combo](aki-special-move.md#毒泡-air-combo)/[強毒鞭 Combo]()
+- (DR + 2MP) + [毒泡 Air Combo](aki-214hp.md#毒泡-air-combo)/[強毒鞭 Combo]()
 - (DR + 5MP + 強毒鞭) + (前ステ*2 + [2MK 重ね]())
 - (DR + 5HK + [SA1 Combo](../aki.md#sa1-combo))
 - ### Corner 帶毒 強毒鞭 Extension Combo
     - [SA1 Combo](../aki.md#sa1-combo)/弱SA2/(弾派生 + [SA3 Combo](../aki.md#sa3-combo))
-    - [Near-wall 毒泡 Air Combo](aki-special-move.md#near-wall-毒泡-air-combo)
+    - [Near-wall 毒泡 Air Combo](aki-214hp.md#near-wall-毒泡-air-combo)
 
 # OD毒鞭 Combo
 - OD毒鞭 + [Close 2LP Combo]()
@@ -71,10 +71,10 @@
     - OD毒鞭 + (強毒鞭 + [SA1 Combo](../aki.md#sa1-combo)/弱SA2)
     - ### Corner 帶毒 OD毒鞭 Air Combo
         - OD毒鞭(帶毒) + [Near-wall DR 5HK Highest-Air Combo]()
-        - OD毒鞭(帶毒) + [Near-wall 毒泡 High-Air Combo](aki-special-move.md#near-wall-毒泡-high-air-combo)
+        - OD毒鞭(帶毒) + [Near-wall 毒泡 High-Air Combo](aki-214hp.md#near-wall-毒泡-high-air-combo)
         - #### OD毒鞭 Reset
             - OD毒鞭(帶毒) + [General DR Air Reset]()
-            - OD毒鞭(帶毒) + (5HK + [構え-コマ投げ Combo](./aki-special-move/2pp.md#構え-コマ投げ-combo))
+            - OD毒鞭(帶毒) + (5HK + [構え-コマ投げ Combo](./aki-special-move/aki-2pp.md#構え-コマ投げ-combo))
             - OD毒鞭(帶毒) + (5HK + CDR + [Close 25F OKI]())
             - OD毒鞭(帶毒) + (5HK + CDR + 3MP + [5HK Combo]())
 

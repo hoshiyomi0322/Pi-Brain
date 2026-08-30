@@ -99,9 +99,9 @@
     - #### 帶炸彈 帶電 OD Air-前翻滾 Combo
         - OD Air-前翻滾 + 消費(6MP*2) + (溜め放電 + [帶電 OD昇竜 Combo](#帶電-od昇竜-combo))
 
-# [放電 Combo](214p.md)
-- [放電 Combo](214p.md#放電-combo)
-- [OD放電 Combo](214p.md#od放電-combo)
+# [放電 Combo](blanka-214p.md)
+- [放電 Combo](blanka-214p.md#放電-combo)
+- [OD放電 Combo](blanka-214p.md#od放電-combo)
 
 # 構え-attack Combo
 - 構え-attack + [中前翻滾 Air Combo](#中前翻滾-air-combo)

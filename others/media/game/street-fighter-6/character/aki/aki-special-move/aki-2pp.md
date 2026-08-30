@@ -9,7 +9,7 @@
     - ### Midscreen 帶毒 構え-突刺 Air Combo
         - 構え-突刺(帶毒) + 弱毒鞭/[SA1 Combo](../aki.md#sa1-combo)/強SA2/[SA3 Combo](../aki.md#sa3-combo)
         - (構え-突刺(帶毒) + 下毒) + [弾 OKI]()
-        - 構え-突刺(帶毒) + (DR + 5HK) + [中毒鞭 Air Combo]()/[弱凶襲突 Air Combo](214k.md#弱凶襲突-air-combo)
+        - 構え-突刺(帶毒) + (DR + 5HK) + [中毒鞭 Air Combo]()/[弱凶襲突 Air Combo](aki-214k.md#弱凶襲突-air-combo)
         - 構え-突刺(帶毒) + (DR + 2HK) + [SA1 Combo](../aki.md#sa1-combo)/弱SA2
     - ### Near-wall 帶毒 構え-突刺 Air Combo
         - #### General Near-wall 帶毒 構え-突刺 Air Combo

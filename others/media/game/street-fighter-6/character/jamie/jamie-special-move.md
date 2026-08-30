@@ -133,4 +133,7 @@
 - 天晴脚 + 5HP + 消費(CDR + 5HP) + [Close 23F OKI](jamie.md#close-23f-oki)
 
 # DR 天晴脚 Combo
-- (DR + 天晴脚) + (9 + [JHK Air Combo](jamie.md#jhk-air-combo)/[JMP Air Combo](jamie.md#jmp-air-combo))
+- (DR + 天晴脚) + (9 + [JHK Air Combo](jamie.md#jhk-air-combo)/[JMP Air Combo](jamie.md#jmp-air-combo)/[JHP Air Combo](jamie.md#jhp-air-combo))
+
+# DR 天晴脚 Air Combo
+- (DR + 天晴脚) + (9 + delay + JHK) + (9 + [JMP High-Air Combo](jamie.md#jmp-high-air-combo)/[JHP Air Combo](jamie.md#jhp-air-combo))

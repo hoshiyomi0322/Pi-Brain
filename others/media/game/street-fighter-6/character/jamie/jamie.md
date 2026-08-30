@@ -20,7 +20,7 @@
 # SA3 Combo
 - SA3 + 消費(弱爆廻) + [5F打摔擇](#5f打摔擇-4f5f)
 - SA3 + [強爆廻 Air Combo](jamie-special-move.md#強爆廻-air-combo)/[OD爆廻 Air Combo](jamie-special-move.md#od爆廻-air-combo)
-- SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)
+- SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)/[DR 天晴脚 Air Combo](jamie-special-move.md#dr-天晴脚-air-combo)
 - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
     - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
 - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
@@ -124,11 +124,16 @@
 - ### Jump Attack Air Combo
     - #### JMP Air Combo
         - JMP + [OD空插 Air Combo](jamie-special-move.md#od空插-air-combo)
-        - (JMP + 空插) + [DI OKI](#di-oki-25f26f)
+        - (JMP + 強空插) + [DI OKI](#di-oki-25f26f)
+    - #### JHP Air Combo
+        - JHP + Reset(DI)
     - #### JHK Air Combo
         - JHK + (前歩き + [5HP High-Air Combo](#5hp-high-air-combo))
     - #### JMK Air Combo
         - JMK + (前歩き + [投げ](#投げ))
+- ### JMP High-Air Combo
+    - JMP + [OD空插 Air Combo](jamie-special-move.md#od空插-air-combo)
+    - (JMP + 強空插) + [27F OKI](#27f-oki)
 
 # Counter Combo
 
@@ -233,10 +238,10 @@
             - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
 - ### DI OKI (25F/26F)
     - DI
-    - 消費(前ステ) + [5MK OKI](#5mk-oki-6f10f)
+    - 消費(前ステ) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 - ### 27F OKI
     - [DR 6HK Combo](#dr-6hk-combo)
-    - Corner：消費(前ステ) + [5MK OKI](#5mk-oki-6f10f)
+    - Corner：消費(前ステ) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 - ### 31F OKI (31F/32F)
     - [DR 6MK Combo](#dr-6mk-combo)
     - Corner

@@ -10,13 +10,13 @@
         - OD弾 + (DR + 5HK + 中毒鞭) + (DR + 5HK + [構え-突刺 Air Combo]())
 
 # 毒泡 Combo
-- ### [毒泡 Combo](214hp.md)
+- ### [毒泡 Combo](aki-214hp.md)
 
 # 毒鞭 Combo
-- ### [毒鞭 Combo](236p.md)
+- ### [毒鞭 Combo](aki-236p.md)
 
 # 凶襲突 Combo
-- ### [凶襲突 Combo](214k.md)
+- ### [凶襲突 Combo](aki-214k.md)
 
 # 構え-Combo
-- ### [構え-Combo](2pp.md)
+- ### [構え-Combo](aki-2pp.md)

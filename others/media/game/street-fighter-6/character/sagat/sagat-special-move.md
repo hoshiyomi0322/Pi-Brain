@@ -31,15 +31,15 @@
 # Tiger-knee Combo
 - ### 弱Tiger-knee Combo
     - 弱Tiger-knee + [36F Tiger-knee OKI](sagat.md#36f-tiger-knee-oki)
-    - 弱Tiger-knee + 消費(2MP) + [5MP 重ね](sagat.md#5mp-重ね-8f)
+    - 弱Tiger-knee + 消費(2MP) + [7F 5MP 重ね](sagat.md#7f-5mp-重ね-7f8f)
 - ### 中Tiger-knee Combo
     - 中Tiger-knee + [39F Tiger-knee OKI](sagat.md#39f-tiger-knee-oki)
 - ### 強Tiger-knee Combo
     - 強Tiger-knee + [SA3 Combo](sagat.md#sa3-combo)
-    - 強Tiger-knee + [42F OKI](sagat.md#42f-oki)
+    - 強Tiger-knee + [41F OKI](sagat.md#41f-oki)
 - ### OD Tiger-knee Combo
     - OD Tiger-knee + [SA2 Combo](sagat.md#sa2-combo)/[SA3 Combo](sagat.md#sa3-combo)
-    - その場受け身/Corner：OD Tiger-knee + 消費(強Tiger-knee) + [5MP 重ね](sagat.md#5mp-重ね-8f)
+    - その場受け身/Corner：OD Tiger-knee + 消費(強Tiger-knee) + [7F 5MP 重ね](sagat.md#7f-5mp-重ね-7f8f)
     - Corner：OD Tiger-knee + [弱昇竜 Combo](#弱昇竜-combo)
 
 # 迅雷 Combo

@@ -20,8 +20,8 @@
 # Near-wall 帶毒 DR 5MP High-Air Combo
 - [Near-wall 帶毒 DR 5MP Air Combo](#near-wall-帶毒-dr-5mp-air-combo)
 - (DR + 5MP + 構え-踢) + [Near-wall 帶毒 DR 5MP Air Combo](#near-wall-帶毒-dr-5mp-air-combo)
-- (DR + 5MP) + [Corner 帶毒 中毒鞭 Air Combo](./aki-special-move/236p.md#corner-帶毒-中毒鞭-air-combo)/[Corner 帶毒 OD毒鞭 Air Combo](./aki-special-move/236p.md#corner-帶毒-od毒鞭-air-combo)
+- (DR + 5MP) + [Corner 帶毒 中毒鞭 Air Combo](./aki-special-move/aki-236p.md#corner-帶毒-中毒鞭-air-combo)/[Corner 帶毒 OD毒鞭 Air Combo](./aki-special-move/aki-236p.md#corner-帶毒-od毒鞭-air-combo)
 - 弱毒鞭(帶毒) + 弱毒鞭 + [SA3 Combo](#sa3-combo)
 - 弱毒鞭(帶毒) + 強毒鞭 + [Close 42F OKI](../aki.md#close-42f-oki)
-- 強毒鞭(帶毒) + (DR + 5HK) + [中凶襲突 Air Combo](aki-special-move/214k.md#中凶襲突-air-combo)
+- 強毒鞭(帶毒) + (DR + 5HK) + [中凶襲突 Air Combo](aki-special-move/aki-214k.md#中凶襲突-air-combo)
 - 強毒鞭(帶毒) + (DR + 5HK + OD凶襲突) + [SA1 Combo](#sa1-combo)/弱SA2/[SA3 Combo](#sa3-combo)
