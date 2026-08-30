@@ -49,6 +49,7 @@
     - Corner：5HP + [60F OKI](#60f-oki)
 - ### DR 5HP Air Combo
     - (DR + 5HP) + [SA3 Combo](#sa3-combo)
+    - (DR + 5HP + 前hop) + [弱コマ投げ OKI](#弱コマ投げ-oki-34f36f)
     - Corner：(DR + 5HP) + [60F OKI](#60f-oki)
 
 # Medium Attack Combo
@@ -151,6 +152,9 @@
     - [投げ](#投げ)
     - [5LK Combo](#5lk-combo)/[2LK Combo](#2lk-combo)
     - Shimmy：7 + [Air-前翻滾 Combo](./blanka-special-move/blanka-special-move.md#air-前翻滾-combo)
+    - #### 帶炸彈 3F打摔擇 (2F/3F)
+        - [3F打摔擇](#3f打摔擇-2f3f)
+        - 5LK/2LK + [帶炸彈 放電 Combo](./blanka-special-move/blanka-214p.md#帶炸彈-放電-combo)/[帶炸彈 OD放電 Combo](./blanka-special-move/blanka-special-move.md#帶炸彈-od放電-combo)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [5MK Combo](#5mk-combo)/[2MK Combo](#2mk-combo)
@@ -195,7 +199,7 @@
         - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
         - 消費(前hop) + [3F打摔擇](#3f打摔擇-2f3f)
         - [DR 6MP Combo](#dr-6mp-combo)/[DR 6MK Combo](#dr-6mk-combo)
-    - ### 弱コマ投げ OKI (36F)
+    - ### 弱コマ投げ OKI (34F~36F)
         - [弱コマ投げ Combo](./blanka-special-move/blanka-special-move.md#弱コマ投げ-combo)
         - [35F OKI](#35f-oki)
         - Corner：消費(5MP) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
@@ -242,10 +246,13 @@
     - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [放電 OKI](#放電-oki-7f11f)
+- ### 53F OKI (52F/53F)
+    - 弱放炸彈 + [帶炸彈 3F打摔擇](#帶炸彈-3f打摔擇-2f3f)
+    - 消費(中前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 55F OKI (54F/55F)
     - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
-    - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-36f)
+    - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-34f36f)
     - 消費(中前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
 - ### 56F OKI
@@ -268,29 +275,23 @@
 - 5HK
 
 # todo
-- https://youtu.be/kK9BJwZrNE0?t=1m43s
-- https://youtu.be/kK9BJwZrNE0?t=4m23s
-- https://youtu.be/JQq6Me4vW6Y
 - https://youtu.be/c_6SYV0BudA
-- https://youtu.be/t_YLtJgku2I
-- https://youtu.be/Bf3Jm-WM7Ug
-- https://youtu.be/MzGEGSK69kg
-- https://youtu.be/OvmArjytt38
-- https://youtu.be/ZbHazeBn7hs
+- https://www.youtube.com/playlist?list=PLSGgQTqIFIj5Ro73h2c3acrrMu5w84av4
+- https://note.com/long_quail5230
+    - https://www.youtube.com/@%E3%81%95%E3%81%8F%E3%81%AD-x4t/playlists
+    - https://youtu.be/t_YLtJgku2I
+    - https://youtu.be/ZbHazeBn7hs
+    - SA2
+        - https://youtu.be/rKqsebFWoeI
+        - https://youtu.be/s5cHCk9mcuA
 - https://youtu.be/CD42X4IP9w0
-- https://youtu.be/y4nWkDdPeAM
-- https://youtu.be/ovJCjGXkGgI
-- https://youtube.com/shorts/O41qKAXCTRI
 - https://youtu.be/EjKhBx6mToE
 - https://youtu.be/gBATejXagzA
 - https://youtube.com/playlist?list=PL7ybKQxgO2opC1rAAHyGlZQ2ZVbEGFo-9&si=A7fccAvVmQyzX555
-- https://youtu.be/FT-9B1dunCA
 - SA2
-    - https://youtu.be/rKqsebFWoeI
-    - https://youtu.be/s5cHCk9mcuA
     - https://youtu.be/26yMz5mT1Zo
     - https://youtu.be/RZw9HjpPXxY
-    - https://youtu.be/A45dqJWGwkM
     - https://youtu.be/_o4WIkydqiM
-    - https://youtube.com/shorts/E7W6IKryp3g
+    - https://youtu.be/A45dqJWGwkM
     - https://youtu.be/zUvNygdO7t0
+    - https://youtube.com/shorts/E7W6IKryp3g
