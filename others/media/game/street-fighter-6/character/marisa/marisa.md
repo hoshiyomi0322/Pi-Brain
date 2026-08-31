@@ -31,6 +31,9 @@
 - ### 溜め6HK Combo
     - 溜め6HK + [4HP Combo](#4hp-combo)/[2HP Combo](#2hp-combo)
     - ガード(溜め6HK) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### DR 溜め5HP Combo
+    - (DR + 溜め5HP) + [4HP Combo](#4hp-combo)
+    - ガード(DR + 溜め5HP) + [4HP Combo](#4hp-combo)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -74,6 +77,7 @@
         - 前投げ + [溜め5HP 重ね](#溜め5hp-重ね-23f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [32F 強Phalanx OKI](#32f-強phalanx-oki-32f33f)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -87,28 +91,37 @@
 - ### 溜め5HP 重ね (23F)
     - 溜め5HP + [2MP Combo](#2mp-combo)
     - ガード(溜め5HP) + [2MP Combo](#2mp-combo)/[5MP Combo](#5mp-combo)
-    - [弱Phalanx OKI](#弱phalanx-oki-23f27f)
+    - [弱Phalanx OKI](#弱phalanx-oki-22f27f)
 - ### 溜め6HK OKI (24F~27F)
     - [溜め6HK Combo](#溜め6hk-combo)
-    - [弱Phalanx OKI](#弱phalanx-oki-23f27f)
+    - [弱Phalanx OKI](#弱phalanx-oki-22f27f)
 - ### DI OKI (25F/26F)
     - DI
     - [溜め6HK OKI](#溜め6hk-oki-24f27f)
+- ### DR溜め5HP OKI (33F)
+    - [DR 溜め5HP Combo](#dr-溜め5hp-combo)
 - ### Phalanx OKI
-    - ### 弱Phalanx OKI (23F~27F)
+    - ### 弱Phalanx OKI (22F~27F)
         - [弱Phalanx Combo](marisa-special-move.md#弱phalanx-combo)
     - ### 中Phalanx OKI ()
         - [中Phalanx Combo](marisa-special-move.md#中phalanx-combo)
-    - ### 強Phalanx OKI (35F/36F)
+    - ### 32F 強Phalanx OKI (32F/33F)
+        - 強Phalanx + [44F OKI](#44f-oki)
+        - その場受け身/Corner：ガード(強Phalanx) + [2MP Combo](#2mp-combo)
+        - [DR溜め5HP OKI](#dr溜め5hp-oki-33f)
+        - 相手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
+    - ### 35F 強Phalanx OKI (35F/36F)
         - 強Phalanx + [47F OKI](#47f-oki-46f48f)
         - その場受け身/Corner：ガード(強Phalanx) + [2MP Combo](#2mp-combo)
         - 相手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 37F OKI
-    - delay + [強Phalanx OKI](marisa.md#強phalanx-oki-35f)
+    - delay + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)
     - 相手 Parry：消費(強Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [溜め5HP OKI](#溜め5hp-oki-20f)
+- ### 44F OKI
+    - 消費(前ステ) + [弱Phalanx OKI](#弱phalanx-oki-22f27f)
 - ### 47F OKI (46F~48F)
     - 消費(9) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)

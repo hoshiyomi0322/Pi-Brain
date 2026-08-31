@@ -7,7 +7,7 @@
 # Dimachaerus Combo
 - ### 弱Dimachaerus Combo
 - ### 中Dimachaerus Combo
-    - 中Dimachaerus派生 + [強Phalanx OKI](marisa.md#強phalanx-oki-35f36f)
+    - 中Dimachaerus派生 + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)
 - ### 強Dimachaerus Combo
     - 強Dimachaerus派生 + [弱Quadriga Air Combo](#弱quadriga-air-combo)
     - Corner
@@ -30,7 +30,7 @@
 
 # Quadriga Combo
 - ### 弱Quadriga Combo
-    - 弱Quadriga + [強Phalanx OKI](marisa.md#強phalanx-oki-35f36f)/SA3
+    - 弱Quadriga + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
 - ### 中Quadriga Combo
 - ### 強Quadriga Combo
 - ### OD Quadriga Combo
