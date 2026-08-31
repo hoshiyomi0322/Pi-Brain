@@ -46,7 +46,14 @@
     - 2MP + [弱地波 Combo](viper-special-move.md#弱地波-combo)
 
 # Light Attack Combo
+- ### 5LP Combo
+    - 5LP*2 + [Light Cancel Combo](#light-cancel-combo)
 - ### 2LP Combo
+    - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 5LK Combo
+    - 5LK + [Light Cancel Combo](#light-cancel-combo)/[中Thunder Combo](viper-special-move.md#中thunder-combo)
+- ### 2LK Combo
+    - 2LK + [2LP Combo](#2lp-combo)
 
 # Counter Combo
 
@@ -63,8 +70,9 @@
 
 # Cancel Combo
 - ### Medium Cancel Combo
-    - [Thunder Combo](viper-special-move.md#thunder-combo)
+    - [Thunder Combo](viper-special-move.md#thunder-combo)/[Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)
 - ### Light Cancel Combo
+    - [Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
@@ -84,21 +92,23 @@
     - [2HP Combo](#2hp-combo)
 - ### 中Thunder 重ね (16F~18F)
     - 中Thunder + [5F打摔擇](#5f打摔擇-4f5f)
-    - 中Thunder-撞擊 + [中Thunder 重ね](viper.md#中thunder-重ね-18f)
+    - 中Thunder-撞擊 + [中Thunder 重ね](#中thunder-重ね-18f)
+- ### 6MP 重ね (23F)
+    - 6MP + [2LP Combo](#2lp-combo)
 - ### Corner OD地波 OKI (24F/25F)
     - OD地波 + (Thunder-cancel + DR + 5HP + [弱地波 Combo](viper-special-move.md#弱地波-combo))
     - OD地波 + (DR + [2MP Air Combo](#2mp-air-combo))
-    - OD地波 + [中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](#5hk-air-combo)/[OD火腿 Combo](viper-special-move.md#od火腿-combo)/SA2/SA3
+    - OD地波 + [中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](#5hk-air-combo)/[OD火腿 Air Combo](viper-special-move.md#od火腿-air-combo)/SA2/SA3
     - OD地波 + (SA1 + [25F OKI](#25f-oki))
-    - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
+    - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DI OKI (25F/26F)
     - Reset(DI)
-    - 前ステ + [5F打摔擇](#5f打摔擇-4f5f)
+    - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 25F OKI
     - [DI OKI](#di-oki-25f26f)
     - Corner：[Corner OD地波 OKI](#corner-od地波-oki-24f25f)
 - ### 30F OKI
-    - 前ステ + [5MP 重ね](#5mp-重ね-8f9f)
+    - 消費(前ステ) + [5MP 重ね](#5mp-重ね-8f9f)
     - 強火腿 + 安全飛び
         - ガード(強火腿) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### OD Thunder OKI (40F)
@@ -110,4 +120,8 @@
 - ### 42F OKI
     - 安全飛び
 - ### 45F OKI
-    - 前ステ + [Corner OD地波 OKI](#corner-od地波-oki-24f25f)
+    - 消費(前ステ) + [Corner OD地波 OKI](#corner-od地波-oki-24f25f)
+- ### 46F OKI (46F/47F)
+    - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
+    - その場受け身/Corner：消費(9) + [3F打摔擇](#3f打摔擇-2f3f)
+
