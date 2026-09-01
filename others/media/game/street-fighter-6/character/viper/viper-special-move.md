@@ -19,7 +19,6 @@
 - (弱地波 + 大跳-cancel-Air-中火腿) + (中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f))
 - (弱地波 + 大跳-cancel-Air-中火腿) + (消費(強火腿) + [5F打摔擇](viper.md#5f打摔擇-4f5f))
 - (弱地波 + 大跳-cancel-Air-中火腿) + (消費(2HP) + [25F OKI](viper.md#25f-oki))
-- Corner：(弱地波 + 大跳-cancel-Air-中火腿) + (OD火腿 + 消費(バクステ) + [6MP 重ね](#6mp-重ね-23f))
 
 # 火腿 Combo
 - ### Close OD火腿 Combo
@@ -27,5 +26,5 @@
 
 # OD火腿 Air Combo
 - OD火腿 + SA2/SA3
-- OD火腿 + [46F OKI](viper.md#46f-oki-46f47f)
+- Corner：OD火腿 + [46F OKI](viper.md#46f-oki)
 
