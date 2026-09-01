@@ -114,11 +114,10 @@
 - ## 前投げ
     - ### Midscreen 前投げ
     - ### Corner 前投げ
-        - 前投げ + (前ステ + [5F打摔擇(バクステ)]())
-        - 前投げ + [DR 4HK Combo]()
+        - 前投げ + [21F OKI](#21f-oki)
 - ## 後ろ投げ
     - ### Corner 後ろ投げ
-        - 後ろ投げ + [DR 4HK Combo]()
+        - 後ろ投げ + [DR 4HK OKI](#dr-4hk-oki-17f21f)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -126,12 +125,12 @@
     - [2MP Combo](#2mp-combo)
     - [Shimmy (バクステ)](#shimmy-バクステ)/[Shimmy (後ろ歩き)](#shimmy-後ろ歩き)
 - ### 5F打摔擇 (4F/5F)
-    - #### 打摔擇(バクステ)
+    - #### 5F打摔擇(バクステ)
         - [投げ](#投げ)
         - [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
         - 2MP + Reset(DI)
         - [Shimmy (バクステ)](#shimmy-バクステ)
-    - #### 打摔擇(後ろ歩き)
+    - #### 5F打摔擇(後ろ歩き)
         - [投げ](#投げ)
         - [2MP Combo](#2mp-combo)/[2MK Combo](#2mk-combo)
         - 2MP + Reset(DI)
@@ -141,11 +140,29 @@
         - バクステ + [5HP PC Combo](#5hp-pc-combo)
     - #### Shimmy (後ろ歩き)
         - 後ろ歩き + [5HP PC Combo](#5hp-pc-combo)/[5HK PC Combo](#5hk-pc-combo)
+- ### 4HK OKI (8F/9F)
+    - [4HK Combo](#4hk-combo)
 - ### 5HP OKI (9F/10F)
-    - [5HP Combo]()
+    - [5HP Combo](#5hp-combo)
+- ### 9F OKI
+    - [4HK OKI](#4hk-oki-8f9f)
+    - [5HP OKI](#5hp-oki-9f10f)
+- ### DR 4HK OKI (17F~21F)
+    - [DR 4HK Combo](#dr-4hk-combo)
+- ### 21F OKI
+    - [DR 4HK OKI](#dr-4hk-oki-17f21f)
+    - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 23F OKI (22F/23F)
+    - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### OD溜め弾 OKI (27F~30F)
     - Midscreen：中弾
     - その場受け身/Corner：[OD溜め弾 Combo](mai-special-move.md#od溜め弾-combo)
+- ### 27F OKI
+    - [OD溜め弾 OKI](#od溜め弾-oki-27f30f)
+    - 消費(前ステ) + [9F OKI](#9f-oki)
+- ### 30F OKI (30F/31F)
+    - [OD溜め弾 OKI](#od溜め弾-oki-27f30f)
+    - Corner：消費(2MP) + [5F打摔擇(後ろ歩き)]()
 
 # todo
 - https://www.youtube.com/watch?v=2nqeLIbdOPg

@@ -25,21 +25,20 @@
 - ### 弱昇竜 Combo
     - Corner：弱昇竜 + 消費(2MP) + [3F打摔擇]()
 - ### 中昇竜 Combo
-    - Corner：中昇竜 + 消費(2MP) + [5F打摔擇(後ろ歩き)]()
+    - 中昇竜 + [30F OKI](mai.md#30f-oki-30f31f)
 - ### 強昇竜 Combo
-    - Corner：強昇竜 + 消費(2MP) + [5F打摔擇(後ろ歩き)]()
+    - 強昇竜 + [30F OKI](mai.md#30f-oki-30f31f)
 - ### OD昇竜 Combo
     - その場受け身/Corner：OD昇竜 + 前ステ + [3F打摔擇]()
 
 # 忍蜂 Combo
 - 忍蜂 + SA3
 - ### 弱忍蜂 Combo
-    - 弱忍蜂 + SA3
-    - 弱忍蜂 + [OD溜め弾 OKI](mai.md#od溜め弾-oki-27f30f)
-    - 弱忍蜂 + 前ステ + [5HP OKI](mai.md#5hp-oki-9f10f)
-- ### 中強忍蜂 Combo
-    - 中忍蜂/強忍蜂 + SA3
-    - 中忍蜂/強忍蜂 + (前ステ + [5F打摔擇(バクステ)]())
+    - 弱忍蜂 + [27F OKI](mai.md#27f-oki)/SA3
+- ### 中忍蜂 Combo
+    - 中忍蜂 + [23F OKI](mai.md#23f-oki-22f23f)/SA3
+- ### 強忍蜂 Combo
+    - 強忍蜂 + [23F OKI](mai.md#23f-oki-22f23f)/SA3
 - ### OD忍蜂 Combo
     - (OD忍蜂 + JMP) + 空插/[強昇竜 Combo]()/SA1/SA2
     - (OD忍蜂 + JMP) + (OD空插 + SA2)
@@ -51,9 +50,7 @@
 
 # 忍蜂 Air Combo
 - ### 弱忍蜂 Air Combo
-    - 弱忍蜂 + SA3
-    - 弱忍蜂 + [OD溜め弾 OKI](mai.md#od溜め弾-oki-27f30f)
-    - Corner：弱忍蜂 + (2MP + [5F打摔擇(後ろ歩き)]())
+    - 弱忍蜂 + [30F OKI](mai.md#30f-oki-30f31f)/SA3
 - ### OD忍蜂 Air Combo
     - OD忍蜂 + 空插/SA1/SA2
     - OD忍蜂 + (OD空插 + SA2)
