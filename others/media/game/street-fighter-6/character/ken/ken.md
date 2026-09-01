@@ -67,7 +67,7 @@
     - 2MK + [旋風腳 Combo]()/[General 跑步 Combo]()/迅雷腳
     - ガード(2MK) + 迅雷腳
 - ### DR 5MP Combo
-    - DR + 5MP/2MP + [5MP Combo](#5mp-combo)
+    - DR + 5MP/2MP + [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
 
 # Light Attack combo
 - ### 5LP Combo
