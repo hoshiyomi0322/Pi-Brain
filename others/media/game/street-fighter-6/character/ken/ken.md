@@ -35,10 +35,7 @@
 - ### 2HP Combo
     - 2HP + [跑步 Combo]()/[強迅雷起始 Combo]()
 - ### 2HK Combo
-    - 2HK + 消費(2LP) + Reset(DI)
-    - その場受け身/Corner
-        - 2HK + 消費(DR + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
-        - 2HK + 消費(跑步煞車) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+    - 2HK + [40F OKI](#40f-oki)
 - ### DR 2HP Combo
     - (DR + 2HP) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### DR 5HP Combo
@@ -144,24 +141,39 @@
         - バクステ + [5HP PC Combo]()
 - ### 5HP 重ね
     - ### 10F 5HP 重ね
-        - 5HP + [5LP Combo](#5lp-combo)
+        - 5HP + [2LP Combo](#2lp-combo)
         - [5HP Combo]()
     - ### 12F 5HP 重ね (12F/13F)
-        - 5HP + [2MP Combo](#2mp-combo)
-- ### 29F OKI
+        - 5HP + [5MP Combo]()/[2MP Combo](#2mp-combo)
+- ### DI OKI (25F/26F)
+- ### 30F OKI (29F/30F)
     - 跑步中段 + [2LP Combo](#2lp-combo)
     - 消費(跑步煞車) + [2LK Combo](#2lk-combo)
+- ### 40F OKI
+    - 消費(2LP) + [DI OKI](#di-oki-25f26f)
+    - 消費(跑步煞車) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+    - 消費(DR + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
 - ### 42F OKI
     - 安全飛び
-    - (前ステ + 前ステ) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
-    - 消費(5LP) + [29F OKI](#29f-oki)
-    - 消費(2LK) + Reset(DI)
-    - その場受け身/Corner：消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+    - 消費(前ステ*2) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(5LP) + [30F OKI](#30f-oki-29f30f)
+    - 消費(2LK) + [DI OKI](#di-oki-25f26f)
+    - その場受け身/Corner
+        - 強迅雷弱派生 + [2LP Combo](#2lp-combo)
+        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+- ### 42F OKI
+    - 安全飛び
+    - 消費(前ステ*2) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(5LP) + [30F OKI](#30f-oki-29f30f)
+    - 消費(2LK) + [DI OKI](#di-oki-25f26f)
+    - その場受け身/Corner
+        - 強迅雷弱派生 + [5MP Combo]()/[2MP Combo](#2mp-combo)
+        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
 - ### 47F OKI
     - 消費(前ステ + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
     - 消費(2HK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
-    - 消費(5LK) + [29F OKI](#29f-oki)
-    - 消費(5MP) + Reset(DI)
+    - 消費(5LK) + [30F OKI](#30f-oki-29f30f)
+    - 消費(5MP) + [DI OKI](#di-oki-25f26f)
 
 # todo
 - https://www.youtube.com/watch?v=MgrUkN12258
