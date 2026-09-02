@@ -31,7 +31,8 @@
 
 # Space Complexity
 
-# Computational Complexity Theory 
+# Computational Complexity Theory
+
 - ### Nondeterministic Polynomial Time (NP)
 - ### Polynomial Time (P)
     - $`\text{P} \subseteq \text{NP}`$
