@@ -65,6 +65,7 @@
     - ガード(2MK) + 迅雷腳
 - ### DR 5MP Combo
     - DR + 5MP/2MP + [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
+    - ガード(DR + 5MP) + [3F打摔擇](#3f打摔擇-2f3f)/[5MP Combo](#5mp-combo)
 
 # Light Attack combo
 - ### 5LP Combo
@@ -127,11 +128,13 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - その場受け身/Corner：前投げ + [5F打摔擇](#5f打摔擇)
+    - その場受け身/Corner：前投げ + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - ### 5F打摔擇 (後ろ歩き)
         - [投げ](#投げ)/[5MP Combo]()
@@ -161,14 +164,9 @@
     - その場受け身/Corner
         - 強迅雷弱派生 + [2LP Combo](#2lp-combo)
         - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
-- ### 42F OKI
-    - 安全飛び
-    - 消費(前ステ*2) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
-    - 消費(5LP) + [30F OKI](#30f-oki-29f30f)
-    - 消費(2LK) + [DI OKI](#di-oki-25f26f)
-    - その場受け身/Corner
-        - 強迅雷弱派生 + [5MP Combo]()/[2MP Combo](#2mp-combo)
-        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
+- ### 43F OKI
+    - [42F OKI](#42f-oki)
+    - その場受け身/Corner：強迅雷弱派生 + [5MP Combo]()/[2MP Combo](#2mp-combo)
 - ### 47F OKI
     - 消費(前ステ + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
     - 消費(2HK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
