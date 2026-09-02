@@ -49,4 +49,5 @@
     - [投げ](#投げ)
 
 # todo
+- https://youtube.com/playlist?list=PLhjwg1HnSvnFxgHA6nzhVwkc07oc2PNUP&si=-98eiw6EsnJtW63M
 - https://youtu.be/_daztuhiZiA
