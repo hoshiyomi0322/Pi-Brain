@@ -23,7 +23,7 @@
     - 跑步昇竜 + [跑步中段 Combo]()/DI/SA3
     - Corner：跑步昇竜 + 消費(5MP) + [5F打摔擇 (バクステ)](ken.md#5f打摔擇-バクステ)
 - ### 跑步旋風腳 Combo
-    - 跑步旋風腳 + [5F打摔擇 (バクステ)](ken.md#5f打摔擇-バクステ)
+    - 跑步旋風腳 + [3F打摔擇](ken.md#3f打摔擇-2f3f)
     - 跑步旋風腳(Counter/PC) + [5MP Combo]()
 
 # 跑步 Air Combo
