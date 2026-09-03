@@ -22,7 +22,7 @@
 - 強溜めSpiral-arrow + [強昇竜 Combo](#強昇竜-combo)/SA3
 
 # 強溜めSpiral-arrow Air Combo
-- 強溜めSpiral-arrow + [強昇竜 Combo](#強昇竜-combo)/SA3
+- 強溜めSpiral-arrow + [強昇竜 Combo](#強昇竜-combo)/[強溜めHooligan-空插 OKI](cammy.md#強溜めhooligan-空插-oki-48f52f)
 - 強溜めSpiral-arrow + delay(no cancel) + [SA1 Combo](cammy.md#sa1-combo)/SA3
 
 # 昇竜 Combo

@@ -21,8 +21,7 @@
 - ### SA1 Combo
     - Corner：SA1 + [2HP 重ね](#2hp-重ね-10f12f)
 - ### SA2 Air Combo
-    - SA2 + 強溜め昇竜
-    - SA2 + [強溜めSpiral-arrow Air Combo](cammy-special-move.md#強溜めspiral-arrow-air-combo)
+    - SA2 + 強溜め昇竜/[強溜めSpiral-arrow Air Combo](cammy-special-move.md#強溜めspiral-arrow-air-combo)
 
 # Heavy Attack Combo
 - ### 5HP Combo
@@ -40,6 +39,7 @@
     - 2HP + [2MP Combo](#2mp-combo)
 - ### 4HK Combo
     - 4HK + [4HK Extension Combo](#4hk-extension-combo)
+    - 4HK + delay(no cancel) + (弱Spin-knuckle + [強溜めHooligan-中段 OKI](#強溜めhooligan-中段-oki-53f57f))
     - 4HK + delay(no cancel) + (強Spiral-arrow Air + [Close 36F Hooligan-中段 OKI](#close-36f-hooligan-中段-oki-36f))
     - 4HK + delay(no cancel) + (中Spiral-arrow Air + 消費(前ステ) + [23F 中Spiral-arrow OKI](#23f-中spiral-arrow-oki-22f23f))
     - Corner
@@ -80,6 +80,7 @@
     - (4MP + 5HK) + delay(no cancel) + (DR + 5LP + 弱Spin-knuckle + 消費(前ステ) + [26F 中Spin-knuckle 重ね](#26f-中spin-knuckle-重ね-26f))
     - (4MP + 5HK) + delay(no cancel) + (DR + 5LP + 弱Spin-knuckle + 消費(前ステ) + [23F 中Spiral-arrow OKI](#23f-中spiral-arrow-oki-22f23f))
     - (4MP + 5HK) + delay(no cancel) + (DR + 5LP + 強Spin-knuckle + [37F Hooligan-中段 OKI](#37f-hooligan-中段-oki-37f38f))
+    - (4MP + 5HK) + delay(no cancel) + (DR + 4MP + 強溜め昇竜/[強溜めSpiral-arrow Air Combo](cammy-special-move.md#強溜めspiral-arrow-air-combo))
     - Corner：(4MP + 5HK) + [5HK Air Combo](#5hk-air-combo)
 - ### 2MK Combo
 - ### DR 5MP Combo
