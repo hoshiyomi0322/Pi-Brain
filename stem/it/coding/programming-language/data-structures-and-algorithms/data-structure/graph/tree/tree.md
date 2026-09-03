@@ -12,14 +12,14 @@
 # Elements of Tree
 - ### Node
     - Root Node：最上層的node(A)
-    - Leaf Node：最下層的node(D,E,F,G)
+    - Leaf Node：最下層的node(D, E, F, G)
     - Parent Node：B是D的parent node
     - Child Node：D是B的child node
         - Left Child Node：D是B的left child node
         - Right Child Node：E是B的right child node
-    - Ancestor Node：A,B是D的ancestor node
-    - Descendant Node：B,D是A的descendant node
-    - Sibling Node：共同parent node的node(D,E)
+    - Ancestor Node：A, B是D的ancestor node
+    - Descendant Node：B, D是A的descendant node
+    - Sibling Node：共同parent node的node(D, E)
 - ### Edge
 - ### Subtree
     - ### Left Subtree

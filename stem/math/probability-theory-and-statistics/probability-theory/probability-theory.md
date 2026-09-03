@@ -11,7 +11,7 @@
 - ### Random Variable ($X$)
     |Continuous|Discrete|
     |:---:|:---:|
-    |$`x\in A,~ x\in\left[a,b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
+    |$`x\in A,~ x\in\left[a,~b\right]`$|$`X=x_1,x_2,\cdots ,x_n`$|
 - ### <span id="random-vector-multivariate-random-variable">Random Vector (Multivariate Random Variable)</span>
     - ### $`X=\left( X_1,~\cdots,~X_n \right)^T`$
     - ### Bivariate Random Variables：$`X=\left( X_1,~X_2 \right)^T`$

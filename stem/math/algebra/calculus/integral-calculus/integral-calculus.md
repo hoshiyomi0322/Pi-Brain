@@ -24,13 +24,13 @@
     |:---:|:---:|
     |finite|Convergent|
     |infinite|Divergent|
-- ### Limits of Integration \left($`a,~b`$\right) include Infinity
+- ### Limits of Integration ($`a,~b`$) include Infinity
     |Limits of Integration|Limit of Integral|
     |:---:|:---:|
     |$`a=-\infty`$|$`\lim\limits_{t\to-\infty}{\int_{t}^{b}{f\left(x\right)\,dx}}`$|
     |$`b=\infty`$|$`\lim\limits_{s\to\infty}{\int_{a}^{s}{f\left(x\right)\,dx}}`$|
     |$`a=-\infty,~b=\infty`$|$`\lim\limits_{t\to-\infty}{\int_{t}^{c}{f\left(x\right)\,dx}}+\lim\limits_{s\to\infty}{\int_{c}^{s}{f\left(x\right)\,dx}}`$|
-- ### $`f\left(x\right)`$ is Discontinuous on $`[a,b]`$
+- ### $`f\left(x\right)`$ is Discontinuous on $`[a,~b]`$
     |Point of Discontinuity|Limit of Integral|
     |:---:|:---:|
     |$`a=\text{Point of Discontinuity}`$|$`\lim\limits_{t\to a^+}{\int_{t}^{b}{f\left(x\right)\,dx}}`$|
