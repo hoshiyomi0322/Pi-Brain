@@ -19,15 +19,15 @@
 
     |Time Complexity|$`O()`$<br>($`a>1,~b>1`$)|Name|eg|
     |:---:|:---:|:---:|:---:|
-    ||$`O(1)`$|Constant time||
-    ||$`O(\log_a{n})`$|Logarithmic time|[Binary search]()|
-    ||$`O((\log_a{n})^b)`$|Polylogarithmic time|||
-    ||$`O(n)`$|Linear time|[Linear search]()|
-    ||$`O(n\log_a{n})`$|Linearithmic time|[Merge sort]()|
-    ||$`O(n^2)`$|Quadratic time|[Bubble sort](), [Insertion sort](), [Selection sort]()|
-    ||$`O(n^a)`$|Cubic time|[Matrix multiplication]()|
-    ||$`O(a^n)`$|Polynomial time (P)||
-    ||$`O(n!)`$|Factorial time||
+    |Faster|$`O(1)`$|Constant time||
+    |$\downarrow$|$`O(\log_a{n})`$|Logarithmic time|[Binary search]()|
+    |$\downarrow$|$`O((\log_a{n})^b)`$|Polylogarithmic time|||
+    |$\downarrow$|$`O(n)`$|Linear time|[Linear search]()|
+    |$\downarrow$|$`O(n\log_a{n})`$|Linearithmic time|[Merge sort]()|
+    |$\downarrow$|$`O(n^2)`$|Quadratic time|[Bubble sort](), [Insertion sort](), [Selection sort]()|
+    |$\downarrow$|$`O(n^a)`$|Polynomial time (P)|[Matrix multiplication]()|
+    |$\downarrow$|$`O(a^n)`$|Exponential time||
+    |Slower|$`O(n!)`$|Factorial time||
 
 # Space Complexity
 
