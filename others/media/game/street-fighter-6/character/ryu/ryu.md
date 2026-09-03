@@ -65,9 +65,11 @@
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + (前ステ + )
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5HK) + (5LK + DI)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Medium Cancel Combo

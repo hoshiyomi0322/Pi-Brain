@@ -110,8 +110,9 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 前ステ + [5HP Air Combo](#5hp-air-combo)
-    - C-Switch：DI(PC) + 前hop + [5HP Air Combo](#5hp-air-combo)
+    - DI(PC) + (前ステ + [5HP Air Combo](#5hp-air-combo))
+    - #### C-Switch DI PC Combo
+        - DI(PC) + 前hop + [5HP Air Combo](#5hp-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
 - ### Stun Combo

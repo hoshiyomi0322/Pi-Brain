@@ -67,7 +67,7 @@
     - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
     - DI(Wall spalt) + (DR + 2HP + 2LP) + Reset (DI)
 - ### Stun Combo
-    - OD当身(Hold) + [2HP Combo](#2hp-combo)
+    - DI(Stun) + OD当身(Hold) + [2HP Combo](#2hp-combo)    
 
 # Cancel Combo
 - ### Medium Cancel Combo

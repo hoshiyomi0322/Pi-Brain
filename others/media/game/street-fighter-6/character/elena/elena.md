@@ -58,7 +58,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 
+    - DI(PC) + (前ステ + )
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
 - ### Stun Combo

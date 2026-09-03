@@ -139,7 +139,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 前ステ + [Close 5HK Air Combo](aki-heavy-attack-combo/aki-5hk-combo.md#close-5hk-air-combo)/[DR 5HK Air Combo](aki-heavy-attack-combo/aki-5hk-combo.md#dr-5hk-air-combo)
+    - DI(PC) + (前ステ + [Close 5HK Air Combo](aki-heavy-attack-combo/aki-5hk-combo.md#close-5hk-air-combo)/[DR 5HK Air Combo](aki-heavy-attack-combo/aki-5hk-combo.md#dr-5hk-air-combo))
     - DI(PC) + (8 + JHK) + (DR + 5HK + [構え-突刺 Air Combo]())
     - #### Corner DI PC Combo
         - DI(PC) + 9 + (JLK + 2MP) + [Close 25F OKI]()

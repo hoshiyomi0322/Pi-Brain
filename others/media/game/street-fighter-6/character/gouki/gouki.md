@@ -158,14 +158,14 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (8 + JHP) + [Air DR Combo]()
-    - DI(PC) + 前ステ + [4HK Combo]()/[5HP Air Combo]()
+    - DI(PC) + (8 + JHP) + [DR Air Combo]()
+    - DI(PC) + (前ステ + [4HK Combo]()/[5HP Air Combo]())
 - ### Wall Splat Combo
     - DI(Wall spalt) + [Corner 6HP Air Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo]()
     - DI(Wall spalt) + (5MP*2 + [Corner Air OD灼火 Combo]())
     - DI(Wall spalt) + [Corner High-Air DR Combo]()
 - ### Stun Combo
-
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Medium Cancel Combo
@@ -314,10 +314,10 @@
 - [JMP Air Combo]()
 
 # DR Combo
-- ### Air DR Combo
+- ### DR Air Combo
     - DR + [4HK Combo]()/[5HP Air Combo]()
     - [DR中腳 Combo]()
-- ### Corner High-Air DR Combo
+- ### Corner DR High-Air Combo
     - DR + 6MK + [Corner 4HK Combo]()
     - (DR + 5HP + 5LK) + Reset(DI)
     - (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())

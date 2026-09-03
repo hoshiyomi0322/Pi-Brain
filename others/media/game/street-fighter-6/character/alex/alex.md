@@ -78,6 +78,7 @@
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)
     - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ

@@ -147,10 +147,9 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (5HP + [コマ投げ Combo](#コマ投げ-combo)/SA3)
-    - DI(PC) + 前ステ + [3MP Air Combo](#3mp-air-combo)
+    - DI(PC) + (前ステ + [3MP Air Combo](#3mp-air-combo)/[2HP Reset](#2hp-reset))
     - DI(PC) + (前ステ + 6MK) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f9f)
     - DI(PC) + [DR 6MK Air Combo](#dr-6mk-air-combo)
-    - DI(PC) + (前ステ + [2HP Reset](#2hp-reset))
     - #### C-Switch DI PC Combo
         - DI(PC) + (9 + J2HP) + (旋風手 + 前ステ + [5F打摔擇](#5f打摔擇-3f5f))
         - DI(PC) + (9 + J2HP) + (OD旋風手 + 前ステ + [10F打摔擇](#10f打摔擇))
@@ -159,6 +158,8 @@
     - DI(Wall spalt) + [Corner 3MP Air Combo](#corner-3mp-air-combo)
     - DI(Wall spalt) + [2HP Reset](#2hp-reset)
 - ### Stun Combo
+    - DI(Stun) + 
+
 
 # Cancel Combo
 - ### CDR Combo

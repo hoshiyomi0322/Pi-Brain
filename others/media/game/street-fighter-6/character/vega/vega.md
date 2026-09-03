@@ -59,6 +59,7 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Light Cancel Combo

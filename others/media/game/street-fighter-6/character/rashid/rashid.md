@@ -41,8 +41,11 @@
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + (前ステ + )
 - ### Wall Splat Combo
+    - DI(Wall spalt) + 
 - ### Stun Combo
+    - DI(Stun) + 
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ

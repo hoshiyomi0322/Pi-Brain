@@ -16,8 +16,11 @@
 
 # DI Combo
 - ### DI PC Combo
+    - DI(PC) + (前ステ + )
 - ### Wall Splat Combo
+    - DI(Wall spalt) + 
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 

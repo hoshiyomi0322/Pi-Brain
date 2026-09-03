@@ -97,10 +97,11 @@
 
 # DI Combo
 - ### DI PC Combo
-    - 前ステ + [5HP Air Combo](#5hp-air-combo)
+    - DI(PC) + (前ステ + [5HP Air Combo](#5hp-air-combo))
 - ### Wall Splat Combo
-    - DI(Wall spalt)(PC) + (DR + 5MP/5MK + 5LP/5LK) + Reset(DI)
+    - DI(Wall spalt) + (DR + 5MP/5MK + 5LP/5LK) + Reset(DI)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Medium Cancel Combo

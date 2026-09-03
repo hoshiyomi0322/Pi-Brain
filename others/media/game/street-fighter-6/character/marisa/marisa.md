@@ -61,7 +61,7 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + [6HK Air Combo](#6hk-air-combo)
 - ### Stun Combo
-    - DI(Stun) + 
+    - DI(Stun) +  
 
 # Cancel Combo
 - ### Heavy Cancel Combo

@@ -22,7 +22,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 
+    - DI(PC) + (前ステ + )
 - ### Wall Splat Combo
     - DI(Wall spalt) + 
 - ### Stun Combo

@@ -56,13 +56,14 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 前ステ + [5HP Air Combo](#5hp-air-combo)
+    - DI(PC) + (前ステ + [5HP Air Combo](#5hp-air-combo))
     - DI(PC) + [3HK Air Combo](#3hk-air-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
     - DI(Wall spalt) + [3HK Air Combo](#3hk-air-combo)
     - DI(Wall spalt) + (DR + 5HP/5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Light Cancel Combo

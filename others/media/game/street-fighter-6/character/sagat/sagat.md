@@ -128,6 +128,7 @@
     - DI(Wall spalt) + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
     - DI(Wall spalt) + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # Cancel Combo
 - ### Heavy Cancel Combo

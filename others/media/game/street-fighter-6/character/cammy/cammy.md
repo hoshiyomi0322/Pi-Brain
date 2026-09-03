@@ -115,7 +115,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 
+    - DI(PC) + (前ステ + )
     - #### C-Switch DI PC Combo
         - DI(PC) + (強Hooligan-delay-強空插 + [DI OKI](#di-oki-25f26f))
 - ### Wall Splat Combo

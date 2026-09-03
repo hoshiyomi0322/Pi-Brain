@@ -41,11 +41,12 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 前ステ + [5MP Air Combo](#5mp-air-combo)/[DR 5MP Air Combo](#dr-5mp-air-combo)
+    - DI(PC) + (前ステ + [5MP Air Combo](#5mp-air-combo)/[DR 5MP Air Combo](#dr-5mp-air-combo))
 - ### Wall Splat Combo
     - DI(Wall spalt) + (delay + [5MP Air Combo](#5mp-air-combo))
     - DI(Wall spalt) + (DR + 5HK/2HP + 5LP) + Reset(DI)
 - ### Stun Combo
+    - DI(Stun) + 
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ

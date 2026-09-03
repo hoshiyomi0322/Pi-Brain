@@ -156,7 +156,7 @@
         - DI(Wall spalt) + (2HP + SA2) + (DR + 5HP + 5LK) + Reset(DI)
     - DI(Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
 - ### Stun Combo
-    - 酒飲み*2 + [ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
+    - DI(Stun) + 酒飲み*2 + [ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 
 # Cancel Combo
 - ### Heavy Cancel Combo
