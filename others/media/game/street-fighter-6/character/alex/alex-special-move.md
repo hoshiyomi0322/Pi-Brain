@@ -40,7 +40,9 @@
 - OD Chop + [弱昇竜 Combo](#弱昇竜-combo)/[SA2 Air Combo](alex.md#sa2-air-combo)/SA3
 
 # 構え Combo
-- 構え-chop + [2LP Combo](alex.md#2lp-combo)/[中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f)
+- ### 構え-chop Combo
+    - 構え-chop + [2LP Combo](alex.md#2lp-combo)/[中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f)
+    - 構え-chop + (delay + [5MP Combo](alex.md#5mp-combo))
 - ### 構え-対空 Combo
     - 構え-対空 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - 構え-対空 + (delay + SA1/[SA2 Air Combo](alex.md#sa2-air-combo))

@@ -33,7 +33,9 @@
 # SA2 Air Combo
 - ### QQH SA2 Air Combo
     - SA2 + 消費(中昇竜) + [弱コマ投げ OKI](#弱コマ投げ-oki-8f9f)
-- ### Corner SA2 Air Combo
+- ### Near-wall SA2 Air Combo
+    - #### Near-corner SA2 Air Combo
+        - SA2 + 溜め5HK + 消費(構え-backward) + OKI([構え-chop Combo](alex-special-move.md#構え-chop-combo))
     - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/[DR 2HP Air Combo](#dr-2hp-air-combo)/SA1
 
 # Heavy Attack Combo
