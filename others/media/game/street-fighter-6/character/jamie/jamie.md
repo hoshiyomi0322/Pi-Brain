@@ -199,11 +199,11 @@
 - ### 5MK OKI (6F~10F)
     - [5MK Combo](#5mk-combo)
     - [5MP Combo](#5mp-combo)
-    - 相手 Dリバ：看到Dリバ後，按住4
+    - 對手 Dリバ：看到Dリバ後，按住4
         - 5MP + 4(Hold) + [Light Attack PC Combo](#light-attack-pc-combo)
 - ### 5MP 重ね (10F/11F)
     - 5MP + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)
-    - 相手 Dリバ：看到Dリバ後，按住4
+    - 對手 Dリバ：看到Dリバ後，按住4
         - 5MP + 4(Hold) + [Light Attack PC Combo](#light-attack-pc-combo)
 - ### コマ投げ OKI (6F~8F)
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)

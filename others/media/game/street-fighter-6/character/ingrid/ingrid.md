@@ -75,8 +75,8 @@
         - 6MP + [5MP Combo](#5mp-combo)
 - ### 弾 OKI
     - 弱弾 + [DR 5HK Combo](#dr-5hk-combo)
-    - 相手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
-    - 相手 Parry：強溜め弾 + [投げ](#投げ)
+    - 對手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
+    - 對手 Parry：強溜め弾 + [投げ](#投げ)
 
 # Dリバ
 - Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)

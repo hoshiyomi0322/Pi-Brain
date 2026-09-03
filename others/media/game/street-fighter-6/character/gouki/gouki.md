@@ -43,7 +43,7 @@
 - ### [灼火 Combo](./gouki-special-move/gouki-adamant-flame.md)
 
 # SA2 Combo
-- ### Near-wall SA2 Combo(相手 沒有Hard Knockdown)
+- ### Near-wall SA2 Combo(對手 沒有Hard Knockdown)
     - SA2 + [General Corner 4HK Combo]()
     - WWQ SA2 Combo
         - SA2 + [Corner Air 2HP Combo]()
@@ -305,7 +305,7 @@
         - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね)
         - 消費(2HP) + [5F打摔擇 (バクステ)]()
         - 消費(5LP) + DI
-    - DI(騙相手 DI) + 反DI
+    - DI(騙對手 DI) + 反DI
 - ### 6MP 重ね (22F/23F)
     - 6MP + [2LP Combo]()
 

@@ -109,14 +109,14 @@
         - 強Phalanx + [44F OKI](#44f-oki)
         - その場受け身/Corner：ガード(強Phalanx) + [2MP Combo](#2mp-combo)
         - [DR溜め5HP OKI](#dr溜め5hp-oki-33f)
-        - 相手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
+        - 對手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
     - ### 35F 強Phalanx OKI (35F/36F)
         - 強Phalanx + [47F OKI](#47f-oki-46f48f)
         - その場受け身/Corner：ガード(強Phalanx) + [2MP Combo](#2mp-combo)
-        - 相手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
+        - 對手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 37F OKI
     - delay + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)
-    - 相手 Parry：消費(強Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
+    - 對手 Parry：消費(強Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [溜め5HP OKI](#溜め5hp-oki-20f)

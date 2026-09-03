@@ -258,7 +258,7 @@
 - 5HK/2HK
 - [強毒鞭 Combo]()
 
-# Corner DI(相手 BO)
+# Corner DI(對手 BO)
 - 5HK + DI
 
 # 10F 相打ち Combo

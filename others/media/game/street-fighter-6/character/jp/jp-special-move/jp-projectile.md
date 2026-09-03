@@ -80,8 +80,8 @@
 
 # Heavy Attack ガード 弾 Combo
 - 中下弾擇：中弾/強弾
-- 相手 DI：弾(相手DI) + 反DI
-- 相手 Parry：偽弾 + 前ステ/DR + [投げ](../jp.md#投げ)
-- 相手 DR：偽弾 + [ラッシュ止め Combo](../jp.md#ラッシュ止め-combo)
+- 對手 DI：弾(對手DI) + 反DI
+- 對手 Parry：偽弾 + 前ステ/DR + [投げ](../jp.md#投げ)
+- 對手 DR：偽弾 + [ラッシュ止め Combo](../jp.md#ラッシュ止め-combo)
 - [OD弾 Combo](#od弾-combo)
 

@@ -36,7 +36,7 @@
 
 # Midscreen SA2 Reset
 - SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)/[General Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-midscreen-裂縫-投げ擇)
-    - 相手 パナシ：SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + (5HP + 弱地刺 + delay(等裂縫引爆) + 強地刺)
+    - 對手 パナシ：SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + (5HP + 弱地刺 + delay(等裂縫引爆) + 強地刺)
 
 # DI コマ投げ SA2 Reset
 - SA2 + (5MK + 弱裂縫) + 前ステ*2 + (9 + [F式](../jp.md#f式)) + (前ステ + 2LP) + Reset(DI/コマ投げ)

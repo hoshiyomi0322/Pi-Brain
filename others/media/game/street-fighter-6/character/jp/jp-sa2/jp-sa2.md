@@ -20,9 +20,9 @@
         - Midscreen：(DR + 5MK) + 強風神 + (前ステ + DR + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
         - Near-Corner：(DR + 5MK) + 強風神 + [Close JMK Air Combo](../jp.md#close-jmk-air-combo)
         - (DR + 5MK) + ガード(強風神) + Reset(DI/コマ投げ)
-        - #### 相手 DI
-            - Midscreen：(DR + 5MK) + 強風神(相手 DI) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
-            - Corner：(DR + 5MK) + 強風神(相手 DI) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+        - #### 對手 DI
+            - Midscreen：(DR + 5MK) + 強風神(對手 DI) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
+            - Corner：(DR + 5MK) + 強風神(對手 DI) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - ### 2HK Reset
         - Midscreen：(2HK + 中弾/強弾) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
         - Corner：(2HK + 中弾/強弾) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))

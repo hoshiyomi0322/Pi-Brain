@@ -132,7 +132,7 @@
     - 8/9 + JLK + [2LP Combo](#5lp2lp-combo)
     - 8/9 + ガード(JLK) + [投げ](#投げ)/(8 + [JHK Combo](#jhk-combo))
     - Switch：9 + JLK(Cross-up) + [2LP Combo](#5lp2lp-combo)
-- ### [F式](../../street-fighter-6.md#f式しゃがみガード中の相手に対して一瞬だけ残る立ち状態の食らい判定を利用し-本来しゃがみ状態には当たらない低空ジャンプ攻撃を強制的にガードさせるしゃがみガード不能の高速中段攻撃)
+- ### [F式](../../street-fighter-6.md#f式)
     - 8/9 + JLK(跳的瞬間按)
 - ### JHP Combo
     - 8/9 + JHP + [2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)
@@ -263,10 +263,10 @@
 
 # 被壓BTW 
 - ダウン：Dリバ/5LP
-- 相手 攻撃：OD当身/Parry
-- 相手 投げ：OD当身
-- 相手 跳：対空([空投げ](#空投げ)/2HP)
-- 相手 後ろ歩き：[5HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#5hp-combo)/[強TC Combo](#強tc-combo)/[2MP Combo](#2mp-combo)/[下段](#下段)
+- 對手 攻撃：OD当身/Parry
+- 對手 投げ：OD当身
+- 對手 ジャンプ：対空([空投げ](#空投げ)/2HP)
+- 對手 後ろ歩き：[5HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#5hp-combo)/[強TC Combo](#強tc-combo)/[2MP Combo](#2mp-combo)/[下段](#下段)
 
 # 角色對策
 - Mai(OD扇)：ガード第一下後，[強TC Combo](#強tc-combo)

@@ -11,6 +11,9 @@
         - 構え-forward：(2 + PP) + 6
         - 構え-backward：(2 + PP) + 4
     - #### 構え-elbow：(2 + PP) + 6P
+        - 構え-弱elbow：(2 + PP) + 6LP
+        - 構え-中elbow：(2 + PP) + 6MP
+        - 構え-強elbow：(2 + PP) + 6HP
     - #### 構え-lp：(2 + PP) + LP
     - #### 構え-対空：(2 + PP) + MP
     - #### 構え-chop：(2 + PP) + HP
@@ -31,7 +34,7 @@
 - ### QQH SA2 Air Combo
     - SA2 + 消費(中昇竜) + [弱コマ投げ OKI](#弱コマ投げ-oki-8f9f)
 - ### Corner SA2 Air Combo
-    - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/[DR 2HP Combo](#dr-2hp-combo)/SA1
+    - SA2 + [強昇竜 Combo](alex-special-move.md#強昇竜-combo)/[OD Chop Air Combo](alex-special-move.md#od-chop-air-combo)/[DR 2HP Air Combo](#dr-2hp-air-combo)/SA1
 
 # Heavy Attack Combo
 - ### 5HP Combo
@@ -39,13 +42,14 @@
     - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### 2HP Combo
 - ### 2HP Air Combo
-    - (2HP + 中Axe) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
+    - (2HP + 中Axe) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)/[構え-弱elbow Air Combo](alex-special-move.md#構え-弱elbow-air-combo)
+    - (2HP + 構え-対空) + (DR + 2HP + 消費(弱Axe) + [DI OKI](#di-oki-25f26f))
 - ### 2HP High-Air Combo
-    - (2HP + 中Axe) + (中構え-elbow + SA1 + [31F OKI](#31f-oki))
+    - (2HP + 中Axe) + (構え-中elbow + SA1 + [31F OKI](#31f-oki))
     - Corner
-        - (2HP + 中Axe) + (中構え-elbow + [中昇竜 Combo](alex-special-move.md#中昇竜-combo))
+        - (2HP + 中Axe) + (構え-中elbow + [中昇竜 Combo](alex-special-move.md#中昇竜-combo))
         - [2HP Air Combo](#2hp-air-combo)
-- ### DR 2HP Combo
+- ### DR 2HP Air Combo
     - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
     - DR + 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
@@ -73,7 +77,7 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (8 + delay + JHK) + [JMP Air Combo](#jmp-air-combo)
-    - Corner：DI(PC) + 前ステ + [2HP Air Combo](#2hp-air-combo)
+    - Corner：DI(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP + 5LP) + Reset (DI)
     - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)
@@ -86,6 +90,8 @@
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
+- ### 3F打摔擇 (2F/3F)
+    - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - 強コマ投げ/ODコマ投げ
@@ -98,6 +104,9 @@
     - ### 弱コマ投げ OKI (8F/9F)
         - 弱コマ投げ
         - [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
+- ### DI OKI (25F/26F)
+    - DI
+    - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 28F OKI
     - ### Close 28F OKI
         - [Far 28F OKI](#far-28f-oki)
@@ -117,4 +126,12 @@
 - ### DR 溜め5HK OKI (33F)
     - [DR 溜め5HK Combo](#dr-溜め5hk-combo)
     - [DR 溜め5HP OKI](#dr-溜め5hp-oki-31f33f)
-
+- ### 41F OKI
+    - 消費(2LP) + [DI OKI](#di-oki-25f26f)
+    - 消費(弱Axe) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 42F OKI
+    - 安全飛び
+- ### 46F OKI
+- ### 47F OKI (47F/48F)
+    - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
+    - 消費(9/中Axe) + [5F打摔擇](#5f打摔擇-4f5f)

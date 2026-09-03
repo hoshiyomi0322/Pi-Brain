@@ -5,9 +5,9 @@
     - SA2 + ガード(2LP) + 2MK/2HK + (5HP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
     - SA2 + ガード(2LP + 2MK/2HK) + 2MK + (強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
     - SA2 + ガード(2LP + 2MK/2HK) + 6MK + (5HP + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo))/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
-- ### 相手 Parry
+- ### 對手 Parry
     - SA2 + ガード(2LP) + (前ステ + delay)/DR + [投げ](../jp.md#投げ)
-- ### 相手 Dリバ
+- ### 對手 Dリバ
     - 2LP、Parry同時按 (在2LP按的瞬間按Parry)
         - SA2 + ガード(2LP + Parry)(同時按)
     - SA2 + 4 + (2LP + 5HP + 強裂縫) + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
@@ -33,7 +33,7 @@
     - SA2 + 9 + ガード(JHP + 2MK*2)
         - SA2 + 9 + JHP + (5HP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
         - SA2 + 9 + ガード(JHP) + 2MK + (強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-        - 相手 Parry：SA2 + (9 + [投げ](../jp.md#投げ))
+        - 對手 Parry：SA2 + (9 + [投げ](../jp.md#投げ))
     - #### Close Midscreen OD弾 ガード SA2 Combo
         - SA2 + OD裂縫(中強) + (裂縫傳送(中) + JHP + 2HP) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
         - SA2 + OD裂縫(中強) + (裂縫傳送(中) + JHP + 2HP) + [Midscreen 風神 OD裂縫 2裂縫 Air Combo](../jp-special-move/jp-departure/jp-od-departure-air-combo.md#midscreen-風神-od裂縫-2裂縫-air-combo)(without first delay)
@@ -55,7 +55,7 @@
         - SA2 + (強裂縫 + 裂縫傳送) + (JHK + 中腳) + [その場受け身 Midscreen OD裂縫擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#その場受け身-midscreen-od裂縫擇)
     - #### Corner 強地刺 ガード SA2 OD裂縫擇
         - SA2 + (強裂縫 + 裂縫傳送) + (JHK + 中腳) + [Corner 地刺 OD裂縫擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-地刺-od裂縫擇)
-- ### 相手Parry
+- ### 對手Parry
     - SA2 + (強裂縫 + 裂縫傳送) + ガード(JHK) + [投げ](../jp.md#投げ)
 
 # Corner 裂縫 ガード SA2 Combo
@@ -75,7 +75,7 @@
     - SA2 + 9 + JHP + (5HP + 裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
     - SA2 + 9 + ガード(JHP) + 2MK + (裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
     - SA2 + 9 + ガード(JHP) + 6MK + [Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
-- ### 相手 Parry
+- ### 對手 Parry
     - SA2 + 9 + [投げ](../jp.md#投げ)
-- ### 相手 パナシ
+- ### 對手 パナシ
     - SA2 + 9 + ガード(JHP) + (裂縫 + 中風神*2) + (delay(等裂縫引爆) + [Corner Highest-Air 地刺 Combo](../jp-special-move/jp-special-move.md#corner-地刺-highest-air-combo))

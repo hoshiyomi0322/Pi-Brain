@@ -56,7 +56,7 @@
     - [投げ](#投げ)
 - ### 弾 OKI (37F)
     - Midscreen：弱弾
-    - 相手 Parry：消費(強弾) + (DR + delay + [投げ](#投げ))
+    - 對手 Parry：消費(強弾) + (DR + delay + [投げ](#投げ))
 
 # todo
 - https://youtu.be/CNygOjAdqPA

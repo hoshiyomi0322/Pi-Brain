@@ -211,7 +211,7 @@
         - 消費(前ステ) + [2HP 重ね](#2hp-重ね-10f12f)
     - #### 31F OKI (31F/32F)
         - [Hooligan-空插 OKI](#hooligan-空插-oki-30f34f)
-        - 相手 Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
+        - 對手 Parry：消費(強Spin-knuckle/OD Spin-knuckle) + [投げ](#投げ)
 - ### Hooligan OKI
     - ### Hooligan-コマ投げ OKI (27F~30F)
         - 強Hooligan-コマ投げ

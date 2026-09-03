@@ -23,7 +23,7 @@
         - (前hop + 前hop) + (強後翻滾 + delay + [Close OD後翻滾 High-Air Combo](#close-od後翻滾-high-air-combo))
         - ガード(前hop) + [5HP Combo](#5hp-combo)
         - ガード(前hop) + (前歩き + [投げ](../blanka.md#投げ))
-        - 相手 Parry：ガード(前hop) + (5HP + 前hop) + [投げ](../blanka.md#投げ)
+        - 對手 Parry：ガード(前hop) + (5HP + 前hop) + [投げ](../blanka.md#投げ)
 
 # OD放電 Combo
 - OD放電 + [40F 強コマ投げ OKI](../blanka.md#40f-強コマ投げ-oki-40f)
