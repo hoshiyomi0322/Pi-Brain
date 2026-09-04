@@ -88,6 +88,7 @@
     - 3HK + [2LP Combo](#2lp-combo)/コマ投げ
     - [3HK Combo](#3hk-combo)
     - 消費(前ステ) + [打摔擇](#打摔擇-2f5f)
+    - 消費(2LP) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
 - ### DI OKI (25F/26F)
     - DI
     - 消費(前ステ) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
