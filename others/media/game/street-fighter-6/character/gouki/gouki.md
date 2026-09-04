@@ -70,7 +70,7 @@
     - Corner：5HK + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
 - ### 2HK Combo 
     - 2HK
-- ### 2HK Air Combo 
+- ### 2HK Air Combo
     - 2HK + [百鬼 OKI](#百鬼-oki-37f)
     - Corner：2HK + 消費(2LP) + [6MP 重ね](#6mp-重ね-22f23f)
 - ### [4HK Combo](gouki-4hk-combo.md)
@@ -233,6 +233,8 @@
     - ### 12F 5HP 重ね
         - 5HP + [2MP Combo]()
         - [4HK Combo]()
+- ### 6MP 重ね (22F/23F)
+    - 6MP + [2LP Combo]()
 - ### DI OKI (25F/26F)
     - DI
     - 消費(5MP) + [5F打摔擇 (バクステ)]()
@@ -258,6 +260,27 @@
         - Corner
             - 前ステ + [9F 5HP 重ね](#9f-5hp-重ね)
             - 消費(DR + 5LP) + [5F打摔擇 (バクステ)]()
+- ### 30F OKI
+    - [DR 6MP Combo]()/朧
+    - その場受け身/Corner
+        - 前ステ + [12F 5HP 重ね](#12f-5hp-重ね)
+    - Corner
+        - 消費(5MK) + [5F打摔擇 (後ろ歩き)]()
+        - (溜め弾1 + [Corner 溜め弾後 Combo]())
+- ### 32F OKI
+    - [DR 6MP Combo]()
+    - 消費(DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
+    - その場受け身/Corner：消費(5MP) + [9F 5HP 重ね](#9f-5hp-重ね)
+- ### 百鬼 OKI (37F)
+    - 強百鬼-強空插 + [2MP Combo]()
+    - ガード(強百鬼-強空插) + [3F打摔擇]()
+    - その場受け身/Corner
+        - 消費(DR + 5MP) + [5F打摔擇 (バクステ)]()
+    - Corner
+        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね)
+        - 消費(2HP) + [5F打摔擇 (バクステ)]()
+        - 消費(5LP) + DI
+    - DI(騙對手 DI) + 反DI
 - ### 42F OKI
     - 安全飛び
     - (前ステ + 前ステ) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
@@ -285,29 +308,6 @@
             - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()
             - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
             - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
-- ### 30F OKI
-    - [DR 6MP Combo]()/朧
-    - その場受け身/Corner
-        - 前ステ + [12F 5HP 重ね](#12f-5hp-重ね)
-    - Corner
-        - 消費(5MK) + [5F打摔擇 (後ろ歩き)]()
-        - (溜め弾1 + [Corner 溜め弾後 Combo]())
-- ### 32F OKI
-    - [DR 6MP Combo]()
-    - 消費(DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
-    - その場受け身/Corner：消費(5MP) + [9F 5HP 重ね](#9f-5hp-重ね)
-- ### 百鬼 OKI
-    - 強百鬼-強空插 + [2MP Combo]()
-    - ガード(強百鬼-強空插) + [3F打摔擇]()
-    - その場受け身/Corner
-        - 消費(DR + 5MP) + [5F打摔擇 (バクステ)]()
-    - Corner
-        - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね)
-        - 消費(2HP) + [5F打摔擇 (バクステ)]()
-        - 消費(5LP) + DI
-    - DI(騙對手 DI) + 反DI
-- ### 6MP 重ね (22F/23F)
-    - 6MP + [2LP Combo]()
 
 # 対空
 - 昇竜

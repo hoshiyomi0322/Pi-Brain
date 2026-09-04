@@ -78,17 +78,25 @@
 # [OKI](../../street-fighter-6.md#oki)
 - ### 打摔擇 (2F~5F)
     - [投げ](#投げ)/コマ投げ
-    - [2LK Combo](#2lk-combo)
+    - [2LP Combo](#2lp-combo)/[2LK Combo](#2lk-combo)
 - ### コマ投げ OKI (6F/7F)
     - コマ投げ
     - [2MP Combo](#2mp-combo)
+- ### 5HP 重ね (11F~13F)
+    - 5HP + [2LP Combo](#2lp-combo)/コマ投げ
 - ### 3HK 重ね (22F/23F)
     - 3HK + [2LP Combo](#2lp-combo)/コマ投げ
     - [3HK Combo](#3hk-combo)
-    - 前ステ + [打摔擇](#打摔擇-2f5f)
+    - 消費(前ステ) + [打摔擇](#打摔擇-2f5f)
 - ### DI OKI (25F/26F)
     - DI
-    - 前ステ + [コマ投げ OKI](#コマ投げ-oki-6f7f)
+    - 消費(前ステ) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
+- ### 42F OKI
+    - 安全飛び
+    - 消費(前ステ*2) + [打摔擇](#打摔擇-2f5f)
+    - 消費(2LP) + Reset(DI)
+    - その場受け身/Corner：消費(前ステ) + [3HK 重ね](#3hk-重ね-22f23f)
+    - Corner：消費(5MK) + [5HP 重ね](#5hp-重ね-11f13f)
 - ### 48F/49F OKI
     - ### 48F OKI
         - その場受け身/Corner：消費(9) + [打摔擇](#打摔擇-2f5f)
@@ -96,3 +104,8 @@
     - ### 49F OKI
         - その場受け身/Corner：消費(9) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
         - Corner：消費(DR + 2LK) + [3HK 重ね](#3hk-重ね-22f23f)
+- ### 54F OKI
+    - 消費(弱頭槌) + [打摔擇](#打摔擇-2f5f)
+    - 消費(前ステ + 5MP) + [打摔擇](#打摔擇-2f5f)
+    - 消費(前ステ + 2MK) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
+    - 消費(9) + [5HP 重ね](#5hp-重ね-11f13f)
