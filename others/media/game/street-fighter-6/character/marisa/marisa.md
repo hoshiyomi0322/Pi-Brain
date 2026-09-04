@@ -20,8 +20,14 @@
     - 5HP*2 + [42F OKI](#42f-oki)
 - ### 4HP Combo
 - ### 2HP Combo
+- ### 溜め4HP Air Combo
+    - 溜め4HP + 消費(強Quadriga) + [コマ投げ OKI](#コマ投げ-oki-9f12f)
+- ### DR 4HP Air Combo
+    - (DR + 4HP) + [Phalanx Air Combo](marisa-special-move.md#phalanx-air-combo)
 - ### 6HK Air Combo
-    - Corner：6HK*2 + 5HP + [コマ投げ OKI](#コマ投げ-oki-9f11f)
+    - Corner：6HK*2 + [5HP High-Air Reset](#5hp-high-air-reset)
+- ### 5HP High-Air Reset
+    - 5HP + [コマ投げ OKI](#コマ投げ-oki-9f12f)
 - ### 溜め5HP Combo
     - 溜め5HP + [5MP Combo](#5mp-combo)
     - ガード(溜め5HP) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -57,9 +63,9 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + [6HK Air Combo](#6hk-air-combo))
+    - DI(PC) + (前ステ + [6HK Air Combo](#6hk-air-combo)/[溜め4HP Air Combo](#溜め4hp-air-combo))
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [6HK Air Combo](#6hk-air-combo)
+    - DI(Wall spalt) + [6HK Air Combo](#6hk-air-combo)/[溜め4HP Air Combo](#溜め4hp-air-combo)
 - ### Stun Combo
     - DI(Stun) +  
 
@@ -84,7 +90,7 @@
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
-- ### コマ投げ OKI (9F~11F)
+- ### コマ投げ OKI (9F~12F)
     - Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 溜め5HP OKI (20F)
     - [溜め5HP Combo](#溜め5hp-combo)
@@ -114,8 +120,8 @@
         - 強Phalanx + [47F OKI](#47f-oki-46f48f)
         - その場受け身/Corner：ガード(強Phalanx) + [2MP Combo](#2mp-combo)
         - 對手 Parry：消費(中Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
-- ### 37F OKI
-    - delay + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)
+- ### 37F OKI (37F/38F)
+    - delay + [35F 強Phalanx OKI](#35f-強phalanx-oki-35f36f)
     - 對手 Parry：消費(強Phalanx) + [投げ](#投げ)/Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### 42F OKI
     - 安全飛び
