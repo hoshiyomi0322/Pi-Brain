@@ -270,6 +270,7 @@
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(前ステ) + [41F 強コマ投げ OKI](#41f-強コマ投げ-oki-41f)
+
 # 対空
 - [昇竜 Combo](./blanka-special-move/blanka-special-move.md#昇竜-combo)
 - 4MK + 前hop + [4MK OKI](#4mk-oki-6f7f)
