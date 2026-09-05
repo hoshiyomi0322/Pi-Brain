@@ -22,7 +22,7 @@
 
 # 4HP High-Air Combo
 - [4HP Air Combo](#4hp-air-combo)
-- 4HP + 強Tiger-knee + [SA1 Combo](#sa1-combo)
+- 4HP + 強Tiger-knee + [SA1 Combo](../sagat.md#sa1-combo)
 - Corner：(4HP + CDR + delay) + [4HP High-Air Combo](#4hp-high-air-combo)
 
 # DR 4HP Air Combo

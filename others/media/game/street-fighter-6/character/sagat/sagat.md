@@ -64,7 +64,10 @@
     - (DR + 2MP + 5HP) + 弱Tiger-knee + [38F Tiger-knee OKI](#38f-tiger-knee-oki)
     - (DR + 2MP + 5HP) + 中Tiger-knee/強Tiger-knee + [42F OKI](#42f-oki)
     - (DR + 2MP + 5HK) + [SA1 Air Combo](#sa1-air-combo)/[SA2 Combo](#sa2-combo)/[SA3 Combo](#sa3-combo)
-    - Corner：(DR + 2MP + 5HP) + OD Tiger-knee + delay(等第二段打完) + [中昇竜 Combo](sagat-special-move.md#中昇竜-combo)
+    - (DR + 2MP + 5HK) + (高OD弾 + SA1/[SA2 Combo](#sa2-combo)/[SA3 Combo](#sa3-combo))
+    - #### Corner DR 2MP Air Combo
+        - (DR + 2MP + 5HP) + (OD Tiger-knee + delay(等第二段打完) + [中昇竜 Combo](sagat-special-move.md#中昇竜-combo))
+        - (DR + 2MP + 5HK) + (高OD弾 + 6HK + [中昇竜 Air Combo](sagat-special-move.md#中昇竜-air-combo)/[SA1 Combo](#sa1-combo)/[SA2 Combo](#sa2-combo))
 - ### DR 2MK Combo
     - (DR + 2MK) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### DR 6MP Combo
@@ -144,7 +147,7 @@
     - [SA1 Combo](#sa1-combo)/[SA2 Combo](#sa2-combo)
     - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#dr-4hp-combo)/[5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)
     - #### ガード後 Medium Cancel Combo
-        - 連ガ：ガード(中弾) + [3F打摔擇](../sagat.md#3f打摔擇-2f3f)
+        - 連ガ：ガード(中弾) + [3F打摔擇](#3f打摔擇-2f3f)
         - [弱迅雷 Combo](sagat-special-move.md#弱迅雷-combo)/[中迅雷 Combo](sagat-special-move.md#中迅雷-combo)
         - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MK Combo](#dr-2mk-combo)/[DR 6MP Combo](#dr-6mp-combo)
 - ### Light Cancel Combo
