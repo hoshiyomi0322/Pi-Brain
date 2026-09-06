@@ -42,11 +42,11 @@
 - ### 5HP Combo
     - 5HP + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 溜め5HP Combo
-    - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
-    - ガード(5HP(Hold)) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 溜め5HP + [Chop Combo](alex-special-move.md#chop-combo)
+    - ガード(溜め5HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 溜め5HK Combo
-    - 5HK(Hold) + 
-    - ガード(5HK(Hold)) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 溜め5HK + 
+    - ガード(溜め5HK) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 2HP Combo
     - 2HP + [構え-lp Combo](alex-special-move.md#構え-lp-combo)
 - ### 2HP Air Combo
@@ -60,11 +60,11 @@
 - ### DR 2HP Air Combo
     - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
-    - DR + 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
-    - DR + ガード(5HP(Hold)) + [Chop Combo](alex-special-move.md#chop-combo)
+    - (DR + 溜め5HP) + [Chop Combo](alex-special-move.md#chop-combo)
+    - ガード(DR + 溜め5HP) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### DR 溜め5HK Combo
-    - DR + 5HK(Hold) + 
-    - DR + ガード(5HK(Hold)) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
+    - DR + 溜め5HK + 
+    - ガード(DR + 溜め5HK) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -89,7 +89,7 @@
 
 # PC Combo
 - [構え PC Combo](alex-special-move.md#構え-pc-combo)
-- 5HK(Hold)(PC) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
+- 溜め5HK(PC) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)
 
 # DI Combo
 - ### DI PC Combo

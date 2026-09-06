@@ -142,7 +142,7 @@
     - 3HK(PC) + [コマ投げ Combo](#コマ投げ-combo)/SA3
     - 3HK(PC) + (3MP + 旋風手) + [DI OKI](#di-oki-25f26f)
 - ### Corner 溜め5HP PC Combo
-    - 5HP(Hold) + 消費(9) + [10F打摔擇](#10f打摔擇)
+    - 溜め5HP + 消費(9) + [10F打摔擇](#10f打摔擇)
 
 # DI Combo
 - ### DI PC Combo
