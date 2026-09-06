@@ -28,7 +28,7 @@
 - 打動力槽：SA3 + (DR + delay + 2HP + DI)
 - Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### Corner SA3 Combo
-    - SA3 + 前ステ + (5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
+    - SA3 + (前ステ + 5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
     - SA3 + (前ステ + 5LP) + Reset(DI)
         - SA3 + (DR + 2HP + 5LP) + Reset(DI)
     - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
@@ -46,6 +46,9 @@
     - 5HP + [2HK Combo](#2hk-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/SA1/[SA3 Combo](#sa3-combo)
     - delay + [5HP Air Combo](#5hp-air-combo)
     - Corner：5HP + [中昇竜 Air Combo](jamie-special-move.md#中昇竜-air-combo)
+- ### DR 5HP Combo
+    - (DR + 5HP) + [2LP Combo](#2lp-combo)
+    - ガード(DR + 5HP) + [2LP Combo](#2lp-combo)
 - ### 2HP Combo
     - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2HP Air Combo
