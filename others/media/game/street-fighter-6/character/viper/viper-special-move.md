@@ -15,11 +15,10 @@
 
 # 弱地波 Combo
 - 弱地波 + SA3
-- (弱地波 + 大跳-cancel-Air-中火腿) + [中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)/SA2/SA3
+- (弱地波 + 大跳-cancel-Air-中火腿) + [56F OKI](viper.md#56f-oki)/[中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)
+- (弱地波 + 大跳-cancel-Air-中火腿) + SA2/SA3
 - (弱地波 + 大跳-cancel-Air-中火腿) + (SA1 + [Corner OD地波 OKI](viper.md#corner-od地波-oki-24f25f))
 - (弱地波 + 大跳-cancel-Air-中火腿) + (中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f))
-- (弱地波 + 大跳-cancel-Air-中火腿) + (消費(強火腿) + [5F打摔擇](viper.md#5f打摔擇-4f5f))
-- (弱地波 + 大跳-cancel-Air-中火腿) + (消費(2HP) + [25F OKI](viper.md#25f-oki))
 
 # 火腿 Combo
 - ### Close OD火腿 Combo

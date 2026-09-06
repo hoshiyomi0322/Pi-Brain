@@ -51,6 +51,7 @@
     - 強迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
 - ### OD迅雷 Combo
     - OD迅雷 + [迅雷派生 Combo](#迅雷派生-combo)
+    - Corner：OD迅雷中派生 + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
 - ### 迅雷 Counter Combo
     - (弱迅雷/中迅雷)(Counter) + [Counter 派生 Combo](#counter-派生-combo)
 

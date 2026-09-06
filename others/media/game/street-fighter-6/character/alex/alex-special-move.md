@@ -40,12 +40,16 @@
 - OD Chop + [弱昇竜 Combo](#弱昇竜-combo)/[SA2 Air Combo](alex.md#sa2-air-combo)/SA3
 
 # 構え Combo
+- ### 構え-lp Combo
+    - 構え-lp + [構え-chop Combo](#構え-chop-combo)
 - ### 構え-chop Combo
-    - 構え-chop + [2LP Combo](alex.md#2lp-combo)/[中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f)
+    - 構え-chop + [5LK Combo](alex.md#5lk-combo)/[中コマ投げ OKI](alex.md#中コマ投げ-oki-6f7f)
     - 構え-chop + (delay + [5MP Combo](alex.md#5mp-combo))
+    - ガード(構え-chop) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 構え-対空 Combo
     - 構え-対空 + [強昇竜 Combo](#強昇竜-combo)/[中Axe Combo](#中axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - 構え-対空 + (delay + SA1/[SA2 Air Combo](alex.md#sa2-air-combo))
+    - 構え-対空 + (弱Axe + [44F OKI](alex.md#44f-oki))
 - ### 構え-踩頭 Combo
     - 構え-踩頭 + [Close 28F OKI](alex.md#close-28f-oki)
 
@@ -60,10 +64,13 @@
     - 構え-弱elbow + 消費(5LP) + DI(騙對手 DI) + 反DI
 
 # 構え PC Combo
+- ### 構え-chop PC Combo
+    - 構え-chop(PC) + [Chop Extension Combo](#chop-extension-combo)
+- ### 構え-対空 PC Combo
+    - 構え-対空(PC) + [6MP 重ね](alex.md#6mp-重ね-22f)
 - ### 構え-踩頭 PC Combo
-    - 構え-踩頭 + [強昇竜 Combo](#強昇竜-combo)/[Axe Air Combo](#axe-air-combo)/[OD Chop Air Combo](#od-chop-air-combo)/[2HP High-Air Combo](alex.md#2hp-high-air-combo)
-    - 構え-踩頭 + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
+    - 構え-踩頭(PC) + [強昇竜 Combo](#強昇竜-combo)/[Axe Air Combo](#axe-air-combo)/[OD Chop Air Combo](#od-chop-air-combo)/[2HP High-Air Combo](alex.md#2hp-high-air-combo)
+    - 構え-踩頭(PC) + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
 - ### 構え-elbow PC Combo
-    - 構え-elbow + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
-    - 構え-elbow + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
-- 構え-chop + [Chop Extension Combo](#chop-extension-combo)
+    - 構え-elbow(PC) + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
+    - 構え-elbow(PC) + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)

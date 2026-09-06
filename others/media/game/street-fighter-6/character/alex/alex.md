@@ -41,8 +41,14 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 溜め5HP Combo
     - 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
+    - ガード(5HP(Hold)) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 溜め5HK Combo
+    - 5HK(Hold) + 
+    - ガード(5HK(Hold)) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 2HP Combo
+    - 2HP + [構え-lp Combo](alex-special-move.md#構え-lp-combo)
 - ### 2HP Air Combo
     - (2HP + 中Axe) + [構え-対空 Air Combo](alex-special-move.md#構え-対空-air-combo)/[構え-弱elbow Air Combo](alex-special-move.md#構え-弱elbow-air-combo)
     - (2HP + 構え-対空) + (DR + 2HP + 消費(弱Axe) + [DI OKI](#di-oki-25f26f))
@@ -57,14 +63,23 @@
     - DR + 5HP(Hold) + [Chop Combo](alex-special-move.md#chop-combo)
     - DR + ガード(5HP(Hold)) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### DR 溜め5HK Combo
-    - DR + 5HK(Hold)
+    - DR + 5HK(Hold) + 
     - DR + ガード(5HK(Hold)) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
 
 # Medium Attack Combo
 - ### 5MP Combo
+- ### DR 4MK Combo
+    - DR + 4MK + [2HP Combo](#2hp-combo)
+    - DR + ガード(4MK) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
 
 # Light Attack Combo
+- ### 5LP Combo
 - ### 2LP Combo
+- ### 5LK Combo
+- ### DR 5LP Combo
+    - (DR + 5LP) + [2HP Combo](#2hp-combo)
+- ### DR 2LP Combo
+    - (DR + 2LP) + [2HP Combo](#2hp-combo)
 
 # Jump Attack Combo
 - ### JMP Air Combo
@@ -86,6 +101,12 @@
 - ### Stun Combo
     - DI(Stun) + 
 
+# Cancel Combo
+- ### Heavy Cancel Combo
+- ### Medium Cancel Combo
+- ### Light Cancel Combo
+    - CDR + [DR 5LP Combo](#dr-5lp-combo)
+
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
     - 前投げ + [Far 28F OKI](#far-28f-oki)
@@ -94,6 +115,7 @@
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
+    - 強コマ投げ/ODコマ投げ
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - 強コマ投げ/ODコマ投げ
@@ -101,13 +123,21 @@
 - ### コマ投げ OKI
     - ### 中コマ投げ OKI (6F/7F)
         - 中コマ投げ
-        - [5MP Combo](#5mp-combo)
+        - [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
         - delay + [投げ](#投げ)
     - ### 弱コマ投げ OKI (8F/9F)
         - 弱コマ投げ
         - [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
+- ### 6MP 重ね (22F)
+    - 6MP + [5LP Combo](#5lp-combo)
+    - [溜め5HP OKI](#溜め5hp-oki-22f24f)/[溜め5HK OKI](#溜め5hk-oki-22f26f)
+- ### 溜め5HP OKI (22F~24F)
+    - [溜め5HP Combo](#溜め5hp-combo)
+- ### 溜め5HK OKI (22F~26F)
+    - [溜め5HK Combo](#溜め5hk-combo)
 - ### DI OKI (25F/26F)
     - DI
+    - [溜め5HK OKI](#溜め5hk-oki-22f26f)
     - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 28F OKI
     - ### Close 28F OKI
@@ -133,6 +163,8 @@
     - 消費(弱Axe) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 42F OKI
     - 安全飛び
+- ### 44F OKI
+    - 消費(前ステ) + [6MP 重ね](#6mp-重ね-22f)
 - ### 46F OKI
 - ### 47F OKI (47F/48F)
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)

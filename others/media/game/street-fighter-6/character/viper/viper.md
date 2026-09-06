@@ -153,12 +153,18 @@
     - 安全飛び
 - ### 45F OKI
     - 消費(前ステ) + [Corner OD地波 OKI](#corner-od地波-oki-24f25f)
+    - 消費(中Thunder-cancel) + [25F OKI](#25f-oki)
 - ### 46F OKI
     - 消費(前ステ) + [25F OKI](#25f-oki)
     - 消費(Thunder) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(2HK) + [5MP 重ね](#5mp-重ね-9f)
+    - 消費(中Thunder-cancel) + [DI OKI](#di-oki-25f26f)
     - その場受け身/Corner：消費(9) + [3F打摔擇](#3f打摔擇-2f3f)
     - Corner：消費(バクステ) + [6MP 重ね](#6mp-重ね-23f)
 - ### 47F OKI
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
+    - 消費(弱Thunder-cancel) + [6MP 重ね](#6mp-重ね-23f)
     - その場受け身/Corner：消費(9) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 56F OKI
+    - (消費(強火腿) + [5F打摔擇](viper.md#5f打摔擇-4f5f))
+    - (消費(2HP) + [25F OKI](viper.md#25f-oki))
