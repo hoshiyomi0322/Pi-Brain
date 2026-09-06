@@ -30,6 +30,8 @@
 - ### 5MP Combo
     - 5MP*2
 - ### 2MP Combo
+- ### DR 5MK Combo
+    - (DR + 5MK) + [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
 
 # Light Attack Combo
 - ### 2LP Combo
