@@ -101,10 +101,11 @@
 - ### Medium Attack PC Combo
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
 - ### Heavy Attack PC Combo
-    - ガード後可以Heavy Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
-    - 5HK(PC) + [5HP Combo](#5hp-combo)
-- 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
-- 3HP(PC) + [30F OKI](#30f-oki-29f33f)
+    - ### 5HK PC Combo
+        - ガード後可以Heavy Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+        - 5HK(PC) + [5HP Combo](#5hp-combo)
+    - 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
+    - 3HP(PC) + [30F OKI](#30f-oki-29f33f)
 - [強前翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#強前翻滾-pc-combo)
 - [後翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#後翻滾-pc-combo)
 

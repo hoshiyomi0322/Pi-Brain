@@ -11,5 +11,8 @@
 - 溜め6HK + [Gladius Combo](../marisa-special-move.md#gladius-combo)
 - 溜め6HK + 消費(強Phalanx) + [コマ投げ OKI](../marisa.md#コマ投げ-oki-9f13f)
 
+# DR 6HK Combo
+- (DR + 6HK) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
+
 # DR 6HK Air Combo
 - (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2
