@@ -1,12 +1,12 @@
 # Gladius Combo
 - ### 弱Gladius Combo
-    - 弱Gladius + SA3
+    - 弱Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
 - ### 中Gladius Combo
-    - 中Gladius + SA3
+    - 中Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
 - ### 強Gladius Combo
-    - 強Gladius + SA3
+    - 強Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
 - ### OD Gladius Combo
-    - OD Gladius + SA2/SA3
+    - OD Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA2/SA3
 
 # 溜めGladius Combo
 - ### 弱溜めGladius Combo
