@@ -5,26 +5,31 @@
 
 # Shortcuts
 - ### [Editor Shortcuts](../keyboard-shortcuts.md#editor-shortcuts)
-- ### Multiple Cursors
-    |Shortcuts|Function|
-    |:---:|:---:|
-    |`Alt + LMB`|add/delete cursor|
-    |`Ctrl + Alt + ↑/↓`|add cursor Above/Below|
-    - #### Select
-        |Shortcuts|Function|
-        |:---:|:---:|
-        |select a text, `Ctrl + D`|add cursor (the next matching text)|
-        |select a text, `Ctrl + Shift + L`|add cursors (all matching text)|
-        |find (`Ctrl+F`), `Alt + Enter`|add cursors (all find matches)|
-- ### Editor Management
-    |Shortcuts|Function|
-    |:---:|:---:|
-    |`Shift + \`|Split editor|
-    |`Ctrl + Alt + ←/→`|moves the currently editor to the Left/Right|
+- ### [Browser Shortcuts](../keyboard-shortcuts.md#browser-shortcuts)
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|
     |`Alt + ↑/↓`|Move line (above/below)|
     |`Alt + Shift + ↑/↓`|Duplicate line (above/below)|
-
+- ### Comment
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Crtl + /`|Add/Remove comment for the current line|
+    |select a text, `Crtl + /`|Add/Remove comment for the selected text|
+- ### Multiple Cursors
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Alt + LMB`|Add/Delete cursor|
+    |`Ctrl + Alt + ↑/↓`|Add cursor Above/Below|
+    - #### Select
+        |Shortcuts|Function|
+        |:---:|:---:|
+        |select a text, `Ctrl + D`|Add cursor (the next matching text)|
+        |select a text, `Ctrl + Shift + L`|Add cursors (all matching text)|
+        |find (`Ctrl+F`), `Alt + Enter`|Add cursors (all find matches)|
+- ### Editor Management
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Shift + \`|Split editor|
+    |`Ctrl + Alt + ←/→`|Moves the current editor to the Left/Right|
 
