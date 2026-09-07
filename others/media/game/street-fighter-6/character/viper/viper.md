@@ -10,6 +10,7 @@
 - ### 地波：623P
     - #### 地波-cancel：623P + K
 - ### 大跳：28
+    - #### 前大跳：29
     - #### 大跳-cancel-Air-x火腿：(2 + 6(Hold) + 8) + xK + Release(6)
     - #### 大跳-cancel-xThunder：(2 + 4(Hold) + 8) + xP + Release(4)
         - #### 大跳-cancel-xThunder-cancel：(2 + 4(Hold) + 8) + (xP + K) + Release(4)
@@ -30,8 +31,9 @@
 - ### 2HP Air Combo
     - 2HP + [弱地波 Combo](viper-special-move.md#弱地波-combo)
 - ### 5HK Combo
-    - (5HK + delay(等5HK打完) + 大跳-cancel-SA1)
-    - (5HK + delay(等5HK打完) + 大跳-cancel-OD火腿 + SA2/SA3)
+    - 5HK + delay(等5HK打完) + 大跳-cancel-SA1
+    - 5HK + delay(等5HK打完) + (大跳-cancel-OD火腿 + SA2/SA3)
+    - 5HK + delay(等5HK打完) + (大跳-cancel-OD地波 + delay + 大跳-cancel-中地波) + delay + (大跳-cancel-Air-強火腿 + [大跳-cancel-Air-火腿 Extension Combo](viper-special-move.md#大跳-cancel-air-火腿-extension-combo))
 - ### 5HK Air Combo
     - (5HK + delay(等5HK打完) + 大跳-cancel-SA1)
     - (5HK + delay(等5HK打完) + 大跳-cancel-OD火腿 + SA2/SA3)
@@ -52,6 +54,10 @@
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 2MP Air Combo
     - 2MP + [弱地波 Combo](viper-special-move.md#弱地波-combo)
+
+# Jump Attack Combo
+- ### JHK Combo
+    - JHK + [2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)/[5HK Combo](#5hk-combo)
 
 # Light Attack Combo
 - ### 5LP Combo
@@ -79,6 +85,9 @@
     - ### 5HP PC Combo
         - 5HP(PC) + (大跳-cancel-強Thunder-cancel + [2HP Combo](#2hp-combo))
         - 5HP(PC) + [2MP Combo](#2mp-combo)
+    - ### 5HK PC Cobmo
+        - Far/Corner：5HK(PC) + (前大跳 + delay + [JHK Combo](#jhk-combo))
+        - Close/Corner：5HK(PC) + [2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)/[5HK Combo](#5hk-combo)
 
 # DI Combo
 - ### DI PC Combo

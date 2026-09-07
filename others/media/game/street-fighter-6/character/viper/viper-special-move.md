@@ -15,14 +15,18 @@
 
 # 弱地波 Combo
 - 弱地波 + SA3
-- (弱地波 + 大跳-cancel-Air-中火腿) + [56F OKI](viper.md#56f-oki)/[中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)
-- (弱地波 + 大跳-cancel-Air-中火腿) + SA2/SA3
-- (弱地波 + 大跳-cancel-Air-中火腿) + (SA1 + [Corner OD地波 OKI](viper.md#corner-od地波-oki-24f25f))
-- (弱地波 + 大跳-cancel-Air-中火腿) + (中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f))
+- 弱地波 + (大跳-cancel-Air-中火腿 + [大跳-cancel-Air-火腿 Extension Combo](#大跳-cancel-air-火腿-extension-combo))
 
 # 火腿 Combo
 - ### Close OD火腿 Combo
     - OD火腿 + [42F OKI](viper.md#42f-oki)/SA2/SA3
+
+# 大跳-cancel-Air-火腿 Extension Combo
+- [56F OKI](viper.md#56f-oki)/[中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)
+- SA2/SA3
+- SA1 + [Corner OD地波 OKI](viper.md#corner-od地波-oki-24f25f)
+- 中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f)
+
 
 # OD火腿 Air Combo
 - OD火腿 + SA2/SA3
