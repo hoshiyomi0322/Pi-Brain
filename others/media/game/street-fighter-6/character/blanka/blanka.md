@@ -38,7 +38,7 @@
 - ### 6HP Combo
     - 6HP + [27F OKI](#27f-oki-27f28f)
 - ### 3HP Combo
-    - 3HP + [30F OKI](#30f-oki-29f33f)
+    - 3HP + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
 - ### 5HK Combo
 - ### 2HK Combo
     - 2HK + [DI OKI](#di-oki-25f26f)
@@ -46,11 +46,16 @@
     - (DR + 5HK) + [5HP Combo](#5hp-combo)
 - ### 5HP Air Combo
     - 5HP + [構え-attack Air Combo](./blanka-special-move/blanka-special-move.md#構え-attack-air-combo)
-    - Corner：5HP + [60F OKI](#60f-oki)
+    - 5HP + (前hop + [弱コマ投げ OKI](#弱コマ投げ-oki-33f36f))
+    - Corner
+        - 5HP + (弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f))
+        - 5HP + [溜め放電 Air Combo](./blanka-special-move/blanka-214p.md#溜め放電-air-combo)/[Close OD後翻滾 Highest-Air Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-highest-air-combo)
 - ### DR 5HP Air Combo
     - (DR + 5HP) + [SA3 Combo](#sa3-combo)
-    - (DR + 5HP + 前hop) + [弱コマ投げ OKI](#弱コマ投げ-oki-34f36f)
-    - Corner：(DR + 5HP) + [60F OKI](#60f-oki)
+    - (DR + 5HP) + (前hop + [弱コマ投げ OKI](#弱コマ投げ-oki-33f36f))
+    - Corner
+        - (DR + 5HP) + (弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f))
+        - (DR + 5HP) + [Close OD後翻滾 Highest-Air Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-highest-air-combo)
 
 # Medium Attack Combo
 - ### 2MP Combo
@@ -105,7 +110,7 @@
         - ガード後可以Heavy Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
         - 5HK(PC) + [5HP Combo](#5hp-combo)
     - 6HP(PC) + [5HP Air Combo](#5hp-air-combo)
-    - 3HP(PC) + [30F OKI](#30f-oki-29f33f)
+    - 3HP(PC) + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
 - [強前翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#強前翻滾-pc-combo)
 - [後翻滾 PC Combo](./blanka-special-move/blanka-special-move.md#後翻滾-pc-combo)
 
@@ -144,7 +149,7 @@
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
-    - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
+    - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [27F OKI](#27f-oki-27f28f)
@@ -167,11 +172,6 @@
 - ### 4MK OKI (6F/7F)
     - [4MK Combo](#4mk-combo)/[5HP Combo](#5hp-combo)
     - 前歩き + [投げ](#投げ)
-- ### 放電 OKI (7F~11F)
-    - [OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
-    - その場受け身/Corner
-        - [放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)
-        - [4MK OKI](#4mk-oki-6f7f)
 - ### 5HK 重ね
     - ### 8F 5HK 重ね (8F/9F)
         - 5HK + [5MK Combo](#5mk-combo)/[2MK Combo](#2mk-combo)
@@ -183,55 +183,74 @@
         - 4MK + [5HP Combo](#5hp-combo)
         - ガード(5HK) + [5LK Combo](#5lk-combo)
         - ガード(4MK) + [2MK Combo](#2mk-combo)
+- ### 放電 OKI (7F~11F)
+    - [OD放電 Combo](./blanka-special-move/blanka-214p.md#od放電-combo)
+    - その場受け身/Corner
+        - [放電 Combo](./blanka-special-move/blanka-214p.md#放電-combo)
+        - [4MK OKI](#4mk-oki-6f7f)
+- ### Corner 溜め放電 OKI (25F~60F)
+    - [溜め放電 Combo](./blanka-special-move/blanka-214p.md#溜め放電-combo)
+- ### コマ投げ OKI
+    - ### ODコマ投げ OKI (29F~31F)
+        - [ODコマ投げ Combo](./blanka-special-move/blanka-special-move.md#odコマ投げ-combo)
+        - 消費(前hop) + [3F打摔擇](#3f打摔擇-2f3f)
+        - [DR 6MP OKI](#dr-6mp-oki-29f33f)
+        - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+    - ### 弱コマ投げ OKI (33F~36F)
+        - [弱コマ投げ Combo](./blanka-special-move/blanka-special-move.md#弱コマ投げ-combo)
+        - 消費(前hop) + [放電 OKI](#放電-oki-7f11f)
+        - Corner
+            - 消費(5MP) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+            - [Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+    - ### 中コマ投げ OKI (38F/39F)
+        - [中コマ投げ Combo](./blanka-special-move/blanka-special-move.md#中コマ投げ-combo)
+        - その場受け身/Corner：消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+        - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+    - ### 強コマ投げ OKI (40F~44F)
+        - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
+        - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### DI OKI (25F/26F)
     - DI
     - 消費(前ステ) + [4MK OKI](#4mk-oki-6f7f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 27F OKI (27F/28F)
     - 消費(前ステ) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - [DR 6MK Combo](#dr-6mk-combo)
-- ### 30F OKI (29F~33F)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+- ### DR 6MP OKI (29F~33F)
     - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - [DR 6MP Combo](#dr-6mp-combo)/[DR 6MK Combo](#dr-6mk-combo)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 35F OKI
-    - [弱コマ投げ OKI](#弱コマ投げ-oki-34f36f)
+    - [弱コマ投げ OKI](#弱コマ投げ-oki-33f36f)
     - 消費(前hop) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
-    - Corner：消費(4MK) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### Corner 溜め放電 OKI (25F~39F)
-    - 溜め放電 + [41F 強コマ投げ OKI](#41f-強コマ投げ-oki-41f)/[Close OD後翻滾 Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-combo)/SA1/SA3
-    - ガード(溜め放電) + [3F打摔擇](#3f打摔擇-2f3f)
-- ### コマ投げ OKI
-    - ### ODコマ投げ OKI (30F/31F)
-        - [ODコマ投げ Combo](./blanka-special-move/blanka-special-move.md#odコマ投げ-combo)
-        - 消費(前ステ) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-        - 消費(前hop) + [3F打摔擇](#3f打摔擇-2f3f)
-        - [DR 6MP Combo](#dr-6mp-combo)/[DR 6MK Combo](#dr-6mk-combo)
-    - ### 弱コマ投げ OKI (34F~36F)
-        - [弱コマ投げ Combo](./blanka-special-move/blanka-special-move.md#弱コマ投げ-combo)
-        - 消費(前hop) + [放電 OKI](#放電-oki-7f11f)
-        - Corner：消費(5MP) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-    - ### 中コマ投げ OKI (39F)
-        - [中コマ投げ Combo](./blanka-special-move/blanka-special-move.md#中コマ投げ-combo)
-        - その場受け身/Corner：消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-    - ### 強コマ投げ OKI (40F~42F)
-        - #### 40F 強コマ投げ OKI (40F)
-            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
-            - その場受け身/Corner
-                - 消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-                - 消費(2HK) + [3F打摔擇](#3f打摔擇-2f3f)
-        - #### 41F 強コマ投げ OKI (41F)
-            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
-            - その場受け身/Corner
-                - 消費(前hop/弱前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-                - 消費(2HK) + [5F打摔擇](#5f打摔擇-4f5f)
-        - #### 42F OKI
-            - 安全飛び
-            - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
-            - 消費(前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner
+        - 消費(4MK) + [5F打摔擇](#5f打摔擇-4f5f)
+        - [Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+- ### 40F OKI
+    - [強コマ投げ OKI](#強コマ投げ-oki-40f44f)
+    - その場受け身/Corner
+        - 消費(前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+        - 消費(2HK) + [3F打摔擇](#3f打摔擇-2f3f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+- ### 41F OKI
+    - [強コマ投げ OKI](#強コマ投げ-oki-40f44f)
+    - その場受け身/Corner
+        - 消費(前hop/弱前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+        - 消費(2HK) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+- ### 42F OKI
+    - 安全飛び
+    - [強コマ投げ OKI](#強コマ投げ-oki-40f44f)
+    - 消費(前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 44F OKI
     - 安全飛び
+    - [強コマ投げ OKI](#強コマ投げ-oki-40f44f)
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
     - 消費(弱前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(中前翻滾) + [3F打摔擇](#3f打摔擇-2f3f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 46F OKI
     - 消費(前ステ) + [27F OKI](#27f-oki-27f28f)
     - 消費(DR + 前hop) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
@@ -240,41 +259,54 @@
     - Corner
         - 消費(6MP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+        - [Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 48F OKI
-    - 消費(前ステ) + [30F OKI](#30f-oki-29f33f)
+    - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(中前翻滾) + [4MK OKI](#4mk-oki-6f7f)
     - 消費(前hop + 2LK) + [5F打摔擇](#5f打摔擇-4f5f)
     - Corner
         - 消費(6MP) + [4MK OKI](#4mk-oki-6f7f)
         - 消費(2HK) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+        - [Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 50F OKI
-    - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-30f31f)
+    - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [放電 OKI](#放電-oki-7f11f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 53F OKI (52F/53F)
     - 弱放炸彈 + [帶炸彈 3F打摔擇](#帶炸彈-3f打摔擇-2f3f)
     - 消費(中前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 55F OKI (54F/55F)
     - 弱放炸彈 + [帶炸彈 5F打摔擇](#帶炸彈-5f打摔擇-4f5f)
     - 消費(5MK) + [DI OKI](#di-oki-25f26f)
-    - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-34f36f)
+    - 消費(前ステ) + [弱コマ投げ OKI](#弱コマ投げ-oki-33f36f)
     - 消費(中前翻滾) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 56F OKI
     - 弱放炸彈 + [4MK OKI](#4mk-oki-6f7f)
     - 消費(弱前翻滾/5MK) + [DI OKI](#di-oki-25f26f)
     - 消費(6HP) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 57F OKI
     - 弱放炸彈 + [放電 OKI](#放電-oki-7f11f)
     - 消費(9) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 58F OKI (58F/59F)
     - 弱放炸彈 + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - 消費(5HK) + [DI OKI](#di-oki-25f26f)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 60F OKI
     - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
-    - 消費(前ステ) + [41F 強コマ投げ OKI](#41f-強コマ投げ-oki-41f)
+    - 消費(前ステ) + [41F OKI](#41f-oki)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
+- ### 62F OKI (61F/62F)
+    - 弱放炸彈 + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
+    - 消費(前ステ) + [42F OKI](#42f-oki)
+    - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 
 # 対空
 - [昇竜 Combo](./blanka-special-move/blanka-special-move.md#昇竜-combo)
