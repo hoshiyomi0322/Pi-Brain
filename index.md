@@ -72,7 +72,8 @@
     - #### Others (History)
 - ### Media
     - #### Text
-    - #### [Image](others/media/image/image.md)
+    - #### [Art](others/media/art/art.md)
     - #### [Audio](others/media/audio/audio.md)
     - #### [Video](others/media/video/video.md)
+    - #### [Computer Graphics (CG)](others/media/computer-graphics//computer-graphics.md)
     - #### [Game](others/media/game/game.md)
