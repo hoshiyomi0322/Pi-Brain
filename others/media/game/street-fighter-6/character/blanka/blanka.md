@@ -271,6 +271,7 @@
         - [Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
 - ### 50F OKI
     - 消費(前ステ) + [ODコマ投げ OKI](#odコマ投げ-oki-29f31f)
+    - 消費(中前翻滾) + [8F 5HK 重ね](#8f-5hk-重ね-8f9f)
     - 消費(DR + 前hop) + [10F 5HK 重ね](#10f-5hk-重ね-10f14f)
     - 消費(9) + [放電 OKI](#放電-oki-7f11f)
     - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-25f60f)
