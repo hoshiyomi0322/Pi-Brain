@@ -28,6 +28,7 @@
 - ### [前翻滾 Combo](./blanka-special-move/blanka-46p.md)
 - ### [後翻滾 Combo](./blanka-special-move/blanka-624k.md)
 - ### [昇竜 Combo](./blanka-special-move/blanka-28p.md)
+- ### [放電 Combo](./blanka-special-move/blanka-214p.md)
 - ### [構え-attack Combo](./blanka-special-move/blanka-stance.md)
 
 # SA Combo
@@ -342,6 +343,7 @@
     - SA2
         - https://youtu.be/rKqsebFWoeI
         - https://youtu.be/s5cHCk9mcuA
+- https://youtu.be/PvZOexQ1VOs
 - https://youtu.be/CD42X4IP9w0
 - https://youtu.be/EjKhBx6mToE
 - https://youtu.be/gBATejXagzA

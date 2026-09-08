@@ -8,10 +8,12 @@
         - [帶炸彈 Corner 放電 Air Combo](#帶炸彈-corner-放電-air-combo)
         - 放電 + (強後翻滾 + [強昇竜 Combo](blanka-28p.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Air Combo](blanka-624k.md#close-od後翻滾-air-combo)/SA1/SA3)
         - ガード(放電) + 消費(前hop) + [4MK OKI](../blanka.md#4mk-oki-6f7f)/[5HP Combo](../blanka.md#5hp-combo)
-        - #### 摔Reset
-            - (放電 + 消費(5LK) + 強放炸彈) + 消費(OD放電) + Reset(投げ) + (delay + OD昇竜/SA1/[SA3 Combo](../blanka.md#sa3-combo))
-            - (放電 + 消費(5LK) + 強放炸彈) + 消費(OD放電) + Reset(投げ) + (OD後翻滾 + [53F OKI](../blanka.md#53f-oki-52f53f))
-            - (放電 + 消費(5LK) + 強放炸彈) + 消費(OD放電) + Reset(投げ) + (OD後翻滾 + delay + SA1/[SA3 Combo](../blanka.md#sa3-combo))
+        - (放電 + 消費(5LK) + 強放炸彈) + 消費(OD放電) + Reset(投げ) + [摔Reset](#摔reset)
+            - #### 摔Reset
+                - 7 + [Air-前翻滾 Combo](blanka-special-move.md#air-前翻滾-combo-1)
+                - OD昇竜/SA1/[SA3 Combo](../blanka.md#sa3-combo)
+                - OD後翻滾 + [53F OKI](../blanka.md#53f-oki-52f53f)
+                - OD後翻滾 + (delay + SA1/[SA3 Combo](../blanka.md#sa3-combo))
 
 # 帶炸彈 Corner 放電 Air Combo
 - (放電 + 消費(5LK) + 弱放炸彈) + [42F OKI](../blanka.md#42f-oki)
