@@ -14,7 +14,7 @@
 - ### Travelling Salesman Problem(TSP)
 - ### Knapsack problem
 
-# Exhaustive Algorithm
+# Exhaustive Algorithm (Brute Force Method)
 - ### Backtracking
     - ### Eight Queens Puzzle
 - ### Branch and Bound
