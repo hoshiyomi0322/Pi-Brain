@@ -4,6 +4,7 @@
 
 # Computer Graphics (CG)
 - ### Open Graphics Library (OpenGL)
+    - ### OpenGL Shading Language (GLSL)
 - ### 2D Computer Graphics
     - ### Krita
     - ### MediBang Paint
