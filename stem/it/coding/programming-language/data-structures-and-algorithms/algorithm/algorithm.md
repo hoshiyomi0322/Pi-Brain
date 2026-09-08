@@ -24,6 +24,10 @@
 - ### Greatest Common Divisor
 - ### Extended Euclidean Algorithm
 
+# [Prime Number Algorithm](prime-number-algorithm.md)
+- ### [Generation of Prime]()
+- ### [Primality test]()
+
 ---
 - ### Divide and Conquer
     - ### Closest Pair of Points Problem
@@ -33,7 +37,6 @@
 - ### Heuristic Algorithm
 - ### Montgomery Multiplication
 - ### Sweep Line Algorithm
-- ### [Prime Number Algorithm](prime-number-algorithm.md)
 - ### Shor's Algorithm
 - ### Grover Algorithm
 - ### Genetic Algorithm
