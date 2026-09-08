@@ -32,6 +32,7 @@
 - ### Divide and Conquer
     - ### Closest Pair of Points Problem
 - ### Greedy Algorithm
+- ### Randomized Algorithm
 - ### Monte Carlo method
     - ### Monte Carlo Tree Search (MCTS)
 - ### Heuristic Algorithm
