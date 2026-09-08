@@ -15,6 +15,7 @@
 - ### 2.5D Computer Graphics
     - ### [Live2D](./cg/live2d.md)
 - ### 3D Computer Graphics
+    - ### Fusion 360
     - ### Blender
-    - ### MikuMikuDance(MMD)
+    - ### MikuMikuDance (MMD)
 - ### Interactive CG
