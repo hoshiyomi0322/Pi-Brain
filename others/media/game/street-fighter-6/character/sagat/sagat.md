@@ -7,6 +7,7 @@
 - ### Tiger-knee：236K
 - ### 迅雷：214K
     - #### X迅雷X派生：214x腳 + 前x腳
+    - #### X迅雷delayX派生：214x腳 + delay + 前x腳
 - ### SA2：214214K
     - #### General-SA2：214214K
     - #### Forward-SA2：214214K + 6(Hold)
@@ -23,7 +24,7 @@
     - Corner：SA1 + [DI OKI](#di-oki-25f26f)
 - ### SA2 Combo
     - Forward-SA2 + [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
-    - Forward-SA2 + [Midscreen DR 4HP SA1 High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-high-air-combo)
+    - Forward-SA2 + [Midscreen DR 4HP SA1 Highest-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-highest-air-combo)
     - Crouching-SA2 + [Close 弾 OKI](#close-弾-oki)
     - General-SA2/Switch-SA2
 - ### SA3 Combo
@@ -31,6 +32,7 @@
 
 # Heavy Attack Combo
 - ### [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md)
+- ### [5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md)
 - ### [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md)
 - ### 5HP Combo
     - (5HP + 5HK) + [39F Tiger-knee OKI](#39f-tiger-knee-oki)
@@ -96,8 +98,7 @@
 - ### JHK Combo
     - 8/9 + JHK + [5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### JHK Air Combo
-    - 8/9 + JHK + [General 6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#general-6hk-high-air-combo)
-    - 8/9 + JHK + [Midscreen DR 4HP SA1 High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-high-air-combo)
+    - 8/9 + JHK + [General 6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#general-6hk-high-air-combo)/[Midscreen DR 4HP SA1 Highest-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-highest-air-combo)
 
 # Counter Combo
 - ### [迅雷 Counter Combo](sagat-special-move.md#迅雷-counter-combo)
@@ -120,7 +121,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + 前ステ + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
+    - DI(PC) + (前ステ + [4HP High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.)md#4hp-high-air-combo)
     - DI(PC) + 前ステ + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
     - DI(PC) + 前ステ + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### DI PC Air Combo
@@ -128,7 +129,7 @@
     - [6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-high-air-combo)
     - [5HK High-Air Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-high-air-combo)
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [4HP Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-air-combo)
+    - DI(Wall spalt) + [4HP High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-high-air-combo)
     - DI(Wall spalt) + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
     - DI(Wall spalt) + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### Stun Combo

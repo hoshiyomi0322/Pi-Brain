@@ -11,13 +11,13 @@
 - Corner：5HK + OD迅雷強派生 + [6HK Highest-Air Combo](sagat-6hk-combo.md#6hk-highest-air-combo)
 
 # Corner DR 5HK Air Combo
-- (DR + 5HK + delay(等第二段打完)) + (CDR + [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo))
-- (DR + 5HK + delay(等第二段打完)) + (CDR + 5HK + delay(等第二段打完)) + (CDR + [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo))
+- (DR + 5HK + delay(等第二段打完)) + (CDR + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
+- (DR + 5HK + delay(等第二段打完)) + (CDR + 5HK + delay(等第二段打完)) + (CDR + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
 
 # DR 5HK High-Air Combo
 - DR + [5HK High-Air Combo](#5hk-high-air-combo)
-- Corner：(DR + 5HK) + [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo)
+- Corner：(DR + 5HK) + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo)
 
 # DR 5HK Highest-Air Combo
-- DR + 5HK + (強迅雷 + [4HP Air Combo](sagat-4hp-combo.md#4hp-air-combo))
+- DR + 5HK + (強迅雷 + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
 - DR + [5HK High-Air Combo](#5hk-high-air-combo)
