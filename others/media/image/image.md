@@ -5,7 +5,7 @@
 # Computer Graphics (CG)
 - ### Types of Shaders
     - ### Vertex Shader
-    - ### Fragment/Pixel Shader
+    - ### Fragment Shader (Pixel Shader)
     - ### Compute Shader
 - ### Open Graphics Library (OpenGL)
     - ### OpenGL Shading Language (GLSL)
