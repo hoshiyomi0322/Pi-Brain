@@ -33,7 +33,7 @@
     - ### Closest Pair of Points Problem
 - ### Greedy Algorithm
 - ### Monte Carlo method
-    - ### Monte Carlo Tree Search(MCTS)
+    - ### Monte Carlo Tree Search (MCTS)
 - ### Heuristic Algorithm
 - ### Montgomery Multiplication
 - ### Sweep Line Algorithm
