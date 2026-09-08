@@ -6,7 +6,7 @@
         - ガード(放電) + 消費(前hop) + [4MK Combo](../blanka.md#4mk-combo)
     - ### 帶炸彈 Corner 放電 Combo
         - [帶炸彈 Corner 放電 Air Combo](#帶炸彈-corner-放電-air-combo)
-        - 放電 + (強後翻滾 + [強昇竜 Combo](blanka-special-move.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo)/[Close OD後翻滾 Air Combo](blanka-special-move.md#close-od後翻滾-air-combo)/SA1/SA3)
+        - 放電 + (強後翻滾 + [強昇竜 Combo](blanka-28p.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Air Combo](blanka-624k.md#close-od後翻滾-air-combo)/SA1/SA3)
         - ガード(放電) + 消費(前hop) + [4MK OKI](../blanka.md#4mk-oki-6f7f)/[5HP Combo](../blanka.md#5hp-combo)
         - #### 摔Reset
             - (放電 + 消費(5LK) + 強放炸彈) + 消費(OD放電) + Reset(投げ) + (delay + OD昇竜/SA1/[SA3 Combo](../blanka.md#sa3-combo))
@@ -17,48 +17,47 @@
 - (放電 + 消費(5LK) + 弱放炸彈) + [42F OKI](../blanka.md#42f-oki)
 - (放電 + 消費(5LK) + 強放炸彈 + OD後翻滾) + Reset(OD放電) + [強後翻滾擇](#強後翻滾擇)/[前後擇](#前後擇)
     - #### 強後翻滾擇
-        - 強後翻滾 + (強後翻滾 + [Close OD後翻滾 Air Combo](#close-od後翻滾-air-combo))
+        - 強後翻滾 + (強後翻滾 + [Close OD後翻滾 Air Combo](blanka-624k.md#close-od後翻滾-air-combo))
         - ガード(強後翻滾) + [5F打摔擇](../blanka.md#5f打摔擇-4f5f)
     - #### 前後擇
-        - (前hop + 前hop) + (強後翻滾 + delay + [Close OD後翻滾 High-Air Combo](#close-od後翻滾-high-air-combo))
-        - ガード(前hop) + [5HP Combo](#5hp-combo)
+        - (前hop + 前hop) + (強後翻滾 + delay + [Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo))
+        - ガード(前hop) + [5HP Combo](../blanka.md#5hp-combo)
         - ガード(前hop) + (前歩き + [投げ](../blanka.md#投げ))
         - 對手 Parry：ガード(前hop) + (5HP + 前hop) + [投げ](../blanka.md#投げ)
 
 # OD放電 Combo
 - OD放電 + [40F OKI](../blanka.md#40f-oki)
-- OD放電 + SA2 + [帶電 OD前翻滾 Combo](blanka-special-move.md#帶電-od前翻滾-combo)
-- OD放電 + SA2 + [帶電 強前翻滾 Air Combo](blanka-special-move.md#帶電-強前翻滾-air-combo)
+- OD放電 + SA2 + [帶電 OD前翻滾 Combo](blanka-46p.md#帶電-od前翻滾-combo)
+- OD放電 + SA2 + [帶電 強前翻滾 Air Combo](blanka-46p.md#帶電-強前翻滾-air-combo)
 - 連ガ：ガード(OD放電) + [5LK Combo](../blanka.md#5lk-combo)
 - ### 帶炸彈 OD放電 Combo
     - ### 帶炸彈 Midscreen OD放電 Combo
         - OD放電 + [40F OKI](../blanka.md#40f-oki)
         - ガード
             - ガード(OD放電) + 消費(前hop) + [4MK OKI](../blanka.md#4mk-oki-6f7f)/[5HP Combo](../blanka.md#5hp-combo)
-            - ガード(OD放電) + [中後翻滾 Combo](blanka-special-move.md#中後翻滾-combo)
+            - ガード(OD放電) + [中後翻滾 Combo](blanka-624k.md#中後翻滾-combo)
             - 連ガ：ガード(OD放電 + 5LK + [放電 Combo](#放電-combo)/[OD放電 Combo](#od放電-combo)/[2MP Combo](../blanka.md#2mp-combo))
     - ### 帶炸彈 Corner OD放電 Combo
         - 消費(前ステ) + [10F 5HK 重ね](../blanka.md#10f-5hk-重ね-10f14f)
-        - OD放電 + 消費(前ステ + 2HK) + (強後翻滾 + [強昇竜 Air Combo](blanka-special-move.md#強昇竜-air-combo)/[Close OD後翻滾 High-Air Combo](blanka-special-move.md#close-od後翻滾-high-air-combo)/SA1/SA3)
-        - OD放電 + 消費(前ステ + 2HK) + (構え-attack + 強昇竜 + [OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo))
+        - OD放電 + 消費(前ステ + 2HK) + (強後翻滾 + [強昇竜 Air Combo](blanka-28p.md強昇竜-air-combo)/[Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo)/SA1/SA3)
+        - OD放電 + 消費(前ステ + 2HK) + (構え-attack + [強昇竜 High-Air Combo](blanka-28p.md#強昇竜-high-air-combo))
         - OD放電 + 消費(2HK) + (7 + JMP + 中放炸彈 + 強昇竜) + [44F OKI](../blanka.md#44f-oki)
+        - OD放電 + 消費(6MP*2) + [溜め放電 Air Combo](#溜め放電-air-combo)
         - ガード
             - ガード(OD放電) + 消費(前hop) + [5F打摔擇](../blanka.md#5f打摔擇-4f5f)
             - ガード(OD放電) + [弱コマ投げ Combo](blanka-special-move.md#弱コマ投げ-combo)/[ODコマ投げ Combo](blanka-special-move.md#odコマ投げ-combo)
-            - ガード(OD放電) + [中後翻滾 Combo](blanka-special-move.md#中後翻滾-combo)
+            - ガード(OD放電) + [中後翻滾 Combo](blanka-624k.md#中後翻滾-combo)
             - 中下擇
                 - ガード(OD放電) + 6MP + 消費(前ステ) + (強後翻滾 + 強昇竜 + [44F OKI](../blanka.md#44f-oki))
-                - ガード(OD放電) + 6MP + 消費(前ステ) + (強後翻滾 + [OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo)/[Close OD後翻滾 Air Combo](blanka-special-move.md#close-od後翻滾-air-combo)/SA1/SA3)
-                - ガード(OD放電) + (2MK + 放電) + 消費(前ステ) + (強後翻滾 + [強昇竜 Combo](blanka-special-move.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](blanka-special-move.md#close-od後翻滾-combo)/SA1/SA3)
+                - ガード(OD放電) + 6MP + 消費(前ステ) + (強後翻滾 + [OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Air Combo](blanka-624k.md#close-od後翻滾-air-combo)/SA1/SA3)
+                - ガード(OD放電) + (2MK + 放電) + 消費(前ステ) + (強後翻滾 + [強昇竜 Combo](blanka-28p.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](blanka-624k.md#close-od後翻滾-combo)/SA1/SA3)
             - 前後擇
-                - ガード(OD放電) + 5HP + (前hop + 前hop) + (強後翻滾 + delay + [Close OD後翻滾 High-Air Combo](blanka-special-move.md#close-od後翻滾-high-air-combo))
+                - ガード(OD放電) + 5HP + (前hop + 前hop) + (強後翻滾 + delay + [Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo))
             - 連ガ：ガード(OD放電 + 5HP + 放電 + [4MK OKI](../blanka.md#4mk-oki-6f7f)/[5HP Combo](../blanka.md#5hp-combo))
-- ### 帶炸彈 帶電 OD放電 Combo
-    - OD放電 + 消費(6MP*2) + (溜め放電 + [帶電 OD昇竜 Combo](blanka-special-move.md#帶電-od昇竜-combo))
 
 # 溜め放電 Combo
-- 溜め放電 + [強昇竜 Combo](blanka-special-move.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-combo)/SA1/SA3
-- ガード(溜め放電) + [3F打摔擇](#3f打摔擇-2f3f)
+- 溜め放電 + [強昇竜 Combo](blanka-28p.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](blanka-624k.md#close-od後翻滾-combo)/SA1/SA3
+- ガード(溜め放電) + [3F打摔擇](../blanka.md#3f打摔擇-2f3f)
 
 # 溜め放電 Air Combo
-- 溜め放電 + [強昇竜 Combo](blanka-special-move.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-special-move.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](./blanka-special-move/blanka-special-move.md#close-od後翻滾-combo)/SA1
+- 溜め放電 + [強昇竜 Combo](blanka-28p.md#強昇竜-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 Combo](blanka-624k.md#close-od後翻滾-combo)/SA1
