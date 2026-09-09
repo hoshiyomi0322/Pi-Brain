@@ -14,3 +14,11 @@
 - ### Counting Sort
 - ### Radix Sort
 - ### Bucket Sort
+
+# Stability
+- ### Stable sorting
+- ### unstable sorting
+
+# Space used
+- ### In-place sorting
+- ### Not-in-place sorting (Out-of-place sorting)

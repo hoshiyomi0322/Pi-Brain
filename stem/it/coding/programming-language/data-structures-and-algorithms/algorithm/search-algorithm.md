@@ -6,3 +6,4 @@
 - ### Ternary Search
 - ### Interpolation Search
 - ### Fibonacci Search
+
