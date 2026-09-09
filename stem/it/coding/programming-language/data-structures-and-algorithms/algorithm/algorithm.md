@@ -29,6 +29,7 @@
 - ### [Primality test](./prime-number-algorithm/primality-test.md)
 
 # Optimization Algorithm
+- ### Genetic Algorithm
 
 ---
 - ### Divide and Conquer
@@ -42,5 +43,4 @@
 - ### Sweep Line Algorithm
 - ### Shor's Algorithm
 - ### Grover Algorithm
-- ### Genetic Algorithm
 
