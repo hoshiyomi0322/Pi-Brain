@@ -16,13 +16,20 @@
     - ### Rrelease
     - ### Feature
 
-# Status
+# Git Workflow
+<div align="center"><img src="./image/git-workflow.png" width="70%"></div>
+
 - ### Stage
-- ### Add → Commit → Push
+- ### Add/Remove → Commit → Push
     - ### Add
     - ### Commit
     - ### Push
-- ### fetch → merge → pull
+- ### fetch → merge
+- ### diff
+- ### [Git Workflow Command](git-command.md#git-workflow-command)
+
+# Git Object
+- ### [Git Object Command](git-command.md#git-object-command)
 
 # [GitHub Web Editor](https://github.dev/)
 - ### How to Access
@@ -31,7 +38,7 @@
         - eg：`https://github.dev/hoshiyomi0322/Pi-Brain`
     - ### Keyboard Shortcut：Press the `.` key on any repository or pull request.
     - ### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
-        <img src="github-web-editor.png" width="25%">
+        <img src="./image/github-web-editor.png" width="25%">
 - ### Environment：[VS Code](../vs-and-vs-code.md)
 
 

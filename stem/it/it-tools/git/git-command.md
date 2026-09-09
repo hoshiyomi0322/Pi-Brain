@@ -1,34 +1,50 @@
 # Bash
 - ### [Bash](../../cli/bash/bash.md)
 
-# Initialize
-```bash
-git init # initialize
-git clone
-```
-# Workflow
+# [Git Workflow](git.md#git-workflow) Command
+- ### Initialize
+    ```bash
+    git init # initialize
+    git clone
+    ```
 - ### git status
     ```bash
     git status # 查看目前檔案狀態
     ```
 - ### git add
-    - ### `git add` + [Path](../../cli/bash/bash.md#path)
+    - #### `git add` + [Path](../../cli/bash/bash.md#path)
         ```bash
         git add file.txt # add file.txt
         git add ./folder/file.txt # add ./folder/file.txt
         git add . # add Current Directory
         ```
-    - ### Options
+    - #### Options
         |Options|Description|
         |:---:|:---:|
         |`-A`|All|
         |`-u`|update|
         |`-p`|patch|
-
+- ### git remove (rm)
+    - #### `git rm` + [Path](../../cli/bash/bash.md#path)
+        ```bash
+        git rm file.txt # remove file.txt
+        git rm ./folder/file.txt # remove ./folder/file.txt
+        git rm . # remove Current Directory
+        ```
+    - 
 - ### git commit
     ```bash
     git commit -a
     git commit -m "message" # create a new commit with message
+    ```
+- ### git stash
+    ```bash
+    git stash
+    git stash pop
+    git stash list
+    git stash apply
+    git stash clear
+    git stash drop
     ```
 
 ```bash
@@ -53,3 +69,10 @@ git branch
 git merge
 ```
 
+# [Git Object](git.md#git-object) Command
+- ### Garbage Collection (gc)
+    ```bash
+    git gc
+    git gc --auto
+    git gc --prune=now
+    ```
