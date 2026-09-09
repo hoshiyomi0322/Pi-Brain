@@ -194,6 +194,8 @@
         - [4MK OKI](#4mk-oki-6f7f)
 - ### Corner 溜め放電 OKI (24F~60F)
     - [溜め放電 Combo](./blanka-special-move/blanka-214p.md#溜め放電-combo)
+    - 對手 Parry：溜め放電(提早放開) + [投げ](#投げ)
+    - 對手 Dリバ/パナシ：溜め放電(提早放開)
 - ### コマ投げ OKI
     - ### ODコマ投げ OKI (29F~31F)
         - [ODコマ投げ Combo](./blanka-special-move/blanka-special-move.md#odコマ投げ-combo)
