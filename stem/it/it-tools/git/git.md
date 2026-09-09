@@ -29,6 +29,11 @@
 - ### [Git Workflow Command](git-command.md#git-workflow-command)
 
 # Git Object
+- ### Types of Git Objects
+    - #### Blob
+    - #### Tree
+    - #### Commit
+    - #### Tag
 - ### [Git Object Command](git-command.md#git-object-command)
 
 # [GitHub Web Editor](https://github.dev/)
@@ -40,5 +45,4 @@
     - ### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
         <img src="./image/github-web-editor.png" width="25%">
 - ### Environment：[VS Code](../vs-and-vs-code.md)
-
 
