@@ -24,9 +24,9 @@
 - ### Greatest Common Divisor
 - ### Extended Euclidean Algorithm
 
-# [Prime Number Algorithm](prime-number-algorithm.md)
-- ### [Generation of Prime]()
-- ### [Primality test]()
+# Prime Number Algorithm
+- ### [Generation of Prime](./prime-number-algorithm/generation-of-prime.md)
+- ### [Primality test](./prime-number-algorithm/primality-test.md)
 
 ---
 - ### Divide and Conquer
