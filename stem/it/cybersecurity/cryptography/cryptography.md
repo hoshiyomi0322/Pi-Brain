@@ -1,19 +1,18 @@
 # Cryptography
 - ### [Encoding](../../computer-science/data-representation/encoding.md)
 - ### Encryption
-    - ### Symmetric Encryption
-        - ### Stream Cipher
-        - ### Block Cipher
-    - ### Asymmetric Encryption
-    - ### Hybrid Encryption
-- ### Cryptographic Hash Function(CHF)
+    - ### [Symmetric Encryption](./encryption/symmetric-encryption/symmetric-encryption.md)
+    - ### [Asymmetric Encryption](./encryption/asymmetric-encryption/asymmetric-encryption.md)
+    - ### [Hybrid Encryption](./encryption/hybrid-encryption.md)
+- ### [Cryptographic Hash Function (CHF)](cryptographic-hash-function.md)
 
----
-- ### Kerckhoffs's Principle：安全的演算法即使公開演算法，只要Key沒有洩漏，Ciphertext也是安全的
-- ### Avalanche Effect
-    - eg：Block Cipher, CHF
+# Kerckhoffs's Principle
+- Even if a secure algorithm is made public, as long as the key is not leaked, the ciphertext remains secure.
 
-# Diffie-Hellman Key Exchange(DH)
+# Avalanche Effect
+- eg：Block Cipher, CHF
+
+# Diffie-Hellman Key Exchange (DH)
 <div align="center">
-    <img src="dh.png" width="30%">
+    <img src="./image/dh-key-exchange.png" width="40%">
 </div>
