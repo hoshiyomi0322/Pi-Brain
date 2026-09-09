@@ -72,6 +72,7 @@
     - (DR + 2LP) + [2HP Combo](#2hp-combo)
 
 # Counter Combo
+- 2HP(Counter) + (強Thunder-cancel + [5MP Combo](#5mp-combo))
 
 # PC Combo
 - ### Light Attack PC Combo

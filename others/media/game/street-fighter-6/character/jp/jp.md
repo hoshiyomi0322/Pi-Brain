@@ -141,7 +141,8 @@
     - 8/9 + JMP + [2MP Combo](#2mp-combo)/[5MK Combo](#5mk-combo)
 
 # Counter Combo
-- (6MK/2MK)(Counter) + [5LK Combo](#5lk-combo)
+- 2MK(Counter) + [5LK Combo](#5lk-combo)
+- 6MK(Counter) + [5LK Combo](#5lk-combo)
 - 2MP(Counter) + [5MK Combo](#5mk-combo)/[4MP Combo](#4mp-combo)
 - DR + 2MP(Counter) + [Heavy Attack Combo](#heavy-attack-combo)
 
