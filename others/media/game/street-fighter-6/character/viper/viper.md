@@ -11,14 +11,14 @@
     - #### 地波-cancel：623P + K
 - ### 大跳：28
     - #### 前大跳：29
-    - #### 大跳-cancel-Air-x火腿：(2 + 6(Hold) + 8) + xK + Release(6)
-    - #### 大跳-cancel-xThunder：(2 + 4(Hold) + 8) + xP + Release(4)
-        - #### 大跳-cancel-xThunder-cancel：(2 + 4(Hold) + 8) + (xP + K) + Release(4)
-    - #### 大跳-cancel-当身：(2 + 4(Hold) + 8) + K + Release(4)
-    - #### 大跳-cancel-x地波：(2 + 8) + (2(Hold) + 6 + 6) + xP
-    - #### 連續地波：地波 + (大跳-cancel-地波)*n
+    - #### 大跳-cancel + Air-x火腿：(2 + 6(Hold) + 8) + xK + Release(6)
+    - #### 大跳-cancel + xThunder：(2 + 4(Hold) + 8) + xP + Release(4)
+        - #### 大跳-cancel + xThunder-cancel：(2 + 4(Hold) + 8) + (xP + K) + Release(4)
+    - #### 大跳-cancel + 当身：(2 + 4(Hold) + 8) + K + Release(4)
+    - #### 大跳-cancel + x地波：(2 + 8) + (2(Hold) + 6 + 6) + xP
+    - #### 連續地波：地波 + (大跳-cancel + 地波)*n
         - 地波 + HP(Hold) + 268*n + Release(HP)
-    - #### 大跳-cancel-SA1
+    - #### 大跳-cancel + SA1
 
 # 必殺技 Combo
 - [必殺技 Combo](viper-special-move.md)
@@ -26,20 +26,21 @@
 # Heavy Attack Combo
 - ### 5HP Combo
 - ### 2HP Combo
-    - 2HP + [弱地波 Combo](viper-special-move.md#弱地波-combo)/[Medium Cancel Combo](#medium-cancel-combo)
+    - 2HP + [地波 Combo](viper-special-move.md#地波-combo)/[Medium Cancel Combo](#medium-cancel-combo)
     - 2HP(相打ち) + [2HP Combo](#2hp-combo)
 - ### 2HP Air Combo
-    - 2HP + [弱地波 Combo](viper-special-move.md#弱地波-combo)
+    - 2HP + [地波 Combo](viper-special-move.md#地波-combo)
 - ### 5HK Combo
-    - 5HK + delay(等5HK打完) + 大跳-cancel-SA1
-    - 5HK + delay(等5HK打完) + (大跳-cancel-OD火腿 + SA2/SA3)
-    - 5HK + delay(等5HK打完) + (大跳-cancel-OD地波 + delay + 大跳-cancel-中地波) + delay + (大跳-cancel-Air-強火腿 + [大跳-cancel-Air-火腿 Extension Combo](viper-special-move.md#大跳-cancel-air-火腿-extension-combo))
+    - 5HK + delay(等5HK打完) + 大跳-cancel + SA1
+    - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
+    - 5HK + delay(等5HK打完) + (大跳-cancel + OD地波) + delay + (大跳-cancel + 中地波) + delay + (大跳-cancel + Air-強火腿 + [Air-火腿 Extension Combo](viper-special-move.md#air-火腿-extension-combo))
 - ### 5HK Air Combo
-    - (5HK + delay(等5HK打完) + 大跳-cancel-SA1)
-    - (5HK + delay(等5HK打完) + 大跳-cancel-OD火腿 + SA2/SA3)
+    - 5HK + delay(等5HK打完) + (大跳-cancel + SA1)
+    - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
+    - 5HK + delay(等5HK打完) + (大跳-cancel + [Thunder High-Air Combo](viper-special-move.md#thunder-high-air-combo))
 - ### DR 5HP Combo
     - (DR + 5HP) + [2MP Combo](#2mp-combo)
-    - (DR + 5HP) + (大跳-cancel-強Thunder-cancel + [2HP Combo](#2hp-combo))
+    - (DR + 5HP) + (大跳-cancel + 強Thunder-cancel + [2HP Combo](#2hp-combo))
     - ガード(DR + 5HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 2HP Combo
     - (DR + 2HP) + (強Thunder-cancel + [2HP Combo](#2hp-combo))
@@ -84,7 +85,7 @@
         - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - 2HP(PC) + (強Thunder-cancel + [2HP Combo](#2hp-combo))
     - ### 5HP PC Combo
-        - 5HP(PC) + (大跳-cancel-強Thunder-cancel + [2HP Combo](#2hp-combo))
+        - 5HP(PC) + (大跳-cancel + 強Thunder-cancel + [2HP Combo](#2hp-combo))
         - 5HP(PC) + [2MP Combo](#2mp-combo)
     - ### 5HK PC Cobmo
         - Far/Corner：5HK(PC) + (前大跳 + delay + [JHK Combo](#jhk-combo))
@@ -101,7 +102,7 @@
 
 # Cancel Combo
 - ### Medium Cancel Combo
-    - [Thunder Combo](viper-special-move.md#thunder-combo)/[Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)
+    - [Thunder Combo](viper-special-move.md#thunder-combo)/[Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)/[OD地波 Combo](viper-special-move.md#od地波-combo)
     - CDR + [DR 5HP Combo](#dr-5hp-combo)
 - ### Light Cancel Combo
     - [Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)
@@ -133,11 +134,11 @@
     - 中Thunder-撞擊 + [中Thunder 重ね](#中thunder-重ね-18f)
 - ### 6MP 重ね (23F)
     - 6MP + [2LP Combo](#2lp-combo)
-- ### Corner OD地波 OKI (24F/25F)
-    - OD地波 + (大跳-cancel-強Thunder-cancel + DR + 5HP + [弱地波 Combo](viper-special-move.md#弱地波-combo))
+- ### Corner OD地波 重ね (24F/25F)
+    - OD地波 + (大跳-cancel + 強Thunder-cancel) + (DR + 5HP + [弱地波 Combo](viper-special-move.md#弱地波-combo))
     - OD地波 + (DR + [2MP Air Combo](#2mp-air-combo))
+    - OD地波 + [中Thunder High-Air Combo](viper-special-move.md#中thunder-high-air-combo)/[5HK Air Combo](#5hk-air-combo)/SA2/SA3
     - OD地波 + (OD火腿 + [47F OKI](#47f-oki)/SA2/SA3)
-    - OD地波 + [中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](#5hk-air-combo)/SA2/SA3
     - OD地波 + (SA1 + [25F OKI](#25f-oki))
     - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DI OKI (25F/26F)
@@ -145,7 +146,7 @@
     - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 25F OKI
     - [DI OKI](#di-oki-25f26f)
-    - Corner：[Corner OD地波 OKI](#corner-od地波-oki-24f25f)
+    - Corner：[Corner OD地波 重ね](#corner-od地波-重ね-24f25f)
 - ### 30F OKI
     - 消費(前ステ) + [5MP 重ね](#5mp-重ね-9f)
     - 強火腿 + 安全飛び
@@ -162,7 +163,7 @@
 - ### 42F OKI
     - 安全飛び
 - ### 45F OKI
-    - 消費(前ステ) + [Corner OD地波 OKI](#corner-od地波-oki-24f25f)
+    - 消費(前ステ) + [Corner OD地波 重ね](#corner-od地波-重ね-24f25f)
     - 消費(中Thunder-cancel) + [25F OKI](#25f-oki)
 - ### 46F OKI
     - 消費(前ステ) + [25F OKI](#25f-oki)

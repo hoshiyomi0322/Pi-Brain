@@ -16,8 +16,9 @@
 
 # DR 5HK High-Air Combo
 - DR + [5HK High-Air Combo](#5hk-high-air-combo)
+- Midscreen/Near-corner：(DR + 5HK) + delay(cancel) + (中弾 + [DR5HK-6HK High-Air Combo](sagat-6hk-combo.md#dr5hk-6hk-high-air-combo))
 - Corner：(DR + 5HK) + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo)
 
 # DR 5HK Highest-Air Combo
-- DR + 5HK + (強迅雷 + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
+- (DR + 5HK) + (強迅雷 + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
 - DR + [5HK High-Air Combo](#5hk-high-air-combo)

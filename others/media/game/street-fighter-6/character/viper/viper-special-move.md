@@ -11,21 +11,34 @@
     - OD Thunder + [42F OKI](viper.md#42f-oki)/SA2/SA3
 
 # 中Thunder Air Combo
+- 中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f)
 - 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)
 
-# 弱地波 Combo
-- 弱地波 + SA3
-- 弱地波 + (大跳-cancel-Air-中火腿 + [大跳-cancel-Air-火腿 Extension Combo](#大跳-cancel-air-火腿-extension-combo))
+# Thunder High-Air Combo
+- ### 中Thunder High-Air Combo
+    - 中Thunder + [42F OKI](viper.md#42f-oki)
+    - 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)
+- ### OD Thunder High-Air Combo
+    - OD Thunder + SA2/SA3
+
+# 地波 Combo
+- ### 弱地波 Combo
+    - 弱地波 + SA2/SA3
+    - 弱地波 + (SA1 + [6MP 重ね](#6mp-重ね-23f))
+    - 弱地波 + (大跳-cancel + Air-中火腿 + [Air-火腿 Extension Combo](#air-火腿-extension-combo))
+- ### OD地波 Combo
+    - OD地波 + SA2/SA3
+    - OD地波 + (SA1 + [6MP 重ね](#6mp-重ね-23f))
+    - OD地波 + (大跳-cancel + Air-中火腿 + [Air-火腿 Extension Combo](#air-火腿-extension-combo))
 
 # 火腿 Combo
 - ### Close OD火腿 Combo
     - OD火腿 + [42F OKI](viper.md#42f-oki)/SA2/SA3
 
-# 大跳-cancel-Air-火腿 Extension Combo
+# Air-火腿 Extension Combo
 - [56F OKI](viper.md#56f-oki)/[中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)
 - SA2/SA3
-- SA1 + [Corner OD地波 OKI](viper.md#corner-od地波-oki-24f25f)
-- 中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f)
+- SA1 + [Corner OD地波 重ね](viper.md#corner-od地波-重ね-24f25f)
 
 
 # OD火腿 Air Combo
