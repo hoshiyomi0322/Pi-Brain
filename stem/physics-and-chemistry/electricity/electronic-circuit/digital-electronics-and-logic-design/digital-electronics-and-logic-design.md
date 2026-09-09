@@ -8,7 +8,7 @@
     - ### Verilog
 
 # Logic Gate
-||Boolean Expression|Logic Diagram Symbol|Truth Table|
+|Logic Gate|Boolean Expression|Logic Diagram Symbol|Truth Table|
 |:---:|:---:|:---:|:---:|
 |Buffer|$`A`$||
 |NOT|$`A^\prime,\overline{A}`$|

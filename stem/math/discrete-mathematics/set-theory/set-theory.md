@@ -1,5 +1,10 @@
-
 # Set
+|Set|Notation|
+|:---:|:---:|
+|Set|$`S=\set{a_1,~\cdots ,~a_n}`$|
+|Universal Set|$`U`$|
+|Empty Set|$`\varnothing`$|
+
 - ### Set：$`S=\set{a_1,~\cdots ,~a_n}`$
 - ### Universal Set：$`U`$
 - ### Empty Set：$`\varnothing`$
@@ -7,6 +12,14 @@
     <img src="./image/venn-diagram.png" width="20%">
 
 # Set Operations
+|Set Operations|Notation|Definition|Venn Diagram|
+|:---:|:---:|:---:|:---:|
+|Intersection|$`A\cap B`$|$\text{both ⁠}A⁠\text{ and }B⁠$|<img src="./image/intersection.png" width="50%">|
+|Union|$`A\cup B`$|$`A\text{ or }B\text{ or }\text{both ⁠}A⁠\text{ and }⁠B`$|<img src="./image/union.png" width="50%">|
+|Complement|$`\overline{A},~A^\prime`$|$`⁠\text{not belong to }⁠B`$|<img src="./image/complement.png" width="50%">|
+|Difference|$`A-B,~A\backslash B`$|$`\text{belong to ⁠}A⁠\text{, but not to }⁠B`$|
+|Symmetric Difference|$`A\,Δ\,B = \left(A-B\right) \cup \left(A-B\right)`$|$`\text{belong to }⁠A\text{ or }⁠B\text{ but not to both}`$|
+
 - ### Intersection：$`A\cap B`$
     <img src="./image/intersection.png" width="20%">
 	

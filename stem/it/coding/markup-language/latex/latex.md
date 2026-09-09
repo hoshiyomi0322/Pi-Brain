@@ -179,8 +179,9 @@
 # Symbol
 |Name|Symbol|LaTex|
 |:---:|:---:|:---:|
-|infinity|$\infty$|`\infty`|
-|circle|$`\circ~,~180^{\circ}`$|`\circ`, `180^{\circ}`|
+|Backslash|$\backslash$|`\backslash`|
+|Infinity|$\infty$|`\infty`|
+|Circle|$`\circ~,~180^{\circ}`$|`\circ`, `180^{\circ}`|
 |Prime|$`\prime~,~x^{\prime}~,~x^{\prime\prime}`$|`\prime`, `x^{\prime}`, `x^{\prime\prime}`|
 |Partial Derivative|$`\partial`$|`\partial`|
 |Vector Operator (Nabla)|$`\nabla`$|`\nabla`|
@@ -199,18 +200,18 @@
 - ### O, Box
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
-    |O+Plus|$`\oplus`$|`\oplus`|
-    |O+Times|$`\otimes`$|`\otimes`|
-    |O+Dot|$`\odot`$|`\odot`|
-    |O+Minus|$`\ominus`$|`\ominus`|
-    |O+Slash|$`\oslash`$|`\oslash`|
-    |Big O+Plus|$`\bigoplus`$|`\bigoplus`|
-    |Big O+Times|$`\bigotimes`$|`\bigotimes`|
-    |Big O+Dot|$`\bigodot`$|`\bigodot`|
-    |Box+Plus|$`\boxplus`$|`\boxplus`|
-    |Box+Minus|$`\boxminus`$|`\boxminus`|
-    |Box+Times|$`\boxtimes`$|`\boxtimes`|
-    |Box+Dot|$`\boxdot`$|`\boxdot`|
+    |O + Plus|$`\oplus`$|`\oplus`|
+    |O + Times|$`\otimes`$|`\otimes`|
+    |O + Dot|$`\odot`$|`\odot`|
+    |O + Minus|$`\ominus`$|`\ominus`|
+    |O + Slash|$`\oslash`$|`\oslash`|
+    |Big O + Plus|$`\bigoplus`$|`\bigoplus`|
+    |Big O + Times|$`\bigotimes`$|`\bigotimes`|
+    |Big O + Dot|$`\bigodot`$|`\bigodot`|
+    |Box + Plus|$`\boxplus`$|`\boxplus`|
+    |Box + Minus|$`\boxminus`$|`\boxminus`|
+    |Box + Times|$`\boxtimes`$|`\boxtimes`|
+    |Box + Dot|$`\boxdot`$|`\boxdot`|
 - ### Logic Symbol
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|

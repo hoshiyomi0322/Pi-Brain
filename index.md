@@ -8,7 +8,7 @@
     - #### [IT Tools](stem/it/it-tools/it-tools.md)
     - #### [Keyboard Shortcuts](stem/it/keyboard-shortcuts.md)
 - ### Math
-    - #### [Numbers and Notation](stem/math/numbers-and-notation.md)
+    - #### [Numbers and Notation](stem/math/numbers-and-notations.md)
     - #### [Algebra](stem/math/algebra/algebra.md)
     - #### [Discrete Mathematics](stem/math/discrete-mathematics/discrete-mathematics.md)
     - #### [Probability Theory and Statistics](stem/math/probability-theory-and-statistics/probability-theory-and-statistics.md)
