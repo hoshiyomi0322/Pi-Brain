@@ -28,6 +28,8 @@
 - ### [Generation of Prime](./prime-number-algorithm/generation-of-prime.md)
 - ### [Primality test](./prime-number-algorithm/primality-test.md)
 
+# Optimization Algorithm
+
 ---
 - ### Divide and Conquer
     - ### Closest Pair of Points Problem
