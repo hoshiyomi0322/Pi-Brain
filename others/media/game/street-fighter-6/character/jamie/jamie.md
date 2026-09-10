@@ -54,9 +54,6 @@
 - ### 2HP Air Combo
     - 2HP + [Air Cancel Combo](#air-cancel-combo)
     - 酔い3：2HP + (CDR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
-- ### 2HP Air Combo
-    - 2HP + [Air Cancel Combo](#air-cancel-combo)
-    - 酔い3：2HP + (CDR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
 - ### 酔い3 DR 4HP Combo
     - DR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
 - ### 酔い3 4HP Air Combo
@@ -147,6 +144,7 @@
     - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
     - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
     - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
+- DR + 5HP(PC) + [2HP Combo](#2hp-combo)
 
 # DI Combo
 - ### DI PC Combo

@@ -62,10 +62,11 @@
 - ### 5MP Combo
     - ガード(5MP) + [コマ投げ Combo](#コマ投げ-combo)
 - ### 2MP Combo
-    - 2MP + [旋風手 Combo](#旋風手-combo)/[SA2 Combo](#sa2-combo)
+    - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
+- ### DR 2MP Combo
+    - (DR + 2MP) + [3MP Combo](#3mp-combo)
 - ### 3MP Combo
-    - 3MP + [旋風手 Combo](#旋風手-combo)/[SA2 Combo](#sa2-combo)
-    - 3MP + delay + [コマ投げ Combo](#コマ投げ-combo)/[ODコマ投げ Combo](#コマ投げ-combo)/SA3
+    - 3MP + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 3MP Air Combo
     - 3MP + SA1/[SA2 Air Combo](#sa2-air-combo)
     - 3MP + 消費(9) + [5F打摔擇](#5f打摔擇-3f5f)
@@ -98,22 +99,31 @@
     - (DR + 6MK) + 消費(2LP) + 2LP + Reset(DI)
     - (DR + 6MK)/前ステ + 6MK + [10F打摔擇](#10f打摔擇)
     - Midscreen：(DR + 6MK) + [3MP High-Air Combo](#3mp-high-air-combo)
+- ### 2MK Combo
+    - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2MK*2 + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2MK*2 + 2MK + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2MK*2 + ガード(2MK) + [Light CDR Combo](#light-cdr-combo)
 
 ## Light Attack combo
+- ### 5LP Combo
+    - Close：5LP + [Light Cancel Combo](#light-cancel-combo)
+- ### 2LP Combo
+    - Close：2LP + [Light Cancel Combo](#light-cancel-combo)
 - ### 5LK Combo
+    - Close：5LK + [Light Cancel Combo](#light-cancel-combo)
     - #### Mid 5LK Combo
         - 5LK/ガード(5LK) + [西伯利亞 Combo](#西伯利亞-combo)
-        - 5LK/ガード(5LK) + [CDR Combo](#cdr-combo)
+        - 5LK/ガード(5LK) + [Light CDR Combo](#light-cdr-combo)
         - 5LK/ガード(5LK) + (CDR + [Close 2LK Combo](#close-2lk-combo))
 - ### 2LK Combo
     - #### Close 2LK Combo
-        - 2LK/ガード(5LK) + [コマ投げ Combo](#コマ投げ-combo)
-        - (2LK + 2LP) + [旋風手 Combo](#旋風手-combo)
-        - (2LK + 2LP) + [CDR Combo](#cdr-combo)
+        - (2LK + 2LP) + [Light Cancel Combo](#light-cancel-combo)
         - (2LK + 2LP) + [Mid 5LK Combo](#mid-5lk-combo)
+        - 2LK/ガード(2LK) + [コマ投げ Combo](#コマ投げ-combo)/SA3
     - #### Mid 2LK Combo
         - (2LK + 2LP) + [西伯利亞 Combo](#西伯利亞-combo)
-        - (2LK + 2LP) + [CDR Combo](#cdr-combo)
+        - (2LK + 2LP) + [Light CDR Combo](#light-cdr-combo)
 - ### 2LP Air Reset
     - Midscreen：2LP + delay(no cancel) + Reset([西伯利亞 Combo](#西伯利亞-combo))
     - Corner：2LP + delay + [10F打摔擇](#10f打摔擇)
@@ -162,9 +172,19 @@
 
 
 # Cancel Combo
-- ### CDR Combo
-    - CDR + 2LP + [3MP Combo](#3mp-combo)
-    - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)
+- ### Medium Cancel Combo
+    - [旋風手 Combo](#旋風手-combo)/[OD旋風手 Combo](#od旋風手-combo)
+    - [SA2 Combo](#sa2-combo)
+    - delay + [コマ投げ Combo](#コマ投げ-combo)/SA3
+    - CDR + [DR 2MP Combo](#dr-2mp-combo)
+    - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)/[6HP Combo](#6hp-combo)
+- ### Light Cancel Combo
+    - [旋風手 Combo](#旋風手-combo)/[OD旋風手 Combo](#od旋風手-combo)
+    - delay + [コマ投げ Combo](#コマ投げ-combo)/SA3
+    - #### Light CDR Combo
+        - CDR + 2LP + [3MP Combo](#3mp-combo)
+        - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)/[6HP Combo](#6hp-combo)
+
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
