@@ -14,11 +14,11 @@
 # Set Operations
 |Set Operations|Notation|Definition|Venn Diagram|
 |:---:|:---:|:---:|:---:|
-|Intersection|$`A\cap B`$|$\text{both ⁠}A⁠\text{ and }B⁠$|<img src="./image/intersection.png" width="60%">|
-|Union|$`A\cup B`$|$`A\text{ or }B\text{ or }\text{both ⁠}A⁠\text{ and }⁠B`$|<img src="./image/union.png" width="60%">|
-|Complement|$`\overline{A},~A^\prime`$|$`⁠\text{not belong to }⁠B`$|<img src="./image/complement.png" width="60%">|
-|Difference|$`A-B,~A\backslash B`$|$`\text{belong to ⁠}A⁠\text{, but not to }⁠B`$|<img src="./image/difference.png" width="60%">|
-|Symmetric Difference|$`A\,Δ\,B = \left(A-B\right) \cup \left(A-B\right)`$|$`\text{belong to }⁠A\text{ or }⁠B\text{ but not to both}`$|<img src="./image/symmetric-difference.png" width="60%">|
+|Intersection|$`A\cap B`$|both $⁠A$ and $B⁠$|<img src="./image/intersection.png" width="60%">|
+|Union|$`A\cup B`$|$A$ or $B$ or both|<img src="./image/union.png" width="60%">|
+|Complement|$`\overline{A},~A^\prime`$|⁠not belong to $A$|<img src="./image/complement.png" width="60%">|
+|Difference|$`A-B,~A\backslash B`$|belong to ⁠$A⁠$, but not to $⁠B$|<img src="./image/difference.png" width="60%">|
+|Symmetric Difference|$`A\,Δ\,B = \left(A-B\right) \cup \left(A-B\right)`$|belong to $⁠A$ or $⁠B$ but not to both|<img src="./image/symmetric-difference.png" width="60%">|
 
 - $`\bigcap\limits_{i=1}^{n}A_i=A_1\cap\cdots\cap A_n`$
 - $`\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n`$
