@@ -1,9 +1,12 @@
 # Set
-|Set|Notation|
-|:---:|:---:|
-|Set|$`S=\set{a_1,~\cdots ,~a_n}`$|
-|Universal Set|$`U`$|
-|Empty Set|$`\varnothing`$|
+|Set|Notation|Definition|
+|:---:|:---:|:---:|
+|Set|$`S=\set{a_1,~\cdots ,~a_n}`$|a collection of different things|
+|Universal Set|$`U`$|a set that contains all of the objects|
+|Empty Set|$`\varnothing=\Set{}`$|a set having no elements|
+
+# Venn Diagram
+<img src="./image/venn-diagram.png" width="20%">
 
 # Set Operations
 |Set Operations|Notation|Definition|Venn Diagram|
@@ -26,14 +29,11 @@
 |Subset|$`A\subseteq B`$|$`A\text{ is a subset of }B,~B\text{ contains }A`$|<img src="./image/subset.png" width="70%">|$`\set{1,~2}\subseteq \set{1,~2,~3}`$|
 |Element of|$`A\in B`$|$`A\text{ is a element of }B`$||$`1\in \set{1,~2,~3}`$|
 
-# Venn Diagram
-<img src="./image/venn-diagram.png" width="20%">
-
-- ### Properties of Relations
-    - ### Reflexive
-    - ### Symmetric
-        - ### Asymmetric
-    - ### Transitive
+# Properties of Relations
+- ### Reflexive
+- ### Symmetric
+    - ### Asymmetric
+- ### Transitive
 
 # Properties of Sets
 - ### Commutative Law
