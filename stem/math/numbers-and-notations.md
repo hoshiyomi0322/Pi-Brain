@@ -6,14 +6,6 @@
     |Close Interval|$`\left[a,~b\right]`$|$`\{x\mid a\le x\le b\}`$|
     |Half-open Interval|$`\left(a,~b\right]`$|$`\{x\mid a<x\le b\}`$|
     |Half-open Interval|$`\left[a,~b\right)`$|$`\{x\mid a\le x<b\}`$|
-- ### Logical Notation
-    |Notation|Definition|eg|
-    |:---:|:---:|:---:|
-    |$`\forall x`$|$\text{For All }x$|
-    |$`\exists x`$|$\text{There Exists }x$|
-    |$`A\to B,~A\Rightarrow B,~A\implies B`$|$`\text{If }a,~\text{then }B`$|$`x=2\implies x^2=4`$|
-    |$`A\leftrightarrow B,~A\Leftrightarrow B,~A\iff B`$|$`\text{If and only if }a,~\text{then }B`$|$`x=2+y\iff y=2+x`$|
-    |$`\neg p`$||$``$|
 
 # Extremum 
 |Notation|Definition|
