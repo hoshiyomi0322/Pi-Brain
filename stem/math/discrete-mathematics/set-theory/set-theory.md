@@ -11,9 +11,9 @@
 # Set Operations
 |Set Operations|Notation|Definition|Venn Diagram|
 |:---:|:---:|:---:|:---:|
+|Complement|$`\overline{A},~A^\prime`$|$`\text{⁠not belong to }A`$|<img src="./image/complement.png" width="60%">|
 |Intersection|$`A\cap B`$|$`\text{both }A\text{ and }B`$|<img src="./image/intersection.png" width="60%">|
 |Union|$`A\cup B`$|$`A\text{ or }B\text{ or both}`$|<img src="./image/union.png" width="60%">|
-|Complement|$`\overline{A},~A^\prime`$|$`\text{⁠not belong to }A`$|<img src="./image/complement.png" width="60%">|
 |Difference|$`A-B,~A\backslash B`$|$`\text{belong to }A,~\text{but not to }B`$|<img src="./image/difference.png" width="60%">|
 |Symmetric Difference|$`A\,Δ\,B = \left(A-B\right) \cup \left(A-B\right)`$|$`\text{belong to }A\text{ or }B,~\text{but not to both}`$|<img src="./image/symmetric-difference.png" width="60%">|
 - ### Finite Set Operations
