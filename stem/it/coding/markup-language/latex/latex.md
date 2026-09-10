@@ -220,8 +220,10 @@
     |For All|$\forall$|`\forall`|
     |There Exists|$`\exists`$|`\exists`|
     |Logical NOT, Negation|$`\lnot`$|`\lnot`, `\neg`|
-    |Logical AND|$`\land`$|`\land`|
-    |Logical OR|$`\lor`$|`\lor`|
+    |Logical AND|$`\land`$|`\land`, `\wedge`|
+    |Logical OR|$`\lor`$|`\lor`, `\vee`|
+    |Logical XOR|$`\veebar`$|`\veebar`|
+    |Logical NAND|$`\barwedge`$|`\barwedge`|
 - ### [LaTex Arrow Symbol](latex-arrow-symbol.md)
 
 # Operator
