@@ -5,12 +5,6 @@
 |Universal Set|$`U`$|
 |Empty Set|$`\varnothing`$|
 
-- ### Set：$`S=\set{a_1,~\cdots ,~a_n}`$
-- ### Universal Set：$`U`$
-- ### Empty Set：$`\varnothing`$
-- ### Venn Diagram
-    <img src="./image/venn-diagram.png" width="20%">
-
 # Set Operations
 |Set Operations|Notation|Definition|Venn Diagram|
 |:---:|:---:|:---:|:---:|
@@ -19,17 +13,21 @@
 |Complement|$`\overline{A},~A^\prime`$|⁠not belong to $`A`$|<img src="./image/complement.png" width="60%">|
 |Difference|$`A-B,~A\backslash B`$|belong to $`A`$, but not to $`B`$|<img src="./image/difference.png" width="60%">|
 |Symmetric Difference|$`A\,Δ\,B = \left(A-B\right) \cup \left(A-B\right)`$|belong to $`A`$ or $`B`$ but not to both|<img src="./image/symmetric-difference.png" width="60%">|
-
-- $`\bigcap\limits_{i=1}^{n}A_i=A_1\cap\cdots\cap A_n`$
-- $`\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n`$
+- ### Finite Set Operations
+    |Finite Set Operations|Notation|
+    |:---:|:---:|
+    |Finite Intersection|$`\bigcap\limits_{i=1}^{n}A_i=A_1\cap\cdots\cap A_n`$|
+    |Finite Union|$`\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n`$|
 
 # Set Relations
-- ### Superset：$`A\supseteq B=A\text{ is a superset of }B=A\text{ contains }B`$
-    - eg：$`\set{1,~2,~3}\supseteq \set{1,~2}`$
-- ### Subset：$`A\subseteq B=A\text{ is a subset of }B=B\text{ contains }A`$
-    - eg：$`\set{1,~2}\subseteq \set{1,~2,~3}`$
-- ### Element of：$`A\in B=A\text{ is a element of }B`$
-    - eg：$`1\in \set{1,~2,~3}`$
+|Set Operations|Notation|Definition|Venn Diagram|eg|
+|:---:|:---:|:---:|:---:|:---:|
+|Superset|$`A\supseteq B`$|$`A\text{ is a superset of }B,~A\text{ contains }B`$|<img src="./image/superset.png" width="70%">|$`\set{1,~2,~3}\supseteq \set{1,~2}`$|
+|Subset|$`A\subseteq B`$|$`A\text{ is a subset of }B,~B\text{ contains }A`$|<img src="./image/subset.png" width="70%">|$`\set{1,~2}\subseteq \set{1,~2,~3}`$|
+|Element of|$`A\in B`$|$`A\text{ is a element of }B`$||$`1\in \set{1,~2,~3}`$|
+
+# Venn Diagram
+<img src="./image/venn-diagram.png" width="20%">
 
 - ### Properties of Relations
     - ### Reflexive
@@ -57,10 +55,10 @@
 - ### De Morgan's Laws
     - $`\left(A\cap B\right)^\prime=A^\prime\cup B^\prime`$
         
-        <img src="./image/de-morgans-laws-1.png" width="20%">
+        <img src="./image/de-morgans-laws-1.png" width="30%">
     - $`\left(A\cup B\right)^\prime=A^\prime\cap B^\prime`$
         
-        <img src="./image/de-morgans-laws-2.png" width="20%">
+        <img src="./image/de-morgans-laws-2.png" width="30%">
 
 # Inclusion–Exclusion Principle
 - ### $n$ sets：$`\bigcup\limits_{i=1}^{n}A_i=\sum\limits_{k=1}^{n}\left(\left(-1\right)^{k+1}\left(\sum\limits_{1\le i_1<\cdots<i_k\le n}\left(A_{i_1}\cap\cdots\cap A_{i_k}\right)\right)\right)=\sum\limits_{i=1}^{n}A_i-\sum\limits_{1\le i_1<i_2\le n}\left(A_{i_1}\cap A_{i_2}\right)+\cdots+\left(-1\right)^{n+1}\left(A_1\cap\cdots\cap A_n\right)`$

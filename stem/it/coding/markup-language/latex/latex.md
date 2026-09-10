@@ -287,8 +287,8 @@
 |Logarithm|$\log{x}$|`\log{x}`|
 |Sum|$\sum{x}$|`\sum{x}`|
 |Product|$\prod{x}$|`\prod{x}`|
-|Big Intersection|$\bigcap{x}$|`\bigcap{x}`|
-|Big Union|$\bigcup{x}$|`\bigcup{x}`|
+|Finite Intersection|$\bigcap{x}$|`\bigcap{x}`|
+|Finite Union|$\bigcup{x}$|`\bigcup{x}`|
 - ### Integral
     |Large Operator|LaTex|
     |:---:|:---:|
