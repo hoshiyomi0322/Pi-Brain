@@ -15,7 +15,7 @@
 - ### [Virtualization](./computer-organization-and-architecture/virtualization/virtualization.md)
 
 # [Computer Hardware](./computer-hardware/computer-hardware.md)
-- #### [Datapath](./computer-hardware/datapath.md)
+- ### [Datapath](./computer-hardware/datapath.md)
 - ### [Memory](./computer-hardware/memory/memory.md)
 
 # [Computer Networking](./computer-networking/computer-networking.md)
