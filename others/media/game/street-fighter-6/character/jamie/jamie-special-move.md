@@ -48,6 +48,7 @@
     - OD推掌 + (酒飲み + [Far 23F OKI](jamie.md#far-23f-oki))
     - Corner
         - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/強昇竜/SA1
+        - OD推掌 + (delay + [SA3 Combo](jamie.md#sa3-combo))
         - OD推掌 + 消費(弱爆廻) + [コマ投げ OKI](jamie.md#コマ投げ-oki-6f8f)
     - 酔い4
         - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
@@ -65,6 +66,7 @@
     - OD推掌 + (酒飲み + [20F OKI](jamie.md#20f-oki))
     - Corner
         - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/強昇竜/SA1
+        - OD推掌 + (delay + [SA3 Combo](jamie.md#sa3-combo))
         - OD推掌 + 消費(弱爆廻) + [3F打摔擇](jamie.md#3f打摔擇-2f3f)
     - 酔い4
         - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
