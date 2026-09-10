@@ -1,6 +1,6 @@
 # Mathematical Logic
-- ### Propositional Logic
-- ### Predicate Logic
+- ### [Propositional Logic](propositional-logic.md)
+- ### [Predicate Logic](predicate-logic.md)
     - #### First-Order Logic
     - #### High-Order Logic
 - ### Proof Theory
