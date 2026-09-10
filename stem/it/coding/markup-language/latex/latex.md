@@ -249,7 +249,7 @@
     |Much Greater than|$\gg$|`\gg`|
     |Not Equal|$\ne$|`\ne`|
     |Proportional to|$\propto$|`\propto`|
-    |Divides|$\mid$|`\mid`|
+    |Divides|$\mid$|`\mid`, `\vert`|
     |Perpendicular|$\perp$|`\perp`|
     |Parallel|$\parallel$|`\parallel`|
     - #### Similar
@@ -261,7 +261,7 @@
         |Approximately Equal|$\approx$|`\approx`|
         |Congruent|$\cong$|`\cong`|
         |Falling Dot Sequence|$\fallingdotseq$|`\fallingdotseq`|
-    - #### Set Relation
+    - #### [Set Theory](/stem/math/discrete-mathematics/set-theory/set-theory.md)
         |Operation|Operator|LaTex|
         |:---:|:---:|:---:|
         |Subset|$\subset$|`\subset`|

@@ -2,8 +2,8 @@
     - ### Quine-McCluskey Method
 - ### Logic Diagram
 - ### Truth Table
-    - ### [Karnaugh map(K-map)](#karnaugh-mapk-map-1)
-- ### Hardware Description Language(HDL)
+    - ### [Karnaugh map (K-map)](#karnaugh-map-k-map-1)
+- ### Hardware Description Language (HDL)
     - ### [VHDL](./hdl/vhdl.md)
     - ### Verilog
 
@@ -20,13 +20,13 @@
 |Exclusive NOR (XNOR)|$`A\odot B,~\overline{A\oplus B}`$|
 
 # Properties
-- ### De Morgan's laws
+- ### [De Morgan's laws](/stem/math/discrete-mathematics/set-theory/set-theory.md#de-morgans-laws)
     - NAND：$`\overline{A\cdot B}=\overline{A}+\overline{B}`$
     - NOR：$`\overline{A+B}=\overline{A}\cdot\overline{B}`$
 - ### XOR：$`A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}`$
     - XNOR：$`A\odot B=\overline{A\oplus B}=A\cdot B+\overline{A}\cdot\overline{B}`$
 
-# Karnaugh map(K-map)
+# Karnaugh map (K-map)
 
 # Digital Electronics
 - ### Combinational Logic
@@ -86,11 +86,11 @@
 - ### Static 0-Hazards
 - ### Dynamic Hazard
 
-# Programmable Logic Device(PLD)
-- ### Programmable Logic Array(PLA)
-- ### Complex PLD(CPLD)
-- ### Field-Programmable Gate Array(FPGA)
+# Programmable Logic Device (PLD)
+- ### Programmable Logic Array (PLA)
+- ### Complex PLD (CPLD)
+- ### Field-Programmable Gate Array (FPGA)
 ---
-- ### General-Purpose Input/Output(GPIO)
+- ### General-Purpose Input/Output (GPIO)
 - ### Seven-Segment Display
 - ### DIP Switch
