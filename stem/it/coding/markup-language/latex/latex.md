@@ -212,7 +212,7 @@
     |Box + Minus|$`\boxminus`$|`\boxminus`|
     |Box + Times|$`\boxtimes`$|`\boxtimes`|
     |Box + Dot|$`\boxdot`$|`\boxdot`|
-- ### Logic Symbol
+- ### [Logic Symbol](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md)
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
     |Because|$\because$|`\because`|
@@ -227,7 +227,7 @@
 - ### [LaTex Arrow Symbol](latex-arrow-symbol.md)
 
 # Operator
-- ### Not：`\not` + operator
+- ### Not：`\not` + [operator](#operator)
     |Operator|LaTex|
     |:---:|:---:|
     |$\not>$|`\not>`|
@@ -308,7 +308,7 @@
     |$`\int^{b}{x}`$|`\int{x}^{b}{x}`|
     |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x \, dx}`|
     |$`\log_{a}{x}`$|`\log_{a}{x}`|
-    - #### Limits：[Large Operator](#large-operator) + `\limits` + [Superscript and Subscript](#superscript-and-subscript)
+    - #### \limits：[Large Operator](#large-operator) + `\limits` + [Superscript and Subscript](#superscript-and-subscript)
         |Large Operator|LaTex|
         |:---:|:---:|
         |$`\lim\limits_{a}{x}`$|`\lim\limits_{a}{x}`|
@@ -331,7 +331,7 @@
 |Argument|$\arg{x}$|`\arg{x}`|
 |Greatest Common Divisor|$\gcd{x}$|`\gcd{x}`|
 |Binomial coefficient|$\binom{n}{k}$|`\binom{n}{k}`|
-- ### Trigonometric Functions
+- ### [Trigonometric Functions](/stem/math/trigonometric-and-hyperbolic-functions/trigonometric-functions.md)
     |Output|LaTex|
     |:---:|:---:|
     |$`\sin{x}`$|`\sin{x}`|
@@ -346,7 +346,7 @@
         |$`\arcsin{x}`$|`\arcsin{x}`|
         |$`\arccos{x}`$|`\arccos{x}`|
         |$`\arctan{x}`$|`\arctan{x}`|
-- ### Hyperbolic Functions
+- ### [Hyperbolic Functions](/stem/math/trigonometric-and-hyperbolic-functions/hyperbolic-functions.md)
     |Output|LaTex|
     |:---:|:---:|
     |$`\sinh{x}`$|`\sinh{x}`|
