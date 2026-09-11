@@ -1,12 +1,12 @@
 # Gladius Combo
 - ### 弱Gladius Combo
-    - 弱Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
+    - 弱Gladius + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)/SA3
 - ### 中Gladius Combo
-    - 中Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
+    - 中Gladius + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)/SA3
 - ### 強Gladius Combo
-    - 強Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
+    - 強Gladius + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)/SA3
 - ### OD Gladius Combo
-    - OD Gladius + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA2/SA3
+    - OD Gladius + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)/SA2/SA3
 
 # 溜めGladius Combo
 - ### 弱溜めGladius Combo
@@ -16,16 +16,20 @@
 
 # Dimachaerus Combo
 - ### 弱Dimachaerus Combo
+    - 弱Dimachaerus派生 + [DR溜め5HP OKI](marisa.md#dr溜め5hp-oki-31f33f)
 - ### 中Dimachaerus Combo
-    - 中Dimachaerus派生 + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)
+    - 中Dimachaerus派生 + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)
 - ### 強Dimachaerus Combo
-    - 強Dimachaerus派生 + [弱Quadriga Air Combo](#弱quadriga-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)
+    - 強Dimachaerus派生 + [56F OKI](marisa.md#56f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)
+    - 強Dimachaerus派生 + (3HP*2 + [DR溜め5HP OKI](marisa.md#dr溜め5hp-oki-31f33f))
     - Corner
-        - 強Dimachaerus派生 + [56F OKI](marisa.md#56f-oki)/[5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+        - 強Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+        - 強Dimachaerus派生 + (DR + 5MP*2 + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f))
 - ### OD Dimachaerus Combo
     - OD Dimachaerus派生 + [58F OKI](marisa.md#58f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)/[DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
     - Corner
         - OD Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+        - OD Dimachaerus派生 + (DR + 5MP*2 + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f))
 
 # Phalanx Combo
 - ### 弱Phalanx Combo
@@ -55,7 +59,7 @@
 
 # Quadriga Combo
 - ### 弱Quadriga Combo
-    - 弱Quadriga + [35F 強Phalanx OKI](marisa.md#35f-強phalanx-oki-35f36f)/SA3
+    - 弱Quadriga + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)/SA3
 - ### 中Quadriga Combo
     - 中Quadriga + SA3
 - ### 強Quadriga Combo
