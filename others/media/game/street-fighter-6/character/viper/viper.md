@@ -34,7 +34,7 @@
 - ### 5HK Combo
     - 5HK + delay(等5HK打完) + 大跳-cancel + SA1
     - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
-    - 5HK + d)elay(等5HK打完) + (大跳-cancel + OD地波) + delay + (大跳-cancel + 中地波) + delay + (大跳-cancel + Air-強火腿 + [Air-火腿 Extension Combo](viper-special-move.md#air-火腿-extension-combo))
+    - 5HK + delay(等5HK打完) + (大跳-cancel + OD地波) + delay + (大跳-cancel + 中地波) + delay + (大跳-cancel + Air-強火腿 + [Air-火腿 Extension Combo](viper-special-move.md#air-火腿-extension-combo))
 - ### 5HK Air Combo
     - 5HK + delay(等5HK打完) + (大跳-cancel + SA1)
     - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
@@ -45,6 +45,9 @@
     - ガード(DR + 5HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 2HP Combo
     - (DR + 2HP) + (強Thunder-cancel + [2HP Combo](#2hp-combo))
+- ### DR 5HK Combo
+    - (DR + 5HK) + [2MP Combo](#2mp-combo)
+    - (DR + 5HK) + (大跳-cancel + 強Thunder-cancel + [2HP Combo](#2hp-combo))
 - ### DR 6HK Combo
     - (DR + 6HK + 5HK) + [2MP Combo](#2mp-combo)
     - ガード(DR + 6HK + 5HK) + [3F打摔擇](#3f打摔擇-2f3f)
@@ -86,8 +89,8 @@
         - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - 2HP(PC) + (強Thunder-cancel + [2HP Combo](#2hp-combo))
     - ### 5HP PC Combo
-        - 5HP(PC) + (大跳-cancel + 強Thunder-cancel + [2HP Combo](#2hp-combo))
         - 5HP(PC) + [2MP Combo](#2mp-combo)
+        - 5HP(PC) + (大跳-cancel + 強Thunder-cancel + [2HP Combo](#2hp-combo))
     - ### 5HK PC Cobmo
         - Far/Corner：5HK(PC) + (前大跳 + delay + [JHK Combo](#jhk-combo))
         - Close/Corner：5HK(PC) + [2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)/[5HK Combo](#5hk-combo)
@@ -104,7 +107,7 @@
 # Cancel Combo
 - ### Medium Cancel Combo
     - [Thunder Combo](viper-special-move.md#thunder-combo)/[Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)/[OD地波 Combo](viper-special-move.md#od地波-combo)
-    - CDR + [DR 5HP Combo](#dr-5hp-combo)
+    - CDR + [DR 5HP Combo](#dr-5hp-combo)/[DR 2HP Combo](#dr-2hp-combo)/[DR 5HK Combo](#dr-5hk-combo)
 - ### Light Cancel Combo
     - [Close OD火腿 Combo](viper-special-move.md#close-od火腿-combo)
     - CDR + [DR 2LP Combo](#dr-2lp-combo)

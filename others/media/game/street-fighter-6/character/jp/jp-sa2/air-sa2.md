@@ -73,6 +73,13 @@
 - #### F式 SA2 Reset
     - SA2 + (弱風神 + 中風神) + [Corner 裂縫F式 OKI](../jp.md#corner-裂縫f式-oki-110f)
 
+# Corner 2HP SA2 Αir Combo
+- SA2 + 消費(5LP/前ステ) + ガード(5HK + 5HP) + (5HP/5HK + [Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo))
+    - SA2 + 消費(5LP/前ステ) + (5HK + 5HP + 強裂縫) + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
+    - SA2 + 消費(5LP) + ガード(5HK) + (8 + [F式](../jp.md#f式)) + [Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
+- SA2 + OD裂縫 + ガード(2LP) + (8 + [F式](../jp.md#f式) + 2MK) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+    - SA2 + OD裂縫 + (2LP + 地刺) + (delay + [Corner 6HK 中風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
+
 # BTW OD当身 SA2 Combo
 - [General SA2 Combo(2MK起始)](general-sa2.md)
 - [Midscreen 弱風神 SA2 Reset](general-sa2.md#midscreen-弱風神-sa2-reset)

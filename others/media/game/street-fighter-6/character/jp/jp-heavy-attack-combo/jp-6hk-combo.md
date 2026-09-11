@@ -22,6 +22,7 @@
         - #### Close/Extension
             - 6HK + 中弾 + [Corner 2HP 中下擇](jp-hp-combo.md#corner-2hp-中下擇)
             - 6HK + OD弾 + 裂縫 + Reset(6MK) + 2LP*2 + [Corner JMK High-Air Combo](../jp.md#corner-jmk-high-air-combo)
+            - (6HK + 中風神) + (2HP + [Corner 2HP SA2 Αir Combo](../jp-sa2/air-sa2.md#corner-2hp-sa2-αir-combo))
 - ### 6HK ガード Combo
     - 連ガ
         - ガード(6HK) + (CDR + [DR 2HP 連ガ Combo](jp-hp-combo.md#dr-2hp-連ガ-combo))
