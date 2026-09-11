@@ -6,6 +6,7 @@
 - ### record、column、object、entity：a collection of related fields
 - ### field、attributes：a single value
 - ### key、id
+- ### Value
 
 # eg
 <div align="center"><img src="./image/relational-model.png" width="55%"></div>
