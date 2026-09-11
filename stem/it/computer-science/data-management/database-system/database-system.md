@@ -17,7 +17,8 @@
 - ### Physical data Model
 
 # Element
-<div align="center"><img src="./image/database-element.png" width="70%"></div>
+<div align="center">
+<img src="./image/database-element.png" width="70%">
 
 |Element|Definition|
 |:---:|:---:|
@@ -26,6 +27,7 @@
 |Field, Column, Attribute|a vertical category|
 |Key, (Key Field, Id)|a unique identifier of data|
 |Value|the specific data content identified or accessed by a key|
+</div>
 
 # Key–Value Database
 
