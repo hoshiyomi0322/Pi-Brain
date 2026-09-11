@@ -1,12 +1,16 @@
 # Relational DBMS (RDBMS)
 - ### MySQL
 
-# Element
-- ### table：a collection of records
-- ### record、column、object、entity：a collection of related fields
-- ### field、attributes：a single value
-- ### key、id
-- ### Value
+# Relation Schema
+
+# Key
+- ### Super Key
+- ### Candidate Key
+- ### Primary Key
+- ### Alternate Key (Secondary Key)
+- ### Unique Key
+- ### Composite Key
+- ### Foreign Key
 
 # eg
 <div align="center"><img src="./image/relational-model.png" width="55%"></div>
@@ -23,3 +27,4 @@
     <img src="./image/field.png" width="10%">
 - ### key, id
     <img src="./image/key.png" width="7%">
+
