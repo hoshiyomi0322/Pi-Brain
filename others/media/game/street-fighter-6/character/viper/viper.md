@@ -27,13 +27,14 @@
 - ### 5HP Combo
 - ### 2HP Combo
     - 2HP + [地波 Combo](viper-special-move.md#地波-combo)/[Medium Cancel Combo](#medium-cancel-combo)
+    - 2HP + (強Thunder-cancel + [2MP Combo](#2mp-combo))
     - 2HP(相打ち) + [2HP Combo](#2hp-combo)
 - ### 2HP Air Combo
     - 2HP + [地波 Combo](viper-special-move.md#地波-combo)
 - ### 5HK Combo
     - 5HK + delay(等5HK打完) + 大跳-cancel + SA1
     - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
-    - 5HK + delay(等5HK打完) + (大跳-cancel + OD地波) + delay + (大跳-cancel + 中地波) + delay + (大跳-cancel + Air-強火腿 + [Air-火腿 Extension Combo](viper-special-move.md#air-火腿-extension-combo))
+    - 5HK + d)elay(等5HK打完) + (大跳-cancel + OD地波) + delay + (大跳-cancel + 中地波) + delay + (大跳-cancel + Air-強火腿 + [Air-火腿 Extension Combo](viper-special-move.md#air-火腿-extension-combo))
 - ### 5HK Air Combo
     - 5HK + delay(等5HK打完) + (大跳-cancel + SA1)
     - 5HK + delay(等5HK打完) + (大跳-cancel + OD火腿 + SA2/SA3)
