@@ -10,14 +10,14 @@
 # [Logic](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-connective-logical-operator) Gate
 |Logic Gate|Boolean Expression|Logic Diagram Symbol|
 |:---:|:---:|:---:|
-|Buffer|$`A`$||
-|NOT|$`\overline{A},~A^\prime`$|
-|AND|$`A\cdot B`$|
-|OR|$`A+B`$|
-|Exclusive OR (XOR)|$`A\oplus B`$|
-|NAND|$`\overline{A\cdot B}`$|
-|NOR|$`\overline{A+B}`$|
-|Exclusive NOR (XNOR)|$`A\odot B,~\overline{A\oplus B}`$|
+|Buffer|$`A`$|<img src="./image/buffer.png" width="50%">|
+|NOT|$`\overline{A},~A^\prime`$|<img src="./image/not.png" width="50%">|
+|AND|$`A\cdot B`$|<img src="./image/and.png" width="50%">|
+|OR|$`A+B`$|<img src="./image/or.png" width="50%">|
+|Exclusive OR (XOR)|$`A\oplus B`$|<img src="./image/xor.png" width="50%">|
+|NAND|$`\overline{A\cdot B}`$|<img src="./image/nand.png" width="50%">|
+|NOR|$`\overline{A+B}`$|<img src="./image/nor.png" width="50%">|
+|Exclusive NOR (XNOR)|$`A\odot B,~\overline{A\oplus B}`$|<img src="./image/xnor.png" width="50%">|
 - ### Truth Table
     |$`A`$|$`B`$|$`A`$<br>(Buffer)|$`\overline{A}`$<br>(NOT)|$`A\cdot B`$<br>(AND)|$`A+B`$<br>(OR)|$`A\oplus B`$<br>(XOR)|$`\overline{A\cdot B}`$<br>(NAND)|$`\overline{A+B}`$<br>(NOR)|$`A\odot B`$<br>(XNOR)|
     |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
