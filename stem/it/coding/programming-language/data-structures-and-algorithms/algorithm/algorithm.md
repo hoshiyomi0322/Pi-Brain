@@ -1,17 +1,19 @@
 # Algorithm
 - ### [Complexity](complexity.md)
-- ### Sorting Algorithm and Search Algorithm
-    - ### [Sorting Algorithm](sorting-algorithm.md)
-    - ### [Search Algorithm](search-algorithm.md)
 - ### [Recursion](recursion.md)
 - ### [Dynamic Programming (DP)](dynamic-programming.md)
+- ### Greedy Algorithm
+
+# Sorting and Search Algorithm
+- ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm.md)
+- ### [Search Algorithm](./sorting-and-search-algorithm/search-algorithm.md)
 
 # Two Pointers
 - ### Left and Right Pointers
 - ### Fast and Slow Pointers
 
 # Combinatorial Optimization
-- ### Travelling Salesman Problem(TSP)
+- ### Travelling Salesman Problem (TSP)
 - ### Knapsack problem
 
 # Exhaustive Algorithm (Brute Force Method)
@@ -21,7 +23,7 @@
 
 # Euclidean Algorithm
 - ### Greatest Common Divisor (GCD)
-- ### Greatest Common Divisor
+- ### Least Common Multiple (LCM)
 - ### Extended Euclidean Algorithm
 
 # Prime Number Algorithm
@@ -34,7 +36,6 @@
 ---
 - ### Divide and Conquer
     - ### Closest Pair of Points Problem
-- ### Greedy Algorithm
 - ### Randomized Algorithm
 - ### Monte Carlo method
     - ### Monte Carlo Tree Search (MCTS)

@@ -4,11 +4,8 @@
     - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
 - ### [Algorithm](./data-structures-and-algorithms/algorithm/algorithm.md)
     - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity.md)
-    - ### [Sorting Algorithm](./data-structures-and-algorithms/algorithm/sorting-algorithm.md)
-    - ### [Search Algorithm](./data-structures-and-algorithms/algorithm/search-algorithm.md)
     - ### [Recursion](./data-structures-and-algorithms/algorithm/recursion.md)
     - ### [Dynamic Programming (DP)](./data-structures-and-algorithms/algorithm/dynamic-programming.md)
-    - ### [Prime Number Algorithm](./data-structures-and-algorithms/algorithm/prime-number-algorithm.md)
 
 # Types of Programming Language
 - ### Object-Oriented Programming (OOP)
