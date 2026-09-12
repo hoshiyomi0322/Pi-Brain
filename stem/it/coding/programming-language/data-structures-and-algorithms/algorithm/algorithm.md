@@ -18,15 +18,6 @@
 - ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm/sorting-algorithm.md)
 - ### [Search Algorithm](./sorting-and-search-algorithm/search-algorithm.md)
 
-# Two Pointers
-- ### Left and Right Pointers
-- ### Fast and Slow Pointers
-
-# Combinatorial Optimization
-- ### Travelling Salesman Problem (TSP)
-- ### Knapsack problem
-
-
 # Euclidean Algorithm
 - ### Greatest Common Divisor (GCD)
 - ### Least Common Multiple (LCM)
@@ -37,12 +28,21 @@
 - ### [Primality test](./prime-number-algorithm/primality-test.md)
 
 # Optimization Algorithm
-- ### [Iterative Improvement]()
+- ### [Iterative Improvement](iterative-improvement.md)
 
 # Heuristic Algorithm
 - ### Metaheuristic
+- ### [Iterative Improvement](iterative-improvement.md)
 
----
+# Combinatorial Optimization
+- ### Travelling Salesman Problem (TSP)
+- ### Knapsack problem
+
+# Two Pointers
+- ### Left and Right Pointers
+- ### Fast and Slow Pointers
+
+# Other Algorithm
 - ### Randomized Algorithm
 - ### Monte Carlo method
     - ### Monte Carlo Tree Search (MCTS)

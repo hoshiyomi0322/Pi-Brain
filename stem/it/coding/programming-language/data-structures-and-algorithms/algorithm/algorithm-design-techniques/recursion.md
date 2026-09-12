@@ -4,6 +4,8 @@
 
 # Fibonacci Sequence
 
-# Exponentiation by Squaring(Fast Exponentiation)
+# Exponentiation by Squaring (Fast Exponentiation)
+- ### Matrix Fast Exponentiating by Squaring
 
 # Tower of Hanoi
+
