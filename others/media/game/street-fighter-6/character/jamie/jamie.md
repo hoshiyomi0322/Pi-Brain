@@ -13,37 +13,51 @@
 - ### コマ投げ (酔い3)：624K
 - ### 天晴脚：2KK
 - ### 酔い：酒飲み可以+1，最多酔い4
+- ### 前投げ-酒飲み：前投げ(Hold)
+- ### SA1：236236K
+    - #### SA1-酒飲み：236236K + 2(Hold)
 
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](jamie-special-move.md)
 
-# SA3 Combo
-- SA3 + 消費(弱爆廻) + [5F打摔擇](#5f打摔擇-4f5f)
-- SA3 + [強爆廻 Air Combo](jamie-special-move.md#強爆廻-air-combo)/[OD爆廻 Air Combo](jamie-special-move.md#od爆廻-air-combo)
-- SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)/[DR 天晴脚 Air Combo](jamie-special-move.md#dr-天晴脚-air-combo)
-- SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
-    - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
-- SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
-- SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
-- 打動力槽：SA3 + (DR + delay + 2HP + DI)
-- Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### Corner SA3 Combo
-    - SA3 + (前ステ + 5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
-    - SA3 + (前ステ + 5LP) + Reset(DI)
-        - SA3 + (DR + 2HP + 5LP) + Reset(DI)
-    - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
-        - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
-        - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+# SA Combo
+- ### SA1 Combo
+    - SA1/SA1-酒飲み
+    - #### Corner SA1 Combo
+        - SA1 + [5HP OKI](#5hp-oki-10f13f)
+        - SA1-酒飲み + [5F打摔擇](#5f打摔擇-4f5f)
+- ### SA1 Air Combo
+    - SA1/SA1-酒飲み
+    - #### Corner SA1 Air Combo
+        - SA1 + [DR Medium OKI](#dr-medium-oki-16f20f)
+        - SA1-酒飲み + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+- ### SA3 Combo
+    - SA3 + 消費(弱爆廻) + [5F打摔擇](#5f打摔擇-4f5f)
+    - SA3 + [強爆廻 Air Combo](jamie-special-move.md#強爆廻-air-combo)/[OD爆廻 Air Combo](jamie-special-move.md#od爆廻-air-combo)
+    - SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)/[DR 天晴脚 Air Combo](jamie-special-move.md#dr-天晴脚-air-combo)
+    - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
+        - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
+    - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
+    - SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
+    - 打動力槽：SA3 + (DR + delay + 2HP + DI)
+    - Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - #### Corner SA3 Combo
+        - SA3 + (前ステ + 5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
+        - SA3 + (前ステ + 5LP) + Reset(DI)
+            - SA3 + (DR + 2HP + 5LP) + Reset(DI)
+        - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
+            - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
+            - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
 
 # Heavy Attack Combo
 - ### 5HP Combo
-    - 5HP + [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - 5HP + [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - 5HP + [中酔拳 Combo](jamie-special-move.md#中酔拳-combo)/[OD酔拳 Combo](jamie-special-move.md#od酔拳-combo)
     - 5HP + [弱推掌 Combo](jamie-special-move.md#弱推掌-combo)
 - ### 5HP Air Combo
     - 5HP + [Air Cancel Combo](#air-cancel-combo)
 - ### 5HP High-Air Combo
-    - 5HP + [2HK Combo](#2hk-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/SA1/[SA3 Combo](#sa3-combo)
+    - 5HP + [2HK Combo](#2hk-combo)/[弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[SA1 Air Combo](#sa1-air-combo)/[SA3 Combo](#sa3-combo)
     - delay + [5HP Air Combo](#5hp-air-combo)
     - Corner：5HP + [中昇竜 Air Combo](jamie-special-move.md#中昇竜-air-combo)
 - ### DR 5HP Combo
@@ -60,8 +74,8 @@
     - (4HP + 5HP) + [Air Cancel Combo](#air-cancel-combo)
     - QQH
         - (4HP + 5HP + 5HK) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
-        - (4HP + 5HP + 5HK) + (前ステ + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1)
-    - Near-wall：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
+        - (4HP + 5HP + 5HK) + (前ステ + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/[SA1 Air Combo](#sa1-air-combo))
+    - Near-wall：(4HP + 5HP + 5HK) + [2HK Combo](#2hk-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/[SA1 Air Combo](#sa1-air-combo)
 - ### 5HK Combo
     - 5HK + [Heavy Cancel Combo](#heavy-cancel-combo)
     - 5HK + Reset(DI)
@@ -72,7 +86,7 @@
 - ### 6HK Combo
     - 6HK + SA1/[SA3 Combo](#sa3-combo)
     - ### 酔い4 6HK Combo
-        - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/SA1
+        - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/[SA1 Air Combo](#sa1-air-combo)
         - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
         - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
         - Corner
@@ -93,7 +107,7 @@
     - 5MK + [Medium Cancel Combo](#medium-cancel-combo)
     - 5MK + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
 - ### 2MK Combo
-    - 2MK + [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - 2MK + [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - 2MK + [中酔拳 Combo](jamie-special-move.md#中酔拳-combo)/[OD酔拳 Combo](jamie-special-move.md#od酔拳-combo)
     - 2MK + [弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[OD爆廻 Combo](jamie-special-move.md#od爆廻-combo)
     - 2MK + [弱推掌 Combo](jamie-special-move.md#弱推掌-combo)
@@ -101,7 +115,7 @@
     - (DR + 5MP) + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)/[5MK Combo](#5mk-combo)
     - ガード(DR + 5MP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 - ### DR 2MP Combo
-    - (DR + 2MP) + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)/[5MK Combo](#5mk-combo)
+    - (DR + 2MP) + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)/[5MP Combo](#5mp-combo)/[5MK Combo](#5mk-combo)
     - ガード(DR + 2MP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 5MK Combo
     - (DR + 5MK) + [Heavy Cancel Combo](#heavy-cancel-combo)
@@ -161,19 +175,19 @@
 
 # Cancel Combo
 - ### Heavy Cancel Combo
-    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - [酔拳 Combo](jamie-special-move.md#酔拳-combo)
     - [爆廻 Combo](jamie-special-move.md#爆廻-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)
 - ### Medium Cancel Combo
-    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - [酔拳 Combo](jamie-special-move.md#酔拳-combo)
     - [弱爆廻 Combo](jamie-special-move.md#弱爆廻-combo)/[OD爆廻 Combo](jamie-special-move.md#od爆廻-combo)
     - [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
 - ### Light Cancel Combo
-    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - [弱酔拳 Combo](jamie-special-move.md#弱酔拳-combo)/[OD酔拳 Combo](jamie-special-move.md#od酔拳-combo)
 - ### Air Cancel Combo
-    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/SA1
+    - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Air Combo](#sa1-air-combo)
     - [爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)
     - [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
 
@@ -181,9 +195,9 @@
 - ### 前投げ
     - 前投げ + [Mid 23F OKI](#mid-23f-oki)
     - #### Midscreen 前投げ
-        - 前投げ(Hold)
+        - 前投げ-酒飲み
     - #### Corner 前投げ
-        - 前投げ(Hold) + [5MK OKI](#5mk-oki-6f10f)
+        - 前投げ-酒飲み + [5MK OKI](#5mk-oki-6f10f)
 - ### 後ろ投げ
     - 後ろ投げ + [27F OKI](#27f-oki)
 
@@ -202,23 +216,26 @@
     - [5MP Combo](#5mp-combo)
     - 對手 Dリバ：看到Dリバ後，按住4
         - 5MP + 4(Hold) + [Light Attack PC Combo](#light-attack-pc-combo)
-- ### 5MP 重ね (10F/11F)
-    - 5MP + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)
-    - 對手 Dリバ：看到Dリバ後，按住4
-        - 5MP + 4(Hold) + [Light Attack PC Combo](#light-attack-pc-combo)
 - ### コマ投げ OKI (6F~8F)
     - [コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
     - [5MK OKI](#5mk-oki-6f10f)
     - delay + [5F打摔擇](#5f打摔擇-4f5f)
-- ### DR Medium OKI (19F/20F)
-    - [DR 5MK Combo](#dr-5mk-combo)
+- ### 5MP 重ね (10F/11F)
+    - 5MP + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)
+    - [5HP OKI](#5hp-oki-10f13f)
+    - 對手 Dリバ：看到Dリバ後，按住4
+        - 5MP + 4(Hold) + [Light Attack PC Combo](#light-attack-pc-combo)
+- ### 5HP OKI (10F~13F)
+    - [5HP Combo](#5hp-combo)
+- ### DR Medium OKI (16F~20F)
     - [DR 5MP Combo](#dr-5mp-combo)
+    - [DR 2MP Combo](#dr-2mp-combo)
     - [DR 2MK Combo](#dr-2mk-combo)
 - ### 19F OKI
-    - [DR Medium OKI](#dr-medium-oki-19f20f)
+    - [DR Medium OKI](#dr-medium-oki-16f20f)
     - Corner：消費(2LP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 20F OKI
-    - [DR Medium OKI](#dr-medium-oki-19f20f)
+    - [DR Medium OKI](#dr-medium-oki-16f20f)
     - Corner
         - 消費(5LP) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(2LP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
@@ -256,6 +273,7 @@
         - 消費(5MK) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(5MP) + [5MK OKI](#5mk-oki-6f10f)
         - 消費(2MK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+        - 消費(前ステ) + [5HP OKI](#5hp-oki-10f13f)
 - ### 36F OKI (35F/36F)
     - Corner
         - 消費(5MP) + [5MP 重ね](#5mp-重ね-10f11f)

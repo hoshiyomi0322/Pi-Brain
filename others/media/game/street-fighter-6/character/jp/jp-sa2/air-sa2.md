@@ -2,9 +2,9 @@
 - ### Corner 中下弾 SA2 Αir Reset
     - 裂縫 + (中風神 + 弱風神) + (裂縫 + [Corner 裂縫後 中下弾 OKI](../jp-special-move/jp-projectile.md#corner-裂縫後-中下弾-oki))
 - ### Corner JHK SA2 Αir Reset
-    - (8 + JHK) + [Corner 6HK Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-combo)/[Corner DR 6HK Combo](../jp-heavy-attack-combo/jp-6hk-combo.md)
-    - (8 + JHK) + OD裂縫 + (2HP + 中風神) + (delay + [Corner 風神 OD裂縫 Air Combo](../jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo))
-    - (8 + JHK) + [Corner 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-裂縫-投げ擇)
+    - (8 + delay + JHK) + 裂縫 + (2MP + 裂縫引爆) + [Mid Corner 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#mid-corner-裂縫引爆-combo)
+    - (8 + delay + JHK) + OD裂縫 + (2HP + 中風神) + (delay + [Corner 風神 OD裂縫 Air Combo](../jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo))
+    - (8 + delay + JHK) + [Corner 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-裂縫-投げ擇)
 - ### DI SA2 Αir Reset (對手無法反DI)
     - #### Midscreen DI SA2 Αir Reset
         - OD裂縫(弱強) + 消費(2LP + 2MK) + Reset(DI) + (後ろ歩き + [5HP Air Combo](../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo))
