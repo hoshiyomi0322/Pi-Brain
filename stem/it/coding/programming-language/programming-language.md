@@ -4,8 +4,6 @@
     - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
 - ### [Algorithm](./data-structures-and-algorithms/algorithm/algorithm.md)
     - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity.md)
-    - ### [Recursion](./data-structures-and-algorithms/algorithm/recursion.md)
-    - ### [Dynamic Programming (DP)](./data-structures-and-algorithms/algorithm/dynamic-programming.md)
 
 # Types of Programming Language
 - ### Object-Oriented Programming (OOP)

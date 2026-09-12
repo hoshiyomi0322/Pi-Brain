@@ -1,8 +1,18 @@
-# Algorithm
+# Complexity
 - ### [Complexity](complexity.md)
-- ### [Recursion](recursion.md)
-- ### [Dynamic Programming (DP)](dynamic-programming.md)
+
+# Algorithm Design Techniques
+- ### [Recursion](./algorithm-design-techniques/recursion.md)
+- ### [Dynamic Programming (DP)](./algorithm-design-techniques/dynamic-programming.md)
 - ### Greedy Algorithm
+- ### Exhaustive Algorithm (Brute Force Method)
+- ### Divide and Conquer
+    - ### Closest Pair of Points Problem
+- ### Decrease and Conquer
+- ### Transform and Conquer
+- ### Backtracking
+    - ### Eight Queens Puzzle
+- ### Branch and Bound
 
 # Sorting and Search Algorithm
 - ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm/sorting-algorithm.md)
@@ -16,10 +26,6 @@
 - ### Travelling Salesman Problem (TSP)
 - ### Knapsack problem
 
-# Exhaustive Algorithm (Brute Force Method)
-- ### Backtracking
-    - ### Eight Queens Puzzle
-- ### Branch and Bound
 
 # Euclidean Algorithm
 - ### Greatest Common Divisor (GCD)
@@ -31,15 +37,15 @@
 - ### [Primality test](./prime-number-algorithm/primality-test.md)
 
 # Optimization Algorithm
-- ### Genetic Algorithm
+- ### [Iterative Improvement]()
+
+# Heuristic Algorithm
+- ### Metaheuristic
 
 ---
-- ### Divide and Conquer
-    - ### Closest Pair of Points Problem
 - ### Randomized Algorithm
 - ### Monte Carlo method
     - ### Monte Carlo Tree Search (MCTS)
-- ### Heuristic Algorithm
 - ### Montgomery Multiplication
 - ### Sweep Line Algorithm
 - ### Shor's Algorithm
