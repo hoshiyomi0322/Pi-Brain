@@ -8,16 +8,16 @@
 - ### Input/Output Unit (I/O Unit, Peripheral Devices)
     <img src="./image/input-output-unit.png" width="55%">
 
-    - #### input devices
-    - #### output devices
-    - #### both input and output devices
+    - ### input devices
+    - ### output devices
+    - ### both input and output devices
 - ### Central Processing Unit (CPU)
-    - #### [Datapath](datapath.md)
-        - Arithmetic Logic Unit (ALU)
+    - ### [Datapath](./datapath/datapath.md)
+        - #### Arithmetic Logic Unit (ALU)
             
             <img src="./image/alu.png" width="45%">
-        - Register
-    - #### Control Unit
+        - #### Register
+    - ### Control Unit
 - ### [Memory Unit](./memory/memory.md)
 
 # Microprocessor
