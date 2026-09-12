@@ -5,7 +5,7 @@
 - ### Greedy Algorithm
 
 # Sorting and Search Algorithm
-- ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm.md)
+- ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm/sorting-algorithm.md)
 - ### [Search Algorithm](./sorting-and-search-algorithm/search-algorithm.md)
 
 # Two Pointers
