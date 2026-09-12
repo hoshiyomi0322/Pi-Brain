@@ -12,7 +12,7 @@
     git status # 查看目前檔案狀態
     ```
 - ### git add
-    - #### `git add` + [Path](../../cli/bash/bash.md#path)
+    - #### Command：`git add [option] [path]`
         ```bash
         git add file.txt # add file.txt
         git add ./folder/file.txt # add ./folder/file.txt
@@ -25,13 +25,18 @@
         |`-u`|update|
         |`-p`|patch|
 - ### git remove (rm)
-    - #### `git rm` + [Path](../../cli/bash/bash.md#path)
+    - #### Command：`git rm [option] [path]`
         ```bash
         git rm file.txt # remove file.txt
         git rm ./folder/file.txt # remove ./folder/file.txt
         git rm . # remove Current Directory
         ```
-    - 
+    - #### Options
+        |Options|Description|
+        |:---:|:---:|
+        |`-f`|Force deletion|
+        |`-r`|Recursive deletion|
+        |`--cached`|Remove files from the [Git index](git.md#staging-area-stage-index) only, keeping the local files intact.|
 - ### git commit
     ```bash
     git commit -a

@@ -75,5 +75,8 @@
     - #### Stop-and-Wait ARQ
     - #### Go-Back-N ARQ
     - #### Selective Repeat ARQ
+- ### [Address Resolution Protocol (ARP)](./other-protocol/arp.md)
+    - #### [ARP Command](/stem/it/cli/bash/bash-networking.md#address-resolution-protocol-arp-command)
+    - #### [ARP Spoofing](./other-protocol/arp.md#arp-spoofing)
 - ### [Tunneling Protocol](../tunneling/tunneling.md#tunneling-protocol)
     - #### [VPN Protocol](../tunneling/tunneling.md#vpn-protocol)

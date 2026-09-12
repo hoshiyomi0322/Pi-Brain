@@ -19,7 +19,7 @@
 # Git Workflow
 <div align="center"><img src="./image/git-workflow.png" width="70%"></div>
 
-- ### Stage
+- ### Staging Area (Stage, Index)
 - ### Add/Remove → Commit → Push
     - ### Add
     - ### Commit
