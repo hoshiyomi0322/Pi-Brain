@@ -1,8 +1,13 @@
-# Data Structure
-- ### Abstract Data Type(ADT)
-- ### [Linear Data Structure](./data-structures-and-algorithms/data-structure/linear-data-structure.md)
-- ### Graph
-- ### [Hash Table](#hash-table-1)
+# Abstract Data Type (ADT)
+
+# [Linear Data Structure](./linear-data-structure/linear-data-structure.md)
+- ### Linked List
+- ### Queue
+- ### Stack
+
+
+# [Graph](./graph/graph.md)
+- ### [Tree Data Structure](./graph/tree/tree.md)
 
 # Hash Table
 

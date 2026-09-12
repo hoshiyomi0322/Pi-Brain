@@ -34,13 +34,16 @@
 - ### Metaheuristic
 - ### [Iterative Improvement](iterative-improvement.md)
 
-# Combinatorial Optimization
-- ### Travelling Salesman Problem (TSP)
-- ### Knapsack problem
+# [Combinatorial Optimization](combinatorial-optimization.md)
+- ### [Travelling Salesman Problem (TSP)](combinatorial-optimization.md#travelling-salesman-problem-tsp)
+- ### [Knapsack problem](combinatorial-optimization.md#knapsack-problem)
 
 # Two Pointers
 - ### Left and Right Pointers
 - ### Fast and Slow Pointers
+
+# [Graph Algorithms](../data-structure/graph/graph.md#graph-algorithms)
+- ### [Tree Algorithms](../data-structure/graph/tree/tree.md#tree-algorithms)
 
 # Other Algorithm
 - ### Randomized Algorithm

@@ -43,14 +43,15 @@
 - ### Adjacency Multilist
 - ### Index Table
 
-# Eulerian Graph
-- ### Euler Path
-- ### Euler Circuit
-
-# Topological Sort
-- ### Kahn's Algorithm
 
 # Graph Algorithms
 - ### [Graph Traversal](./graph-algorithms/graph-traversal.md)
 - ### [Shortest Path Algorithm](./graph-algorithms/shortest-path-algorithm.md)
+- ### [Topological Sort](./graph-algorithms/topological-sort.md)
+- ### [Tree Algorithm](./tree/tree.md#tree-algorithm)
 
+# Graph Problems
+- ### [Eulerian Graph](./graph-problems/eulerian-graph.md)
+- ### [Hamiltonian Graph](./graph-problems/hamiltonian-graph.md)
+- ### [Graph Coloring Problem](./graph-problems/graph-coloring-problem.md)
+- ### [Travelling Salesman Problem (TSP)](../../algorithm/combinatorial-optimization.md#travelling-salesman-problem-tsp)
