@@ -46,7 +46,7 @@
         - (OD灼火派生 + 2HP) + (弱弾 + [強旋風腳 Air Combo]()/SA1)
         - (OD灼火派生 + 2HP) + (弱弾 + 弱弾 + [5F打摔擇 (後ろ歩き)]())
         - (OD灼火派生 + 5MP*2) + (弱溜め弾2 + [Corner 溜め弾後 Combo]())
-        - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + Reset(delay + DI)
+            - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + Reset(delay + DI)
             - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + [5HP Combo][Corner 4HK Combo]()
             - 對手 Parry：(OD灼火派生 + 5MP*2) + ガード(delay弾) + [投げ]()
         - (OD灼火派生 + 5MP*2) + 消費(OD溜め弾) + [5F打摔擇 (後ろ歩き)]()
