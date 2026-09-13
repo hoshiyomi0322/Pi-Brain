@@ -19,7 +19,7 @@
 - 百鬼-空插 + [2LP Combo]()/[投げ]()
 
 # 溜め弾後 Combo
-- DR + [4HK Combo]()
+- DR + [4HK Combo](../gouki-4hk-combo.md#4hk-combo)
 - Mid Near-wall：SA1
 - ### Corner 溜め弾後 Combo
     - [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()

@@ -43,8 +43,8 @@
 - ### [灼火 Combo](./gouki-special-move/gouki-adamant-flame.md)
 
 # SA2 Combo
-- ### Near-wall SA2 Combo(對手 沒有Hard Knockdown)
-    - SA2 + [General Corner 4HK Combo]()
+- ### Near-wall SA2 Combo (對手 沒有Hard Knockdown)
+    - SA2 + [4HK Air Corner Combo](gouki-4hk-combo.md#4hk-air-corner-combo)
     - WWQ SA2 Combo
         - SA2 + [Corner Air 2HP Combo]()
 
@@ -67,7 +67,12 @@
     - 5HK + [5MP Combo]()/[Close 2MP Combo]()
 - ### 5HK Air Combo
     - 5HK + [中旋風 Combo]()/SA1/[SA2 Combo]()/SA3
-    - Corner：5HK + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
+    - 5HK + (DR + 2LP + [中旋風腳 Air Combo]())
+    - 5HK + (DR + 2LP + 強灼火派生 + SA3)
+    - Corner
+        - 5HK + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/(delay + [Corner 弱昇竜 Combo]())
+        - 5HK + (DR + 2LP + delay(cancel) + [強旋風腳 Air Combo]())
+        - 5HK + (DR + 2LP) + (CDR + delay + [4HK Air Corner Combo](gouki-4hk-combo.md#4hk-air-corner-combo))
 - ### 2HK Combo 
     - 2HK
 - ### 2HK Air Combo
@@ -140,14 +145,14 @@
 # Counter Combo
 
 # PC Combo
-- 強灼火(PC) + [2HP Combo]()/[4HK Combo]()
+- 強灼火(PC) + [2HP Combo]()/[4HK Combo](gouki-4hk-combo.md#4hk-combo)
 - 5HK(PC) + [2HP Combo]()
 - ### Light Attack PC Combo
     - ガード後可以Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
     - 5LP/2LP(PC) + [5MP Combo]()/[2MP Combo]()
 - ### Medium Attack PC Combo
     - ガード後可以Medium Attack PC：[6F PC](../../street-fighter-6.md#6f-pc)、[8F PC](../../street-fighter-6.md#8f-pc)
-    - 2MP(PC) + [2HP Combo]()/[4HK Combo]()
+    - 2MP(PC) + [2HP Combo]()/[4HK Combo](gouki-4hk-combo.md#4hk-combo)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
     - 5HP PC Combo
@@ -159,9 +164,9 @@
 # DI Combo
 - ### DI PC Combo
     - DI(PC) + (8 + JHP) + [DR Air Combo]()
-    - DI(PC) + (前ステ + [4HK Combo]()/[5HP Air Combo]())
+    - DI(PC) + (前ステ + [4HK Combo](gouki-4hk-combo.md#4hk-combo)/[5HP Air Combo]())
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [Corner 6HP Air Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo]()
+    - DI(Wall spalt) + [Corner 6HP Air Combo]()/[Corner Air 2HP Combo]()/[Corner 4HK Combo](gouki-4hk-combo.md#corner-4hk-combo)
     - DI(Wall spalt) + (5MP*2 + [Corner Air OD灼火 Combo]())
     - DI(Wall spalt) + [Corner High-Air DR Combo]()
 - ### Stun Combo
@@ -184,7 +189,7 @@
 - ### JMP Air Combo
     - #### Midscreen JMP Air Combo
         - (9 + JMP + 空弾) + [Air DR Combo]()/SA1
-        - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo]()/[5HP Air Combo]())
+        - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo](gouki-4hk-combo.md#4hk-combo)/[5HP Air Combo]())
         - (9 + JMP + OD Air 旋風腳) + [強昇竜 Combo]()/SA1/[SA2 Combo]()/[弱昇竜 Combo]()
     - #### Corner JMP Air Combo
         - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
@@ -229,10 +234,10 @@
     - ### 9F 5HP 重ね
         - 5HP + [2LP Combo]()
         - [5HP Combo]()
-        - [4HK Combo]()
+        - [4HK Combo](gouki-4hk-combo.md#4hk-combo)
     - ### 12F 5HP 重ね
         - 5HP + [2MP Combo]()
-        - [4HK Combo]()
+        - [4HK Combo](gouki-4hk-combo.md#4hk-combo)
 - ### 6MP 重ね (22F/23F)
     - 6MP + [2LP Combo]()
 - ### DI OKI (25F/26F)
@@ -325,10 +330,10 @@
 
 # DR Combo
 - ### DR Air Combo
-    - DR + [4HK Combo]()/[5HP Air Combo]()
+    - DR + [4HK Combo](gouki-4hk-combo.md#4hk-combo)/[5HP Air Combo]()
     - [DR中腳 Combo]()
 - ### Corner DR High-Air Combo
-    - DR + 6MK + [Corner 4HK Combo]()
+    - DR + 6MK + [Corner 4HK Combo](gouki-4hk-combo.md#corner-4hk-combo)
     - (DR + 5HP + 5LK) + Reset(DI)
     - (DR + 5HP) + (2HP + [5F打摔擇 (バクステ)]())
 
