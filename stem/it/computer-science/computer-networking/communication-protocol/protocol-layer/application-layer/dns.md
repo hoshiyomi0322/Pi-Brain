@@ -40,3 +40,6 @@
     |.eu|European Union|
     |.jp|Japan|
     |.tw|Taiwan|
+
+# Service record (SRV record)
+
