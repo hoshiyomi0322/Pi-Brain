@@ -13,8 +13,8 @@
 
 # [Cryptography](./cryptography/cryptography.md)
 - ### [Encoding](../computer-science/data-representation/encoding.md)
-- ### Encryption
-- ### Cryptographic Hash Function
+- ### [Encryption](./cryptography/cryptography.md#encryption)
+- ### [Cryptographic Hash Function (CHF)](./cryptography/cryptographic-hash-function.md)
 - ### Cryptanalysis
 
 # Cyberattack
