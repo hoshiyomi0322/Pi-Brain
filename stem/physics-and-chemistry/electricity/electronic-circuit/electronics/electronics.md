@@ -42,6 +42,9 @@
 # Electrical Wiring and Cable
 - ### DuPont Jumper Wire
 
+# Breadboard
+<div align="center"><img src="./image/breadboard.png" width="80%"></div>
+
 # Circuit Board
 - ### Printed Circuit Board (PCB)
     - ### High Density Interconnect PCB (HDI PCB)
