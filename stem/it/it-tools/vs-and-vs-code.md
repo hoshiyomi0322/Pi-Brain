@@ -6,6 +6,12 @@
 # Shortcuts
 - ### [Editor Shortcuts](../keyboard-shortcuts.md#editor-shortcuts)
 - ### [Browser Shortcuts](../keyboard-shortcuts.md#browser-shortcuts)
+- ### General
+    |Shortcuts|Function|
+    |:---:|:---:|
+    |`Ctrl + P`|Quick Open, Go to File|
+    |`Ctrl + Shift + P`, `F1`|Show Command Palette|
+    |`Ctrl + ,`|User Settings|
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|
