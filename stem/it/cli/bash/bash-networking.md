@@ -70,6 +70,8 @@
 # Traceroute
 - ### Command：`traceroute`
 
+# Name Server Lookup (nslookup)
+- ### Command：`nslookup`
 
 # DIRB (Web Content Scanner)
 - ### Command：`dirb`
