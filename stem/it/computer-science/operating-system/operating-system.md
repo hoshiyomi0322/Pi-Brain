@@ -14,7 +14,4 @@
 - ### [File System](file-system.md)
 
 # Operating System Structures (OS Structures)
-- ### Simple architecture
-- ### Layered architecture
-- ### Microkernel architecture
-- ### Modular architecture
+- ### [Operating System Structures (OS Structures)](os-structures.md)

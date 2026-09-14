@@ -5,10 +5,11 @@
 |Path|Description|
 |:---:|:---:|
 |`/`|Root Directory or Path Separator|
-|`~`|Current User's Home Directory|
 |`.`|Current Directory|
 |`..`|Parent Directory|
-- ### eg
+|`~`|Current User's Home Directory|
+|`~username`|`username`'s Home Directory|
+- ### Example
     ```bash
     # Current Path：/Root/1/2/3/4/4-1.txt
     
@@ -23,6 +24,12 @@
     ../3-1.txt # /Root/1/2/3/3-1.txt
     ../../../1-1.txt # /Root/1/1-1.txt
     ```
+
+# Brace Expansion
+|Brace|Description|
+|:---:|:---:|
+|`{}`|
+||
 
 # Basic
 ```bash
