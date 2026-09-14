@@ -33,3 +33,18 @@
     command -a -b -c # Original
     command -abc # Combining Short Options
     ```
+
+# Globbing
+|Character|Definition|Example|
+|:---:|:---:|:---:|
+|`*`|zero or more characters|(`*` match `a.txt`, `sui.jpg`, `ken.md`, ...)<br>(`a*.txt` match `a.txt`, `a1.txt`, `a-a.txt`, `a 322.txt`, ...)|
+|`?`|one character|(`a?.txt` match `a1.txt`, `aa.txt`, `a_.txt`,...)|
+|`[]`|any one character enclosed within the brackets|(`a[AB6].txt` match `aA.txt`, `aB.txt`, `a6.txt`)<br>(`a[a-c3-5].txt` match `aa.txt`, `ab.txt`, `ac.txt`, `a3.txt`, `a4.txt`, `a5.txt`)|
+|`[!]`|any one character not enclosed in the brackets|(`a[AB6].txt` match `aa.txt`, `a3.txt`, `a*.txt`)<br>(`a[a-c3-5].txt` match `a1.txt`, `aA.txt`, `ad.txt`, `a_.txt`, ...)|
+- ### Recursive Globbing：recursively match all as and folders
+    |Character|Definition|Example|
+    |:---:|:---:|:---:|
+    |`**/`|match file or folder at any level|(`**/a/` match `a/`, `src/a/`, `root/src/dir/a/`, ...)<br>(`**/a.txt` match `a.txt`, `src/a.txt`, `root/src/dir/a.txt`, ...)<br>(`**/a*.txt` match `abc.txt`, `src/a1.txt`, `root/src/dir/a.txt`, ...)|
+    |`/**`|match everything inside a specific directory|`src/**` match `src/a/`, `src/sui.jpg`, `src/dir/35.txt`, ...|
+    |`**/*`|match everything at any level within the hierarchy|`**/*` match `ab/`, `src/sui/`, `root/src/35.jpg`, ...|
+

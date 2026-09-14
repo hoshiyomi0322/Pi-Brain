@@ -2,11 +2,12 @@
 
 
 # Path
-```bash
-/ # Root Directory or Path Separator
-. # Current Directory
-.. # Parent Directory
-```
+|Path|Description|
+|:---:|:---:|
+|`/`|Root Directory or Path Separator|
+|`~`|Current User's Home Directory|
+|`.`|Current Directory|
+|`..`|Parent Directory|
 - ### eg
     ```bash
     # Current Path：/Root/1/2/3/4/4-1.txt
@@ -44,14 +45,8 @@ kill
 free
 ```
 
-# File
-```bash
-cd
-ls # List
-mv # Move
-rm # Remove
-cp # Copy
-```
+# File Command in Bash
+- ### [File Command in Bash](file-command-in-bash.md)
 
 # Advanced Package Tool (APT)
 ```bash
@@ -64,8 +59,8 @@ sudo apt remove <package-name>
 # fdisk
 
 
-# Networking
-- ### [Networking](bash-networking.md)
+# Networking Command in Bash
+- ### [Networking Command in Bash](networking-command-in-bash.md)
 
 # Linux Development Tools
 - ### [Vi IMproved (Vim)](./linux-development-tools/vim.md)

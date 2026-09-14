@@ -8,7 +8,7 @@
     - #### [GNU C Compiler (gcc)](#gnu-c-compiler-gcc-1)
     - #### [GNU C++ Compiler (g++)](#gnu-c-compiler-g-1)
     - ### [make](#make-1)
-- ### Execute：`<path>`
+- ### Execute：`<executable code>`
     ```bash
     ./main # Path of Executable code
     ```
