@@ -12,3 +12,9 @@
     - ### [Contiguous Memory Management Scheme](./memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
     - ### [Non-Contiguous Memory Management Scheme](./memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)
 - ### [File System](file-system.md)
+
+# Operating System Structures (OS Structures)
+- ### Simple architecture
+- ### Layered architecture
+- ### Microkernel architecture
+- ### Modular architecture
