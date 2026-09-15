@@ -52,29 +52,31 @@
 - ### Command
     |Command|Description|Example|
     |:---:|:---:|:---:|
-    |`rm [options...] [files...]`|Remove files|`rm -f a.txt`|
-    |`rm -r [options...] [folder]`|Recursively remove a folder|`rm -rf a/`, `rm -rf a/b/`, `rm -rf /`|
+    |`rm [options...] [files...]`|Remove files|`rm sui.jpg`, `rm -f a.txt`|
+    |`rm -r [options...] [folder]`|Recursively remove a folder|`rm -r a/`, `rm -rf a/b/`, `rm -rf /`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
     |`-f`|Force remove|
     |`-i`||
 
-# Make Directory (mkdir)
-- ### Command：`mkdir [options...] [folder]`
-- ### Options
-    |Options|Description|
-    |:---:|:---:|
-    |``||
-
-# Remove Directory (rmdir)
-- ### Command：`rmdir [options...]`
+# Make Directory (mkdir)：create empty folders
+- ### Command：`mkdir [options...] [folders...]`
+    - Example：`mkdir a/`, `mkdir a/ b/c/ d/`
 - ### Options
     |Options|Description|
     |:---:|:---:|
     |`-p`||
 
-# Touch
+# Remove Directory (rmdir)：remove folders, which must be empty
+- ### Command：`rmdir [options...] [folders...]`
+    - Example：`rmdir a/`, `rmdir a/ b/c/ d/`
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`-p`||
+
+# Touch：create empty files or change file timestamps if it exists
 - ### Command：`touch [options...] [files...]`
 - ### Options
     |Options|Description|

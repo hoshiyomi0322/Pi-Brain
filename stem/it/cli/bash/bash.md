@@ -1,5 +1,10 @@
 # Operator
-
+- ### Redirection Operators
+    |Operators|Description|
+    |`>`||
+    |`>>`||
+    |`<`||
+    |`<<`||
 
 # Path
 |Path|Description|
@@ -26,10 +31,19 @@
     ```
 
 # Brace Expansion
-|Brace|Description|
-|:---:|:---:|
-|`{}`|
-||
+|Brace|Description|Example|
+|:---:|:---:|:---:|
+|`{}`|Combinations of multiple independent strings|`{a,b,c}`, `{,sui}`, `s/c/{1,2}.txt`, `{A{1,2},b}{c,d}`|
+|`{..}`|Sequences of numbers or letters with a specified range|`{a..c}`, `{3..5}`|
+- ### Example
+    ```bash
+    echo {a{1,2},b,c} # echo a1 a2 b c
+    echo {A..C}{1,2} # echo A1 A2 B1 B2 C1 C2
+    echo {a,b}{1,2}{c,d} # echo a1c a1d a2c a2d b1c b1d b2c b2d
+    cp file{,_copy}.txt # cp file.txt file_copy.txt
+    rm s/g/f/{a,b}.jpg # rm s/g/f/a.jpg s/g/f/b.jpg
+    mv f/m/{a,b}{1,2} src/ # mv f/m/a1 f/m/a2 f/m/b1 f/m/b2 src/
+    ```
 
 # Basic
 ```bash

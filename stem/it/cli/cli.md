@@ -10,6 +10,12 @@
 # Termux
 - ### [Termux](termux.md)
 
+# CLI Shortcuts
+|Shortcuts|Function|
+|:---:|:---:|
+|`Ctrl + C`|Interrupt the currently running process or command|
+|`↑/↓`|Navigate through command history (previous/next command)|
+
 # Command Format
 |Notation Syntax|Definition|Example|
 |:---:|:---:|:---:|
