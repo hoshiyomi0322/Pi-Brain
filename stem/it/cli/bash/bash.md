@@ -77,11 +77,13 @@ sudo apt install <package-name>
 sudo apt remove <package-name>
 ```
 
-# fdisk
-
-
 # Networking Command in Bash
 - ### [Networking Command in Bash](networking-command-in-bash.md)
+
+# fdisk
+
+# Compress and Extract in Bash
+- ### [Compress and Extract in Bash](compress-and-extract-in-bash.md)
 
 # Linux Development Tools
 - ### [Vi IMproved (Vim)](./linux-development-tools/vim.md)
