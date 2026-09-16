@@ -14,9 +14,9 @@
 |NOT|$`\overline{A},~A^\prime`$|<img src="./image/not.png" width="50%">|
 |AND|$`A\cdot B`$|<img src="./image/and.png" width="50%">|
 |OR|$`A+B`$|<img src="./image/or.png" width="50%">|
-|Exclusive OR (XOR)|$`A\oplus B`$|<img src="./image/xor.png" width="50%">|
 |NAND|$`\overline{A\cdot B}`$|<img src="./image/nand.png" width="50%">|
 |NOR|$`\overline{A+B}`$|<img src="./image/nor.png" width="50%">|
+|Exclusive OR (XOR)|$`A\oplus B`$|<img src="./image/xor.png" width="50%">|
 |Exclusive NOR (XNOR)|$`A\odot B,~\overline{A\oplus B}`$|<img src="./image/xnor.png" width="50%">|
 - ### Truth Table
     |$`A`$|$`B`$|$`A`$<br>(Buffer)|$`\overline{A}`$<br>(NOT)|$`A\cdot B`$<br>(AND)|$`A+B`$<br>(OR)|$`A\oplus B`$<br>(XOR)|$`\overline{A\cdot B}`$<br>(NAND)|$`\overline{A+B}`$<br>(NOR)|$`A\odot B`$<br>(XNOR)|

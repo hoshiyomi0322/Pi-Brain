@@ -54,7 +54,7 @@
 - ### Complement Laws
     - $`A\cup A^\prime=U`$
     - $`A\cap A^\prime=\emptyset`$
-- ### De Morgan's Laws
+- ### [De Morgan's Laws](../mathematical-logic/mathematical-logic.md#de-morgans-laws)
     - $`\left(A\cap B\right)^\prime=A^\prime\cup B^\prime`$
         
         <img src="./image/de-morgans-laws-1.png" width="30%">
