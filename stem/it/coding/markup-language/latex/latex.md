@@ -224,6 +224,14 @@
     |Logical OR|$`\lor`$|`\lor`, `\vee`|
     |Logical XOR|$`\veebar`$|`\veebar`|
     |Logical NAND|$`\barwedge`$|`\barwedge`|
+- ### Tack Symbol
+    |Name|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |Up Tack Symbol|$\bot$|`\bot`|
+    |Down Tack Symbol|$\top$|`\top`|
+    |Right Tack Symbol, Turnstile|$\vdash$|`\vdash`|
+    |Left Tack Symbol|$\dashv$|`\dashv`|
+    |Double Turnstile|$\vDash$|`\vDash`|
 - ### [LaTex Arrow Symbol](latex-arrow-symbol.md)
 
 # Operator

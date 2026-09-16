@@ -5,6 +5,10 @@
     - #### High-Order Logic
 - ### Proof Theory
 
+# Truth Value (Logical Value)
+- ### True (T, $`\top`$)
+- ### False (F, $`\bot`$)
+
 # Logical Connective (Logical Operator)
 |Name|Symbol|Definition|Venn Diagram|
 |:---:|:---:|:---:|:---:|
@@ -29,9 +33,40 @@
     - $`x=2+y\iff y=2+x`$
     - $`x=2\implies x^2=4`$
 
-# Logical equivalences
+# Logical Equivalences
+- ### Commutative Laws
+    - $`p\land q \equiv q\land p`$
+    - $`p\lor q \equiv q\lor p`$
+- ### Associative Laws
+    - $`\left(p\land q\right) \land r \equiv p \land \left(q\land r\right)`$
+    - $`\left(p\lor q\right) \lor r \equiv p \lor \left(q\lor r\right)`$
+- ### Distributive Laws
+    - $`\left(p\land q\right) \lor r \equiv \left(p \lor r\right) \land \left(q \lor r\right)`$
+    - $`\left(p\lor q\right) \land r \equiv \left(p \land r\right) \lor \left(q \land r\right)`$
+- ### Absorption Laws
+    - $`\left(p\land q\right) \lor p \equiv p`$
+    - $`\left(p\lor q\right) \land p \equiv p`$
+- ### Domination Laws
+    - $`p\lor T \equiv T`$
+    - $`p\land F \equiv F`$
+- ### Identity Laws
+    - $`p\land T \equiv p`$
+    - $`p\lor F \equiv p`$
+- ### Idempotent Laws
+    - $`p\lor p \equiv p`$
+    - $`p\land p \equiv p`$
+- ### Negation Laws
+    - $`p\lor \neg p \equiv T`$
+    - $`p\land \neg p \equiv F`$
+- ### Double Negation Laws
+    - $`\neg \left(\neg p \right) \equiv P`$
 - ### De Morgan's Laws
-    - 
+    - $`\neg \left(p \land q\right) \equiv \neg p\lor \neg q`$
+        
+        <img src="./image/de-morgans-laws-1.png" width="30%">
+    - $`\neg \left(p \lor q\right) \equiv \neg p\land \neg q`$
+        
+        <img src="./image/de-morgans-laws-2.png" width="30%">
 - ### XOR：$`A\oplus B \equiv \left(\overline{A}\land B\right) \lor \left(A\land\overline{B}\right)`$
 - ### XNOR：$`A\odot B \equiv \overline{A\oplus B} \equiv \left(A\land B\right) \lor \left(\overline{A}\land\overline{B}\right)`$
 - ### XNOR = Equivalence

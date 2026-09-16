@@ -36,22 +36,24 @@
 - ### Transitive
 
 # Properties of Sets
-- ### Commutative Law
+- ### Commutative Laws
     - $`A\cap B=B\cap A`$
     - $`A\cup B=B\cup A`$
-- ### Associative Law
+- ### Associative Laws
     - $`\left(A\cap B\right)\cap C=A\cap\left(B\cap C\right)`$
     - $`\left(A\cup B\right)\cup C=A\cup\left(B\cup C\right)`$
-- ### Distributive Law
+- ### Distributive Laws
     - $`\left(A\cap B\right)\cup C=\left(A\cup C\right)\cap\left(B\cup C\right)`$
     - $`\left(A\cup B\right)\cap C=\left(A\cap C\right)\cup\left(B\cap C\right)`$
-- ### Idempotent Law
-    - $`A\cup A=A\cap A=A`$
-- ### Identity Law
-    - $`A\cap U=A\cup\emptyset=A`$
-- ### Complement Law
-    - $`A\cap A^\prime=\emptyset`$
+- ### Identity Laws
+    - $`A\cap U = A`$
+    - $`A\cup\emptyset = A`$
+- ### Idempotent Laws
+    - $`A\cup A = A`$
+    - $`A\cap A = A`$
+- ### Complement Laws
     - $`A\cup A^\prime=U`$
+    - $`A\cap A^\prime=\emptyset`$
 - ### De Morgan's Laws
     - $`\left(A\cap B\right)^\prime=A^\prime\cup B^\prime`$
         
