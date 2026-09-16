@@ -146,19 +146,28 @@
 
 # PC Combo
 - 強灼火(PC) + [2HP Combo]()/[4HK Combo](gouki-4hk-combo.md#4hk-combo)
-- 5HK(PC) + [2HP Combo]()
 - ### Light Attack PC Combo
     - ガード後可以Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
     - 5LP/2LP(PC) + [5MP Combo]()/[2MP Combo]()
 - ### Medium Attack PC Combo
-    - ガード後可以Medium Attack PC：[6F PC](../../street-fighter-6.md#6f-pc)、[8F PC](../../street-fighter-6.md#8f-pc)
-    - 2MP(PC) + [2HP Combo]()/[4HK Combo](gouki-4hk-combo.md#4hk-combo)
+    - #### 2MP PC Combo
+        - ガード後可以Medium Attack PC：[6F PC](../../street-fighter-6.md#6f-pc)、[8F PC](../../street-fighter-6.md#8f-pc)
+        - 2MP(PC) + [2HP Combo]()
+    - #### 5MK PC Combo
+        - Close：5MK(PC) + [2MP Combo]()
+        - Far：[5MK Combo]()
+    - #### 6MK PC Combo
+        - Mid：6MK(PC) + [2HP Combo]()
+        - Far：6MK(PC) + [5HP Combo]()
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
-    - 5HP PC Combo
-        - [5HP Combo]()
+    - #### 5HP PC Combo
         - Close：[5HP Combo]()(PC) + [2MP Combo]()
-    - 2HK PC Combo
+        - Far：[5HP Combo]()
+    - #### 5HK PC Combo
+        - Mid：5HK(PC) + [2HP Combo]()
+        - Far：5HK(PC) + [5HP Combo]()
+    - #### 2HK PC Combo
         - 2HK(PC) + [Close 47F OKI](#close-47f-oki)
 
 # DI Combo
