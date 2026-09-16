@@ -25,8 +25,15 @@
     |T|F|F|F|T|T|T|F|F|F|T|F|
     |F|T|T|F|T|T|T|F|F|F|T|T|
     |F|F|T|F|F|F|T|T|T|T|F|T|
-- ### XNOR = Equivalence
-    - #### XOR = Nonequivalence
-- eg
+- ### Example
     - $`x=2+y\iff y=2+x`$
     - $`x=2\implies x^2=4`$
+
+# Logical equivalences
+- ### De Morgan's Laws
+    - 
+- ### XOR：$`A\oplus B \equiv \left(\overline{A}\land B\right) \lor \left(A\land\overline{B}\right)`$
+- ### XNOR：$`A\odot B \equiv \overline{A\oplus B} \equiv \left(A\land B\right) \lor \left(\overline{A}\land\overline{B}\right)`$
+- ### XNOR = Equivalence
+- ### XOR = Nonequivalence
+

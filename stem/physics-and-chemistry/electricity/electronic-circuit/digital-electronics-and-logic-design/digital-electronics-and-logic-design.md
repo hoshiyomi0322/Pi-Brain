@@ -27,7 +27,7 @@
     |0|0|0|1|0|0|0|1|1|1|
 
 # Properties
-- ### [De Morgan's laws](/stem/math/discrete-mathematics/set-theory/set-theory.md#de-morgans-laws)
+- ### [De Morgan's laws](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#de-morgans-laws)
     - NAND：$`\overline{A\cdot B}=\overline{A}+\overline{B}`$
     - NOR：$`\overline{A+B}=\overline{A}\cdot\overline{B}`$
 - ### XOR：$`A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}`$
