@@ -17,12 +17,16 @@
 # 酔拳 Combo
 - ### 弱酔拳 Combo
     - 弱醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[31F OKI](jamie.md#31f-oki-31f32f)
+    - 弱醉腳二派生
 - ### 中酔拳 Combo
     - 中醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[31F OKI](jamie.md#31f-oki-31f32f)
+    - 中醉腳二派生
 - ### 強酔拳 Combo
     - 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[31F OKI](jamie.md#31f-oki-31f32f)
+    - 強醉腳二派生
 - ### OD酔拳 Combo
     - OD醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[34F OKI](jamie.md#34f-oki-33f34f)
+    - OD醉腳二派生
 
 # 強酔拳 Air Combo
 - 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[34F OKI](jamie.md#34f-oki-33f34f)
