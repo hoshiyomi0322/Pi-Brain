@@ -22,6 +22,7 @@
 - ### Telnet：Remote login to hosts
 - ### Remote Shell (rsh)
 - ### Remote Desktop
+- ### [Model Context Protocol (MCP)](./application-layer/mcp.md)
 
 # Transport layer
 - ### [TCP](transport-layer/tcp.md), [UDP](transport-layer/udp.md)
