@@ -6,7 +6,9 @@
 |`ip link`|Show/manage IP network interfaces|
 
 # Ping
-- ### Command：`ping <Destination> [options...]`
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`ping <Destination> [options...]`|Test network connectivity to `destination`|`ping google.com`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
@@ -22,8 +24,10 @@
 |`arp -s <IP> <MAC>`||
 |`arp -d <IP>`||
 
-# Client URL (cURL)：Fetch content from URL
-- ### Command：`curl [options...] <URL>`
+# Client URL (cURL)
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`curl [options...] <URL>`|Fetch content from URL|`curl google.com`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
