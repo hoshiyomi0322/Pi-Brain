@@ -2,7 +2,7 @@
 - ### [Supervised Learning](./types-of-machine-learning/supervised-learning.md)
 - ### [Unsupervised Learning](./types-of-machine-learning/unsupervised-learning.md)
 - ### Self-Supervised Learning
-- ### [Reinforcement Learning (RL)](./types-of-machine-learning/reinforcement-learning.md)
+- ### [Reinforcement Learning (RL)](./types-of-machine-learning/reinforcement-learning/reinforcement-learning.md)
 
 # Deep Learning
 - ### [Deep Learning](./deep-learning/deep-learning.md)
