@@ -311,6 +311,7 @@
 # [対空](../street-fighter-6.md#anti-air)
 - [昇竜 Combo](jamie-special-move.md#昇竜-combo)
 - 2HP + [5MK OKI](#5mk-oki-6f10f)
+- [JHK Air Combo](#jhk-air-combo)
 
 # todo
 - https://youtube.com/@%E6%B7%B1%E7%94%B0%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%9F
