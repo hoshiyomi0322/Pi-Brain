@@ -13,6 +13,7 @@
     - (DR + 4HP) + delay(cancel) + (弱迅雷delay弱派生 + [4HP Air Combo](#4hp-air-combo)/[SA1 Combo](../sagat.md#sa1-combo)/[SA2 Combo](../sagat.md#sa2-combo))
     - (DR + 4HP) + (中迅雷 + [4HP High-Air Combo](sagat-4hp-combo.md#4hp-high-air-combo))
     - (DR + 4HP) + (中迅雷強派生 + 6HK + 中昇竜) + [6MP 重ね](../sagat.md#6mp-重ね-22f23f)
+    - (DR + 4HP) + (中迅雷強派生 + 強Tiger-knee + [弱昇竜 Air Combo](../sagat-special-move.md#弱昇竜-air-combo))
 
 # 4HP Air Combo
 - 4HP + [溜め強昇竜 Combo](../sagat-special-move.md#溜め強昇竜-combo)
