@@ -4,7 +4,8 @@
 - SA2 + ガード(2LP + 2MK/2HK + 2MK/6MK + 2LP) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
     - SA2 + ガード(2LP) + 2MK/2HK + (5HP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
     - SA2 + ガード(2LP + 2MK/2HK) + 2MK + (強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-    - SA2 + ガード(2LP + 2MK/2HK) + 6MK + (5HP + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo))/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
+    - Midscreen：SA2 + ガード(2LP + 2MK) + 6MK + (5HP + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo))
+    - Corner：SA2 + ガード(2LP + 2MK) + 6MK + (5HK + [Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo))
 - ### 對手 Parry
     - SA2 + ガード(2LP) + (前ステ + delay)/DR + [投げ](../jp.md#投げ)
 - ### 對手 Dリバ
@@ -19,6 +20,15 @@
     - SA2 + (当身/OD当身 + 2MK) + OD裂縫(中強) + (5HP + 中弾) + (delay(等第2個裂縫引爆) + [SA1 Combo](../jp.md#sa1-combo))
     - SA2 + (当身/OD当身 + 2MK) + 強裂縫 + (5HP + 裂縫引爆 + 中風神/[SA1 Combo](../jp.md#sa1-combo))
 
+# ガード JHP SA2 Combo
+- SA2 + 9 + ガード(JHP + 2MK/6MK + 2MK) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
+    - SA2 + 9 + JHP + (5HP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
+    - SA2 + 9 + ガード(JHP) + 2MK + (強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
+    - Midscreen：SA2 + 9 + ガード(JHP) + 6MK + (5HP + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo))
+    - Corner：SA2 + 9 + ガード(JHP) + 6MK + (強裂縫 + 5MK + 裂縫引爆 + [Mid Corner 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+- 對手 Parry：SA2 + (9 + [投げ](../jp.md#投げ))
+
+
 # 2LP ガード SA2 Combo
 - SA2 + 前投げ + [5HP Air Combo](../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo)
 - ### C-Switch 2LP ガード SA2
@@ -30,10 +40,7 @@
     - SA2 + 前ステ + ガード(2HK + 2MP + 2MK) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
         - SA2 + 前ステ + ガード(2HK) + 2MP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)
         - SA2 + 前ステ + ガード(2HK + 2MP) + 2MK + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
-    - SA2 + 9 + ガード(JHP + 2MK*2)
-        - SA2 + 9 + JHP + (5HP + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-        - SA2 + 9 + ガード(JHP) + 2MK + (強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-        - 對手 Parry：SA2 + (9 + [投げ](../jp.md#投げ))
+    - [ガード JHP SA2 Combo](#ガード-jhp-sa2-combo)
     - #### Close Midscreen OD弾 ガード SA2 Combo
         - SA2 + OD裂縫(中強) + (裂縫傳送(中) + JHP + 2HP) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)
         - SA2 + OD裂縫(中強) + (裂縫傳送(中) + JHP + 2HP) + [Midscreen 風神 OD裂縫 2裂縫 Air Combo](../jp-special-move/jp-departure/jp-od-departure-air-combo.md#midscreen-風神-od裂縫-2裂縫-air-combo)(without first delay)
@@ -71,11 +78,6 @@
 - SA2 + (裂縫傳送(弱) + JHP + 2HP) + 裂縫傳送 + [Midscreen OD裂縫擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-od裂縫擇)
 
 # BTW 後ろ投げ ガード SA2 Combo
-- SA2 + 9 + ガード(JHP + 2MK/6MK + 2MK) + [強TC Combo](../jp.md#強tc-combo)/[Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
-    - SA2 + 9 + JHP + (5HP + 裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-    - SA2 + 9 + ガード(JHP) + 2MK + (裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo))
-    - SA2 + 9 + ガード(JHP) + 6MK + [Corner 6HK 強風神 Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
-- ### 對手 Parry
-    - SA2 + 9 + [投げ](../jp.md#投げ)
+- [ガード JHP SA2 Combo](#ガード-jhp-sa2-combo)
 - ### 對手 パナシ
     - SA2 + 9 + ガード(JHP) + (裂縫 + 中風神*2) + (delay(等裂縫引爆) + [Corner Highest-Air 地刺 Combo](../jp-special-move/jp-special-move.md#corner-地刺-highest-air-combo))

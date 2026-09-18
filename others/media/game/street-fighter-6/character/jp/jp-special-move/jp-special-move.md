@@ -19,7 +19,7 @@
     - 地刺 + [Corner SA1 Combo](../jp.md#corner-sa1-combo)/SA3
     - 地刺 + [Corner 地刺 OD裂縫擇](./jp-departure/jp-departure-mix-up.md#corner-地刺-od裂縫擇)
 - ### Corner 地刺 High-Air Combo
-    - 地刺 + [Corner SA1 Combo](../jp.md#corner-sa1-combo)/[弱風神 Combo](jp-stribog.md#弱風神-combo)
+    - 地刺 + [Corner SA1 Combo](../jp.md#corner-sa1-combo)/[Corner 弱風神 Air Combo](jp-stribog.md#corner-弱風神-air-combo)
     - 地刺 + [Corner 地刺 裂縫擇](./jp-departure/jp-departure-mix-up.md#corner-地刺-裂縫擇)/[Corner 地刺 OD裂縫擇](./jp-departure/jp-departure-mix-up.md#corner-地刺-od裂縫擇)
 - ### Corner 地刺 Highest-Air Combo
     - 地刺 + [Corner SA1 Combo](../jp.md#corner-sa1-combo)/(地刺 + SA3)

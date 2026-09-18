@@ -1,6 +1,6 @@
 # 弾 Combo
 - Far：弾 + [Midscreen 強地刺 Combo](jp-special-move.md#midscreen-強地刺-combo)
-- Close：中弾/強弾 + (5LK + [弱風神 Combo]())
+- Close：中弾/強弾 + (5LK + [弱風神 Combo](jp-stribog.md#弱風神-combo))
 
 # 弱弾 Combo
 - ### Midscreen 弱弾 Combo

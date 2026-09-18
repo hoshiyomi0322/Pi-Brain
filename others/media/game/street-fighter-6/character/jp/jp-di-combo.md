@@ -16,6 +16,7 @@
     - DI(PC) + (8 + JHK) + (前歩き + [Corner 6HK 中風神 Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
     - DI(PC) + (前ステ + 5HP + 中風神) + [Corner 5HP Air Combo](./jp-heavy-attack-combo/jp-hp-combo.md#corner-5hp-air-combo)
     - DI(PC) + (OD裂縫(中強) + 2LP + 中風神) + 消費(前ステ/2MK) + [Corner 風神 OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo)/[Corner OD裂縫 Air Reset](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-od裂縫-air-reset)
+    - DI(PC) + (OD裂縫(中強) + 2LP + 弱風神) + 消費(5HP) + [Corner OD裂縫F式 OKI](jp.md#corner-od裂縫f式-oki-82f)
 - ### BTW DI PC Combo
     - DI(PC) + (OD裂縫(中強) + 2LP + 中風神) + 前ステ + [Midscreen 風神 OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#midscreen-風神-od裂縫-air-combo)/[BTW OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#btw-od裂縫-air-combo)
     - DI(PC) + (OD裂縫(弱中) + 2LP + 裂縫引爆) + [OD裂縫 6HK Extension Combo](#od裂縫-6hk-extension-combo)

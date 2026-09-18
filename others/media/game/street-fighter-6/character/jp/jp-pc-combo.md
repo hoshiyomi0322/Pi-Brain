@@ -19,6 +19,7 @@
     - 5HK(PC) + [Corner 6HK 強風神 Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-強風神-combo)
     - 5HP(PC) + OD裂縫(中強) + (5MK + 中風神) + (delay + [Corner 風神 OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-風神-od裂縫-air-combo))
     - 5HP(PC) + OD裂縫(中強) + (5MK + 弱弾) + [Corner 弱弾 OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#corner-弱弾-od裂縫-air-combo)
+    - 5HP(PC) + OD裂縫(中強) + (5MK + 弱風神) + 消費(バクステ) + [Corner OD裂縫F式 OKI](jp.md#corner-od裂縫f式-oki-82f)
 - ### Close BTW Heavy Attack PC Combo
     - 5HP(PC) + OD裂縫(弱強) + (5MK + 中風神) + (delay + [BTW OD裂縫 Air Combo](./jp-special-move/jp-departure/jp-od-departure-air-combo.md#btw-od裂縫-air-combo))
     - #### Close C-Switch Heavy Attack PC Combo
