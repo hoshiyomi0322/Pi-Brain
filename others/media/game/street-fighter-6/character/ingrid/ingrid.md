@@ -73,10 +73,19 @@
         - 6MP + [2LP Combo](#2lp-combo)
     - #### 23F 6MP 重ね
         - 6MP + [5MP Combo](#5mp-combo)
-- ### 弾 OKI
+- ### DR 5HK OKI (20F~25F)
+    - [DR 5HK Combo](#dr-5hk-combo)
+- ### 弾 OKI (20F~21F)
+    - [DR 5HK OKI]()
     - 弱弾 + [DR 5HK Combo](#dr-5hk-combo)
     - 對手 前ジャンプ：弱弾 + [弱昇竜 Combo](ingrid-special-move.md#弱昇竜-combo)
     - 對手 Parry：強溜め弾 + [投げ](#投げ)
+- ### DI OKI (25F/26F)
+    - DI
+    - [DR 5HK OKI]()
+- ### 25F OKI
+    - [DI OKI](#di-oki-25f26f)
+    - 前ステ+ [5F打摔擇](#5f打摔擇-4f5f)
 
 # Dリバ
 - Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
