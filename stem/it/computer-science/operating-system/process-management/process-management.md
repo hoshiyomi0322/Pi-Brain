@@ -31,6 +31,7 @@
 - ### context switch：exchange of register information
 
 # Inter-Process Communication (IPC)
+- ### [Inter-Process Communication (IPC)](inter-process-communication.md)
 
 # Thread
 - ### user thread

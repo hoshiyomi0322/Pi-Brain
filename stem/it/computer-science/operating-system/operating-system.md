@@ -6,7 +6,7 @@
     - #### eg：iOS
 
 # Operating System
-- ### [Process Management](process-management.md)
+- ### [Process Management](process-management/process-management.md)
 - ### [Scheduling](scheduling.md)
 - ### [Memory Management](./memory-management/memory-management.md)
     - ### [Contiguous Memory Management Scheme](./memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)

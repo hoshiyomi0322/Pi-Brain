@@ -29,7 +29,7 @@
 - ### [Cloud Computing](./distributed-computing/cloud-computing.md)
 
 # [Operating System](./operating-system/operating-system.md)
-- ### [Process Management](./operating-system/process-management.md)
+- ### [Process Management](./operating-system/process-management/process-management.md)
 - ### [Scheduling](./operating-system/scheduling.md)
 - ### [Memory Management](./operating-system/memory-management/memory-management.md)
     - ### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
