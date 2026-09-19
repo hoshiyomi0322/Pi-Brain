@@ -38,11 +38,16 @@
 
 # [GitHub Web Editor](https://github.dev/)
 - ### How to Access
-    - ### Replace `.com` with `.dev` in the URL
+    - #### Replace `.com` with `.dev` in the URL
         - `https://github.com/user/repo` → `https://github.dev/user/repo`
         - eg：`https://github.dev/hoshiyomi0322/Pi-Brain`
-    - ### Keyboard Shortcut：Press the `.` key on any repository or pull request.
-    - ### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
+    - #### Keyboard Shortcut：Press the `.` key on any repository or pull request.
+    - #### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
         <img src="./image/github-web-editor.png" width="25%">
 - ### Environment：[VS Code](../vs-and-vs-code.md)
 
+# GitHub Tools
+- ### GitDiagram：visualize any repository
+    - How to Access：Replace `github.com` with `gitdiagram.com` in the URL
+- ### Gitingest：turn any repository into a prompt for LLMs
+    - How to Access：Replace `github.com` with `gitingest.com` in the URL
