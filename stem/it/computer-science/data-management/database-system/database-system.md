@@ -36,3 +36,6 @@
 - ### Read
 - ### Update
 - ### Delete
+
+# Non-relational Database (Not Only SQL, NoSQL)
+

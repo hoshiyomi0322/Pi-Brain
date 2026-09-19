@@ -99,10 +99,10 @@
 - ### [History of the Internet](history-of-the-internet.md)
 
 # Web Service
-- ### Representational State Transfer (REST, RESTful)
-- ### Remote Procedure Call (RPC)
-- ### Simple Object Access Protocol (SOAP)
-- ### Web Services Description Language (WSDL)
+- ### [Representational State Transfer (REST, RESTful)](/stem/it/software-development/software-architectural-style/restful.md)
+- ### [Remote Procedure Call (RPC)](/stem/it/software-development/software-architectural-style/rpc.md)
+- ### [Simple Object Access Protocol (SOAP)](./communication-protocol/protocol-layer/application-layer/soap.md)
+- ### [Web Services Description Language (WSDL)](/stem/it/coding/data-serialization/xml/wsdl.md)
 
 # Network Organization
 - ### Internet Corporation for Assigned Names and Numbers (ICANN)

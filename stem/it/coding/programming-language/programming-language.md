@@ -12,7 +12,7 @@
     - ### [Python](./types-of-programming-language/./oop/python/python.md)
     - ### PHP
     - ### [Java](./types-of-programming-language/./oop/java/java.md)
-    - ### JavaScript
+    - ### [JavaScript (JS)](./types-of-programming-language/oop/javascript/javascript.md)
 - ### [C](./types-of-programming-language/c/c.md)
 
 # Programming Language
