@@ -47,7 +47,7 @@
 - ### Environment：[VS Code](../vs-and-vs-code.md)
 
 # GitHub Tools
-- ### GitDiagram：visualize any repository
+- ### [GitDiagram](https://gitdiagram.com/)：visualize any repository
     - How to Access：Replace `github.com` with `gitdiagram.com` in the URL
-- ### Gitingest：turn any repository into a prompt for LLMs
+- ### [Gitingest](https://gitingest.com/)：turn any repository into a prompt for LLMs
     - How to Access：Replace `github.com` with `gitingest.com` in the URL
