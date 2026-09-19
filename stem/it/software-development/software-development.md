@@ -13,7 +13,6 @@
     - #### Nginx
     - #### Apache
     - #### Tomcat
-- ### 
 
 # Application Programming Interface (API)
 - ### [RESTful API](./software-architectural-style/restful.md#restful-api)
