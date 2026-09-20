@@ -41,5 +41,28 @@
     |.jp|Japan|
     |.tw|Taiwan|
 
-# Service record (SRV record)
+# DNS Message Format
+<div align="center"><img src="./image/dns-message-format.png" width="70%"></div>
 
+- ### Header
+    - #### Transaction ID
+    - #### Flags
+        - Query/Response (QR)
+        - Operation code (OpCode)
+        - Authoritative Answer (AA)
+        - Truncation (TC)
+        - Recursion Desired (RD)
+        - Recursion Available (RA)
+        - Reserved
+        - Return code (RCode)
+    - #### Question Resource Record count (QDCOUNT)
+    - #### Answer Resource Record count (ANCOUNT)
+    - #### Authority Resource Record count (NSCOUNT)
+    - #### Additional Resource Record count (ARCOUNT)
+- ### Question Section
+- ### Answer Section
+- ### Authority Section
+- ### Additional Section
+
+
+# Service record (SRV record)
