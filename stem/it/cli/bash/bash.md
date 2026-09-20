@@ -45,9 +45,28 @@
     mv f/m/{a,b}{1,2} src/ # mv f/m/a1 f/m/a2 f/m/b1 f/m/b2 src/
     ```
 
+# Selection in Bash
+- ### If else
+- ### Case
+
+# Loop in Bash
+- ### For
+- ### While
+- ### Until
+
 # Basic
+- ### Help：display information about commands
+    - Command：`help <command_name>`
+- ### Type：display information about command type
+    - Command：`type [options] <command_name>`
+    - Options
+        |Options|Description|
+        |:---:|:---:|
+        |`-a`|List all matching types that have the same name as `command_name`|
+        |`-t`|Print only a single word describing the Type of `command_name`|
+        |`-p`|Print the Path of `command_name`|
+
 ```bash
-help
 exit
 read
 timeout

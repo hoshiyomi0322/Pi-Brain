@@ -77,6 +77,28 @@
 # Name Server Lookup (nslookup)
 - ### Command：`nslookup`
 
+# Domain Information Groper (dig)
+- ### Command：`dig <domain> [@server] [options...]`
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`A`||
+    |`AAA`||
+    |`MX`||
+    |`NS`||
+    |`CNAME`||
+    |`TXT`||
+    |`SOA`||
+    |`ANY`||
+    |`+short`||
+    |`+answer`||
+    |`+noall`||
+    |`+trace`||
+    |`+stats`||
+    |`-f`||
+    |`-x`||
+    |`-p`||
+
 # DIRB (Web Content Scanner)
 - ### Command：`dirb`
 
