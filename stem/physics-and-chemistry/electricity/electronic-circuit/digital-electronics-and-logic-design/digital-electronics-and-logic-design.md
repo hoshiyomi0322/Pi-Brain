@@ -36,7 +36,7 @@
 # Karnaugh map (K-map)
 
 # Digital Electronics
-- ### Combinational Logic
+- ### [Combinational Logic](./digital-electronics/combinational-logic/combinational-logic.md)
 - ### [Sequential Logic](./digital-electronics/sequential-logic/sequential-logic.md)
 
 # Encoding
