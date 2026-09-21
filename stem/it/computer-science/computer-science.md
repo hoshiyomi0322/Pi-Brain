@@ -30,7 +30,7 @@
 
 # [Operating System](./operating-system/operating-system.md)
 - ### [Process Management](./operating-system/process-management/process-management.md)
-- ### [Scheduling](./operating-system/scheduling.md)
+    - ### [Scheduling](./operating-system/process-management/scheduling.md)
 - ### [Memory Management](./operating-system/memory-management/memory-management.md)
     - ### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
     - ### [Non-Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)

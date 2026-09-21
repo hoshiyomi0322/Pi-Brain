@@ -28,13 +28,14 @@
 # Process Control Block (PCB)
 <div align="center"><img src="./image/pcb.png" width="25%"></div>
 
-- ### context switch：exchange of register information
+- ### Context Switch：exchange of register information
 
 # Inter-Process Communication (IPC)
 - ### [Inter-Process Communication (IPC)](inter-process-communication.md)
 
 # Thread
-- ### user thread
-- ### kernel thread
+- ### User Thread
+- ### Kernel Thread
 
-
+# Scheduling
+- ### [Scheduling](scheduling.md)
