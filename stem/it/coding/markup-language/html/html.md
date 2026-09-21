@@ -8,3 +8,16 @@
     |en space|a&ensp;b|`&ensp;`|
     |em space|a&emsp;b|`&emsp;`|
 
+# Detail
+<details>
+<summary>Heading</summary>
+Content
+</details>
+
+```html
+<details>
+<summary>Heading</summary>
+Content
+</details>
+```
+
