@@ -1,3 +1,9 @@
+# Bash Shortcuts
+|Shortcuts|Function|
+|:---:|:---:|
+|`Ctrl + R`|
+- ### [CLI Shortcuts](../cli.md#cli-shortcuts)
+
 # Operator
 - ### Redirection Operators
     |Operators|Description|
@@ -66,6 +72,8 @@
         |`-a`|List all matching types that have the same name as `command_name`|
         |`-t`|Print only a single word describing the Type of `command_name`|
         |`-p`|Print the Path of `command_name`|
+- ### History
+    - Command：`history`
 ```bash
 exit
 read
