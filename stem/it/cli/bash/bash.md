@@ -1,6 +1,7 @@
 # Operator
 - ### Redirection Operators
     |Operators|Description|
+    |:---:|:---:|
     |`>`||
     |`>>`||
     |`<`||
@@ -85,8 +86,8 @@ kill
 free
 ```
 
-# File Command in Bash
-- ### [File Command in Bash](file-command-in-bash.md)
+# File and Directory in Bash
+- ### [File and Directory in Bash](file-and-directory-in-bash.md)
 
 # Advanced Package Tool (APT)
 ```bash

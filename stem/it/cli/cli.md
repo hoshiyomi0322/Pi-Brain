@@ -1,7 +1,7 @@
 # [Bourne-Again SHell (Bash)](./bash/bash.md)
 - ### [Vi IMproved (Vim)](./bash/linux-development-tools/vim.md)
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
-- ### [Git Command](../it-tools/git/git-command.md)
+- ### [Git](../it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 
 # CMD
