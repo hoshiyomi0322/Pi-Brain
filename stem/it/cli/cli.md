@@ -4,8 +4,8 @@
 - ### [Git](../it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 
-# CMD
-- ### CMD
+# Command Prompt (CMD)
+- ### Command Prompt (CMD)
 
 # Termux
 - ### [Termux](termux.md)

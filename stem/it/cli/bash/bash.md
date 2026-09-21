@@ -66,7 +66,6 @@
         |`-a`|List all matching types that have the same name as `command_name`|
         |`-t`|Print only a single word describing the Type of `command_name`|
         |`-p`|Print the Path of `command_name`|
-
 ```bash
 exit
 read
@@ -85,6 +84,10 @@ ps
 kill
 free
 ```
+
+# User Management Commands in Bash
+- ### [User Management Commands in Bash](user-management-commands-in-bash.md)
+
 
 # File and Directory in Bash
 - ### [File and Directory in Bash](file-and-directory-in-bash.md)
@@ -110,3 +113,4 @@ sudo apt remove <package-name>
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)
 - ### [Git Command](../../it-tools/git/git-command.md)
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
+- ### [Conda](./linux-development-tools/conda.md)
