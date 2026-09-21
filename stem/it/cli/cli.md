@@ -3,6 +3,7 @@
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
 - ### [Git](../it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
+- ### [Conda](./bash/linux-development-tools/conda.md)
 
 # Command Prompt (CMD)
 - ### Command Prompt (CMD)
