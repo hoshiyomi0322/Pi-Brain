@@ -74,13 +74,14 @@
         |`-p`|Print the Path of `command_name`|
 - ### History
     - Command：`history`
+- ### Superuser Do (sudo)
+    - Command：`sudo [option] <command>`
 ```bash
 exit
 read
 timeout
 clear
 echo
-sudo
 ```
 
 # System

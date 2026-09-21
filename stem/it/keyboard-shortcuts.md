@@ -20,6 +20,7 @@
 |`Ctrl + Alt + del`|Windows Security Screen|
 |`Win + Shift + s`|Screenshot|
 |`Ctrl + Shift + esc`|task manager|
+|`Ctrl + Shift + Enter`|Run as administrator|
 |`Win + Ctrl + Shift + B`|reset graphics card|
 - ### Snap Layouts
     |Shortcuts|Function|
