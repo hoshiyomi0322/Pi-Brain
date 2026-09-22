@@ -132,7 +132,9 @@ sudo apt remove <package-name>
 - ### [Compress and Extract in Bash](compress-and-extract-in-bash.md)
 
 # Linux Development Tools
-- ### [Vi IMproved (Vim)](./linux-development-tools/vim.md)
+- ### Text Editor
+    - ### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim.md)
+    - ### GNU nano (nano)
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)
 - ### [Git Command](../../it-tools/git/git-command.md)
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
