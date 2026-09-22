@@ -8,4 +8,5 @@ wsl --shutdown
 wsl --install
 wsl --install -d
 wsl --list
+wsl --list --online
 ```
