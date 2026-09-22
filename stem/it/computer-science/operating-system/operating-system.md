@@ -1,7 +1,7 @@
 # Types of Operating System
 - ### Open System
     - #### Interoperability (inter-operate-ability)：the ability of multiple systems or device to work together
-    - #### eg：Linux
+    - #### eg：[Linux](#linux)
 - ### Proprietary System
     - #### eg：iOS
 
@@ -15,3 +15,9 @@
 
 # Operating System Structures (OS Structures)
 - ### [Operating System Structures (OS Structures)](os-structures.md)
+
+# Linux
+- ### Ubuntu
+- ### Debian
+- ### Arch Linux
+- ### Kali Linux

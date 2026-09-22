@@ -5,8 +5,8 @@
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 - ### [Conda](./bash/linux-development-tools/conda.md)
 
-# Command Prompt (CMD)
-- ### Command Prompt (CMD)
+# [PowerShell](./powershell/powershell.md)
+- ### [Windows Subsystem for Linux (WSL)](./powershell/wsl.md)
 
 # Termux
 - ### [Termux](termux.md)
