@@ -1,8 +1,11 @@
 # [Bourne-Again SHell (Bash)](./bash/bash.md)
-- ### [Vi IMproved (Vim)](./bash/linux-development-tools/text-editor/vim.md)
+- ### Text Editor
+    - ### [Vi IMproved (Vim)](./bash/linux-development-tools/text-editor/vim.md)
+    - ### GNU nano (nano)
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
-- ### [Git](../it-tools/git/git.md)
+- ### [Git Command](../../it-tools/git/git-command.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
+- ### [Terminal Multiplexer (tmux)](./bash/linux-development-tools/tmux.md)
 - ### [Conda](./bash/linux-development-tools/conda.md)
 
 # [PowerShell](./powershell/powershell.md)

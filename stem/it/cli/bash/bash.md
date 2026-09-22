@@ -160,4 +160,5 @@ sudo apt-get purge <package-name>
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)
 - ### [Git Command](../../it-tools/git/git-command.md)
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
+- ### [Terminal Multiplexer (tmux)](./linux-development-tools/tmux.md)
 - ### [Conda](./linux-development-tools/conda.md)
