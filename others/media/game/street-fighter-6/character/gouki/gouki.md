@@ -54,7 +54,7 @@
 - ### 5HP Air Combo
     - 5HP + [中旋風腳 Air Combo]()/[強旋風腳 Combo]()/[Air OD灼火 Combo]()
     - 5HP + (強灼火派生 + SA3)
-- ### Corner Air 2HP Combo
+- ### Corner 2HP Air Combo
     - 2HP + [Corner Extension 旋風腳 Combo]()/SA1
 - ### 6HP Combo
     - 6HP*2 + 5HK
@@ -285,6 +285,9 @@
     - [DR 6MP Combo]()
     - 消費(DR + 2LK) + [5F打摔擇 (後ろ歩き)]()
     - その場受け身/Corner：消費(5MP) + [9F 5HP 重ね](#9f-5hp-重ね)
+- ### DR 6MP 重ね (34F)
+    - (DR + 6MP) + [5HP Combo](#5hp-combo)
+    - Corner：消費(投げ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 百鬼 OKI (37F)
     - 強百鬼-強空插 + [2MP Combo]()
     - ガード(強百鬼-強空插) + [3F打摔擇]()
@@ -307,7 +310,7 @@
 - ### 47F OKI
     - #### Close 47F OKI
         - 前ステ + [Close 28F OKI](#close-28f-oki)
-        - 消費(9) + [5F打摔擇 (バクステ)]()
+        - 消費(6MP/9) + [5F打摔擇 (バクステ)]()
         - 消費(5MP) + [DI OKI](#di-oki-25f26f)
         - その場受け身/Corner
             - 消費(5HK) + [5F打摔擇 (バクステ)]()
@@ -316,7 +319,7 @@
     - #### Far 47F OKI
         - 前ステ + [Mid 28F OKI](#mid-28f-oki)
         - その場受け身/Corner
-            - 消費(9) + [5F打摔擇 (バクステ)]()
+            - 消費(6MP/9) + [5F打摔擇 (バクステ)]()
             - 消費(5MP) + [DI OKI](#di-oki-25f26f)
         - Corner
             - 消費(5HK)/消費(前ステ + 2MP) + [5F打摔擇 (バクステ)]()

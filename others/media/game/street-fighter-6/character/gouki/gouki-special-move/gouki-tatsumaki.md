@@ -10,7 +10,7 @@
 - 中旋風腳 + [42F OKI](../gouki.md#42f-oki)
 
 # 強旋風腳 Combo
-- 強旋風腳
+- 強旋風腳 + [DR 6MP 重ね](../gouki.md#dr-6mp-重ね-34f)
 
 # OD旋風腳 Combo
 - OD旋風腳 + 中昇竜/[弱昇竜 Combo]()
