@@ -4,9 +4,11 @@
 
 ```powershell
 wsl
+wsl -d <version>
 wsl --shutdown
 wsl --install
-wsl --install -d
+wsl --install -d <version>
 wsl --list
 wsl --list --online
+wsl --unregister
 ```

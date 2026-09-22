@@ -88,6 +88,15 @@
         |`!-n`|Executes the command `n` lines back from the history list|`!-322`|
 - ### Superuser Do (sudo)
     - Command：`sudo [option] <command>`
+- ### Linux Standard Base Release (lsb_release)
+    |Command|Description|
+    |:---:|:---:|
+    |`lsb_release`||
+    |`lsb_release -a`||
+    |`lsb_release -i`||
+    |`lsb_release -d`||
+    |`lsb_release -r`||
+    |`lsb_release -c`||
 ```bash
 exit
 read
@@ -121,6 +130,16 @@ sudo apt update
 sudo apt upgrade
 sudo apt install <package-name>
 sudo apt remove <package-name>
+sudo apt purge <package-name>
+```
+
+# APT-Get
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install <package-name>
+sudo apt-get remove <package-name>
+sudo apt-get purge <package-name>
 ```
 
 # Networking Command in Bash
