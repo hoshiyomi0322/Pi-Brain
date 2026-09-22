@@ -1,7 +1,7 @@
 # Bash Shortcuts
 |Shortcuts|Function|
 |:---:|:---:|
-|`Ctrl + R`|
+|`Ctrl + R`|Search the command history as you type|
 - ### [CLI Shortcuts](../cli.md#cli-shortcuts)
 
 # Operator
@@ -62,18 +62,30 @@
 - ### Until
 
 # Basic
-- ### Help：display information about commands
-    - Command：`help <command_name>`
-- ### Type：display information about command type
-    - Command：`type [options] <command_name>`
-    - Options
+- ### Help
+    |Command|Description|Example|
+    |:---:|:---:|:---:|
+    |`help <command_name>`|display information about commands|`help ping`|
+- ### Type
+    |Command|Description|Example|
+    |:---:|:---:|:---:|
+    |`type [options] <command_name>`|display information about command type|`type ping`|
+    - #### Options
         |Options|Description|
         |:---:|:---:|
         |`-a`|List all matching types that have the same name as `command_name`|
         |`-t`|Print only a single word describing the Type of `command_name`|
         |`-p`|Print the Path of `command_name`|
 - ### History
-    - Command：`history`
+    |Command|Description|Example|
+    |:---:|:---:|:---:|
+    |`history [n]`|Display only the last `n` commands in the history list|`history`, `history 200`|
+    |`history -c`|Clear the history list in memory|
+    - #### History Expansion
+        |Command|Description|Example|
+        |:---:|:---:|:---:|
+        |`!n`|Executes the `n`th command from the history list|`!35`|
+        |`!-n`|Executes the command `n` lines back from the history list|`!-322`|
 - ### Superuser Do (sudo)
     - Command：`sudo [option] <command>`
 ```bash
@@ -97,9 +109,11 @@ free
 # User Management Commands in Bash
 - ### [User Management Commands in Bash](user-management-commands-in-bash.md)
 
-
 # File and Directory in Bash
 - ### [File and Directory in Bash](file-and-directory-in-bash.md)
+
+# Text Processing in Bash
+- ### [Text Processing in Bash](text-processing-in-bash.md)
 
 # Advanced Package Tool (APT)
 ```bash

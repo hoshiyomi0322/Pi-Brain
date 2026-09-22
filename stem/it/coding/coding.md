@@ -23,3 +23,11 @@
 - ### [Extensible Markup Language (XML)](./data-serialization/xml/xml.md)
 - ### [JavaScript Object Notation (JSON)](./data-serialization/json.md)
 - ### [YAML](./data-serialization/yaml.md)
+
+# Regular Expression (Regex)
+|Pattern|Description|Example|
+|:---:|:---:|:---:|
+|`\`|
+|`^`|
+|`$`|
+|`*`|

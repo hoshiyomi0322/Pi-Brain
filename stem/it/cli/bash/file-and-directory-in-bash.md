@@ -93,10 +93,3 @@
     |Options|Description|
     |:---:|:---:|
     |``||
-
-# Concatenate (cat)
-- ### Command：`cat [options...]`
-- ### Options
-    |Options|Description|
-    |:---:|:---:|
-    |``||
