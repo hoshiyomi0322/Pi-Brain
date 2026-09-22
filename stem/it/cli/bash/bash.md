@@ -97,11 +97,14 @@
     |`lsb_release -d`||
     |`lsb_release -r`||
     |`lsb_release -c`||
+- ### Clear
+    |Command|Description|
+    |:---:|:---:|
+    |`clear`|Clear the terminal screen|
 ```bash
 exit
 read
 timeout
-clear
 echo
 ```
 

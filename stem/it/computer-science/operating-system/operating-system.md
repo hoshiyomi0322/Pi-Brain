@@ -17,7 +17,8 @@
 - ### [Operating System Structures (OS Structures)](os-structures.md)
 
 # Linux
+- ### [Bash](/stem/it/cli/bash/bash.md)
 - ### Ubuntu
 - ### Debian
+    - ### Kali Linux
 - ### Arch Linux
-- ### Kali Linux

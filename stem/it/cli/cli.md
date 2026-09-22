@@ -15,6 +15,9 @@
 |Shortcuts|Function|
 |:---:|:---:|
 |`Ctrl + C`|Interrupt the currently running process or command|
+|`Ctrl + Shift + C`|Copy selected item in terminal|
+|`Ctrl + Shift + V`|Paste selected item in terminal|
+|`Ctrl + L`|Clear the terminal screen|
 |`↑/↓`|Navigate through command history (previous/next command)|
 
 # Command Format
