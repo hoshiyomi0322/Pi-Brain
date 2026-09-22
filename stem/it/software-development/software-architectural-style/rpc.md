@@ -1,6 +1,6 @@
 # Remote Procedure Call (RPC)
 
-# RPC [API](../api.md)
+# RPC [API](../api/api.md)
 
 # RPC Protocols
 - ### gRPC
