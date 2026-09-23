@@ -20,14 +20,14 @@
     - #### OD百鬼-旋風腳：236KK + 214K
     - #### 百鬼-delay-x：236K + delay + x
 - ### 旋風腳：214K
-    - #### Air 旋風腳：9 + 214K
+    - #### Air-旋風腳：9 + 214K
 - ### 阿修羅：6/4 + KKK
     - #### 前阿修羅：6 + KKK
     - #### 後阿修羅：4 + KKK
     - #### 朧：前阿修羅 + 投げ
 - ### SA
     - #### SA1：236236P
-        - Air SA1：236236K
+        - Air-SA1：236236K
     - #### SA2：214214P
     - #### SA3：236236K
     - #### 瞬獄殺：5LP*2 + 6 + 5LK + 5HP
@@ -160,14 +160,18 @@
         - Mid：6MK(PC) + [2HP Combo]()
         - Far：6MK(PC) + [5HP Combo]()
 - ### Heavy Attack PC Combo
-    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
     - #### 5HP PC Combo
+        - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - Close：[5HP Combo]()(PC) + [2MP Combo]()
-        - Far：[5HP Combo]()
+        - Far：[5HP Combo]()(PC)
+    - #### 2HP PC Combo
+        - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+        - 2HP(PC) + [Close OD溜め弾 Combo](./gouki-special-move/gouki-special-move.md#close-od溜め弾-combo)
     - #### 5HK PC Combo
         - Mid：5HK(PC) + [2HP Combo]()
         - Far：5HK(PC) + [5HP Combo]()
     - #### 2HK PC Combo
+        - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - 2HK(PC) + [Close 47F OKI](#close-47f-oki)
 
 # DI Combo
@@ -197,14 +201,14 @@
 # Jump Attack Combo
 - ### JMP Air Combo
     - #### Midscreen JMP Air Combo
-        - (9 + JMP + 空弾) + [Air DR Combo]()/SA1
+        - (9 + JMP + 空弾) + [DR Air Combo](#dr-air-combo)/SA1
         - (9 + JMP + OD空弾) + (DR + 4HK + 溜め弾1) + (DR + [4HK Combo](gouki-4hk-combo.md#4hk-combo)/[5HP Air Combo]())
-        - (9 + JMP + OD Air 旋風腳) + [強昇竜 Combo]()/SA1/[SA2 Combo]()/[弱昇竜 Combo]()
+        - (9 + JMP + OD Air-旋風腳) + [強昇竜 Combo]()/SA1/[SA2 Combo]()/[弱昇竜 Combo]()
     - #### Corner JMP Air Combo
-        - (9 + JMP + Air SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
-        - (9 + JMP + Air SA1) + (delay + SA1/[SA2 Combo](gouki.md#sa2-combo))
+        - (9 + JMP + Air-SA1) + (弱灼火 + 中昇竜)/[Corner Air OD灼火 Combo]()
+        - (9 + JMP + Air-SA1) + (delay + SA1/[SA2 Combo](gouki.md#sa2-combo))
         - (9 + JMP + OD空弾) + [強旋風腳 Air Combo]()/[Corner Extension 旋風腳 Combo]()/[Corner Air OD灼火 Combo]()/[DR中腳 Combo]()/(DR + [5MP Combo]())
-        - (9 + JMP + OD Air 旋風腳) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
+        - (9 + JMP + OD Air-旋風腳) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo]()/[Corner 弱昇竜 Combo]()
 - ### JHP Combo
     - 8/9 + JHP + [5HP Combo]()/[2HP Combo]()
 - ### JHK Combo

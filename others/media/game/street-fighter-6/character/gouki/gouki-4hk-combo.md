@@ -8,16 +8,15 @@
     - #### General Corner 4HK Combo
         - [General 4HK Combo](#general-4hk-combo)
         - (4HK + 百鬼-空插) + [強旋風腳 Air Combo]()/[2HK Air Combo](gouki.md#2hk-air-combo)/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
-        - (4HK + OD百鬼-空弾) + [Corner 中旋風腳 Air Combo]()
-            - (4HK + OD百鬼-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
+        - (4HK + OD百鬼-空弾) + [OD百鬼空弾後 Air Combo](./gouki-special-move/gouki-special-move.md#od百鬼空弾後-air-combo)
             - (4HK + OD百鬼-空弾) + (DR + 5MP) + (CDR + [Corner 4HK Combo]())
             - (4HK + OD百鬼-空弾) + (OD弾 + SA1/[SA2 Combo](gouki.md#sa2-combo))
-            - (4HK + OD百鬼-空弾) + (delay + SA1)/[SA2 Combo](gouki.md#sa2-combo)
-            - (4HK + OD百鬼-空弾) + 消費(DR + 5HK) + [5F打摔擇 (バクステ)]()
+            - (4HK + OD百鬼-空弾) + (delay + SA1)
         - (4HK + 強灼火派生) + 消費(弱昇竜) + OD昇竜/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3
         - (4HK + 強灼火派生) + 消費(弱旋風腳) + [5F打摔擇 (バクステ)]()
 - ### 4HK-OD溜め弾 Combo
     - (4HK + OD溜め弾) + [Far 中旋風腳 High-Air Combo]()
+    - (4HK + OD溜め弾) + 消費(Parry) + [DI OKI](gouki.md#di-oki-25f26f)
     - ### Corner 4HK-OD溜め弾 Combo
         - (4HK + OD溜め弾) + (OD旋風腳 + OD昇竜)
         - (4HK + OD溜め弾) + (9 + OD空弾) + [Air Corner 中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3
@@ -49,9 +48,7 @@
 
 # Corner 4HK High-Air Combo
 - (4HK + 百鬼-delay-空插) + [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/(delay + [Corner 弱昇竜 Combo]())
-- (4HK + OD百鬼-delay-空弾) + [Air Corner 中旋風腳 Combo]()
-    - (4HK + OD百鬼-delay-空弾) + (OD旋風腳 + [弱昇竜 Combo]())
+- (4HK + OD百鬼-delay-空弾) + [OD百鬼空弾後 Air Combo](./gouki-special-move/gouki-special-move.md#od百鬼空弾後-air-combo)
     - (4HK + OD百鬼-空弾) + (DR + 5MP) + (CDR + [Corner 4HK High-Air Combo]())
-    - (4HK + OD百鬼-delay-空弾) + SA1/[SA2 Combo](gouki.md#sa2-combo)
-    - (4HK + OD百鬼-delay-空弾) + (DR + 5HK) + [5F打摔擇 (バクステ)]()
+    - (4HK + OD百鬼-delay-空弾) + SA1
 - (4HK + OD百鬼-旋風腳) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
