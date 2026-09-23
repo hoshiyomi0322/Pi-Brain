@@ -208,18 +208,18 @@
 - ### 2MK 重ね (10F)
     - 2MK + [5LK Combo](#5lk-combo)
     - [強TC Combo](#強tc-combo)
+- ### 強TC OKI (10F~12F)
+    - [強TC Combo](#強tc-combo)
 - ### 6MK 重ね (22F)
     - 6MK + (2LP\*2 + [Light Cancel Combo](#light-cancel-combo))
-- ### 12F OKI
-    - [強TC Combo](#強tc-combo)
 - ### 34F OKI
     - 消費(5MK) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(4MP) + [2MP 重ね](#2mp-重ね-8f)
     - 消費(2MP) + [2MK 重ね](#2mk-重ね-10f)
-    - 前ステ + [12F OKI](#12f-oki)
+    - 前ステ + [強TC OKI](#強tc-oki-10f12f)
     - [Corner delay 中下弾 OKI](./jp-special-move/jp-projectile.md#corner-delay-中下弾-oki)
 - ### 39F OKI
-    - 消費(4MP) + [12F OKI](#12f-oki)
+    - 消費(4MP) + [強TC OKI](#強tc-oki-10f12f)
     - [Corner delay 中下弾 OKI](./jp-special-move/jp-projectile.md#corner-delay-中下弾-oki)
     - Close
         - 消費(2HP) + [5F打摔擇](#5f打摔擇-4f5f)

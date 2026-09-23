@@ -35,64 +35,61 @@
 - ### 弱推掌 Combo
     - 弱推掌 + [SA3 Combo](jamie.md#sa3-combo)/[38F OKI](jamie.md#38f-oki-38f39f)
     - 酔い4
-        - 弱推掌派生 + [20F OKI](jamie.md#20f-oki)
+        - 弱推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - 弱推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 - ### 中推掌 Combo
     - 中推掌 + [SA3 Combo](jamie.md#sa3-combo)/[38F OKI](jamie.md#38f-oki-38f39f)
     - 酔い4
-        - 中推掌派生 + [20F OKI](jamie.md#20f-oki)
+        - 中推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - 中推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 - ### 強推掌 Combo
     - 強推掌 + [SA3 Combo](jamie.md#sa3-combo)/[42F OKI](jamie.md#42f-oki)
     - 酔い4
-        - 強推掌派生 + [19F OKI](jamie.md#19f-oki)
+        - 強推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - 強推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 - ### OD推掌 Combo
-    - OD推掌 + [SA3 Combo](jamie.md#sa3-combo)
-    - OD推掌 + (酒飲み + [Far 23F OKI](jamie.md#far-23f-oki))
+    - OD推掌 + [73F OKI](jamie.md#73f-oki)/[SA3 Combo](jamie.md#sa3-combo)
     - Corner
         - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/強昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
         - OD推掌 + (delay + [SA3 Combo](jamie.md#sa3-combo))
-        - OD推掌 + 消費(弱爆廻) + [コマ投げ OKI](jamie.md#コマ投げ-oki-6f8f)
     - 酔い4
-        - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
+        - OD推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - OD推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 推掌 Air Combo
-- ### 中推掌 Air Combo
-    - 中推掌 + [SA3 Combo](jamie.md#sa3-combo)/[38F OKI](jamie.md#38f-oki-38f39f) 
-    - 酔い4
-        - 中推掌派生 + [19F OKI](jamie.md#19f-oki)
-        - 中推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 - ### 強推掌 Air Combo
+    - [強推掌 Combo](#強推掌-combo)
 - ### OD推掌 Air Combo
-    - OD推掌 + [SA3 Combo](jamie.md#sa3-combo)
-    - OD推掌 + (酒飲み + [20F OKI](jamie.md#20f-oki))
+    - OD推掌 + [75F OKI](jamie.md#75f-oki-74f75f)/[SA3 Combo](jamie.md#sa3-combo)
+    - OD推掌 + (酒飲み + [20F OKI](jamie.md#20f-oki-19f20f))
     - Corner
-        - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/強昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
+        - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/[5HP Air Combo](jamie.md#5hp-air-combo)/強昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
         - OD推掌 + (delay + [SA3 Combo](jamie.md#sa3-combo))
-        - OD推掌 + 消費(弱爆廻) + [3F打摔擇](jamie.md#3f打摔擇-2f3f)
+        - OD推掌 + [弱推掌 Combo](#弱推掌-combo)
+        - OD推掌 + (弱爆廻 + [SA3 Combo](jamie.md#sa3-combo))
+        - OD推掌 + (DR + 2MP + )
     - 酔い4
-        - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
+        - OD推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - OD推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 推掌 High-Air Combo
 - ### 強推掌 High-Air Combo
     - [強推掌 Combo](#強推掌-combo)
 - ### OD推掌 High-Air Combo
-    - OD推掌 + [SA3 Combo](jamie.md#sa3-combo)
-    - OD推掌 + (酒飲み + [DI OKI](jamie.md#di-oki-25f26f))
+    - OD推掌 + [76F OKI](jamie.md#76f-oki)/[SA3 Combo](jamie.md#sa3-combo)
     - Corner
         - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/[5HP Air Combo](jamie.md#5hp-air-combo)/強昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
+        - OD推掌 + [弱推掌 Combo](#弱推掌-combo)
+        - OD推掌 + (弱爆廻 + [SA3 Combo](jamie.md#sa3-combo))
     - 酔い4
-        - OD推掌派生 + [20F OKI](jamie.md#20f-oki)
+        - OD推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
         - OD推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 強推掌 Highest-Air Combo
 - 強推掌 + [SA3 Combo](jamie.md#sa3-combo)
 - Corner：強推掌 + (5HP + 弱昇竜 + [38F OKI](jamie.md#38f-oki-38f39f))
 - 酔い4
-    - 強推掌派生 + [20F OKI](jamie.md#20f-oki)
+    - 強推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
     - 強推掌派生 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 空插 Combo
@@ -114,7 +111,7 @@
 - ### 強爆廻 Combo
     - 強爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[34F OKI](jamie.md#34f-oki-33f34f)
 - ### OD爆廻 Combo
-    - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[Far 23F OKI](jamie.md#far-23f-oki)
+    - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[Far 6MK OKI](jamie.md#far-6mk-oki)
     - OD爆廻 + (SA2 + [2HP Combo](jamie.md#2hp-combo))
 
 # 爆廻 Air Combo
@@ -125,7 +122,7 @@
 - ### 強爆廻 Air Combo
     - 強爆廻 + [SA3 Combo](jamie.md#sa3-combo)
 - ### OD爆廻 Air Combo
-    - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[Far 23F OKI](jamie.md#far-23f-oki)
+    - OD爆廻 + [SA3 Combo](jamie.md#sa3-combo)/[Far 6MK OKI](jamie.md#far-6mk-oki)
 
 # コマ投げ Combo
 - ### コマ投げ Combo
@@ -136,7 +133,7 @@
 
 # 天晴脚 Combo
 - 天晴脚 + (前歩き + [5HP High-Air Combo](jamie.md#5hp-high-air-combo))
-- 天晴脚 + 5HP + 消費(CDR + 5HP) + [Close 23F OKI](jamie.md#close-23f-oki)
+- 天晴脚 + 5HP + 消費(CDR + 5HP) + [Close 6MK OKI](jamie.md#close-6mk-oki)
 
 # DR 天晴脚 Combo
 - (DR + 天晴脚) + (9 + [JHK Air Combo](jamie.md#jhk-air-combo)/[JMP Air Combo](jamie.md#jmp-air-combo)/[JHP Air Combo](jamie.md#jhp-air-combo))

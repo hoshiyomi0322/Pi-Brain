@@ -250,6 +250,7 @@
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)
 - ### [Lily](./character/lily/lily.md)
+- ### [Juri](./character/juri/juri.md)
 - ### [Blanka](./character/blanka/blanka.md)
 - ### [Dhalsim](./character/dhalsim/dhalsim.md)
 - ### [Zangief](./character/zangief/zangief.md)

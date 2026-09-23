@@ -81,13 +81,13 @@
     - 5HK + Reset(DI)
 - ### 2HK Combo
     - 2HK + HK + P
-    - (2HK + HK) + [Mid 23F OKI](#mid-23f-oki)
+    - (2HK + HK) + [Mid 6MK OKI](#mid-6mk-oki)
     - Corner：(2HK + HK + P) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 6HK Combo
     - 6HK + SA1/[SA3 Combo](#sa3-combo)
     - ### 酔い4 6HK Combo
         - (6HK + 4HK + P) + [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)/[昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo)/[SA1 Air Combo](#sa1-air-combo)
-        - (6HK + 4HK + P) + [中推掌 Air Combo](jamie-special-move.md#中推掌-air-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo)
+        - (6HK + 4HK + P) + [中推掌 Combo](jamie-special-move.md#中推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
         - (6HK + 4HK + P) + (CDR + [2HP Air Combo](#2hp-air-combo))
         - Corner
             - (6HK + 4HK + P) + (CDR + [Corner DR Air Reset](#corner-dr-air-reset))
@@ -131,6 +131,9 @@
     - 酔い1：(5LP + 5LK + 5MP) + [Light-Medium Cancel Combo](#light-medium-cancel-combo)/[強酔拳 Combo](jamie-special-move.md#強酔拳-combo)
 - ### 2LP Combo
     - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### DR 2LP Combo
+    - (DR + 2LP) + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)/[5MK Combo](#5mk-combo)
+    - ガード(DR + 2LP) + [3F打摔擇](#3f打摔擇-2f3f)
 
 # Jump Attack Combo
 - ### JMP Combo
@@ -198,7 +201,9 @@
 - ### Light Cancel Combo
     - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Combo](#sa1-combo)
     - [弱酔拳 Combo](jamie-special-move.md#弱酔拳-combo)/[OD酔拳 Combo](jamie-special-move.md#od酔拳-combo)
-    - ガード後：[ガード後 Cancel Combo](#ガード後-cancel-combo)
+    - ガード後
+        - [ガード後 Cancel Combo](#ガード後-cancel-combo)
+        - [DR 2LP Combo](#dr-2lp-combo)
 - ### Air Cancel Combo
     - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Air Combo](#sa1-air-combo)
     - [爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)
@@ -212,7 +217,7 @@
 
 # [投げ](../street-fighter-6.md#throw)
 - ### 前投げ
-    - 前投げ + [Mid 23F OKI](#mid-23f-oki)
+    - 前投げ + [Mid 6MK OKI](#mid-6mk-oki)
     - #### Midscreen 前投げ
         - 前投げ-酒飲み
     - #### Corner 前投げ
@@ -248,25 +253,20 @@
     - [5HP Combo](#5hp-combo)
 - ### DR Medium OKI (16F~20F)
     - [DR 5MP Combo](#dr-5mp-combo)/[DR 2MP Combo](#dr-2mp-combo)/[DR 2MK Combo](#dr-2mk-combo)
-- ### 19F OKI
+- ### 20F OKI (19F/20F)
     - [DR Medium OKI](#dr-medium-oki-16f20f)
-    - Corner：消費(2LP) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 20F OKI
-    - [DR Medium OKI](#dr-medium-oki-16f20f)
-    - Corner
-        - 消費(5LP) + [5F打摔擇](#5f打摔擇-4f5f)
-        - 消費(2LP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
-- ### 23F OKI
-    - ### Close 23F OKI
+    - Corner：消費(2LP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+- ### 6MK OKI (23F/24F)
+    - ### Close 6MK OKI
         - DR + [5HK Combo](#5hk-combo)
         - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
         - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
-    - ### Mid 23F OKI
+    - ### Mid 6MK OKI
         - DR + [5HK Combo](#5hk-combo)
         - その場受け身/Corner
             - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
             - 酔い2：[酔い2 6MK Combo](#酔い2-6mk-combo)
-    - ### Far 23F OKI
+    - ### Far 6MK OKI
         - DR + [5HK Combo](#5hk-combo)
         - Corner
             - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
@@ -296,12 +296,23 @@
         - 消費(5MP) + [5MP 重ね](#5mp-重ね-10f11f)
         - 消費(5MK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 - ### 38F OKI (38F/39F)
-    - 消費(5HP) + [5F打摔擇](jamie.md#5f打摔擇-4f5f)
+    - 消費(5HP) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5MK) + [5MK OKI](#5mk-oki-6f10f)
 - ### 42F OKI
     - 安全飛び
-    - 消費(前ステ) + [Close 23F OKI](#close-23f-oki)
+    - 消費(前ステ) + [Close 6MK OKI](#close-6mk-oki)
     - Corner：消費(5HP) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+- ### 73F OKI
+    - 消費(酒飲み/強推掌) + [Far 6MK OKI](#far-6mk-oki)
+    - Midscreen：消費(弱爆廻) + [5MK OKI](#5mk-oki-6f10f)
+    - Corner：消費(弱爆廻) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+- ### 75F OKI (74F/75F)
+    - 消費(酒飲み/強推掌) + [DI OKI](#di-oki-25f26f)
+    - Midscreen：消費(弱爆廻) + [5MK OKI](#5mk-oki-6f10f)
+- ### 76F OKI
+    - 消費(酒飲み) + [DI OKI](#di-oki-25f26f)
+    - 消費(強推掌) + [27F OKI](#27f-oki)
+    - Midscreen：消費(弱爆廻) + [5MK OKI](#5mk-oki-6f10f)
 
 # Corner DR Air Reset
 - (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
