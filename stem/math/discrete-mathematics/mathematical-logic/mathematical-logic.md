@@ -86,6 +86,5 @@
 
 # Precedence
 - ### [Quantifier](predicate-logic.md#quantifier) > NOT > AND > OR > Implication > Equivalence
-- ### eg
-    - $`\begin{aligned} {\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)} \end{aligned}`$
-    - $`=\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)`$
+- ### eg：$`\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)`$
+    - $`\biggl( \bigl(\forall x P\left(x\right) \bigr) \land Q\left(x\right) \biggr) \to \biggl( \bigl( \neg R\left(x\right) \bigr) \lor S\left(x\right) \biggr)`$
