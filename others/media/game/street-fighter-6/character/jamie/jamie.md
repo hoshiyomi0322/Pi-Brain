@@ -159,8 +159,9 @@
 - ### Light Attack PC Combo
     - ガード後可以 Light Attack PC：[4F PC](../street-fighter-6.md#4f-pc)、[6F PC](../street-fighter-6.md#6f-pc)
 - ### 5HK PC Combo
-    - 5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+    - Mid：5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
     - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
+    - 5HK(PC) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[強爆廻 Combo](jamie-special-move.md#強爆廻-combo)
     - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
 - DR + 5HP(PC) + [2HP Combo](#2hp-combo)
 
@@ -206,7 +207,7 @@
         - [DR 2LP Combo](#dr-2lp-combo)
 - ### Air Cancel Combo
     - [昇竜 Combo](jamie-special-move.md#昇竜-combo)/[SA1 Air Combo](#sa1-air-combo)
-    - [爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[推掌 Combo](jamie-special-move.md#推掌-combo)
+    - [爆廻 Air Combo](jamie-special-move.md#爆廻-air-combo)/[推掌 Air Combo](jamie-special-move.md#推掌-air-combo)
     - [強酔拳 Air Combo](jamie-special-move.md#強酔拳-air-combo)
 - ### CDR Combo
     - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MP Combo](#dr-2mp-combo)/[DR 2MK Combo](#dr-2mk-combo)
