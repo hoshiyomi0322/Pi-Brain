@@ -26,7 +26,7 @@
     - 強醉腳二派生
 - ### OD酔拳 Combo
     - OD醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[34F OKI](jamie.md#34f-oki-33f34f)
-    - OD醉腳二派生
+    - OD醉腳二派生 + [3F打摔擇](jamie.md#3f打摔擇-2f3f)
 
 # 強酔拳 Air Combo
 - 強醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[34F OKI](jamie.md#34f-oki-33f34f)

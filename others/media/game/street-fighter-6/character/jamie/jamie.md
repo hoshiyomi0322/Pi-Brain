@@ -37,12 +37,12 @@
     - SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)/[DR 天晴脚 Air Combo](jamie-special-move.md#dr-天晴脚-air-combo)
     - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
         - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
+    - SA3 + (前ステ + 5HP + [昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo))
     - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
     - SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
     - 打動力槽：SA3 + (DR + delay + 2HP + DI)
     - Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### Corner SA3 Combo
-        - SA3 + (前ステ + 5HP + delay + [弱昇竜 Air Combo](jamie-special-move.md#弱昇竜-air-combo))
         - SA3 + (前ステ + 5LP) + Reset(DI)
             - SA3 + (DR + 2HP + 5LP) + Reset(DI)
         - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
