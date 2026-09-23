@@ -82,3 +82,10 @@
     |Equivalence (Biconditional)|$`p\leftrightarrow q \equiv p\odot q \equiv \left(p \to q\right) \land \left(q \to p\right)`$<br>(Equivalence = XNOR)|
     |Nonequivalence|$`p\not\leftrightarrow q \equiv p\oplus q`$<br>(Nonequivalence = XOR)|
 - ### [Equivalences of Conditional Statements](propositional-logic.md#equivalences-of-conditional-statements)
+
+
+# Precedence
+- ### [Quantifier](predicate-logic.md#quantifier) > NOT > AND > OR > Implication > Equivalence
+- ### eg
+    - $`\begin{aligned} {\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)} \end{aligned}`$
+    - $`=\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)`$
