@@ -3,7 +3,6 @@
 - ### KAF
 - ### 理芽
 - ### HACHI
-- ### VESPERBELL
 - ### こはならむ
 - ### DAZBEE
 - ### 春茶
@@ -82,6 +81,8 @@
 - ### ユアネス
 - ### tayori (Islet feat.倚水)
 - ### ハコニワリリィ (Hanon×Kotoha)
+- ### VESPERBELL
+- ### DUSTCELL
 - ### Novelbright
 - ### Omoinotake
 - ### Official髭男dism
