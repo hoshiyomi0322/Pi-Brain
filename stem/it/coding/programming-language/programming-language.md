@@ -14,6 +14,7 @@
     - ### [Java](./types-of-programming-language/./oop/java/java.md)
     - ### [JavaScript (JS)](./types-of-programming-language/oop/javascript/javascript.md)
 - ### [C](./types-of-programming-language/c/c.md)
+- ### [Rust](./types-of-programming-language/rust/rust.md)
 
 # Programming Language
 - ### Expression

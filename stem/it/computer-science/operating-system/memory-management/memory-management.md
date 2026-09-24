@@ -32,6 +32,9 @@
 # Virtual memory
 - ### Thrashing
     <img src="./image/thrashing.png" width="50%">
+- ### User Space and Kernel Space
+    - #### User Space
+    - #### Kernel Space
 
 # Swapping
 <div align="center"><img src="./image/swapping.png" width="50%"></div>
