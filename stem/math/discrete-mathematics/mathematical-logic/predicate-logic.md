@@ -33,6 +33,9 @@
     - $`\exists x \forall y Q\left(x,~y\right) = \exists x \forall y: x^2+y=35`$
 
 # Quantifier Equivalences
+- ### $`\text{If }x={x_1,~\cdots,~x_n}`$
+    - $`\forall x P\left(x\right) \equiv P\left(x_1\right) \land \cdots \land P\left(x_n\right)`$
+    - $`\exists x P\left(x\right) \equiv P\left(x_1\right) \lor \cdots \lor P\left(x_n\right)`$
 - ### Commutative Laws for Quantifiers
     - $`\forall x \forall y P\left(x,~y\right) \equiv \forall y \forall x P\left(x,~y\right)`$
     - $`\exists x \exists y P\left(x,~y\right) \equiv \exists y \exists x P\left(x,~y\right)`$
