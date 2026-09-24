@@ -82,9 +82,15 @@
     |Equivalence (Biconditional)|$`p\leftrightarrow q \equiv p\odot q \equiv \left(p \to q\right) \land \left(q \to p\right)`$<br>(Equivalence = XNOR)|
     |Nonequivalence|$`p\not\leftrightarrow q \equiv p\oplus q`$<br>(Nonequivalence = XOR)|
 - ### [Equivalences of Conditional Statements](propositional-logic.md#equivalences-of-conditional-statements)
+- ### [Quantifier Equivalences](predicate-logic.md#quantifier-equivalences)
 
 
 # Precedence
 - ### [Quantifier](predicate-logic.md#quantifier) > NOT > AND > OR > Implication > Equivalence
 - ### eg：$`\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)`$
     - $`\biggl( \bigl(\forall x P\left(x\right) \bigr) \land Q\left(x\right) \biggr) \to \biggl( \bigl( \neg R\left(x\right) \bigr) \lor S\left(x\right) \biggr)`$
+
+# Laws of Thought
+- ### Law of Identity：$`p = p`$
+- ### Law of Noncontradiction：$`\neg\left(p\land \neg p\right)`$
+- ### Law of Excluded Middle：$`p\lor \neg p`$
