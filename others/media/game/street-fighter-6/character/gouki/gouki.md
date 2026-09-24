@@ -104,7 +104,7 @@
     - 2MK + [Medium Cancel Combo]()
 - ### DR 5MP Combo
     - (DR + 5MP) + [5MP Combo]()
-    - ガード(DR + 5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+    - ガード(DR + 5MP) + (前歩き + [5F打摔擇](#5f打摔擇-4f5f))
 - ### DR 2MP Combo
     - (DR + 2MP) + [5HP Combo]()
     - Close：(DR + 2MP) + [2HP Combo]()
