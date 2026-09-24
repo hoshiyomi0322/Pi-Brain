@@ -26,7 +26,7 @@
 - ### Midscreen 強風神 Combo
     - 強風神 + [Far 中弾 Combo](jp-projectile.md#far-中弾-combo)
         - 強風神 + 中弾 + (OD地刺(中強) + [Midscreen 強地刺 Combo](jp-special-move.md#midscreen-強地刺-combo))
-    - 強風神 + 消費(2LP) + [SA1 Combo](../jp.md#sa1-combo)
+    - 強風神 + 消費(2LP/前ステ) + [SA1 Combo](../jp.md#sa1-combo)
     - 強風神 + [Midscreen 強風神 SA2 Combo](../jp-sa2/air-sa2.md#midscreen-強風神-sa2-combo)
     - #### Midscreen 強風神 Carry Combo
         - 強風神 + (前ステ + DR + [6HK Air Combo](../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
