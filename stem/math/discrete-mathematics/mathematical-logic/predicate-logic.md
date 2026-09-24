@@ -12,5 +12,6 @@
 
 
 # Propositional Function
-- ### $`P\left(x\right)`$
+- ### Propositional Function：$`P\left(x_1,~x_n\right)`$
+    - Variables：x_1,~x_n
 - eg：$`\forall x P\left(x\right),~P\left(x\right)= \equiv`$
