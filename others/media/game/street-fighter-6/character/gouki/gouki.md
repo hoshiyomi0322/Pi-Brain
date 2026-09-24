@@ -102,18 +102,13 @@
     - 5MK + [Medium Cancel Combo]()
 - ### 2MK Combo
     - 2MK + [Medium Cancel Combo]()
-    - #### 2MK ガード Combo
-        - 2MK + 中灼火
-        - 2MK + [百鬼襲 Combo(弱/中)]()
-        - 2MK + CDR + [DR2MP Combo]()
 - ### DR 5MP Combo
     - (DR + 5MP) + [5MP Combo]()
-    - #### ガード DR 5MP 打摔擇
-        - (DR + 5MP) + (delay + [投げ]())
-        - (DR + 5MP) + (5MP + [Medium Cancel Combo]())
+    - ガード(DR + 5MP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### DR 2MP Combo
     - (DR + 2MP) + [5HP Combo]()
     - Close：(DR + 2MP) + [2HP Combo]()
+    - ガード(DR + 2MP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DR 5MK Combo
     - (DR + 5MK + 5HK) + [強旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
 - ### DR 2MK Combo
@@ -190,6 +185,10 @@
     - [CDR Combo]()
     - [旋風腳 Combo]()
     - [中灼火 Combo]()/[OD灼火 Combo]()
+    - ガード後
+        - 中灼火
+        - [百鬼襲 Combo(弱/中)]()
+        - CDR + [DR 5MP Combo](#dr-5mp-combo)/[DR 2MP Combo](#dr-2mp-combo)
 - ### Light Cancel Combo
     - [旋風腳 Combo]()
     - [弱灼火 Combo]()
