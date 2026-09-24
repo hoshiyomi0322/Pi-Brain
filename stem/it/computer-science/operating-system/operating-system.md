@@ -23,3 +23,4 @@
     - #### Debian
         - #### [Kali Linux](./linux/linux-distro/debian/kali-linux.md)
     - #### [Arch Linux](./linux/linux-distro/arch-linux/arch-linux.md)
+    - ### Fedora Linux
