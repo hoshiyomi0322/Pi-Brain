@@ -87,6 +87,17 @@
     |:---:|:---:|
     |``||
 
+# Link (ln)
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`ln [options...] <source_file> <target_file>`|Link `source_file` to `target_file`||
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`-s`|Symlink|
+- ### Hard Link
+- ### Symbolic Link (Soft Link, Symlink)
+
 # Tree
 - ### Command：`tree [options...]`
 - ### Options

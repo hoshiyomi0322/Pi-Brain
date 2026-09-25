@@ -7,6 +7,7 @@
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 - ### [Terminal Multiplexer (tmux)](./bash/linux-development-tools/tmux.md)
 - ### [Conda](./bash/linux-development-tools/conda.md)
+- ### [Ani-Cli](./bash/linux-development-tools/ani-cli.md)
 
 # [PowerShell](./powershell/powershell.md)
 - ### [Windows Subsystem for Linux (WSL)](./powershell/wsl.md)

@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms (DSA)
 - ### [Data Structure](./data-structures-and-algorithms/data-structure/data-structure.md)
     - ### [Linear Data Structure](./data-structures-and-algorithms/data-structure/linear-data-structure/linear-data-structure.md)
     - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
