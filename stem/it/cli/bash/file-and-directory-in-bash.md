@@ -95,6 +95,8 @@
     |Options|Description|
     |:---:|:---:|
     |`-s`|Symlink|
+- ### Hard Link
+- ### Symbolic Link (Soft Link, Symlink)
 
 # Tree
 - ### Command：`tree [options...]`
