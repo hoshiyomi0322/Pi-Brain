@@ -5,6 +5,11 @@
 - ### [CLI Shortcuts](../cli.md#cli-shortcuts)
 
 # Operator
+|Operators|Description|
+|:---:|:---:|
+|`;`||
+|`\|`||
+|`&`|Run in Background|
 - ### Redirection Operators
     |Operators|Description|
     |:---:|:---:|
@@ -61,7 +66,7 @@
 - ### While
 - ### Until
 
-# Basic
+# Basic Command in Bash
 - ### Help
     |Command|Description|Example|
     |:---:|:---:|:---:|
@@ -86,46 +91,42 @@
         |:---:|:---:|:---:|
         |`!n`|Executes the `n`th command from the history list|`!35`|
         |`!-n`|Executes the command `n` lines back from the history list|`!-322`|
-- ### Superuser Do (sudo)
-    - Command：`sudo [option] <command>`
-- ### Linux Standard Base Release (lsb_release)
-    |Command|Description|
-    |:---:|:---:|
-    |`lsb_release`||
-    |`lsb_release -a`||
-    |`lsb_release -i`||
-    |`lsb_release -d`||
-    |`lsb_release -r`||
-    |`lsb_release -c`||
 - ### Clear
     |Command|Description|
     |:---:|:---:|
     |`clear`|Clear the terminal screen|
-```bash
-exit
-read
-timeout
-echo
-```
-
-# System
-```bash
-shutdown
-top
-htop
-ps
-kill
-free
-```
-
-# User Management Commands in Bash
-- ### [User Management Commands in Bash](user-management-commands-in-bash.md)
-
-# File and Directory in Bash
-- ### [File and Directory in Bash](file-and-directory-in-bash.md)
-
-# Text Processing in Bash
-- ### [Text Processing in Bash](text-processing-in-bash.md)
+- ### Exit
+    |Command|Description|
+    |:---:|:---:|
+    |`exit`||
+- ### Read
+    |Command|Description|
+    |:---:|:---:|
+    |`read`||
+- ### Timeout
+    |Command|Description|
+    |:---:|:---:|
+    |`timeout`||
+- ### Sleep
+    |Command|Description|
+    |:---:|:---:|
+    |`sleep <time>`||
+- ### Echo
+    |Command|Description|
+    |:---:|:---:|
+    |`echo`||
+- ### Date
+    |Command|Description|
+    |:---:|:---:|
+    |`date`||
+- ### [User Management Commands in Bash](./basic-command-in-bash/user-management-commands-in-bash.md)
+- ### [System Administration in Bash](./basic-command-in-bash/system-administration-in-bash.md)
+- ### [File and Directory in Bash](./basic-command-in-bash/file-and-directory-in-bash.md)
+- ### [Text Processing in Bash](./basic-command-in-bash/text-processing-in-bash.md)
+- ### [Disk Management in Bash](./basic-command-in-bash/disk-management-in-bash.md)
+- ### [Process Management in Bash](./basic-command-in-bash/process-management-in-bash.md)
+- ### [Compress and Extract in Bash](./basic-command-in-bash/compress-and-extract-in-bash.md)
+- ### [Networking Command in Bash](./basic-command-in-bash/networking-command-in-bash.md)
 
 # Advanced Package Tool (APT)
 ```bash
@@ -144,14 +145,6 @@ sudo apt-get install <package-name>
 sudo apt-get remove <package-name>
 sudo apt-get purge <package-name>
 ```
-
-# Networking Command in Bash
-- ### [Networking Command in Bash](networking-command-in-bash.md)
-
-# fdisk
-
-# Compress and Extract in Bash
-- ### [Compress and Extract in Bash](compress-and-extract-in-bash.md)
 
 # Linux Development Tools
 - ### Text Editor

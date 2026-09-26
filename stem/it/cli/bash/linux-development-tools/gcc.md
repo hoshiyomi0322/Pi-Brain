@@ -26,7 +26,9 @@
     |`-c`|Preprocessing, Compilation, Assembly only<br>output file is [Object code](/stem/it/computer-science/computer-organization-and-architecture/build-process/build-process.md#object-code)(`.o`)|
 
 # GNU C Compiler (gcc)
-- ### Command：`gcc [source code...] [options...]`
+|Command|Description|
+|:---:|:---:|
+|`gcc [source_code...] [options...]`|Compiles C `source_code` into [Executable code](/stem/it/computer-science/computer-organization-and-architecture/build-process/build-process.md#executable-code)<br>By default, it performs Preprocessing, Compilation, Assembly, and Linking|
 - ### [Options](#options)
 - ### example
     ```bash
@@ -36,7 +38,9 @@
     ```
 
 # GNU C++ Compiler (g++)
-- ### Command：`g++ [source code...] [options...]`
+|Command|Description|
+|:---:|:---:|
+|`g++ [source_code...] [options...]`|Compiles C++ `source_code` into [Executable code](/stem/it/computer-science/computer-organization-and-architecture/build-process/build-process.md#executable-code)<br>By default, it performs Preprocessing, Compilation, Assembly, and Linking|
 - ### [Options](#options)
 - ### example
     ```bash

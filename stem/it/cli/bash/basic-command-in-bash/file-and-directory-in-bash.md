@@ -99,8 +99,20 @@
 - ### Symbolic Link (Soft Link, Symlink)
 
 # Tree
-- ### Command：`tree [options...]`
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`tree [options...]`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
     |``||
+
+# Data Definition (dd)
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`dd [options...]`|
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`if=<input_file>`||
+    |`of=<output_file>`||

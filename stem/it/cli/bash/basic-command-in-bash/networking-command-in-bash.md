@@ -44,7 +44,9 @@
     |`-c`|Save Cookies from response|
 
 # Web get (Wget)
-- ### Command：`wget`
+|Command|Description|
+|:---:|:---:|
+|`wget`|
 
 # Netcat (nc)
 |Command|Description|
@@ -53,7 +55,9 @@
 |`nc -l <port>`|Listen on a port|
 
 # Socket Statistics (ss)
-- ### Command：`ss [options...]`
+|Command|Description|
+|:---:|:---:|
+|`ss [options...]`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
@@ -69,16 +73,24 @@
     ```
 
 # Route
-- ### Command：`route`
+|Command|Description|
+|:---:|:---:|
+|`route`|
 
 # Traceroute
-- ### Command：`traceroute`
+|Command|Description|
+|:---:|:---:|
+|`traceroute`|
 
 # Name Server Lookup (nslookup)
-- ### Command：`nslookup`
+|Command|Description|
+|:---:|:---:|
+|`nslookup`|
 
 # Domain Information Groper (dig)
-- ### Command：`dig <domain> [@server] [options...]`
+|Command|Description|
+|:---:|:---:|
+|`dig <domain> [@server] [options...]`|
 - ### Options
     |Options|Description|
     |:---:|:---:|
@@ -100,5 +112,7 @@
     |`-p`||
 
 # DIRB (Web Content Scanner)
-- ### Command：`dirb`
+|Command|Description|
+|:---:|:---:|
+|`dirb`|
 
