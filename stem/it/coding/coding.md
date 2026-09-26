@@ -1,12 +1,15 @@
 # [Programming Language](./programming-language/programming-language.md)
 - ### [Data Structures and Algorithms (DSA)](./programming-language/programming-language.md#data-structures-and-algorithms-dsa)
-- ### [C](./programming-language/c.md)
-- ### C++
-- ### C#
-- ### [Python](./programming-language/oop/python.md)
-- ### PHP
-- ### [Java](./programming-language/oop/java.md)
-- ### JavaScript
+- ### Types of Programming Language
+    - #### [C](./programming-language/types-of-programming-language/c/c.md)
+    - #### [Rust](./programming-language/types-of-programming-language/rust/rust.md)
+    - #### [C++](./programming-language/types-of-programming-language/oop/cpp/cpp.md)
+    - #### C#
+    - #### [Python](./programming-language/types-of-programming-language/oop/python/python.md)
+    - #### PHP
+    - #### [Java](./programming-language/types-of-programming-language/oop/java/java.md)
+    - #### [JavaScript (JS)](./programming-language/types-of-programming-language/oop/javascript/javascript.md)
+    - #### [Kotlin](./programming-language/types-of-programming-language/oop/kotlin/kotlin.md)
 
 # Markup Language
 - ### [Markdown](./markup-language/markdown/markdown.md)
