@@ -48,13 +48,14 @@
 - ### Conditional Equivalences for Quantifiers
     - $`\neg\forall x \bigl( P\left(x\right) \to Q\left(x\right) \bigr) \equiv \exists x \bigl( P\left(x\right) \land \neg Q\left(x\right) \bigr)`$
     - $`\neg\exists x \bigl( P\left(x\right) \land Q\left(x\right) \bigr) \equiv \forall x \bigl( P\left(x\right) \to \neg Q\left(x\right) \bigr)`$
-- ### Equivalences Involving Quantifiers and AND/OR
-    - $`\forall x \left(P\left(x\right) \land Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \land Q`$
-    - $`\forall x \left(P\left(x\right) \lor Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \lor Q`$
-    - $`\exists x \left(P\left(x\right) \land Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \land Q`$
-    - $`\exists x \left(P\left(x\right) \lor Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \lor Q`$
-- ### Equivalences Involving Quantifiers and Conditionals
-    - $`\forall x \left(P\left(x\right) \to Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \to Q`$
-    - $`\forall x \left(P \to Q\left(x\right) \right) \equiv P \to \bigl(\forall x Q\left(x\right) \bigr)`$
-    - $`\exists x \left(P\left(x\right) \to Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \to Q`$
-    - $`\exists x \left(P \to Q\left(x\right) \right) \equiv P \to \bigl(\exists x Q\left(x\right) \bigr)`$
+- ### Quantifier Scope
+    - #### Quantifier Scope Involving AND/OR
+        - $`\forall x \left(P\left(x\right) \land Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \land Q`$
+        - $`\forall x \left(P\left(x\right) \lor Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \lor Q`$
+        - $`\exists x \left(P\left(x\right) \land Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \land Q`$
+        - $`\exists x \left(P\left(x\right) \lor Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \lor Q`$
+    - #### Quantifier Scope Involving Conditionals
+        - $`\forall x \left(P\left(x\right) \to Q \right) \equiv \bigl(\exists x P\left(x\right) \bigr) \to Q`$
+        - $`\forall x \left(P \to Q\left(x\right) \right) \equiv P \to \bigl(\forall x Q\left(x\right) \bigr)`$
+        - $`\exists x \left(P\left(x\right) \to Q \right) \equiv \bigl(\forall x P\left(x\right) \bigr) \to Q`$
+        - $`\exists x \left(P \to Q\left(x\right) \right) \equiv P \to \bigl(\exists x Q\left(x\right) \bigr)`$
