@@ -66,7 +66,6 @@
         - OD推掌 + [2HK Combo](jamie.md#2hk-combo)/[5HP Air Combo](jamie.md#5hp-air-combo)/強昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
         - OD推掌 + (delay + [SA3 Combo](jamie.md#sa3-combo))
         - OD推掌 + [弱推掌 Combo](#弱推掌-combo)
-        - OD推掌 + (弱爆廻 + [SA3 Combo](jamie.md#sa3-combo))
         - OD推掌 + (DR + 2MP + )
     - 酔い4
         - OD推掌派生 + [20F OKI](jamie.md#20f-oki-19f20f)
