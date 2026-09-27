@@ -41,3 +41,10 @@
 |Command|Description|
 |:---:|:---:|
 |`chmod`|
+- ### [File Permission](/stem/it/computer-science/operating-system/linux/linux-file-system.md#file-permission)
+
+# Change Owner (chown)
+|Command|Description|
+|:---:|:---:|
+|`chown`|
+- ### [User Classes](/stem/it/computer-science/operating-system/linux/linux-file-system.md#user-classes)
