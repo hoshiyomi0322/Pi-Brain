@@ -52,7 +52,7 @@ void euler(int n){ //n以內的質數
         }
         //遍歷存放質數的陣列, 篩掉i*質數
         for(int j=0;j<count;j++){
-            int p=primes[j]; //p=存放質數的陣列裡的質數
+            int p=primes[j]; //p=目前篩出來的質數
             if(i*p>n) break; //i*p超過範圍，跳出loop
             is_prime[i*p]=false; //篩掉i*p
             //let p=i*p的最小質因數
@@ -62,9 +62,3 @@ void euler(int n){ //n以內的質數
 }
 ```
 
-- ### euler(n)：n以內的質數
-1. ### 篩掉0、1
-2. ### 從`i=2`開始篩到`i<=n`
-    - ### p=目前篩出來的質數
-    - ### 篩掉i*p
-    - ### 讓p是i*p的最小質因數

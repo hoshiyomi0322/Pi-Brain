@@ -4,3 +4,5 @@
 
 # Fermat Primality test
 
+# Lucas-Lehmer Primality Test
+

@@ -3,6 +3,6 @@
 - ### [Set Theory](./set-theory/set-theory.md)
 - ### Combinatorics
 - ### Topology
-- ### Number Theory
+- ### [Number Theory](./number-theory/number-theory.md)
 
 
