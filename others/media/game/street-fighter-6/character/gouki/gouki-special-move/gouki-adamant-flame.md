@@ -43,8 +43,7 @@
         - OD灼火派生 + [Corner Air 6HP Combo]()
     - #### WWQ OD灼火 Combo
         - OD灼火派生 + [Corner Air 2HP Combo]()
-        - (OD灼火派生 + 2HP) + (弱弾 + [強旋風腳 Air Combo]()/SA1)
-        - (OD灼火派生 + 2HP) + (弱弾 + 弱弾 + [5F打摔擇 (後ろ歩き)]())
+        - (OD灼火派生 + 2HP) + (弱弾 + [50F OKI](../gouki.md#50f-oki)/[強旋風腳 Air Combo]()/SA1)
         - (OD灼火派生 + 5MP*2) + (弱溜め弾2 + [Corner 溜め弾後 Combo]())
             - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + Reset(delay + DI)
             - (OD灼火派生 + 5MP*2) + ガード(弱溜め弾2) + [5HP Combo][Corner 4HK Combo](../gouki-4hk-combo.md#corner-4hk-combo)
