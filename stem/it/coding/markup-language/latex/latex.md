@@ -248,8 +248,8 @@
     |Plus-Minus|$\pm$|`\pm`|
     |Minus-Plus|$\mp$|`\mp`|
     |Asterisk|$\ast$|`\ast`|
-    |Modulo|$a\bmod b$|`a\bmod b`|
-    |Modulo with Parentheses|$a\pmod{b}$|`a\pmod{b}`|
+    |Modulo|$a\bmod b$|`a \bmod b`|
+    |Modulo with Parentheses|$a\pmod{b}$|`a \pmod{b}`|
 - ### Relational Operator
     |Operation|Operator|LaTex|
     |:---:|:---:|:---:|
