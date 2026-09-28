@@ -41,9 +41,6 @@
 - ### Corner OD迅雷中派生 Air Combo
     - OD迅雷中派生二段 + SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
 
-# Midscreen OD迅雷 High-Air Combo
-- OD迅雷delay強派生 + [跑步 Air Combo](ken-special-move.md#跑步-air-combo)/[OD龍尾腳 Air Combo](ken-special-move.md#od龍尾腳-air-combo)/SA2
-
 # Corner 迅雷 High-Air Combo
 - 弱迅雷delay弱派生 + [Corner 弱迅雷 Air Combo](#corner-弱迅雷-air-combo)
 - ### Corner 中迅雷 High-Air Combo

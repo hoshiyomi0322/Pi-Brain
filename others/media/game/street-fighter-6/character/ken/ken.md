@@ -50,11 +50,13 @@
 - ### 5MP Combo
     - 5MP + [Medium Cancel Combo](#medium-cancel-combo)
     - (5MP + 5HP) + 中龍尾腳 + [5F打摔擇](#5f打摔擇-4f5f)
-    - (5MP + 5HP) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
     - #### 5MP跑步 Combo
-        - (5MP + 5HP) + [Air 跑步 Combo]()
+        - (5MP + 5HP) + [跑步 Air Combo]()
         - (5MP + 5HP) + 跑步旋風腳 + [42F OKI](ken.md#42f-oki)
         - Midscreen：(5MP + 5HP) + (DR + 2MP) + 跑步旋風腳 + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)/[OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)/SA1/[SA3 Combo](#sa3-combo)
+    - #### Midscreen 5MP Combo
+        - (5MP + 5HP) + (OD迅雷delay強派生 + [OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo))
+        - (5MP + 5HP) + (OD迅雷delay強派生 + 跑步5HK + SA1/SA2)
     - #### Corner 5MP Combo
         - (5MP + 5HP) + (中迅雷 + [42F OKI](ken.md#42f-oki))
         - (5MP + 5HP) + [Corner 迅雷 High-Air Combo](./ken-special-move/ken-236k.md#corner-迅雷-high-air-combo)
@@ -97,6 +99,9 @@
     - 2HP(PC) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### 5HK PC Combo
     - 5HK(PC) + [跑步 Air Combo](./ken-special-move/ken-special-move.md#跑步-air-combo)/[DR 5HP Air Combo](#dr-5hp-air-combo)
+    - #### Midscreen 5HK PC Combo
+        - 5HK(PC) + (DR + 5MP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/[SA3 Combo](#sa3-combo)
+        - 5HK(PC) + (DR + 5MP + 跑步龍尾腳) + (delay(等對手換邊) + SA2/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo))
     - #### Corner 5HK PC Combo
         - 5HK(PC) + [Corner 迅雷 High-Air Combo](./ken-special-move/ken-236k.md#corner-迅雷-high-air-combo)
 - ### 2HK PC Combo
@@ -107,10 +112,11 @@
     - DI(PC) + (8 + JHP) + 跑步昇竜
     - DI(PC) + (8 + JHP) + (DR + 5MP/2MP) + 跑步旋風腳
     - #### Midscreen 跑步旋風腳DI PC Combo
-        - DI(PC) + バクステ + (DR + 5MP) + 跑步龍尾腳 + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
-        - DI(PC) + バクステ + (DR + 5MP) + 跑步龍尾腳 + (2HP + [跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
-        - DI(PC) + バクステ + (DR + 5MP) + 跑步龍尾腳 + 5MP + 消費(跑步煞車) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
-        - DI(PC) + バクステ + (DR + 5MP) + 跑步龍尾腳 + (delay + 5LK) + Reset(DI)
+        - DI(PC) + (前ステ + 2HP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
+        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
+        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 2HP + Reset([跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
+        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 5MP + 消費(跑步煞車) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + (delay + 5LK) + Reset(DI)
     - #### Corner DI PC Combo
         - DI(PC) + (前ステ + [2HP Combo](#2hp-combo))
         - DI(PC) + (DR + 5HP + 5LK) + Reset(DI)

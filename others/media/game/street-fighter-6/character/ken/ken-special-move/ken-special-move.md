@@ -49,11 +49,13 @@
 
 # 跑步 PC Combo
 - 跑步中段(Counter/PC) + [5MP Combo](../ken.md#5mp-combo)
+- 跑步龍尾腳(Counter) + [2LP Combo](../ken.md#2lp-combo)
 - 跑步龍尾腳(PC) + [5MP Combo](../ken.md#5mp-combo)
 - 跑步旋風腳(Counter/PC) + [5MP Combo](../ken.md#5mp-combo)
+- 跑步5HK(PC) + [5MP Combo](../ken.md#5mp-combo)
 
 # 跑步 Air Combo
-- [跑步5HK Combo](#跑步5hk-combo)/[跑步昇竜 Combo](#跑步昇竜-combo)
+- [跑步昇竜 Combo](#跑步昇竜-combo)
 - ### 跑步龍尾腳 Air Combo
     - 跑步龍尾腳 + [強昇竜 Air Combo](#強昇竜-air-combo)/[OD旋風腳 Combo](#od旋風腳-combo)/SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
     - 跑步龍尾腳 + [42F OKI](../ken.md#42f-oki)
@@ -67,5 +69,5 @@
 
 # OD龍尾腳 Air Combo
 - OD龍尾腳 + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)/[OD旋風腳 Combo](#od旋風腳-combo)/SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
-- OD龍尾腳 + [Midscreen OD迅雷 Air Combo](ken-236k.md#midscreen-od迅雷-high-air-combo)
+- OD龍尾腳 + (OD迅雷強派生 + 跑步5HK + SA1/SA2)
 - [OD旋風腳 Combo](#od旋風腳-combo)
