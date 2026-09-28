@@ -31,7 +31,7 @@
 - ### Options
     |Options|Description|
     |:---:|:---:|
-    |`-o <file name>`|Download file|
+    |`-o <file_name>`|Download file|
     |`-O`|Download file|
     |`-L`|Follow the redirects (Location header)|
     |`-X {GET\|POST\|PUT\|DELETE\|PATCH}`|Specify [http request method](../../computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http.md#http-method)|
@@ -115,4 +115,10 @@
 |Command|Description|
 |:---:|:---:|
 |`dirb`|
+
+# Tcpdump
+- ### [Tcpdump](tcpdump.md)
+        
+# Network Mapper (Nmap)
+- ### [Network Mapper (Nmap)](nmap.md)
 

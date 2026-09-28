@@ -126,7 +126,7 @@
 - ### [Disk Management in Bash](./basic-command-in-bash/disk-management-in-bash.md)
 - ### [Process Management in Bash](./basic-command-in-bash/process-management-in-bash.md)
 - ### [Compress and Extract in Bash](./basic-command-in-bash/compress-and-extract-in-bash.md)
-- ### [Networking Command in Bash](./basic-command-in-bash/networking-command-in-bash.md)
+- ### [Networking Command in Bash](./basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
 
 # Advanced Package Tool (APT)
 ```bash

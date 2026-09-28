@@ -25,11 +25,11 @@
 
 # Cybersecurity Tools
 - ### Networking Tools
-    - ### [Network Mapper(Nmap)](../computer-science/computer-networking/networking-tools/nmap.md)
-    - ### [Wireshark](../computer-science/computer-networking/networking-tools/wireshark.md)
+    - #### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
+    - #### [Wireshark](../computer-science/computer-networking/networking-tools/wireshark.md)
 - ### Metasploit
 - ### Burp Suite
 - ### dnSpy
 - ### Cybersecurity Labs
-    - [TryHackMe](https://tryhackme.com/)
-    - [HackTheBox](https://www.hackthebox.com/)
+    - #### [TryHackMe](https://tryhackme.com/)
+    - #### [HackTheBox](https://www.hackthebox.com/)

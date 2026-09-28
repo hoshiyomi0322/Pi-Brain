@@ -1,6 +1,6 @@
 # Wireshark
 - ### Wireshark GUI
-    <img src="wireshark-gui.png" width="40%">
+    <img src="./image/wireshark-gui.png" width="40%">
 
 # Operator
 - ### Logical Operator

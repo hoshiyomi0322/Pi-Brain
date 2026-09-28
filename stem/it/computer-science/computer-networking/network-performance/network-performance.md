@@ -11,7 +11,7 @@
 
 # Latency
 - ### [Unit](../../../../unit.md)：s (second), ms (millisecond)
-- ### [ping](/stem/it/cli/bash/networking-command-in-bash.md#ping)
+- ### [Ping](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md#ping)
     <img src="image/ping.png" width="60%">
 - ### [Delay](#delay-2)
 
