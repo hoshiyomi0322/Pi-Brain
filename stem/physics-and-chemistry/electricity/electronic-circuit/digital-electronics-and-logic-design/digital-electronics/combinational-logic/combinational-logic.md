@@ -3,6 +3,7 @@
 - ### [Subtractor](./adder-and-subtractor/subtractor.md)
 - ### [Multi-bit Adder](./adder-and-subtractor/multi-bit-adder.md)
 - ### [Adder-Subtractor](./adder-and-subtractor/adder-subtractor.md)
+- ### [BCD Adder](./adder-and-subtractor/bcd-adder.md)
 
 # Multiplier
 
