@@ -16,6 +16,11 @@
     - #### Nginx
     - #### Apache
     - #### Tomcat
+- ### Static Site Hosting
+    - #### GitHub Pages
+    - #### Cloudflare Pages
+    - #### Vercel
+    - #### Netlify
 
 # Application Programming Interface (API)
 - ### [RESTful API](./software-architectural-style/restful.md#restful-api)
