@@ -23,6 +23,18 @@
     |`-a`||
     |`-l`||
 
+# List Open Files (lsof)
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`lsof [options]`||
+- ### Options
+    |Options|Description|Example|
+    |:---:|:---:|:---:|
+    |`-i`||
+    |`-p`||
+    |`-u`||
+
+
 # Move (mv)
 |Command|Description|Example|
 |:---:|:---:|:---:|
@@ -97,6 +109,29 @@
     |`-s`|Symlink|
 - ### Hard Link
 - ### Symbolic Link (Soft Link, Symlink)
+
+# Find
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`find <search_path> [search_criteria...]`|||
+- ### Search Criteria
+    |Search Criteria|Description|Example|
+    |:---:|:---:|:---:|
+    |`-name <"filename">`|||
+    |`-type <f\|d\|l>`|File, Directory, Link||
+    |`-mtime <-n\|n\|+n>`|||
+    |`-size <-n\|+n><unit>`||
+    |`-perm <octal_mode>`|Search by [octal mode (permission mode)](/stem/it/computer-science/operating-system/linux/linux-file-system.md#octal-mode)|
+    |`-exec <command_name> {} \`||
+
+# Locate
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`locate [options] <filename>`|||
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |``||
 
 # Tree
 |Command|Description|Example|

@@ -54,6 +54,11 @@
 |`nc <host> <port>`|Connect to a host|
 |`nc -l <port>`|Listen on a port|
 
+# Network Statistics (netstat)
+|Command|Description|
+|:---:|:---:|
+|`netstat`|
+
 # Socket Statistics (ss)
 |Command|Description|
 |:---:|:---:|
@@ -122,3 +127,21 @@
 # Network Mapper (Nmap)
 - ### [Network Mapper (Nmap)](nmap.md)
 
+# [Secure Shell (SSH)](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/ssh.md)
+|Command|Description|
+|:---:|:---:|
+|`ssh [options]`||
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |||
+
+# Interface Configuration (ifconfig)
+|Command|Description|
+|:---:|:---:|
+|`ifconfig`||
+
+# Linux Firewall
+- ### [Uncomplicated Firewall (ufw)](./linux-firewall/ufw.md)
+- ### [Firewalld](./linux-firewall/firewalld.md)
+- ### [nftables](./linux-firewall/nftables.md)
