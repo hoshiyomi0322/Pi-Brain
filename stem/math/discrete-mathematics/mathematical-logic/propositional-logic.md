@@ -28,4 +28,11 @@
 # Rules of Inference
 |Name|Rules of Inference|Tautology|
 |:---:|:---:|:---:|
-|
+|Modus Ponens<br>(Law of Detachment)|
+|Modus Tollens<br>(Law of Contrapositive)|
+|Hypothetical Syllogism|
+|Disjunctive Syllogism|
+|Addition|
+|Simplification|
+|Conjunction|
+|Resolution|
