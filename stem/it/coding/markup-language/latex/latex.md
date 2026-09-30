@@ -1,60 +1,44 @@
-# Environment
-- ### Being, End
-    ```latex
-    \begin{}
-    \end{}
-    ```
-- ### Aligned：&
-    $`\begin{aligned}
-    ab&c\\ &edf
-    \end{aligned}`$
-    ```latex
-    \begin{aligned}
-    ab&c\\ &edf
-    \end{aligned}
-    ```
-- ### Left/Right：`\left` + `\right`
-    |Output|LaTex|
-    |:---:|:---:|
-    |$`\left(x\right)`$|`\left( x \right)`|
-    |$`\left[x\right]`$|`\left[ x \right]`|
-    |$`\left\{x\right\}`$|`\left\{ x \right\}`|
-    |$`\left\|x\right\|`$|`\left\| x \right\|`|
-    |$`\left(x\right]`$|`\left( x \right]`|
-    - ### `\left`, `\right`+`.`
-        |Output|LaTex|
-        |:---:|:---:|
-        |$`\left.x\right)`$|`\left. x \right)`|
-        |$`\left(x\right.`$|`\left( x \right.`|
-        |$`\left.x\right\|^a_b`$|`\left. x \right\|^a_b`|
-    - ### Middle：`\left` + `\middle` + `\right`
-        |Output|LaTex|
-        |:---:|:---:|
-        |$`\left(x\middle\|y\right)`$|`\left( x \middle\| y \right)`|
-        |$`\left(x\middle/y\right]`$|`\left( x \middle/ y \right]`|
-- ### Matrix：`\begin{matrix}` + `{text}&···&{text}` + `\\`+$`\cdots`$+`\\` + `{text}&···&{text}` + `\end{matrix}`
-    |Matrix|Output|LaTex|
-    |:---:|:---:|:---:|
-    |Matrix|$`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`$|`\begin{matrix} {1} \\ {2}&{3}  \\ {4}&{5}&{6} \end{matrix}`|
-    |parentheses Matrix|$`\begin{pmatrix} {1}&{2} \\ {3}&{4} \end{pmatrix}`$|`\begin{pmatrix} {1}&{2} \\ {3}&{4} \end{pmatrix}`|
-    |brackets Matrix|$`\begin{bmatrix} {1}&{2} \\ {3}&{4} \end{bmatrix}`$|`\begin{bmatrix} {1}&{2} \\ {3}&{4} \end{bmatrix}`|
-    |braces Matrix|$`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`$|`\begin{Bmatrix} {1}&{2} \\ {3}&{4} \end{Bmatrix}`|
-    |vertical bars Matrix|$`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`$|`\begin{vmatrix} {1}&{2} \\ {3}&{4} \end{vmatrix}`|
-    |double Vertical bars Matrix|$`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`$|`\begin{Vmatrix} {1}&{2} \\ {3}&{4} \end{Vmatrix}`|
-- ### Displaystyle
-    $`\displaystyle{text}`$
-    ```latex
-    \displaystyle{text}
-    ```
-- ### Comment
-    ```latex
-    %comment
-    ```
-- ### Text：`\text{}`
+# Latex Environment
+- ### [Latex Environment](latex-environment.md)
+
+# Comment
+```latex
+%comment
+```
+
+# Text
+- ### Command：`\text{}`
+- ### Example
     |Output|LaTex|
     |:---:|:---:|
     |$\text{text}$|`\text{text}`|
     |$\text{a b}$|`\text{a b}`|
+
+# Displaystyle
+$`\displaystyle{text}`$
+```latex
+\displaystyle{text}
+```
+
+# Left/Right：`\left` + `\right`
+|Output|LaTex|
+|:---:|:---:|
+|$`\left(x\right)`$|`\left( x \right)`|
+|$`\left[x\right]`$|`\left[ x \right]`|
+|$`\left\{x\right\}`$|`\left\{ x \right\}`|
+|$`\left\|x\right\|`$|`\left\| x \right\|`|
+|$`\left(x\right]`$|`\left( x \right]`|
+- ### `<\left|\right> .`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$`\left.x\right)`$|`\left. x \right)`|
+    |$`\left(x\right.`$|`\left( x \right.`|
+    |$`\left.x\right\|^a_b`$|`\left. x \right\|^a_b`|
+- ### Middle：`\left \middle \right`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$`\left(x\middle\|y\right)`$|`\left( x \middle\| y \right)`|
+    |$`\left(x\middle/y\right]`$|`\left( x \middle/ y \right]`|
 
 # Brackets
 |Output|LaTex|
@@ -68,15 +52,6 @@
 |$`\lceil a+b \rceil`$|`\lceil a+b \rceil`|
 |$`\lfloor a+b \rfloor`$|`\lfloor a+b \rfloor`|
 |$`\langle a+b \rangle`$|`\langle a+b \rangle`|
-- ### Case：`\begin{case}` + `{text}&{text}` + `\\`+$`\cdots`$+`\\` + `{text}&{text}` + `\end{case}`
-    - $`\begin{cases}{a=35}\\ {b=69}\\ {c=77}\end{cases}`$
-        ```latex
-        $`\begin{cases} {a=35} \\ {b=69} \\ {c=77} \end{cases}`$
-        ```
-    - $`x=\begin{cases}{35}&{\text{if }a=0}\\ {69}&{\text{if }a>0}\\ {77}&{\text{else}}\end{cases}`$
-        ```latex
-        $`x=\begin{cases} {35}&{\text{if }a=0} \\ {69}&{\text{if }a>0} \\ {77}&{\text{else}} \end{cases}`$
-        ```
 - ### Big Brackets：`\big` + [Brackets](#brackets)
     |Output|LaTex|
     |:---:|:---:|
@@ -196,7 +171,7 @@
     |Centered Dots|$\cdots$|`\cdots`|
     |Lower Dots|$\ldots$|`\ldots`|
     |Diagonal Dots|$\ddots$|`\ddots`|
-    |Vertical Dots|$\vdots$|`\vdots`|    
+    |Vertical Dots|$\vdots$|`\vdots`|
 - ### O, Box
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|

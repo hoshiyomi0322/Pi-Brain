@@ -3,11 +3,11 @@
 - ### [Predicate Logic](predicate-logic.md)
     - #### First-Order Logic
     - #### High-Order Logic
-- ### Proof Theory
+- ### [Proof Theory](proof-theory.md)
 
 # Truth Value (Logical Value)
-- ### True (T, $`\top`$)
-- ### False (F, $`\bot`$)
+- ### True ($`T,~\top`$)
+- ### False ($`F,~\bot`$)
 
 # Logical Connective (Logical Operator)
 |Name|Symbol|Definition|Venn Diagram|
@@ -25,10 +25,10 @@
 - ### Truth Table
     |$`p`$|$`q`$|$`\neg p`$<br>(NOT)|$`p \land q`$<br>(AND)|$`p \lor q`$<br>(OR)|$`p \veebar q`$<br>(XOR)|$`p\barwedge q`$<br>(NAND)|$`p \overline{\vee} q`$<br>(NOR)|$`\overline{p\veebar q}`$<br>(XNOR)|$`p\leftrightarrow q`$<br>(Equivalence)|$`p\not\leftrightarrow q`$<br>(Nonequivalence)|$`p\to q`$<br>(Implication)|
     |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |T|T|F|T|T|F|F|F|T|T|F|T|
-    |T|F|F|F|T|T|T|F|F|F|T|F|
-    |F|T|T|F|T|T|T|F|F|F|T|T|
-    |F|F|T|F|F|F|T|T|T|T|F|T|
+    |$`T`$|$`T`$|$`F`$|$`T`$|$`T`$|$`F`$|$`F`$|$`F`$|$`T`$|$`T`$|$`F`$|$`T`$|
+    |$`T`$|$`F`$|$`F`$|$`F`$|$`T`$|$`T`$|$`T`$|$`F`$|$`F`$|$`F`$|$`T`$|$`F`$|
+    |$`F`$|$`T`$|$`T`$|$`F`$|$`T`$|$`T`$|$`T`$|$`F`$|$`F`$|$`F`$|$`T`$|$`T`$|
+    |$`F`$|$`F`$|$`T`$|$`F`$|$`F`$|$`F`$|$`T`$|$`T`$|$`T`$|$`T`$|$`F`$|$`T`$|
 - ### Example
     - $`x=2+y\iff y=2+x`$
     - $`x=2\implies x^2=4`$
