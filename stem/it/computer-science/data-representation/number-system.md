@@ -9,4 +9,20 @@
     - #### can represent $`2^n`$ values
 - ### Decimal (base-10)：$`10^n=\text{base-10, n-digit}`$
 
+# Negative Numbers
+- ### Signed-magnitude representation
+- ### Complement
+- ### 2's Complement
+- ### 10's Complement
+
+# IEEE 754 (Floating-point)
+- ### Sign + Exponent + Mantissa(Fraction)
+- ### Single-precision
+- ### Double-precision 
+
+# Scientific notation
+- ### $E\pm n = \times 10^{\pm n}$
+- ### eg
+    - $`1201.321=1.201321 \times 10^3 = 1.201321E+3`$
+    - $`0.314=3.14 \times 10^{-1} = 3.14E-1`$
 
