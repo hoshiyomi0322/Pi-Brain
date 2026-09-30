@@ -24,3 +24,5 @@
 |Tautology|A statement that is always True|$`p \lor \neg p`$|
 |Contradiction|A statement that is always False|$`p \land \neg p`$|
 |Contingency|A statement that can be either True or False depending on its variables|$`p \lor q`$, $`\neg p`$|
+
+# Rules of Inference
