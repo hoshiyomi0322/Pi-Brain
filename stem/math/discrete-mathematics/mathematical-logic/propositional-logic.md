@@ -26,3 +26,6 @@
 |Contingency|A statement that can be either True or False depending on its variables|$`p \lor q`$, $`\neg p`$|
 
 # Rules of Inference
+|Name|Rules of Inference|Tautology|
+|:---:|:---:|:---:|
+|
