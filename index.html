@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Pi-Brain</title>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-    
     <script>
         // MathJax configuration
         window.MathJax = {
@@ -19,16 +18,6 @@
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-            },
-            startup: {
-                pageReady: function () {
-                    return MathJax.startup.defaultPageReady().then(function () {
-                        
-                        if (window.triggerMathJax) {
-                            window.triggerMathJax();
-                        }
-                    });
-                }
             }
         };
     </script>
@@ -41,25 +30,21 @@
             name: 'Pi-Brain',
             auto2top: true,
             maxLevel: 3,
-            relativePath: true, 
+            relativePath: true,
+
+            // MathJax configuration for Docsify
+            latex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']],
+                customOptions: {
+                    throwOnError: false
+                }
+            },
             
-            
+            // Custom plugin to adjust image paths
             plugins: [
                 function(hook, vm) {
-                    
-                    window.triggerMathJax = function() {
-                        if (window.MathJax && window.MathJax.typesetPromise) {
-                            var target = document.querySelector('#main');
-                            if (target) {
-                                MathJax.typesetPromise([target]).catch(function(err) {});
-                            }
-                        }
-                    };
-
-                    
-                    // Adjust image paths for relative links
                     hook.doneEach(function() {
-                        
                         var images = document.querySelectorAll('#main img');
                         images.forEach(function(img) {
                             var src = img.getAttribute('src');
@@ -73,17 +58,12 @@
                                 }
                             }
                         });
-
-                        
-                        window.triggerMathJax();
-                        
-                        setTimeout(window.triggerMathJax, 200);
                     });
                 }
             ]
         }
     </script>
-    
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </body>
 </html>
