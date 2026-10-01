@@ -131,3 +131,22 @@ section.cover h1 a{display:block}
 section.cover h1 small{bottom:-.4375rem;font-size:1rem;position:absolute}
 section.cover blockquote{font-size:1.5rem;text-align:center}
 section.cover ul{line-height:1.8;list-style-type: none;}
+
+
+/* Override the styles for h1 and links in the markdown section */
+.markdown-section h1 {
+    font-size: 2.2rem !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
+}
+.markdown-section a {
+    color: #60a5fa !important;
+    text-decoration: none;
+}
+.markdown-section a:hover {
+    color: #93c5fd !important;
+    text-decoration: underline;
+}
+.sidebar ul li a.active {
+    color: #60a5fa !important;
+}
