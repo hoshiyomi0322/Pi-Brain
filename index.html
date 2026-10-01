@@ -19,6 +19,16 @@
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+            startup: {
+                pageReady: function () {
+                    return MathJax.startup.defaultPageReady().then(function () {
+                        var main = document.querySelector('#main');
+                        if (main) {
+                            MathJax.typesetPromise([main]);
+                        }
+                    });
+                }
             }
         };
     </script>
@@ -58,6 +68,20 @@
                                 }
                             }
                         });
+                    });
+                    
+                    hook.ready(function() {
+                        if (window.MathJax && window.MathJax.typesetPromise) {
+                            MathJax.typesetPromise();
+                        }
+                    });
+                    hook.doneEach(function() {
+                        if (window.MathJax && window.MathJax.typesetPromise) {
+                            // 延遲 100 毫秒以確保 DOM 節點完全被 Docsify 塞入網頁
+                            setTimeout(function() {
+                                MathJax.typesetPromise();
+                            }, 100);
+                        }
                     });
                 }
             ]
