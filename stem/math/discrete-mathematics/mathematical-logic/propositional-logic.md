@@ -48,6 +48,11 @@
 - ### Rules of Replacement
     |Name|Rules of Inference|Tautology|
     |:---:|:---:|:---:|
-    |
+    
+# test
+|Name|Rules of Inference|Tautology|
+|:---:|:---:|:---:|
+|test|$`\begin{array}{l} p \to q \\ p \\ \hline \therefore q \end{array}`$|
+|test|$\begin{array}{l} p \to q \\ p \\ \hline \therefore q \end{array}$|
 
 
