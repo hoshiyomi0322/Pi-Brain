@@ -159,7 +159,9 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 .sidebar-nav strong,
 .sidebar-nav p,
 .sidebar>h1 a {
-  color: #ffffff !important;
+    color: #ffffff !important;
+    font-size: 19px !important;
+    line-height: 2.2em !important;
 }
 .sidebar-nav a:hover {
   opacity: 0.8 !important;
