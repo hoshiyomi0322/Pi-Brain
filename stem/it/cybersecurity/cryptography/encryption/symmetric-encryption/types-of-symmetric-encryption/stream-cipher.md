@@ -6,12 +6,12 @@
 - ### [One-Time Pad (OTP)](#one-time-pad-otp-1)
 
 # XOR Cipher
-- ### $`\left( A\oplus B \right) \oplus B = A`$
+- ### $\left( A\oplus B \right) \oplus B = A$
     - #### $A$ = Plaintext
     - #### $B$ = Key
     - #### $A\oplus B$= Ciphertext
-- ### Encrypt：$`A \overset{\oplus B}{\longrightarrow} A\oplus B`$
-- ### Decrypt：$`A\oplus B \overset{\oplus B}{\longrightarrow} A`$
+- ### Encrypt：$A \overset{\oplus B}{\longrightarrow} A\oplus B$
+- ### Decrypt：$A\oplus B \overset{\oplus B}{\longrightarrow} A$
 
 
 # Rivest Cipher 4 (RC4)

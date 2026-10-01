@@ -3,21 +3,21 @@
     - #### A vector that is Perpendicular to a function
 - ### <span id="direction-vector">Direction Vector</span>
     - #### A vector that is Parallel to a function
-- ### $`\text{Normal Vector}\cdot \text{Direction Vector}=0`$
+- ### $\text{Normal Vector}\cdot \text{Direction Vector}=0$
 
 # Types of Functions
 - ### Even Function, Odd Function
     |Even Function|Odd Function|
     |:---:|:---:|
     |Function is symmetric with respect to the Y-axis| Function is symmetric with respect to the Origin|
-    |$`f\left(x\right)=f\left(-x\right)`$|$`-f\left(x\right)=f\left(-x\right)`$|
+    |$f\left(x\right)=f\left(-x\right)$|$-f\left(x\right)=f\left(-x\right)$|
 - ### Concave Function, Convex Function
     - ### Jensen's Inequality
 - ### Inverse Function
-    - #### $`f^{-1}\left(y\right)=x,~f\left(x\right)=y`$
-    - #### $`f^{-1}\left(f\left(x\right)\right)=x,~f\left(f^{-1}\left(y\right)\right)=y`$
+    - #### $f^{-1}\left(y\right)=x,~f\left(x\right)=y$
+    - #### $f^{-1}\left(f\left(x\right)\right)=x,~f\left(f^{-1}\left(y\right)\right)=y$
 - ### Periodic Function
-    - ### $`f\left(x+n\times \text{Period}\right)=f\left( x \right)`$
+    - ### $f\left(x+n\times \text{Period}\right)=f\left( x \right)$
 
 # Equation
 - ### [Equation of the Line](equation/equation-of-the-line.md)

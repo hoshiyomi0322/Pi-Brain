@@ -52,9 +52,9 @@
             <td align="center">True Negative Rate (TNR, Specificity)<br>$TNR = \frac{TN}{FP+TN}$</td>
         </tr>
     </table>
-- ### $`\text{Accuracy} = \frac{TP+TN}{TP+TN+FP+FN}`$
-- ### $`\text{Precision} = \frac{TP}{TP+FP}`$
-- ### $`\text{F1-Score} = \frac{2 \times \text{Precision} \times \text{Sensitivity}}{\text{Precision} + \text{Sensitivity}}`$
+- ### $\text{Accuracy} = \frac{TP+TN}{TP+TN+FP+FN}$
+- ### $\text{Precision} = \frac{TP}{TP+FP}$
+- ### $\text{F1-Score} = \frac{2 \times \text{Precision} \times \text{Sensitivity}}{\text{Precision} + \text{Sensitivity}}$
 
 # Receiver Operating Characteristic Curve (ROC Curve)
 - ### Area Under the Curve (AUC)

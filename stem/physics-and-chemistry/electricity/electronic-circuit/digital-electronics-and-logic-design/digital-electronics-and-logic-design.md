@@ -10,16 +10,16 @@
 # [Logic](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-connective-logical-operator) Gate
 |Logic Gate|Boolean Expression|Logic Diagram Symbol|
 |:---:|:---:|:---:|
-|Buffer|$`A`$|<img src="./image/buffer.png" width="50%">|
-|NOT|$`\overline{A},~A^\prime`$|<img src="./image/not.png" width="50%">|
-|AND|$`A\cdot B`$|<img src="./image/and.png" width="50%">|
-|OR|$`A+B`$|<img src="./image/or.png" width="50%">|
-|NAND|$`\overline{A\cdot B}`$|<img src="./image/nand.png" width="50%">|
-|NOR|$`\overline{A+B}`$|<img src="./image/nor.png" width="50%">|
-|Exclusive OR (XOR)|$`A\oplus B`$|<img src="./image/xor.png" width="50%">|
-|Exclusive NOR (XNOR)|$`A\odot B,~\overline{A\oplus B}`$|<img src="./image/xnor.png" width="50%">|
+|Buffer|$A$|<img src="./image/buffer.png" width="50%">|
+|NOT|$\overline{A},~A^\prime$|<img src="./image/not.png" width="50%">|
+|AND|$A\cdot B$|<img src="./image/and.png" width="50%">|
+|OR|$A+B$|<img src="./image/or.png" width="50%">|
+|NAND|$\overline{A\cdot B}$|<img src="./image/nand.png" width="50%">|
+|NOR|$\overline{A+B}$|<img src="./image/nor.png" width="50%">|
+|Exclusive OR (XOR)|$A\oplus B$|<img src="./image/xor.png" width="50%">|
+|Exclusive NOR (XNOR)|$A\odot B,~\overline{A\oplus B}$|<img src="./image/xnor.png" width="50%">|
 - ### Truth Table
-    |$`A`$|$`B`$|$`A`$<br>(Buffer)|$`\overline{A}`$<br>(NOT)|$`A\cdot B`$<br>(AND)|$`A+B`$<br>(OR)|$`A\oplus B`$<br>(XOR)|$`\overline{A\cdot B}`$<br>(NAND)|$`\overline{A+B}`$<br>(NOR)|$`A\odot B`$<br>(XNOR)|
+    |$A$|$B$|$A$<br>(Buffer)|$\overline{A}$<br>(NOT)|$A\cdot B$<br>(AND)|$A+B$<br>(OR)|$A\oplus B$<br>(XOR)|$\overline{A\cdot B}$<br>(NAND)|$\overline{A+B}$<br>(NOR)|$A\odot B$<br>(XNOR)|
     |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     |1|1|1|0|1|1|0|0|0|1|
     |1|0|1|0|0|1|1|1|0|0|
@@ -28,10 +28,10 @@
 
 # Properties
 - ### [De Morgan's laws](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#de-morgans-laws)
-    - NAND：$`\overline{A\cdot B}=\overline{A}+\overline{B}`$
-    - NOR：$`\overline{A+B}=\overline{A}\cdot\overline{B}`$
-- ### XOR：$`A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}`$
-    - XNOR：$`A\odot B=\overline{A\oplus B}=A\cdot B+\overline{A}\cdot\overline{B}`$
+    - NAND：$\overline{A\cdot B}=\overline{A}+\overline{B}$
+    - NOR：$\overline{A+B}=\overline{A}\cdot\overline{B}$
+- ### XOR：$A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}$
+    - XNOR：$A\odot B=\overline{A\oplus B}=A\cdot B+\overline{A}\cdot\overline{B}$
 
 # Karnaugh map (K-map)
 
@@ -53,19 +53,19 @@
 - ### Binary Encoding
     - #### Binary-Coded Decimal (BCD)
 - ### Gray Code：two continuous values differ in only one bit    
-    - #### 1-bit Gray Code：$`\{0,~1\}`$
+    - #### 1-bit Gray Code：$\{0,~1\}$
         |Binary|Gray Code|
         |:---:|:---:|
         |0|0|
         |1|1|
-    - #### $`G_n=\{0\cdot G_{n-1}\}\cup \{1\cdot Reflect(G_{n-1})\}`$
+    - #### $G_n=\{0\cdot G_{n-1}\}\cup \{1\cdot Reflect(G_{n-1})\}$
         <img src="./image/gray-code.png" width="30%">
 
-        - $`G_i=\text{i-bit Gray Code}`$
-        - $`Reflect(\{S_1,~\cdots ,~S_n\})=\{S_n,~\cdots ,~S_1\}`$
+        - $G_i=\text{i-bit Gray Code}$
+        - $Reflect(\{S_1,~\cdots ,~S_n\})=\{S_n,~\cdots ,~S_1\}$
     - #### eg：2-bit Gray Code
-        - $`Reflect(G_{1})=Reflect(\{0,~1\})=\{1,~0\}`$
-        - $`G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}`$
+        - $Reflect(G_{1})=Reflect(\{0,~1\})=\{1,~0\}$
+        - $G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}$
 
 - ### One-Hot：only one of the bits of the value is $1$
 
@@ -76,8 +76,8 @@
     - High Impedance State ($Z$)
 - ### Tri-State Buffer
     - ### Signals
-        - Input：$`A,~B`$
-        - Output：$`C`$
+        - Input：$A,~B$
+        - Output：$C$
     - ### Logic Diagram
         <img src="./image/tri_state_buffer.png" width="40%">
     - ### Truth Table

@@ -1,16 +1,16 @@
-- ### Elementary Charge：$`e=1.602176\times{10}^{-19}(C)`$
-- ### Electric Charge：$`Q=It=CV`$
-    - ### [Unit](../../../../unit.md)：$`C`$ (Coulomb)
+- ### Elementary Charge：$e=1.602176\times{10}^{-19}(C)$
+- ### Electric Charge：$Q=It=CV$
+    - ### [Unit](../../../../unit.md)：$C$ (Coulomb)
     - ### $t$＝time($s$)
-- ### Electric Current：$`I=\frac{Q}{t}=\frac{V}{R}`$
-    - ### [Unit](../../../../unit.md)：$`A`$ (Ampere)
-- ### Voltage：$`V=IR=\frac{Q}{C}`$
-    - ### [Unit](../../../../unit.md)：$`V`$ (Volt)
-- ### Electrical Energy：$`E=QV=ItV`$
-    - ### [Unit](../../../../unit.md)：$`J`$ (Joule)
-    - ### $`E\left(t\right)=\int_{t_0}^{t}{I\left(t\right)\cdot V\left(t\right)\,dx}`$
-- ### Electric Power：$`P=\frac{E}{t}=\frac{QV}{t}=IV`$
-    - ### [Unit](../../../../unit.md)：$`W`$ (Watt)
+- ### Electric Current：$I=\frac{Q}{t}=\frac{V}{R}$
+    - ### [Unit](../../../../unit.md)：$A$ (Ampere)
+- ### Voltage：$V=IR=\frac{Q}{C}$
+    - ### [Unit](../../../../unit.md)：$V$ (Volt)
+- ### Electrical Energy：$E=QV=ItV$
+    - ### [Unit](../../../../unit.md)：$J$ (Joule)
+    - ### $E\left(t\right)=\int_{t_0}^{t}{I\left(t\right)\cdot V\left(t\right)\,dx}$
+- ### Electric Power：$P=\frac{E}{t}=\frac{QV}{t}=IV$
+    - ### [Unit](../../../../unit.md)：$W$ (Watt)
 
 # Electric Current and Electron Flow
 - ### Electric Current (Current)：正電荷的移動方向
@@ -42,15 +42,15 @@
 |<img src="./image/closed-circuit.png" width="50%">|<img src="./image/open-circuit.png" width="60%">|<img src="./image/short-circuit.png" width="50%">|
 
 # Electric Battery
-- ### Electromotive Force(EMF)：$`\varepsilon=\frac{E}{Q}=IR`$
-    - #### [Unit](../../../../unit.md)：$`V`$ (Volt)
+- ### Electromotive Force(EMF)：$\varepsilon=\frac{E}{Q}=IR$
+    - #### [Unit](../../../../unit.md)：$V$ (Volt)
     - #### $R$＝總電阻
-- ### 內電阻(電池內部的電阻)：$`r`$
-- ### 端電壓：$`V=\varepsilon-Ir=I\left(R-r\right)`$
-    - #### $`R-r=電池外部的電阻`$
+- ### 內電阻(電池內部的電阻)：$r$
+- ### 端電壓：$V=\varepsilon-Ir=I\left(R-r\right)$
+    - #### $R-r=電池外部的電阻$
 - ### 理想電池：無內電阻
     - #### $總電阻=電池外部的電阻$
-    - #### 理想電池的端電壓：$`V=\varepsilon`$
+    - #### 理想電池的端電壓：$V=\varepsilon$
 
 # Analog Circuit
 - ### [Circuit Analysis](./analog-circuit/circuit-analysis/circuit-analysis.md)

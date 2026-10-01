@@ -3,7 +3,7 @@
 # Three-way [Handshake](../../../packet.md#handshake)
 <div align="center"><img src="./image/three-way-handshake.png" width="40%"></div>
 
-- ### $`\text{SYN} \left(seq=x\right) \to \text{SYN ACK} \left(seq=y,~ack=x+1\right) \to \text{ACK} \left(ack=y+1\right)`$
+- ### $\text{SYN} \left(seq=x\right) \to \text{SYN ACK} \left(seq=y,~ack=x+1\right) \to \text{ACK} \left(ack=y+1\right)$
 
 # TCP Congestion Control
 - ### Slow Start

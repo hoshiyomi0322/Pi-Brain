@@ -1,5 +1,5 @@
-# Half Subtractor ($`A-B`$)
+# Half Subtractor ($A-B$)
 
 
-# Full Subtractor ($`A-B-{Br}_{in}`$)
+# Full Subtractor ($A-B-{Br}_{in}$)
 

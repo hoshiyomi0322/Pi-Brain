@@ -1,10 +1,10 @@
 # Notation
-- ### $`X\left[ a \right]`$：the $`a`$-th bit in $`X`$
-- ### $`X\left[ a:b \right]`$：bit from $`a`$ to $`b`$ in $`X`$
+- ### $X\left[ a \right]$：the $a$-th bit in $X$
+- ### $X\left[ a:b \right]$：bit from $a$ to $b$ in $X$
     - ### $a>b$
-- ### $`\text{RAM}\left[ \text{address} \right]`$：the content of memory at address
-- ### $`a \parallel b`$：bit concatenation of $`a`$ and $`b`$
-    - ### eg：$`00 \parallel 10=0010`$
+- ### $\text{RAM}\left[ \text{address} \right]$：the content of memory at address
+- ### $a \parallel b$：bit concatenation of $a$ and $b$
+    - ### eg：$00 \parallel 10=0010$
 
 # Address
 - ### Target Address：The Address of Code

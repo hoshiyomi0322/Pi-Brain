@@ -8,12 +8,12 @@
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
     |$S_{m-1}$|$S_0$|
-    - $`m=\text{Number of States}`$
+    - $m=\text{Number of States}$
 - ### Uses Shift Register (D Flip-Flop)
 
 # Ring Counter
 - ### Encoding：One-Hot
-- ### State ($n$-bit)：$`S_i=\underbrace{0\cdots 0}_{i}\,1\,\underbrace{0\cdots 0}_{n-i-1}`$
+- ### State ($n$-bit)：$S_i=\underbrace{0\cdots 0}_{i}\,1\,\underbrace{0\cdots 0}_{n-i-1}$
 - ### Logic Diagram ($4$-bit)
     <img src="ring-counter.png" width="60%">
 - ### Truth Table ($4$-bit)
@@ -25,7 +25,7 @@
     |$S_3$|0001|
 
 # Johnson Counter
-- ### State ($n$-bit)：$`S_i=\begin{cases}{\underbrace{1\cdots 1}_{i}\,\underbrace{0\cdots 0}_{n-i}}&{\text{if }0\leq i\leq n}\\ {\underbrace{0\cdots 0}_{i-n}\,\underbrace{1\cdots 1}_{2n-i}}&{\text{if }n<i< 2n}\end{cases}`$
+- ### State ($n$-bit)：$S_i=\begin{cases}{\underbrace{1\cdots 1}_{i}\,\underbrace{0\cdots 0}_{n-i}}&{\text{if }0\leq i\leq n}\\ {\underbrace{0\cdots 0}_{i-n}\,\underbrace{1\cdots 1}_{2n-i}}&{\text{if }n<i< 2n}\end{cases}$
 - ### Logic Diagram ($4$-bit)
     <img src="johnson-counter.png" width="60%">
 - ### Truth Table ($4$-bit)

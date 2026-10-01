@@ -1,8 +1,8 @@
 # Shift Register
 - ### Signals
-    - $`clk=\text{Clock input}`$
-    - $`D=\text{Data input}`$
-    - $`D=\text{Data output}`$
+    - $clk=\text{Clock input}$
+    - $D=\text{Data input}$
+    - $D=\text{Data output}$
 - ### Uses D Flip-Flop
 
 # Serial-In Serial-Out (SISO)
@@ -12,19 +12,19 @@
 # Serial-In Parallel-Out (SIPO)
 - ### Logic Diagram (4-bit)
     <img src="./image/sipo.png" width="60%">
-- ### Additional Input：$`Clr\text{(Clear)}`$
+- ### Additional Input：$Clr\text{(Clear)}$
 
 # Parallel-In Serial-Out (PISO)
 - ### Logic Diagram (4-bit)
     <img src="./image/piso.png" width="60%">
-- ### Additional Input：$`Shift`$
+- ### Additional Input：$Shift$
 
 # Parallel-In Parallel-Out (PIPO)
 - ### Logic Diagram (4-bit)
     <img src="./image/pipo.png" width="60%">
 
 # Linear Feedback Shift Register (LFSR)
-- ### Number of States ($n$-bit)：$`2^n-1`$
+- ### Number of States ($n$-bit)：$2^n-1$
 
 # Circular Shift Register
 - ### [Circular Shift Register](../counter/circular-shift-register/circular-shift-register.md)

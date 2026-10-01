@@ -116,21 +116,21 @@
 - 基準
     - $wall=0,1$
     - $half=\frac{1}{2}$
-    - (wall+half)的中間：$`quarter=\frac{1}{4},\frac{3}{4}`$
-    - (quater+half)的中間：$`qh=\frac{3}{8},\frac{5}{8}`$
-    - (wall+quater)的中間：$`wq=\frac{1}{8},\frac{7}{8}`$
+    - (wall+half)的中間：$quarter=\frac{1}{4},\frac{3}{4}$
+    - (quater+half)的中間：$qh=\frac{3}{8},\frac{5}{8}$
+    - (wall+quater)的中間：$wq=\frac{1}{8},\frac{7}{8}$
 - ### Opponent's Position ($x$)
-    - #### Midscreen：$`quarter(\frac{1}{4})\le x\le quarter(\frac{3}{4})`$
-    - #### Corner：$`x=wall`$
-    - #### Near-midscreen：$`quarter\le x\le half`$
-        - QHH：$`qh\le x\le half`$
-        - QQH：$`quarter\le x\le qh`$
-    - #### Near-corner：$`wall<x<quarter`$
-    - #### Near-wall：$`wall\le x<quarter`$ = Near-corner + Corner
-        - WQQ：$`wq\le x\le quarter`$
-        - WWQ：$`wall\le x\le wq`$
-- ### Own Position ($`m`$)
-    - Back-to-Wall (BTW)：$`m=wall`$
+    - #### Midscreen：$quarter(\frac{1}{4})\le x\le quarter(\frac{3}{4})$
+    - #### Corner：$x=wall$
+    - #### Near-midscreen：$quarter\le x\le half$
+        - QHH：$qh\le x\le half$
+        - QQH：$quarter\le x\le qh$
+    - #### Near-corner：$wall<x<quarter$
+    - #### Near-wall：$wall\le x<quarter$ = Near-corner + Corner
+        - WQQ：$wq\le x\le quarter$
+        - WWQ：$wall\le x\le wq$
+- ### Own Position ($m$)
+    - Back-to-Wall (BTW)：$m=wall$
 - ### Distance from Opponent
     - Close range (Close) < Mid range (Mid) < Far range (Far)
     - Mid-close range (Mid-close)：Close ~ Mid

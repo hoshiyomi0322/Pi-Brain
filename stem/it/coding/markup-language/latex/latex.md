@@ -15,7 +15,7 @@
     |$\text{a b}$|`\text{a b}`|
 
 # Displaystyle
-$`\displaystyle{text}`$
+$\displaystyle{text}$
 ```latex
 \displaystyle{text}
 ```
@@ -23,49 +23,49 @@ $`\displaystyle{text}`$
 # Left/Right：`\left` + `\right`
 |Output|LaTex|
 |:---:|:---:|
-|$`\left(x\right)`$|`\left( x \right)`|
-|$`\left[x\right]`$|`\left[ x \right]`|
-|$`\left\{x\right\}`$|`\left\{ x \right\}`|
-|$`\left\|x\right\|`$|`\left\| x \right\|`|
-|$`\left(x\right]`$|`\left( x \right]`|
+|$\left(x\right)$|`\left( x \right)`|
+|$\left[x\right]$|`\left[ x \right]`|
+|$\left\{x\right\}$|`\left\{ x \right\}`|
+|$\left\|x\right\|$|`\left\| x \right\|`|
+|$\left(x\right]$|`\left( x \right]`|
 - ### `<\left|\right> .`
     |Output|LaTex|
     |:---:|:---:|
-    |$`\left.x\right)`$|`\left. x \right)`|
-    |$`\left(x\right.`$|`\left( x \right.`|
-    |$`\left.x\right\|^a_b`$|`\left. x \right\|^a_b`|
+    |$\left.x\right)$|`\left. x \right)`|
+    |$\left(x\right.$|`\left( x \right.`|
+    |$\left.x\right\|^a_b$|`\left. x \right\|^a_b`|
 - ### Middle：`\left \middle \right`
     |Output|LaTex|
     |:---:|:---:|
-    |$`\left(x\middle\|y\right)`$|`\left( x \middle\| y \right)`|
-    |$`\left(x\middle/y\right]`$|`\left( x \middle/ y \right]`|
+    |$\left(x\middle\|y\right)$|`\left( x \middle\| y \right)`|
+    |$\left(x\middle/y\right]$|`\left( x \middle/ y \right]`|
 
 # Brackets
 |Output|LaTex|
 |:---:|:---:|
-|$`(a+b)`$|`( a+b )`|
-|$`[a+b]`$|`[ a+b ]`|
-|$`\{a+b\}`$|`\{ a+b \}`|
-|$`\|a+b\|`$|`\\| a+b \\|`|
-|$`\\|a+b\\|`$|`\\\| a+b \\\|`|
-|$`\set{S}`$|`\set{S}`|
-|$`\lceil a+b \rceil`$|`\lceil a+b \rceil`|
-|$`\lfloor a+b \rfloor`$|`\lfloor a+b \rfloor`|
-|$`\langle a+b \rangle`$|`\langle a+b \rangle`|
+|$(a+b)$|`( a+b )`|
+|$[a+b]$|`[ a+b ]`|
+|$\{a+b\}$|`\{ a+b \}`|
+|$\|a+b\|$|`\\| a+b \\|`|
+|$\\|a+b\\|$|`\\\| a+b \\\|`|
+|$\set{S}$|`\set{S}`|
+|$\lceil a+b \rceil$|`\lceil a+b \rceil`|
+|$\lfloor a+b \rfloor$|`\lfloor a+b \rfloor`|
+|$\langle a+b \rangle$|`\langle a+b \rangle`|
 - ### Big Brackets：`\big` + [Brackets](#brackets)
     |Output|LaTex|
     |:---:|:---:|
-    |$`\big(a+b\big]`$|`\big( a+b \big)`|
-    |$`\Big(a+b\Big]`$|`\Big( a+b \Big)`|
-    |$`\bigg(a+b\bigg]`$|`\bigg( a+b \bigg)`|
-    |$`\Bigg(a+b\Bigg]`$|`\Bigg( a+b \Bigg)`|
+    |$\big(a+b\big]$|`\big( a+b \big)`|
+    |$\Big(a+b\Big]$|`\Big( a+b \Big)`|
+    |$\bigg(a+b\bigg]$|`\bigg( a+b \bigg)`|
+    |$\Bigg(a+b\Bigg]$|`\Bigg( a+b \Bigg)`|
     - ### Big Left/Right Brackets：`\bigl` + [Brackets](#brackets) + `\bigr` + [Brackets](#brackets)
         |Output|LaTex|
         |:---:|:---:|
-        |$`\bigl(a+b\bigr]`$|`\bigl( a+b \bigr)`|
-        |$`\Bigl(a+b\Bigr]`$|`\Bigl( a+b \Bigr)`|
-        |$`\biggl(a+b\biggr]`$|`\biggl( a+b \biggr)`|
-        |$`\Biggl(a+b\Biggr]`$|`\Biggl( a+b \Biggr)`|
+        |$\bigl(a+b\bigr]$|`\bigl( a+b \bigr)`|
+        |$\Bigl(a+b\Bigr]$|`\Bigl( a+b \Bigr)`|
+        |$\biggl(a+b\biggr]$|`\biggl( a+b \biggr)`|
+        |$\Biggl(a+b\Biggr]$|`\Biggl( a+b \Biggr)`|
 
 # Text Formatting
 |Format|Output|LaTex|
@@ -73,8 +73,8 @@ $`\displaystyle{text}`$
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
 |Overline|$\overline{text}$|`\overline{text}`|
-|Underbrace|$`\underbrace{text}~,~\underbrace{text}_{n}`$|`\underbrace{text}`, `\underbrace{text}_{n}`|
-|Overbrace|$`\overbrace{text}~,~\overbrace{text}^{n}`$|`\overbrace{text}`, `\overbrace{text}^{n}`|
+|Underbrace|$\underbrace{text}~,~\underbrace{text}_{n}$|`\underbrace{text}`, `\underbrace{text}_{n}`|
+|Overbrace|$\overbrace{text}~,~\overbrace{text}^{n}$|`\overbrace{text}`, `\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
 |Dot|$\dot{a}$|`\dot{a}`|
@@ -95,38 +95,38 @@ $`\displaystyle{text}`$
 # Space
 |Space|Output|LaTex|
 |:---:|:---:|:---:|
-|Negative Space|$`a\!b`$|`a\!b`|
-|Thin Space|$`a\,b`$|`a\,b`|
-|Space|$`a~b`$|`a~b`|
+|Negative Space|$a\!b$|`a\!b`|
+|Thin Space|$a\,b$|`a\,b`|
+|Space|$a~b$|`a~b`|
 
 - ### Space：`~`*n
     |Output|LaTex|
     |:---:|:---:|
-    |$`a~b`$|`a~b`|
-    |$`a~~~b`$|`a~~~b`|
-    |$`a~~~~~~~b`$|`a~~~~~~~b`|
-    |$`f(x,~y)`$|`f(x,~y)`|
+    |$a~b$|`a~b`|
+    |$a~~~b$|`a~~~b`|
+    |$a~~~~~~~b$|`a~~~~~~~b`|
+    |$f(x,~y)$|`f(x,~y)`|
 
 - ### Horizon Space：`\hspace{length}`
     |Output|LaTex|
     |:---:|:---:|
-    |$`a\hspace{5mm} b`$|`a\hspace{5mm} b`|
-    |$`a\hspace{1cm} b`$|`a\hspace{1cm} b`|
-    |$`a\hspace{-1mm} b`$|`a\hspace{-1mm} b`|
-    |$`a\hspace{-5mm} b`$|`a\hspace{-5mm} b`|
+    |$a\hspace{5mm} b$|`a\hspace{5mm} b`|
+    |$a\hspace{1cm} b$|`a\hspace{1cm} b`|
+    |$a\hspace{-1mm} b$|`a\hspace{-1mm} b`|
+    |$a\hspace{-5mm} b$|`a\hspace{-5mm} b`|
 
 - ### Line Break：`\\[line spacing]`
     |Output|LaTex|
     |:---:|:---:|
-    |$`abc\\ edf`$|`abc\\ edf`|
-    |$`abc\\[5mm] edf`$|`abc\\[5mm] edf`|
-    |$`abc\\[0.2cm] edf`$|`abc\\[0.2cm] edf`|
+    |$abc\\ edf$|`abc\\ edf`|
+    |$abc\\[5mm] edf$|`abc\\[5mm] edf`|
+    |$abc\\[0.2cm] edf$|`abc\\[0.2cm] edf`|
 
 # Overset and Underset
 |Format|Output|LaTex|
 |:---:|:---:|:---:|
-|Overset|$`\overset{above}{mid}`$|`\overset{above}{mid}`|
-|Underset|$`\underset{below}{mid}`$|`\underset{below}{mid}`|
+|Overset|$\overset{above}{mid}$|`\overset{above}{mid}`|
+|Underset|$\underset{below}{mid}$|`\underset{below}{mid}`|
 
 # Superscript and Subscript
 |Format|Output|LaTex|
@@ -156,10 +156,10 @@ $`\displaystyle{text}`$
 |:---:|:---:|:---:|
 |Backslash|$\backslash$|`\backslash`|
 |Infinity|$\infty$|`\infty`|
-|Circle|$`\circ~,~180^{\circ}`$|`\circ`, `180^{\circ}`|
-|Prime|$`\prime~,~x^{\prime}~,~x^{\prime\prime}`$|`\prime`, `x^{\prime}`, `x^{\prime\prime}`|
-|Partial Derivative|$`\partial`$|`\partial`|
-|Vector Operator (Nabla)|$`\nabla`$|`\nabla`|
+|Circle|$\circ~,~180^{\circ}$|`\circ`, `180^{\circ}`|
+|Prime|$\prime~,~x^{\prime}~,~x^{\prime\prime}$|`\prime`, `x^{\prime}`, `x^{\prime\prime}`|
+|Partial Derivative|$\partial$|`\partial`|
+|Vector Operator (Nabla)|$\nabla$|`\nabla`|
 |Angle|$\angle$|`\angle`|
 |Triangle|$\triangle$|`\triangle`|
 |Square|$\square$|`\square`|
@@ -175,30 +175,30 @@ $`\displaystyle{text}`$
 - ### O, Box
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
-    |O + Plus|$`\oplus`$|`\oplus`|
-    |O + Times|$`\otimes`$|`\otimes`|
-    |O + Dot|$`\odot`$|`\odot`|
-    |O + Minus|$`\ominus`$|`\ominus`|
-    |O + Slash|$`\oslash`$|`\oslash`|
-    |Big O + Plus|$`\bigoplus`$|`\bigoplus`|
-    |Big O + Times|$`\bigotimes`$|`\bigotimes`|
-    |Big O + Dot|$`\bigodot`$|`\bigodot`|
-    |Box + Plus|$`\boxplus`$|`\boxplus`|
-    |Box + Minus|$`\boxminus`$|`\boxminus`|
-    |Box + Times|$`\boxtimes`$|`\boxtimes`|
-    |Box + Dot|$`\boxdot`$|`\boxdot`|
+    |O + Plus|$\oplus$|`\oplus`|
+    |O + Times|$\otimes$|`\otimes`|
+    |O + Dot|$\odot$|`\odot`|
+    |O + Minus|$\ominus$|`\ominus`|
+    |O + Slash|$\oslash$|`\oslash`|
+    |Big O + Plus|$\bigoplus$|`\bigoplus`|
+    |Big O + Times|$\bigotimes$|`\bigotimes`|
+    |Big O + Dot|$\bigodot$|`\bigodot`|
+    |Box + Plus|$\boxplus$|`\boxplus`|
+    |Box + Minus|$\boxminus$|`\boxminus`|
+    |Box + Times|$\boxtimes$|`\boxtimes`|
+    |Box + Dot|$\boxdot$|`\boxdot`|
 - ### [Logic Symbol](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md)
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
     |Because|$\because$|`\because`|
     |Therefore|$\therefore$|`\therefore`|
     |For All|$\forall$|`\forall`|
-    |There Exists|$`\exists`$|`\exists`|
-    |Logical NOT, Negation|$`\lnot`$|`\lnot`, `\neg`|
-    |Logical AND|$`\land`$|`\land`, `\wedge`|
-    |Logical OR|$`\lor`$|`\lor`, `\vee`|
-    |Logical XOR|$`\veebar`$|`\veebar`|
-    |Logical NAND|$`\barwedge`$|`\barwedge`|
+    |There Exists|$\exists$|`\exists`|
+    |Logical NOT, Negation|$\lnot$|`\lnot`, `\neg`|
+    |Logical AND|$\land$|`\land`, `\wedge`|
+    |Logical OR|$\lor$|`\lor`, `\vee`|
+    |Logical XOR|$\veebar$|`\veebar`|
+    |Logical NAND|$\barwedge$|`\barwedge`|
 - ### Tack Symbol
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|
@@ -279,33 +279,33 @@ $`\displaystyle{text}`$
 - ### Integral
     |Large Operator|LaTex|
     |:---:|:---:|
-    |$`\int{x}`$|`\int{x}`|
-    |$`\iint{x}`$|`\iint{x}`|
-    |$`\iiint{x}`$|`\iiint{x}`|
-    |$`\oint{x}`$|`\oint{x}`|
-    |$`\oiint{x}`$|`\oiint{x}`|
-    |$`\oiiint{x}`$|`\oiiint{x}`|
+    |$\int{x}$|`\int{x}`|
+    |$\iint{x}$|`\iint{x}`|
+    |$\iiint{x}$|`\iiint{x}`|
+    |$\oint{x}$|`\oint{x}`|
+    |$\oiint{x}$|`\oiint{x}`|
+    |$\oiiint{x}$|`\oiiint{x}`|
 - ### Interval：[Large Operator](#large-operator) + [Superscript and Subscript](#superscript-and-subscript)
     |Large Operator|LaTex|
     |:---:|:---:|
-    |$`\int_{a}^{b}{x}`$|`\int{x}_{a}^{b}{x}`|
-    |$`\int_{a}{x}`$|`\int{x}_{a}{x}`|
-    |$`\int^{b}{x}`$|`\int{x}^{b}{x}`|
-    |$`\int^{b}_{a}{3x\, dx}`$|`\int^{b}_{a}{3x \, dx}`|
-    |$`\log_{a}{x}`$|`\log_{a}{x}`|
+    |$\int_{a}^{b}{x}$|`\int{x}_{a}^{b}{x}`|
+    |$\int_{a}{x}$|`\int{x}_{a}{x}`|
+    |$\int^{b}{x}$|`\int{x}^{b}{x}`|
+    |$\int^{b}_{a}{3x\, dx}$|`\int^{b}_{a}{3x \, dx}`|
+    |$\log_{a}{x}$|`\log_{a}{x}`|
     - #### \limits：[Large Operator](#large-operator) + `\limits` + [Superscript and Subscript](#superscript-and-subscript)
         |Large Operator|LaTex|
         |:---:|:---:|
-        |$`\lim\limits_{a}{x}`$|`\lim\limits_{a}{x}`|
-        |$`\lim\limits_{a=0}{x}`$|`\lim\limits_{a=0}{x}`|
-        |$`\lim\limits_{a\to 0}{x}`$|`\lim\limits_{a\to 0}{x}`|
-        |$`\sum\limits_{a}^{b}{x}`$|`\sum\limits_{a}^{b}{x}`|
+        |$\lim\limits_{a}{x}$|`\lim\limits_{a}{x}`|
+        |$\lim\limits_{a=0}{x}$|`\lim\limits_{a=0}{x}`|
+        |$\lim\limits_{a\to 0}{x}$|`\lim\limits_{a\to 0}{x}`|
+        |$\sum\limits_{a}^{b}{x}$|`\sum\limits_{a}^{b}{x}`|
     - #### Substack：`\substack{text1\\ text2}`
         |Large Operator|LaTex|
         |:---:|:---:|
-        |$`\lim\limits_{\substack{a\\ b}}{x}`$|`\lim\limits_{\substack{a\\ b}}{x}`|
-        |$`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`$|`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`|
-        |$`\sum\limits_{\substack{a\\ b}}^{c}{x}`$|`\sum\limits_{\substack{a\\ b}}^{c}{x}`|
+        |$\lim\limits_{\substack{a\\ b}}{x}$|`\lim\limits_{\substack{a\\ b}}{x}`|
+        |$\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}$|`\lim\limits_{\substack{a=0\\ b=0\\ c=0}}{x}`|
+        |$\sum\limits_{\substack{a\\ b}}^{c}{x}$|`\sum\limits_{\substack{a\\ b}}^{c}{x}`|
 
 # Function
 |Function|Output|LaTex|
@@ -319,41 +319,41 @@ $`\displaystyle{text}`$
 - ### [Trigonometric Functions](/stem/math/trigonometric-and-hyperbolic-functions/trigonometric-functions.md)
     |Output|LaTex|
     |:---:|:---:|
-    |$`\sin{x}`$|`\sin{x}`|
-    |$`\cos{x}`$|`\cos{x}`|
-    |$`\tan{x}`$|`\tan{x}`|
-    |$`\cot{x}`$|`\cot{x}`|
-    |$`\sec{x}`$|`\sec{x}`|
-    |$`\csc{x}`$|`\csc{x}`|
+    |$\sin{x}$|`\sin{x}`|
+    |$\cos{x}$|`\cos{x}`|
+    |$\tan{x}$|`\tan{x}`|
+    |$\cot{x}$|`\cot{x}`|
+    |$\sec{x}$|`\sec{x}`|
+    |$\csc{x}$|`\csc{x}`|
     - #### Inverse Trigonometric Function
         |Output|LaTex|
         |:---:|:---:|
-        |$`\arcsin{x}`$|`\arcsin{x}`|
-        |$`\arccos{x}`$|`\arccos{x}`|
-        |$`\arctan{x}`$|`\arctan{x}`|
+        |$\arcsin{x}$|`\arcsin{x}`|
+        |$\arccos{x}$|`\arccos{x}`|
+        |$\arctan{x}$|`\arctan{x}`|
 - ### [Hyperbolic Functions](/stem/math/trigonometric-and-hyperbolic-functions/hyperbolic-functions.md)
     |Output|LaTex|
     |:---:|:---:|
-    |$`\sinh{x}`$|`\sinh{x}`|
-    |$`\cosh{x}`$|`\cosh{x}`|
-    |$`\tanh{x}`$|`\tanh{x}`|
-    |$`\coth{x}`$|`\coth{x}`|
+    |$\sinh{x}$|`\sinh{x}`|
+    |$\cosh{x}$|`\cosh{x}`|
+    |$\tanh{x}$|`\tanh{x}`|
+    |$\coth{x}$|`\coth{x}`|
 - ### Superscript and Subscript
     |Output|LaTex|
     |:---:|:---:|
-    |$`\sin^{-1}{x}`$|`\sin^{-1}{x}`|
-    |$`\sin^{3}{x}`$|`\sin^{3}{x}`|
+    |$\sin^{-1}{x}$|`\sin^{-1}{x}`|
+    |$\sin^{3}{x}$|`\sin^{3}{x}`|
 
 # eg
-- ### $`\text{arsinh}\,(x)`$
+- ### $\text{arsinh}\,(x)$
     ```latex
     \text{arsinh} \, (x)
     ```
-- ### $`\text{If }a=0,~\text{then }b=0`$
+- ### $\text{If }a=0,~\text{then }b=0$
     ```latex
     \text{If } a=0 ,~ \text{then } b=0
     ```
-- ### $`a\overset{to}{\longrightarrow}b`$
+- ### $a\overset{to}{\longrightarrow}b$
     ```latex
     a \overset{to}{\longrightarrow} b
     ```

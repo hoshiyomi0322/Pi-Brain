@@ -19,7 +19,7 @@
 # Binary Tree Traversal
 
 # Binary Search Tree(BST)
-- ### $`\text{Left Subtree}<\text{Root Node}<\text{Right Subtree}`$
+- ### $\text{Left Subtree}<\text{Root Node}<\text{Right Subtree}$
 
 # Binary Expression Tree
 - ### Expression
@@ -32,9 +32,9 @@
 
 # Binary Heap
 - ### Max Heap
-    - ### $`\text{Root Node}>\text{Left Subtree and Right Subtree}`$
+    - ### $\text{Root Node}>\text{Left Subtree and Right Subtree}$
 - ### Min Heap
-    - ### $`\text{Root Node}<\text{Left Subtree and Right Subtree}`$
+    - ### $\text{Root Node}<\text{Left Subtree and Right Subtree}$
 - ### Heapify
 - ### insert：插入last node的下一個
 - ### delete：用last node取代
@@ -43,8 +43,8 @@
 - ### Balance Factor(BF)＝左子樹高度-右子樹高度
 	|Balance Factor|Balance|
     |:---:|:---:|
-    |$`\|BF\|<2`$|balanced|
-	|$`\|BF\|\geq2`$|unbalanced|
+    |$\|BF\|<2$|balanced|
+	|$\|BF\|\geq2$|unbalanced|
 - ### Rotation(rebalancing)：將不平衡旋轉成平衡
 	|Direction|Rotation|
     |:---:|:---:|

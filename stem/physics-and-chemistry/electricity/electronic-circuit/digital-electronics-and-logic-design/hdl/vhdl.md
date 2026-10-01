@@ -63,7 +63,7 @@
     object_class name : data_type;
     object_class name : data_type := value; -- initialize
     ```
-    - ### Range：$`min\le name\le max`$
+    - ### Range：$min\le name\le max$
         ```vhdl
         object_class name : data_type range min to max;
         object_class name : data_type range min to max := value;

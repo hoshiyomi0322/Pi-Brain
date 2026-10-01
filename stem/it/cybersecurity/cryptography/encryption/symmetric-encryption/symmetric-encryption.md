@@ -1,8 +1,8 @@
 # Symmetric Encryption
 - ### Key
     - #### Session Key
-- ### Encrypt：$`\text{Plaintext} \overset{\text{key}}{\longrightarrow} \text{Ciphertext}`$
-- ### Decrypt：$`\text{Ciphertext} \overset{\text{key}}{\longrightarrow} \text{Plaintext}`$
+- ### Encrypt：$\text{Plaintext} \overset{\text{key}}{\longrightarrow} \text{Ciphertext}$
+- ### Decrypt：$\text{Ciphertext} \overset{\text{key}}{\longrightarrow} \text{Plaintext}$
 
 # Types of Symmetric Encryption
 - ### [Stream Cipher](./types-of-symmetric-encryption/stream-cipher.md)

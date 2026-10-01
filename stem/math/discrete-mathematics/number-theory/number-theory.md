@@ -3,7 +3,7 @@
 
 
 # Perfect Number
-- ### $`n=\sum{f}=2^{k-1} \times \left(2^k-1\right)`$
+- ### $n=\sum{f}=2^{k-1} \times \left(2^k-1\right)$
     - #### $f=\text{divisors excluding the number itself}$
 - ### Properties of Perfect Numbers
     - $n=\text{triangular number}$
@@ -11,16 +11,16 @@
 - ### Example：6, 28, 496, 8128
 
 # Triangular Number
-- ### $`n = 1+\cdots+k = \frac{k\left(k+1\right)}{2}`$
+- ### $n = 1+\cdots+k = \frac{k\left(k+1\right)}{2}$
 
 # Square Number
-- ### $`n=k^2`$
+- ### $n=k^2$
 
 # Fibonacci Sequence
 
 
 # Diophantine Equation
-- ### Pell's Equation：$`x^2-Dy^2=N`$
+- ### Pell's Equation：$x^2-Dy^2=N$
 
 # Riemann Hypothesis
 

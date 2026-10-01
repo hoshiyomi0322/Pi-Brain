@@ -1,5 +1,5 @@
-# Half Adder ($`A+B`$)
+# Half Adder ($A+B$)
 
 
-# Full Adder ($`A+B+C_in`$)
+# Full Adder ($A+B+C_in$)
 

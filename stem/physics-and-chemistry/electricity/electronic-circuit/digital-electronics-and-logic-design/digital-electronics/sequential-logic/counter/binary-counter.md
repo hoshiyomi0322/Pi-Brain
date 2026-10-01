@@ -1,5 +1,5 @@
 # Synchronous Binary Counter
-- ### Number of States ($n$-bit)：$`2^n`$
+- ### Number of States ($n$-bit)：$2^n$
 - ### Truth Table ($3$-bit)
     |State|Data Ouput($Q$)|
     |:---:|:---:|
@@ -16,7 +16,7 @@
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
     |$S_{m-1}$|$S_0$|
-    - $`m=\text{Number of States}=2^n`$
+    - $m=\text{Number of States}=2^n$
 
 # Asynchronous Binary Counter
 - ### Ripple Counter

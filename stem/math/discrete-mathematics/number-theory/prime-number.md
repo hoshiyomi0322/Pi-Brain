@@ -8,11 +8,11 @@
     - #### Carmichael Numbers
 
 # Fermat's Little Theorem
-- ### $`a^p \equiv a\pmod{p}`$
+- ### $a^p \equiv a\pmod{p}$
     - $p=\text{prime number}$
     - $a=\text{integer}$
 - ### $\text{If }a\text{ is not divisible by }p$
-    - ### $`a^{p-1} \equiv 1\pmod{p}`$
+    - ### $a^{p-1} \equiv 1\pmod{p}$
 
 # Prime Number Theorem
 

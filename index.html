@@ -4,9 +4,15 @@
     <meta charset="UTF-8">
     <title>Pi-Brain</title>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    
     <script>
+        //latex
         window.MathJax = {
+            loader: {
+                load: ['[tex]/extarrows', '[tex]/mathtools', '[tex]/ams']
+            },
             tex: {
+                packages: {'[+]': ['extarrows', 'mathtools', 'ams']},
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
                 processEscapes: true
@@ -22,41 +28,42 @@
     <div id="app">Loading...</div>
     <script>
         window.$docsify = {
-        name: 'Pi-Brain',
-        auto2top: true,
-        maxLevel: 3,
-        relativePath: true,
-      
-        latex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$']],
-          customOptions: {
-            throwOnError: false
-          }
-        },
-
-        plugins: [
-          function(hook, vm) {
-            hook.doneEach(function() {
-              var images = document.querySelectorAll('#main img');
-              images.forEach(function(img) {
-                var src = img.getAttribute('src');
-                
-                if (src && !/^(http|https|\/)/.test(src)) {
-                  var currentFile = vm.route.file; 
-                  if (currentFile) {
-                    var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                    if (folder) {
-                      img.setAttribute('src', folder + '/' + src);
-                    }
-                  }
+            name: 'Pi-Brain',
+            auto2top: true,
+            maxLevel: 3,
+            relativePath: true,
+            
+            latex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']],
+                customOptions: {
+                    throwOnError: false
                 }
-              });
-            });
-          }
-        ]
+            },
+
+            // Image
+            plugins: [
+                function(hook, vm) {
+                    hook.doneEach(function() {
+                        var images = document.querySelectorAll('#main img');
+                        images.forEach(function(img) {
+                            var src = img.getAttribute('src');
+                            if (src && !/^(http|https|\/)/.test(src)) {
+                                var currentFile = vm.route.file; 
+                                if (currentFile) {
+                                    var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
+                                    if (folder) {
+                                        img.setAttribute('src', folder + '/' + src);
+                                    }
+                                }
+                            }
+                        });
+                    });
+                }
+            ]
         }
     </script>
+    
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </body>

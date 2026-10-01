@@ -24,16 +24,16 @@
     |:---:|:---:|
     |$0$|Hold|
     |$1$|Reset|
-    - Clear Negative：$`ClrN=\overline{Clr}`$
+    - Clear Negative：$ClrN=\overline{Clr}$
 - ### Feedback：part of the output is feedback to the input
 
 # Clock Gating
 - ### Clock Gating：When a register is not in use, turn off its clock to reduce dynamic power.
     - Cons：potential timing issues and synchronization problems
 - ### Input Signals
-    - ### $`clk=\text{Clock input}`$
-    - ### $`en=\text{Enable}`$
-- ### Boolean Expression：$`output=clk\cdot en`$
+    - ### $clk=\text{Clock input}$
+    - ### $en=\text{Enable}$
+- ### Boolean Expression：$output=clk\cdot en$
 - ### Truth Table
     |$en$|$output$|
     |:---:|:---:|
