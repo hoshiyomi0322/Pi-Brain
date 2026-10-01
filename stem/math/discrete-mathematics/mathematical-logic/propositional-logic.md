@@ -46,7 +46,8 @@
     |Absorption|$`\begin{array}{l} p \to q \\ \hline \therefore p \to \left(p \land q\right) \end{array}`$|$`\left(p \to q\right) \to \biggl( p \to \left(p \land q\right) \biggl)`$|
     |Resolution|$`\begin{array}{l} p \lor q \\ \neg p \lor r \\ \hline \therefore q \lor r \end{array}`$|$`\biggl( \left(p \lor q\right) \land \left(\neg p \lor r\right) \biggr) \to \left(q \lor r\right)`$|
 - ### Rules of Replacement
-    |Name|Rules of Inference|Tautology|
-    |:---:|:---:|:---:|
+| Name | Rules of Inference | Tautology |
+| :---: | :---: | :---: |
+| A | B | C |
 
 
