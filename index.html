@@ -18,6 +18,9 @@
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+            startup: {
+                typeset: false
             }
         };
     </script>
@@ -58,6 +61,13 @@
                                 }
                             }
                         });
+
+                        if (window.MathJax && window.MathJax.typesetPromise) {
+                            var mathTarget = document.querySelector('#main');
+                            if (mathTarget) {
+                                MathJax.typesetPromise([mathTarget]).catch(function(err) {});
+                            }
+                        }
                     });
                 }
             ]
