@@ -9,7 +9,7 @@
     - #### [DRAM](volatile-memory.md#dynamic-ram-dram)
     - #### [SRAM](volatile-memory.md#static-ram-sram)
     - #### [ROM](non-volatile-memory.md#read-only-memory-rom)
-        - run BIOS
+        * run BIOS
             
             <img src="./image/bios.png" width="15%">
 - ### Disk Storage
