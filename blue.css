@@ -74,6 +74,7 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
 .markdown-section>*{box-sizing:border-box;font-size:inherit}
 .markdown-section>:first-child{margin-top:0!important}
 
+/* Override the border color of the h1 elements in the markdown section */
 .markdown-section h1 {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2); 
   padding-bottom: 0.3em;
