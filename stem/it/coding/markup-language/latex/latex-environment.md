@@ -1,10 +1,6 @@
 # Aligned
 - ### Command
-    $\begin{aligned}
-        ab & cdf\\
-        \vdots \\
-        efg & hi
-    \end{aligned}$
+    $\begin{aligned} ab & cdf\\ \vdots \\ efg & hi \end{aligned}$
     ```latex
     \begin{aligned}
         ab & cdf\\
@@ -13,21 +9,14 @@
     \end{aligned}
     ```
 - ### Example
-    - $\begin{aligned}
-            ab & c \\
-            & edf
-        \end{aligned}$
+    - $\begin{aligned} ab & c \\ & edf \end{aligned}$
         ```latex
         \begin{aligned}
             ab & c \\
             & edf
         \end{aligned}
         ```
-    - $\begin{aligned}
-            (a+b)^2 & = a^2 + 2ab + b^2 \\
-            & = a^2 + b^2 + 2ab \\
-            & = 2ab + a^2 + b^2
-        \end{aligned}$
+    - $\begin{aligned} (a+b)^2 & = a^2 + 2ab + b^2 \\ & = a^2 + b^2 + 2ab \\ & = 2ab + a^2 + b^2 \end{aligned}$
         ```latex
         \begin{aligned}
             (a+b)^2 & = a^2 + 2ab + b^2 \\
@@ -46,11 +35,7 @@
 
 # Matrix
 - ### Command
-    $\begin{matrix}
-        a& \cdots &b \\
-        \vdots & \ddots & \vdots \\
-        c& \cdots &d
-    \end{matrix}$
+    $\begin{matrix} a& \cdots &b \\ \vdots & \ddots & \vdots \\ c& \cdots &d \end{matrix}$
     ```latex
     \begin{matrix}
         a & \cdots & b \\
@@ -76,12 +61,7 @@
             4 &   & 6
         \end{matrix}
         ```
-    - $\left\langle
-        \begin{matrix}
-            1 & 2 \\
-            3 & 4 \\ 
-        \end{matrix}
-        \right\rangle$
+    - $\left\langle\begin{matrix} 1 & 2 \\ 3 & 4 \\ \end{matrix}\right\rangle$
         ```latex
         \left\langle
         \begin{matrix}
@@ -93,11 +73,7 @@
 
 # Array
 - ### Command
-    $\begin{array}{ccc}
-        a & \cdots & b \\
-        \vdots & \ddots & \vdots \\
-        c & \cdots & d
-    \end{array}$
+    $\begin{array}{ccc} a & \cdots & b \\ \vdots & \ddots & \vdots \\ c & \cdots & d \end{array}$
     ```latex
     \begin{array}{ccc}
         a & \cdots & b \\
@@ -112,12 +88,7 @@
     |Left|$\begin{array}{l} a+b+c \\ d \end{array}$|`\begin{array}{l} a+b+c \\ d \end{array}`|
     |Right|$\begin{array}{r} a+b+c \\ d \end{array}$|`\begin{array}{r} a+b+c \\ d \end{array}`|
     - #### Multi-column
-        $\begin{array}{clr}
-            Center & Left & Right \\
-            a+b+c & d+e+f & g+h+i \\
-            j+k & l+m & n+o \\
-            p & q & r
-        \end{array}$
+        $\begin{array}{clr} Center & Left & Right \\ a+b+c & d+e+f & g+h+i \\ j+k & l+m & n+o \\ p & q & r \end{array}$
         ```latex
         \begin{array}{clr}
             Center & Left & Right \\
@@ -135,12 +106,7 @@
             4 &   & 6
         \end{array}
         ```
-    - $\begin{array}{lcr}
-            a & b & c \\
-            123 & 456 & 789 \\ 
-            & 10 \\
-            5 & & 6
-        \end{array}$
+    - $\begin{array}{lcr} a & b & c \\ 123 & 456 & 789 \\  & 10 \\ 5 & & 6 \end{array}$
         ```latex
         \begin{array}{lcr}
             a & b & c \\
@@ -162,12 +128,7 @@
 
 # Cases
 - ### Command
-    $\begin{cases}
-        a & b \\
-        \vdots & \vdots \\
-        c & d
-    \end{cases}$
-    
+    $\begin{cases} a & b \\ \vdots & \vdots \\ c & d \end{cases}$
     ```latex
     \begin{cases}
         a & b \\
@@ -184,11 +145,7 @@
             c=77
         \end{cases}
         ```
-    - $x=\begin{cases}
-            35 & \text{if }a=0 \\
-            69 & \text{if }a>0 \\
-            77 & \text{else}
-        \end{cases}$
+    - $x=\begin{cases} 35 & \text{if }a=0 \\ 69 & \text{if }a>0 \\ 77 & \text{else} \end{cases}$
         ```latex
         x=\begin{cases}
             35 & \text{if }a=0 \\
