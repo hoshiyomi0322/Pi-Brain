@@ -197,3 +197,9 @@ section.cover ul{line-height:1.8;list-style-type: none;}
   padding: 3px 6px !important;
   border-radius: 4px !important;
 }
+
+.markdown-section li img {
+  display: block !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
