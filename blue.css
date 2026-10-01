@@ -179,3 +179,21 @@ section.cover ul{line-height:1.8;list-style-type: none;}
   color: #ffffff !important;
   font-weight: bold !important;
 }
+
+/* Override the styles for code blocks and inline code in the markdown section */
+.markdown-section pre,
+.markdown-section code {
+  background-color: #1e293b !important;
+  color: #e2e8f0 !important;
+  font-family: 'Roboto Mono', Monaco, courier, monospace !important;
+}
+.markdown-section pre {
+  padding: 15px !important;
+  border-radius: 6px !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  overflow-x: auto !important;
+}
+.markdown-section :not(pre) > code {
+  padding: 3px 6px !important;
+  border-radius: 4px !important;
+}

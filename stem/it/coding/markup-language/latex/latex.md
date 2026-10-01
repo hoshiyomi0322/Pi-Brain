@@ -20,21 +20,22 @@ $\displaystyle{text}$
 \displaystyle{text}
 ```
 
-# Left/Right：`\left` + `\right`
-|Output|LaTex|
-|:---:|:---:|
-|$\left(x\right)$|`\left( x \right)`|
-|$\left[x\right]$|`\left[ x \right]`|
-|$\left\{x\right\}$|`\left\{ x \right\}`|
-|$\left\|x\right\|$|`\left\| x \right\|`|
-|$\left(x\right]$|`\left( x \right]`|
-- ### `<\left|\right> .`
+# Left/Right
+- ### Command：`\left` + `\right`
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\left(x\right)$|`\left( x \right)`|
+    |$\left[x\right]$|`\left[ x \right]`|
+    |$\left\{x\right\}$|`\left\{ x \right\}`|
+    |$\left\|x\right\|$|`\left\| x \right\|`|
+    |$\left(x\right]$|`\left( x \right]`|
+- ### `\left.` or `\right.`
     |Output|LaTex|
     |:---:|:---:|
     |$\left.x\right)$|`\left. x \right)`|
     |$\left(x\right.$|`\left( x \right.`|
     |$\left.x\right\|^a_b$|`\left. x \right\|^a_b`|
-- ### Middle：`\left \middle \right`
+- ### Middle：`\left` + `\middle` + `\right`
     |Output|LaTex|
     |:---:|:---:|
     |$\left(x\middle\|y\right)$|`\left( x \middle\| y \right)`|
