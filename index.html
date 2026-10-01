@@ -46,7 +46,7 @@
             function(hook, vm) {
                 hook.beforeEach(function(content) {
                     if (!content) return content;
-                    var fixedContent = content.replace(/(-\s*<img[^>]*>)\n+(\s*-\s*#+)/g, '$1\n$2');
+                    var fixedContent = content.replace(/(>)\n*([ \t]*[-\*]\s+)/g, '$1\n\n$2');
                     return fixedContent;
                 });
                 
