@@ -33,7 +33,7 @@
     
     - #### Northbridge (Memory Controller Hub, MCH)
     - #### Southbridge (I/O Control Hub, ICH)
-    - #### Front Side Bus (FSB)：Northbridge $\overset{FSB}{\longleftrightarrow}$ CPU
+    - #### Front Side Bus (FSB)：Northbridge $\xrightarrow{FSB}$ CPU
 - ### PCH Architecture
     <img src="./image/pch-architecture.png" width="50%">
 

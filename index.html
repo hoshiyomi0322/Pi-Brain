@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
     
     <script>
-        //latex
+        // MathJax configuration
         window.MathJax = {
             loader: {
                 load: ['[tex]/extarrows', '[tex]/mathtools', '[tex]/ams']
@@ -23,9 +23,9 @@
             startup: {
                 pageReady: function () {
                     return MathJax.startup.defaultPageReady().then(function () {
-                        var main = document.querySelector('#main');
-                        if (main) {
-                            MathJax.typesetPromise([main]);
+                        
+                        if (window.triggerMathJax) {
+                            window.triggerMathJax();
                         }
                     });
                 }
@@ -41,20 +41,25 @@
             name: 'Pi-Brain',
             auto2top: true,
             maxLevel: 3,
-            relativePath: true,
+            relativePath: true, 
             
-            latex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']],
-                displayMath: [['$$', '$$']],
-                customOptions: {
-                    throwOnError: false
-                }
-            },
-
-            // Image
+            
             plugins: [
                 function(hook, vm) {
+                    
+                    window.triggerMathJax = function() {
+                        if (window.MathJax && window.MathJax.typesetPromise) {
+                            var target = document.querySelector('#main');
+                            if (target) {
+                                MathJax.typesetPromise([target]).catch(function(err) {});
+                            }
+                        }
+                    };
+
+                    
+                    // Adjust image paths for relative links
                     hook.doneEach(function() {
+                        
                         var images = document.querySelectorAll('#main img');
                         images.forEach(function(img) {
                             var src = img.getAttribute('src');
@@ -68,20 +73,11 @@
                                 }
                             }
                         });
-                    });
-                    
-                    hook.ready(function() {
-                        if (window.MathJax && window.MathJax.typesetPromise) {
-                            MathJax.typesetPromise();
-                        }
-                    });
-                    hook.doneEach(function() {
-                        if (window.MathJax && window.MathJax.typesetPromise) {
-                            // 延遲 100 毫秒以確保 DOM 節點完全被 Docsify 塞入網頁
-                            setTimeout(function() {
-                                MathJax.typesetPromise();
-                            }, 100);
-                        }
+
+                        
+                        window.triggerMathJax();
+                        
+                        setTimeout(window.triggerMathJax, 200);
                     });
                 }
             ]
@@ -89,6 +85,5 @@
     </script>
     
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </body>
 </html>

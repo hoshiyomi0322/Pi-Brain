@@ -59,7 +59,7 @@
     - ### Operation Code (Opcode)
         - #### Opcode table
     - ### Operand (binary)
-- ### Mnemonic $\overset{\text{Assembler}}{\longrightarrow}$ Opcode
+- ### Mnemonic $\xrightarrow{\text{Assembler}}$ Opcode
 
 # Two Pass Assembler
 - ### used to resolve Forward Reference

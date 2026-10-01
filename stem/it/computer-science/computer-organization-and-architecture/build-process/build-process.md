@@ -16,15 +16,15 @@
 
 # Compilation
 - ### Ahead-Of-Time Compilation (AOT Compilation)
-    - #### [High-Level Programming Language](#high-level-programming-language) $\overset{\text{Preprocessor}}{\longrightarrow}$ Preprocessed [Source code](#source-code) $\overset{\text{Compiler}}{\longrightarrow}$ [Assembly Language](#assembly-language) $\overset{\text{Assembler}}{\longrightarrow}$ [Object code](#object-code) $\overset{\text{Linker}}{\longrightarrow}$ [Executable code](#executable-code) $\to$ [Loader](loader.md)
+    - #### [High-Level Programming Language](#high-level-programming-language) $\xrightarrow{\text{Preprocessor}}$ Preprocessed [Source code](#source-code) $\xrightarrow{\text{Compiler}}$ [Assembly Language](#assembly-language) $\xrightarrow{\text{Assembler}}$ [Object code](#object-code) $\xrightarrow{\text{Linker}}$ [Executable code](#executable-code) $\to$ [Loader](loader.md)
 - ### Just-In-Time Compilation (JIT Compilation)
-    - #### [High-Level Programming Language](#high-level-programming-language) $\overset{\text{Compiler}}{\longrightarrow}$ Bytecode $\overset{\text{JIT Compiler}}{\longrightarrow}$ [Executable code](#executable-code) (in memory) $\to$ execution
+    - #### [High-Level Programming Language](#high-level-programming-language) $\xrightarrow{\text{Compiler}}$ Bytecode $\xrightarrow{\text{JIT Compiler}}$ [Executable code](#executable-code) (in memory) $\to$ execution
 
 # Translator
 - ### Assembler
-    - #### [Assembly Language](#assembly-language) $\overset{\text{Assembler}}{\longrightarrow}$ [Object code](#object-code)
+    - #### [Assembly Language](#assembly-language) $\xrightarrow{\text{Assembler}}$ [Object code](#object-code)
 - ### Compiler
-    - #### [High-Level Programming Language](#high-level-programming-language) $\overset{\text{Compiler}}{\longrightarrow}$ [Object code](#object-code)
+    - #### [High-Level Programming Language](#high-level-programming-language) $\xrightarrow{\text{Compiler}}$ [Object code](#object-code)
 - ### Interpreter
     - #### executes [Source code](#source-code) without compiling it to [Object code](#object-code)
     - #### eg：Python, JavaScript, Ruby

@@ -10,8 +10,8 @@
     - #### $A$ = Plaintext
     - #### $B$ = Key
     - #### $A\oplus B$= Ciphertext
-- ### Encrypt：$A \overset{\oplus B}{\longrightarrow} A\oplus B$
-- ### Decrypt：$A\oplus B \overset{\oplus B}{\longrightarrow} A$
+- ### Encrypt：$A \xrightarrow{\oplus B} A\oplus B$
+- ### Decrypt：$A\oplus B \xrightarrow{\oplus B} A$
 
 
 # Rivest Cipher 4 (RC4)
