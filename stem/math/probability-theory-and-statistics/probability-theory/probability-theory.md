@@ -6,7 +6,7 @@
     - ### [Probability of a Multivariate Random Variable](./probability-distribution/joint-distribution/multivariate-distribution-function.md#probability-of-a-multivariate-random-variable)
 - ### Sample Space($S$)
     - $P\left(S\right)=1$
-，
+
 # Random Variable
 - ### Random Variable ($X$)
     |Continuous|Discrete|
