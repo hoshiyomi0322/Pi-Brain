@@ -5,22 +5,14 @@
     <title>Pi-Brain</title>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
     <script>
-        // MathJax configuration
         window.MathJax = {
-            loader: {
-                load: ['[tex]/extarrows', '[tex]/mathtools', '[tex]/ams']
-            },
             tex: {
-                packages: {'[+]': ['extarrows', 'mathtools', 'ams']},
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
                 processEscapes: true
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-            },
-            startup: {
-                typeset: false
             }
         };
     </script>
@@ -29,49 +21,40 @@
 <body>
     <div id="app">Loading...</div>
     <script>
-        window.$docsify = {
-            name: 'Pi-Brain',
-            auto2top: true,
-            maxLevel: 3,
-            relativePath: true,
+      window.$docsify = {
+        name: 'Pi-Brain',
+        auto2top: true,
+        maxLevel: 3,
+        relativePath: true,
+      
+        latex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$']],
+          customOptions: {
+            throwOnError: false
+          }
+        },
 
-            // MathJax configuration for Docsify
-            latex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']],
-                displayMath: [['$$', '$$']],
-                customOptions: {
-                    throwOnError: false
+        plugins: [
+        function(hook, vm) {
+          hook.doneEach(function() {
+            var images = document.querySelectorAll('#main img');
+            images.forEach(function(img) {
+              var src = img.getAttribute('src');
+              if (src && !/^(http|https|\/)/.test(src)) {
+                var currentFile = vm.route.file; 
+                if (currentFile) {
+                  var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
+                  if (folder) {
+                    img.setAttribute('src', folder + '/' + src);
+                  }
                 }
-            },
-            
-            // Custom plugin to adjust image paths
-            plugins: [
-                function(hook, vm) {
-                    hook.doneEach(function() {
-                        var images = document.querySelectorAll('#main img');
-                        images.forEach(function(img) {
-                            var src = img.getAttribute('src');
-                            if (src && !/^(http|https|\/)/.test(src)) {
-                                var currentFile = vm.route.file; 
-                                if (currentFile) {
-                                    var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                                    if (folder) {
-                                        img.setAttribute('src', folder + '/' + src);
-                                    }
-                                }
-                            }
-                        });
-
-                        if (window.MathJax && window.MathJax.typesetPromise) {
-                            var mathTarget = document.querySelector('#main');
-                            if (mathTarget) {
-                                MathJax.typesetPromise([mathTarget]).catch(function(err) {});
-                            }
-                        }
-                    });
-                }
-            ]
+              }
+            });
+          });
         }
+      ]
+    }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
