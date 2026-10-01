@@ -11,6 +11,7 @@
     <img src="./image/flash-memory.png" width="25%">
     
     - #### USB Flash Drive
+        
         <img src="./image/usb-flash-drive.png" width="20%">
 
 # Solid-State Drive (SSD)
