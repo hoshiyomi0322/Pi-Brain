@@ -44,6 +44,12 @@
         
         plugins: [
             function(hook, vm) {
+                hook.beforeEach(function(content) {
+                    if (!content) return content;
+                    var fixedContent = content.replace(/(-\s*<img[^>]*>)\n+(\s*-\s*#+)/g, '$1\n$2');
+                    return fixedContent;
+                });
+                
                 hook.doneEach(function() {
                     if (vm.route.file) {
                         var fileName = vm.route.file.split('/').pop().replace('.md', '');
