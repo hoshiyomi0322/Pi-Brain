@@ -52,8 +52,8 @@
     - #### Percentile Rank ($PR$) standard-score-z-score
 - ### <span id="standard-score-z-score"> Standard Score (Z-score)：$z=\frac{x-μ}{σ}$ </span>
     - #### <span id="standardization">Standardization</span>
-        - $\text{Raw Score}\left(x\right)\overset{Standardize}{\longrightarrow}\text{Standard Score}\left(z\right)$
-    - #### $\left( μ,~σ \right) \overset{Standardize}{\longrightarrow} \left( 0,~1 \right)$
+        - $\text{Raw Score}\left(x\right)\xrightarrow{Standardize}\text{Standard Score}\left(z\right)$
+    - #### $\left( μ,~σ \right) \xrightarrow{Standardize} \left( 0,~1 \right)$
 
 # Rate of Return (RoR)
 - ### Rate of Return (RoR)：$r_n=\frac{x_n-x_{n-1}}{x_{n-1}}$

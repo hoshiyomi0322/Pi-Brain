@@ -7,7 +7,7 @@
     - ### Sample Statistic ($T$)
         - ### [Estimator ($\hat{θ}$)](estimator/estimator.md)
     - ### Estimate：the Value of Estimator
-        - ### $\text{Sample} \overset{\text{Estimator}}{\longrightarrow} \text{Estimate}$
+        - ### $\text{Sample} \xrightarrow{\text{Estimator}} \text{Estimate}$
 - ### [Methods of Point Estimation](methods-of-point-estimation.md)
 
 # Properties of Sample Statistics
