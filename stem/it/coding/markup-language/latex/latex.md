@@ -90,7 +90,6 @@ $\displaystyle{text}$
     |:---:|:---:|:---:|
     |Wide Tilde|$\widetilde{text}$|`\widetilde{text}`|
     |Wide Hat|$\widehat{text}$|`\widehat{text}`|
-    |Wide Check|$\widecheck{text}$|`\widecheck{text}`|
 
 # Space
 |Space|Output|LaTex|
@@ -352,8 +351,4 @@ $\displaystyle{text}$
 - ### $\text{If }a=0,~\text{then }b=0$
     ```latex
     \text{If } a=0 ,~ \text{then } b=0
-    ```
-- ### $a\overset{to}{\longrightarrow}b$
-    ```latex
-    a \overset{to}{\longrightarrow} b
     ```
