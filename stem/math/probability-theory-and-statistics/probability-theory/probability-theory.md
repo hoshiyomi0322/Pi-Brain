@@ -24,7 +24,7 @@
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
 - ### <span id="mode-of-continuous-random-variable">[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = $\mathop{\text{argmax}}\limits_α{~f\left(α\right)}$</span>
-    - $\big( α=\text{Mode},~f\left(α\right)=$ [Maximum](../../algebra/calculus/differential-calculus.md#extremum) of [PDF](./probability-distribution/distribution-function.md#probability-function) $\big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
+    - $\big( α=\text{Mode},~f\left(α\right)= \href{../../algebra/calculus/differential-calculus.md#extremum}{\text{Maximum}} \big) ,~ \text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
 - ### [Moment](#moment)
 
 # Inequality
