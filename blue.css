@@ -198,8 +198,18 @@ section.cover ul{line-height:1.8;list-style-type: none;}
   border-radius: 4px !important;
 }
 
+.markdown-section li {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+}
+
 .markdown-section li img {
   display: block !important;
-  margin-top: 10px !important;
-  margin-bottom: 10px !important;
+  margin-top: 12px !important;
+  margin-bottom: 12px !important;
+}
+
+.markdown-section li::marker {
+  font-size: 1em !important;
 }
