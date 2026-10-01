@@ -44,6 +44,11 @@
         plugins: [
             function(hook, vm) {
                 hook.doneEach(function() {
+                    if (vm.route.file) {
+                        var fileName = vm.route.file.split('/').pop().replace('.md', '');
+                        document.title = 'Pi-Brain：' + fileName;
+                    }
+
                     var images = document.querySelectorAll('#main img');
                     images.forEach(function(img) {
                         var src = img.getAttribute('src');
