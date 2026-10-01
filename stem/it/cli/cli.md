@@ -3,7 +3,7 @@
     - ### [Vi IMproved (Vim)](./bash/linux-development-tools/text-editor/vim.md)
     - ### GNU nano (nano)
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
-- ### [Git Command](../../it-tools/git/git-command.md)
+- ### [Git](/stem/it/it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 - ### [Terminal Multiplexer (tmux)](./bash/linux-development-tools/tmux.md)
 - ### [Conda](./bash/linux-development-tools/conda.md)

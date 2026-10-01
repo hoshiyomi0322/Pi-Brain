@@ -64,12 +64,14 @@ git diff # 查看工作目錄與暫存區的差異
 ```bash
 git restore
 git reset
+git revert
 ```
 
 # Branch
 ```bash
 git branch
 git merge
+git rebase
 ```
 
 # git initialize (git init)
