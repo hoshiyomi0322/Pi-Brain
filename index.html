@@ -41,24 +41,24 @@
         },
         
         plugins: [
-        function(hook, vm) {
-            hook.doneEach(function() {
-                var images = document.querySelectorAll('#main img');
-                images.forEach(function(img) {
-                    var src = img.getAttribute('src');
-                    if (src && !/^(http|https|\/)/.test(src)) {
-                        var currentFile = vm.route.file; 
-                        if (currentFile) {
-                            var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                            if (folder) {
-                                img.setAttribute('src', folder + '/' + src);
+            function(hook, vm) {
+                hook.doneEach(function() {
+                    var images = document.querySelectorAll('#main img');
+                    images.forEach(function(img) {
+                        var src = img.getAttribute('src');
+                        if (src && !/^(http|https|\/)/.test(src)) {
+                            var currentFile = vm.route.file; 
+                            if (currentFile) {
+                                var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
+                                if (folder) {
+                                    img.setAttribute('src', folder + '/' + src);
+                                }
                             }
                         }
-                    }
+                    });
                 });
-            });
-        }
-      ]
+            }
+        ]
     }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

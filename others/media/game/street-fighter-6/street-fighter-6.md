@@ -19,7 +19,7 @@
 - ### 補正 (ダメージ補正, Damage Scaling)
 - ### Cancel (キャンセル)
     - #### Delayed Cancel (ディレイキャンセル)
-- ### <span id="anti-air">対空 (Anti-Air)</span>
+- <h3 id="anti-air">対空 (Anti-Air)</h3>
 - ### 立ち回り：防御を固めながら相手との距離を調節する
 - ### ヒット確認 (Hit Confirm)
 - ### Setup (Set, セットプレイ)
