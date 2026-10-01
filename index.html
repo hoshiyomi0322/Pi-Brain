@@ -10,7 +10,11 @@
             tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
-                processEscapes: true
+                processEscapes: true,
+                macros: {
+                    oiint: ['\\unicode{x222F}'],
+                    oiiint: ['\\unicode{x2230}']
+                }
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
