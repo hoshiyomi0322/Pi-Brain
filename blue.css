@@ -150,3 +150,22 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 .sidebar ul li a.active {
     color: #60a5fa !important;
 }
+
+/* Override the styles for the sidebar and its elements */
+.sidebar,
+.sidebar-nav,
+.sidebar-nav a,
+.sidebar-nav li,
+.sidebar-nav strong,
+.sidebar-nav p,
+.sidebar>h1 a {
+  color: #ffffff !important;
+}
+.sidebar-nav a:hover {
+  opacity: 0.8 !important;
+  color: #ffffff !important;
+}
+.sidebar-nav li.active > a {
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
