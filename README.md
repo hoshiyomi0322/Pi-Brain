@@ -76,5 +76,5 @@
     - #### [Art](others/media/art/art.md)
     - #### [Audio](others/media/audio/audio.md)
     - #### [Video](others/media/video/video.md)
-    - #### [Computer Graphics (CG)](others/media/computer-graphics//computer-graphics.md)
+    - #### [Computer Graphics (CG)](others/media/computer-graphics/computer-graphics.md)
     - #### [Game](others/media/game/game.md)
