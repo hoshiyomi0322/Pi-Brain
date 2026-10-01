@@ -75,12 +75,13 @@
         [Operator](../latex/latex.md#operator)
         ```
 
-# Image：`![alt text](link)`
-![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
-```md
-![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
-(paste image)
-```
+# Image
+- ### Comand：`![alt text](link)`
+    ![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
+    ```md
+    ![alt text](https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s160-c-k-c0x00ffffff-no-rj)
+    (paste image)
+    ```
 - ### File：`![alt text](file path)`
     ![alt text](image.jpg)
     ```md
