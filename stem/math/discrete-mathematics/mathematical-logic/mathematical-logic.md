@@ -69,10 +69,10 @@
 - ### De Morgan's Laws
     - $\neg \left(p \land q\right) \equiv \neg p\lor \neg q$
 
-        <img src="./image/de-morgans-laws-1.png" width="30%">
+        <img src="./image/de-morgans-laws-1.png" width="20%">
     - $\neg \left(p \lor q\right) \equiv \neg p\land \neg q$
 
-        <img src="./image/de-morgans-laws-2.png" width="30%">
+        <img src="./image/de-morgans-laws-2.png" width="20%">
 - ### Equivalences of [Logical Connectives](#logical-connective-logical-operator)
     |[Logical Connectives](#logical-connective-logical-operator)|Equivalences|
     |:---:|:---:|
