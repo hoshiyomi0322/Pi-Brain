@@ -51,11 +51,13 @@
                 });
                 
                 hook.doneEach(function() {
+                    // Update the document title based on the current route
                     if (vm.route.file) {
                         var fileName = vm.route.file.split('/').pop().replace('.md', '');
                         document.title = 'Pi-Brain：' + fileName;
                     }
 
+                    // Adjust image paths to be relative to the current file's directory
                     var images = document.querySelectorAll('#main img');
                     images.forEach(function(img) {
                         var src = img.getAttribute('src');
@@ -69,6 +71,42 @@
                             }
                         }
                     });
+
+                    // Adjust links to other markdown files to be relative to the current file's directory
+                    var currentFile = vm.route.file;
+                    if (currentFile) {
+                        var links = document.querySelectorAll('#main a[href*=".md"]');
+                        var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
+
+                        links.forEach(function(a) {
+                            var href = a.getAttribute('href');
+                            if (/^(http|https|\/#\/|\/)/.test(href)) return;
+                            var parts = href.split('#');
+                            var relativePath = parts[0];
+                            var anchor = parts[1];
+                            var targetPath = (folder ? folder + '/' : '') + relativePath;
+                            var pathSegments = targetPath.split('/');
+                            var resolvedSegments = [];
+
+                            for (var i = 0; i < pathSegments.length; i++) {
+                                var segment = pathSegments[i];
+                                if (segment === '..') {
+                                    resolvedSegments.pop();
+                                } else if (segment !== '.' && segment !== '') {
+                                    resolvedSegments.push(segment);
+                                }
+                            }
+
+                            var finalPath = resolvedSegments.join('/').replace(/\.md$/, '');
+                            var newHref = '#/' + finalPath;
+                            if (anchor) {
+                                newHref += '?id=' + anchor;
+                            }
+
+                            a.setAttribute('href', newHref);
+                        });
+                    }
+
                 });
             }
         ]
