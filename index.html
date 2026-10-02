@@ -6,118 +6,113 @@
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="stylesheet" href="blue.css">
 
+    <script>
+        // MathJax configuration
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']],
+                processEscapes: true,
+                macros: {
+                    oiint: ['\\unicode{x222F}'],
+                    oiiint: ['\\unicode{x2230}']
+                }
+            },
+            options: {
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+        };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
 </head>
 <body>
     <div id="app">Loading...</div>
     <script>
-      window.$docsify = {
-        name: 'Pi-Brain',
-        homepage: 'index.md',
-        auto2top: true,
-        maxLevel: 1,
-        relativePath: true,
-
-        
-        latex: {
-            inlineMath: [['$', '$'], ['\\(', '\\)']],
-            displayMath: [['$$', '$$']],
-            customOptions: {
-                throwOnError: false,
-                tex: {
-                    
-                    macros: {
-                        oiint: ['\\unicode{x222F}'],
-                        oiiint: ['\\unicode{x2230}']
-                    }
-                },
-                
-                svg: {
-                    fontCache: 'global',
-                    styles: {
-                        'g[data-mml-node="a"] path': {
-                            'fill': '#60a5fa !important',
-                            'stroke': '#60a5fa !important'
-                        },
-                        'g[data-mml-node="a"]:hover path': {
-                            'fill': '#93c5fd !important',
-                            'stroke': '#93c5fd !important',
-                            'opacity': '0.8'
-                        }
-                    }
+        window.$docsify = {
+            name: 'Pi-Brain',
+            homepage: 'index.md',
+            auto2top: true,
+            maxLevel: 1,
+            relativePath: true,
+            
+            // LaTeX configuration for Docsify
+            latex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']],
+                customOptions: {
+                    throwOnError: false,
                 }
-            }
-        },
+            },
         
-        plugins: [
-            function(hook, vm) {
-                hook.doneEach(function() {
-
-                    // [A] Set the document title based on the current file
-                    var name = '';
-                    if (vm.route.file) {
-                        var rawName = vm.route.file.split('/').pop().replace('.md', '');
-                        var spacedName = rawName.replace(/-/g, ' ');
-
-                        name = spacedName.replace(/\b\w/g, function(char) {
-                            return char.toUpperCase();
-                        });
-                        document.title = 'Pi-Brain：' + name;
-                    }
-
-                    // [B] Update the sidebar name subtitle based on the current file
-                    var appNameContainer = document.querySelector('.app-name');
-                    if (appNameContainer) {                       
-                        var oldSubTitle = document.querySelector('.app-name-subtitle');
-                        if (oldSubTitle) {
-                            oldSubTitle.remove();
+            
+            plugins: [
+                function(hook, vm) {
+                    hook.doneEach(function() {
+                    
+                        // Set the document title based on the current file
+                        var name = '';
+                        if (vm.route.file) {
+                            var rawName = vm.route.file.split('/').pop().replace('.md', '');
+                            var spacedName = rawName.replace(/-/g, ' ');
+                        
+                            name = spacedName.replace(/\b\w/g, function(char) {
+                                return char.toUpperCase();
+                            });
+                            document.title = 'Pi-Brain：' + name;
                         }
-                        var currentFile = vm.route.file.toLowerCase();
-                        if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
-                            var subTitleElement = document.createElement('div');
-                            subTitleElement.className = 'app-name-subtitle';
-                            subTitleElement.style.fontSize = '0.70em';
-                            subTitleElement.style.fontWeight = 'normal';
-                            subTitleElement.style.color = 'rgba(255, 255, 255, 0.5)';
-                            subTitleElement.style.marginTop = '1px';
-                            subTitleElement.style.textTransform = 'none';
-                            subTitleElement.textContent = name;
-                            appNameContainer.appendChild(subTitleElement);
-                        }
-                    }
-
-                    // [C] Adjust image paths to be relative to the current file's directory
-                    var images = document.querySelectorAll('#main img');
-                    images.forEach(function(img) {
-                        var src = img.getAttribute('src');
-                        if (src && !/^(http|https|\/)/.test(src)) {
-                            var currentFile = vm.route.file; 
-                            if (currentFile) {
-                                var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                                if (folder) {
-                                    img.setAttribute('src', folder + '/' + src);
-                                }
+                    
+                        // Update the sidebar name subtitle based on the current file
+                        var appNameContainer = document.querySelector('.app-name');
+                        if (appNameContainer) {                       
+                            var oldSubTitle = document.querySelector('.app-name-subtitle');
+                            if (oldSubTitle) {
+                                oldSubTitle.remove();
+                            }
+                            // Only add the subtitle if the current file is not index.md or readme.md
+                            var currentFile = vm.route.file.toLowerCase();
+                            if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
+                                var subTitleElement = document.createElement('div');
+                                subTitleElement.className = 'app-name-subtitle';
+                                subTitleElement.style.fontSize = '0.70em';
+                                subTitleElement.style.fontWeight = 'normal';
+                                subTitleElement.style.color = 'rgba(255, 255, 255, 0.5)';
+                                subTitleElement.style.marginTop = '1px';
+                                subTitleElement.style.textTransform = 'none';
+                                subTitleElement.textContent = name;
+                                appNameContainer.appendChild(subTitleElement);
                             }
                         }
-                    });
-
-            
-                    setTimeout(function() {
+                    
+                        // Adjust image paths to be relative to the current file's directory
+                        var images = document.querySelectorAll('#main img');
+                        images.forEach(function(img) {
+                            var src = img.getAttribute('src');
+                            if (src && !/^(http|https|\/)/.test(src)) {
+                                var currentFile = vm.route.file; 
+                                if (currentFile) {
+                                    var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
+                                    if (folder) {
+                                        img.setAttribute('src', folder + '/' + src);
+                                    }
+                                }
+                            }
+                        });
+                    
+                        // Adjust links to other markdown files to be relative to the current file's directory
                         var currentFile = vm.route.file;
                         if (currentFile) {
                             var links = document.querySelectorAll('#main a[href*=".md"]');
                             var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-
+                        
                             links.forEach(function(a) {
                                 var href = a.getAttribute('href');
-                                if (!href || /^(http|https|\/#\/|\/)/.test(href)) return;
-                                
+                                if (/^(http|https|\/#\/|\/)/.test(href)) return;
                                 var parts = href.split('#');
                                 var relativePath = parts[0];
                                 var anchor = parts[1];
                                 var targetPath = (folder ? folder + '/' : '') + relativePath;
                                 var pathSegments = targetPath.split('/');
                                 var resolvedSegments = [];
-
                                 for (var i = 0; i < pathSegments.length; i++) {
                                     var segment = pathSegments[i];
                                     if (segment === '..') {
@@ -126,7 +121,6 @@
                                         resolvedSegments.push(segment);
                                     }
                                 }
-
                                 var finalPath = resolvedSegments.join('/').replace(/\.md$/, '');
                                 var newHref = '#/' + finalPath;
                                 if (anchor) {
@@ -135,12 +129,11 @@
                                 a.setAttribute('href', newHref);
                             });
                         }
-                    }, 650);
-
-                });
-            }
-        ]
-    }
+                    
+                    });
+                }
+            ]
+        }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
