@@ -213,16 +213,16 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 }
 
 /* Override the styles for MathJax and docsify-latex links */
-.MathJax a, 
-docsify-latex a, 
-.mjx-container a {
+.mjx-container a,
+.mjx-container a * {
   color: #60a5fa !important;
+  fill: #60a5fa !important;
   text-decoration: underline !important;
 }
-.MathJax a:hover, 
-docsify-latex a:hover, 
-.mjx-container a:hover {
-  opacity: 0.8 !important;
+.mjx-container a:hover,
+.mjx-container a:hover * {
   color: #93c5fd !important;
+  fill: #93c5fd !important;
+  opacity: 0.8 !important;
 }
 
