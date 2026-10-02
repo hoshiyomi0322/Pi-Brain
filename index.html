@@ -61,27 +61,6 @@
         
         plugins: [
             function(hook, vm) {
-                function resolveDocsifyPath(currentPath, relativePath) {
-                    var pathParts = currentPath.split('/');
-                    pathParts.pop();
-                    var relParts = relativePath.split('/');
-                    for (var i = 0; i < relParts.length; i++) {
-                        if (relParts[i] === '..') {
-                            pathParts.pop();
-                        } else if (relParts[i] !== '.') {
-                            pathParts.push(relParts[i]);
-                        }
-                    }
-                    
-                    var resolved = pathParts.join('/');
-                    resolved = resolved.replace(/^\//, '').replace('.md', '');
-                    if (resolved.includes('#')) {
-                        resolved = resolved.replace('#', '?id=');
-                    }
-                    
-                    return '#/' + resolved;
-                }
-
                 hook.doneEach(function() {
 
                     // Set the document title based on the current file
