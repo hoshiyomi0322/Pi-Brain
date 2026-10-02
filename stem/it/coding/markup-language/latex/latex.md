@@ -49,10 +49,10 @@ $\displaystyle{text}$
 |$\{a+b\}$|`\{ a+b \}`|
 |$\|a+b\|$|`\\| a+b \\|`|
 |$\\|a+b\\|$|`\\\| a+b \\\|`|
-|$\set{S}$|`\set{S}`|
 |$\lceil a+b \rceil$|`\lceil a+b \rceil`|
 |$\lfloor a+b \rfloor$|`\lfloor a+b \rfloor`|
 |$\langle a+b \rangle$|`\langle a+b \rangle`|
+|$\set{S}$|`\set{S}`|
 - ### Big Brackets
     |Output|LaTex|
     |:---:|:---:|
@@ -345,6 +345,9 @@ $\displaystyle{text}$
     |:---:|:---:|
     |$\sin^{-1}{x}$|`\sin^{-1}{x}`|
     |$\sin^{3}{x}$|`\sin^{3}{x}`|
+
+# Latex Packages
+- ### [hyperref](./latex-packages/hyperref.md)
 
 # eg
 - ### $\text{arsinh}\,(x)$
