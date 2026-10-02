@@ -217,18 +217,3 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     font-size: 2.2rem !important;
     font-weight: 600 !important;
 }
-
-g[data-mml-node="a"] path,
-svg a path,
-[data-mml-node="a"] * {
-  fill: #60a5fa !important;
-  stroke: #60a5fa !important;
-}
-
-g[data-mml-node="a"]:hover path,
-svg a:hover path,
-[data-mml-node="a"]:hover * {
-  opacity: 0.8 !important;
-  fill: #93c5fd !important;
-  stroke: #93c5fd !important;
-}
