@@ -4,9 +4,9 @@
 # Read Only Memory (ROM)
 - ### Programmable ROM (PROM)
     - #### Erasable PROM (EPROM)
-        <img src="./image/eprom.png" width="25%">
+        <img src="./image/eprom.png" width="15%">
     - #### Electrically-Erasable PROM (EEPROM)
-        <img src="./image/eeprom.png" width="25%">
+        <img src="./image/eeprom.png" width="15%">
 - ### Flash Memory
     ![flash-memory](./image/flash-memory.png ':size=10%')
     - #### USB Flash Drive
@@ -24,9 +24,9 @@
     - #### SAS HDD
     - #### FC HDD
 - ### Floppy Disk
-    <img src="./image/floppy-disk.png" width="20%">
+    <img src="./image/floppy-disk.png" width="15%">
 - ### Magnetic Tape
-    <img src="./image/magnetic-tape.png" width="20%">
+    <img src="./image/magnetic-tape.png" width="15%">
 
 # Optical Disc
 - ### Compact Disc (CD)
