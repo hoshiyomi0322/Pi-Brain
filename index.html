@@ -62,6 +62,13 @@
                     // Update the sidebar name subtitle based on the current file
                     var appNameContainer = document.querySelector('.app-name');
                     if (appNameContainer) {
+                        var mainTitleLink = appNameContainer.querySelector('a');
+                        if (mainTitleLink) {
+                            mainTitleLink.style.fontSize = '1.3em';
+                            mainTitleLink.style.fontWeight = 'bold';
+                            mainTitleLink.style.display = 'block';
+                        }
+                        
                         var oldSubTitle = document.querySelector('.app-name-subtitle');
                         if (oldSubTitle) {
                             oldSubTitle.remove();
@@ -71,7 +78,7 @@
                         if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
                             var subTitleElement = document.createElement('div');
                             subTitleElement.className = 'app-name-subtitle';
-                            subTitleElement.style.fontSize = '0.65em';
+                            subTitleElement.style.fontSize = '0.70em';
                             subTitleElement.style.fontWeight = 'normal';
                             subTitleElement.style.color = 'rgba(255, 255, 255, 0.5)';
                             subTitleElement.style.marginTop = '5px';
