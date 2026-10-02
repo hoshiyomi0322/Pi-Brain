@@ -44,18 +44,41 @@
         },
         
         plugins: [
-            function(hook, vm) {
-                hook.beforeEach(function(content) {
-                    if (!content) return content;
-                    var fixedContent = content.replace(/(>)\n*([ \t]*[-\*]\s+)/g, '$1\n\n$2');
-                    return fixedContent;
-                });
-                
+            function(hook, vm) {           
                 hook.doneEach(function() {
-                    // Update the document title based on the current route
+
+                    // Set the document title based on the current file
+                    var name = '';
                     if (vm.route.file) {
-                        var fileName = vm.route.file.split('/').pop().replace('.md', '');
-                        document.title = 'Pi-Brain：' + fileName;
+                        var rawName = vm.route.file.split('/').pop().replace('.md', '');
+                        var spacedName = rawName.replace(/-/g, ' ');
+
+                        name = spacedName.replace(/\b\w/g, function(char) {
+                            return char.toUpperCase();
+                        });
+                        document.title = 'Pi-Brain：' + name;
+                    }
+
+                    // Update the sidebar name subtitle based on the current file
+                    var appNameContainer = document.querySelector('.app-name');
+                    if (appNameContainer) {
+                        var oldSubTitle = document.querySelector('.app-name-subtitle');
+                        if (oldSubTitle) {
+                            oldSubTitle.remove();
+                        }
+                        // Only add the subtitle if the current file is not index.md or readme.md
+                        var currentFile = vm.route.file.toLowerCase();
+                        if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
+                            var subTitleElement = document.createElement('div');
+                            subTitleElement.className = 'app-name-subtitle';
+                            subTitleElement.style.fontSize = '0.65em';
+                            subTitleElement.style.fontWeight = 'normal';
+                            subTitleElement.style.color = '#666';
+                            subTitleElement.style.marginTop = '5px';
+                            subTitleElement.style.textTagName = 'none';
+                            subTitleElement.textContent = name;
+                            appNameContainer.appendChild(subTitleElement);
+                        }
                     }
 
                     // Adjust image paths to be relative to the current file's directory
