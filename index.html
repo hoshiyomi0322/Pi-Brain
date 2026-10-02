@@ -1,14 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hant-TW">
 <head>
     <meta charset="UTF-8">
-    <title>Pi-Brain</title>
-    <link rel="icon" type="image/png" href="./web/icon-64.png">
-    <link rel="manifest" href="./web/manifest.json">
-    <link rel="stylesheet" href="./web/blue.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="description" content="Pi-Brain — 個人 Markdown 技術筆記">
 
+    <title>Pi-Brain</title>
+
+    <!-- Favicon / Android PWA -->
+    <link rel="icon" type="image/png" sizes="64x64" href="./web/icon.png">
+    <link rel="manifest" href="./web/manifest.json">
+
+    <link rel="stylesheet" href="./web/">
+
+    <!-- MathJax 3 -->
     <script>
-        // MathJax configuration
         window.MathJax = {
             tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -21,161 +28,184 @@
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-            },
-            
-            // SVG output configuration
-            svg: {
-                fontCache: 'global',
-                styles: {
-                    'g[data-mml-node="a"] path': {
-                        'fill': '#60a5fa !important',
-                        'stroke': '#60a5fa !important'
-                    },
-                    'g[data-mml-node="a"]:hover path': {
-                        'fill': '#93c5fd !important',
-                        'stroke': '#93c5fd !important',
-                        'opacity': '0.8'
-                    }
-                }
             }
         };
     </script>
-    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
 </head>
+
 <body>
     <div id="app">Loading...</div>
+
     <script>
         window.$docsify = {
             name: 'Pi-Brain',
             homepage: 'index.md',
+            relativePath: true,
             auto2top: true,
             maxLevel: 1,
-            relativePath: true,
-            
-            // LaTeX configuration for Docsify
+
+            // Docsify LaTeX plugin → MathJax 3
             latex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
                 customOptions: {
-                    throwOnError: false,
+                    throwOnError: false
                 }
             },
-        
-            
+
             plugins: [
-                function(hook, vm) {
-                    hook.doneEach(function() {
-                    
-                        // Set the document title based on the current file
-                        var name = '';
-                        if (vm.route.file) {
-                            var rawName = vm.route.file.split('/').pop().replace('.md', '');
-                            var spacedName = rawName.replace(/-/g, ' ');
-                        
-                            name = spacedName.replace(/\b\w/g, function(char) {
-                                return char.toUpperCase();
-                            });
-                            document.title = 'Pi-Brain：' + name;
-                        }
-                    
-                        // Update the sidebar name subtitle based on the current file
-                        var appNameContainer = document.querySelector('.app-name');
-                        if (appNameContainer) {                       
-                            var oldSubTitle = document.querySelector('.app-name-subtitle');
-                            if (oldSubTitle) {
-                                oldSubTitle.remove();
-                            }
-                            // Only add the subtitle if the current file is not index.md or readme.md
-                            var currentFile = vm.route.file.toLowerCase();
-                            if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
-                                var subTitleElement = document.createElement('div');
-                                subTitleElement.className = 'app-name-subtitle';
-                                subTitleElement.style.fontSize = '0.70em';
-                                subTitleElement.style.fontWeight = 'normal';
-                                subTitleElement.style.color = 'rgba(255, 255, 255, 0.5)';
-                                subTitleElement.style.marginTop = '1px';
-                                subTitleElement.style.textTransform = 'none';
-                                subTitleElement.textContent = name;
-                                appNameContainer.appendChild(subTitleElement);
-                            }
-                        }
-                    
-                        // Adjust image paths to be relative to the current file's directory
-                        var images = document.querySelectorAll('#main img');
-                        images.forEach(function(img) {
-                            var src = img.getAttribute('src');
-                            if (src && !/^(http|https|\/)/.test(src)) {
-                                var currentFile = vm.route.file; 
-                                if (currentFile) {
-                                    var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                                    if (folder) {
-                                        img.setAttribute('src', folder + '/' + src);
-                                    }
-                                }
-                            }
-                        });
-                    
-                        // Adjust links to other markdown files to be relative to the current file's directory
-                        var currentFile = vm.route.file;
-                        if (currentFile) {
-                            var links = document.querySelectorAll('#main a[href*=".md"]');
-                            var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                        
-                            links.forEach(function(a) {
-                                var href = a.getAttribute('href');
-                                if (/^(http|https|\/#\/|\/)/.test(href)) return;
-                                var parts = href.split('#');
-                                var relativePath = parts[0];
-                                var anchor = parts[1];
-                                var targetPath = (folder ? folder + '/' : '') + relativePath;
-                                var pathSegments = targetPath.split('/');
-                                var resolvedSegments = [];
-                                for (var i = 0; i < pathSegments.length; i++) {
-                                    var segment = pathSegments[i];
-                                    if (segment === '..') {
-                                        resolvedSegments.pop();
-                                    } else if (segment !== '.' && segment !== '') {
-                                        resolvedSegments.push(segment);
-                                    }
-                                }
-                                var finalPath = resolvedSegments.join('/').replace(/\.md$/, '');
-                                var newHref = '#/' + finalPath;
-                                if (anchor) {
-                                    newHref += '?id=' + anchor;
-                                }
-                                a.setAttribute('href', newHref);
-                            });
-                        }
-                    
+                function piBrainPlugin(hook, vm) {
+                    hook.doneEach(function () {
+                        updateDocumentTitle(vm);
+                        updateSidebarSubtitle(vm);
+                        fixRelativeImages(vm);
+                        fixRelativeMarkdownLinks(vm);
                     });
                 }
             ]
+        };
+
+        function getPageFolder(vm) {
+            var currentFile = vm.route && vm.route.file ? vm.route.file : '';
+            var lastSlash = currentFile.lastIndexOf('/');
+            return lastSlash >= 0 ? currentFile.substring(0, lastSlash) : '';
+        }
+
+        function updateDocumentTitle(vm) {
+            if (!vm.route || !vm.route.file) return;
+
+            var rawName = vm.route.file
+                .split('/')
+                .pop()
+                .replace(/\.md$/i, '');
+
+            var pageName = rawName
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, function (char) {
+                    return char.toUpperCase();
+                });
+
+            document.title = pageName ? 'Pi-Brain：' + pageName : 'Pi-Brain';
+        }
+
+        function updateSidebarSubtitle(vm) {
+            var appNameContainer = document.querySelector('.app-name');
+            if (!appNameContainer || !vm.route || !vm.route.file) return;
+
+            var oldSubTitle = appNameContainer.querySelector('.app-name-subtitle');
+            if (oldSubTitle) oldSubTitle.remove();
+
+            var currentFile = vm.route.file.toLowerCase();
+            if (currentFile === 'index.md' || currentFile === 'readme.md') return;
+
+            var rawName = vm.route.file
+                .split('/')
+                .pop()
+                .replace(/\.md$/i, '');
+
+            var pageName = rawName
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, function (char) {
+                    return char.toUpperCase();
+                });
+
+            if (!pageName) return;
+
+            var subTitle = document.createElement('div');
+            subTitle.className = 'app-name-subtitle';
+            subTitle.textContent = pageName;
+            appNameContainer.appendChild(subTitle);
+        }
+
+        function fixRelativeImages(vm) {
+            var folder = getPageFolder(vm);
+            var images = document.querySelectorAll('#main img[src]');
+
+            images.forEach(function (img) {
+                if (img.dataset.pbResolved === 'true') return;
+
+                var src = img.getAttribute('src');
+                if (!src || /^(?:https?:|data:|blob:|\/)/i.test(src)) return;
+
+                img.setAttribute(
+                    'src',
+                    (folder ? folder + '/' : '') + src
+                );
+                img.dataset.pbResolved = 'true';
+            });
+        }
+
+        function fixRelativeMarkdownLinks(vm) {
+            var folder = getPageFolder(vm);
+            var links = document.querySelectorAll('#main a[href*=".md"]');
+
+            links.forEach(function (link) {
+                if (link.dataset.pbResolved === 'true') return;
+
+                var href = link.getAttribute('href');
+                if (!href) return;
+
+                // Leave absolute URLs, root paths and already-routed Docsify links alone.
+                if (/^(?:https?:|mailto:|tel:|javascript:|\/|#\/)/i.test(href)) return;
+
+                var parts = href.split('#');
+                var relativePath = parts[0];
+                var anchor = parts.slice(1).join('#');
+
+                var targetPath = (folder ? folder + '/' : '') + relativePath;
+                var segments = targetPath.split('/');
+                var resolvedSegments = [];
+
+                segments.forEach(function (segment) {
+                    if (!segment || segment === '.') return;
+                    if (segment === '..') {
+                        resolvedSegments.pop();
+                    } else {
+                        resolvedSegments.push(segment);
+                    }
+                });
+
+                var finalPath = resolvedSegments
+                    .join('/')
+                    .replace(/\.md$/i, '');
+
+                var newHref = '#/' + finalPath;
+                if (anchor) newHref += '?id=' + encodeURIComponent(anchor);
+
+                link.setAttribute('href', newHref);
+                link.dataset.pbResolved = 'true';
+            });
         }
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
-    // PrismJS configuration for syntax highlighting
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-rust.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script> 
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markup.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script> 
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script> 
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-latex.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script> 
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-vhdl.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-verilog.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script> 
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-batch.min.js"></script>
+    <!-- Docsify -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+
+    <!-- LaTeX plugin for Docsify + MathJax 3 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+
+    <!-- PrismJS syntax highlighting -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-rust.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markup.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-latex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-vhdl.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-verilog.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-batch.min.js"></script>
 </body>
 </html>
