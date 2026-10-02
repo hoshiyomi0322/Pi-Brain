@@ -37,7 +37,6 @@
 - ### Central Limit Theorem (CLT)
     ![central-limit-theorem](./image/central-limit-theorem.png ':size=60%')
     - $X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \xrightarrow{n \to \infty} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)$
-    
     - #### Population Distribution ([IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid))：$X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right)$
         - $μ = \href{../statistics/descriptive-statistics.md#arithmetic-mean-am}{\text{Population Mean}}$
         - $σ^2 = \href{../statistics/variance.md#variance}{\text{Population Variance}}$
