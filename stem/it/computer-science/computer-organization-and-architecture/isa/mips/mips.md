@@ -4,4 +4,4 @@
 - ### Coprocessor Register(32-bit)
 
 # MIPS Pipeline
-- ### [Five-Stage Pipeline](../../parallel-computing/pipeline.md#five-stage-pipeline)
+- ### [Five-Stage Pipeline](../../parallel-computing/pipeline/pipeline.md#five-stage-pipeline)
