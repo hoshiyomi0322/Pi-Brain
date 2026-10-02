@@ -1,5 +1,5 @@
 :root {
-  --sidebar-width: min(86vw, 300px);
+  --sidebar-width: min(86vw, 300px); /* 在這裡定義你的側邊欄寬度 */
 }
 
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
@@ -54,7 +54,7 @@ li input[type=checkbox]{margin:0 .2em .25em 0;vertical-align:middle}
 main{display:block;position:relative;width:100vw;height:100%;z-index:0;background-color:#0f172a}
 main.hidden{display:none}.anchor{display:inline-block;text-decoration:none;transition:all .3s}.anchor span{color:#c8c8c8}.anchor:hover{text-decoration:underline}
 
-.sidebar{border-right:1px solid rgba(0,0,0,.07);overflow-y:auto;padding:10px 0 0;position:absolute;top:0;bottom:0;left:0;transition:transform .25s ease-out;width:var(--sidebar-width);z-index:20;background-color:#1e293b}
+.sidebar{border-right:1px solid rgba(0,0,0,.07);overflow-y:auto;padding:10px 0 0;position:absolute;top:0;bottom:0;left:0;transition:transform .25s ease-out;width:300px;z-index:20;background-color:#1e293b}
 .sidebar>h1{margin:0 auto 1rem;font-size:1.5rem;font-weight:300;text-align:center}
 .sidebar>h1 a{color:inherit;text-decoration:none}
 .sidebar>h1 .app-nav{display:block;position:static}
@@ -73,7 +73,7 @@ main.hidden{display:none}.anchor{display:inline-block;text-decoration:none;trans
 .sidebar-toggle:hover .sidebar-toggle-button{opacity:.4}
 .sidebar-toggle span{background-color:#ea6f5a;background-color:var(--theme-color,#ea6f5a);display:block;margin-bottom:4px;width:16px;height:2px}
 body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
-.content{padding-top:60px;position:absolute;top:0;right:0;bottom:0;left:var(--sidebar-width);transition:left .25s ease}
+.content{padding-top:60px;position:absolute;top:0;right:0;bottom:0;left:300px;transition:left .25s ease}
 .markdown-section{margin:0 auto;max-width:80%;padding:30px 15px 40px;position:relative}
 .markdown-section>*{box-sizing:border-box;font-size:inherit}
 .markdown-section>:first-child{margin-top:0!important}
@@ -102,95 +102,26 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
 .markdown-section p.tip em{color:#c8c8c8}
 .markdown-section p.warn{background:rgba(234,111,90,.1);border-radius:2px;padding:1rem}
 .markdown-section ul.task-list>li{list-style-type:none}
+body.close .sidebar{transform:translateX(-300px)}
+body.close .sidebar-toggle{width:auto}
+body.close .content{left:0}
 @media print{.app-nav,.github-corner,.sidebar,.sidebar-toggle{display:none}}
-@media screen and (max-width:768px) {
-    .github-corner,
-    .sidebar,
-    .sidebar-toggle {
-        position: fixed;
-    }
-
-    .app-nav {
-        margin-top: 16px;
-    }
-
-    .app-nav li ul {
-        top: 30px;
-    }
-
-    main {
-        height: auto;
-        min-height: 100vh;
-        overflow-x: hidden;
-    }
-
-    /* =========================
-       Mobile Sidebar
-       Default: CLOSED
-       ========================= */
-
-    .sidebar {
-        left: -var(--sidebar-width);
-        transform: translateX(0);
-        transition: transform .25s ease-out;
-    }
-
-    /* When opened */
-    body.close .sidebar {
-        transform: translateX(var(--sidebar-width));
-    }
-
-    /* Content stays in place */
-    .content {
-        left: 0;
-        max-width: 100vw;
-        position: static;
-        padding-top: 20px;
-        transition: none;
-    }
-
-    .app-nav,
-    .github-corner {
-        transition: none;
-    }
-
-    .sidebar-toggle {
-        background-color: transparent;
-        width: auto;
-        padding: 30px 30px 10px 10px;
-    }
-
-    /* Sidebar is open */
-    body.close .sidebar-toggle {
-        background-color: rgba(63, 63, 63, .8);
-        transition: background-color .25s;
-        width: 284px;
-        padding: 10px;
-    }
-
-    /* IMPORTANT:
-       Content must NOT move when sidebar opens */
-    body.close .content {
-        transform: none;
-    }
-
-    body.close .app-nav,
-    body.close .github-corner {
-        display: none;
-    }
-
-    .github-corner:hover .octo-arm {
-        animation: none;
-    }
-
-    .github-corner .octo-arm {
-        animation: octocat-wave .56s ease-in-out;
-    }
+@media screen and (max-width:768px){
+    .github-corner,.sidebar,.sidebar-toggle{position:fixed}
+    .app-nav{margin-top:16px}
+    .app-nav li ul{top:30px}
+    main{height:auto;min-height:100vh;overflow-x:hidden}
+    .sidebar{left:-300px;transition:transform .25s ease-out}
+    .content{left:0;max-width:100vw;position:static;padding-top:20px;transition:transform .25s ease}
+    .app-nav,.github-corner{transition:transform .25s ease-out}
+    .sidebar-toggle{background-color:transparent;width:auto;padding:30px 30px 10px 10px}
+    body.close .sidebar{transform:translateX(300px)}
+    body.close .sidebar-toggle{background-color:rgba(63,63,63,.8);transition:background-color 1s;width:284px;padding:10px}
+    body.close .content{transform:translateX(300px)}
+    body.close .app-nav,body.close .github-corner{display:none}
+    .github-corner:hover .octo-arm{animation:none}
+    .github-corner .octo-arm{animation:octocat-wave .56s ease-in-out}
 }
-
-
-
-
 @keyframes octocat-wave{0%,to{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}
 section.cover{position:relative;align-items:center;background-position:50%;background-repeat:no-repeat;background-size:cover;min-height:100vh;width:100%;display:none}
 section.cover.show{display:flex}
