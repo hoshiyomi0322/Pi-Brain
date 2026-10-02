@@ -36,7 +36,6 @@
 # Limit Theorems of Probability
 - ### Central Limit Theorem (CLT)
     
-    <img src="./image/central-limit-theorem.png" width="60%">
     
     - $X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \xrightarrow{n \to \infty} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)$
     
@@ -51,6 +50,8 @@
         - #### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right) \xrightarrow{Standardize} Z\sim N\left(0,~1\right)$
         - #### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}$
             - $SE$ = [Standard Error (SE)](../statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator.md#standard-error-se)
+    
+    <img src="./image/central-limit-theorem.png" width="60%">
 - ### Law of Large Numbers
 
 # Random Process (Stochastic Process)

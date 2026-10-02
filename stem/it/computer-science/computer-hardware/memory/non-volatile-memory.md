@@ -9,11 +9,11 @@
         <img src="./image/eeprom.png" width="25%">
 - ### Flash Memory
     
-    <img src="./image/flash-memory.png" width="25%">
     
     - #### USB Flash Drive
 
         <img src="./image/usb-flash-drive.png" width="20%">
+<img src="./image/flash-memory.png" width="25%">
 
 # Solid-State Drive (SSD)
 <div align="center"><img src="./image/ssd.png" width="75%"></div>
