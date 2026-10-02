@@ -198,17 +198,31 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     border-radius: 4px !important;
 }
 
+/* Override the styles for lists in the markdown section */
 .markdown-section li {
     white-space: normal !important;
     word-break: break-word !important;
 }
-
 .markdown-section li img {
     display: block !important;
     margin-top: 12px !important;
     margin-bottom: 12px !important;
 }
-
 .markdown-section li::marker {
     font-size: 1em !important;
 }
+
+/* Override the styles for MathJax and docsify-latex links */
+.MathJax a, 
+docsify-latex a, 
+.mjx-container a {
+  color: #60a5fa !important;
+  text-decoration: underline !important;
+}
+.MathJax a:hover, 
+docsify-latex a:hover, 
+.mjx-container a:hover {
+  opacity: 0.8 !important;
+  color: #93c5fd !important;
+}
+
