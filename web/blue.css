@@ -102,9 +102,6 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
 .markdown-section p.tip em{color:#c8c8c8}
 .markdown-section p.warn{background:rgba(234,111,90,.1);border-radius:2px;padding:1rem}
 .markdown-section ul.task-list>li{list-style-type:none}
-body.close .sidebar{transform: translateX(0);}
-body.close .sidebar-toggle{width:auto}
-body.close .content{left:0}
 @media print{.app-nav,.github-corner,.sidebar,.sidebar-toggle{display:none}}
 @media screen and (max-width:768px) {
     .github-corner,
@@ -127,19 +124,23 @@ body.close .content{left:0}
         overflow-x: hidden;
     }
 
-    /* Mobile sidebar */
+    /* =========================
+       Mobile Sidebar
+       Default: CLOSED
+       ========================= */
+
     .sidebar {
-        left: 0;
+        left: -var(--sidebar-width);
         transform: translateX(0);
         transition: transform .25s ease-out;
     }
 
-    /* body.close = sidebar closed */
+    /* When opened */
     body.close .sidebar {
-        transform: translateX(-var(--sidebar-width));
+        transform: translateX(var(--sidebar-width));
     }
 
-    /* Content does NOT move */
+    /* Content stays in place */
     .content {
         left: 0;
         max-width: 100vw;
@@ -148,7 +149,6 @@ body.close .content{left:0}
         transition: none;
     }
 
-    /* Don't move the navigation either */
     .app-nav,
     .github-corner {
         transition: none;
@@ -160,21 +160,23 @@ body.close .content{left:0}
         padding: 30px 30px 10px 10px;
     }
 
+    /* Sidebar is open */
     body.close .sidebar-toggle {
         background-color: rgba(63, 63, 63, .8);
         transition: background-color .25s;
-        width: auto;
+        width: 284px;
         padding: 10px;
     }
 
-    /* Keep content in place */
+    /* IMPORTANT:
+       Content must NOT move when sidebar opens */
     body.close .content {
         transform: none;
     }
 
     body.close .app-nav,
     body.close .github-corner {
-        display: block;
+        display: none;
     }
 
     .github-corner:hover .octo-arm {
@@ -185,6 +187,7 @@ body.close .content{left:0}
         animation: octocat-wave .56s ease-in-out;
     }
 }
+
 
 
 
