@@ -20,6 +20,22 @@
             },
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+            
+            // SVG output configuration
+            svg: {
+                fontCache: 'global',
+                styles: {
+                    'g[data-mml-node="a"] path, g[data-mml-node="a"] *': {
+                        'fill': '#60a5fa !important',
+                        'stroke': '#60a5fa !important'
+                    },
+                    'g[data-mml-node="a"]:hover path, g[data-mml-node="a"]:hover *': {
+                        'fill': '#93c5fd !important',
+                        'stroke': '#93c5fd !important',
+                        'opacity': '0.8'
+                    }
+                }
             }
         };
     </script>
@@ -44,8 +60,45 @@
         },
         
         plugins: [
-            function(hook, vm) {           
+            function(hook, vm) {
+                function resolveDocsifyPath(currentPath, relativePath) {
+                    var pathParts = currentPath.split('/');
+                    pathParts.pop();
+                    var relParts = relativePath.split('/');
+                    for (var i = 0; i < relParts.length; i++) {
+                        if (relParts[i] === '..') {
+                            pathParts.pop();
+                        } else if (relParts[i] !== '.') {
+                            pathParts.push(relParts[i]);
+                        }
+                    }
+                    
+                    var resolved = pathParts.join('/');
+                    resolved = resolved.replace(/^\//, '').replace('.md', '');
+                    if (resolved.includes('#')) {
+                        resolved = resolved.replace('#', '?id=');
+                    }
+                    
+                    return '#/' + resolved;
+                }
+
                 hook.doneEach(function() {
+
+                    // Adjust MathJax links to be relative to the current file's directory
+                    hook.doneEach(function() {
+                    setTimeout(function() {
+                        var mathLinks = document.querySelectorAll('.mjx-container a, [data-mml-node="a"]');
+                        mathLinks.forEach(function(link) {
+                            var href = link.getAttribute('href') || link.getAttribute('xlink:href');
+                            if (href && (href.startsWith('../') || href.startsWith('./')) && !href.startsWith('#/')) {
+                                var correctUrl = resolveDocsifyPath(vm.route.path, href);
+                                link.setAttribute('href', correctUrl);
+                                if(link.hasAttribute('xlink:href')) {
+                                    link.setAttribute('xlink:href', correctUrl);
+                                }
+                            }
+                        });
+                    }, 600);
 
                     // Set the document title based on the current file
                     var name = '';

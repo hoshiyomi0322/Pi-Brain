@@ -212,20 +212,6 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     font-size: 1em !important;
 }
 
-/* Override the styles for MathJax and docsify-latex links */
-.mjx-container a,
-.mjx-container a * {
-  color: #60a5fa !important;
-  fill: #60a5fa !important;
-  text-decoration: underline !important;
-}
-.mjx-container a:hover,
-.mjx-container a:hover * {
-  color: #93c5fd !important;
-  fill: #93c5fd !important;
-  opacity: 0.8 !important;
-}
-
 /* Override the styles for the sidebar title link */
 .sidebar > h1 a {
     font-size: 2.2rem !important;
