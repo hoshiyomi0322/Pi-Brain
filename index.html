@@ -84,22 +84,6 @@
 
                 hook.doneEach(function() {
 
-                    // Adjust MathJax links to be relative to the current file's directory
-                    hook.doneEach(function() {
-                    setTimeout(function() {
-                        var mathLinks = document.querySelectorAll('.mjx-container a, [data-mml-node="a"]');
-                        mathLinks.forEach(function(link) {
-                            var href = link.getAttribute('href') || link.getAttribute('xlink:href');
-                            if (href && (href.startsWith('../') || href.startsWith('./')) && !href.startsWith('#/')) {
-                                var correctUrl = resolveDocsifyPath(vm.route.path, href);
-                                link.setAttribute('href', correctUrl);
-                                if(link.hasAttribute('xlink:href')) {
-                                    link.setAttribute('xlink:href', correctUrl);
-                                }
-                            }
-                        });
-                    }, 600);
-
                     // Set the document title based on the current file
                     var name = '';
                     if (vm.route.file) {
