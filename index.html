@@ -51,20 +51,12 @@
 <body>
     <div id="app">Loading...</div>
     <script>
-        // Desktop: sidebar open
-        // Mobile: sidebar closed
         (function () {
-            function setSidebarState() {
-                if (window.innerWidth <= 768) {
-                    document.body.classList.add('close');
-                } else {
-                    document.body.classList.remove('close');
-                }
+            if (window.innerWidth <= 768) {
+                document.body.classList.add('close');
+            } else {
+                document.body.classList.remove('close');
             }
-        
-            setSidebarState();
-        
-            window.addEventListener('resize', setSidebarState);
         })();
     </script>
     <script>
