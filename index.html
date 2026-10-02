@@ -21,22 +21,6 @@
             options: {
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
             },
-            
-            // SVG output configuration
-            svg: {
-                fontCache: 'global',
-                styles: {
-                    'g[data-mml-node="a"] path': {
-                        'fill': '#60a5fa !important',
-                        'stroke': '#60a5fa !important'
-                    },
-                    'g[data-mml-node="a"]:hover path': {
-                        'fill': '#93c5fd !important',
-                        'stroke': '#93c5fd !important',
-                        'opacity': '0.8'
-                    }
-                }
-            }
         };
     </script>
     <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
@@ -60,7 +44,7 @@
         },
         
         plugins: [
-            function(hook, vm) {
+            function(hook, vm) {           
                 hook.doneEach(function() {
 
                     // Set the document title based on the current file
