@@ -218,14 +218,16 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     font-weight: 600 !important;
 }
 
-.markdown-section g[data-mml-node="a"] path,
-.markdown-section .mjx-container g[data-mml-node="a"] * {
+g[data-mml-node="a"] path,
+svg a path,
+[data-mml-node="a"] * {
   fill: #60a5fa !important;
   stroke: #60a5fa !important;
 }
 
-.markdown-section g[data-mml-node="a"]:hover path,
-.markdown-section .mjx-container g[data-mml-node="a"]:hover * {
+g[data-mml-node="a"]:hover path,
+svg a:hover path,
+[data-mml-node="a"]:hover * {
   opacity: 0.8 !important;
   fill: #93c5fd !important;
   stroke: #93c5fd !important;
