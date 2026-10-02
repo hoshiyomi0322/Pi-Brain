@@ -1,7 +1,3 @@
-:root {
-  --sidebar-width: min(86vw, 300px); /* 在這裡定義你的側邊欄寬度 */
-}
-
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 *{
     -webkit-font-smoothing:antialiased;
