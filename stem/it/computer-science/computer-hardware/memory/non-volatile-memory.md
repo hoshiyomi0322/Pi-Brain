@@ -8,14 +8,9 @@
     - #### Electrically-Erasable PROM (EEPROM)
         <img src="./image/eeprom.png" width="25%">
 - ### Flash Memory
-    ![memory](./image/flash-memory.png ':size=25%')
-    ![memory](./image/flash-memory.png =25%x)
-    
-    
+    ![flash-memory](./image/flash-memory.png ':size=25%')
     - #### USB Flash Drive
-
         <img src="./image/usb-flash-drive.png" width="20%">
-<img src="./image/flash-memory.png" width="25%">
 
 # Solid-State Drive (SSD)
 <div align="center"><img src="./image/ssd.png" width="75%"></div>
