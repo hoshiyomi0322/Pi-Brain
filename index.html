@@ -5,6 +5,41 @@
     <title>Pi-Brain</title>
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="stylesheet" href="blue.css">
+
+    <script>
+        // MathJax configuration
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']],
+                processEscapes: true,
+                macros: {
+                    oiint: ['\\unicode{x222F}'],
+                    oiiint: ['\\unicode{x2230}']
+                }
+            },
+            options: {
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+            
+            // SVG output configuration
+            svg: {
+                fontCache: 'global',
+                styles: {
+                    'g[data-mml-node="a"] path': {
+                        'fill': '#60a5fa !important',
+                        'stroke': '#60a5fa !important'
+                    },
+                    'g[data-mml-node="a"]:hover path': {
+                        'fill': '#93c5fd !important',
+                        'stroke': '#93c5fd !important',
+                        'opacity': '0.8'
+                    }
+                }
+            }
+        };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
 </head>
 <body>
     <div id="app">Loading...</div>
@@ -15,32 +50,13 @@
             auto2top: true,
             maxLevel: 1,
             relativePath: true,
-        
+            
+            // LaTeX configuration for Docsify
             latex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
                 customOptions: {
                     throwOnError: false,
-                    tex: {
-                        macros: {
-                            oiint: ['\\unicode{x222F}'],
-                            oiiint: ['\\unicode{x2230}']
-                        }
-                    },
-                    svg: {
-                        fontCache: 'global',
-                        styles: {
-                            'g[data-mml-node="a"] path': {
-                                'fill': '#60a5fa !important',
-                                'stroke': '#60a5fa !important'
-                            },
-                            'g[data-mml-node="a"]:hover path': {
-                                'fill': '#93c5fd !important',
-                                'stroke': '#93c5fd !important',
-                                'opacity': '0.8'
-                            }
-                        }
-                    }
                 }
             },
         
