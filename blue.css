@@ -217,3 +217,25 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     font-size: 2.2rem !important;
     font-weight: 600 !important;
 }
+
+
+.markdown-section pre {
+  background-color: #1e293b !important; 
+  padding: 35px 1.4rem 1.4rem !important; /* 留出 35px 給右上角的標籤 */
+  border-radius: 6px !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  overflow: auto !important; 
+  position: relative !important;
+}
+
+.markdown-section pre:after {
+  content: attr(data-lang) !important;
+  color: rgba(144, 238, 144) !important;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  position: absolute !important;
+  right: 15px !important;
+  top: 10px !important;
+  text-transform: uppercase !important;  /* 強制大寫 (C) */
+  letter-spacing: 0.05rem !important;
+}

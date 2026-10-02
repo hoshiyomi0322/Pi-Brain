@@ -53,20 +53,22 @@ $\displaystyle{text}$
 |$\lceil a+b \rceil$|`\lceil a+b \rceil`|
 |$\lfloor a+b \rfloor$|`\lfloor a+b \rfloor`|
 |$\langle a+b \rangle$|`\langle a+b \rangle`|
-- ### Big Brackets：`\big` + [Brackets](#brackets)
+- ### Big Brackets
     |Output|LaTex|
     |:---:|:---:|
-    |$\big(a+b\big]$|`\big( a+b \big)`|
-    |$\Big(a+b\Big]$|`\Big( a+b \Big)`|
-    |$\bigg(a+b\bigg]$|`\bigg( a+b \bigg)`|
-    |$\Bigg(a+b\Bigg]$|`\Bigg( a+b \Bigg)`|
-    - ### Big Left/Right Brackets：`\bigl` + [Brackets](#brackets) + `\bigr` + [Brackets](#brackets)
-        |Output|LaTex|
-        |:---:|:---:|
-        |$\bigl(a+b\bigr]$|`\bigl( a+b \bigr)`|
-        |$\Bigl(a+b\Bigr]$|`\Bigl( a+b \Bigr)`|
-        |$\biggl(a+b\biggr]$|`\biggl( a+b \biggr)`|
-        |$\Biggl(a+b\Biggr]$|`\Biggl( a+b \Biggr)`|
+    |$\big(a+b\big]$|`\big( a+b \big]`|
+    |$\Big(a+b\Big]$|`\Big( a+b \Big]`|
+    |$\bigg(a+b\bigg]$|`\bigg( a+b \bigg]`|
+    |$\Bigg(a+b\Bigg]$|`\Bigg( a+b \Bigg]`|
+    - Size：`\big` < `\Big` < `\bigg` < `\Bigg`
+- ### Big Left/Right Brackets
+    |Output|LaTex|
+    |:---:|:---:|
+    |$\bigl(a+b\bigr]$|`\bigl( a+b \bigr]`|
+    |$\Bigl(a+b\Bigr]$|`\Bigl( a+b \Bigr]`|
+    |$\biggl(a+b\biggr]$|`\biggl( a+b \biggr]`|
+    |$\Biggl(a+b\Biggr]$|`\Biggl( a+b \Biggr]`|
+    - Size：`\bigl \bigr` < `\Bigl \Bigr` < `\biggl \biggr` < `\Biggl \Biggr`
 
 # Text Formatting
 |Format|Output|LaTex|
