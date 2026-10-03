@@ -146,6 +146,23 @@
                             wrapper.appendChild(table);
                         });
 
+                        document.querySelectorAll(
+                            '.markdown-section h1, .markdown-section h2, .markdown-section h3'
+                        ).forEach(function(heading) {
+                            var links = Array.from(
+                                heading.querySelectorAll(':scope > a')
+                            );
+                            for (var i = 1; i < links.length; i++) {
+                                var previousText = links[i - 1].textContent || '';
+                                if (previousText.trimEnd().endsWith('(')) {
+                                    continue;
+                                }
+                                if (!/\s$/.test(previousText)) {
+                                    links[i].style.marginLeft = '0.25em';
+                                }
+                            }
+                        });
+
                         setTimeout(function () {
                             if (
                                 window.piHeadingSearch &&

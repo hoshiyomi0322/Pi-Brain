@@ -568,7 +568,6 @@ mjx-container
     .markdown-section .pi-table-scroll > table th *,
     .markdown-section .pi-table-scroll > table td * {
         white-space: nowrap !important;
-
         word-break: normal !important;
         overflow-wrap: normal !important;
         word-wrap: normal !important;
@@ -581,8 +580,10 @@ mjx-container
 
 
 /* Prevent adjacent heading links from losing the separating space */
+/*
 .markdown-section h1 a + a::before,
 .markdown-section h2 a + a::before,
 .markdown-section h3 a + a::before {
     content: "\00a0";
 }
+*/
