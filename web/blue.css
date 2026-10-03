@@ -177,15 +177,20 @@ body.close .content{left:0}
     .github-corner .octo-arm {
         animation: octocat-wave 0.56s ease-in-out;
     }
+    
+    /* Override the styles for tables in the markdown section on smaller screens */
     .markdown-section table {
         display: table !important;
         width: max-content !important;
         min-width: 0 !important;
         max-width: none !important;
+
         table-layout: auto !important;
 
         border-collapse: collapse !important;
         border-spacing: 0 !important;
+
+        margin-bottom: 1rem;
     }
     .markdown-section table th,
     .markdown-section table td {
@@ -197,18 +202,21 @@ body.close .content{left:0}
 
         width: auto !important;
         min-width: 0 !important;
+
+        padding: 6px 13px;
     }
     .markdown-section table th *,
     .markdown-section table td * {
         white-space: nowrap !important;
+
         word-break: normal !important;
         overflow-wrap: normal !important;
         word-wrap: normal !important;
     }
-    .markdown-section {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
+    .markdown-section table {
+        margin-right: 15px;
     }
+
     .markdown-section img {
         max-width: 100% !important;
         height: auto !important;
