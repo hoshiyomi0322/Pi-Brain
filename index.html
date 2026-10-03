@@ -152,13 +152,22 @@
                                 a.setAttribute('href', newHref);
                             });
                         }
-                    
+                        
+                        setTimeout(function () {
+                            if (
+                                window.piHeadingSearch &&
+                                typeof window.piHeadingSearch.cleanSidebar === 'function'
+                            ) {
+                                window.piHeadingSearch.cleanSidebar();
+                            }
+                        }, 0);
                     });
                 }
             ]
         }
     </script>
     <script>
+        <!-- Heading search functionality -->
         (function () {
             const headingSearch = {
                 index: [],
@@ -366,7 +375,7 @@
                         '$1'
                     );
                     result = result.replace(
-                        /\(\$[\s\S]*?\$\)/g,
+                        /\(\s*\$[\s\S]*?\$\s*\)/g,
                         ''
                     );
                     result = result.replace(
@@ -379,10 +388,6 @@
                     );
                     result = result.split(/[：:]/)[0];
                     result = result.replace(
-                        /^\s*#{1,6}\s+/,
-                        ''
-                    );
-                    result = result.replace(
                         /<[^>]*>/g,
                         ''
                     );
@@ -392,11 +397,29 @@
                         .replace(/\*(.*?)\*/g, '$1')
                         .replace(/_(.*?)_/g, '$1')
                         .replace(/`(.*?)`/g, '$1');
+                    result = result.replace(
+                        /\(\s*\)/g,
+                        ''
+                    );
                     return result
-                        .replace(/\(\s*\)/g, '')
                         .replace(/\s+/g, ' ')
                         .trim();
                 },
+                cleanSidebar: function () {
+                    document
+                        .querySelectorAll('.sidebar-nav li a')
+                        .forEach(function (link) {
+                            const originalText = link.textContent;
+                            const cleanedText =
+                                headingSearch.cleanHeadingText(
+                                    originalText
+                                );
+                            if (cleanedText !== originalText) {
+                                link.textContent = cleanedText;
+                            }
+                        });
+                },
+                
                 parseMarkdown: function (markdown, file) {
                     const results = [];
                     markdown = markdown.replace(
@@ -559,6 +582,7 @@
                             });
                         }
                 },          
+                
                 scrollToTarget: function () {
                     if (!this.target) {
                         return;
@@ -579,7 +603,9 @@
                                     heading.textContent
                                 );
                             if (
-                                text === target.title
+                                title === headingSearch.cleanHeadingText(
+                                    target.title
+                                )
                             ) {
                                 found = heading;
                             }
@@ -672,6 +698,7 @@
                     }
                     await waitForSidebar();
                     self.createUI();
+                    self.cleanSidebar();
                     try {
                         const cached = sessionStorage.getItem(
                             'pi-brain-heading-index'
