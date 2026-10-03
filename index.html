@@ -158,6 +158,400 @@
             ]
         }
     </script>
+    <script>
+        (function () {
+            const headingSearch = {
+                index: [],
+                initialized: false,
+                loading: false,
+                target: null,
+                createUI: function () {
+                    if (document.querySelector('.pi-heading-search')) {
+                        return;
+                    }
+        
+                    const sidebar = document.querySelector('.sidebar');
+        
+                    if (!sidebar) {
+                        return;
+                    }
+        
+                    const container = document.createElement('div');
+        
+                    container.className = 'pi-heading-search';
+        
+                    container.innerHTML = `
+                        <div class="pi-heading-search-title">
+                        </div>
+        
+                        <div class="pi-heading-search-input-wrapper">
+                            <input
+                                type="search"
+                                class="pi-heading-search-input"
+                                placeholder="Search H1 ~ H3..."
+                                autocomplete="off"
+                                spellcheck="false"
+                            >
+        
+                            <button
+                                type="button"
+                                class="pi-heading-search-clear"
+                                aria-label="Clear Search"
+                            >
+                                ×
+                            </button>
+                        </div>
+        
+                        <div class="pi-heading-search-results"></div>
+                    `;
+        
+                    sidebar.appendChild(container);
+        
+                    const input = container.querySelector(
+                        '.pi-heading-search-input'
+                    );
+        
+                    const clearButton = container.querySelector(
+                        '.pi-heading-search-clear'
+                    );
+        
+                    input.addEventListener('input', function () {
+                        headingSearch.search(this.value);
+                    });
+        
+                    clearButton.addEventListener('click', function () {
+                        input.value = '';
+        
+                        headingSearch.search('');
+        
+                        input.focus();
+                    });
+        
+                    input.addEventListener('keydown', function (event) {
+                        if (event.key === 'Escape') {
+                            input.value = '';
+        
+                            headingSearch.search('');
+        
+                            input.blur();
+                        }
+                    });
+        
+                    this.initialized = true;
+                },       
+                getMarkdownFiles: function () {
+                    const links = document.querySelectorAll(
+                        '.sidebar a[href]'
+                    );
+        
+                    const files = new Set();
+        
+                    links.forEach(function (link) {
+                        let href = link.getAttribute('href');
+        
+                        if (!href) {
+                            return;
+                        }                  
+                        if (href.startsWith('#/')) {
+                            href = href
+                                .substring(2)
+                                .split('?')[0]
+                                .split('#')[0];
+        
+                            if (!href) {
+                                return;
+                            }
+        
+                            if (!href.endsWith('.md')) {
+                                href += '.md';
+                            }
+        
+                            files.add(href);
+                        }
+                    });
+                    return Array.from(files);
+                },            
+                buildIndex: async function () {
+                    if (this.loading) {
+                        return;
+                    }
+                    this.loading = true;
+                    const files = this.getMarkdownFiles();
+                    const results = [];
+                    const batchSize = 8;
+        
+                    for (
+                        let start = 0;
+                        start < files.length;
+                        start += batchSize
+                    ) {
+                        const batch = files.slice(
+                            start,
+                            start + batchSize
+                        );
+                        const batchResults = await Promise.all(
+                            batch.map(async function (file) {
+                                try {
+                                    const response = await fetch(
+                                        file,
+                                        {
+                                            cache: 'force-cache'
+                                        }
+                                    );
+                                    if (!response.ok) {
+                                        return [];
+                                    }
+                                    const markdown = await response.text();
+                                    return headingSearch.parseMarkdown(
+                                        markdown,
+                                        file
+                                    );
+                                } catch (error) {
+                                    console.warn(
+                                        'Pi-Brain heading search:',
+                                        file,
+                                        error
+                                    );
+                                    return [];
+                                }
+                            })
+                        );
+                        batchResults.forEach(function (items) {
+                            results.push(...items);
+                        });
+                    }
+                    this.index = results;
+                    this.loading = false;
+                    try {
+                        sessionStorage.setItem(
+                            'pi-brain-heading-index',
+                            JSON.stringify(this.index)
+                        );
+                    } catch (error) {
+                        console.warn(
+                            'Unable to cache heading index.'
+                        );
+                    }
+                },           
+                parseMarkdown: function (markdown, file) {
+                    const results = [];
+                    markdown = markdown.replace(
+                        /```[\s\S]*?```/g,
+                        ''
+                    );
+        
+                    markdown = markdown.replace(
+                        /~~~[\s\S]*?~~~/g,
+                        ''
+                    );
+        
+                    const lines = markdown.split(/\r?\n/);
+        
+                    lines.forEach(function (line) {
+                        const match = line.match(
+                            /^(#{1,3})\s+(.+?)\s*#*\s*$/
+                        );
+        
+                        if (!match) {
+                            return;
+                        }
+        
+                        const level = match[1].length;
+        
+                        let title = match[2]
+                            .replace(/\*\*(.*?)\*\*/g, '$1')
+                            .replace(/\*(.*?)\*/g, '$1')
+                            .replace(/`(.*?)`/g, '$1')
+                            .trim();
+        
+                        if (!title) {
+                            return;
+                        }
+        
+                        results.push({
+                            file: file,
+                            title: title,
+                            level: level,
+                            searchText: (
+                                title + ' ' + file
+                            ).toLowerCase()
+                        });
+                    });
+        
+                    return results;
+                },        
+                search: function (keyword) {
+                    const resultsContainer =
+                        document.querySelector(
+                            '.pi-heading-search-results'
+                        );
+        
+                    if (!resultsContainer) {
+                        return;
+                    }
+        
+                    keyword = keyword.trim().toLowerCase();
+        
+                    if (!keyword) {
+                        resultsContainer.innerHTML = '';
+                        return;
+                    }
+        
+                    const results = this.index.filter(
+                        function (item) {
+                            return item.searchText.includes(keyword);
+                        }
+                    );
+                    const visibleResults = results.slice(0, 100);
+        
+                    if (visibleResults.length === 0) {
+                        resultsContainer.innerHTML = `
+                            <div class="pi-heading-search-empty">
+                                No headings found
+                            </div>
+                        `;
+        
+                        return;
+                    }
+        
+                    resultsContainer.innerHTML = visibleResults
+                        .map(function (item) {
+                            const fileName = item.file
+                                .split('/')
+                                .pop()
+                                .replace(/\.md$/i, '');
+        
+                            return `
+                                <a
+                                    href="#"
+                                    class="pi-heading-search-result level-${item.level}"
+                                    data-file="${headingSearch.escapeAttribute(item.file)}"
+                                    data-title="${headingSearch.escapeAttribute(item.title)}"
+                                >
+                                    <span class="pi-heading-level">
+                                        H${item.level}
+                                    </span>
+        
+                                    <span class="pi-heading-result-text">
+                                        ${headingSearch.escapeHTML(item.title)}
+                                    </span>
+        
+                                    <span class="pi-heading-file">
+                                        ${headingSearch.escapeHTML(fileName)}
+                                    </span>
+                                </a>
+                            `;
+                        })
+                        .join('');
+        
+                    resultsContainer
+                        .querySelectorAll(
+                            '.pi-heading-search-result'
+                        )
+                        .forEach(function (link) {
+                            link.addEventListener(
+                                'click',
+                                function (event) {
+                                    event.preventDefault();
+        
+                                    const file = this.dataset.file;
+                                    const title = this.dataset.title;
+        
+                                    headingSearch.target = {
+                                        file: file,
+                                        title: title
+                                    };
+        
+                                    const route = file.replace(
+                                        /\.md$/i,
+                                        ''
+                                    );
+                                    window.location.hash =
+                                        '#/' + route;
+                                }
+                            );
+                        });
+                },          
+                scrollToTarget: function () {
+                    if (!this.target) {
+                        return;
+                    }
+        
+                    const target = this.target;
+                    setTimeout(function () {
+                        const headings = document.querySelectorAll(
+                            '#main h1, #main h2, #main h3'
+                        );
+        
+                        let found = null;
+        
+                        headings.forEach(function (heading) {
+                            if (
+                                !found &&
+                                heading.textContent.trim() ===
+                                    target.title
+                            ) {
+                                found = heading;
+                            }
+                        });
+        
+                        if (found) {
+                            found.scrollIntoView({
+                                behavior: 'smooth',
+                                block: 'start'
+                            });                     
+                            found.classList.add(
+                                'pi-heading-search-highlight'
+                            );
+        
+                            setTimeout(function () {
+                                found.classList.remove(
+                                    'pi-heading-search-highlight'
+                                );
+                            }, 1500);
+                        }
+        
+                        headingSearch.target = null;
+                    }, 100);
+                },
+                escapeHTML: function (value) {
+                    return String(value)
+                        .replace(/&/g, '&amp;')
+                        .replace(/</g, '&lt;')
+                        .replace(/>/g, '&gt;')
+                        .replace(/"/g, '&quot;')
+                        .replace(/'/g, '&#039;');
+                },
+        
+                escapeAttribute: function (value) {
+                    return this.escapeHTML(value);
+                },
+            
+                init: async function () {
+                    this.createUI();
+                    try {
+                        const cached = sessionStorage.getItem(
+                            'pi-brain-heading-index'
+                        );
+        
+                        if (cached) {
+                            this.index = JSON.parse(cached);
+                        }
+                    } catch (error) {
+                        console.warn(
+                            'Unable to load heading index.'
+                        );
+                    }    
+                    if (this.index.length === 0) {
+                        await this.buildIndex();
+                    }
+                }
+            };
+        
+            window.piHeadingSearch = headingSearch;
+        })();
+    </script>
+
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
