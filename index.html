@@ -210,6 +210,12 @@
                         '.pi-heading-search-clear'
                     );
         
+                    input.addEventListener('click', function (event) {
+                        event.stopPropagation();
+                    });
+                    input.addEventListener('touchstart', function (event) {
+                        event.stopPropagation();
+                    });
                     input.addEventListener('input', function () {
                         headingSearch.search(this.value);
                     });
