@@ -544,13 +544,10 @@
                                         file: file,
                                         title: title
                                     };
-        
-                                    const route = file.replace(
-                                        /\.md$/i,
-                                        ''
-                                    );
+                                    const displayTitle =
+                                        headingSearch.cleanHeadingText(title);  
                                     const headingId =
-                                        headingSearch.createHeadingId(title);
+                                        headingSearch.createHeadingId(displayTitle);
                                     window.location.hash =
                                         '#/' +
                                         route +
