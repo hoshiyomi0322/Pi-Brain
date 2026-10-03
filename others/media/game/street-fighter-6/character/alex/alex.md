@@ -142,8 +142,9 @@
 - ### 28F OKI
     - ### Close 28F OKI
         - [Far 28F OKI](#far-28f-oki)
-        - その場受け身/Corner：消費(前ステ) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
+        - 構え-chop + [5MP Combo](#5mp-combo)
         - 消費(前ステ) + [5MP Combo](#5mp-combo)
+        - その場受け身/Corner：消費(前ステ) + [中コマ投げ OKI](#中コマ投げ-oki-6f7f)
     - ### Far 28F OKI
         - (DR + 5HK) + [5MP Combo](#5mp-combo)
         - ガード(DR + 5HK) + [2LP Combo](#2lp-combo)
