@@ -1,5 +1,5 @@
-# Latex Environment
-- ### [Latex Environment](latex-environment.md)
+# LaTex Environment
+- ### [LaTex Environment](latex-environment.md)
 
 # Comment
 ```latex
@@ -346,7 +346,7 @@ $\displaystyle{text}$
     |$\sin^{-1}{x}$|`\sin^{-1}{x}`|
     |$\sin^{3}{x}$|`\sin^{3}{x}`|
 
-# Latex Packages
+# LaTex Packages
 - ### [hyperref](./latex-packages/hyperref.md)
 
 # Example

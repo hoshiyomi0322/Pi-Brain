@@ -24,7 +24,7 @@
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
-- <h3 id="mode-of-continuous-random-variable">[Mode](../statistics/descriptive-statistics.md#mode) of Continuous Random Variable = $\mathop{\text{argmax}}\limits_α{~f\left(α\right)}$</h3>
+- <h3 id="mode-of-continuous-random-variable">$\href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=mode}{\text{Mode}} \text{ of Continuous Random Variable} = \mathop{\text{argmax}}\limits_α{~f\left(α\right)}$</h3>
 
     - $\big( α=\text{Mode},~f\left(α\right)=\href{#/stem/math/algebra/calculus/differential-calculus?id=extremum}{\text{Maximum}} \text{ of } \href{#/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/distribution-function?id=probability-function}{\text{PDF}} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
 - ### [Moment](#moment)

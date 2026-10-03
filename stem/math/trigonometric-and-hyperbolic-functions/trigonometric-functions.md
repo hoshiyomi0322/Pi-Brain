@@ -78,7 +78,7 @@
     - $2\sin{α}\sin{β} = \cos{\left(α-β\right)}-\cos{\left(α+β\right)}$
     - $2\cos{α}\cos{β} = \cos{\left(α+β\right)}+\cos{\left(α-β\right)}$
 - ## Sum-to-Product Identities
-    - $\text{Let }(α = \frac{A+B}{2}、β = \frac{A-B}{2}) \to \text{substitute into}$ [Product-to-Sum Identities](#product-to-sum-identities)
+    - $\text{Let }(α = \frac{A+B}{2}、β = \frac{A-B}{2}) \to \text{substitute into } \href{#/stem/math/trigonometric-and-hyperbolic-functions/trigonometric-functions?id=product-to-sum-identities}{\text{Product-to-Sum Identities}}$
         - $A = α+β、B = α-β$
     - $\sin{A}+\sin{B} = 2\sin{\frac{A+B}{2}}\cos{\frac{A-B}{2}}$
     - $\sin{A}-\sin{B} = 2\cos{\frac{A+B}{2}}\sin{\frac{A-B}{2}}$
@@ -122,7 +122,7 @@
 
 - ## Law of sines
     - $\frac{a}{\sin{α}}=\frac{b}{\sin{β}}=\frac{c}{\sin{γ}}=2R$
-    - $R$ = [Circumradius](../geometry/trigonometry/triangle-center.md#circumradius-radius-of-circumcircle)
+    - $R = \href{#/stem/math/geometry/trigonometry/triangle-center?id=circumradius-radius-of-circumcircle}{\text{Circumradius}}$
 - ## Law of cosines
     - $a^2=b^2+c^2-2bc\cos{α}$
     - If $a$ is the longest side:
