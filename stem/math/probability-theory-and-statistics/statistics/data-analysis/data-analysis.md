@@ -2,7 +2,7 @@
 - ### [Correlation Analysis](correlation-and-regression-analysis/correlation-analysis.md)
 - ### [Regression Analysis](correlation-and-regression-analysis/correlation-and-regression-analysis.md#regression-analysis)
 
-# [Statistical Inference](./statistical-inference/statistical-inference.md)
+# Statistical Inference
 - ### [Resampling](./statistical-inference/resampling/resampling.md)
 - ### Estimation
     - #### [Point Estimation](./statistical-inference/estimation/point-estimation/point-estimation.md)
