@@ -155,11 +155,14 @@
                             for (var i = 1; i < links.length; i++) {
                                 var previousText = links[i - 1].textContent || '';
                                 if (previousText.trimEnd().endsWith('(')) {
+                                    links[i].style.marginLeft = '';
                                     continue;
                                 }
-                                if (!/\s$/.test(previousText)) {
-                                    links[i].style.marginLeft = '0.25em';
+                                if (/\s$/.test(previousText)) {
+                                    links[i].style.marginLeft = '';
+                                    continue;
                                 }
+                                links[i].style.marginLeft = '0.25em';
                             }
                         });
 
