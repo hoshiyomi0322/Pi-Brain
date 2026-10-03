@@ -14,8 +14,8 @@
 # Harmonic Series
 - ### Harmonic Series：$\sum\limits_{n=1}^{\infty}{\frac{1}{n}}=1+\frac{1}{2}+\frac{1}{3}+\cdots$
 - ### Alternating Harmonic Series：$\sum\limits_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}}{n}}=1-\frac{1}{2}+\frac{1}{3}+\cdots=\ln{2}$
-    - #### Madhava–Leibniz Series \left(Leibniz Formula for π\right)：$\sum\limits_{n=1}^{\infty}{\frac{\left(-1\right)^{n}}{2n+1}}=1-\frac{1}{3}+\frac{1}{5}+\cdots=\arctan{1}=\frac{π}{4}$
-- ### <span id="p-series"> P-Series：$\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}=1+\frac{1}{2^p}+\frac{1}{3^p}+\cdots$ </span>
+    - #### Madhava–Leibniz Series (Leibniz Formula for π)：$\sum\limits_{n=1}^{\infty}{\frac{\left(-1\right)^{n}}{2n+1}}=1-\frac{1}{3}+\frac{1}{5}+\cdots=\arctan{1}=\frac{π}{4}$
+- <h3 id="p-series">P-Series：$\sum\limits_{n=1}^{\infty}{\frac{1}{n^p}}=1+\frac{1}{2^p}+\frac{1}{3^p}+\cdots$</h3>
 
 # Power Series
 - ### Power Series：$f\left(x\right)=\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n} = a_0+a_1\left(x-c\right)^1+a_2\left(x-c\right)^2+\cdots$

@@ -39,7 +39,7 @@
 <div align="center"><img src="./image/epsilon-delta-definition.png" width="35%"></div>
 
 - ### $\lim\limits_{x\to a}{f\left(x\right)}=L\iff\text{ε-δ definition}$
-- ### ε-δ definition \left($\forallε>0,~\existsδ>0$\right)
+- ### ε-δ definition ($\forallε>0,~\existsδ>0$)
     - #### $0<|x-a|<δ\implies|f\left(x\right)-L|<ε$
 - ### Example：$\lim\limits_{x\to 3}{\left(4x+1\right)}=13$
     1. $\forallε>0,~\existsδ>0,~\text{Such that }0<|x-3|<δ\implies|\left(4x+1\right)-13|<ε$
