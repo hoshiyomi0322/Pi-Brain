@@ -1,5 +1,6 @@
 # Distribution Function
-- ### <h3 id="probability-function">Probability Function：$f_X\left(x\right)$</h3>
+- <h3 id="probability-function">Probability Function：$f_X\left(x\right)$</h3>
+
     |Random Variable|Probability Function|
     |:---:|:---:|
     |**$X$ is Continuous**|**Probability Density Function (PDF)**<br>$f\left(x\right)=\frac{d}{dx}F\left(x\right)$|
