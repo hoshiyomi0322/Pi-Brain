@@ -16,29 +16,31 @@
     <style>
     @media screen and (max-width: 768px) {
         #main .markdown-section table {
-            display: block;
-            width: max-content;
-            max-width: none;
-            overflow-x: auto;
-            overflow-y: hidden;
+            display: block !important;
+            width: max-content !important;
+            min-width: max-content !important;
+            max-width: none !important;
+            overflow-x: auto !important;
+            overflow-y: hidden !important;
+            table-layout: auto !important;
             -webkit-overflow-scrolling: touch;
         }
-        #main .markdown-section table,
         #main .markdown-section table th,
-        #main .markdown-section table td,
-        #main .markdown-section table * {
+        #main .markdown-section table td {
+            white-space: nowrap !important;
             word-break: normal !important;
             overflow-wrap: normal !important;
             word-wrap: normal !important;
-            white-space: nowrap !important;
+            width: auto !important;
+            min-width: max-content !important;
         }
         #main .markdown-section img {
             max-width: 100%;
-            width: auto;
             height: auto;
         }
     }
     </style>
+
 
     <script>
         <!-- MathJax configuration -->
