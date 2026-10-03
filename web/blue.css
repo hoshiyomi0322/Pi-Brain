@@ -579,11 +579,3 @@ mjx-container
 }
 
 
-/* Prevent adjacent heading links from losing the separating space */
-/*
-.markdown-section h1 a + a::before,
-.markdown-section h2 a + a::before,
-.markdown-section h3 a + a::before {
-    content: "\00a0";
-}
-*/
