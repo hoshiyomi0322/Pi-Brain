@@ -44,10 +44,9 @@
         - 強足刀 + 中昇竜 + (前ステ + [5HP 重ね](ryu.md#5hp-重ね-12f13f))
 - ### OD足刀 Combo
     - #### Midscreen OD足刀 Combo
-        - OD足刀 + delay + [6HK Combo]()
-        - OD足刀 + delay + SA1
+        - OD足刀 + [6HK Combo]()
+        - OD足刀 + (4HK + [強昇竜 Combo](#強昇竜-combo)/SA1)
         - OD足刀 + SA2(Hold) + 消費(強旋風腳) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
-        - OD足刀 + delay + [強昇竜 Combo](#強昇竜-combo)
 
 # 旋風腳 Combo
 - ### 弱旋風腳 Combo

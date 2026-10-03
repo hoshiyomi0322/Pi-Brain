@@ -52,8 +52,8 @@
 - ### Percentile
     - The k-th percentile ($P_{k}$)
     - Percentile Rank ($PR$) standard-score-z-score
-- ### Standard Score (Z-score)：$z=\frac{x-μ}{σ}$ {:#standard-score-z-score}
-    - ### Standardization {:#standardization}
+- ### Standard Score (Z-score)：$z=\frac{x-μ}{σ}$ {: #standard-score-z-score}
+    - ### Standardization {: #standardization}
         - $\text{Raw Score}\left(x\right)\xrightarrow{Standardize}\text{Standard Score}\left(z\right)$
     - $\left( μ,~σ \right) \xrightarrow{Standardize} \left( 0,~1 \right)$
 
