@@ -342,15 +342,6 @@ section.cover ul{line-height:1.8;list-style-type: none;}
         border-color 0.2s,
         box-shadow 0.2s;
 }
-.pi-heading-search-input::-webkit-search-cancel-button,
-.pi-heading-search-input::-webkit-search-decoration {
-    -webkit-appearance: none;
-    appearance: none;
-    display: none;
-}
-.pi-heading-search-input::-ms-clear {
-    display: none;
-}
 .pi-heading-search-input::placeholder {
     color: rgba(255, 255, 255, 0.35);
 }
@@ -505,3 +496,4 @@ section.cover ul{line-height:1.8;list-style-type: none;}
         max-height: 40vh;
     }
 }
+

@@ -169,39 +169,41 @@
                     if (document.querySelector('.pi-heading-search')) {
                         return;
                     }
-        
+                
                     const sidebar = document.querySelector('.sidebar');
-        
+                
                     if (!sidebar) {
+                        console.warn(
+                            'Pi-Brain heading search: sidebar not found.'
+                        );
                         return;
                     }
-        
+                
                     const container = document.createElement('div');
-        
+                
                     container.className = 'pi-heading-search';
-        
+                
                     container.innerHTML = `
                         <div class="pi-heading-search-title">
                             🔍 Search
                         </div>
-        
+                    
                         <div class="pi-heading-search-input-wrapper">
                             <input
-                                type="search"
+                                type="text"
                                 class="pi-heading-search-input"
-                                placeholder="Search"
+                                placeholder="Type to search..."
                                 autocomplete="off"
                                 spellcheck="false"
                             >
+                        
                             <button
                                 type="button"
                                 class="pi-heading-search-clear"
-                                aria-label="Clear Search"
-                            >
-                                ×
-                            </button>
+                                aria-label="Clear search"
+                            >×</button>
                         </div>
-        
+                    
                         <div class="pi-heading-search-results"></div>
                     `;
         
