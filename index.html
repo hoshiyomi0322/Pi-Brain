@@ -153,18 +153,15 @@
                                 heading.querySelectorAll(':scope > a')
                             );
                             for (var i = 1; i < links.length; i++) {
-                                var previousLink = links[i - 1];
-                                var previousText = previousLink.textContent || '';
+                                var previousText = links[i - 1].textContent || '';
                                 if (previousText.trimEnd().endsWith('(')) {
                                     continue;
                                 }
                                 if (/\s$/.test(previousText)) {
                                     continue;
                                 }
-                                previousLink.parentNode.insertBefore(
-                                    document.createTextNode(' '),
-                                    links[i]
-                                );
+                                var space = document.createTextNode('\u00A0');
+                                links[i].parentNode.insertBefore(space, links[i]);
                             }
                         });
 
