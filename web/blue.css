@@ -84,7 +84,17 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
 /* Override the background color of the markdown section */
 .markdown-section hr{border:none;border-bottom:1px solid #eee;margin:2em 0}
 .markdown-section iframe{border:1px solid #eee;width:1px;min-width:100%}
-.markdown-section table{border-collapse:collapse;border-spacing:0;display:block;margin-bottom:1rem;overflow:auto;width:100%}
+.markdown-section table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: block;
+    margin-bottom: 1rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: max-content;
+    max-width: none;
+    -webkit-overflow-scrolling: touch;
+}
 .markdown-section th{font-weight:700}
 .markdown-section td,.markdown-section th{border:1px solid #ddd;padding:6px 13px}
 .markdown-section tr{border-top:1px solid #ccc}
@@ -163,6 +173,35 @@ body.close .content{left:0}
     }
     .github-corner .octo-arm {
         animation: octocat-wave 0.56s ease-in-out;
+    }
+    .markdown-section table {
+        width: max-content !important;
+        min-width: 100%;
+        max-width: none !important;
+
+        display: block;
+
+        overflow-x: auto;
+        overflow-y: hidden;
+
+        -webkit-overflow-scrolling: touch;
+    }
+    .markdown-section table th,
+    .markdown-section table td {
+        white-space: nowrap !important;
+        word-break: normal !important;
+        overflow-wrap: normal !important;
+        word-wrap: normal !important;
+    }
+    .markdown-section table th *,
+    .markdown-section table td * {
+        word-break: normal !important;
+        overflow-wrap: normal !important;
+    }
+    .markdown-section img {
+        max-width: 100% !important;
+        width: auto !important;
+        height: auto !important;
     }
 }
 
