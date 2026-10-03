@@ -546,24 +546,21 @@ mjx-container
     .markdown-section .pi-table-scroll > table {
         display: table !important;
         width: max-content !important;
-        min-width: 0 !important;
+        min-width: max-content !important;
         max-width: none !important;
         table-layout: auto !important;
         border-collapse: collapse !important;
         border-spacing: 0 !important;
         margin: 0 !important;
-        box-sizing: border-box !important;
     }
-
     .markdown-section .pi-table-scroll > table th,
     .markdown-section .pi-table-scroll > table td {
         white-space: nowrap !important;
-
         word-break: normal !important;
         overflow-wrap: normal !important;
         word-wrap: normal !important;
         width: auto !important;
-        min-width: max-content !important;
+        min-width: 0 !important;
         padding: 6px 13px !important;
         box-sizing: border-box !important;
     }
@@ -574,12 +571,12 @@ mjx-container
         overflow-wrap: normal !important;
         word-wrap: normal !important;
     }
-    .markdown-section .pi-table-scroll > table img {
+    .markdown-section .pi-table-scroll > table img[width] {
         max-width: none !important;
-        width: auto !important;
         height: auto !important;
     }
 }
+
 
 /* Prevent adjacent heading links from losing the separating space */
 .markdown-section h1 a + a::before,
