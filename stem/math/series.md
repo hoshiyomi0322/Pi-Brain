@@ -39,7 +39,7 @@
 	- $\cosh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n}}{\left(2n\right)!}=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots$
 
 # Other Series
-- ### <span id="alternating-series"> Alternating Series：$\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0$ </span>
+- <h3 id="alternating-series">Alternating Series：$\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0$</h3>
 - ### Telescoping Series：$\sum\limits_{i=1}^{n}{\left(a_i-a_{i+1}\right)}=\left(a_1-a_2\right)+\left(a_2-a_3\right)+\cdots+\left(a_n-a_{n+1}\right)=a_1-a_{n+1}$
 
 # Convergence Tests
