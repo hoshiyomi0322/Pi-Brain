@@ -29,9 +29,10 @@
 
 # Jacobian Matrix and Determinant
 - ### Jacobian Matrix
-    - ### $J = \begin{bmatrix} {\frac{\partial \vec{f}}{\partial x_1}}&{\cdots}&{\frac{\partial \vec{f}}{\partial x_n}} \end{bmatrix} = \begin{bmatrix} {\nabla f_1} \\ \vdots \\ {\nabla f_m} \end{bmatrix} = \begin{bmatrix} {\frac{\partial f_1}{\partial x_1}}&{\cdots}&{\frac{\partial f_1}{\partial x_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial f_m}{\partial x_1}}&{\cdots}&{\frac{\partial f_m}{\partial x_n}} \end{bmatrix}$
-- ### <span id="jacobian-determinant">Jacobian Determinant (When $m=n$)</span>
-    - ### $det\left(J\right)=\left|J\right| = \begin{vmatrix} {\frac{\partial \vec{f}}{\partial x_1}}&{\cdots}&{\frac{\partial \vec{f}}{\partial x_n}} \end{vmatrix} = \begin{vmatrix} {\nabla f_1} \\ \vdots \\ {\nabla f_n} \end{vmatrix} = \begin{vmatrix} {\frac{\partial f_1}{\partial x_1}}&{\cdots}&{\frac{\partial f_1}{\partial x_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial f_n}{\partial x_1}}&{\cdots}&{\frac{\partial f_n}{\partial x_n}} \end{vmatrix}$
+    - $J = \begin{bmatrix} {\frac{\partial \vec{f}}{\partial x_1}}&{\cdots}&{\frac{\partial \vec{f}}{\partial x_n}} \end{bmatrix} = \begin{bmatrix} {\nabla f_1} \\ \vdots \\ {\nabla f_m} \end{bmatrix} = \begin{bmatrix} {\frac{\partial f_1}{\partial x_1}}&{\cdots}&{\frac{\partial f_1}{\partial x_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial f_m}{\partial x_1}}&{\cdots}&{\frac{\partial f_m}{\partial x_n}} \end{bmatrix}$
+- <h3 id="jacobian-determinant">Jacobian Determinant (When $m=n$)</h3>
+    
+    - $det\left(J\right)=\left|J\right| = \begin{vmatrix} {\frac{\partial \vec{f}}{\partial x_1}}&{\cdots}&{\frac{\partial \vec{f}}{\partial x_n}} \end{vmatrix} = \begin{vmatrix} {\nabla f_1} \\ \vdots \\ {\nabla f_n} \end{vmatrix} = \begin{vmatrix} {\frac{\partial f_1}{\partial x_1}}&{\cdots}&{\frac{\partial f_1}{\partial x_n}} \\ {\vdots}&{\ddots}&{\vdots} \\ {\frac{\partial f_n}{\partial x_1}}&{\cdots}&{\frac{\partial f_n}{\partial x_n}} \end{vmatrix}$
 
 # Line Integral
 

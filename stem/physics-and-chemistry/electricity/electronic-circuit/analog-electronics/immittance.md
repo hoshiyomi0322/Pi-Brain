@@ -23,7 +23,8 @@
 - ### [Unit](../../../../unit.md) (Admittance, Conductance, Susceptance)：$S$ (Siemens)
 
 # Resistance, Capacitance, Inductance
-- ### <span id="resistance"> Resistance：$R=\frac{V}{I}=ρ\frac{l}{A}$ </span>
+- <h3 id="resistance">Resistance：$R=\frac{V}{I}=ρ\frac{l}{A}$</h3>
+
     - ### [Unit](../../../../unit.md)：$Ω$ (Ohm)
     - ### $l$ = 長度
     - ### $A$ = 截面積
@@ -42,7 +43,8 @@
         - ### $N$ = 圈數
 
 # Linear Component
-- ### <span id="resistor-r"> Resistor (R) </span>
+- <h3 id="resistor">Resistor (R)</h3>
+    
     - ### Resistor Color Code
         <img src="./image/resistor-color-code.png" width="60%">
         
@@ -52,13 +54,15 @@
         - 6 Band Resistor：$\text{Digit}\times 3,~\text{Multiplier},~\text{Tolerance},~\text{Temperature Coefficient}$
     - ### Ohm's Law：$V=IR$
     - ### 電阻器電位能：$E=QV=ItV=I^2Rt=\frac{V^2}{R}t$
-- ### <span id="capacitor-c"> Capacitor (C)：$Q=CV$ </span>
+- <h3 id="capacitor">Capacitor (C)：$Q=CV$</h3>
+
     - ### 電容器電流：$I\left(t\right)=\frac{dQ}{dt}=C\frac{dV\left(t\right)}{dt}$
     - ### 電容器電壓：$V\left(t\right)=\frac{1}{C}\int_{t_0}^{t}{I\left(t\right)\,dt}+V\left(t_0\right)$
         - ### $t_0$ = 初始時間
     - ### 電壓連續性：$V\left(t^-\right)=V\left(t^+\right)$
     - ### 電容器電位能：$E=\frac{1}{2}CV^2=\frac{1}{2}QV=\frac{Q^2}{2C}$
-- ### <span id="inductor-l"> Inductor (L)：$V=-L\frac{ΔI}{Δt}$ </span>
+- <h3 id="inductor">Inductor (L)：$V=-L\frac{ΔI}{Δt}$</h3>
+
     - ### 電感器電壓：$V\left(t\right)=L\frac{dI\left(t\right)}{dt}$
     - ### 電感器電流：$I\left(t\right)=\frac{1}{L}\int_{t_0}^{t}{V\left(t\right)\,dt}+I\left(t_0\right)$
         - ### $t_0$ = 初始時間

@@ -1,12 +1,14 @@
 # Conditional Probability
 - ### Conditional Probability：$P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}$
     - #### $P\left(A|B\right)$ ＝ the probability of $A$ under the condition $B$
-- ### <span id="bayes-theorem"> Bayes' Theorem </span>
+- <h3 id="bayes-theorem"> Bayes' Theorem </h3>
+
     - ### $P\left(A|B\right)=\frac{P\left(A\cap B\right)}{P\left(B\right)}=\frac{P\left(B|A\right)P\left(A\right)}{P\left(B\right)}$
 
 # Joint Probability
 - ### Joint Probability：$P\left(A\cap B\right)=P\left(A|B\right)P\left(B\right)=P\left(B|A\right)P\left(A\right)$
-- ### <span id="independent-events-mutually-exclusive-events">Independent events, Mutually Exclusive events</span>
+- <h3 id="independent-events-mutually-exclusive-events">Independent events, Mutually Exclusive events</h3>
+
     |Independent events|Mutually Exclusive events|
     |:---:|:---:|
     |<img src="./image/independent.png" width="60%">|<img src="./image/mutually-exclusive.png" width="60%">|
@@ -16,7 +18,8 @@
 # Union Probability
 - ### Union Probability：$P\left(A\cup B\right)=\left(P\left(A\right)+P\left(B\right)\right)-P\left(A\cap B\right)$
     - #### [Inclusion–Exclusion Principle](../../../discrete-mathematics/set-theory/set-theory.md#inclusionexclusion-principle)
-- ### <span id="mutually-exclusive-collectively-exhaustive">Mutually Exclusive events, Collectively Exhaustive events</span>
+- <h3 id="mutually-exclusive-collectively-exhaustive">Mutually Exclusive events, Collectively Exhaustive events</h3>
+
     - #### [Mutually Exclusive events](#independent-events-mutually-exclusive-events)：$P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)$
     - #### Collectively Exhaustive events：$P\left(A\cup B\right)=S$
     - #### Mutually Exclusive and Collectively Exhaustive events：$P\left(A\cup B\right)=P\left(A\right)+P\left(B\right)=S$

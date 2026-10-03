@@ -3,7 +3,7 @@
     - ### Active Component：[Transistor](#transistor), [Diode](diode.md), Vacuum Tube
     - ### Passive Component：Resistor, Capacitor, Inductor, Transformer
 - ### Linear/Nonlinear
-    - ### [Linear Component](../analog-electronics/immittance.md#linear-component)：[Resistor](../analog-electronics/immittance.md#resistor-r), [Capacitor](../analog-electronics/immittance.md#capacitor-c), [Inductor](../analog-electronics/immittance.md#inductor-l)
+    - ### [Linear Component](../analog-electronics/immittance.md#linear-component)：[Resistor](../analog-electronics/immittance.md#resistor), [Capacitor](../analog-electronics/immittance.md#capacitor), [Inductor](../analog-electronics/immittance.md#inductor)
     - ### Nonlinear Component：[Transistor](#transistor), [Diode](diode.md)
 
 # Power Supply Unit

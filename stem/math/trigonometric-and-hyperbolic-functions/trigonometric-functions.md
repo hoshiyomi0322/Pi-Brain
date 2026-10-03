@@ -89,7 +89,7 @@
 - ## Double-Angle Formulas
     - $\sin{2θ} = 2\sin{θ}\cos{θ}$
         - $\cos{20^\circ} \cos{40^\circ} \cos{80^\circ} = \frac{1}{8}$
-    - <span id = "double-cos"> $\cos{2θ} = \cos^2{θ}-\sin^2{θ}$ </span>
+    - $\cos{2θ} = \cos^2{θ}-\sin^2{θ}$
         - $\cos{2θ} = 2\cos^2{θ}-1$
         - $\cos{2θ} = 1-2\sin^2{θ}$
         - $\tan{2θ} = \frac{2\tan{θ}}{1-\tan^2{θ}}$
@@ -101,13 +101,13 @@
     - $\tan{3θ} = \frac{3\tan{θ}-\tan^3{θ}}{1-3\tan^2{θ}}$
 
 # Half-Angle Formulas
-- ## Derived from [Double-Angle Formulas ($\cos{2θ}$)](#double-cos)
+- ## Derived from [Double-Angle Formulas ($\cos{2θ}$)](#double-angle-formulas)
 - ## $\sin{\frac{θ}{2}} = \pm\sqrt{\frac{1-\cos{θ}}{2}}$
 - ## $\cos{\frac{θ}{2}} = \pm\sqrt{\frac{1+\cos{θ}}{2}}$
 - ## $\tan{\frac{θ}{2}} = \pm\sqrt{\frac{1-\cos{θ}}{1+\cos{θ}}} = \frac{\sin{θ}}{1+\cos{θ}} = \frac{1-\cos{θ}}{\sin{θ}}$
 
 # Power Reduction Formulas
-- ## Derived from [Double-Angle Formulas ($\cos{2θ}$)](#double-cos)
+- ## Derived from [Double-Angle Formulas ($\cos{2θ}$)](#double-angle-formulas)
 - ## $\sin^2{θ} = \frac{1-\cos{2θ}}{2}$
 - ## $\cos^2{θ} = \frac{1+\cos{2θ}}{2}$
 - ## $\tan^2{θ} = \frac{1-\cos{2θ}}{1+\cos{2θ}}$

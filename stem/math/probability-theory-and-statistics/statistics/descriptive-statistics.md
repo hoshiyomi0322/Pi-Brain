@@ -10,7 +10,7 @@
 
 # Measure of Central Tendency
 - ### Mean
-    - ### <span id="arithmetic-mean-am">Arithmetic Mean (AM)</span>
+    - <h3 id="arithmetic-mean-am">Arithmetic Mean (AM)</h3>
         - ### $μ=\frac{\sum\limits_{i=1}^{n}{x_i}}{n}=\frac{x_1+x_2+\cdots +x_n}{n}$
         - ### $μ=E\left[X\right]$
     - ### Geometric Mean (GM)
@@ -24,7 +24,8 @@
         - ### $\text{If }x_1=x_2=\cdots =x_n,~\text{then }\frac{x_1+x_2+\cdots +x_n}{n}=\sqrt[n]{x_1x_2\cdots x_n}$
 - ### Median
     - ### $Q_2=\begin{cases}{x_{\left(\frac{n+1}{2}\right)}}&\text{if }n\text{ is odd number}\\{\left(x_{\frac{n}{2}}+x_{\left(\frac{n}{2}+1\right)}\right)\times \frac{1}{2}}&\text{if }n\text{ is even number}\end{cases}$
-- ### <span id="mode">Mode</span>
+- <h3 id="mode">Mode</h3>
+    
     - ### [Mode of Continuous Random Variable](../probability-theory/probability-theory.md#mode-of-continuous-random-variable)
 
 # Measure of Dispersion (Measure of Variability)
@@ -32,12 +33,14 @@
     - ### $R=x_{max}-x_{min}$
 - ### Interquartile Range
     - ### $IQR=Q_{3}-Q_{1}=P_{75}-P_{25}$
-- ### <span id="deviation-from-the-mean">Deviation from the Mean</span>
+- <h3 id="deviation-from-the-mean">Deviation from the Mean</h3>
+    
     - ### $D_i=x_i-μ$
 - ### Mean Absolute Deviation (MAD)
     - ### $M_D=\frac{\sum\limits_{i=1}^{n}|D_i|}{n}=\frac{\sum\limits_{i=1}^{n}|x_i-μ|}{n}$
 - ### [Variance](variance.md#variance)
-- ### <span id="standard-deviation-sd">Standard Deviation (SD)</span>
+- <h3 id="standard-deviation-sd">Standard Deviation (SD)</h3>
+    
     - ### $\sqrt{Var\left(x\right)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-μ\right)^2}{n}}=\sqrt{\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2}$
     - ### $\sqrt{Var\left(X\right)}=\sqrt{E\left[\left(X-μ\right)^2\right]}=\sqrt{E\left[\left(X-E\left[X\right]\right)^2\right]}=\sqrt{E\left[X^2\right]-E\left[X\right]^2}$
 - ### Coefficient of Variation (CV)：$c_v=\frac{σ}{μ}$
@@ -50,8 +53,10 @@
 - ### Percentile
     - #### The k-th percentile ($P_{k}$)
     - #### Percentile Rank ($PR$) standard-score-z-score
-- ### <span id="standard-score-z-score"> Standard Score (Z-score)：$z=\frac{x-μ}{σ}$ </span>
-    - #### <span id="standardization">Standardization</span>
+- <h3 id="standard-score-z-score"> Standard Score (Z-score)：$z=\frac{x-μ}{σ}$ </h3>
+    
+    -  <h3 id="standardization">Standardization</h3>
+        
         - $\text{Raw Score}\left(x\right)\xrightarrow{Standardize}\text{Standard Score}\left(z\right)$
     - #### $\left( μ,~σ \right) \xrightarrow{Standardize} \left( 0,~1 \right)$
 
