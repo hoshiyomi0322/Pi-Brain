@@ -185,7 +185,7 @@
                 
                     container.innerHTML = `
                         <div class="pi-heading-search-title">
-                            🔍 Search
+                            ☄️ Search
                         </div>
                     
                         <div class="pi-heading-search-input-wrapper">
@@ -241,59 +241,60 @@
         
                     this.initialized = true;
                 },
-                getMarkdownFiles: function () {
-                    const links = document.querySelectorAll(
-                        '.sidebar a[href]'
-                    );
+                getMarkdownFiles: async function () {
+                    const apiUrl =
+                        'https://api.github.com/repos/hoshiyomi0322/Pi-Brain/git/trees/main?recursive=1';
 
-                    const files = new Set();
-
-                    links.forEach(function (link) {
-                        let href = link.getAttribute('href');
+                    try {
+                        const response = await fetch(apiUrl);
                     
-                        if (!href) {
-                            return;
+                        if (!response.ok) {
+                            console.warn(
+                                'Pi-Brain heading search: GitHub API request failed',
+                                response.status
+                            );
+                        
+                            return [];
                         }
                     
-                        /*
-                         * Docsify route
-                         *
-                         * #/stem/math/algebra.md
-                         * #/stem/math/algebra
-                         */
-                        if (!href.startsWith('#/')) {
-                            return;
+                        const data = await response.json();
+                    
+                        if (!data.tree) {
+                            return [];
                         }
                     
-                        href = href
-                            .substring(2)
-                            .split('?')[0]
-                            .split('#')[0];
+                        const files = data.tree
+                            .filter(function (item) {
+                                return (
+                                    item.type === 'blob' &&
+                                    item.path.toLowerCase().endsWith('.md')
+                                );
+                            })
+                            .map(function (item) {
+                                return item.path;
+                            });
+                        
+                        console.log(
+                            'Pi-Brain heading search files:',
+                            files
+                        );
+                        
+                        return files;
+                    } catch (error) {
+                        console.warn(
+                            'Pi-Brain heading search: unable to get GitHub files',
+                            error
+                        );
                     
-                        if (!href) {
-                            return;
-                        }
-                    
-                        if (!href.toLowerCase().endsWith('.md')) {
-                            href += '.md';
-                        }
-                    
-                        files.add(href);
-                    });
-                
-                    console.log(
-                        'Pi-Brain heading search files:',
-                        Array.from(files)
-                    );
-                
-                    return Array.from(files);
+                        return [];
+                    }
                 },
                 buildIndex: async function () {
                     if (this.loading) {
                         return;
                     }
                     this.loading = true;
-                    const files = this.getMarkdownFiles();
+                    const files = await this.getMarkdownFiles();
                     console.log(
                         'Pi-Brain heading search: found',
                         files.length,
@@ -314,8 +315,11 @@
                         const batchResults = await Promise.all(
                             batch.map(async function (file) {
                                 try {
+                                    const rawUrl =
+                                        'https://raw.githubusercontent.com/hoshiyomi0322/Pi-Brain/main/' +
+                                        file;
                                     const response = await fetch(
-                                        file,
+                                        rawUrl,
                                         {
                                             cache: 'force-cache'
                                         }
