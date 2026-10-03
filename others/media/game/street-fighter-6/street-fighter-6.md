@@ -52,7 +52,7 @@
     - Medium Attack (M, 中)
     - Heavy Attack (H, 強)
 - ### Jump Attack (J)
-    - eg：Jump Heavy Punch(JHP)
+    - example：Jump Heavy Punch(JHP)
 - ### Attack Attribute (攻撃の属性)
     <img src="./image/attack-attribute.png" width="50%">
 
@@ -85,7 +85,7 @@
     - #### Half Circle motion (HC, 180 motion)：624
     - #### 360 motion (G)：6248
     - #### Button hold (ボタンホールド)
-        - eg：(2 + 6(Hold) + 8) + K + Release(6)
+        - example：(2 + 6(Hold) + 8) + K + Release(6)
 - ### 派生 (派生技, 追加技, Follow-up)
 - ### 必殺技 (Special Move, SP)
     - #### 昇竜 (Dragon Punch, DR)
@@ -98,7 +98,7 @@
     - #### SA1, SA2, SA3
     - #### Critical Art (CA)
 - ### 溜め技 (蓄力招)：技を出す際に一定時間方向キーを倒し続ける必要のある技
-    - eg：溜め5HP = 5HP(Hold)
+    - example：溜め5HP = 5HP(Hold)
 - ### アーマー (Armor)：打撃攻撃に特定回数だけ耐えられる状態
 - ### 構え (Stance)
 - ### 挑釁

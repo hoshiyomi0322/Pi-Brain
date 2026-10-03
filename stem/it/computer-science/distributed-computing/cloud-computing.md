@@ -2,7 +2,7 @@
 - ### Public cloud
     <img src="./image/public-cloud.png" width="15%">
 
-    - eg：Google, Microsoft
+    - example：Google, Microsoft
 - ### Private cloud
     <img src="./image/private-cloud.png" width="15%">
 - ### Community cloud
@@ -11,9 +11,9 @@
 
 # Service mode
 - ### Software as a Service (SaaS)
-    - eg：Adobe
+    - example：Adobe
 - ### Platform as a Service (PaaS)
-    - eg：Google
+    - example：Google
 - ### Infrastructure as a Service (IaaS)
 
 # Extension of Cloud Computing

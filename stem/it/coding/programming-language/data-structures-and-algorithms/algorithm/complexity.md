@@ -11,7 +11,7 @@
         |Worst-case Time Complexity<br>(Strict Upper Bound)|Best-case Time Complexity<br>(Strict Lower Bound)|
 - ### Time Complexity = the dominant term of $T(n)$ ignoring coefficients
     - $T(n)$ = number of operations
-- #### eg
+- #### Example
     - number of operations = $T(n)=2n^2+n+1$
     - Time Complexity = $O(n^2)$
 - ### Common Time Complexities

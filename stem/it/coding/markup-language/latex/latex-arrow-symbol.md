@@ -50,7 +50,7 @@
     |$\xrightarrow[b]{a}$|`\xrightarrow[b]{a}`|
     |$\xrightarrow{a}$|`\xrightarrow{a}`|
     |$\xrightarrow[b]{}$|`\xrightarrow[b]{}`|
-- ### eg
+- ### Example
     |Symbol|LaTex|
     |:---:|:---:|
     |$\xrightarrow[b]{a}$|`\xrightarrow[b]{a}`|

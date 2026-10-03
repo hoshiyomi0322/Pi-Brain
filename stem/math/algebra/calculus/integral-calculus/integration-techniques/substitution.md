@@ -9,7 +9,7 @@
 # Trigonometric Substitution
 - ### [Trigonometric Substitution](trigonometric-substitution.md)
 
-## eg：$\int_{1}^{2}{\left(x^3-5\right)^{10}x^2\,dx}$
+# Example：$\int_{1}^{2}{\left(x^3-5\right)^{10}x^2\,dx}$
 - ### Set $u=u\left(x\right)=x^3-5$
 - ### $du=3x^2\,dx$
     - $\frac{du}{dx}=\left(x^3-5\right)^\prime=3x^2$

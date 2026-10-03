@@ -54,7 +54,7 @@
     - ### [CDF](#joint-cdf)
         - ### $F_Y\left(y\right) = P\left(Y\le y\right) = P\left( g\left( X \right)\le y \right) = P\left( X \in D \right)$
         - ### $D=\left\{ x \mid g\left(x\right)\le y \right\}$
-- ### eg：$Y = g\left(X\right) = \left(X-3\right)^2$
+- ### Example：$Y = g\left(X\right) = \left(X-3\right)^2$
     - ### $f_X\left(x\right)=\begin{cases} {\frac{1}{4}} & {\text{for }x \in \left[0,~4\right]} \\ 0&\text{otherwise} \end{cases},~X\text{ is Continuous}$
     - ### $x \in \left[0,~4\right] \to y \in \left[0,~1\right) \cup \left[1,~9\right]$
     - ### $\text{for }y \in \left[0,~1\right) ,~ g\text{ is many-to-one}$

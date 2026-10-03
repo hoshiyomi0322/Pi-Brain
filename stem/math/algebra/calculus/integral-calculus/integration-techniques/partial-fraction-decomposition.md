@@ -3,4 +3,4 @@
 
 # Heaviside cover-up method
 
-## eg
+# Example

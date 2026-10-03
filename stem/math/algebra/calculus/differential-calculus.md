@@ -51,7 +51,7 @@
     - ### $\left(f\left(f^{-1}\left(x\right)\right)\right)^\prime=f\prime\left(f^{-1}\left(x\right)\right)\cdot\left(f^{-1}\left(x\right)\right)^\prime=1$
         - Chain Rule：$\left(f\left(f^{-1}\left(x\right)\right)\right)^\prime=f\prime\left(f^{-1}\left(x\right)\right)\cdot\left(f^{-1}\left(x\right)\right)^\prime$
         - $\left(f\left(f^{-1}\left(x\right)\right)\right)^\prime=x^\prime=1$
-- ### eg：$\left(\arcsin{x}\right)^\prime$
+- ### Example：$\left(\arcsin{x}\right)^\prime$
     - ### $\left(\arcsin{x}\right)^\prime=\frac{1}{\sin^\prime{\left(\arcsin{x}\right)}}=\frac{1}{\cos{\left(\arcsin{x}\right)}}=\frac{1}{\cos{y}}=\frac{1}{\sqrt{1-\sin^2{y}}}=\frac{1}{\sqrt{1-x^2}}$
       - $\arcsin{x}=y,~\sin{y}=x$
       - Pythagorean Identities：$\sin^2{y}+\cos^2{y}=1$
@@ -59,7 +59,7 @@
 # Logarithmic Differentiation
 - ### $f^\prime\left(x\right)=f\left(x\right)\times\left(\ln{f\left(x\right)}\right)^\prime$
     - ### $\left(\ln{f\left(x\right)}\right)^\prime=\frac{f^\prime\left(x\right)}{f\left(x\right)}$
-- ### eg：$f\left(x\right)=\frac{x^2\left(x-2\right)^3}{\left(x-1\right)\left(x+3\right)^2}$
+- ### Example：$f\left(x\right)=\frac{x^2\left(x-2\right)^3}{\left(x-1\right)\left(x+3\right)^2}$
     - ### $\ln{f\left(x\right)}=2\ln{x}+3\ln{\left(x-2\right)}-\ln{\left(x-1\right)}-2\ln{\left(x+3\right)}$
         - ### $\left(\ln{f\left(x\right)}\right)^\prime=\frac{2}{x}+\frac{3}{x-2}-\frac{1}{x-1}-\frac{2}{x+3}$
     - ### $f^\prime\left(x\right)=f\left(x\right)\times\left(\ln{f\left(x\right)}\right)^\prime=\frac{x^2\left(x-2\right)^3}{\left(x-1\right)\left(x+3\right)^2}\times\left(\frac{2}{x}+\frac{3}{x-2}-\frac{1}{x-1}-\frac{2}{x+3}\right)$

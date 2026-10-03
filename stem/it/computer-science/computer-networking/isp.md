@@ -10,13 +10,13 @@
         - Public Peering
         - Private Peering
     - ### [Internet Exchange Point (IXP)](#internet-exchange-point-ixp-1)
-- ### eg：中華電信、遠傳電信、台灣大哥大
+- ### Example：中華電信、遠傳電信、台灣大哥大
 
 # Internet Backbone
 <div align="center"><img src="./image/internet-backbone-isp.png" width="80%"></div>
 
 - ### [Switching](switching.md)
-- ### eg：AT&T、IBM、中華電信
+- ### Example：AT&T、IBM、中華電信
 
 # Internet Exchange Point (IXP)
 <div align="center"><img src="./image/ixp.png" width="50%"></div>

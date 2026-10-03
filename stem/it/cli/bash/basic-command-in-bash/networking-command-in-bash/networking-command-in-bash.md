@@ -72,7 +72,7 @@
     |`-p`|Process|
     |`-n`|No DNS|
     |`-a`|All|
-- ### eg
+- ### Example
     ```bash
     ss -tulpn # View all listening TCP/UDP ports with process names
     ```

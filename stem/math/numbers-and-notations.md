@@ -14,7 +14,7 @@
 |$\min{x}$|Minimum|
 |$\mathop{\text{argmax}}{~x}$|Argument of the Maximum|
 |$\mathop{\text{argmin}}{~x}$|Argument of the Minimum|
-- ### eg
+- ### Example
     - $f(x)=\begin{cases} {f(1)=35}\\{f(2)=69}\\{f(3)=24} \end{cases}$
     - $\max{f(x)}=69$
     - $\min{f(x)}=24$
@@ -30,7 +30,7 @@
 |$s.t.$|$\text{subject to}$|
 |$s.t.$|$\text{such that}$|
 |$e.g.$|$\text{exempli gratia, for example}$|
-- ### eg：$\sin^2{θ}+\cos^2{θ}=1$
+- ### Example：$\sin^2{θ}+\cos^2{θ}=1$
     - $LHS=\sin^2{θ}+\cos^2{θ}$
     - $RHS=1$
 

@@ -35,12 +35,12 @@
     3. #### Map each group to a character in the [Base64 Alphabet](#base64-alphabet)
 - ### Base64 Alphabet
     <img src="./image/base64.png" width="70%">
-- ### eg：`Sui` → `U3Vp`
+- ### Example：`Sui` → `U3Vp`
     <img src="./image/base64-eg.png" width="60%">
 
 # Compression Encoding
 - ### Run-Length Encoding (RLE)：compress repeated data
-    - eg：abbccc→1a2b3c
+    - example：abbccc→1a2b3c
 - ### Huffman Coding：encode each symbol based on frequency
     - #### [Huffman Tree]
 

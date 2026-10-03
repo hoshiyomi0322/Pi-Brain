@@ -27,7 +27,7 @@
 - ### Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $F_X\left(x\right)=F_{XY}\left(x,~\infty\right) = \begin{cases} {\int^x_{-\infty}{f_X\left(t\right)\,dt}} & \text{if } X \text{ is Continuous} \\ {\sum\limits_{t\le x}{f_X\left(t\right)}} & \text{if } X \text{ is Discrete}\end{cases}$
     - ### $F_Y\left(y\right)=F_{XY}\left(\infty,~y\right) = \begin{cases} {\int^y_{-\infty}{f_Y\left(s\right)\,ds}} & \text{if } X \text{ is Continuous} \\ {\sum\limits_{s\le y}{f_Y\left(s\right)}} & \text{if } X \text{ is Discrete}\end{cases}$
-- #### eg：$\left(X,~Y\right)$ is Discrete
+- #### Example：$\left(X,~Y\right)$ is Discrete
     |$f\left(x_i,~y_j\right)$|$x_1$|$x_2$|$x_3$|$x_4$|$f\left(y_j\right)$|
     |:---:|:---:|:---:|:---:|:---:|:---:|
     |$y_1$|$\frac{4}{32}$|$\frac{2}{32}$|$\frac{1}{32}$|$\frac{1}{32}$|$\frac{4+2+1+1}{32}$|
@@ -80,7 +80,7 @@
 - ### [CDF](#joint-cdf)
     - ### $F_{UV}\left(u,~v\right) = P\left(U\le u,~V\le v\right) = P\left( g_1\left( X,~Y \right)\le u ,~ g_2\left( X,~Y \right)\le v \right) = P\left( \left( X,~Y \right) \in D \right)$
     - ### $D=\left\{ \left( x,~y \right) \mid g_1\left(x,~y\right)\le u ,~ g_2\left(x,~y\right)\le v \right\}$
-- ### eg：$\begin{cases} {U=X+Y} \\ {V=X} \end{cases}$
+- ### Example：$\begin{cases} {U=X+Y} \\ {V=X} \end{cases}$
     - ### $f_{XY}\left(x,~y\right)=\begin{cases} {\frac{1}{4}} & {\text{for }x \in \left[0,~2\right],~y \in \left[0,~2\right]} \\ 0&\text{otherwise} \end{cases},~ (X,~Y)\text{ is Continuous}$
     - ### $\begin{cases} {X=V} \\ {Y=U-V} \end{cases}$
         - ### $x \in \left[0,~2\right],~y \in \left[0,~2\right] \to u \in \left[v,~v+2\right],~v \in \left[0,~2\right]$

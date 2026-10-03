@@ -22,7 +22,7 @@
 
 # Scientific notation
 - ### $E\pm n = \times 10^{\pm n}$
-- ### eg
+- ### Example
     - $1201.321=1.201321 \times 10^3 = 1.201321E+3$
     - $0.314=3.14 \times 10^{-1} = 3.14E-1$
 

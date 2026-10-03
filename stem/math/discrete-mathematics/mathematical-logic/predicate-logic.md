@@ -27,7 +27,7 @@
     |$\exists x \neg P\left(x\right)$|$\text{There Exists at least one }x, P(x)\text{ does not hold}$|
 
 
-- ### eg：$P\left(x\right):x>2 ,~ Q\left(x,~y\right):x^2+y=35$
+- ### Example：$P\left(x\right):x>2 ,~ Q\left(x,~y\right):x^2+y=35$
     - $\forall x P\left(x\right) = \forall x:x>2$
     - $\exists x \neg P\left(x\right) = \exists x:x\le 2$
     - $\exists x \forall y Q\left(x,~y\right) = \exists x \forall y: x^2+y=35$

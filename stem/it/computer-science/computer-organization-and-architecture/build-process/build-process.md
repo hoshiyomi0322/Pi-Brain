@@ -27,7 +27,7 @@
     - #### [High-Level Programming Language](#high-level-programming-language) $\xrightarrow{\text{Compiler}}$ [Object code](#object-code)
 - ### Interpreter
     - #### executes [Source code](#source-code) without compiling it to [Object code](#object-code)
-    - #### eg：Python, JavaScript, Ruby
+    - #### example：Python, JavaScript, Ruby
 
 # Linker, Loader
 - ### [Linker](linker.md)

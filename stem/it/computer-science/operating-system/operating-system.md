@@ -1,9 +1,9 @@
 # Types of Operating System
 - ### Open System
     - #### Interoperability (inter-operate-ability)：the ability of multiple systems or device to work together
-    - #### eg：[Linux](#linux)
+    - #### Example：[Linux](#linux)
 - ### Proprietary System
-    - #### eg：iOS
+    - #### Example：iOS
 
 # Operating System
 - ### [Process Management](process-management/process-management.md)

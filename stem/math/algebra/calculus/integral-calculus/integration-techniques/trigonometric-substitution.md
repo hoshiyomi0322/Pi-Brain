@@ -32,7 +32,7 @@
     - ### $\int{\frac{1}{\sqrt{x^2-a^2}}\,dx}=\text{arcosh}\,{\left(\frac{x}{a}\right)}+C$
         - $\left(\text{arcosh}\,x\right)^\prime=\frac{1}{\sqrt{x^2-1}},~x>1$
 
-## eg：$\int{\sqrt{4-x^2}\,dx}$
+## Example：$\int{\sqrt{4-x^2}\,dx}$
 - ### $\text{Let }x=2\sin{θ}$
     - $dx=\left(2\sin{θ}\right)^\prime\,dθ=2\cos{θ}\,dθ$
 - ### $\sqrt{2^2-x^2}=\sqrt{2^2-\left(2\sin{θ}\right)^2}=2\sqrt{1-\sin^2{θ}}=2\sqrt{\cos^2{θ}}=2\cos{θ}$

@@ -10,5 +10,5 @@
 - ### definition
 - ### Existence of Asymptotes
   
-## eg
+# Example
 

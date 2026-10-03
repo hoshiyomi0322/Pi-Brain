@@ -34,7 +34,7 @@
     - $\left(X_q,~\cdots,~X_r\right)=\left(X_1,~\cdots,~X_n\right)-\left(X_i,~\cdots,~X_j\right)$
 - ### Joint Marginal [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint Marginal [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $\begin{aligned} F_{X_i,~\cdots,~X_j}\left(x_i,~\cdots,~x_j\right) &= F\left(\infty,~\cdots,~\infty,~x_i,~\cdots,~x_j,~\infty,~\cdots,~\infty\right) \\ &= \begin{cases} {\int^{x_i}_{-\infty}{\cdots\int^{x_j}_{-\infty}{f_{X_i,~\cdots,~X_j}\left(t_i,~\cdots,~t_j\right)\,dt_j\cdots dt_i}}} & \text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Continuous} \\ {\sum\limits_{t_i \le x_i}{\cdots\sum\limits_{t_j \le x_j}{f_{X_i,~\cdots,~X_j}\left(t_i,~\cdots,~t_j\right)}}} & \text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Discrete}\end{cases} \end{aligned}$
-- ### eg
+- ### Example
     - ### $f_{X_1,~X_3}\left(x_1,~x_3\right)=\begin{cases} {\int^\infty_{-\infty}{\cdots\int^\infty_{-\infty}{f\left(x_1,~\cdots,~x_n\right)\,dx_2dx_4\cdots dx_n}}} & \text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Continuous} \\ {\sum\limits_{x_2}{\sum\limits_{x_4}\cdots\sum\limits_{x_n}{f\left(x_1,~\cdots,~x_n\right)}}} & \text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Discrete}\end{cases}$
     - ### $F_{X_1,~X_3}\left(x_1,~x_3\right)=F\left( x_1,~\infty,~x_3,~\infty,~\cdots,~\infty \right)$
 
@@ -46,7 +46,7 @@
 - ### $\text{If }\left( X_i \cdots X_j \right)\text{ and }\left( X_v \cdots X_w \right)\text{ are }$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
     - ### $f_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right)=f_{X_i \cdots X_j}\left(x_i,~ \cdots,~ x_j\right)$
     - ### $F_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right)=F_{X_i \cdots X_j}\left(x_i,~ \cdots,~ x_j\right)$
-- ### eg
+- ### Example
     - ### $f_{X_iX_j | X_vX_w}\left( x_ix_j | x_vx_w \right) = \frac{f_{X_iX_jX_vX_w}\left(x_i,~ x_j,~x_v,~ x_w\right)}{f_{X_vX_w}\left(x_v,~x_w\right)}$
     - ### $f_{X_iX_j | X_k}\left( x_ix_j | x_k \right) = \frac{f_{X_iX_jX_k}\left( x_i,~x_j,~x_k \right)}{f_{X_k}\left(x_k\right)}$
     - ### $f_{X_i | X_jX_k}\left( x_i | x_jx_k \right) = \frac{f_{X_iX_jX_k}\left( x_i,~x_j,~x_k \right)}{f_{X_jX_k}\left(x_j,~x_k\right)}$

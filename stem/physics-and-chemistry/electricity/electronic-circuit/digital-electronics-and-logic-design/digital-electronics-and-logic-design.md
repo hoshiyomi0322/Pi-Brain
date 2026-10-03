@@ -63,7 +63,7 @@
 
         - $G_i=\text{i-bit Gray Code}$
         - $Reflect(\{S_1,~\cdots ,~S_n\})=\{S_n,~\cdots ,~S_1\}$
-    - #### eg：2-bit Gray Code
+    - #### Example：2-bit Gray Code
         - $Reflect(G_{1})=Reflect(\{0,~1\})=\{1,~0\}$
         - $G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}$
 

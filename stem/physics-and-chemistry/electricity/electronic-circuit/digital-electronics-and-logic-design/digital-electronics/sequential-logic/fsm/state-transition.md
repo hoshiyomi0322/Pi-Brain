@@ -3,7 +3,7 @@
 - ### State Graph
     - Element：State, Input, Next State, Ouput
     - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Ouput}$
-- ### eg
+- ### Example
     - ### State Transition Table
         <table border="1">
             <thead>

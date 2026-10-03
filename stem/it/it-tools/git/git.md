@@ -37,7 +37,7 @@
 - ### How to Access
     - #### Replace `.com` with `.dev` in the URL
         - `https://github.com/user/repo` → `https://github.dev/user/repo`
-        - eg：`https://github.dev/hoshiyomi0322/Pi-Brain`
+        - example：`https://github.dev/hoshiyomi0322/Pi-Brain`
     - #### Keyboard Shortcut：Press the `.` key on any repo or pull request.
     - #### File Menu：When viewing a specific file, click the dropdown menu and select `github.dev`
         <img src="./image/github-web-editor.png" width="25%">

@@ -17,14 +17,14 @@
         - ### $\lim\limits_{x\to c}{1^\infty} = \lim\limits_{x\to c}{\exp{\left(\ln{1^{\infty}}\right)}} = \lim\limits_{x\to c}{\exp{\left(\infty\ln{1}\right)}} = \exp{\left(\lim\limits_{x\to c}{\left(\infty\ln{1}\right)}\right)} = \exp{\left(\lim\limits_{x\to c}{\left(\infty\times0\right)}\right)}$
     - ### $\lim\limits_{x\to c}{f^g} = \lim\limits_{x\to c}{\exp{\left(\ln{f^{g}}\right)}} = \lim\limits_{x\to c}{\exp{\left(g\ln{f}\right)}} = \exp{\left(\lim\limits_{x\to c}{\left(g\ln{f}\right)}\right)} = \exp{\left(\lim\limits_{x\to c}{\frac{\ln{f}}{1/g}}\right)} = \exp{\left(\lim\limits_{x\to c}{\frac{\left(\ln{f}\right)^\prime}{\left(1/g\right)^\prime}}\right)} = \exp{\left(\lim\limits_{x\to c}{\frac{g^\prime}{f}}\right)}$
 
-## eg
-- ### eg ($0\times\infty$)
+## Example
+- ### Example ($0\times\infty$)
     - $\lim\limits_{x\to 0^+}{x\ln{x}}=\lim\limits_{x\to 0^+}{\frac{\ln{x}}{1/x}}=\lim\limits_{x\to 0^+}{\frac{\left(\ln{x}\right)^\prime}{\left(1/x\right)^\prime}}=0$
-- ### eg ($\infty-\infty$)
+- ### Example ($\infty-\infty$)
     - $\lim\limits_{x\to 0^+}{\frac{1}{x}-\frac{1}{\sin{x}}}=\lim\limits_{x\to 0^+}{\frac{\sin{x}-x}{x\sin{x}}}=\lim\limits_{x\to 0^+}{\frac{\left(\sin{x}-x\right)^\prime}{\left(x\sin{x}\right)^\prime}}=0$
-- ### eg ($\infty^0$)
+- ### Example ($\infty^0$)
     - $\lim\limits_{x\to \infty}{x^{1/x}} = \exp{\left(\lim\limits_{x\to \infty}{\left(1/x\right)\ln{x}}\right)} = \exp{\left(\lim\limits_{x\to \infty}{\frac{\ln{x}}{x}}\right)} = \exp{\left(\lim\limits_{x\to \infty}{\frac{\left(\ln{x}\right)^\prime}{x^\prime}}\right)} = \exp0=1$
-- ### eg ($0^0$)
+- ### Example ($0^0$)
     - $\lim\limits_{x\to 0^+}{x^x} = \exp{\left(\lim\limits_{x\to 0^+}{x\ln{x}}\right)} = \exp{\left(\lim\limits_{x\to 0^+}{\frac{\ln{x}}{1/x}}\right)} = \exp{\left(\lim\limits_{x\to 0^+}{\frac{\left(\ln{x}\right)^\prime}{\left(1/x\right)^\prime}}\right)} = \exp0 = 1$
-- ### eg ($1^\infty$)
+- ### Example ($1^\infty$)
     - $\lim\limits_{x\to 0}{\left(\cos{x}\right)^{1/x}} = \exp{\left(\lim\limits_{x\to 0}{\left(1/x\right)\ln{\left(\cos{x}\right)}}\right)} = \exp{\left(\lim\limits_{x\to 0}{\frac{\ln{\left(\cos{x}\right)}}{x}}\right)} = \exp{\left(\lim\limits_{x\to 0}{\frac{\left(\ln{\left(\cos{x}\right)}\right)^\prime}{x^\prime}}\right)} = \exp0=1$

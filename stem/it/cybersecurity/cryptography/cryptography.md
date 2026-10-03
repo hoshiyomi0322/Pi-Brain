@@ -10,7 +10,7 @@
 - Even if a secure algorithm is made public, as long as the key is not leaked, the ciphertext remains secure.
 
 # Avalanche Effect
-- eg：Block Cipher, CHF
+- example：Block Cipher, CHF
 
 # Diffie-Hellman Key Exchange (DH)
 <div align="center">

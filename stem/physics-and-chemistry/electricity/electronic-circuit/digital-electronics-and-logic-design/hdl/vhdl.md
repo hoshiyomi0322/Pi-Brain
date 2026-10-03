@@ -167,7 +167,7 @@
     -- relative position
     Label_name: element_name port map(sig_a,sig_b);
     ```
-- ### eg
+- ### Example
     ```vhdl
     -- component arch
     library ieee;

@@ -53,7 +53,7 @@
 # Low-level Programing Language
 - ### Assembly Language
     - ### Mnemonic
-        - eg：ADD, MOV
+        - example：ADD, MOV
     - ### Operand
 - ### Machine Language
     - ### Operation Code (Opcode)
@@ -65,7 +65,7 @@
 - ### used to resolve Forward Reference
 - ### Location Counter：holds the address of the instruction that is being assembled
 - ### Symbol Table：stores Symbols and their corresponding Addresses
-- ### eg
+- ### Example
     ```mips
     main:
         j target # Forward Reference to an undefined label

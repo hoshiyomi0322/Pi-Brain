@@ -4,7 +4,7 @@
     - ### $a>b$
 - ### $\text{RAM}\left[ \text{address} \right]$：the content of memory at address
 - ### $a \parallel b$：bit concatenation of $a$ and $b$
-    - ### eg：$00 \parallel 10=0010$
+    - ### Example：$00 \parallel 10=0010$
 
 # Address
 - ### Target Address：The Address of Code

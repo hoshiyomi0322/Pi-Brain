@@ -5,7 +5,7 @@
         - [TCP/IP Protocol Suite](#tcpip-protocol-suite-internet-protocol-suite-dod-model)
         - [Wireless Application Protocol Stack](#wireless-application-protocol-stack-wap-stack)
     - ### Proprietary Protocol
-        - eg：Skype protocol, PlayStation Network(PSN), Nintendo Wi-Fi Connection(Nintendo WFC)
+        - example：Skype protocol, PlayStation Network(PSN), Nintendo Wi-Fi Connection(Nintendo WFC)
 - ### Stateful Protocol, Stateless Protocol
     ||Stateful Protocol|Stateless Protocol
     |:---:|:---:|:---:|

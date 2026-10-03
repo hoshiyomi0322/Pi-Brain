@@ -1,7 +1,7 @@
 # Fully Qualified Domain Name (FQDN)
 - ### \<[Hostname](#hostname)>.\<[Domain Name](#domain-name-domain)>.\<[TLD](#top-level-domain-tld)>
     <img src="./image/fqdn.png" width="60%">
-- ### eg：www.google.com、suichan.servegame.com
+- ### Example：www.google.com、suichan.servegame.com
 
 # Hostname
 |Hostname|Entity|

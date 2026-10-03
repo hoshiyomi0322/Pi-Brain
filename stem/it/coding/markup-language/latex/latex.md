@@ -349,7 +349,7 @@ $\displaystyle{text}$
 # Latex Packages
 - ### [hyperref](./latex-packages/hyperref.md)
 
-# eg
+# Example
 - ### $\text{arsinh}\,(x)$
     ```latex
     \text{arsinh} \, (x)

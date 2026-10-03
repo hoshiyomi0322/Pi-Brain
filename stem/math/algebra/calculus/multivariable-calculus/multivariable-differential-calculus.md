@@ -4,7 +4,7 @@
     - ### $\frac{\partial}{\partial x_i}f\left(x_1,~\cdots,~x_n\right)=\text{Differentiate with respect to }x_i,~\text{holding all other variables as constants}$
 - ### Total Derivative：$df=\frac{\partial f}{\partial x_1}dx_1+\cdots+\frac{\partial f}{\partial x_n}dx_n$
 - ### Clairaut's Theorem：$\frac{\partial^2}{\partial x_i\partial x_j}f\left(x_1,~\cdots,~x_n\right)=\frac{\partial}{\partial x_i}\left(\frac{\partial f}{\partial x_j}\right)=\frac{\partial}{\partial x_j}\left(\frac{\partial f}{\partial x_i}\right)$
-- ### eg：$f\left(x,~y\right)=2x^2+5xy+3y^2-10$
+- ### Example：$f\left(x,~y\right)=2x^2+5xy+3y^2-10$
     - #### $\frac{\partial f}{\partial x}=4x+5y$
 	- #### $\frac{\partial f}{\partial y}=5x+6y$
 	- #### $df=\left( 4x+5y \right)dx + \left( 5x+6y \right)dy$
@@ -15,7 +15,7 @@
     - ### $\frac{\partial}{\partial x_i}f\left(α_1,~\cdots,~α_n\right) = \text{the Slope of the Tangent Line to }f\left(α_1,~\cdots,~x_i,~\cdots,~α_n\right)\text{ at }\left(x_i=α_i\right)$
 - ### Linear Approximation of $f\left(x_1,~\cdots,~x_n\right)$ at $\left(α_1,~\cdots,~α_n\right)$
     - ### $L\left( x_1,~\cdots,~x_n \right)=f\left( α_1,~\cdots,~α_n \right)+\sum\limits^n_{i=1}{\left( \frac{\partial f\left( α_1,~\cdots,~α_n \right)}{\partial x_i}\left(x_i-α_i\right) \right)}$
-- ### eg：$z=f\left(x,~y\right)$
+- ### Example：$z=f\left(x,~y\right)$
     - ### $\frac{\partial}{\partial x}f\left(a,~b\right)=\text{the Slope of the Tangent Line to }f\left(x,~b\right)\text{ at }\left(x=a\right)$
         <img src="./image/slope-of-the-tangent-line.png" width="50%">
     - ### Linear Approximation：[Equation of Tangent Plane](../../expression/equation/equation-of-plane.md#point-slope-form) to $f\left(x,~y\right)$ at $\left( a,~b \right)$
@@ -31,7 +31,7 @@
     - ### $\frac{\partial f}{\partial x_k} = \frac{\partial f}{\partial g_1}\frac{\partial g_1}{\partial x_k}+\cdots+\frac{\partial f}{\partial g_n}\frac{\partial g_n}{\partial x_k}$
     - ### $df=\frac{\partial f}{\partial g_1}dg_1+\cdots+\frac{\partial f}{\partial g_n}dg_n=\frac{\partial f}{\partial x_1}dx_1+\cdots+\frac{\partial f}{\partial x_m}dx_m$
     - ### $dg_i=\frac{\partial g_i}{\partial x_1}dx_1+\cdots+\frac{\partial g_i}{\partial x_m}dx_m$
-- ### eg
+- ### Example
 
 # Implicit Function
 - ### Implicit Function：$f\left(x_1,~\cdots,~x_n\right)=0$
