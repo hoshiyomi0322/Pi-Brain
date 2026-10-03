@@ -177,7 +177,11 @@ body.close .content{left:0}
     .github-corner .octo-arm {
         animation: octocat-wave 0.56s ease-in-out;
     }
-    
+    .markdown-section {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
     /* Override the styles for tables in the markdown section on smaller screens */
     .markdown-section table {
         display: table !important;
