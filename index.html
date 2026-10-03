@@ -393,6 +393,7 @@
                         .replace(/_(.*?)_/g, '$1')
                         .replace(/`(.*?)`/g, '$1');
                     return result
+                        .replace(/\(\s*\)/g, '')
                         .replace(/\s+/g, ' ')
                         .trim();
                 },
