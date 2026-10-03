@@ -196,6 +196,11 @@ body.close .content{left:0}
         overflow-wrap: normal !important;
         word-wrap: normal !important;
     }
+
+    .pi-table-scroll table img {
+        max-width: none !important;
+        height: auto !important;
+    }
 }
 
 @keyframes octocat-wave{0%,to{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}
