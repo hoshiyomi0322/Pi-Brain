@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="./web/blue.css">
 
     <style>
-        <!-- Custom styles for Pi-Brain -->
         @media screen and (max-width: 768px) {
             html,
             body {
@@ -85,7 +84,7 @@
 
 
     <script>
-        <!-- MathJax configuration -->
+        // MathJax configuration
         window.MathJax = {
             tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -113,7 +112,7 @@
             maxLevel: 1,
             relativePath: true,
             
-            <!-- LaTeX configuration for Docsify -->
+            // LaTeX configuration for Docsify
             latex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$']],
@@ -126,7 +125,7 @@
             plugins: [
                 function(hook, vm) {
                     hook.doneEach(function() {
-                        <!-- Set the document title based on the current file -->
+                        // Set the document title based on the current file
                         var name = '';
                         if (vm.route.file) {
                             var rawName = vm.route.file.split('/').pop().replace('.md', '');
@@ -138,14 +137,14 @@
                             document.title = 'Pi-Brain：' + name;
                         }
                     
-                        <!-- Update the sidebar name subtitle based on the current file -->
+                        // Update the sidebar name subtitle based on the current file
                         var appNameContainer = document.querySelector('.app-name');
                         if (appNameContainer) {                       
                             var oldSubTitle = document.querySelector('.app-name-subtitle');
                             if (oldSubTitle) {
                                 oldSubTitle.remove();
                             }
-                            <!-- Only add the subtitle if the current file is not index.md or readme.md -->
+                            // Only add the subtitle if the current file is not index.md or readme.md
                             var currentFile = vm.route.file.toLowerCase();
                             if (name && currentFile !== 'index.md' && currentFile !== 'readme.md') {
                                 var subTitleElement = document.createElement('div');
@@ -160,7 +159,7 @@
                             }
                         }
                     
-                        <!-- Adjust image paths to be relative to the current file's directory -->
+                        // Adjust image paths to be relative to the current file's directory
                         var images = document.querySelectorAll('#main img');
                         images.forEach(function(img) {
                             var src = img.getAttribute('src');
@@ -175,7 +174,7 @@
                             }
                         });
                     
-                        <!-- Adjust links to other markdown files to be relative to the current file's directory -->
+                        // Adjust links to other markdown files to be relative to the current file's directory
                         var currentFile = vm.route.file;
                         if (currentFile) {
                             var links = document.querySelectorAll('#main a[href*=".md"]');
@@ -207,15 +206,17 @@
                             });
                         }
                         
-                        document.querySelectorAll('#main .markdown-section table').forEach(function(table) {
-                            if (table.parentElement.classList.contains('pi-table-scroll')) {
-                                return;
-                            }
-                            var wrapper = document.createElement('div');
-                            wrapper.className = 'pi-table-scroll';
-                            table.parentNode.insertBefore(wrapper, table);
-                            wrapper.appendChild(table);
-                        });
+                        if (window.innerWidth <= 768) {
+                            document.querySelectorAll('#main .markdown-section table').forEach(function(table) {
+                                if (table.parentElement.classList.contains('pi-table-scroll')) {
+                                    return;
+                                }
+                                var wrapper = document.createElement('div');
+                                wrapper.className = 'pi-table-scroll';
+                                table.parentNode.insertBefore(wrapper, table);
+                                wrapper.appendChild(table);
+                            });
+                        }
 
                         setTimeout(function () {
                             if (
@@ -231,7 +232,7 @@
         }
     </script>
     <script>
-        <!-- Heading search functionality -->
+        // Heading search functionality
         (function () {
             const headingSearch = {
                 index: [],
