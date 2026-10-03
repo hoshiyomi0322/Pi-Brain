@@ -87,16 +87,19 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
 .markdown-section table {
     border-collapse: collapse;
     border-spacing: 0;
-    display: block;
     margin-bottom: 1rem;
-    overflow-x: auto;
-    overflow-y: hidden;
     width: max-content;
     max-width: none;
-    -webkit-overflow-scrolling: touch;
+    table-layout: auto;
 }
-.markdown-section th{font-weight:700}
-.markdown-section td,.markdown-section th{border:1px solid #ddd;padding:6px 13px}
+.markdown-section th {
+    font-weight: 700;
+}
+.markdown-section td,
+.markdown-section th {
+    border: 1px solid #ddd;
+    padding: 6px 13px;
+}
 .markdown-section tr{border-top:1px solid #ccc}
 
 .markdown-section p.tip { background-color:#f8f8f8; border-bottom-right-radius:2px;border-left:4px solid #f66;border-top-right-radius:2px;margin:2em 0;padding:12px 24px 12px 30px;position:relative }
@@ -175,32 +178,39 @@ body.close .content{left:0}
         animation: octocat-wave 0.56s ease-in-out;
     }
     .markdown-section table {
+        display: table !important;
         width: max-content !important;
-        min-width: 100%;
+        min-width: 0 !important;
         max-width: none !important;
+        table-layout: auto !important;
 
-        display: block;
-
-        overflow-x: auto;
-        overflow-y: hidden;
-
-        -webkit-overflow-scrolling: touch;
+        border-collapse: collapse !important;
+        border-spacing: 0 !important;
     }
     .markdown-section table th,
     .markdown-section table td {
+        white-space: nowrap !important;
+
+        word-break: normal !important;
+        overflow-wrap: normal !important;
+        word-wrap: normal !important;
+
+        width: auto !important;
+        min-width: 0 !important;
+    }
+    .markdown-section table th *,
+    .markdown-section table td * {
         white-space: nowrap !important;
         word-break: normal !important;
         overflow-wrap: normal !important;
         word-wrap: normal !important;
     }
-    .markdown-section table th *,
-    .markdown-section table td * {
-        word-break: normal !important;
-        overflow-wrap: normal !important;
+    .markdown-section {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
     .markdown-section img {
         max-width: 100% !important;
-        width: auto !important;
         height: auto !important;
     }
 }

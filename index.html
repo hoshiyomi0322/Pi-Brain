@@ -16,14 +16,12 @@
     <style>
     @media screen and (max-width: 768px) {
         #main .markdown-section table {
-            display: block !important;
+            display: table !important;
             width: max-content !important;
-            min-width: max-content !important;
+            min-width: 0 !important;
             max-width: none !important;
-            overflow-x: auto !important;
-            overflow-y: hidden !important;
             table-layout: auto !important;
-            -webkit-overflow-scrolling: touch;
+            border-collapse: collapse !important;
         }
         #main .markdown-section table th,
         #main .markdown-section table td {
@@ -31,12 +29,24 @@
             word-break: normal !important;
             overflow-wrap: normal !important;
             word-wrap: normal !important;
+
             width: auto !important;
-            min-width: max-content !important;
+            min-width: 0 !important;
+        }
+        #main .markdown-section table th *,
+        #main .markdown-section table td * {
+            white-space: nowrap !important;
+            word-break: normal !important;
+            overflow-wrap: normal !important;
+            word-wrap: normal !important;
+        }
+        #main .markdown-section {
+            overflow-x: auto !important;
+            -webkit-overflow-scrolling: touch;
         }
         #main .markdown-section img {
-            max-width: 100%;
-            height: auto;
+            max-width: 100% !important;
+            height: auto !important;
         }
     }
     </style>
