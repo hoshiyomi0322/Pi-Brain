@@ -147,6 +147,28 @@
                             wrapper.appendChild(table);
                         });
 
+                        if (window.innerWidth <= 768) {
+                            document.querySelectorAll('.markdown-section img[width]').forEach(function(img) {
+                                var width = img.getAttribute('width');
+                                if (!width) {
+                                    return;
+                                }
+                                var match = width.match(/^(\d+(?:\.\d+)?)%$/);
+                                if (!match) {
+                                    return;
+                                }
+                                var originalWidth = parseFloat(match[1]);
+                                if (img.dataset.piOriginalWidth) {
+                                    originalWidth = parseFloat(img.dataset.piOriginalWidth);
+                                } else {
+                                    img.dataset.piOriginalWidth = originalWidth;
+                                }
+                                img.style.width = (originalWidth * 2) + '%';
+                                img.style.maxWidth = 'none';
+                                img.style.height = 'auto';
+                            });
+                        }
+
                         setTimeout(function () {
                             if (
                                 window.piHeadingSearch &&
