@@ -484,19 +484,15 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 }
 
 /* Override the styles for MathJax links */
-mjx-container
-    g[data-mml-node="a"] path {
+.markdown-section mjx-container svg g[data-mml-node="a"] path {
     fill: #60a5fa !important;
     stroke: #60a5fa !important;
 }
-
-mjx-container
-    g[data-mml-node="a"]:hover path {
+.markdown-section mjx-container svg g[data-mml-node="a"]:hover path {
     fill: #93c5fd !important;
     stroke: #93c5fd !important;
-    opacity: 0.8;
+    opacity: 0.8 !important;
 }
-
 
 @keyframes pi-heading-highlight {
     0% {
