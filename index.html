@@ -359,83 +359,104 @@
                         );
                     }
                 },           
-                cleanHeadingTitle: function (title) {
-                    let text = String(title);
-                    text = text.replace(
-                        /!?\[([^\]]+)\]\([^)]+\)/g,
+                cleanHeadingText: function (text) {
+                    let result = String(text);
+                    result = result.replace(
+                        /\[([^\]]+)\]\([^)]+\)/g,
                         '$1'
                     );
-                    text = text.replace(
-                        /\[([^\]]+)\]\[[^\]]*\]/g,
-                        '$1'
+                    result = result.replace(
+                        /\(\$[\s\S]*?\$\)/g,
+                        ''
                     );
-                    text = text.replace(
+                    result = result.replace(
+                        /\$\$[\s\S]*?\$\$/g,
+                        ''
+                    );
+                    result = result.replace(
+                        /\$[^$\r\n]*\$/g,
+                        ''
+                    );
+                    result = result.split(/[：:]/)[0];
+                    result = result.replace(
+                        /^\s*#{1,6}\s+/,
+                        ''
+                    );
+                    result = result.replace(
                         /<[^>]*>/g,
                         ''
                     );
-                    text = text.split('：')[0];
-                    text = text.split(':')[0];
-                    text = text
+                    result = result
                         .replace(/\*\*(.*?)\*\*/g, '$1')
                         .replace(/__(.*?)__/g, '$1')
                         .replace(/\*(.*?)\*/g, '$1')
-                        .replace(/_(.*?)_/g, '$1');
-
-                    text = text.replace(
-                        /`([^`]+)`/g,
-                        '$1'
-                    );
-
-                    return text.trim();
+                        .replace(/_(.*?)_/g, '$1')
+                        .replace(/`(.*?)`/g, '$1');
+                    return result
+                        .replace(/\s+/g, ' ')
+                        .trim();
                 },
-
                 parseMarkdown: function (markdown, file) {
-
                     const results = [];
                     markdown = markdown.replace(
                         /```[\s\S]*?```/g,
                         ''
-                    );          
+                    );
                     markdown = markdown.replace(
                         /~~~[\s\S]*?~~~/g,
                         ''
                     );
+                    markdown = markdown
+                        .replace(/<li\b[^>]*>/gi, '\n')
+                        .replace(/<\/li>/gi, '\n')
+                        .replace(/<[^>]+>/g, ' ');
+
                     const lines = markdown.split(/\r?\n/);
 
                     lines.forEach(function (line) {
-                        const match = line.match(
-                            /^\s*(?:[-*+]\s+)?(#{1,3})\s+(.+?)\s*$/
+                        let cleanedLine = line
+                            .replace(
+                                /^\s*[-*+]\s+/,
+                                ''
+                            )
+                            .trim();
+                        const match = cleanedLine.match(
+                            /^#{1,3}\s+(.+?)\s*$/
                         );
+                    
                         if (!match) {
                             return;
                         }
-                        const level = match[1].length;
-                        const rawTitle = match[2].trim();
+                        const level = cleanedLine.match(
+                            /^(#{1,3})/
+                        )[1].length;
+                        const originalTitle = match[1]
+                            .replace(/\s+#+\s*$/g, '')
+                            .trim();
                     
-                        if (!rawTitle) {
+                        if (!originalTitle) {
                             return;
                         }
-                        const title =
-                            headingSearch.cleanHeadingTitle(
-                                rawTitle
+                        const displayTitle =
+                            headingSearch.cleanHeadingText(
+                                originalTitle
                             );
-                        if (!title) {
+                        if (!displayTitle) {
                             return;
                         }
                         results.push({
                             file: file,
-                            title: title,
-                            rawTitle: rawTitle,
+                            title: originalTitle,
+                            displayTitle: displayTitle,
                             level: level,
                             searchText: (
-                                title + ' ' + file
+                                displayTitle + ' ' + file
                             ).toLowerCase()
-                        
                         });
-                    
                     });
                     return results;
-                },              
+                },
+
                 search: function (keyword) {
                     const resultsContainer =
                         document.querySelector(
@@ -482,7 +503,7 @@
                                     data-title="${headingSearch.escapeAttribute(item.title)}"
                                 >
                                     <span class="pi-heading-result-text">
-                                        ${headingSearch.escapeHTML(item.title)}
+                                        ${headingSearch.escapeHTML(item.displayTitle)}
                                     </span>
                                     <span class="pi-heading-file">
                                         ${headingSearch.escapeHTML(fileName)}
@@ -552,9 +573,10 @@
                             if (found) {
                                 return;
                             }
-                            const text =
-                                heading.textContent
-                                    .trim();
+                            const title =
+                                headingSearch.cleanHeadingText(
+                                    heading.textContent
+                                );
                             if (
                                 text === target.title
                             ) {
