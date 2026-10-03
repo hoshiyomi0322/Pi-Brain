@@ -210,8 +210,27 @@
                         '.pi-heading-search-clear'
                     );
         
-                    input.addEventListener('click', function (event) {
-                        event.stopPropagation();
+                    link.addEventListener('click',function (event) {
+                            event.preventDefault();
+                            const file = this.dataset.file;
+                            const title = this.dataset.title;
+                            headingSearch.target = {
+                                file: file,
+                                title: title
+                            };
+                            const route = file.replace(
+                                /\.md$/i,
+                                ''
+                            );
+                            const displayTitle =
+                                headingSearch.cleanHeadingText(title);
+                            const headingId =
+                                headingSearch.createHeadingId(displayTitle);
+                            window.location.hash =
+                                '#/' +
+                                route +
+                                '?id=' +
+                                encodeURIComponent(headingId);
                     });
                     input.addEventListener('touchstart', function (event) {
                         event.stopPropagation();
