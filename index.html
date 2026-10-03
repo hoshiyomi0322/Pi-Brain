@@ -14,41 +14,73 @@
     <link rel="stylesheet" href="./web/blue.css">
 
     <style>
-    @media screen and (max-width: 768px) {
-        #main .markdown-section table {
-            display: table !important;
-            width: max-content !important;
-            min-width: 0 !important;
-            max-width: none !important;
-            table-layout: auto !important;
-            border-collapse: collapse !important;
+        <!-- Custom styles for Pi-Brain -->
+        @media screen and (max-width: 768px) {
+            html,
+            body {
+                overflow-x: hidden !important;
+            }
+        
+            main {
+                overflow-x: hidden !important;
+            }
+        
+            .content {
+                overflow-x: hidden !important;
+            }
+        
+            .markdown-section {
+                overflow-x: visible !important;
+                max-width: 100% !important;
+            }
+            .pi-table-scroll {
+                width: 100%;
+                max-width: 100%;
+                overflow-x: auto;
+                overflow-y: hidden;
+                -webkit-overflow-scrolling: touch;
+                margin-bottom: 1rem;
+            }
+            .pi-table-scroll table {
+                display: table !important;
+            
+                width: max-content !important;
+                min-width: 0 !important;
+                max-width: none !important;
+            
+                table-layout: auto !important;
+            
+                border-collapse: collapse !important;
+                border-spacing: 0 !important;
+            
+                margin-bottom: 0 !important;
+            }
+            .pi-table-scroll table th,
+            .pi-table-scroll table td {
+                white-space: nowrap !important;
+            
+                word-break: normal !important;
+                overflow-wrap: normal !important;
+                word-wrap: normal !important;
+            
+                width: auto !important;
+                min-width: 0 !important;
+            
+                padding: 6px 13px;
+            }
+            .pi-table-scroll table th *,
+            .pi-table-scroll table td * {
+                white-space: nowrap !important;
+            
+                word-break: normal !important;
+                overflow-wrap: normal !important;
+                word-wrap: normal !important;
+            }
+            .markdown-section img {
+                max-width: 100% !important;
+                height: auto !important;
+            }
         }
-        #main .markdown-section table th,
-        #main .markdown-section table td {
-            white-space: nowrap !important;
-            word-break: normal !important;
-            overflow-wrap: normal !important;
-            word-wrap: normal !important;
-
-            width: auto !important;
-            min-width: 0 !important;
-        }
-        #main .markdown-section table th *,
-        #main .markdown-section table td * {
-            white-space: nowrap !important;
-            word-break: normal !important;
-            overflow-wrap: normal !important;
-            word-wrap: normal !important;
-        }
-        #main .markdown-section {
-            overflow-x: auto !important;
-            -webkit-overflow-scrolling: touch;
-        }
-        #main .markdown-section img {
-            max-width: 100% !important;
-            height: auto !important;
-        }
-    }
     </style>
 
 
@@ -94,7 +126,6 @@
             plugins: [
                 function(hook, vm) {
                     hook.doneEach(function() {
-                    
                         <!-- Set the document title based on the current file -->
                         var name = '';
                         if (vm.route.file) {
@@ -176,6 +207,16 @@
                             });
                         }
                         
+                        document.querySelectorAll('#main .markdown-section table').forEach(function(table) {
+                            if (table.parentElement.classList.contains('pi-table-scroll')) {
+                                return;
+                            }
+                            var wrapper = document.createElement('div');
+                            wrapper.className = 'pi-table-scroll';
+                            table.parentNode.insertBefore(wrapper, table);
+                            wrapper.appendChild(table);
+                        });
+
                         setTimeout(function () {
                             if (
                                 window.piHeadingSearch &&
