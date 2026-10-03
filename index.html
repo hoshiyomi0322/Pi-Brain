@@ -201,16 +201,49 @@
                     `;
         
                     sidebar.appendChild(container);
-        
+                    container.addEventListener('touchstart', function (event) {
+                        event.stopPropagation();
+                    }, { passive: true });
+                    container.addEventListener('touchend', function (event) {
+                        event.stopPropagation();
+                    }, { passive: true });
+                    container.addEventListener('click', function (event) {
+                        event.stopPropagation();
+                    });
+
                     const input = container.querySelector(
                         '.pi-heading-search-input'
                     );
-        
                     const clearButton = container.querySelector(
                         '.pi-heading-search-clear'
                     );
+                    const inputWrapper = container.querySelector(
+                        '.pi-heading-search-input-wrapper'
+                    );
+                    const resultsContainer = container.querySelector(
+                        '.pi-heading-search-results'
+                    );
+                    [inputWrapper, resultsContainer].forEach(function (element) {
+                        if (!element) {
+                            return;
+                        }
+                        element.addEventListener('touchstart', function (event) {
+                            event.stopPropagation();
+                        }, { passive: true });
+                        element.addEventListener('touchend', function (event) {
+                            event.stopPropagation();
+                        }, { passive: true });
+                        element.addEventListener('click', function (event) {
+                            event.stopPropagation();
+                        });
 
                     input.addEventListener('touchstart', function (event) {
+                        event.stopPropagation();
+                    }, { passive: true });
+                    input.addEventListener('touchend', function (event) {
+                        event.stopPropagation();
+                    }, { passive: true });
+                    input.addEventListener('click', function (event) {
                         event.stopPropagation();
                     });
                     input.addEventListener('input', function () {
