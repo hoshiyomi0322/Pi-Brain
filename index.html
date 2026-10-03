@@ -600,14 +600,6 @@
                     if (self.index.length === 0) {
                         await self.buildIndex();
                     }
-                    document.addEventListener(
-                        'click',
-                        function () {
-                            setTimeout(function () {
-                                self.updateCurrentPageHeadings();
-                            }, 300);
-                        }
-                    );
                 }
             };
         window.piHeadingSearch = headingSearch;
