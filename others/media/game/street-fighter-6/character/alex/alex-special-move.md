@@ -52,6 +52,8 @@
     - 構え-対空 + (弱Axe + [44F OKI](alex.md#44f-oki))
 - ### 構え-踩頭 Combo
     - 構え-踩頭 + [Close 28F OKI](alex.md#close-28f-oki)
+- ### 構え-コマ投げ Combo
+    - 構え-コマ投げ + [溜め5HP OKI](alex.md#溜め5hp-oki-21f24f)
 
 # 構え Air Combo
 - ### 構え-対空 Air Combo
@@ -74,3 +76,5 @@
 - ### 構え-elbow PC Combo
     - 構え-elbow(PC) + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - 構え-elbow(PC) + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
+- ### 構え-コマ投げ Combo
+    - 構え-コマ投げ(PC) + [溜め5HP OKI](alex.md#溜め5hp-oki-21f24f)
