@@ -38,6 +38,10 @@
     - 2MP + [Medium Cancel Combo](#medium-cancel-combo)/[CDR Combo](#cdr-combo)
 - ### 2MK Combo
     - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
+- ### DR 5MP Combo
+    - (DR + 5MP) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### DR 2MP Combo
+    - (DR + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
 
 # Light Attack combo
 - ### 5LP Combo
