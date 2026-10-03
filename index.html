@@ -153,14 +153,15 @@
                                 heading.querySelectorAll(':scope > a')
                             );
                             for (var i = 1; i < links.length; i++) {
-                                var previousText = links[i - 1].textContent || '';
+                                var previousLink = links[i - 1];
+                                var previousText = previousLink.textContent || '';
                                 if (previousText.trimEnd().endsWith('(')) {
                                     continue;
                                 }
                                 if (/\s$/.test(previousText)) {
                                     continue;
                                 }
-                                links[i].parentNode.insertBefore(
+                                previousLink.parentNode.insertBefore(
                                     document.createTextNode(' '),
                                     links[i]
                                 );
