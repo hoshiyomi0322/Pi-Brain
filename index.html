@@ -528,28 +528,60 @@
                 },
             
                 init: async function () {
+                    const waitForSidebar = () => {
+                        return new Promise((resolve) => {
+                            const sidebar =
+                                document.querySelector('.sidebar');
+                            if (sidebar) {
+                                resolve();
+                                return;
+                            }
+                            const observer =
+                                new MutationObserver(() => {
+                                
+                                    const sidebar =
+                                        document.querySelector('.sidebar');
+                                
+                                    if (sidebar) {
+                                        observer.disconnect();
+                                        resolve();
+                                    }
+                                
+                                });
+                            observer.observe(
+                                document.body,
+                                {
+                                    childList: true,
+                                    subtree: true
+                                }
+                            );
+                        });
+                    };
+                    await waitForSidebar();
                     this.createUI();
                     try {
-                        const cached = sessionStorage.getItem(
-                            'pi-brain-heading-index'
-                        );
-        
+                        const cached =
+                            sessionStorage.getItem(
+                                'pi-brain-heading-index'
+                            );
                         if (cached) {
-                            this.index = JSON.parse(cached);
+                            this.index =
+                                JSON.parse(cached);
                         }
                     } catch (error) {
                         console.warn(
                             'Unable to load heading index.'
                         );
-                    }    
+                    }
                     if (this.index.length === 0) {
                         await this.buildIndex();
                     }
                 }
             };
-        
-            window.piHeadingSearch = headingSearch;
+        window.piHeadingSearch = headingSearch;
+        headingSearch.init();
         })();
+
     </script>
 
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
