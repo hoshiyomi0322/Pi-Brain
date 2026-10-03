@@ -88,9 +88,6 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{position:fixed}
     border-collapse: collapse;
     border-spacing: 0;
     margin-bottom: 1rem;
-    width: max-content;
-    max-width: none;
-    table-layout: auto;
 }
 .markdown-section th {
     font-weight: 700;
@@ -178,7 +175,7 @@ body.close .content{left:0}
         animation: octocat-wave 0.56s ease-in-out;
     }
     .markdown-section {
-        overflow-x: auto;
+        overflow-x: auto !important;
         -webkit-overflow-scrolling: touch;
     }
 
