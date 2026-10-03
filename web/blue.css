@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 *{
     -webkit-font-smoothing:antialiased;
-    -webkit-overflow-scrolling:touch;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
     -webkit-text-size-adjust:none;
     -webkit-touch-callout:none;
@@ -176,16 +175,6 @@ body.close .content{left:0}
     }
 
     /* Override the styles for tables in the markdown section on smaller screens */
-    .markdown-section table {
-        display: table !important;
-        width: max-content !important;
-        min-width: 100% !important;
-        max-width: none !important;
-        table-layout: auto !important;
-        border-collapse: collapse !important;
-        border-spacing: 0 !important;
-        margin-bottom: 1rem;
-    }
     .markdown-section table th,
     .markdown-section table td {
         white-space: nowrap !important;
@@ -206,9 +195,6 @@ body.close .content{left:0}
         word-break: normal !important;
         overflow-wrap: normal !important;
         word-wrap: normal !important;
-    }
-    .markdown-section table {
-        margin-right: 15px;
     }
 
     .markdown-section img {
@@ -564,3 +550,53 @@ mjx-container
     }
 }
 
+.pi-table-scroll,
+.markdown-section pre {
+    -webkit-overflow-scrolling: touch;
+}
+
+@media screen and (max-width: 768px) {
+    .markdown-section .pi-table-scroll {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        overflow-x: auto !important;
+        overflow-y: hidden !important;
+        -webkit-overflow-scrolling: touch !important;
+        touch-action: pan-x !important;
+        overscroll-behavior-x: contain !important;
+        margin: 0 0 1rem 0 !important;
+        padding: 0 0 4px 0 !important;
+        position: relative !important;
+        box-sizing: border-box !important;
+    }
+    .markdown-section .pi-table-scroll > table {
+        display: table !important;
+        width: max-content !important;
+        min-width: max-content !important;
+        max-width: none !important;
+        table-layout: auto !important;
+        border-collapse: collapse !important;
+        border-spacing: 0 !important;
+        margin: 0 !important;
+        flex-shrink: 0 !important;
+    }
+    .markdown-section .pi-table-scroll > table th,
+    .markdown-section .pi-table-scroll > table td {
+        white-space: nowrap !important;
+        word-break: normal !important;
+        overflow-wrap: normal !important;
+        word-wrap: normal !important;
+        width: auto !important;
+        min-width: 0 !important;
+        padding: 6px 13px !important;
+        box-sizing: border-box !important;
+    }
+    .markdown-section .pi-table-scroll > table th *,
+    .markdown-section .pi-table-scroll > table td * {
+        white-space: nowrap !important;
+        word-break: normal !important;
+        overflow-wrap: normal !important;
+        word-wrap: normal !important;
+    }
+}

@@ -13,61 +13,6 @@
     <link rel="manifest" href="./web/manifest.json">
     <link rel="stylesheet" href="./web/blue.css">
 
-    <style>
-        @media screen and (max-width: 768px) {
-            .markdown-section {
-                max-width: 100% !important;
-                overflow-x: visible !important;
-            }
-            .pi-table-scroll {
-                display: block !important;
-            
-                width: 100% !important;
-                max-width: 100% !important;
-            
-                overflow-x: auto !important;
-                overflow-y: hidden !important;
-            
-                -webkit-overflow-scrolling: touch;
-            
-                margin-bottom: 1rem;
-            }
-            .pi-table-scroll table {
-                display: table !important;
-                width: max-content !important;
-                min-width: max-content !important;
-                max-width: none !important;
-                table-layout: auto !important;
-                border-collapse: collapse !important;
-                border-spacing: 0 !important;
-                margin-bottom: 0 !important;
-            }
-            .pi-table-scroll table th,
-            .pi-table-scroll table td {
-                white-space: nowrap !important;
-                word-break: normal !important;
-                overflow-wrap: normal !important;
-                word-wrap: normal !important;
-                width: auto !important;
-                min-width: 0 !important;
-            
-                padding: 6px 13px;
-            }
-            .pi-table-scroll table th *,
-            .pi-table-scroll table td * {
-                white-space: nowrap !important;
-                word-break: normal !important;
-                overflow-wrap: normal !important;
-                word-wrap: normal !important;
-            }
-            .markdown-section img {
-                max-width: 100% !important;
-                height: auto !important;
-            }
-        }
-    </style>
-
-
     <script>
         // MathJax configuration
         window.MathJax = {
@@ -191,17 +136,16 @@
                             });
                         }
                         
-                        if (window.innerWidth <= 768) {
-                            document.querySelectorAll('#main .markdown-section table').forEach(function(table) {
-                                if (table.parentElement.classList.contains('pi-table-scroll')) {
-                                    return;
-                                }
-                                var wrapper = document.createElement('div');
-                                wrapper.className = 'pi-table-scroll';
-                                table.parentNode.insertBefore(wrapper, table);
-                                wrapper.appendChild(table);
-                            });
-                        }
+                        document.querySelectorAll('.markdown-section table').forEach(function(table) {
+                            if (table.parentElement &&
+                                table.parentElement.classList.contains('pi-table-scroll')) {
+                                return;
+                            }
+                            var wrapper = document.createElement('div');
+                            wrapper.className = 'pi-table-scroll';
+                            table.parentNode.insertBefore(wrapper, table);
+                            wrapper.appendChild(table);
+                        });
 
                         setTimeout(function () {
                             if (
