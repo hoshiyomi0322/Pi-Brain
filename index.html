@@ -466,9 +466,7 @@
                             title: originalTitle,
                             displayTitle: displayTitle,
                             level: level,
-                            searchText: (
-                                displayTitle + ' ' + file
-                            ).toLowerCase()
+                            searchText: displayTitle.toLowerCase()
                         });
                     });
                     return results;
