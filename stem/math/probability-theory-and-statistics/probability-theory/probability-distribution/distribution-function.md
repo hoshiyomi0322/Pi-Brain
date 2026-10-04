@@ -1,15 +1,12 @@
 # Distribution Function
-- <h3 id="probability-function">Probability Function：$f_X\left(x\right)$</h3>
-
+- ### Probability Function：$f_X\left(x\right)$ {#probability-function}
     |Random Variable|Probability Function|
     |:---:|:---:|
     |**$X$ is Continuous**|**Probability Density Function (PDF)**<br>$f\left(x\right)=\frac{d}{dx}F\left(x\right)$|
     |**$X$ is Discrete**|**Probability Mass Function (PMF)**<br>$f\left(x\right)=P\left(X=x\right)$|
-- <h3 id="cumulative-distribution-function-cdf">Cumulative Distribution Function (CDF)</h3>
-
+- ### Cumulative Distribution Function (CDF) 
     - ### $F\left(x\right)=P\left(X\le x\right)=\begin{cases}{\int_{-\infty}^{x}{f\left(t\right)\,dt}}&\text{if }X\text{ is Continuous}\\{\sum\limits_{t\le x}{f\left(t\right)}}&\text{if }X\text{ is Discrete}\end{cases}$
-- <h3 id="survival-function-reliability-function"> Survival Function (Reliability Function) </h3>
-
+- ### Survival Function (Reliability Function)
     - ### $S\left(x\right)=P\left(X>x\right)=1-P\left(X\le x\right)=1-F\left(x\right)$
 - ### Properties
     - #### $f\left(x\right)\ge 0$

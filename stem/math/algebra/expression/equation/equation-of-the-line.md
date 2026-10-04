@@ -1,14 +1,12 @@
 # Parameters of Equation of the Line
-- <h3 id="slope">Slope</h3>
-
+- ### Slope
     - ### $m=\frac{Δy}{Δx}=\tan{θ}=-\frac{a}{b}=\frac{α_2}{α_1}$
-- <h3 id="angle-of-inclination">Angle of Inclination</h3>
-
+- ### Angle of Inclination
     - ### $θ=\text{angle between the line and the } x\text{-axis (positive angle)}$
 - ### Intercept
     - ### $\left(x_0,~0\right),~\left(0,~y_0\right)$
 - ### Vector
-    - <h4 id="normal-vector">[Normal Vector](../expression.md#normal-vector)：$\left(a,~b\right)$</h4>
+    - #### [Normal Vector](../expression.md#normal-vector)：$\left(a,~b\right)$ {#normal-vector}
     - #### [Direction Vector](../expression.md#direction-vector)：$\left(α_1,~α_2\right)$
 - #### Point：$P\left(x_1,~y_1\right)$
 

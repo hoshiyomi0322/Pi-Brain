@@ -19,7 +19,7 @@
 - ### 補正 (ダメージ補正, Damage Scaling)
 - ### Cancel (キャンセル)
     - #### Delayed Cancel (ディレイキャンセル)
-- <h3 id="anti-air">対空 (Anti-Air)</h3>
+- ### 対空 (Anti-Air) {#anti-air}
 - ### 立ち回り：防御を固めながら相手との距離を調節する
 - ### ヒット確認 (Hit Confirm)
 - ### Setup (Set, セットプレイ)
@@ -62,7 +62,7 @@
 - ### Safe Jump (安全飛び, 詐欺飛び, 安全跳)：42F, 相手の起き上がりに合わせて特定のタイミングでジャンプ攻撃を重ねる
     - 9 + Jump Attack Combo + 4(ボタンホールド)
 - ### Cross-up (めくり, 打背)：相手の背後を取りつつ攻撃することで, 相手のガードを崩すテクニック
-- <h3 id="f式">F式：しゃがみガード中の相手に対して、一瞬だけ残る「立ち状態の食らい判定」を利用し, 本来しゃがみ状態には当たらない低空ジャンプ攻撃を強制的にガードさせる「しゃがみガード不能の高速中段攻撃」</h3>
+- ### F式：しゃがみガード中の相手に対して、一瞬だけ残る「立ち状態の食らい判定」を利用し, 本来しゃがみ状態には当たらない低空ジャンプ攻撃を強制的にガードさせる「しゃがみガード不能の高速中段攻撃」{#f式}
 
 # Command
 - ### Motion
@@ -154,7 +154,7 @@
     - ### BO磨血：對手BO時，削減對手的血量
 - ### ドライブゲージを削る (打動力槽)：削減對手的動力槽
 
-<h1 id="throw">投げ (Throw)：LP + LK</h1>
+# 投げ (Throw)：LP + LK {#throw}
 
 - ### Direction
     - #### 前投げ (Forward Throw)：LP + LK
@@ -165,7 +165,7 @@
 
 # Knocked Down (Down, ダウン, 倒地)
 - ### Hard Knockdown (ハードダウン)
-- <h3 id="oki">起き攻め (OKI, 壓起身)</h3>
+- ### 起き攻め (OKI, 壓起身) {#oki}
     - ### 持続当て (重ね, Meaty, 壓持續)
 - ### 起き上がり
     - ### その場受け身 (原地起身)
@@ -174,7 +174,7 @@
 # Frame (F, フレーム)
 - ### 發生
 - ### 硬直差
-- <h3 id="frame-kill">消費 (Frame Kill, フレーム消費)</h3>
+- ### 消費 (Frame Kill, フレーム消費) {#frame-kill}
 - ### Delay (ディレイ)
     - delay(cancel) = [Delayed Cancel](#delayed-cancel-ディレイキャンセル)
     - delay(no cancel) = Delay without Cancel
