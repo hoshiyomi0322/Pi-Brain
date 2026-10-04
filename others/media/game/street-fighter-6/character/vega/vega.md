@@ -14,6 +14,7 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [2LP Combo](#2lp-combo)
+- ### 2HP Combo
 - ### 2HP Air Combo
     - 2HP + [埋炸彈 High-Air Combo](vega-special-move.md#埋炸彈-high-air-combo)/[OD剪刀腳 Air Combo](vega-special-move.md#od剪刀腳-air-combo)
 - ### 5HK Combo
@@ -40,10 +41,17 @@
 - ### 2MP Combo
     - ガード(2MP) + [2MP Combo](#2mp-combo)
     - 相打ち(2MP) + [2MP Combo](#2mp-combo)
+- ### DR 5MP Air Combo
+    - (DR + 5MP + 6HP) + [埋炸彈 Air Combo](vega-special-move.md#埋炸彈-air-combo)
 
 # Light Attack Combo
 - ### 2LP Combo
     - 2LP + [Light Cancel Combo](#light-cancel-combo)
+
+# Jump Attack Combo
+- ### JMP Air Combo
+    - (JMP + delay + JMP) + (強埋炸彈 + SA3)
+    - (JMP + delay + JMP) + (中Psycho-crusher + SA3)
 
 # Counter Combo
 - [剪刀腳 Counter Combo](vega-special-move.md#剪刀腳-counter-combo)
@@ -108,15 +116,14 @@
     - 消費(前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 帶炸彈 OD踩頭 OKI (31F)
     - OD踩頭
-    - 連ガ
-        - 連ガ(OD踩頭 + 2MP) + (中埋炸彈 + SA1/(delay + SA3))
-        - ガード(OD踩頭 + 2MP + 中埋炸彈) + [2MP Combo](#2mp-combo)
-        - 連ガ(OD踩頭 + 2MP) + [帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
-        - ガード(OD踩頭 + 2MP + OD Psycho-crusher) + [2MP Combo](#2mp-combo)
-    - ガード(OD踩頭 + 2HP) + (強埋炸彈 + SA1/[弱埋炸彈 Air Combo](vega-special-move.md)/[OD埋炸彈 Air Combo](vega-special-move.md#od埋炸彈-air-combo))
-    - ガード(OD踩頭 + 2HP + 強埋炸彈) + [2MP Combo](#2mp-combo)
-    - ガード(OD踩頭 + 2HP) + [帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
-    - ガード(OD踩頭 + 2HP + OD Psycho-crusher) + [2MP Combo](#2mp-combo)
+    - 連ガ(OD踩頭 + 2MP) + [帶炸彈 中埋炸彈 Combo](vega-special-move.md#帶炸彈-中埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
+    - ガード(OD踩頭 + 2HP/4HK) + [帶炸彈 強埋炸彈 Combo](vega-special-move.md#帶炸彈-強埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
+- ### 帶炸彈 前投げ OKI
+    - (DR + delay + 前投げ) + (DR + delay + 前投げ)
+    - (DR + delay + 前投げ) + (DR + delay + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
+    - Corner
+        - (前歩き + 前投げ) + (前歩き + 前投げ)
+        - (前歩き + 前投げ) + (前歩き + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
 
 # todo
 - ### https://steamcommunity.com/sharedfiles/filedetails/?id=3278075787
