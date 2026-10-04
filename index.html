@@ -100,6 +100,39 @@
                         );
                     });
                     
+                    hook.afterEach(function(html) {
+                        var container = document.createElement('div');
+                        container.innerHTML = html;
+                        var markers = container.querySelectorAll(
+                            '.pb-custom-anchor[data-pb-id]'
+                        );
+                        markers.forEach(function(marker) {
+                            var id = marker.getAttribute('data-pb-id');
+                            var heading = marker.closest(
+                                'h1, h2, h3, h4, h5, h6'
+                            );
+                            if (!heading) {
+                                return;
+                            }
+                            heading.id = id;
+                            var anchor = heading.querySelector('a.anchor');
+                            if (anchor) {
+                                anchor.setAttribute('data-id', id);
+                                var href = anchor.getAttribute('href');
+                                if (href) {
+                                    var baseHref = href.split('?')[0];
+                                    anchor.setAttribute(
+                                        'href',
+                                        baseHref + '?id=' +
+                                        encodeURIComponent(id)
+                                    );
+                                }
+                            }
+                            marker.remove();
+                        });
+                        return container.innerHTML;
+                    });
+
                     hook.doneEach(function() {
                         var markers = document.querySelectorAll(
                             '#main .pb-custom-anchor'
@@ -249,36 +282,6 @@
                     });
                 }
             ]
-        }
-        
-        function applyCustomHeadingIds(vm) {
-            var markers = document.querySelectorAll(
-                '#main .pb-custom-anchor[data-pb-id]'
-            );
-            markers.forEach(function (marker) {
-            
-                var id = marker.getAttribute('data-pb-id');
-                var heading = marker.parentElement;
-            
-                if (!heading || !/^H[1-6]$/.test(heading.tagName)) {
-                    return;
-                }
-                heading.id = id;
-                var anchor = heading.querySelector('a.anchor');
-            
-                if (anchor) {
-                    anchor.setAttribute('data-id', id);
-                    var href = anchor.getAttribute('href');
-                    if (href) {
-                        var baseHref = href.split('?')[0];
-                        anchor.setAttribute(
-                            'href',
-                            baseHref + '?id=' + encodeURIComponent(id)
-                        );
-                    }
-                }
-                marker.remove();
-            });
         }
 
         function scrollToCustomAnchor() {
