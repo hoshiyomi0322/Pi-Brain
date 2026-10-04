@@ -1,9 +1,9 @@
 # Thunder Combo
 - ### 弱Thunder Combo
-    - 弱Thunder + [3F打摔擇](viper.md#3f打摔擇-2f3f)
-    - 弱Thunder-撞擊 + [37F OKI](viper.md#37f-oki)
+    - 弱Thunder + [3F打摔擇](viper.md#3f打摔擇-2f3f)/SA3
+    - 弱Thunder-撞擊 + [37F OKI](viper.md#37f-oki)/SA3
 - ### 中Thunder Combo
-    - 中Thunder + [3F打摔擇](viper.md#3f打摔擇-2f3f)
+    - 中Thunder + [3F打摔擇](viper.md#3f打摔擇-2f3f)/SA3
     - 中Thunder-撞擊 + [中Thunder 重ね](viper.md#中thunder-重ね-16f18f)
 - ### 強Thunder Combo
     - 強中Thunder-撞擊 + [25F OKI](viper.md#25f-oki)
@@ -11,13 +11,13 @@
     - OD Thunder + [42F OKI](viper.md#42f-oki)/SA2/SA3
 
 # 中Thunder Air Combo
-- 中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f)
-- 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)
+- 中Thunder + [OD Thunder OKI](viper.md#od-thunder-oki-40f)/SA3
+- 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)/SA3
 
 # Thunder High-Air Combo
 - ### 中Thunder High-Air Combo
-    - 中Thunder + [42F OKI](viper.md#42f-oki)
-    - 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)
+    - 中Thunder + [42F OKI](viper.md#42f-oki)/SA3
+    - 中Thunder-撞擊 + [30F OKI](viper.md#30f-oki)/SA3
 - ### OD Thunder High-Air Combo
     - OD Thunder + SA2/SA3
 
