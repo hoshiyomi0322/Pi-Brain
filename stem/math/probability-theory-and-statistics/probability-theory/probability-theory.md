@@ -12,8 +12,7 @@
     |Continuous|Discrete|
     |:---:|:---:|
     |$x\in A,~ x\in\left[a,~b\right]$|$X=x_1,x_2,\cdots ,x_n$|
-- <h3 id="random-vector-multivariate-random-variable">Random Vector (Multivariate Random Variable)</h3>
-
+- ### Random Vector (Multivariate Random Variable)
     - ### $X=\left( X_1,~\cdots,~X_n \right)^T$
     - ### Bivariate Random Variables：$X=\left( X_1,~X_2 \right)^T$
 - ### [Probability Distribution](./probability-distribution/probability-distribution.md)
@@ -24,8 +23,7 @@
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
-- <h3 id="mode-of-continuous-random-variable">$\href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=mode}{\text{Mode}} \text{ of Continuous Random Variable} = \mathop{\text{argmax}}\limits_α{~f\left(α\right)}$</h3>
-
+- ### $\href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=mode}{\text{Mode}} \text{ of Continuous Random Variable} = \mathop{\text{argmax}}\limits_α{~f\left(α\right)}$ {#mode-of-continuous-random-variable}
     - $\big( α=\text{Mode},~f\left(α\right)=\href{#/stem/math/algebra/calculus/differential-calculus?id=extremum}{\text{Maximum}} \text{ of } \href{#/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/distribution-function?id=probability-function}{\text{PDF}} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
 - ### [Moment](#moment)
 
@@ -55,15 +53,14 @@
 
 # Random Process (Stochastic Process)
 - ### Bernoulli Process
-    - <h3 id="bernoulli-trial">Bernoulli Trial</h3>
-    
+    - #### Bernoulli Trial
         - $\text{Probability of Success}=p$
         - $\text{Probability of Failure}=1-p$
-    - ### [Distributions derived from Bernoulli Trials](./probability-distribution/discrete-probability-distribution/distributions-derived-from-bernoulli-trials.md)
+    - #### [Distributions derived from Bernoulli Trials](./probability-distribution/discrete-probability-distribution/distributions-derived-from-bernoulli-trials.md)
 - ### Poisson Process
-    - ### [Poisson Distribution](./probability-distribution/discrete-probability-distribution/discrete-probability-distribution.md#poisson-distribution)
+    - #### [Poisson Distribution](./probability-distribution/discrete-probability-distribution/discrete-probability-distribution.md#poisson-distribution)
 - ### Markov Process
-    - Markov Chain
+    - #### Markov Chain
 - ### Random Walk
 - ### Brownian Motion
 

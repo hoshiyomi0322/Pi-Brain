@@ -1,10 +1,10 @@
 # Parameters of Equation of the Line
 - ### Slope
-    - ### $m=\frac{Δy}{Δx}=\tan{θ}=-\frac{a}{b}=\frac{α_2}{α_1}$
+    - $m=\frac{Δy}{Δx}=\tan{θ}=-\frac{a}{b}=\frac{α_2}{α_1}$
 - ### Angle of Inclination
-    - ### $θ=\text{angle between the line and the } x\text{-axis (positive angle)}$
+    - $θ=\text{angle between the line and the } x\text{-axis (positive angle)}$
 - ### Intercept
-    - ### $\left(x_0,~0\right),~\left(0,~y_0\right)$
+    - $\left(x_0,~0\right),~\left(0,~y_0\right)$
 - ### Vector
     - #### [Normal Vector](../expression.md#normal-vector)：$\left(a,~b\right)$ {#normal-vector}
     - #### [Direction Vector](../expression.md#direction-vector)：$\left(α_1,~α_2\right)$
@@ -12,15 +12,15 @@
 
 # Forms of the Equation of the Line
 - ### General form (Normal form)
-    - ### $ax+by=c$
+    - $ax+by=c$
 - ### Parametric form
-    - ### $\begin{cases}{x=x_1+α_1t}\\{y=y_1+α_2t}\end{cases},~t\in R$
+    - $\begin{cases}{x=x_1+α_1t}\\{y=y_1+α_2t}\end{cases},~t\in R$
 - ### Slope-Intercept form
-    - ### $y=mx+y_0$
+    - $y=mx+y_0$
 - ### Intercept form
-    - ### $\frac{x}{x_0}+\frac{y}{y_0}=1$
+    - $\frac{x}{x_0}+\frac{y}{y_0}=1$
 - ### Point-Slope form
-    - ### $y-y_1=m\left(x-x_1\right)$
+    - $y-y_1=m\left(x-x_1\right)$
 
 # Equations of two Lines：$L_1,~L_2$
 - ### $\tan{θ}=\tan{\left(θ_1-θ_2\right)}=\frac{m_1-m_2}{1+m_1m_2}$
