@@ -1,8 +1,7 @@
 - ### Boolean Expression
-    - ### Quine-McCluskey Method
+    - ### [Minimization of Boolean Expressions](minimization-of-boolean-expressions.md)
 - ### Logic Diagram
 - ### Truth Table
-    - ### [Karnaugh map (K-map)](#karnaugh-map-k-map-1)
 - ### Hardware Description Language (HDL)
     - ### [VHDL](./hdl/vhdl.md)
     - ### Verilog
@@ -27,13 +26,15 @@
     |0|0|0|1|0|0|0|1|1|1|
 
 # Properties
+- ### [Logical Equivalences](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-equivalences)
 - ### [De Morgan's laws](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#de-morgans-laws)
-    - NAND：$\overline{A\cdot B}=\overline{A}+\overline{B}$
-    - NOR：$\overline{A+B}=\overline{A}\cdot\overline{B}$
-- ### XOR：$A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}$
-    - XNOR：$A\odot B=\overline{A\oplus B}=A\cdot B+\overline{A}\cdot\overline{B}$
-
-# Karnaugh map (K-map)
+- ### Equivalences of Logic Gates
+    |[Logic Gates](#logic-gate)|Equivalences|
+    |:---:|:---:|
+    |NAND|$\overline{A\cdot B}=\overline{A}+\overline{B}$|
+    |NOR|$\overline{A+B}=\overline{A}\cdot\overline{B}$|
+    |XOR|$A\oplus B=\overline{A}\cdot B+A\cdot\overline{B}$|
+    |XNOR|$A\odot B=\overline{A\oplus B}=A\cdot B+\overline{A}\cdot\overline{B}$|
 
 # Digital Electronics
 - ### [Combinational Logic](./digital-electronics/combinational-logic/combinational-logic.md)
