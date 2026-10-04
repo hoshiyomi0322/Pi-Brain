@@ -563,4 +563,11 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     }
 }
 
-
+.markdown-section li > h3[id] {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    line-height: 1.4 !important;
+    margin: 0.35em 0 0.45em !important;
+    padding: 0 !important;
+    border: none !important;
+}
