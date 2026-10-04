@@ -252,6 +252,64 @@
         }
     </script>
     <script>
+        function applyCustomHeadingIds(vm) {
+            var markers = document.querySelectorAll(
+                '#main .pb-custom-anchor[data-pb-id]'
+            );
+            markers.forEach(function (marker) {
+            
+                var id = marker.getAttribute('data-pb-id');
+                var heading = marker.parentElement;
+            
+                if (!heading || !/^H[1-6]$/.test(heading.tagName)) {
+                    return;
+                }
+                heading.id = id;
+                var anchor = heading.querySelector('a.anchor');
+            
+                if (anchor) {
+                    anchor.setAttribute('data-id', id);
+                    var href = anchor.getAttribute('href');
+                    if (href) {
+                        var baseHref = href.split('?')[0];
+                        anchor.setAttribute(
+                            'href',
+                            baseHref + '?id=' + encodeURIComponent(id)
+                        );
+                    }
+                }
+                marker.remove();
+            });
+        }
+    </script>
+    <script>
+        function scrollToCustomAnchor() {
+            var hash = window.location.hash || '';
+            var queryIndex = hash.indexOf('?');
+            if (queryIndex === -1) {
+                return;
+            }
+            var queryString = hash.substring(queryIndex + 1);
+            var params = new URLSearchParams(queryString);
+            var id = params.get('id');
+            if (!id) {
+                return;
+            }
+            var target = document.getElementById(id);
+            if (!target) {
+                return;
+            }
+            requestAnimationFrame(function () {
+                requestAnimationFrame(function () {
+                    target.scrollIntoView({
+                        behavior: 'auto',
+                        block: 'start'
+                    });
+                });
+            });
+        }
+    </script>
+    <script>
         // Heading search functionality
         (function () {
             const headingSearch = {
