@@ -29,7 +29,9 @@
 
 # test
 - <h3 id="a1">Standard Score (Z-score)：$z=\frac{x-μ}{σ}$</h3>
+    
     - <h3 id="b1">Standardization</h3>
+        
         - $\text{Raw Score}\left(x\right)\xrightarrow{Standardize}\text{Standard Score}\left(z\right)$
     - $\left( μ,~σ \right) \xrightarrow{Standardize} \left( 0,~1 \right)$
 - ### Standard Score (Z-score)：$z=\frac{x-μ}{σ}${#a2}
