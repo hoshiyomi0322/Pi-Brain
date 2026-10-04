@@ -70,6 +70,20 @@
             plugins: [
                 function(hook, vm) {
                     hook.beforeEach(function(content) {
+                        return content.replace(
+                            /^(\s*(?:[-*+]\s+|\d+\.\s+)?#{1,6}\s+)(.*?)(?:\s+)?(?:\{:\s*#([A-Za-z][A-Za-z0-9_-]*)\}|\{#([A-Za-z][A-Za-z0-9_-]*)\})\s*$/gm,
+                            function(match, prefix, title, id1, id2) {
+                                var id = id1 || id2;
+                                return (
+                                    prefix +
+                                    '<span class="pb-custom-anchor" data-pb-id="' +
+                                    id +
+                                    '"></span>' +
+                                    title
+                                );
+                            }
+                        );
+
                         content = content.replace(
                             /^(\s*)([-*+]\s+|\d+\.\s+)?<h([1-6])\s+id="([^"]+)">([\s\S]*?)<\/h\3>\s*$/gm,
                             function(match, indent, listPrefix, level, id, title) {
