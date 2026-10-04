@@ -39,6 +39,7 @@
 - [56F OKI](viper.md#56f-oki)/[中Thunder Air Combo](#中thunder-air-combo)/[5HK Air Combo](viper.md#5hk-air-combo)/[OD火腿 Air Combo](#od火腿-air-combo)
 - SA2/SA3
 - SA1 + [Corner OD地波 重ね](viper.md#corner-od地波-重ね-24f25f)
+- (DR + 5LP/5LK) + 消費(DI) + SA1/SA2/SA3
 
 
 # OD火腿 Air Combo

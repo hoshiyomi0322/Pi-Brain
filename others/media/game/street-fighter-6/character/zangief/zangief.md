@@ -75,9 +75,10 @@
         - [3MP Air Combo](#3mp-air-combo)
         - (3MP + OD旋風手) + (delay + 9 + OD Air-コマ投げ)
         - (3MP + OD旋風手) + [51F OKI](#51f-oki)
-        - (3MP + OD旋風手) + 消費(9) + [8F打摔擇](#8f打摔擇-6f9f)
+        - (3MP + OD旋風手) + 消費(9/5HP) + [8F打摔擇](#8f打摔擇-6f9f)
         - (3MP + OD旋風手) + 消費(6HP) + [16F OKI](#16f-oki-16f17f)
         - (3MP + OD旋風手) + 消費(2MP) + [DI OKI](#di-oki-25f26f)
+        - (3MP + OD旋風手) + 消費(2HP/6HK) + SA3
 - ### 3MP High-Air Combo
     - 9 + delay + Air-コマ投げ
     - (3MP + 旋風手) + [DR 6HK 重ね](#dr-6hk-重ね-38f)
