@@ -8,4 +8,5 @@
 - ### z-test
 - ### Chi-squared test ($χ^2$ test)
 - ### Analysis of Variance (ANOVA)
+- ### Fisher Exact test
 
