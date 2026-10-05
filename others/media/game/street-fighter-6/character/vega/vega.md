@@ -78,15 +78,23 @@
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
+    - #### 帶炸彈 前投げ
+        - 前投げ + (DR + delay + [前投げ](#前投げ))
+        - 前投げ + (DR + delay + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
+        - Corner
+            - 前投げ + (前歩き + [前投げ](#前投げ))
+            - 前投げ + (前歩き + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
 - ### 後ろ投げ
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
+    - 帶炸彈：[帶炸彈 前投げ](#帶炸彈-前投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
     - [2MP Combo](#2mp-combo)
+    - 帶炸彈：[帶炸彈 前投げ](#帶炸彈-前投げ)
 - ### 5MP OKI (6F~9F)
     - [5MP Combo](#5mp-combo)
 - ### 5HK OKI (10F~13F)
@@ -119,11 +127,8 @@
     - 連ガ(OD踩頭 + 2MP) + [帶炸彈 中埋炸彈 Combo](vega-special-move.md#帶炸彈-中埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
     - ガード(OD踩頭 + 2HP/4HK) + [帶炸彈 強埋炸彈 Combo](vega-special-move.md#帶炸彈-強埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
 - ### 帶炸彈 前投げ OKI
-    - (DR + delay + 前投げ) + (DR + delay + 前投げ)
-    - (DR + delay + 前投げ) + (DR + delay + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
-    - Corner
-        - (前歩き + 前投げ) + (前歩き + 前投げ)
-        - (前歩き + 前投げ) + (前歩き + 5MP + 6HP/2HK) + [JMP Air Combo](#jmp-air-combo)
+    - DR + delay + [帶炸彈 前投げ](#帶炸彈-前投げ)
+    - Corner：前歩き + [帶炸彈 前投げ](#帶炸彈-前投げ)
 
 # todo
 - ### https://steamcommunity.com/sharedfiles/filedetails/?id=3278075787
