@@ -9,8 +9,8 @@
     - OD Psycho-crusher + [35F OKI](vega.md#35f-oki)
     - #### 帶炸彈 OD Psycho-crusher Combo
         - OD Psycho-crusher(帶炸彈) + (5HP + SA1/SA2/SA3)
-        - (OD Psycho-crusher(帶炸彈) + OD踩頭) + (5HP + SA1/SA2/SA3)
-        - (OD Psycho-crusher(帶炸彈) + OD踩頭) + (5HP + 消費(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
+        - (OD Psycho-crusher(帶炸彈) + OD Shadowrise-踩頭) + (5HP + SA1/SA2/SA3)
+        - (OD Psycho-crusher(帶炸彈) + OD Shadowrise-踩頭) + (5HP + 消費(5HK) + [5F打摔擇](vega.md#5f打摔擇-4f5f))
         - OD Psycho-crusher(帶炸彈) + [DR 5MP Air Combo](vega.md#dr-5mp-air-combo)
         - OD Psycho-crusher(帶炸彈) + (前ステ + 6HP + [弱Psycho-crusher Air Combo](#弱psycho-crusher-air-combo)/[弱埋炸彈 Combo](#弱埋炸彈-combo)/[OD埋炸彈 Combo](#od埋炸彈-combo))
         - ガード：連ガ(OD Psycho-crusher(帶炸彈) + [2HP Combo](vega.md#2hp-combo)/[5HK Combo](vega.md#5hk-combo))
