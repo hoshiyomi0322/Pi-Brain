@@ -23,13 +23,15 @@
     - 強Dimachaerus派生 + [56F OKI](marisa.md#56f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)
     - 強Dimachaerus派生 + (3HP*2 + [DR溜め5HP OKI](marisa.md#dr溜め5hp-oki-31f33f))
     - Corner
-        - 強Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+        - 強Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)
         - 強Dimachaerus派生 + (DR + 5MP*2 + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f))
+        - 強Dimachaerus + 2LP + Reset(DI)
 - ### OD Dimachaerus Combo
     - OD Dimachaerus派生 + [58F OKI](marisa.md#58f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)/[DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
     - Corner
-        - OD Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+        - OD Dimachaerus派生 + [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)
         - OD Dimachaerus派生 + (DR + 5MP*2 + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f))
+        - 強Dimachaerus + 5LK + Reset(DI)
 
 # Phalanx Combo
 - ### 弱Phalanx Combo
@@ -42,8 +44,8 @@
     - 強Phalanx + [42F OKI](marisa.md#42f-oki)
     - ガード(強Phalanx) + [2LP Combo](marisa.md#2lp-combo)
 - ### OD Phalanx Combo
+    - [OD Phalanx Air Combo](#od-phalanx-air-combo)
     - #### Near-wall OD Phalanx Combo
-        - OD Phalanx + [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
         - OD Phalanx + 2LP + Reset(DI)
 
 # Phalanx Air Combo
@@ -54,8 +56,9 @@
 - ### 強Phalanx Air Combo
     - 強Phalanx + [42F OKI](marisa.md#42f-oki)
 - ### OD Phalanx Air Combo
-    - #### Near-wall OD Phalanx Combo
-        - OD Phalanx + [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
+    - #### Near-wall OD Phalanx Air Combo
+        - OD Phalanx + [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
+        - OD Phalanx + (溜め4HP + [45F OKI](marisa.md#45f-oki))
 
 # Quadriga Combo
 - ### 弱Quadriga Combo
@@ -66,6 +69,7 @@
     - 強Quadriga + SA3
 - ### OD Quadriga Combo
     - OD Quadriga + SA2/SA3
+    - Corner：OD Quadriga + [4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-air-combo)
 
 # Quadriga Air Combo
 - ### 弱Quadriga Air Combo

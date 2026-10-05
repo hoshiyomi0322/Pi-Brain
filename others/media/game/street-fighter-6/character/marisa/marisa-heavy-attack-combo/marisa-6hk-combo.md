@@ -5,6 +5,7 @@
 - ガード(溜め6HK) + [3F打摔擇](../marisa.md#3f打摔擇-2f3f)
 
 # 6HK Air Combo
+- 6HK + [OD Phalanx Air Combo](../marisa-special-move.md#od-phalanx-air-combo)
 - Corner：6HK*2 + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
 
 # 溜め6HK Air Combo
@@ -16,3 +17,4 @@
 
 # DR 6HK Air Combo
 - (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2
+- Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)

@@ -54,6 +54,8 @@
         - 6HK(PC) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
     - ### 5HK PC Combo
         - 5HK(PC) + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
+    - ### 溜め5HP PC Combo
+        - 溜め5HP(PC) + [6HK Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -99,6 +101,7 @@
     - delay + [投げ](#投げ)
 - ### コマ投げ OKI (9F~13F)
     - Scutum-コマ投げ/OD Scutum-コマ投げ
+    - [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
 - ### 5MK 重ね (13F)
     - 5MK + [5MP Combo](#5mp-combo)
     - [コマ投げ OKI](#コマ投げ-oki-9f13f)
@@ -138,10 +141,13 @@
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [溜め5HP OKI](#溜め5hp-oki-20f)
+    - 消費(4HP) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
 - ### 44F OKI
     - 消費(前ステ) + [22F OKI](#22f-oki)
+    - 消費(4HP) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
 - ### 45F OKI
     - 消費(前ステ) + [溜め5HP 重ね](#溜め5hp-重ね-23f)
+    - 消費(4HP) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
 - ### 47F OKI (46F~48F)
     - 消費(9) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
@@ -150,19 +156,19 @@
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
     - その場受け身/Corner
         - 消費(中Phalanx) + [5MP OKI](#5mp-oki-6f8f)
-        - 消費(弱Phalanx) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
+        - 消費(弱Phalanx/Parry) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
         - 消費(強Phalanx) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 57F OKI
     - 消費(9 + JLK) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
     - 消費(強Phalanx) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(2LP) + [42F OKI](#42f-oki)
-    - その場受け身/Corner：消費(弱Phalanx) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
+    - その場受け身/Corner：消費(弱Phalanx/Parry) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
 - ### 58F OKI
     - 消費(9 + JLK) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
     - 消費(強Phalanx) + [5MP OKI](#5mp-oki-6f8f)
-    - その場受け身/Corner：消費(弱Phalanx) + [5MK 重ね](#5mk-重ね-13f)
+    - その場受け身/Corner：消費(弱Phalanx/Parry) + [5MK 重ね](#5mk-重ね-13f)
 
 # [対空](../street-fighter-6.md#anti-air)
 - 2HP
