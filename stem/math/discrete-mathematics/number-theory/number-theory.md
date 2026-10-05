@@ -24,3 +24,5 @@
 
 # Riemann Hypothesis
 
+# Modular Arithmetic
+- ### [Modular Arithmetic](modular-arithmetic.md)
