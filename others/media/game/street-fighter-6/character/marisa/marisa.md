@@ -187,3 +187,6 @@
 
 # [対空](../street-fighter-6.md#anti-air)
 - 2HP
+
+# todo
+- https://youtube.com/playlist?list=PL6xPk6BbvFi6V9b3y5fdrdYe5mMYi0f4O&si=jjSRcrX7C8wNMoXH
