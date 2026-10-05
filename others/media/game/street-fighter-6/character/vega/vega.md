@@ -2,13 +2,19 @@
 - ### Psycho-crusher：4(溜め) + 6P
 - ### Shadowrise：2(溜め) + 8K
     - #### Shadowrise-踩頭：(2(溜め) + 8K) + K
-        - Shadowrise-OD踩頭：(2(溜め) + 8K) + KK
         - Shadowrise-踩頭派生：(2(溜め) + 8K) + (K + P)
+            - Shadowrise-踩頭前派生：(2(溜め) + 8K) + (K + 6P)
+            - Shadowrise-踩頭後派生：(2(溜め) + 8K) + (K + 4P)
         - Shadowrise-delay-踩頭：(2(溜め) + 8K) + (delay + K)
+    - #### Shadowrise-OD踩頭：(2(溜め) + 8K) + KK
         - Shadowrise-delay-OD踩頭：(2(溜め) + 8K) + (delay + KK)
     - #### Shadowrise-惡魔倒轉：(2(溜め) + 8K) + P
-        - Shadowrise-OD惡魔倒轉：(2(溜め) + 8K) + PP
+        - Shadowrise-前惡魔倒轉：(2(溜め) + 8K) + 6P
+        - Shadowrise-後惡魔倒轉：(2(溜め) + 8K) + 4P
         - Shadowrise-delay-惡魔倒轉：(2(溜め) + 8K) + (delay + P)
+    - #### Shadowrise-OD惡魔倒轉：(2(溜め) + 8K) + PP
+        - Shadowrise-前OD惡魔倒轉：(2(溜め) + 8K) + 6PP
+        - Shadowrise-後OD惡魔倒轉：(2(溜め) + 8K) + 4PP
         - Shadowrise-delay-OD惡魔倒轉：(2(溜め) + 8K) + (delay + P)
 - ### 埋炸彈：214P
 - ### 剪刀腳：236K

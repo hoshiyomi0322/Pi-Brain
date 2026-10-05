@@ -28,11 +28,15 @@
     - 剪刀腳 + [2MP Combo](../vega.md#2mp-combo)
 
 # Shadowrise Combo
-- ### 帶炸彈 Shadowrise-惡魔倒轉 Combo
-    - Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + [弱Psycho-crusher Combo](vega-psycho-crusher.md#弱psycho-crusher-combo)
-    - Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + (OD Psycho-crusher + SA3)
-    - Corner：Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + [5HP Air Combo](../vega.md#5hp-air-combo)/[Corner 6HP Air Combo](../vega.md#corner-6hp-air-combo)
-- ### 帶炸彈 OD Shadowrise-惡魔倒轉 Combo
-    - OD Shadowrise-惡魔倒轉 + [弱Psycho-crusher Combo](vega-psycho-crusher.md#弱psycho-crusher-combo)
-    - OD Shadowrise-惡魔倒轉 + (OD Psycho-crusher + SA3)
-    - Corner：OD Shadowrise-惡魔倒轉 + [5HP Air Combo](../vega.md#5hp-air-combo)/[Corner 6HP Air Combo](../vega.md#corner-6hp-air-combo)
+- ### Shadowrise-惡魔倒轉 Combo
+    - ### 帶炸彈 Shadowrise-惡魔倒轉 Combo
+        - Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + [弱Psycho-crusher Combo](vega-psycho-crusher.md#弱psycho-crusher-combo)
+        - Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + (OD Psycho-crusher + SA3)
+        - Corner：Shadowrise-惡魔倒轉/Shadowrise-OD惡魔倒轉 + [5HP Air Combo](../vega.md#5hp-air-combo)/[Corner 6HP Air Combo](../vega.md#corner-6hp-air-combo)
+    - ### 帶炸彈 OD Shadowrise-惡魔倒轉 Combo
+        - OD Shadowrise-惡魔倒轉 + [弱Psycho-crusher Combo](vega-psycho-crusher.md#弱psycho-crusher-combo)
+        - OD Shadowrise-惡魔倒轉 + (OD Psycho-crusher + SA3)
+        - Corner：OD Shadowrise-惡魔倒轉 + [5HP Air Combo](../vega.md#5hp-air-combo)/[Corner 6HP Air Combo](../vega.md#corner-6hp-air-combo)
+- ### Shadowrise-踩頭 Combo
+    - Shadowrise-踩頭派生/Shadowrise-踩頭前派生 + [5MP Combo](../vega.md#5mp-combo)
+    - ガード(Shadowrise-踩頭派生/Shadowrise-踩頭前派生) + [5F打摔擇](../vega.md#5f打摔擇-4f5f)
