@@ -28,7 +28,8 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - 5MP*2 + 
+    - 5MP*2 + [Medium Cancel Combo](#medium-cancel-combo)
+    - 5MP*2 + Reset([Phalanx Combo](marisa-special-move.md#phalanx-combo))
     - 5MP*2(相打ち) + [5MP Combo](#5mp-combo)
 - ### 2MP Combo
 - ### DR 5MK Combo
@@ -54,6 +55,11 @@
         - 6HK(PC) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
     - ### 5HK PC Combo
         - 5HK(PC) + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
+        - Corner：5HK(PC) + [Dimachaerus Air Combo](marisa-special-move.md#dimachaerus-air-combo)
+    - ### 溜め5HK PC Combo
+        - 溜め5HK(PC) + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
+        - 溜め5HK(PC) + 消費(強Phalanx) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
+        - Corner：溜め5HK(PC) + [Dimachaerus Air Combo](marisa-special-move.md#dimachaerus-air-combo)
     - ### 溜め5HP PC Combo
         - 溜め5HP(PC) + [6HK Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-combo)
 
@@ -72,10 +78,12 @@
             - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)
             - CDR + [5MP Combo](#5mp-combo)
         - [中Gladius Combo](marisa-special-move.md#中gladius-combo)/[中溜めGladius Combo](marisa-special-move.md#中溜めgladius-combo)
+        - [Phalanx Combo](marisa-special-move.md#phalanx-combo)
         - CDR + Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### Medium Cancel Combo
     - #### ガード後 Medium Cancel Combo
         - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)/[弱溜めGladius Combo](marisa-special-move.md#弱溜めgladius-combo)
+        - [Phalanx Combo](marisa-special-move.md#phalanx-combo)
         - CDR + [5MP Combo](#5mp-combo)
         - CDR + Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### Light Cancel Combo
@@ -151,6 +159,10 @@
 - ### 47F OKI (46F~48F)
     - 消費(9) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(前ステ) + [DI OKI](#di-oki-25f26f)
+- ### 51F OKI
+    - 消費(弱Quadriga) + [5F打摔擇](#5f打摔擇-4f5f)
+    - 消費(2MP) + [DI OKI](#di-oki-25f26f)
+    - 消費(前ステ) + [中Phalanx OKI](#中phalanx-oki-28f31f)
 - ### 56F OKI
     - 消費(9) + [5MK 重ね](#5mk-重ね-13f)
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
@@ -158,6 +170,7 @@
         - 消費(中Phalanx) + [5MP OKI](#5mp-oki-6f8f)
         - 消費(弱Phalanx/Parry) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
         - 消費(強Phalanx) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 消費(強Quadriga) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 57F OKI
     - 消費(9 + JLK) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
@@ -168,7 +181,9 @@
     - 消費(9 + JLK) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
     - 消費(前ステ) + [強Phalanx OKI](#強phalanx-oki-31f36f)
     - 消費(強Phalanx) + [5MP OKI](#5mp-oki-6f8f)
-    - その場受け身/Corner：消費(弱Phalanx/Parry) + [5MK 重ね](#5mk-重ね-13f)
+    - その場受け身/Corner
+        - 消費(弱Phalanx/Parry) + [5MK 重ね](#5mk-重ね-13f)
+        - 消費(強Quadriga) + [5F打摔擇](#5f打摔擇-4f5f)
 
 # [対空](../street-fighter-6.md#anti-air)
 - 2HP
