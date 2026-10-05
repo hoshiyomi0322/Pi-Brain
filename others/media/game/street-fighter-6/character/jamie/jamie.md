@@ -163,6 +163,7 @@
     - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
     - 5HK(PC) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[強爆廻 Combo](jamie-special-move.md#強爆廻-combo)
     - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
+    - Corner：5HK(PC) + (酒飲み + 2LP + [5HP High-Air Combo](#5hp-high-air-combo))
 - DR + 5HP(PC) + [2HP Combo](#2hp-combo)
 
 # DI Combo
