@@ -65,9 +65,9 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo))
+    - DI(PC) + (前ステ + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[強Dimachaerus Combo](marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo))
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)
+    - DI(Wall spalt) + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[強Dimachaerus Combo](marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo)
 - ### Stun Combo
     - DI(Stun) +  
 
