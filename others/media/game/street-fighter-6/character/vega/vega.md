@@ -1,9 +1,13 @@
 # Command
 - ### Psycho-crusher：4(溜め) + 6P
-- ### 起飛：2(溜め) + 8K
-    - #### 踩頭：(2(溜め) + 8K) + K
-    - #### 踩打頭：(2(溜め) + 8K) + (K + P)
-    - #### 惡魔倒轉：(2(溜め) + 8K) + P
+- ### Shadowrise：2(溜め) + 8K
+    - #### Shadowrise-x踩頭：(2(溜め) + 8K) + xK
+        - Shadowrise-OD踩頭：(2(溜め) + 8K) + KK
+        - Shadowrise-x踩頭派生：(2(溜め) + 8K) + (xK + P)
+        - Shadowrise-delay-x踩頭：(2(溜め) + 8K) + (delay + xK)
+    - #### Shadowrise-x惡魔倒轉：(2(溜め) + 8K) + xP
+        - Shadowrise-OD惡魔倒轉：(2(溜め) + 8K) + PP
+        - Shadowrise-delay-x惡魔倒轉：(2(溜め) + 8K) + (delay + xP)
 - ### 埋炸彈：214P
 - ### 剪刀腳：236K
 - ### 帶炸彈：對手身上有炸彈
@@ -123,9 +127,9 @@
     - 安全飛び
     - 消費(前ステ + 前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 帶炸彈 OD踩頭 OKI (31F)
-    - OD踩頭
-    - 連ガ(OD踩頭 + 2MP) + [帶炸彈 中埋炸彈 Combo](vega-special-move.md#帶炸彈-中埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
-    - ガード(OD踩頭 + 2HP/4HK) + [帶炸彈 強埋炸彈 Combo](vega-special-move.md#帶炸彈-強埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
+    - OD Shadowrise-踩頭
+    - 連ガ(OD Shadowrise-踩頭 + 2MP) + [帶炸彈 中埋炸彈 Combo](vega-special-move.md#帶炸彈-中埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
+    - ガード(OD Shadowrise-踩頭 + 2HP/4HK) + [帶炸彈 強埋炸彈 Combo](vega-special-move.md#帶炸彈-強埋炸彈-combo)/[帶炸彈 OD Psycho-crusher Combo](vega-special-move.md#帶炸彈-od-psycho-crusher-combo)
 - ### 帶炸彈 前投げ OKI
     - DR + delay + [帶炸彈 前投げ](#帶炸彈-前投げ)
     - Corner：前歩き + [帶炸彈 前投げ](#帶炸彈-前投げ)
