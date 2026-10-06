@@ -64,6 +64,8 @@
 - ### 構え-弱elbow Air Combo
     - 構え-弱elbow + [中昇竜 Combo](#中昇竜-combo)/SA1
     - 構え-弱elbow + 消費(5LP) + DI(騙對手 DI) + 反DI
+- ### 構え-コマ投げ Combo
+    - 構え-コマ投げ + [溜め5HP OKI](alex.md#溜め5hp-oki-21f24f)
 
 # 構え PC Combo
 - ### 構え-chop PC Combo
@@ -76,5 +78,5 @@
 - ### 構え-elbow PC Combo
     - 構え-elbow(PC) + [強昇竜 Combo](#強昇竜-combo)/[弱Axe Combo](#弱axe-combo)/[OD Chop Air Combo](#od-chop-air-combo)
     - 構え-elbow(PC) + SA1/[SA2 Air Combo](alex.md#sa2-air-combo)
-- ### 構え-コマ投げ Combo
+- ### 構え-コマ投げ PC Combo
     - 構え-コマ投げ(PC) + [溜め5HP OKI](alex.md#溜め5hp-oki-21f24f)

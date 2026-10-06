@@ -57,6 +57,8 @@
     - Corner
         - (2HP + 中Axe) + (構え-中elbow + [中昇竜 Combo](alex-special-move.md#中昇竜-combo))
         - [2HP Air Combo](#2hp-air-combo)
+- ### DR 2HP Combo
+    - (DR + 2HP) + [Chop Combo](alex-special-move.md#chop-combo)
 - ### DR 2HP Air Combo
     - DR + [2HP Air Combo](#2hp-air-combo)
 - ### DR 溜め5HP Combo
