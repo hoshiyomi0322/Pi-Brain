@@ -18,3 +18,9 @@
 # DR 6HK Air Combo
 - (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2
 - Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
+
+# DR 6HK High-Air Combo
+- (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2
+- (DR + 6HK*2) + (CDR + 5LK + [強Dimachaerus Combo](../marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Air Combo](../marisa-special-move.md#od-dimachaerus-air-combo))
+- Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
+

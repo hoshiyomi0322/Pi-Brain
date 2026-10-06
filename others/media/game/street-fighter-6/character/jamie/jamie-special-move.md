@@ -96,11 +96,13 @@
     - 空插 + 消費(前ステ*2) + [5MK OKI](jamie.md#5mk-oki-6f10f)
 - ### OD空插 Combo
     - OD空插 + delay + [2HK Combo](jamie.md#2hk-combo)
+    - OD空插 + 弱爆廻 + [SA3 Combo](jamie.md#sa3-combo)
     - Corner：OD空插 + [5HP High-Air Combo](jamie.md#5hp-high-air-combo)
 
 # 空插 Air Combo
 - ### OD空插 Air Combo
     - OD空插 + [2HK Combo](jamie.md#2hk-combo)
+    - OD空插 + 弱爆廻 + [SA3 Combo](jamie.md#sa3-combo)
 
 # 爆廻 Combo
 - ### 弱爆廻 Combo
