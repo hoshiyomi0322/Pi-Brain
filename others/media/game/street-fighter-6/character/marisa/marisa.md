@@ -32,6 +32,7 @@
     - 5MP*2 + Reset([Phalanx Combo](marisa-special-move.md#phalanx-combo))
     - 5MP*2(相打ち) + [5MP Combo](#5mp-combo)
 - ### 2MP Combo
+    - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
 - ### DR 5MK Combo
     - (DR + 5MK) + [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
 
@@ -65,7 +66,8 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[強Dimachaerus Combo](marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo))
+    - DI(PC) + [溜め4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-combo)
+    - DI(PC) + (前ステ + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo))
 - ### Wall Splat Combo
     - DI(Wall spalt) + [6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-air-combo)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[強Dimachaerus Combo](marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo)
 - ### Stun Combo
@@ -73,6 +75,7 @@
 
 # Cancel Combo
 - ### Heavy Cancel Combo
+    - [Dimachaerus Combo](marisa-special-move.md#dimachaerus-combo)/[Gladius Combo](marisa-special-move.md#gladius-combo)
     - #### ガード後 Heavy Cancel Combo
         - 連ガ
             - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)
@@ -81,6 +84,8 @@
         - [Phalanx Combo](marisa-special-move.md#phalanx-combo)
         - CDR + Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### Medium Cancel Combo
+    - [中Dimachaerus Combo](marisa-special-move.md#中dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo)
+    - [中Gladius Combo](marisa-special-move.md#中gladius-combo)/[OD Gladius Combo](marisa-special-move.md#od-gladius-combo)
     - #### ガード後 Medium Cancel Combo
         - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)/[弱溜めGladius Combo](marisa-special-move.md#弱溜めgladius-combo)
         - [Phalanx Combo](marisa-special-move.md#phalanx-combo)
@@ -109,7 +114,8 @@
     - delay + [投げ](#投げ)
 - ### コマ投げ OKI (9F~13F)
     - Scutum-コマ投げ/OD Scutum-コマ投げ
-    - [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
+    - delay + [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
+    - [溜め4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-combo)
 - ### 5MK 重ね (13F)
     - 5MK + [5MP Combo](#5mp-combo)
     - [コマ投げ OKI](#コマ投げ-oki-9f13f)
@@ -127,7 +133,7 @@
     - [弱Phalanx OKI](#弱phalanx-oki-22f27f)
 - ### DI OKI (25F/26F)
     - DI
-    - [溜め6HK OKI](溜め6hk-oki-24f27f)
+    - [溜め6HK OKI](#溜め6hk-oki-24f27f)
 - ### DR溜め5HP OKI (31F~33F)
     - [DR 溜め5HP Combo](./marisa-heavy-attack-combo/marisa-5hp-combo.md#dr-溜め5hp-combo)
     - [強Phalanx OKI](#強phalanx-oki-31f36f)

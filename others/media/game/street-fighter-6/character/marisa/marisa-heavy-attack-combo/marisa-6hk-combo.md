@@ -1,4 +1,5 @@
 # 6HK Combo
+- 6HK + [Heavy Cancel Combo](../marisa.md#heavy-cancel-combo)
 
 # 溜め6HK Combo
 - 溜め6HK + [4HP Combo](marisa-4hp-combo.md#4hp-combo)/[2HP Combo](marisa-2hp-combo.md#2hp-combo)
