@@ -8,6 +8,7 @@
 
 # Types of CG
 - ### 2D CG
+    - ### Clip Studio Paint (CSP)
     - ### Krita
     - ### MediBang Paint
 - ### 2.5D CG
