@@ -148,8 +148,9 @@ sudo apt-get purge <package-name>
 
 # Linux Development Tools
 - ### Text Editor
-    - ### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim.md)
-    - ### GNU nano (nano)
+    - #### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim.md)
+    - #### GNU nano (nano)
+    - #### Editor MACroS (Emacs)
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)
 - ### [Git](/stem/it/it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
