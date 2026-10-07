@@ -15,5 +15,12 @@
 
 # DR 4HP Air Combo
 - (DR + 4HP) + [Gladius Air Combo](../marisa-special-move.md#gladius-air-combo)
+- (DR + 4HP) + [中Phalanx Air Combo](../marisa-special-move.md#中phalanx-air-combo)/[OD Phalanx Air Combo](../marisa-special-move.md#od-phalanx-air-combo)
+- (DR + 4HP) + (CDR + [DR 6HK Air Combo](marisa-6hk-combo.md#dr-6hk-air-combo))
+- (DR + 4HP) + 消費(強Phalanx) + [コマ投げ OKI](../marisa.md#コマ投げ-oki-9f13f)
+
+# DR 4HP High-Air Combo
+- (DR + 4HP) + [Gladius Air Combo](../marisa-special-move.md#gladius-air-combo)
 - (DR + 4HP) + [強Phalanx Air Combo](../marisa-special-move.md#強phalanx-air-combo)/[OD Phalanx Air Combo](../marisa-special-move.md#od-phalanx-air-combo)
 - (DR + 4HP) + (CDR + [DR 6HK Air Combo](marisa-6hk-combo.md#dr-6hk-air-combo))
+

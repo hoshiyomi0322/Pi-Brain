@@ -53,9 +53,9 @@
     - OD Dimachaerus派生 + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
 
 # Dimachaerus Extension Combo
-- [Gladius Air Combo](#gladius-air-combo)/[DR 4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-air-combo)
+- [Gladius Air Combo](#gladius-air-combo)/[DR 4HP High-Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#dr-4hp-high-air-combo)
 - ### Corner Dimachaerus Extension Combo
-    - [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)
+    - [5HP High-Air Reset](./marisa-heavy-attack-combo/marisa-5hp-combo.md#5hp-high-air-reset)/[溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-combo)
     - (DR + 5MP*2 + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f))
 
 # Phalanx Combo
@@ -87,13 +87,13 @@
 # OD Phalanx PC Combo
 - OD Phalanx(PC) + [OD Phalanx Extension Combo](#od-phalanx-extension-combo)
 - ### QQH OD Phalanx PC Combo
-    - OD Phalanx(PC) + (DR + delay) + [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
+    - OD Phalanx(PC) + (DR + delay) + [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
 - ### Near-wall OD Phalanx PC Combo
     - OD Phalanx(PC) + [強Dimachaerus Combo](#強dimachaerus-combo)/[OD Dimachaerus Combo](#od-dimachaerus-combo)
 
 # OD Phalanx Extension Combo
 - ### Near-wall OD Phalanx Extension Combo
-    - [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-air-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
+    - [溜め4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-air-combo)/[溜め2HP Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#溜め2hp-combo)/[溜めSA1 Combo](marisa.md#溜めsa1-combo)
     - 溜め4HP + [45F OKI](marisa.md#45f-oki)
     - 溜め4HP + 消費(溜めGladius) + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f)
     - 5HP + 消費(5HP) + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f)

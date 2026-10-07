@@ -37,17 +37,20 @@
     - SA3 + [推掌 High-Air Combo](jamie-special-move.md#推掌-high-air-combo)/[DR 天晴脚 Air Combo](jamie-special-move.md#dr-天晴脚-air-combo)
     - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
         - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
+        - SA3 + (DR + 2HP + OD推掌) + (DR + 2HP + [強推掌 Combo](jamie-special-move.md#強推掌-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo))
     - SA3 + (前ステ + 5HP + [昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo))
     - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
     - SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
+    - SA3 + 消費(9 + JHK) + [DI OKI](#di-oki-25f26f)
     - 打動力槽：SA3 + (DR + delay + 2HP + DI)
     - Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### Corner SA3 Combo
-        - SA3 + (前ステ + 5LP) + Reset(DI)
-            - SA3 + (DR + 2HP + 5LP) + Reset(DI)
+        - SA3 + (前ステ + [5LP Air Reset](#5lp-air-reset))
+            - SA3 + (DR + 2HP + [5LP Air Reset](#5lp-air-reset))
+        - SA3 + (DR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
+            - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
         - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
-            - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + 5LP/2LP/5LK) + Reset(DI)
-            - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+            - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + [5LP Air Reset](#5lp-air-reset))
 
 # Heavy Attack Combo
 - ### 5HP Combo
@@ -68,6 +71,19 @@
 - ### 2HP Air Combo
     - 2HP + [Air Cancel Combo](#air-cancel-combo)
     - 酔い3：2HP + (CDR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
+- ### 2HP Air Reset
+    - 2HP + [3F打摔擇](#3f打摔擇-2f3f)
+    - 2HP + Reset(CDR + [DR 6MK Combo](#dr-6mk-combo))
+    - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo)/[SA3 Combo](#sa3-combo))
+        - 2HP + ガード(強推掌) + [3F打摔擇](#3f打摔擇-2f3f)
+        - 對手 Parry：2HP + 消費(弱推掌/中推掌) + [投げ](#投げ)/[コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
+- ### 2HP High-Air Reset
+    - 2HP + [5F打摔擇](#5f打摔擇-4f5f)
+    - 2HP + Reset(CDR + 6MK + [2MP Combo](#2mp-combo))
+        - 2HP + ガード(CDR + 6MK) + [2LP Combo](#2lp-combo)/[5LP Combo](#5lp-combo)
+    - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo)/[SA3 Combo](#sa3-combo))
+        - 2HP + ガード(強推掌) + [5F打摔擇](#5f打摔擇-4f5f)
+        - 對手 Parry：2HP + 消費(弱推掌/中推掌) + [投げ](#投げ)/[コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 - ### 酔い3 DR 4HP Combo
     - DR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
 - ### 酔い3 4HP Air Combo
@@ -134,6 +150,14 @@
 - ### DR 2LP Combo
     - (DR + 2LP) + [2HP Combo](#2hp-combo)/[2HK Combo](#2hk-combo)/[5MK Combo](#5mk-combo)
     - ガード(DR + 2LP) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 5LP Air Reset
+    - 5LP + Reset(DI)
+    - 5LP + Reset(中推掌/強推掌 + [SA3 Combo](#sa3-combo))
+        - 酔い4：5LP + Reset(中推掌派生/強推掌派生 + [SA3 Combo](#sa3-combo))
+        - 5LP + ガード(中推掌) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 5LP + Reset([General OD推掌 Combo](#general-od推掌-combo))
+        - 5LP + ガード(OD推掌) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
+    - 對手 Parry：5LP + 消費(弱推掌) + [投げ](#投げ)/[コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 
 # Jump Attack Combo
 - ### JMP Combo
@@ -181,7 +205,7 @@
     - 酔い3：DI(Wall spalt) + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
     - DI(Wall spalt) + (2HP + SA2) + 2HP + Reset([コマ投げ Combo](jamie-special-move.md#コマ投げ-Combo))
         - DI(Wall spalt) + (2HP + SA2) + (DR + 5HP + 5LK) + Reset(DI)
-    - DI(Wall spalt) + (DR + 5HP + 5LK) + Reset(DI)
+    - DI(Wall spalt) + (DR + 5HP + [5LP Air Reset](#5lp-air-reset))
 - ### Stun Combo
     - DI(Stun) + 酒飲み*2 + [ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
 
@@ -323,8 +347,7 @@
     - Midscreen：消費(弱爆廻) + [5MK OKI](#5mk-oki-6f10f)
 
 # Corner DR Air Reset
-- (DR + 5HP + 5LP/2LP/5LK) + Reset(DI)
-- (DR + 5MP + 2HP) + [5F打摔擇](#5f打摔擇-4f5f)
+- DR + 5HP + [5LP Air Reset](#5lp-air-reset)
 - (DR + 5MP + 6HK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 
 # [対空](../street-fighter-6.md#anti-air)

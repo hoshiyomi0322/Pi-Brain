@@ -55,14 +55,19 @@
     - ### 6HK PC Combo
         - 6HK(PC) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
     - ### 5HK PC Combo
-        - 5HK(PC) + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
+        - 5HK(PC) + [DR 6HK High-Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-high-air-combo)
         - Corner：5HK(PC) + [Dimachaerus Air Combo](marisa-special-move.md#dimachaerus-air-combo)
     - ### 溜め5HK PC Combo
-        - 溜め5HK(PC) + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo)
+        - 溜め5HK(PC) + [DR 6HK High-Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-high-air-combo)
         - 溜め5HK(PC) + 消費(強Phalanx) + [コマ投げ OKI](#コマ投げ-oki-9f13f)
         - Corner：溜め5HK(PC) + [Dimachaerus Air Combo](marisa-special-move.md#dimachaerus-air-combo)
     - ### 溜め5HP PC Combo
         - 溜め5HP(PC) + [6HK Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#6hk-combo)
+    - ### 溜め2HP PC Combo
+        - 溜め2HP(PC) + [DR 6HK High-Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-high-air-combo)
+        - 溜め2HP(PC) + (強Dimachaerus + delay + [Dimachaerus Extension Combo](marisa-special-move.md#dimachaerus-extension-combo))
+        - 溜め2HP(PC) + (強Dimachaerus + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo))
+        - Corner：溜め2HP(PC) + [Corner 溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#corner-溜め2hp-air-combo)
 
 # DI Combo
 - ### DI PC Combo
