@@ -1,7 +1,6 @@
 # Prime Number (Prime)
 - ### [Prime Number (Prime)](prime-number.md)
 
-
 # Perfect Number
 - ### $n=\sum{f}=2^{k-1} \times \left(2^k-1\right)$
     - #### $f=\text{divisors excluding the number itself}$
