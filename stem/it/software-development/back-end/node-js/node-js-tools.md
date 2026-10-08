@@ -18,4 +18,5 @@
 |`pm2 stop`||
 |`pm2 restart <app_name_or_id>`||
 |`pm2 reload <app_name_or_id>`||
+|`pm2 delete <app_name_or_id>`||
 |`pm2 logs <app_name_or_id>`||

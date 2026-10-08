@@ -5,18 +5,18 @@
 - ### [Latency](#latency-1)
     - ### [Delay](#delay-2)
 - ### Jitter：Variation in [Latency](#latency-1)
-    - ### [Unit](../../../../unit.md)：s (second), ms (millisecond)
+    - ### [Unit](/stem/unit.md)：s (second), ms (millisecond)
 - ### [Traffic Intensity](#traffic-intensity-1)
 - ### Quality of Service (QoS)
 
 # Latency
-- ### [Unit](../../../../unit.md)：s (second), ms (millisecond)
+- ### [Unit](/stem/unit.md)：s (second), ms (millisecond)
 - ### [Ping](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md#ping)
     <img src="image/ping.png" width="60%">
 - ### [Delay](#delay-2)
 
 # Delay
-- ### [Unit](../../../../unit.md)：s (second), ms (millisecond)
+- ### [Unit](/stem/unit.md)：s (second), ms (millisecond)
 - ### Total Delay = $D_{proc}+D_{que}+D_{tran}+D_{prop}$
 - ### Types of Delay：[Processing Delay](#processing-delay-) → [Queuing Delay](#queuing-delay-) → [Transmission Delay](#transmission-delay) → [Propagation Delay](#propagation-delay)
     - ### Processing Delay ($D_{proc}$)

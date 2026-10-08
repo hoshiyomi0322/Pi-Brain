@@ -121,12 +121,6 @@
 |:---:|:---:|
 |`dirb`|
 
-# Tcpdump
-- ### [Tcpdump](tcpdump.md)
-        
-# Network Mapper (Nmap)
-- ### [Network Mapper (Nmap)](nmap.md)
-
 # [Secure Shell (SSH)](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/ssh.md)
 |Command|Description|
 |:---:|:---:|
@@ -140,6 +134,11 @@
 |Command|Description|
 |:---:|:---:|
 |`ifconfig`||
+
+# Network Tools
+- ### [Tcpdump](/stem/it/computer-science/computer-networking/networking-tools/network-tools/tcpdump.md)
+- ### [Network Mapper (Nmap)](/stem/it/computer-science/computer-networking/networking-tools/network-tools/nmap.md)
+- ### [Tailscale](/stem/it/computer-science/computer-networking/networking-tools/network-tools/tailscale.md)
 
 # Linux Firewall
 - ### [Uncomplicated Firewall (ufw)](./linux-firewall/ufw.md)

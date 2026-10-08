@@ -22,6 +22,9 @@
 # Networking Tools
 - ### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
 - ### [Wireshark](networking-tools/wireshark.md)
+- ### [Tcpdump](network-tools/tcpdump.md)
+- ### [Network Mapper (Nmap)](network-tools/nmap.md)
+- ### [Tailscale](network-tools/tailscale.md)
 
 # Network Access
 - ### [Internet Access](./network-access/internet-access.md)
