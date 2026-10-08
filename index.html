@@ -70,7 +70,7 @@
             plugins: [
                 function(hook, vm) {
                     hook.beforeEach(function(content) {
-                        return content.replace(
+                        content = content.replace(
                             /^(\s*(?:[-*+]\s+|\d+\.\s+)?#{1,6}\s+)(.*?)(?:\s+)?(?:\{:\s*#([A-Za-z][A-Za-z0-9_-]*)\}|\{#([A-Za-z][A-Za-z0-9_-]*)\})\s*$/gm,
                             function(match, prefix, title, id1, id2) {
                                 var id = id1 || id2;
@@ -98,6 +98,7 @@
                                 );
                             }
                         );
+                        return content;
                     });
                     
                     hook.afterEach(function(html) {
@@ -279,6 +280,8 @@
                                 window.piHeadingSearch.cleanSidebar();
                             }
                         }, 0);
+                    
+                        if (window.piHeadingSearch) window.piHeadingSearch.scrollToTarget();
                     });
                 }
             ]
@@ -430,124 +433,49 @@
         
                     this.initialized = true;
                 },
-                getMarkdownFiles: async function () {
-                    const apiUrl =
-                        'https://api.github.com/repos/hoshiyomi0322/Pi-Brain/git/trees/main?recursive=1';
-
-                    try {
-                        const response = await fetch(apiUrl);
-                    
-                        if (!response.ok) {
-                            console.warn(
-                                'Pi-Brain heading search: GitHub API request failed',
-                                response.status
-                            );
-                        
-                            return [];
-                        }
-                    
-                        const data = await response.json();
-                    
-                        if (!data.tree) {
-                            return [];
-                        }
-                    
-                        const files = data.tree
-                            .filter(function (item) {
-                                return (
-                                    item.type === 'blob' &&
-                                    item.path.toLowerCase().endsWith('.md')
-                                );
-                            })
-                            .map(function (item) {
-                                return item.path;
-                            });
-                        
-                        console.log(
-                            'Pi-Brain heading search files:',
-                            files
-                        );
-                        
-                        return files;
-                    } catch (error) {
-                        console.warn(
-                            'Pi-Brain heading search: unable to get GitHub files',
-                            error
-                        );
-                    
-                        return [];
-                    }
-                },
                 buildIndex: async function () {
-                    if (this.loading) {
-                        return;
-                    }
+                    if (this.loading) return;
                     this.loading = true;
-                    const files = await this.getMarkdownFiles();
-                    console.log(
-                        'Pi-Brain heading search: found',
-                        files.length,
-                        'Markdown files'
-                    );
-                    const results = [];
-                    const batchSize = 8;
-        
-                    for (
-                        let start = 0;
-                        start < files.length;
-                        start += batchSize
-                    ) {
-                        const batch = files.slice(
-                            start,
-                            start + batchSize
-                        );
-                        const batchResults = await Promise.all(
-                            batch.map(async function (file) {
-                                try {
-                                    const rawUrl =
-                                        'https://raw.githubusercontent.com/hoshiyomi0322/Pi-Brain/main/' +
-                                        file;
-                                    const response = await fetch(
-                                        rawUrl,
-                                        {
-                                            cache: 'force-cache'
-                                        }
-                                    );
-                                    if (!response.ok) {
-                                        return [];
-                                    }
-                                    const markdown = await response.text();
-                                    return headingSearch.parseMarkdown(
-                                        markdown,
-                                        file
-                                    );
-                                } catch (error) {
-                                    console.warn(
-                                        'Pi-Brain heading search:',
-                                        file,
-                                        error
-                                    );
-                                    return [];
-                                }
-                            })
-                        );
-                        batchResults.forEach(function (items) {
-                            results.push(...items);
-                        });
-                    }
-                    this.index = results;
-                    this.loading = false;
                     try {
-                        sessionStorage.setItem(
-                            'pi-brain-heading-index',
-                            JSON.stringify(this.index)
-                        );
+                        const response = await fetch('./web/search-index.json', { cache: 'no-cache' });
+                        if (!response.ok) throw new Error('HTTP ' + response.status);
+                        const items = await response.json();
+                        this.index = items
+                            const headings = items
+                                .map(function (item) {
+                                    const displayTitle = headingSearch.cleanHeadingText(item.title);
+                                    return {
+                                        file: item.file,
+                                        title: item.title,
+                                        displayTitle: displayTitle,
+                                        level: item.level,
+                                        searchText: displayTitle.toLowerCase()
+                                    };
+                                })
+                                .filter(function (item) { return item.displayTitle; });
+                            
+                            const files = Array.from(new Set(items.map(function (item) { return item.file; })));
+                            const docs = files.map(function (file) {
+                                const rawName = file.split('/').pop().replace(/\.md$/i, '');
+                                const name = rawName
+                                    .replace(/-/g, ' ')
+                                    .replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+                                return {
+                                    file: file,
+                                    title: name,
+                                    displayTitle: name,
+                                    level: 0,
+                                    searchText: (name + ' ' + rawName).toLowerCase()
+                                };
+                            });
+
+                            this.index = docs.concat(headings);
                     } catch (error) {
-                        console.warn(
-                            'Unable to cache heading index.'
-                        );
+                        console.warn('Pi-Brain heading search: unable to load index', error);
                     }
+                    this.loading = false;
                 },           
+                
                 cleanHeadingText: function (text) {
                     let result = String(text);
                     result = result.replace(
@@ -599,68 +527,6 @@
                             }
                         });
                 },
-                
-                parseMarkdown: function (markdown, file) {
-                    const results = [];
-                    markdown = markdown.replace(
-                        /```[\s\S]*?```/g,
-                        ''
-                    );
-                    markdown = markdown.replace(
-                        /~~~[\s\S]*?~~~/g,
-                        ''
-                    );
-                    markdown = markdown
-                        .replace(/<li\b[^>]*>/gi, '\n')
-                        .replace(/<\/li>/gi, '\n')
-                        .replace(/<[^>]+>/g, ' ');
-
-                    const lines = markdown.split(/\r?\n/);
-
-                    lines.forEach(function (line) {
-                        let cleanedLine = line
-                            .replace(
-                                /^\s*[-*+]\s+/,
-                                ''
-                            )
-                            .trim();
-                        const match = cleanedLine.match(
-                            /^#{1,3}\s+(.+?)\s*$/
-                        );
-                    
-                        if (!match) {
-                            return;
-                        }
-                        const level = cleanedLine.match(
-                            /^(#{1,3})/
-                        )[1].length;
-                        const originalTitle = match[1]
-                            .replace(/\s+#+\s*$/g, '')
-                            .trim();
-                    
-                        if (!originalTitle) {
-                            return;
-                        }
-                        if (/\bexamples?\b/i.test(originalTitle)) {
-                            return;
-                        }
-                        const displayTitle =
-                            headingSearch.cleanHeadingText(
-                                originalTitle
-                            );
-                        if (!displayTitle) {
-                            return;
-                        }
-                        results.push({
-                            file: file,
-                            title: originalTitle,
-                            displayTitle: displayTitle,
-                            level: level,
-                            searchText: displayTitle.toLowerCase()
-                        });
-                    });
-                    return results;
-                },
 
                 search: function (keyword) {
                     const resultsContainer =
@@ -703,18 +569,19 @@
                                 .replace(/\.md$/i, '');
                             return `
                                 <a href="#"
-                                    class="pi-heading-search-result level-${item.level}"
-                                    data-file="${headingSearch.escapeAttribute(item.file)}"
-                                    data-title="${headingSearch.escapeAttribute(item.title)}"
-                                >
-                                    <span class="pi-heading-result-text">
-                                        ${headingSearch.escapeHTML(item.displayTitle)}
-                                    </span>
-                                    <span class="pi-heading-file">
-                                        ${headingSearch.escapeHTML(fileName)}
-                                    </span>
-                                </a>
-                            `;
+                                        class="pi-heading-search-result level-${item.level}"
+                                        data-file="${headingSearch.escapeAttribute(item.file)}"
+                                        data-title="${headingSearch.escapeAttribute(item.title)}"
+                                        data-doc="${item.level === 0 ? '1' : ''}"
+                                    >
+                                        <span class="pi-heading-result-text">
+                                            ${headingSearch.escapeHTML(item.displayTitle)}
+                                        </span>
+                                        <span class="pi-heading-file">
+                                            ${headingSearch.escapeHTML(fileName)}
+                                        </span>
+                                    </a>
+                                `;
                             
                         }).join('');
                     resultsContainer
@@ -729,6 +596,11 @@
         
                                     const file = this.dataset.file;
                                     const title = this.dataset.title;
+
+                                    if (this.dataset.doc === '1') {
+                                        window.location.hash = '#/' + file.replace(/\.md$/i, '');
+                                        return;
+                                    }
 
                                     headingSearch.target = {
                                         file: file,
@@ -889,20 +761,6 @@
                     await waitForSidebar();
                     self.createUI();
                     self.cleanSidebar();
-                    try {
-                        const cached = sessionStorage.getItem(
-                            'pi-brain-heading-index'
-                        );
-    
-                        if (cached) {
-                            self.index = JSON.parse(cached);
-                        }
-                    } catch (error) {
-                        console.warn(
-                            'Unable to load heading index:',
-                            error
-                        );
-                    }
                     if (self.index.length === 0) {
                         await self.buildIndex();
                     }
@@ -923,6 +781,7 @@
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markup-templating.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-rust.min.js"></script>
