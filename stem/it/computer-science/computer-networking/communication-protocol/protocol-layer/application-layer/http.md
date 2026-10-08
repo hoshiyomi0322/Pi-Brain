@@ -169,8 +169,8 @@
         - #### Third-Party Cookie：Created and stored by external domains, such as advertisers or trackers
             <img src="./image/third-party-cookie.png" width="50%">
 - ### Cookie Attribute
-    
-    
+    <img src="./image/cookie-attribute.png" width="70%">
+
     |Attribute|Description|
     |:---:|:---:|
     |`Domain=x`|The Host x allowed to receive the cookie|
