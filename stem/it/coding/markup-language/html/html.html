@@ -5,7 +5,7 @@
 -->
 
 <html>
-    
+
     <!--語意標籤-->
         <!-- 
         <header> 頁首
@@ -18,7 +18,7 @@
 
     <!-- head:網頁資訊 -->
     <head>
-        
+
         <!--
         <title> 網頁名稱
         <meta> 網頁 metadata
@@ -48,7 +48,7 @@
                     user-scalable: 用來設定是否允許使用者改變縮放比例
                     user-scalable=no: 不允許縮放
                     -->
-            
+
             <!-- robots:禁止網頁被搜尋引擎索引收錄 -->
             <meta name="robots" content="all">
                 <!--
@@ -111,7 +111,7 @@
             a&nbsp;b <br> <!-- &nbsp; Non-Breaking Space -->
             a&ensp;b <br> <!-- &ensp; en space -->
             a&emsp;b <br> <!-- &emsp; em space -->
-        
+
         <br> <!-- br:換行 -->
         <hr> <!-- hr:水平線 -->
 
@@ -130,7 +130,7 @@
                 _top: 在最頂層父視窗開啟
                 framename: 指定在哪個框架中開啟
                 -->
-            
+
             <!-- rel:指定當前頁面和連結目標彼此之間的關係 -->
             <a rel="nofollow noopener" href="https://google.com/">link text</a><br>
                 <!-- 可用空白分開多個值 -->
@@ -150,7 +150,7 @@
 
             <!-- tel:電話號碼連結 -->
             <a href="tel:0983011426">連絡電話</a><br>
-            
+
         <!-- img:圖片 -->
         <img src="rickroll.gif" title="html" alt="html" width="100" height="100"><br>
             <!--
@@ -169,13 +169,13 @@
             height: 指定影片顯示高度(單位:像素)
             controls: 指定是否顯示影音控制面板
             -->
-            
+
             <!-- poster: 指定預覽圖 -->
             <video src="rickroll.mp4" poster="rickroll.jpg" width="300" heizght="300" controls></video><br>
 
             <!-- loop:控制是否重複播放 -->
             <video src="rickroll.mp4" width="300" heizght="300" controls loop></video><br>
-                
+
             <!-- muted:控制是否靜音 -->
             <video src="rickroll.mp4" width="300" heizght="300" controls muted></video><br>
 
@@ -188,7 +188,7 @@
 
             <!-- loop:控制是否重複播放 -->
             <audio src="rickroll.mp3" controls loop></audio><br>
-            
+
             <!-- muted:控制是否靜音 -->
             <audio src="rickroll.mp3" controls muted></audio><br>
 
@@ -219,7 +219,7 @@
 
         <!--表格-->
         <table  style="border:3px #cccccc solid;" cellpadding="10" border='1'>
-            
+
             <!-- thead:表格表頭區塊 -->
             <thead>
                 <caption>表格標題</caption>  <!--表格標題-->
@@ -265,7 +265,7 @@
             <select name="欄位名稱"></select><br> <!-- name:欄位名稱 -->
             <select disabled></select><br> <!-- disabled:將欄位設定為禁用狀態 -->
             <select required></select><br> <!-- required:設定為必填欄位 -->
-                
+
                 <!-- multiple:設定選項可被多選 -->
                 <select multiple>
                     <option>多選1</option> <!--當有設定multiple時，size預設是4-->
@@ -340,7 +340,7 @@
             <input type="tel" placeholder="電話號碼輸入欄位"><br> <!-- tel:電話號碼輸入欄位 -->
             <input type="url" placeholder="網址輸入欄位"><br> <!-- url:網址輸入欄位 -->
             <input type="email" placeholder="電子郵件輸入欄位"><br> <!-- email:電子郵件輸入欄位 -->
-            
+
                 <!-- date:日期輸入欄位 -->
                 <input type="date" value="2006-03-14" max="2022-08-16" min="2000-05-20" step="5"><br>
                     <!-- 日期格式: yyyy-mm-dd -->
@@ -350,7 +350,7 @@
                         min:可以輸入的最早日期
                         step:控制日期元件一次跳動的幅度(單位:天)
                         -->
-                
+
                 <!-- time:時間輸入欄位 -->
                 <input type="time" value="05:20:11" max="08:16:17" min="03:14:15" step="5"><br>
                     <!-- 時間格式: hh:mm:ss (24hr) -->
@@ -360,7 +360,7 @@
                         min:可以輸入的最早時間
                         step:控制時間元件一次跳動的幅度(單位:秒)
                         -->
-                
+
                 <!-- number:數字輸入欄位 -->
                 <input type="number" value="69" max="1024" min="-1024" step="3.14"><br>
                     <!--
@@ -379,14 +379,14 @@
                     min:範圍中可選的最小值
                     step:控制數字元件一次跳動的幅度
                     -->
-                
+
                 <!-- color:顏色選擇器 -->
                 <input type="color" value="#ff6969"><br>
                     <!-- 顏色格式: #rrggbb -->
                         <!--
                         value:預設顏色
                         -->
-                
+
                 <!-- pattern:表單欄位驗證 -->
                 <input type="email" pattern=".+@gmil.com"><br>
                     <!--
@@ -422,10 +422,10 @@
                         video/* :指任何影片檔
                         image/* :指任何圖檔
                         -->
-                
+
                 <input type="file" multiple><br>
                     <!-- multiple:一次可同時選多個檔案上傳 -->
-                
+
                 <input type="file" accept="image/*" capture><br>
                     <!-- capture:可用來開啟使用手機的照相機鏡頭 -->
                         <!--
@@ -443,7 +443,7 @@
             <input type="submit"><br> <!-- submit:表單的送出按鈕 -->
             <input type="reset"><br> <!-- reset:重設表單狀態 -->
             <input type="hidden" value="hidden"><br> <!-- hidden:隱藏資料欄位，value:指定回傳值 -->
-        
+
         <!-- textarea:表單多行文字輸入欄位 -->
         <textarea>初始值</textarea><br> <!-- 指定初始值 -->
         <textarea name="html"></textarea><br> <!-- name:欄位名稱 -->
@@ -455,7 +455,7 @@
         <textarea minlength="10" placeholder="最少輸入10個字"></textarea><br> <!-- minlength:設定最少需要輸入多少字 -->
         <textarea rows="10"></textarea><br> <!-- rows:設定輸入欄位的高度是幾行文字，預設是 2 -->
         <textarea cols="100"></textarea><br> <!-- cols:設定輸入欄位的寬度是多少文字，預設是 20 --> 
-        
+
         <!-- span:行內容器 -->
         <span style="color:red">you</span>
         <p>Never gonna give 

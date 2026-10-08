@@ -48,7 +48,7 @@
         - #### [Standardization](../../../statistics/descriptive-statistics.md#standardization)：$\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right) \xrightarrow{Standardize} Z\sim N\left(0,~1\right)$
         - #### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}$
             - $SE = \href{#/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator?id=standard-error-se}{\text{Standard Error (SE)}}$
-    
+
 - ### Law of Large Numbers
 
 # Random Process (Stochastic Process)

@@ -1,7 +1,7 @@
 # Internet Service Provider (ISP)
 - ### Tier 1 ISP → Tier 2 ISP → [Tier 3 ISP (Access ISP)](#tier-3-isp-access-isp--end-systems)
     <img src="./image/isp.png" width="60%">
-    
+
     - ### Tier 3 ISP (Access ISP) → End Systems
         <img src="./image/tier-3-isp.png" width="80%">
 - ### Traffic Exchange (between ISP)

@@ -30,7 +30,7 @@
         3. [TCP](../transport-layer/tcp.md) connection closed
 - ### Pipelining ([HTTP/1.1](#http11--http2--http3))
     <img src="image/http-pipelining.png" width="50%">
-    
+
     - #### [HTTP HOL Blocking](../../../network-performance/network-performance.md#types-of-hol-blocking)
 - ### Multiplexing over a Single [TCP](../transport-layer/tcp.md) Connection ([HTTP/2](#http11--http2--http3))
     <img src="image/http-multiplexing.png" width="60%">

@@ -1,6 +1,6 @@
 # Graph Data Structure
 - ### Undirected Graph
- 
+
 - ### Directed Graph
 
     - ### [Tree Data Structure](./tree/tree.md)
@@ -9,7 +9,7 @@
 - ### [Regular Graph](#regular-graph-1)
     - ### Complete Graph
 - ### Weighted Graph：edges have edge weight
- 
+
 
 # Regular Graph
 - ### Regular Graph(undirected)：every vertex has the same degree
@@ -17,18 +17,18 @@
 - ### Regular Graph(directed)：every vertex has the same indegree and outdegree
 - ### K-Regular Graph：(degree=k)的Regular Graph
 - ### Complete Graph：每一對vertices都由一個edge相連
- 
+
 
 # Elements of Graph
 - ### `G(V,E)`
 - ### Vertex
 - ### Edge
     - ### Multiple Edges
-    
+
     - ### Cycle
-    
+
     - ### Loop
- 
+
 - ### Edge Weight
 - ### Neighbor
 - ### Degree：與該vertex相連的Edge的數量

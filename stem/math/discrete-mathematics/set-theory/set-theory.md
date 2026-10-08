@@ -56,10 +56,10 @@
     - $A\cap A^\prime=\emptyset$
 - ### [De Morgan's Laws](../mathematical-logic/mathematical-logic.md#de-morgans-laws)
     - $\left(A\cap B\right)^\prime=A^\prime\cup B^\prime$
-        
+
         <img src="./image/de-morgans-laws-1.png" width="30%">
     - $\left(A\cup B\right)^\prime=A^\prime\cap B^\prime$
-        
+
         <img src="./image/de-morgans-laws-2.png" width="30%">
 
 # Inclusion–Exclusion Principle

@@ -40,5 +40,5 @@
 - ### Example：$\int{\cos^4{x}\,dx}$
     - ### [Power Reduction Formulas](/stem/math/trigonometric-and-hyperbolic-functions/trigonometric-functions.md#power-reduction-formulas)：$\int{\cos^4{x}\,dx} = \int{\left(\frac{1+\cos{2x}}{2}\right)^2\,dx}$
     - ### $\int{\left(\frac{1+\cos{2x}}{2}\right)^2\,dx} = \int{\frac{1}{4}\left(1+\cos{2x}\right)^2\,dx} = \int{\frac{1}{4}\left(\cos^2{2x}+2\cos{2x}+1\right)\,dx} = \frac{1}{4}\left(\int{\cos^2{2x}\,dx}+2\int{\cos{2x}\,dx}+\int{1\,dx}\right)$
-    
+
 

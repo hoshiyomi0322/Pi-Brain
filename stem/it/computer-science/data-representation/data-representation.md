@@ -94,5 +94,5 @@
 
 # Text Data
 - ### [Character Encoding](encoding.md#character-encoding)
-    
+
 

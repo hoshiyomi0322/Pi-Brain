@@ -141,7 +141,7 @@
 
 # Escape Character
 - eg
-    
+
     \# heading
     ```md
     \# heading
@@ -151,7 +151,7 @@
 - ### Markdown supports HTML
 - ### LaTex
     <h3>text</h>
-    
+
     ```md
     <h1>text</h1>
     ```

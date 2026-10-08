@@ -76,7 +76,7 @@
     signal sig_1 : std_logic; -- signal signal_name:data type;
     signal sig_1 : std_logic := '0'; -- sig_1 <= '0'
     signal sig_1 : std_logic range 0 to 5 := '1';
-    
+
     -- Signal Assignment
     sig_1 <= '1';
     ```
@@ -86,7 +86,7 @@
         -- Declare
         signal sig_1 : std_logic_vector(18 downto 0);
         signal sig_1 : std_logic_vector(3 downto 0) := "0001"; -- sig_1 <= "0001"
-        
+
         -- Signal Assignment
         sig_1 <= "1001";
         sig_1(3) <= '0'; -- sig_1 <= "x…x0xxx"
@@ -103,7 +103,7 @@
     variable var_1 : integer; -- variable variable_name:data type;
     variable var_1 : integer := 0; -- var_1 <= 0
     variable var_1 : integer range 0 to 5 := 5;
-    
+
     -- Variable Assignment
     var_1 := 67;
     ```
@@ -141,7 +141,7 @@
     architecture arch_name of entity_name is
         -- signal declare area
         signal sig_1 : std_logic;
-    
+
     begin
         -- statements;
     end arch_name;
@@ -163,7 +163,7 @@
         sig_1 => sig_a,
         sig_2 => sig_b
     );
-    
+
     -- relative position
     Label_name: element_name port map(sig_a,sig_b);
     ```
@@ -179,7 +179,7 @@
             sig_2 : out std_logic
         );
     end element_1;
-    
+
     architecture arch_2 of element_1 is
         -- signal declare area
     begin
@@ -207,7 +207,7 @@
             );
         end component;
         signal sig_c : std_logic;
-    
+
     begin
         Label_1: element_1 port map(sig_a,sig_c); -- port map
         Label_2: element_1 port map(sig_c,sig_b); -- port map
@@ -282,7 +282,7 @@
 - ### Library
     ```vhdl
     library library_name;
-    
+
     -- eg
     library ieee;
     ```
@@ -291,7 +291,7 @@
     package pack_name is
         -- declare area
     end pack_name;
-    
+
     package body pack_name is
         -- statements;
     end pack_name;
@@ -300,7 +300,7 @@
         ```vhdl
         use library_name.pack_name.item;
         use library_name.pack_name.all; --all
-        
+
         -- eg
         library ieee;
         use ieee.std_logic_1164.all;

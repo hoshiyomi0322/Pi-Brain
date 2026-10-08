@@ -6,7 +6,7 @@
 # Architectural Model
 - ### Client–Server model
     <img src="./image/client–server-model.png" width="30%">
-    
+
     - ### [Remote Procedure Call (RPC)](#remote-procedure-call-rpc-1)
     - ### Applications of Client–Server model
         - ### file server

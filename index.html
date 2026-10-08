@@ -8,7 +8,7 @@
     <meta name="description" content="☄️すいちゃんは今日もかわいい！！！☄️">
 
     <title>Pi-Brain</title>
-    
+
     <link rel="icon" type="image/png" href="./web/icon-64.png">
     <link rel="manifest" href="./web/manifest.json">
     <link rel="stylesheet" href="./web/blue.css">
@@ -29,7 +29,7 @@
                 skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
                 enableMenu: false
             },
-            
+
             <!-- SVG output configuration -->
             svg: {
                 fontCache: 'global',
@@ -58,7 +58,7 @@
             auto2top: true,
             maxLevel: 1,
             relativePath: true,
-            
+
             // LaTeX configuration for Docsify
             latex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -67,7 +67,7 @@
                     throwOnError: false,
                 }
             },
-            
+
             plugins: [
                 function(hook, vm) {
                     hook.beforeEach(function(content) {
@@ -101,7 +101,7 @@
                         );
                         return content;
                     });
-                    
+
                     hook.afterEach(function(html) {
                         var container = document.createElement('div');
                         container.innerHTML = html;
@@ -155,19 +155,19 @@
                                 marker.parentNode.removeChild(marker);
                             }
                         }
-                        
+
                         // Set the document title based on the current file
                         var name = '';
                         if (vm.route.file) {
                             var rawName = vm.route.file.split('/').pop().replace('.md', '');
                             var spacedName = rawName.replace(/-/g, ' ');
-                        
+
                             name = spacedName.replace(/\b\w/g, function(char) {
                                 return char.toUpperCase();
                             });
                             document.title = 'Pi-Brain：' + name;
                         }
-                    
+
                         // Update the sidebar name subtitle based on the current file
                         var appNameContainer = document.querySelector('.app-name');
                         if (appNameContainer) {                       
@@ -189,7 +189,7 @@
                                 appNameContainer.appendChild(subTitleElement);
                             }
                         }
-                    
+
                         // Adjust image paths to be relative to the current file's directory
                         var images = document.querySelectorAll('#main img');
                         images.forEach(function(img) {
@@ -204,13 +204,13 @@
                                 }
                             }
                         });
-                    
+
                         // Adjust links to other markdown files to be relative to the current file's directory
                         var currentFile = vm.route.file;
                         if (currentFile) {
                             var links = document.querySelectorAll('#main a[href*=".md"]');
                             var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-                        
+
                             links.forEach(function(a) {
                                 var href = a.getAttribute('href');
                                 if (/^(http|https|\/#\/|\/)/.test(href)) return;
@@ -236,7 +236,7 @@
                                 a.setAttribute('href', newHref);
                             });
                         }
-                        
+
                         document.querySelectorAll('.markdown-section table').forEach(function(table) {
                             if (table.parentElement &&
                                 table.parentElement.classList.contains('pi-table-scroll')) {
@@ -281,7 +281,7 @@
                                 window.piHeadingSearch.cleanSidebar();
                             }
                         }, 0);
-                    
+
                         if (window.piHeadingSearch) window.piHeadingSearch.scrollToTarget();
                     });
                 }
@@ -326,25 +326,25 @@
                     if (document.querySelector('.pi-heading-search')) {
                         return;
                     }
-                
+
                     const sidebar = document.querySelector('.sidebar');
-                
+
                     if (!sidebar) {
                         console.warn(
                             'Pi-Brain heading search: sidebar not found.'
                         );
                         return;
                     }
-                
+
                     const container = document.createElement('div');
-                
+
                     container.className = 'pi-heading-search';
-                
+
                     container.innerHTML = `
                         <div class="pi-heading-search-title">
                             ☄️ Search
                         </div>
-                    
+
                         <div class="pi-heading-search-input-wrapper">
                             <input
                                 type="text"
@@ -353,17 +353,17 @@
                                 autocomplete="off"
                                 spellcheck="false"
                             >
-                        
+
                             <button
                                 type="button"
                                 class="pi-heading-search-clear"
                                 aria-label="Clear search"
                             >×</button>
                         </div>
-                    
+
                         <div class="pi-heading-search-results"></div>
                     `;
-        
+
                     sidebar.appendChild(container);
                     container.addEventListener('touchstart', function (event) {
                         event.stopPropagation();
@@ -413,28 +413,28 @@
                     input.addEventListener('input', function () {
                         headingSearch.search(this.value);
                     });
-        
+
                     clearButton.addEventListener('click', function () {
                         input.value = '';
-        
+
                         headingSearch.search('');
-        
+
                         input.focus();
                     });
-        
+
                     input.addEventListener('keydown', function (event) {
                         if (event.key === 'Escape') {
                             input.value = '';
-        
+
                             headingSearch.search('');
-        
+
                             input.blur();
                         }
                     });
-        
+
                     this.initialized = true;
                 },
-                
+
                 buildIndex: async function () {
                     if (this.loading) return;
                     this.loading = true;
@@ -442,7 +442,7 @@
                         const response = await fetch('./web/search-index.json', { cache: 'no-cache' });
                         if (!response.ok) throw new Error('HTTP ' + response.status);
                         const items = await response.json();
-                    
+
                         const docs = new Map();
                         Array.from(new Set(items.map(function (i) { return i.file; }))).forEach(function (file) {
                             const rawName = file.split('/').pop().replace(/\.md$/i, '');
@@ -459,16 +459,16 @@
                                 searchText: (name + ' ' + rawName).toLowerCase()
                             });
                         });
-                    
+
                         const FULL_LINK = /^\[([^\]]+)\]\(\s*([^)\s]+)(?:\s+"[^"]*")?\s*\)$/;
                         const headings = [];
-                    
+
                         items.forEach(function (item) {
                             if (!(item.level > 0)) return;
-                        
+
                             const displayTitle = headingSearch.cleanHeadingText(item.title);
                             if (!displayTitle) return;
-                        
+
                             const entry = {
                                 file: item.file,
                                 title: item.title,
@@ -478,7 +478,7 @@
                                 linkAnchor: '',
                                 searchText: displayTitle.toLowerCase()
                             };
-                        
+
                             const full = item.title.match(FULL_LINK);
                             if (full) {
                                 const target = headingSearch.resolveLink(item.file, full[2]);
@@ -499,17 +499,17 @@
                                     return;
                                 }
                             }
-                        
+
                             headings.push(entry);
                         });
-                    
+
                         this.index = Array.from(docs.values()).concat(headings);
                     } catch (error) {
                         console.warn('Pi-Brain heading search: unable to load index', error);
                     }
                     this.loading = false;
                 },
-                
+
                 resolveLink: function (fromFile, href) {
                     if (!href || /^(https?:|mailto:|#|\/)/i.test(href)) return null;
                     const parts = href.split('#');
@@ -517,7 +517,7 @@
                     const anchor = parts[1] || '';
                     try { rel = decodeURI(rel); } catch (e) {}
                     if (!/\.md$/i.test(rel)) return null;
-                                
+
                     const folder = fromFile.indexOf('/') === -1
                         ? ''
                         : fromFile.substring(0, fromFile.lastIndexOf('/'));
@@ -587,32 +587,32 @@
                         document.querySelector(
                             '.pi-heading-search-results'
                         );
-        
+
                     if (!resultsContainer) {
                         return;
                     }
-        
+
                     keyword = keyword.trim().toLowerCase();
-        
+
                     if (!keyword) {
                         resultsContainer.innerHTML = '';
                         return;
                     }
-        
+
                     const results = this.index.filter(
                         function (item) {
                             return item.searchText.includes(keyword);
                         }
                     );
                     const visibleResults = results.slice(0, 100);
-        
+
                     if (visibleResults.length === 0) {
                         resultsContainer.innerHTML = `
                             <div class="pi-heading-search-empty">
                                 No results found
                             </div>
                         `;
-        
+
                         return;
                     }
                     resultsContainer.innerHTML =
@@ -634,7 +634,7 @@
                                         </span>
                                     </a>
                                 `;
-                            
+
                         }).join('');
                     resultsContainer
                         .querySelectorAll(
@@ -645,7 +645,7 @@
                                 'click',
                                 function (event) {
                                     event.preventDefault();
-        
+
                                     const file = this.dataset.file;
                                     const title = this.dataset.title;
 
@@ -702,7 +702,7 @@
                             });
                         }
                 },          
-                
+
                 scrollToTarget: function () {
                     if (!this.target) {
                         return;
@@ -742,7 +742,7 @@
                                 found.classList.remove(
                                     'pi-heading-search-highlight'
                                 );
-                            
+
                             }, 1500);
                             headingSearch.target = null;
                             return;
@@ -780,18 +780,18 @@
                         .replace(/"/g, '&quot;')
                         .replace(/'/g, '&#039;');
                 },
-        
+
                 escapeAttribute: function (value) {
                     return this.escapeHTML(value);
                 },
-            
+
                 init: async function () {
                     const self = this;
                     function waitForSidebar() {
                         return new Promise(function (resolve) {
                             const existingSidebar =
                                 document.querySelector('.sidebar');
-    
+
                             if (existingSidebar) {
                                 resolve();
                                 return;
@@ -800,13 +800,13 @@
                                 new MutationObserver(function () {
                                     const sidebar =
                                         document.querySelector('.sidebar');
-    
+
                                     if (sidebar) {
                                         observer.disconnect();
                                         resolve();
                                     }
                                 });
-    
+
                             observer.observe(
                                 document.body,
                                 {

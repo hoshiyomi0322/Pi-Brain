@@ -14,7 +14,7 @@
 - ### Central Processing Unit (CPU)
     - ### [Datapath](./datapath/datapath.md)
         - #### Arithmetic Logic Unit (ALU)
-            
+
             <img src="./image/alu.png" width="45%">
         - #### Register
     - ### Control Unit
@@ -30,7 +30,7 @@
 # Chipset
 - ### Northbridge-Southbridge Architecture
     <img src="./image/northbridge-southbridge-architecture.png" width="50%">
-    
+
     - #### Northbridge (Memory Controller Hub, MCH)
     - #### Southbridge (I/O Control Hub, ICH)
     - #### Front Side Bus (FSB)：Northbridge $\xrightarrow{FSB}$ CPU
@@ -49,11 +49,11 @@
     - #### Control bus
 - ### Universal Serial Bus (USB)
     <img src="./image/usb.png" width="45%">
-    
+
     - #### [USB Flash Drive](./memory/non-volatile-memory.md#usb-flash-drive)
 - ### Serial Advanced Technology Attachment (SATA)
     <img src="./image/sata.png" width="30%">
-    
+
     - #### External SATA (eSATA)
 - ### Small Computer System Interface (SCSI)
     <img src="./image/scsi.png" width="50%">
@@ -61,13 +61,13 @@
     <img src="./image/sas.png" width="35%">
 - ### Peripheral Component Interconnect (PCI)
     <img src="./image/pci.png" width="50%">
-    
+
     - #### PCI Express (PCIe)
 
 # Others
 - ### Motherboard
     <img src="./image/motherboard.png" width="60%">
-    
+
     - #### Advanced Technology Extended (ATX)
 - ### Computer Case
     <img src="./image/computer-case.png" width="30%">

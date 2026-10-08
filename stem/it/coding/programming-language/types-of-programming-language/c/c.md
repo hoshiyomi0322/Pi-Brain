@@ -36,7 +36,7 @@
         int data;
         struct Node *next;
     };
-    
+
     // insertBack
     void insertBack(struct Node **head, int value){
         struct Node *newNode=malloc(sizeof(struct Node));
@@ -53,7 +53,7 @@
             ptr->next=newNode;
         }
     }
-    
+
     // showall
     void showall(struct Node *p){
         while(p!=NULL){
@@ -61,7 +61,7 @@
             p=p->next;
         }
     }
-    
+
     int main(){
         struct Node *head=NULL;
         insertBack(&head,35);

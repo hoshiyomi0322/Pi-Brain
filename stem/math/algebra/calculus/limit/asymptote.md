@@ -9,6 +9,6 @@
 # Oblique Asymptote(Slant Asymptote)：$y=ax+b$
 - ### definition
 - ### Existence of Asymptotes
-  
+
 # Example
 

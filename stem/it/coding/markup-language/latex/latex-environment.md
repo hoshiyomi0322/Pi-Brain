@@ -29,7 +29,7 @@
 - ### Command
     ```latex
     \begin{center}
-        
+
     \end{center}
     ```
 

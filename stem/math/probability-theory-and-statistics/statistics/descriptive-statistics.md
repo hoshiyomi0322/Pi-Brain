@@ -33,13 +33,13 @@
 - ### Interquartile Range
     - $IQR=Q_{3}-Q_{1}=P_{75}-P_{25}$
 - ### Deviation from the Mean
-    
+
     - $D_i=x_i-μ$
 - ### Mean Absolute Deviation (MAD)
     - $M_D=\frac{\sum\limits_{i=1}^{n}|D_i|}{n}=\frac{\sum\limits_{i=1}^{n}|x_i-μ|}{n}$
 - ### [Variance](variance.md#variance)
 - ### Standard Deviation (SD)
-    
+
     - $\sqrt{Var\left(x\right)}=σ=\sqrt{σ^2}=\sqrt{\frac{\sum\limits_{i=1}^{n}\left(x_i-μ\right)^2}{n}}=\sqrt{\frac{\sum\limits_{i=1}^{n}{x_i}^2}{n}-μ^2}$
     - $\sqrt{Var\left(X\right)}=\sqrt{E\left[\left(X-μ\right)^2\right]}=\sqrt{E\left[\left(X-E\left[X\right]\right)^2\right]}=\sqrt{E\left[X^2\right]-E\left[X\right]^2}$
 - ### Coefficient of Variation (CV)：$c_v=\frac{σ}{μ}$

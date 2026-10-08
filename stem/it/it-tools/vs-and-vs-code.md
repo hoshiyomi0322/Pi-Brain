@@ -12,6 +12,8 @@
     |`Ctrl + P`|Quick Open, Go to File|
     |`Ctrl + Shift + P`, `F1`|Show Command Palette|
     |`Ctrl + ,`|User Settings|
+    |`Ctrl + Shift + F`|Global Find |
+    |`Ctrl + Shift + H`|Global Replace|
 - ### Line
     |Shortcuts|Function|
     |:---:|:---:|

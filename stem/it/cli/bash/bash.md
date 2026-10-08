@@ -29,12 +29,12 @@
 - ### Example
     ```bash
     # Current Path：/Root/1/2/3/4/4-1.txt
-    
+
     / # /Root
-    
+
     . # /Root/1/2/3/4
     ./4-2.txt # /Root/1/2/3/4/4-2.txt
-    
+
     .. # /Root/1/2/3
     ../.. # /Root/1/2
     ../../.. # /Root/1

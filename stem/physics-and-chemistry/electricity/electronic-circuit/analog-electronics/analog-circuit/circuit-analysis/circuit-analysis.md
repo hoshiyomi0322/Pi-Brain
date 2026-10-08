@@ -18,7 +18,7 @@
         - ### 負(耗電)：電阻、與電流方向不一樣的電池
     - ### Example：$V_S-IR_1-IR_2-IR_3=0$
         <img src="./image/kvl.png" width="30%">
- 
+
 
 # Node Analysis
 - ### Supernode

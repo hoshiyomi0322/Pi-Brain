@@ -10,7 +10,7 @@
     - #### [SRAM](volatile-memory.md#static-ram-sram)
     - #### [ROM](non-volatile-memory.md#read-only-memory-rom)
         - run BIOS
-            
+
             <img src="./image/bios.png" width="15%">
 - ### Disk Storage
     - #### [SSD](non-volatile-memory.md#solid-state-drive-ssd)

@@ -12,11 +12,11 @@
 - ### Blaise Pascal
     - ### Pascaline (Pascal's calculator)
         <img src="./image/pascaline.png" width="40%">
-        
+
         - used for：addition, subtraction
         - type：gear-driven mechanical calculator
         - Components of the Pascaline
-            
+
             <img src="./image/components-of-the-pascaline.png" width="60%">
 
             |Component|Function|
@@ -24,7 +24,7 @@
             |Gear|registers and accumulates numbers|
             |Sautoir|gravity-assisted carry mechanism, automates the carry operation|
             |Dial, Wheel|input interface, turn with a stylus to enter numbers|
-    
+
     - ### Pascal's Triangle
     - ### Pascal's Principle
 - ### Gottfried Wilhelm von Leibniz
@@ -48,7 +48,7 @@
         - principle：finite difference method
     - ### Analytical Engine
         <img src="./image/analytical-engine.png" width="40%">
-        
+
         - Components of the Analytical Engine
             |Component|Function|
             |:---:|:---:|
@@ -80,7 +80,7 @@
         <img src="./image/harvard-mark-i.png" width="40%">
 
         - based on [Harvard Architecture](../computer-hardware/computer-hardware.md#harvard-architecture)
- 
+
     - ### Electronic Numerical Integrator And Computer (ENIAC)
         <img src="./image/eniac.png" width="40%">
 
@@ -122,19 +122,19 @@
 # Second Generation (1959~1965)
 - ### [Transistor](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor)
     <img src="./image/transistor.png" width="20%">
-    
+
     - #### type：electronic component
     - #### pros：small, reliable, fast, durable, cheap
     - #### replaced [Vacuum Tubes](#vacuum-tubes)
 - ### Magnetic Core Memory
     <img src="./image/magnetic-cores.png" width="20%">
-    
+
     - #### type：[Non-Volatile RAM](../computer-hardware/memory/non-volatile-memory.md#non-volatile-ram-nvram)
         - information available instantly
     - #### replaced [Magnetic Drums](#magnetic-drums)
 - ### Magnetic Disks
     <img src="./image/magnetic-disks.png" width="25%">
-    
+
     - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
         - data can be accessed directly
     - #### replaced [Magnetic Tape](#magnetic-tape)
@@ -148,7 +148,7 @@
     - #### replaced Printed Circuit Boards
 - ### Semiconductor Memory
    <img src="./image/semiconductor-memory.png" width="25%">
-    
+
     - #### type：[Volatile Memory device](../computer-hardware/memory/volatile-memory.md)
     - #### uses [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) and capacitors
 - ### Terminal
