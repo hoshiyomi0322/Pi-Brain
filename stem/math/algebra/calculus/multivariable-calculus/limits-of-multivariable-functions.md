@@ -1,7 +1,5 @@
-- ### Limits of Multivariable Functions：$\lim\limits_{\left(x_1,~\cdots,~x_n\right)\to \left(a_1,~\cdots,~a_n\right)}{f\left(x_1,~\cdots,~x_n\right)}$
-
 # Path Limit
-- ### Limits of Multivariable Functions
+- ### Limits of Multivariable Functions：$\lim\limits_{\left(x_1,~\cdots,~x_n\right)\to \left(a_1,~\cdots,~a_n\right)}{f\left(x_1,~\cdots,~x_n\right)}$ {#limits-of-multivariable-functions}
     |Path Limit|Limits of Multivariable Functions|
     |:---:|:---:|
     |All Path Limits = $L$|$\lim{f\left(x_1,~\cdots,~x_n\right)}=L$|
