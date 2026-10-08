@@ -156,4 +156,5 @@ sudo apt-get purge <package-name>
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
 - ### [Terminal Multiplexer (tmux)](./linux-development-tools/tmux.md)
 - ### [Conda](./linux-development-tools/conda.md)
+- ### [Node.js Tools](/stem/it/software-development/back-end/node-js/node-js-tools.mdnode-js-tools.md)
 - ### [Ani-Cli](./linux-development-tools/ani-cli.md)
