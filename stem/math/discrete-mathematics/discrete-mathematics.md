@@ -2,6 +2,7 @@
 - ### [Propositional Logic](./mathematical-logic/propositional-logic.md)
 - ### [Predicate Logic](./mathematical-logic/predicate-logic.md)
 - ### [Proof Theory](./mathematical-logic/proof-theory.md)
+- ### [Rules of Inference](./mathematical-logic/rules-of-inference/rules-of-inference.md)
 
 # Set Theory
 - ### [Set Theory](./set-theory/set-theory.md)
