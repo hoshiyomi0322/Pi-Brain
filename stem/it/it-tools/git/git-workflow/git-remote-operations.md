@@ -14,12 +14,14 @@
 |Command|Description|Example|
 |:---:|:---:|:---:|
 |`git fetch`|||
+|`git fetch origin`|||
 
 
 # git pull
 |Command|Description|Example|
 |:---:|:---:|:---:|
 |`git pull`|||
+|`git pull origin main`|||
 
 
 # git clone
