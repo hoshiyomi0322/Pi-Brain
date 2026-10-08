@@ -434,6 +434,7 @@
         
                     this.initialized = true;
                 },
+                
                 buildIndex: async function () {
                     if (this.loading) return;
                     this.loading = true;
@@ -441,42 +442,94 @@
                         const response = await fetch('./web/search-index.json', { cache: 'no-cache' });
                         if (!response.ok) throw new Error('HTTP ' + response.status);
                         const items = await response.json();
-                        this.index = items
-                            const headings = items
-                                .map(function (item) {
-                                    const displayTitle = headingSearch.cleanHeadingText(item.title);
-                                    return {
-                                        file: item.file,
-                                        title: item.title,
-                                        displayTitle: displayTitle,
-                                        level: item.level,
-                                        searchText: displayTitle.toLowerCase()
-                                    };
-                                })
-                                .filter(function (item) { return item.displayTitle; });
-                            
-                            const files = Array.from(new Set(items.map(function (item) { return item.file; })));
-                            const docs = files.map(function (file) {
-                                const rawName = file.split('/').pop().replace(/\.md$/i, '');
-                                const name = rawName
-                                    .replace(/-/g, ' ')
-                                    .replace(/\b\w/g, function (c) { return c.toUpperCase(); });
-                                return {
-                                    file: file,
-                                    title: name,
-                                    displayTitle: name,
-                                    level: 0,
-                                    searchText: (name + ' ' + rawName).toLowerCase()
-                                };
+                    
+                        const docs = new Map();
+                        Array.from(new Set(items.map(function (i) { return i.file; }))).forEach(function (file) {
+                            const rawName = file.split('/').pop().replace(/\.md$/i, '');
+                            const name = rawName
+                                .replace(/-/g, ' ')
+                                .replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+                            docs.set(file.toLowerCase(), {
+                                file: file,
+                                title: name,
+                                displayTitle: name,
+                                level: 0,
+                                linkFile: file,
+                                linkAnchor: '',
+                                searchText: (name + ' ' + rawName).toLowerCase()
                             });
-
-                            this.index = docs.concat(headings);
+                        });
+                    
+                        const FULL_LINK = /^\[([^\]]+)\]\(\s*([^)\s]+)(?:\s+"[^"]*")?\s*\)$/;
+                        const headings = [];
+                    
+                        items.forEach(function (item) {
+                            if (!(item.level > 0)) return;
+                        
+                            const displayTitle = headingSearch.cleanHeadingText(item.title);
+                            if (!displayTitle) return;
+                        
+                            const entry = {
+                                file: item.file,
+                                title: item.title,
+                                displayTitle: displayTitle,
+                                level: item.level,
+                                linkFile: '',
+                                linkAnchor: '',
+                                searchText: displayTitle.toLowerCase()
+                            };
+                        
+                            const full = item.title.match(FULL_LINK);
+                            if (full) {
+                                const target = headingSearch.resolveLink(item.file, full[2]);
+                                const doc = target && docs.get(target.file.toLowerCase());
+                                if (doc) {
+                                    if (!target.anchor) {
+                                        if (doc.searchText.indexOf(entry.searchText) === -1) {
+                                            doc.searchText += ' ' + entry.searchText;
+                                        }
+                                        return;
+                                    }
+                                    entry.linkFile = doc.file;
+                                    entry.linkAnchor = target.anchor;
+                                }
+                            } else if (item.level === 1) {
+                                const self = docs.get(item.file.toLowerCase());
+                                if (self && self.displayTitle.toLowerCase() === displayTitle.toLowerCase()) {
+                                    return;
+                                }
+                            }
+                        
+                            headings.push(entry);
+                        });
+                    
+                        this.index = Array.from(docs.values()).concat(headings);
                     } catch (error) {
                         console.warn('Pi-Brain heading search: unable to load index', error);
                     }
                     this.loading = false;
-                },           
+                },
                 
+                resolveLink: function (fromFile, href) {
+                    if (!href || /^(https?:|mailto:|#|\/)/i.test(href)) return null;
+                    const parts = href.split('#');
+                    let rel = parts[0];
+                    const anchor = parts[1] || '';
+                    try { rel = decodeURI(rel); } catch (e) {}
+                    if (!/\.md$/i.test(rel)) return null;
+                                
+                    const folder = fromFile.indexOf('/') === -1
+                        ? ''
+                        : fromFile.substring(0, fromFile.lastIndexOf('/'));
+                    const segments = ((folder ? folder + '/' : '') + rel).split('/');
+                    const resolved = [];
+                    segments.forEach(function (s) {
+                        if (s === '..') resolved.pop();
+                        else if (s !== '.' && s !== '') resolved.push(s);
+                    });
+                    return { file: resolved.join('/'), anchor: anchor };
+                },
+
                 cleanHeadingText: function (text) {
                     let result = String(text);
                     result = result.replace(
@@ -570,7 +623,8 @@
                                         class="pi-heading-search-result level-${item.level}"
                                         data-file="${headingSearch.escapeAttribute(item.file)}"
                                         data-title="${headingSearch.escapeAttribute(item.title)}"
-                                        data-doc="${item.level === 0 ? '1' : ''}"
+                                        data-link-file="${headingSearch.escapeAttribute(item.linkFile || '')}"
+                                        data-link-anchor="${headingSearch.escapeAttribute(item.linkAnchor || '')}"
                                     >
                                         <span class="pi-heading-result-text">
                                             ${headingSearch.escapeHTML(item.displayTitle)}
@@ -595,8 +649,14 @@
                                     const file = this.dataset.file;
                                     const title = this.dataset.title;
 
-                                    if (this.dataset.doc === '1') {
-                                        window.location.hash = '#/' + file.replace(/\.md$/i, '');
+                                    const linkFile = this.dataset.linkFile;
+                                    if (linkFile) {
+                                        headingSearch.target = null;
+                                        window.location.hash =
+                                            '#/' + linkFile.replace(/\.md$/i, '') +
+                                            (this.dataset.linkAnchor
+                                                ? '?id=' + encodeURIComponent(this.dataset.linkAnchor)
+                                                : '');
                                         return;
                                     }
 
