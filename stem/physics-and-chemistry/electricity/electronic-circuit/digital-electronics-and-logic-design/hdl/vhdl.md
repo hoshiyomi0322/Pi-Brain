@@ -19,7 +19,7 @@
     |Less than or Equal to|`<=`|
     |Greater than or Equal to|`>=`|
 - ### Arithmetic Operator
-    |Operation|Operator|eg|
+    |Operation|Operator|Example|
     |:---:|:---:|:---:|
     |Plus|`+`|`a+b`|
     |Minus|`-`|`a-b`|
@@ -30,7 +30,7 @@
     |Remainder|`rem`|`a rem b`|
     |Absolute Value|`abs`|`abs a`|
 - ### Assignment Operator
-    |Operation|Operator|eg|
+    |Operation|Operator|Example|
     |:---:|:---:|:---:|
     |[Signal Assignment](#signal)|`<=`|`signal_name <= value`|
     |[Variable Assignment](#variable)|`:=`|`variable_name := value`|
@@ -38,7 +38,7 @@
     |Association/Mapping|`=>`|`port map(signal_1 => signal_2)`|
     |Concatenation|`&`|`element & element`|
 - ### Shift Operator
-    |Operation|Operator|eg|
+    |Operation|Operator|Example|
     |:---:|:---:|:---:|
     |Shift Left Logical|`sll`|
     |Shift Right Logical|`srl`|
@@ -47,7 +47,7 @@
     |Rotate Left|`rol`|
     |Rotate Right|`ror`|
 - ### `:`
-    |Operation|Format|eg|
+    |Operation|Format|Example|
     |:---:|:---:|:---:|
     |Label|`Label_name:`|`loop:`|
     |[Declare](#declare)|`name : data_type`|`signal sig_1 : std_logic`|
@@ -283,7 +283,7 @@
     ```vhdl
     library library_name;
 
-    -- eg
+    -- example
     library ieee;
     ```
 - ### Package
@@ -301,7 +301,7 @@
         use library_name.pack_name.item;
         use library_name.pack_name.all; --all
 
-        -- eg
+        -- example
         library ieee;
         use ieee.std_logic_1164.all;
         use ieee.std_logic_unsigned.all;

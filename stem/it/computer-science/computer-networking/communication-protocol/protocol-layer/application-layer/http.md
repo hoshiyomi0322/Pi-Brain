@@ -180,7 +180,7 @@
     |`Secure`|cookie can only be transmitted over an Encrypted Connection (HTTPS)|
     |`HttpOnly`|cookie cannot be accessed by Client-Side Scripting|
     |`SameSite=Strict`<br>`SameSite=Lax`<br>`SameSite=None`|Strict：sent for Same-Site requests only<br> Lax：sent for Safe Requests only<br> None：sent for All requests|
-    - eg
+    - Example
         ```http
         HTTP/1.1 200 OK
         Set-Cookie: SSID=Ap4P…GTEq; Domain=foo.com; Path=/; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly; SameSite=Strict

@@ -17,7 +17,7 @@
 - ### Common Time Complexities
     <img src="./image/time-complexity.png" width="60%">
 
-    |Time Complexity|$O()$<br>($a>1,~b>1$)|Name|eg|
+    |Time Complexity|$O()$<br>($a>1,~b>1$)|Name|Example|
     |:---:|:---:|:---:|:---:|
     |Faster|$O(1)$|Constant time||
     |$\downarrow$|$O(\log_a{n})$|Logarithmic time|[Binary search]()|

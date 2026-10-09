@@ -139,8 +139,8 @@
     ```
     ````
 
-# Escape Character
-- eg
+# [Escape Character](/stem/it/computer-science/data-representation/data-representation.md#escape-character)
+- Example
 
     \# heading
     ```md

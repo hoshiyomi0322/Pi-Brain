@@ -20,7 +20,7 @@
     |Less than or Equal to|`<=`|
     |Greater than or Equal to|`>=`|
 - ### Arithmetic Operator
-    |Operation|Operator|eg|
+    |Operation|Operator|Example|
     |:---:|:---:|:---:|
     |Plus|`+`|`a+b`|
     |Minus|`-`|`a-b`|
@@ -28,7 +28,7 @@
     |Divide|`/`|`a/b`|
     |Modulo|`%`|`a % b`|
 - ### Specialized Operators
-    |Operation|Operator|eg|
+    |Operation|Operator|Example|
     |:---:|:---:|:---:|
     |If the protocol/field/slice contain a value|`contains`|`http contains "https://www.google.com"`|
     |If the string match the given case|`matches`|`wsp.header.user_agent matches "sus"`|

@@ -23,7 +23,7 @@
     |Finite Union|$\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n$|
 
 # Set Relations
-|Set Operations|Notation|Definition|Venn Diagram|eg|
+|Set Operations|Notation|Definition|Venn Diagram|Example|
 |:---:|:---:|:---:|:---:|:---:|
 |Superset|$A\supseteq B$|$A\text{ is a superset of }B,~A\text{ contains }B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supseteq \set{1,~2}$|
 |Subset|$A\subseteq B$|$A\text{ is a subset of }B,~B\text{ contains }A$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subseteq \set{1,~2,~3}$|
