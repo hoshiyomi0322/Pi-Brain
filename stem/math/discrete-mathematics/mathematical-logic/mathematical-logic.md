@@ -96,3 +96,6 @@
 - ### Law of Identity：$p = p$
 - ### Law of Noncontradiction：$\neg\left(p\land \neg p\right)$
 - ### Law of Excluded Middle：$p\lor \neg p$
+
+# Boolean Satisfiability Problem (Propositional Satisfiability Problem, SAT)
+- ### SAT Solver
