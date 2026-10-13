@@ -30,6 +30,3 @@
 |Existential Instantiation (EI)|$\begin{array}{l} \exists x P\left(x\right) \\ \hline \therefore P\left(c\right)\text{ for some element }c \end{array}$|$\exists x P\left(x\right) \to P\left(c\right),~\text{ for some element }c$|
 |Existential Generalization (EG)|$\begin{array}{l} P\left(c\right)\text{ for some element }c \\ \hline \therefore \exists x P\left(x\right) \end{array}$|$P\left(c\right) \to \exists x P\left(x\right),~\text{ for some element }c$|
 
-# Mathematical Proof
-- ### [Mathematical Proof](mathematical-proof.md)
-

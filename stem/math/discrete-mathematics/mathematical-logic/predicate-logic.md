@@ -18,7 +18,7 @@
     |:---:|:---:|
     |$\forall x P\left(x\right)$|$\text{For all }x, P(x)\text{ holds}$|
     |$\exists x P\left(x\right)$|$\text{There Exists at least one }x, P(x)\text{ holds}$|
-    |$\exists! x P\left(x\right)$|$\text{There Exists a Unique }x, P(x)\text{ holds}$|
+    |$\exists! x P\left(x\right)$|$\text{There Exists a Unique }x, P(x)\text{ holds}$<br>$\exists x \Bigl( P\left(x\right) \land \forall y \bigl( P\left(y\right) \to x=y \bigr) \Bigr)$|
     |$\forall x \in X P\left(x\right)$|$\text{For all elements }x\text{ in the set }X, P(x)\text{ holds}$|
     |$\exists x \in X P\left(x\right)$|$\text{There Exists at least one element }x\text{ in the set }X, P(x)\text{ holds}$|
     |$\neg\forall x P\left(x\right)$|$\text{Not all }x \text{ satisfy } P(x)$|

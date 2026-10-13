@@ -4,6 +4,8 @@
     - #### First-Order Logic
     - #### High-Order Logic
 - ### [Proof Theory](proof-theory.md)
+- ### [Rules of Inference](./rules-of-inference/rules-of-inference.md)
+- ### [Mathematical Proof](./mathematical-proof/mathematical-proof.md)
 
 # Truth Value (Logical Value)
 - ### True ($T,~\top$)
@@ -93,9 +95,6 @@
 - ### [Quantifier](predicate-logic.md#quantifier) > NOT > AND > OR > Implication > Equivalence
 - ### Example：$\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)$
     - $\biggl( \bigl(\forall x P\left(x\right) \bigr) \land Q\left(x\right) \biggr) \to \biggl( \bigl( \neg R\left(x\right) \bigr) \lor S\left(x\right) \biggr)$
-
-# [Rules of Inference](./rules-of-inference/rules-of-inference.md)
-- ### [Mathematical Proof](./rules-of-inference/mathematical-proof.md)
 
 # Laws of Thought
 - ### Law of Identity：$p = p$
