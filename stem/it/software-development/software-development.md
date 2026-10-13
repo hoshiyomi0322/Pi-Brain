@@ -17,7 +17,7 @@
     - #### Apache
     - #### Tomcat
 - ### Static Site Hosting
-    - #### GitHub Pages
+    - #### [GitHub Pages](../it-tools/git/github.md#github-pages)
     - #### Cloudflare Pages
     - #### Vercel
     - #### Netlify
