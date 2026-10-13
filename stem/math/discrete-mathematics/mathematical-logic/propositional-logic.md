@@ -23,4 +23,13 @@
 |:---:|:---:|:---:|
 |Tautology|A statement that is always True|$p \lor \neg p$|
 |Contradiction|A statement that is always False|$p \land \neg p$|
-|Contingency|A statement that can be either True or False depending on its variables|$p \lor q$, $\neg p$|
+|Contingency|A statement that can be either True or False depending on its variables|$p \lor q,~\neg p$|
+
+# Boolean Satisfiability Problem (Propositional Satisfiability Problem, SAT)
+- ### Satisfiability
+    |Satisfiability|Definition|Example|
+    |:---:|:---:|:---:|
+    |Satisfiable|There exists at least one assignment of truth values that makes the statement True<br>(= Tautology + Contingency)|$p \lor \neg p,~p \lor q,~\neg p$|
+    |Unsatisfiable|Every assignment of truth values makes the statement False<br>(= Contradiction)|$p \land \neg p$|
+- ### SAT Solver
+

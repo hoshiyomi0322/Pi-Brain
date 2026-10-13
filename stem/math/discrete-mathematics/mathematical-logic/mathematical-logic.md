@@ -29,6 +29,11 @@
     |$T$|$F$|$F$|$F$|$T$|$T$|$T$|$F$|$F$|$F$|$T$|$F$|
     |$F$|$T$|$T$|$F$|$T$|$T$|$T$|$F$|$F$|$F$|$T$|$T$|
     |$F$|$F$|$T$|$F$|$F$|$F$|$T$|$T$|$T$|$T$|$F$|$T$|
+- ### Finite Logical Connective
+    |Finite Logical Connective|Notation|
+    |:---:|:---:|
+    |Finite AND (Finite Conjunction)|$\bigwedge\limits_{i=1}^{n}p_i=p_1\land\cdots\land p_n$|
+    |Finite OR (Finite Disjunction)|$\bigvee\limits_{i=1}^{n}p_i=p_1\lor\cdots\lor p_n$|
 - ### Example
     - $x=2+y\iff y=2+x$
     - $x=2\implies x^2=4$
@@ -96,6 +101,3 @@
 - ### Law of Identity：$p = p$
 - ### Law of Noncontradiction：$\neg\left(p\land \neg p\right)$
 - ### Law of Excluded Middle：$p\lor \neg p$
-
-# Boolean Satisfiability Problem (Propositional Satisfiability Problem, SAT)
-- ### SAT Solver

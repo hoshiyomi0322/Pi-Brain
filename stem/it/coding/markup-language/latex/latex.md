@@ -278,6 +278,8 @@ $\displaystyle{text}$
 |Product|$\prod{x}$|`\prod{x}`|
 |Finite Intersection|$\bigcap{x}$|`\bigcap{x}`|
 |Finite Union|$\bigcup{x}$|`\bigcup{x}`|
+|Finite Logical AND|$\bigwedge{x}$|`\bigwedge{x}`|
+|Finite Logical OR|$\bigvee{x}$|`\bigvee{x}`|
 - ### Integral
     |Large Operator|LaTex|
     |:---:|:---:|
