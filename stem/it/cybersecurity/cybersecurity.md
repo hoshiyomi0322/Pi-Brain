@@ -18,7 +18,7 @@
 - ### Cryptanalysis
 
 # Cyberattack
-- ### [Cyberattack](cyberattack.md)
+- ### [Cyberattack](./cyberattack/cyberattack.md)
 
 # Security Controls
 - ### [Security Controls](security-controls/security-controls.md)

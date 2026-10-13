@@ -1,7 +1,14 @@
 # Process Status (ps)
 |Command|Description|
 |:---:|:---:|
-|`ps`|
+|`ps`||
+|`ps aux`||
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`a`|all|
+    |`u`|user|
+    |`x`||
 
 # Process Tree (pstree)
 |Command|Description|

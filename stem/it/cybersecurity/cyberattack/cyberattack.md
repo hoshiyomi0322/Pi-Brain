@@ -1,0 +1,48 @@
+# Password Cracking
+- ### Cryptanalysis Attack
+- ### Credential Stuffing
+- ### Keystroke Logging (Keylogging)
+
+# Botnet
+
+# Phishing
+- ### ClickFix
+
+# Malicious Software (Malware)
+- ### Adware
+- ### Spyware
+- ### Ransomware
+- ### Rootkit
+- ### Trojan Horse
+    - Remote Access Trojan
+
+# Man-in-the-Middle (MitM)
+
+# Denial-of-Service (DoS)
+- ### Distributed Denial-of-Service (DDoS)
+- ### Ping of Death
+
+# Server-Side Request Forgery (SSRF)
+
+# Side-Channel Attack
+- ### Cache Attack
+- ### Timing Attack
+- ### [DMA](../../computer-science/computer-organization-and-architecture/computer-organization-and-architecture.md#direct-memory-access-dma) Attack
+
+# Arbitrary Code Execution (ACE)
+- ### Remote Code Execution (RCE)
+
+# Injection Attack
+- ### Command Injection
+- ### Code Injection
+    - ### Cross-Site Scripting (XSS)
+- ### [SQL injection](./injection-attack/sql-injection.md)
+
+
+# Buffer Overflow Attack
+
+# Account Takeover (ATO)
+
+# IP Address Spoofing
+- ### [IP Address Spoofing](../../computer-science/computer-networking/communication-protocol/protocol-layer/network-layer/ip.md#ip-address-spoofing)
+
