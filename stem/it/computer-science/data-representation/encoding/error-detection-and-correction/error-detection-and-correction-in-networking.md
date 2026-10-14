@@ -6,6 +6,7 @@
 - ### Stop-and-Wait ARQ
 - ### Go-Back-N ARQ
 - ### Selective Repeat ARQ
+- ### Hybrid ARQ
 
 # Cyclic Redundancy Check (CRC)
 
