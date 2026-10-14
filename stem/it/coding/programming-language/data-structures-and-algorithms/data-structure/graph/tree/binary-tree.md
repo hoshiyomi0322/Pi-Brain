@@ -43,8 +43,8 @@
 - ### Balance Factor(BF)＝左子樹高度-右子樹高度
 	|Balance Factor|Balance|
     |:---:|:---:|
-    |$\|BF\|<2$|balanced|
-	|$\|BF\|\geq2$|unbalanced|
+    |$|BF|<2$|balanced|
+	|$|BF|\geq2$|unbalanced|
 - ### Rotation(rebalancing)：將不平衡旋轉成平衡
 	|Direction|Rotation|
     |:---:|:---:|

@@ -12,8 +12,8 @@
 - ### Absolute Value
     ||$A$ converges|$B$ diverges|
     |:---:|:---:|:---:|
-    |$\|A\|$ converges|Absolute Convergence|Not Allowed|
-    |$\|A\|$ diverges|Conditional Convergence|Divergent|
+    |$|A|$ converges|Absolute Convergence|Not Allowed|
+    |$|A|$ diverges|Conditional Convergence|Divergent|
     - $|A|=\sum\limits_{n=1}^{\infty}|a_n|,~\int_{a}^{b}{|f\left(x\right)|\, dx}$
 
 - ### Absolute Convergence
@@ -52,9 +52,9 @@
     - #### Interval of Convergence：$\left(c-R,~c+R\right)$
         |Interval|Convergent, Divergent|
         |:---:|:---:|
-        |$\|x-c\|<R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ converges}$|
-        |$\|x-c\|=R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ either converge or diverge}$|
-        |$\|x-c\|>R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ diverges}$|
+        |$|x-c|<R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ converges}$|
+        |$|x-c|=R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ either converge or diverge}$|
+        |$|x-c|>R$|$\sum\limits_{n=0}^{\infty}{a_n\left(x-c\right)^n}\text{ diverges}$|
 
 # Infinite Series
 - ### [Ratio test, Root test](#ratio-test-root-test)
