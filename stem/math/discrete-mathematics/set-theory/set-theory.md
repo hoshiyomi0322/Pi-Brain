@@ -12,6 +12,13 @@
     |Unorderedness|The elements in a set are unordered<br>$S=\set{a_1,~\cdots ,~a_n}=\set{a_n,~\cdots ,~a_1}$|$S=\set{1,~2,~3}=\set{3,~1,~2}$|
     |Distinctness|The elements in a set are distinct<br>$S=\set{a_1,~\cdots ,~a_n},~a_i\ne a_j,~\text{for all }i\ne j$|$S=\set{1,~2,~2,~3}=\set{1,~2,~3}$|
 
+# Tuple
+
+
+# Set of Sets
+- ### Power Set
+- ### Partition of a Set
+
 # Venn Diagram
 <img src="./image/venn-diagram.png" width="20%">
 
