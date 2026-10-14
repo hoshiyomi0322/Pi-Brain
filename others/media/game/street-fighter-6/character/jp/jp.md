@@ -2,13 +2,13 @@
 - ### 風神：236P
 - ### 裂縫：214P
     - #### OD裂縫：214LPMP(弱中)、214MPHP(中強)、214LPHP(弱強)
-    - #### 裂縫傳送：214LP (Close)、214MP (Far)
+    - #### 裂縫傳送：214LP(Close)、214MP(Far)
     - #### 裂縫引爆：214HP
     - #### 自動引爆
         - 裂縫自動引爆：3秒
         - OD裂縫自動引爆：Close裂縫(3秒) → Far裂縫
 - ### 地刺：22P
-    - #### OD地刺：22LPMP (Close)、22MPHP (Far)、22LPHP (Mid)
+    - #### OD地刺：22LPMP(Close)、22MPHP(Far)、22LPHP(Mid)
 - ### 弾：236K
     - #### 偽弾：236K(Hold)
 - ### コマ投げ：214K
