@@ -28,6 +28,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Superset|$A\supseteq B$|$A\text{ is a superset of }B,~A\text{ contains }B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supseteq \set{1,~2}$|
 |Subset|$A\subseteq B$|$A\text{ is a subset of }B,~B\text{ contains }A$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subseteq \set{1,~2,~3}$|
+|Proper Superset|$A\supset B$|$A\text{ is a superset of }B,~\text{but }A\ne B$||
+|Proper Subset|$A\subset B$|$A\text{ is a subset of }B,~\text{but }A\ne B$||
 |Element of|$A\in B$|$A\text{ is a element of }B$||$1\in \set{1,~2,~3}$|
 
 # Properties of Relations
