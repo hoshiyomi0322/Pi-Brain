@@ -48,7 +48,7 @@ $\displaystyle{text}$
 |$[a+b]$|`[ a+b ]`|
 |$\{a+b\}$|`\{ a+b \}`|
 |$|a+b|$|`\| a+b \|`|
-|$\|a+b\|$|`\\| a+b \\|`|
+|$\|a+b\|$|<code>&#92;&#124; a+b &#92;&#124;</code>|
 |$\lceil a+b \rceil$|`\lceil a+b \rceil`|
 |$\lfloor a+b \rfloor$|`\lfloor a+b \rfloor`|
 |$\langle a+b \rangle$|`\langle a+b \rangle`|
