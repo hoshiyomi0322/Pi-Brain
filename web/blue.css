@@ -587,13 +587,15 @@ mjx-container::-webkit-scrollbar-thumb {
     border-radius: 4px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px), (pointer: coarse) {
     .markdown-section mjx-container {
         display: inline-block !important;
         max-width: 100% !important;
         overflow-x: auto !important;
         overflow-y: hidden !important;
         vertical-align: middle;
+        -webkit-overflow-scrolling: touch;
+        touch-action: pan-x pan-y;
     }
     .markdown-section mjx-container[display="true"] {
         display: block !important;
@@ -604,4 +606,8 @@ mjx-container::-webkit-scrollbar-thumb {
         max-width: 100%;
         min-width: 0;
     }
+}
+
+.markdown-section mjx-container {
+    outline: 2px solid red !important;
 }
