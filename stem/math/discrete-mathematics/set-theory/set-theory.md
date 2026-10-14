@@ -1,10 +1,16 @@
 # Set
-|Set|Notation|Definition|
-|:---:|:---:|:---:|
-|Element|$a$||
-|Set|$S=\set{a_1,~\cdots ,~a_n}$|a collection of different things|
+|Set|Notation|Definition|Example|
+|:---:|:---:|:---:|:---:|
+|Element|$a$|an individual object that belongs to a set|$3.14$|
+|Set|$S=\set{a_1,~\cdots ,~a_n}$|a collection of different things|$S=\set{3.14,~\text{sui},~x^2+5}$|
 |Universal Set|$U$|a set that contains all of the objects|
 |Empty Set|$\varnothing=\Set{}$|a set having no elements|
+|Cardinality| $|S|$ |the number of distinct elements in a set| $S=\set{3.14,~\text{sui},~x^2+5},~|S|=3,~|\varnothing|=0$ |
+- ### Properties of Set
+    |Properties of Set|Definition|Example|
+    |:---:|:---:|:---:|
+    |Unorderedness|The elements in a set are unordered<br>$S=\set{a_1,~\cdots ,~a_n}=\set{a_n,~\cdots ,~a_1}$|$S=\set{1,~2,~3}=\set{3,~1,~2}$|
+    |Distinctness|The elements in a set are distinct<br>$S=\set{a_1,~\cdots ,~a_n},~a_i\ne a_j,~\text{for all }i\ne j$|$S=\set{1,~2,~2,~3}=\set{1,~2,~3}$|
 
 # Venn Diagram
 <img src="./image/venn-diagram.png" width="20%">
@@ -26,11 +32,11 @@
 # Set Relations
 |Set Operations|Notation|Definition|Venn Diagram|Example|
 |:---:|:---:|:---:|:---:|:---:|
-|Superset|$A\supseteq B$|$A\text{ is a superset of }B,~A\text{ contains }B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supseteq \set{1,~2}$|
-|Subset|$A\subseteq B$|$A\text{ is a subset of }B,~B\text{ contains }A$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subseteq \set{1,~2,~3}$|
-|Proper Superset|$A\supset B$|$A\text{ is a superset of }B,~\text{but }A\ne B$||
-|Proper Subset|$A\subset B$|$A\text{ is a subset of }B,~\text{but }A\ne B$||
-|Element of|$A\in B$|$A\text{ is a element of }B$||$1\in \set{1,~2,~3}$|
+|Superset|$A\supseteq B$|$A\text{ is a superset of }B,~A\text{ contains }B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supseteq \set{1,~2},~\set{1,~2,~3}\supseteq \set{1,~2,~3}$|
+|Subset|$A\subseteq B$|$A\text{ is a subset of }B,~B\text{ contains }A$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subseteq \set{1,~2,~3},~\set{1,~2,~3}\subseteq \set{1,~2,~3}$|
+|Proper Superset|$A\supset B$|$A\text{ is a superset of }B,~\text{but }A\ne B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supset \set{1,~2}$|
+|Proper Subset|$A\subset B$|$A\text{ is a subset of }B,~\text{but }A\ne B$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subset \set{1,~2,~3}$|
+|Element of|$A\in B$|$A\text{ is a element of }B$||$2\in \set{1,~2,~3}$|
 
 # Properties of Relations
 - ### Reflexive
@@ -71,4 +77,5 @@
 - ### 3 sets：$\left(A\cup B\cup C\right)=\left(A+B+C\right)-\left(\left(A\cap B\right)+\left(A\cap C\right)+\left(B\cap C\right)\right)+\left(A\cap B\cap C\right)$
     <img src="./image/inclusion–exclusion-principle.png" width="25%">
 
+# Cartesian Product
 
