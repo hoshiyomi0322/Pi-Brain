@@ -11,12 +11,12 @@
 # Lists of Integrals
 - ### $\int{x^n\,dx}=\frac{1}{n+1}x^{n+1}+C,~n\neq-1$
 - ### $\int{\frac{1}{x}\,dx}=\ln{|x|}+C$
-    - ### $\int{\frac{f^\prime\left(x\right)}{f\left(x\right)}\,dx}=\ln{|f\left(x\right)|}+C$
+    - $\int{\frac{f^\prime\left(x\right)}{f\left(x\right)}\,dx}=\ln{|f\left(x\right)|}+C$
 - ### Integrals of Exponential functions and Logarithmic functions
-    - ### $\int{e^x\,dx}=e^x+C$
-    - ### $\int{\ln{x}\,dx}=x\ln{x}-x+C$
-    - ### $\int{a^x\,dx}=\frac{1}{\ln{a}}a^x+C$
-    - ### $\int{\log_a{x}\,dx}=\frac{1}{\ln{a}}\left(x\ln{x}-x\right)+C=x\log_a{x}-\frac{x}{\ln{a}}+C$
+    - $\int{e^x\,dx}=e^x+C$
+    - $\int{\ln{x}\,dx}=x\ln{x}-x+C$
+    - $\int{a^x\,dx}=\frac{1}{\ln{a}}a^x+C$
+    - $\int{\log_a{x}\,dx}=\frac{1}{\ln{a}}\left(x\ln{x}-x\right)+C=x\log_a{x}-\frac{x}{\ln{a}}+C$
 
 # Improper Integral
 - ### Improper Integral：$\int_{a}^{b}{f\left(x\right)\,dx}=\int_{a}^{c}{f\left(x\right)\,dx}+\int_{c}^{b}{f\left(x\right)\,dx}$

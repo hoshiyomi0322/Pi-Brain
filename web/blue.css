@@ -609,3 +609,21 @@ span.pi-math-scroll {
     display: inline-block;
     vertical-align: middle;
 }
+
+.markdown-section h1 > a.anchor,
+.markdown-section h2 > a.anchor,
+.markdown-section h3 > a.anchor,
+.markdown-section h4 > a.anchor,
+.markdown-section h5 > a.anchor,
+.markdown-section h6 > a.anchor {
+    display: block !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+}
+
+.markdown-section docsify-latex {
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+}
