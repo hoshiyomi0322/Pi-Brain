@@ -19,6 +19,9 @@
 - ### [Communication Protocol](./communication-protocol/communication-protocol.md)
     - ### [Protocol Layer](./communication-protocol/protocol-layer/protocol-layer.md)
 
+# Error Detection and Correction in Networking
+- ### [Error Detection and Correction in Networking](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md)
+
 # Networking Tools
 - ### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
 - ### [Wireshark](networking-tools/wireshark.md)

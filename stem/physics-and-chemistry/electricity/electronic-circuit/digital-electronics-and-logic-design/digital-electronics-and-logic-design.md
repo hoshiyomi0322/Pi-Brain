@@ -24,6 +24,12 @@
     |1|0|1|0|0|1|1|1|0|0|
     |0|1|0|1|0|1|1|1|0|0|
     |0|0|0|1|0|0|0|1|1|1|
+- ### Universal Gates：NAND
+    |Logic Gate|Boolean Expression|
+    |:---:|:---:|
+    |NOT|$\overline{A} = \overline{A \cdot A}$|
+    |AND|$A\cdot B = \overline{\overline{A \cdot B}}$|
+    |OR|$A+B = \overline{\overline{A \cdot A} \cdot \overline{B \cdot B}}$|
 
 # Properties
 - ### [Logical Equivalences](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-equivalences)
@@ -51,6 +57,7 @@
 |5|101|111|00100000|
 |6|110|101|01000000|
 |7|111|100|10000000|
+- ### [Encoding](/stem/it/computer-science/data-representation/encoding/encoding.md)
 - ### Binary Encoding
     - #### Binary-Coded Decimal (BCD)
 - ### Gray Code：two continuous values differ in only one bit    
@@ -67,7 +74,6 @@
     - #### Example：2-bit Gray Code
         - $Reflect(G_{1})=Reflect(\{0,~1\})=\{1,~0\}$
         - $G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}$
-
 - ### One-Hot：only one of the bits of the value is $1$
 
 # Tri-State Logic

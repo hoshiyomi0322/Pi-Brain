@@ -38,7 +38,7 @@
 
 # [Data Representation](./data-representation/data-representation.md)
 - ### [Number System](./data-representation/number-system.md)
-- ### [Encoding](./data-representation/encoding.md)
+- ### [Encoding](./data-representation/encoding/encoding.md)
 
 # [Data Management](./data-management/data-management.md)
 - ### [Data Engineering](./data-management/data-engineering.md)

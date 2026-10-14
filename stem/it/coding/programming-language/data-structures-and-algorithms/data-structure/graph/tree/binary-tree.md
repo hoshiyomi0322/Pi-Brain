@@ -9,8 +9,8 @@
 - ### Balanced Tree
     - ### [AVL Tree](#avl-tree-1)
     - ### Red-Black Tree
-- ### Huffman Tree
-    - ### Huffman Coding
+- ### [Huffman Tree](/stem/it/computer-science/data-representation/encoding/compression-encoding.md#huffman-tree)
+    - #### [Huffman Coding](/stem/it/computer-science/data-representation/encoding/compression-encoding.md#huffman-coding)
 - ### Fibonacci Tree
 - ### Threaded Binary Tree
 - ### Segment Tree

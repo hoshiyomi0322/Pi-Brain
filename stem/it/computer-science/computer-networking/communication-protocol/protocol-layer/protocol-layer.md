@@ -71,11 +71,7 @@
     - #### Protocol + S = Protocol Secure (Protocol over TLS/SSL) = Protocol + TLS/SSL
     - #### Evolution：Secure Sockets Layer (SSL) $\to$ Transport Layer Security (TLS)
     - #### Workflow：TCP Three-way Handshake $\to$ TLS Handshake $\to$ Encrypted Data Transfer
-- ### Automatic Repeat-reQuest (ARQ)
-    - #### Layer：[Data link layer](#data-link-layer), [Transport layer](#transport-layer)
-    - #### Stop-and-Wait ARQ
-    - #### Go-Back-N ARQ
-    - #### Selective Repeat ARQ
+- ### [Automatic Repeat-reQuest (ARQ)](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md#automatic-repeat-request-arq)
 - ### [Address Resolution Protocol (ARP)](./other-protocol/arp.md)
     - #### [ARP Command](/stem/it/cli/bash/bash-networking.md#address-resolution-protocol-arp-command)
     - #### [ARP Spoofing](./other-protocol/arp.md#arp-spoofing)

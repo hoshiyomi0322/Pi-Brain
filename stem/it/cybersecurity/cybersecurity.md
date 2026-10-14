@@ -12,7 +12,7 @@
 - ### Misc
 
 # [Cryptography](./cryptography/cryptography.md)
-- ### [Encoding](../computer-science/data-representation/encoding.md)
+- ### [Encoding](../computer-science/data-representation/encoding/encoding.md)
 - ### [Encryption](./cryptography/cryptography.md#encryption)
 - ### [Cryptographic Hash Function (CHF)](./cryptography/cryptographic-hash-function.md)
 - ### Cryptanalysis

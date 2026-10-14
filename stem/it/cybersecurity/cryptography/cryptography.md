@@ -1,5 +1,5 @@
 # Cryptography
-- ### [Encoding](../../computer-science/data-representation/encoding.md)
+- ### [Encoding](../../computer-science/data-representation/encoding/encoding.md)
 - ### Encryption
     - ### [Symmetric Encryption](./encryption/symmetric-encryption/symmetric-encryption.md)
     - ### [Asymmetric Encryption](./encryption/asymmetric-encryption/asymmetric-encryption.md)

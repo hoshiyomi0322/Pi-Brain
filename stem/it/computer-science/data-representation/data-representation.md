@@ -35,8 +35,13 @@
 # Number System
 - ### [Number System](number-system.md)
 
+# [Encoding](./encoding/encoding.md)
+- ### [Character Encoding](./encoding/character-encoding.md)
+- ### [Compression Encoding](./encoding/compression-encoding.md)
+- ### [Error Detection and Correction](./encoding/error-detection-and-correction.md)
+
 # Control Character
-|Description|[Control Pictures (Unicode)](encoding.md#control-pictures)|[Hex (ASCII)](encoding.md#character-set-hex)|[Escape Sequence](#escape-sequence--character)|
+|Description|[Control Pictures (Unicode)](./encoding/character-encoding.md#control-pictures)|[Hex (ASCII)](./encoding/character-encoding.md#character-set-hex)|[Escape Sequence](#escape-sequence--character)|
 |:---:|:---:|:---:|:---:|
 |Null|`NUL`|00|`\0`|
 |Start of Heading|`SOH`|01||
@@ -89,10 +94,9 @@
 
 # Compression
 - ### lossless compression
-    - #### [Compression Encoding](encoding.md#compression-encoding-1)
+    - #### [Compression Encoding](./encoding/compression-encoding.md)
 - ### lossy compression
 
 # Text Data
-- ### [Character Encoding](encoding.md#character-encoding)
-
+- ### [Character Encoding](./encoding/character-encoding.md)
 

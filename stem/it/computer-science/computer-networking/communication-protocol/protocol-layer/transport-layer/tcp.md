@@ -1,4 +1,5 @@
 # TCP Header Format
+- ### [Checksum](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md#checksum)
 
 # Three-way [Handshake](../../../packet.md#handshake)
 <div align="center"><img src="./image/three-way-handshake.png" width="40%"></div>
