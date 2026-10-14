@@ -611,3 +611,6 @@ mjx-container::-webkit-scrollbar-thumb {
 .markdown-section mjx-container {
     outline: 2px solid red !important;
 }
+
+body { border-top: 6px solid lime !important; }
+
