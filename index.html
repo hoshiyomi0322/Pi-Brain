@@ -824,8 +824,33 @@
                     }
                 }
             };
-        window.piHeadingSearch = headingSearch;
-        headingSearch.init();
+            window.piHeadingSearch = headingSearch;
+            headingSearch.init();
+            function wrapAll() {
+                document.querySelectorAll('#main mjx-container').forEach(function (el) {
+                    var parent = el.parentNode;
+                    if (!parent || parent.classList.contains('pi-math-scroll')) {
+                        return;
+                    }
+                    var isDisplay = el.getAttribute('display') === 'true';
+                    var box = document.createElement(isDisplay ? 'div' : 'span');
+                    box.className = 'pi-math-scroll';
+                    parent.insertBefore(box, el);
+                    box.appendChild(el);
+                });
+            }
+            var scheduled = false;
+            new MutationObserver(function () {
+                if (scheduled) {
+                    return;
+                }
+                scheduled = true;
+                requestAnimationFrame(function () {
+                    scheduled = false;
+                    wrapAll();
+                });
+            }).observe(document.body, { childList: true, subtree: true });
+        
         })();
 
     </script>
