@@ -20,6 +20,12 @@
 - ### [必殺技, 特殊技 Combo](arjun-special-move.md)
 
 # Heavy Attack Combo
+- ### 5HP Cobmo
+    - 5HP*2 + SA2/SA3
+    - (5HP*2 + 5HK) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Corner
+        - 5HP*2 + SA1
+        - 5HP*3 + [DI OKI](#di-oki-25f26f)/SA3
 - ### 2HP Air Combo
     - 2HP + [中推掌 Air Combo](arjun-special-move.md#中推掌-air-combo)/SA1/SA2
 - ### 2HK Air Combo
@@ -29,6 +35,7 @@
     - C-Switch：2HK + OD地刺(中強) + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo)
 
 # Medium Attack Combo
+- ### 5MP Combo
 
 # Light Attack Combo
 
@@ -47,9 +54,9 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo)/[2HK High-Air Combo](#2hk-high-air-combo))
+    - DI(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo)/[2HK High-Air Combo](#2hk-high-air-combo)/[5HP Cobmo](#5hp-cobmo))
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)/[2HK High-Air Combo](#2hk-high-air-combo)
+    - DI(Wall spalt) + [2HP Air Combo](#2hp-air-combo)/[2HK High-Air Combo](#2hk-high-air-combo)/[5HP Cobmo](#5hp-cobmo)
 - ### Stun Combo
     - DI(Stun) + 
 
@@ -72,5 +79,14 @@
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
+- ### 5MP OKI (8F~12F)
+    - [5MP Combo](#5mp-combo)
+    - 前歩き + [投げ](#投げ)/[コマ投げ Combo](arjun-special-move.md#コマ投げ-combo-1)
+- ### DI OKI (25F/26F)
+    - DI/[ODコマ投げ Combo](arjun-special-move.md#odコマ投げ-combo)
 - ### 地刺 OKI
     - 地刺
+- ### Corner 弱肩撞 OKI (74F/75F)
+    - delay地刺 + 弱肩撞 + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo)
+    - ガード(delay地刺 + 弱肩撞) + [5MP OKI](#5mp-oki-8f12f)
+    - 對手Parry：delay地刺 + (delay + [投げ](#投げ)/[コマ投げ Combo](arjun-special-move.md#コマ投げ-combo-1))
