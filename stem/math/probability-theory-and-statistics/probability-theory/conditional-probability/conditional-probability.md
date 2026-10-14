@@ -11,7 +11,7 @@
     |:---:|:---:|
     |<img src="./image/independent.png" width="60%">|<img src="./image/mutually-exclusive.png" width="60%">|
     |$P\left(A\cap B\right)=P\left(A\right)P\left(B\right)$|$P\left(A\cap B\right)=0=\varnothing$|
-    |$P\left(A\|B\right)=P\left(A\right),~P\left(B\|A\right)=P\left(B\right)$|$P\left(A\|B\right)=P\left(B\|A\right)=0$|
+    |$P\left(A|B\right)=P\left(A\right),~P\left(B|A\right)=P\left(B\right)$|$P\left(A|B\right)=P\left(B|A\right)=0$|
 
 # Union Probability
 - ### Union Probability：$P\left(A\cup B\right)=\left(P\left(A\right)+P\left(B\right)\right)-P\left(A\cap B\right)$
