@@ -1,6 +1,7 @@
 # Set
 |Set|Notation|Definition|
 |:---:|:---:|:---:|
+|Element|$a$||
 |Set|$S=\set{a_1,~\cdots ,~a_n}$|a collection of different things|
 |Universal Set|$U$|a set that contains all of the objects|
 |Empty Set|$\varnothing=\Set{}$|a set having no elements|
