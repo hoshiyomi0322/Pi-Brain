@@ -87,6 +87,6 @@
 - ### 地刺 OKI
     - 地刺
 - ### Corner 弱肩撞 OKI (74F/75F)
-    - delay地刺 + 弱肩撞 + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo)
-    - ガード(delay地刺 + 弱肩撞) + [5MP OKI](#5mp-oki-8f12f)
+    - delay地刺 + (弱肩撞/6HP + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo))
+    - ガード(delay地刺 + 6HP/弱肩撞) + [5MP OKI](#5mp-oki-8f12f)
     - 對手Parry：delay地刺 + (delay + [投げ](#投げ)/[コマ投げ Combo](arjun-special-move.md#コマ投げ-combo-1))
