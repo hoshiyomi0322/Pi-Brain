@@ -31,5 +31,20 @@
 - ### [Representational State Transfer (REST, RESTful)](./software-architectural-style/restful.md)
 - ### [Remote Procedure Call (RPC)](./software-architectural-style/rpc.md)
 
+# Software Development Life Cycle (SDLC)
+- ### Waterfall Model
+- ### Agile Model
+- ### Software Release Life Cycle (SRLC)
+
+# Computer-Aided Software Engineering (CASE)
+- ### Upper CASE
+- ### Lower CASE
+
+# DevOps (Development and Operations)
+
+# Data Engineering
+- ### [Data Engineering](./data-management/data-engineering.md)
+
 # Database System
 - ### [Database System](../computer-science/data-management/database-system/database-system.md)
+

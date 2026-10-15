@@ -162,6 +162,10 @@
     <img src="./image/vlsi.png" width="25%">
 
     - #### type：electronic component
+- ### Intel 4004
+    <img src="./image/intel-4004.png" width="60%">
+
+    - The first commercial microprocessor
 - ### Personal Computers
     - #### Workstations
         <img src="./image/workstations.png" width="40%">
