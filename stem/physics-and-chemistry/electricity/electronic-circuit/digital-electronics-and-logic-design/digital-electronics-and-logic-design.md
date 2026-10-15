@@ -24,12 +24,12 @@
     |1|0|1|0|0|1|1|1|0|0|
     |0|1|0|1|0|1|1|1|0|0|
     |0|0|0|1|0|0|0|1|1|1|
-- ### Universal Gates：NAND
-    |Logic Gate|Boolean Expression|
-    |:---:|:---:|
-    |NOT|$\overline{A} = \overline{A \cdot A}$|
-    |AND|$A\cdot B = \overline{\overline{A \cdot B}}$|
-    |OR|$A+B = \overline{\overline{A \cdot A} \cdot \overline{B \cdot B}}$|
+- ### Universal Gates：NAND, NOR
+    |Logic Gate|NAND|NOR|
+    |:---:|:---:|:---:|
+    |NOT ($\overline{A}$)|$\overline{A \cdot A}$|$\overline{A + A}$|
+    |AND ($A\cdot B$)|$\overline{\overline{A \cdot B}}=\overline{\overline{A \cdot B}\cdot\overline{A \cdot B}}$|$\overline{\overline{A} + \overline{B}}=\overline{\overline{A + A} + \overline{B + B}}$|
+    |OR ($A+B$)|$\overline{\overline{A} \cdot \overline{B}}=\overline{\overline{A \cdot A} \cdot \overline{B \cdot B}}$|$\overline{\overline{A + B}}=\overline{\overline{A + B} + \overline{A + B}}$|
 
 # Properties
 - ### [Logical Equivalences](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-equivalences)
