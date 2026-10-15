@@ -62,7 +62,7 @@
         - SA2 + (強裂縫 + 裂縫傳送) + (JHK + 中腳) + [その場受け身 Midscreen OD裂縫擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#その場受け身-midscreen-od裂縫擇)
     - #### Corner 強地刺 ガード SA2 OD裂縫擇
         - SA2 + (強裂縫 + 裂縫傳送) + (JHK + 中腳) + [Corner 地刺 OD裂縫擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#corner-地刺-od裂縫擇)
-- ### 對手Parry
+- ### 對手 Parry
     - SA2 + (強裂縫 + 裂縫傳送) + ガード(JHK) + [投げ](../jp.md#投げ)
 
 # Corner 裂縫 ガード SA2 Combo

@@ -1,18 +1,30 @@
+# 地刺 Combo
+- 地刺 + [42F OKI](arjun.md#42f-oki)
+
 # 推掌 Combo
 - ### 弱推掌 Combo
+    - 弱推掌 + SA3
 - ### 中推掌 Combo
+    - 中推掌 + SA3
 - ### 強推掌 Combo
-    - 強推掌派生 + [Corner 弱肩撞 OKI](arjun.md#corner-弱肩撞-oki-74f75f)
+    - 強推掌派生 + [弱肩撞 OKI](arjun.md#弱肩撞-oki-74f75f)/SA3
+    - ガード
+        - ガード(強推掌) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
+        - ガード(強推掌派生)
 - ### OD推掌 Combo
-    - OD推掌派生 + [Corner 弱肩撞 OKI](arjun.md#corner-弱肩撞-oki-74f75f)/SA2/SA3
+    - OD推掌派生 + [弱肩撞 OKI](arjun.md#弱肩撞-oki-74f75f)/SA2/SA3
+    - ガード
+        - ガード(OD推掌) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
+        - ガード(OD推掌派生)
 
 # 推掌 Air Combo
 - ### 弱推掌 Air Combo
+    - 弱推掌派生 + SA3
 - ### 中推掌 Air Combo
-    - 中推掌派生 + [Corner 弱肩撞 OKI](arjun.md#corner-弱肩撞-oki-74f75f)/SA3
+    - 中推掌派生 + [弱肩撞 OKI](arjun.md#弱肩撞-oki-74f75f)/SA3
 - ### 強推掌 Air Combo
 - ### OD推掌 Air Combo
-    - OD推掌派生 + [Corner 弱肩撞 OKI](arjun.md#corner-弱肩撞-oki-74f75f)/SA2/SA3
+    - OD推掌派生 + [弱肩撞 OKI](arjun.md#弱肩撞-oki-74f75f)/SA2/SA3
 
 # 強推掌 PC Combo
 - 強推掌(PC) + [2HP Air Combo](#2hp-air-combo)/[2HK High-Air Combo](arjun.md#2hk-high-air-combo)/[5HP Cobmo](arjun.md#5hp-cobmo)
@@ -31,16 +43,22 @@
     - Far：強肩撞 + [2HK Air Combo](arjun.md#2hk-air-combo)
     - #### 強地刺肩撞 Combo
         - 強地刺肩撞 + [地刺肩撞 Extension Combo](#地刺肩撞-extension-combo)
+- ### OD肩撞 Combo
+    - Close：OD肩撞 + SA3
+    - Far：OD肩撞 + [2HK Air Combo](arjun.md#2hk-air-combo)
+    - #### OD地刺肩撞 Combo
+        - OD地刺肩撞 + [地刺肩撞 Extension Combo](#地刺肩撞-extension-combo)
 - ### 地刺肩撞 Extension Combo
     - [ODコマ投げ Combo](#odコマ投げ-combo)/[当身派生 Air Combo](#当身派生-air-combo)
-    - 消費(5MK) + SA1/SA2/SA3
+    - 消費(地刺) + SA1/SA2/SA3
 
 # 当身派生 Combo
 - 当身派生
+- ガード(当身派生) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
 - Corner：当身派生 + [2HK Air Combo](arjun.md#2hk-air-combo)
 
 # 当身派生 Air Combo
-- 当身派生
+- 当身派生 + [地刺 OKI](arjun.md#地刺-oki-56f)
 - Corner：当身派生 + SA1/SA2/SA3
 
 # コマ投げ Combo
