@@ -32,6 +32,8 @@
         - Can be treated as either 0 or 1 to form larger groups, or ignored if they do not help
 
 # Quine-McCluskey Method
+- ### Prime Implicant
+- ### Prime Implicant Chart
 
 # Consensus Theorem
 - ### Consensus Term
