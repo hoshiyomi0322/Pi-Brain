@@ -4,7 +4,7 @@
     - ### [Base64](#base64-1)
 - ### [Compression Encoding](compression-encoding.md)
 - ### encodeURI/decodeURI
-- ### [Error Detection and Correction (Error Control)](error-detection-and-correction.md)
+- ### [Error Detection and Correction (Error Control, Channel Coding)](error-detection-and-correction.md)
 
 # Base64
 - ### Base64 Encoding Process

@@ -1,3 +1,7 @@
+# Cyclic Redundancy Check (CRC)
+
+# Checksum
+
 # Forward Error Correction (FEC)
 - ### Turbo Code
 
@@ -7,8 +11,4 @@
 - ### Go-Back-N ARQ
 - ### Selective Repeat ARQ
 - ### Hybrid ARQ
-
-# Cyclic Redundancy Check (CRC)
-
-# Checksum
 
