@@ -1,7 +1,7 @@
 # 地刺 Combo
 - 地刺 + [42F OKI](arjun.md#42f-oki)
 - ### delay地刺 Combo
-    - (delay地刺 + 前ステ) + [Corner delay地刺 Extension Combo](#corner-delay地刺-extension-combo)
+    - (delay地刺 + 前ステ) + [General Corner delay地刺 Extension Combo](#general-corner-delay地刺-extension-combo)
         - (delay地刺 + 前ステ) + 消費(2LK) + ガード(2LK) + [コマ投げ OKI](arjun.md#コマ投げ-oki-6f8f)
         - 對手 ジャンプ/SA1/速點/速摔：(delay地刺 + 前ステ) + 投げ/コマ投げ + [強地刺肩撞 Combo](#強地刺肩撞-combo)
     - delay地刺 + 消費(2LP) + (DI + [強地刺肩撞 Combo](#強地刺肩撞-combo))
@@ -16,7 +16,6 @@
 - ### Corner delay地刺 弱肩撞 Extension Combo
     - 弱肩撞 + [強地刺肩撞 Combo](#強地刺肩撞-combo)
     - ガード(弱肩撞) + [5MP OKI](arjun.md#5mp-oki-8f12f)
-
 
 # 推掌 Combo
 - ### 弱推掌 Combo
