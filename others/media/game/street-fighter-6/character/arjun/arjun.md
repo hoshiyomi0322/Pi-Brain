@@ -80,7 +80,7 @@
         - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - 2HP(PC) + [推掌 Combo](arjun-special-move.md#推掌-combo)/[肩撞 Combo](arjun-special-move.md#肩撞-combo)
     - ### 5HP PC Combo
-        - 5HP(PC) + (delay + [2HK Air Combo](#2hk-air-combo))
+        - 5HP(PC) + (前ステ + [2HK Air Combo](#2hk-air-combo))
         - 5HP(PC) + (DR + [2HP High-Air Combo](#2hp-high-air-combo))
         - (5HP(PC) + 溜め5HP + 強delay地刺) + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo)
             - (5HP(PC) + 溜め5HP + 強delay地刺) + 消費(中肩撞) + [5MP OKI](#5mp-oki-8f14f)
