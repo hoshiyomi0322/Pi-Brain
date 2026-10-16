@@ -27,15 +27,13 @@
 - ### [RPC API](./software-architectural-style/rpc.md#rpc-api)
 - ### [SOAP API](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/soap.md#soap-api)
 
-# Software Architectural Style
-- ### [Representational State Transfer (REST, RESTful)](./software-architectural-style/restful.md)
-- ### [Remote Procedure Call (RPC)](./software-architectural-style/rpc.md)
+
 
 # Software Engineering
 
 
 
-# DevOps (Development and Operations)
+
 
 # Data Engineering
 - ### [Data Engineering](./data-management/data-engineering.md)
