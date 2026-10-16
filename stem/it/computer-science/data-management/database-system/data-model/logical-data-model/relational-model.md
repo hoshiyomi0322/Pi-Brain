@@ -12,3 +12,5 @@
 - ### Unique Key
 - ### Composite Key
 - ### Foreign Key
+
+# Database Normalization
