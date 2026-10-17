@@ -9,9 +9,14 @@
     - #### can represent $2^n$ values
 - ### Decimal (base-10)：$10^n=\text{base-10, n-digit}$
 
+# Bit Numbering
+- ### Most Significant Bit (MSB)
+- ### Least Significant Bit (LSB)
+
 # Negative Numbers
 - ### Signed-magnitude representation
 - ### Complement
+- ### 1's Complement
 - ### 2's Complement
 - ### 10's Complement
 
@@ -23,7 +28,7 @@
     - $1201.321=1.201321 \times 10^3 = 1.201321E+3$
     - $0.314=3.14 \times 10^{-1} = 3.14E-1$
 
-# IEEE 754 (Floating-point)
+# IEEE 754 (Binary Floating-point)
 - ### Sign + Exponent + Fraction
     <img src="./image/ieee-754.png" width="60%">
 
@@ -39,6 +44,22 @@
     |:---:|:---:|:---:|
     |Bits (s + e + f)|s(1 bits) + e(8 bits) + f(23 bits)|s(1 bits) + e(11 bits) + f(52 bits)|
     |Bias|127|1023|
+- ### Finite Binary Fraction：an irreducible fraction whose denominator has no prime factors other than 2
+    - $\frac{a}{2^n}\left(a\in Z,~n\in Z,~n\ge 0\right)$
+    - Example：$\frac{19}{2},~\frac{1}{8}$
+- ### Rounding Mode
+    - #### Round to Nearest (Even)
+    - #### Round Toward Zero (Truncation)
+    - #### Round Toward Positive Infinity
+    - #### Round Toward Negative Infinity
+- ### GRS Bits
+    - #### Position：Sign + Exponent + Fraction + G + R + S
+    - #### Guard Bit (G)
+        - it helps determine if the value is halfway to the next unit
+    - #### Round Bit (R)
+        - it provides additional precision past the guard bit during calculations
+    - #### Sticky Bit (S)
+        - if any bit to the right of the round bit is 1, the sticky bit is permanently set to 1
 - ### Example
     <img src="./image/ieee-754-example.png" width="70%">
 
