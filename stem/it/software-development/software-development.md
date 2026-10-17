@@ -22,21 +22,15 @@
     - #### Vercel
     - #### Netlify
 
-# Application Programming Interface (API)
-- ### [RESTful API](./software-architectural-style/restful.md#restful-api)
-- ### [RPC API](./software-architectural-style/rpc.md#rpc-api)
+# [Application Programming Interface (API)](./api/api.md)
+- ### [RESTful API](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/restful.md#restful-api)
+- ### [RPC API](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md#rpc-api)
 - ### [SOAP API](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/soap.md#soap-api)
 
-
-
-# Software Engineering
-
-
-
-
-
-# Data Engineering
-- ### [Data Engineering](./data-management/data-engineering.md)
+# [Software Engineering](./software-engineering/software-engineering.md)
+- ### [Software Architecture](./software-engineering/software-architecture/software-architecture.md)
+- ### [DevOps (Development and Operations)](./software-engineering/devops.md)
+- ### [Data Engineering](../computer-science/data-management/data-engineering.md)
 
 # Database System
 - ### [Database System](../computer-science/data-management/database-system/database-system.md)

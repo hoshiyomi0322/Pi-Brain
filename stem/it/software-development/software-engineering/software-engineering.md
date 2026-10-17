@@ -7,9 +7,17 @@
 - ### Upper CASE
 - ### Lower CASE
 
-# DevOps (Development and Operations)
+# Component-Based Software Engineering (CBSE)
 
-# Software Architecture
-- # Software Architectural Style
-- ### [Representational State Transfer (REST, RESTful)](./software-architectural-style/restful.md)
-- ### [Remote Procedure Call (RPC)](./software-architectural-style/rpc.md)
+# Object-Oriented Software Engineering (OOSE)
+
+
+# [Software Architecture](./software-architecture/software-architecture.md)
+- ### [Architectural Model](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
+
+# DevOps (Development and Operations)
+- ### [DevOps (Development and Operations)](devops.md)
+
+# Data Engineering
+- ### [Data Engineering](../../computer-science/data-management/data-engineering.md)
+

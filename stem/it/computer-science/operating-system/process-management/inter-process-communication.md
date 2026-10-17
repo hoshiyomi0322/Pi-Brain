@@ -7,4 +7,4 @@
 - ### Socket
 
 # Remote Procedure Call (RPC)
-- ### [Remote Procedure Call (RPC)](/stem/it/software-development/software-architectural-style/rpc.md)
+- ### [Remote Procedure Call (RPC)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md)

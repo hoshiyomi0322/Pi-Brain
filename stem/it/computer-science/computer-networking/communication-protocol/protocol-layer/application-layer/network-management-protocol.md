@@ -3,5 +3,5 @@
 
 # Network Configuration Protocol (NETCONF)
 
-# [RESTful](/stem/it/software-development/software-architectural-style/restful.md) Configuration Protocol (RESTCONF)
+# [RESTful](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/restful.md) Configuration Protocol (RESTCONF)
 

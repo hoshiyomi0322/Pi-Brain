@@ -5,11 +5,6 @@
 - ### Transform
 - ### Load
 
-# CI/CD
-- ### Continuous Integration (CI)
-- ### Continuous Delivery/Deployment (CD)
-- ### CI/CD Pipeline
-
 # Data Warehouse
 
 # Data Lake

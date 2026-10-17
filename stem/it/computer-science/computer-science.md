@@ -25,7 +25,7 @@
 - ### [History of the Internet](./computer-networking/history-of-the-internet.md)
 
 # [Distributed Computing](./distributed-computing/distributed-computing.md)
-- ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models.md)
+- ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models/distributed-computing-system-models.md)
 - ### [Cloud Computing](./distributed-computing/cloud-computing.md)
 
 # [Operating System](./operating-system/operating-system.md)

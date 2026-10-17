@@ -1,3 +1,8 @@
+# [Communication Protocol](./communication-protocol/communication-protocol.md)
+- ### [Protocol Stack (Protocol Suite)](./communication-protocol/protocol-stack.md)
+- ### [Protocol Layer](./communication-protocol/protocol-layer/protocol-layer.md)
+- ### [Tunneling](./communication-protocol/tunneling/tunneling.md)
+
 # [Network Performance](./network-performance/network-performance.md)
 - ### [Data Transfer Rate](./network-performance/data-transfer-rate.md)
 
@@ -16,8 +21,6 @@
     - ### Port Forwarding
         <img src="./image/port-forwarding.png" width="65%">
 - ### [Internet Service Provider (ISP)](isp.md)
-- ### [Communication Protocol](./communication-protocol/communication-protocol.md)
-    - ### [Protocol Layer](./communication-protocol/protocol-layer/protocol-layer.md)
 
 # Error Detection and Correction in Networking
 - ### [Error Detection and Correction in Networking](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md)
@@ -54,7 +57,7 @@
     - #### combines two or more network topology types
 
 # Distributed Computing in Networking
-- ### [Architectural Model](../distributed-computing/distributed-computing-system-models.md#architectural-model-1)
+- ### [Architectural Model](../distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
 - ### [Cloud Computing](../distributed-computing/cloud-computing.md)
 
 # Types of Computer Networks
@@ -108,8 +111,8 @@
 - ### [History of the Internet](history-of-the-internet.md)
 
 # Web Service
-- ### [Representational State Transfer (REST, RESTful)](/stem/it/software-development/software-architectural-style/restful.md)
-- ### [Remote Procedure Call (RPC)](/stem/it/software-development/software-architectural-style/rpc.md)
+- ### [Representational State Transfer (REST, RESTful)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/restful.md)
+- ### [Remote Procedure Call (RPC)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md)
 - ### [Simple Object Access Protocol (SOAP)](./communication-protocol/protocol-layer/application-layer/soap.md)
 - ### [Web Services Description Language (WSDL)](/stem/it/coding/data-serialization/xml/wsdl.md)
 
