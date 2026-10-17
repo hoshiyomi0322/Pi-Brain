@@ -29,6 +29,8 @@
 - ### Inflection Point
     - ### $α=\text{Inflection Point},~\text{when }f^{\prime\prime}\left(α\right)=0\text{ and the concavity changes}$
     - ### Concavity Changes：$f^{\prime\prime}\left(α+n\right)\times f^{\prime\prime}\left(α-n\right)<0$
+- ### Newton's method
+- ### Quasi-Newton method
 
 # Chain Rule
 - ### Chain Rule
