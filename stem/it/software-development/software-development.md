@@ -28,8 +28,8 @@
 - ### [SOAP API](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/soap.md#soap-api)
 
 # [Software Engineering](./software-engineering/software-engineering.md)
+- ### [Software Development Life Cycle (SDLC)](./software-engineering/sdlc/sdlc.md)
 - ### [Software Architecture](./software-engineering/software-architecture/software-architecture.md)
-- ### [DevOps (Development and Operations)](./software-engineering/devops.md)
 - ### [Data Engineering](../computer-science/data-management/data-engineering.md)
 
 # Database System

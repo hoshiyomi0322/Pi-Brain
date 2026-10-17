@@ -1,7 +1,6 @@
-# Software Development Life Cycle (SDLC)
-- ### Waterfall Model
-- ### Agile Model
-- ### Software Release Life Cycle (SRLC)
+# [Software Development Life Cycle (SDLC)](./sdlc/sdlc.md)
+- ### [Software Development Models](./sdlc/software-development-models.md)
+- ### [DevOps (Development and Operations)](./sdlc/devops.md)
 
 # Computer-Aided Software Engineering (CASE)
 - ### Upper CASE
@@ -15,8 +14,6 @@
 # [Software Architecture](./software-architecture/software-architecture.md)
 - ### [Architectural Model](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
 
-# DevOps (Development and Operations)
-- ### [DevOps (Development and Operations)](devops.md)
 
 # Data Engineering
 - ### [Data Engineering](../../computer-science/data-management/data-engineering.md)
