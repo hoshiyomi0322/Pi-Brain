@@ -10,10 +10,11 @@
 
 # Object-Oriented Software Engineering (OOSE)
 
-
 # [Software Architecture](./software-architecture/software-architecture.md)
 - ### [Architectural Model](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
 
+# Failure Curve for Software
+<div align="center"><img src="./image/failure-curve-for-software.png" width="60%"></div>
 
 # Data Engineering
 - ### [Data Engineering](../../computer-science/data-management/data-engineering.md)
