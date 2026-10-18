@@ -6,6 +6,7 @@
 - ### [Proof Theory](proof-theory.md)
 - ### [Rules of Inference](./rules-of-inference/rules-of-inference.md)
 - ### [Mathematical Proof](./mathematical-proof/mathematical-proof.md)
+- ### [Computability Theory](computability-theory.md)
 
 # Truth Value (Logical Value)
 - ### True ($T,~\top$)

@@ -86,3 +86,5 @@
 
 # Cartesian Product
 
+# Russell's Paradox
+- ### Barber Paradox
