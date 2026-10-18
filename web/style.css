@@ -593,9 +593,7 @@ mjx-container::-webkit-scrollbar-thumb {
 .markdown-section h4 > a.anchor,
 .markdown-section h5 > a.anchor,
 .markdown-section h6 > a.anchor {
-    display: block !important;
-    max-width: 100% !important;
-    min-width: 0 !important;
+    display: inline !important;
 }
 
 .markdown-section docsify-latex {
