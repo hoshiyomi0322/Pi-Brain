@@ -20,14 +20,17 @@
 # CPU-I/O Burst Cycle
 <div align="center"><img src="./image/cpu-io-burst-cycle.png" width="30%"></div>
 
-- ### CPU bound
-- ### I/O bound
+- ### Time
+    - #### CPU Burst Time (Burst Time)
+    - #### I/O Burst Time (I/O Time)
+- ### Boung
+    - #### CPU Bound
+    - #### I/O Bound
 
 # Scheduling Criteria
-- ### CPU utilization
-- ### throughput
-- ### turnaround time
-- ### waiting time
-- ### response time
-
+- ### CPU Utilization
+- ### $\text{Throughput} = \frac{\text{Number of Completed Processes}}{\text{Total Time}}$
+- ### $\text{Turnaround Time} = \text{Completion Time} - \text{Arrival Time}$
+- ### $\text{Waiting Time} = \text{Turnaround Time} - \text{Burst Time} - \text{I/O Time}$
+- ### $\text{Response Time} = \text{First Response Time} - \text{Arrival Time}$
 
