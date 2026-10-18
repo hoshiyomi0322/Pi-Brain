@@ -1,5 +1,8 @@
 - ### Boolean Expression
     - ### [Minimization of Boolean Expressions](minimization-of-boolean-expressions.md)
+- ### Boolean Function (F)
+- ### Boolean Variable：$A,~B,~C,~\cdots$
+    - #### Literal：$A,~A',~B,~B',~C,~C',~\cdots$
 - ### Logic Diagram
 - ### Truth Table
 - ### Hardware Description Language (HDL)
@@ -10,7 +13,7 @@
 |Logic Gate|Boolean Expression|Logic Diagram Symbol|
 |:---:|:---:|:---:|
 |Buffer|$A$|<img src="./image/buffer.png" width="50%">|
-|NOT|$\overline{A},~A^\prime$|<img src="./image/not.png" width="50%">|
+|NOT|$\overline{A},~A'$|<img src="./image/not.png" width="50%">|
 |AND|$A\cdot B$|<img src="./image/and.png" width="50%">|
 |OR|$A+B$|<img src="./image/or.png" width="50%">|
 |NAND|$\overline{A\cdot B}$|<img src="./image/nand.png" width="50%">|
