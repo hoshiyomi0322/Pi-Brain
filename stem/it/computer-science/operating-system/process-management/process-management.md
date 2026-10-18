@@ -14,6 +14,18 @@
 
 # Interrupt
 
+- ### Types of Interrupts
+    - #### External Interrupt (Hardware Interrupt)
+    - #### Internal Interrupt
+    - #### Software Interrupt
+    - #### Trap = Internal Interrupt + Software Interrupt
+- ### Interrupt Handling
+    - #### Interrupt Vector Table (IVT)
+    - #### Interrupt Service Routine (ISR, Interrupt Handler)
+    - #### End Of Interrupt (EOI)
+    - #### Top Half and Bottom Half
+- ### Nested Interrupt
+
 # Time-sharing
 - ### virtual memory
 
@@ -43,3 +55,8 @@
 
 # Scheduling
 - ### [Scheduling](scheduling.md)
+
+# Process Synchronization
+
+# Deadlock
+
