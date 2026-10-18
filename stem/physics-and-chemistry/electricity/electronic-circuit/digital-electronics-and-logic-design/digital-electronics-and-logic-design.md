@@ -50,7 +50,7 @@
 - ### [Sequential Logic](./digital-electronics/sequential-logic/sequential-logic.md)
 
 # Encoding
-|Decimal|Binary|Gray Code|One-Hot|
+|Decimal|Binary|[Gray Code](#gray-code)|[One-Hot](#one-hot)|
 |:---:|:---:|:---:|:---:|
 |0|000|000|00000001|
 |1|001|001|00000010|
@@ -63,7 +63,7 @@
 - ### [Encoding](/stem/it/computer-science/data-representation/encoding/encoding.md)
 - ### Binary Encoding
     - #### Binary-Coded Decimal (BCD)
-- ### Gray Code：two continuous values differ in only one bit    
+- ### Gray Code：two continuous values differ in only one bit {#gray-code}
     - #### 1-bit Gray Code：$\{0,~1\}$
         |Binary|Gray Code|
         |:---:|:---:|
@@ -77,7 +77,7 @@
     - #### Example：2-bit Gray Code
         - $Reflect(G_{1})=Reflect(\{0,~1\})=\{1,~0\}$
         - $G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}$
-- ### One-Hot：only one of the bits of the value is $1$
+- ### One-Hot：only one of the bits of the value is $1$ {#one-hot}
 
 # Tri-State Logic
 - ### Tri-States
@@ -89,7 +89,7 @@
         - Input：$A,~B$
         - Output：$C$
     - ### Logic Diagram
-        <img src="./image/tri_state_buffer.png" width="40%">
+        <img src="./image/tri-state-buffer.png" width="40%">
     - ### Truth Table
         |$B$|$C$|
         |:---:|:---:|
