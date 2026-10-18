@@ -5,11 +5,11 @@
     - #### Sum Term：made of literals added (ORing) together {#sum-term}
 - ### Example (3 variables)
     - #### Example (SOP)
-        - SOP：$F=A'B + BC + AC$
-        - Product Term：$A'B,~BC,~AC$
+        - SOP：$F=\overline{A}B + BC + AC$
+        - Product Term：$\overline{A}B,~BC,~AC$
     - #### Example (POS)
-        - POS：$F=\left(A'+B\right) \cdot \left(B+C\right) \cdot \left(A+C\right)$
-        - Sum Term：$\left(A'+B\right),~\left(B+C\right),~\left(A+C\right)$
+        - POS：$F=\left(\overline{A}+B\right) \cdot \left(B+C\right) \cdot \left(A+C\right)$
+        - Sum Term：$\left(\overline{A}+B\right),~\left(B+C\right),~\left(A+C\right)$
 
 # Canonical Normal Form
 - ### Variables in the Boolean Function：$x_1 ,~\cdots,~ x_n$ {#variables-in-the-boolean-function}
@@ -28,7 +28,7 @@
         |Literals|$\text{value}_m\left(x_j\right)$|$\text{value}_M\left(x_j\right)$|
         |:---:|:---:|:---:|
         |$x_j$|$1$|$0$|
-        |${x_j}'$|$0$|$1$|
+        |$\overline{x_j}$|$0$|$1$|
     - #### Minterm：$m_i$
         - #### Minterm Index：$i=\sum\limits_{j=1}^n{2^{n-j}\text{value}_m\left(x_j\right)}$
     - #### Maxterm：$M_i$
@@ -38,13 +38,13 @@
         - Canonical POS：$F=\prod{M\left(i_1,~\cdots,~i_k\right)} = M_{i_1} \cdots M_{i_k}$
 - ### Example (3 variables)
     - #### Example (Canonical SOP)
-        - Minterm：$m_5=AB'C$
+        - Minterm：$m_5=A\overline{B}C$
             - Minterm Index：$5_{10}=101_2$
-        - Canonical SOP：$F=\sum{m\left(3,~5,~7\right)} = m_3+m_5+m_7 = A'BC + AB'C + ABC$
+        - Canonical SOP：$F=\sum{m\left(3,~5,~7\right)} = m_3+m_5+m_7 = \overline{A}BC + A\overline{B}C + ABC$
     - #### Example (Canonical POS)
-        - Maxterm：$M_5 = \left(A'+B+C'\right)$
+        - Maxterm：$M_5 = \left(\overline{A}+B+\overline{C}\right)$
             - Maxterm Index：$5_{10}=101_2$
-        - Canonical POS：$F=\prod{M\left(3,~5,~7\right)} = M_3 \cdot M_5 \cdot M_7 = \left(A+B'+C'\right) \cdot \left(A'+B+C'\right) \cdot \left(A'+B'+C'\right)$
+        - Canonical POS：$F=\prod{M\left(3,~5,~7\right)} = M_3 \cdot M_5 \cdot M_7 = \left(A+\overline{B}+\overline{C}\right) \cdot \left(\overline{A}+B+\overline{C}\right) \cdot \left(\overline{A}+\overline{B}+\overline{C}\right)$
 
 # Karnaugh map (K-map)
 - ### Construction
