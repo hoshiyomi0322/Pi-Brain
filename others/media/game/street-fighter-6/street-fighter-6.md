@@ -279,3 +279,4 @@
 - https://docs.google.com/spreadsheets/d/15U0knWcTcLw-BEUaFYq9bUEQ-3GefUEYjPdDalld4oI/edit?gid=139002400#gid=139002400
 - https://www.youtube.com/@FightingGroundsSF6/playlists
 - https://youtu.be/C1tN7YuqeDw
+- https://www.bilibili.com/video/BV1ARLY6zEGk?t=32.4
