@@ -1,10 +1,5 @@
-# Computer Architecture
-- ### Von Neumann Architecture
-    <img src="./image/von-neumann-architecture.png" width="50%">
-- ### Harvard Architecture
-    <img src="./image/harvard-architecture.png" width="50%">
-
 # Units of Computer
+- ### [Computer Architecture](../computer-organization-and-architecture/computer-organization-and-architecture.md#computer-architecture)
 - ### Input/Output Unit (I/O Unit, Peripheral Devices)
     <img src="./image/input-output-unit.png" width="55%">
 

@@ -1,4 +1,8 @@
-# [Computer Architecture](../computer-hardware/computer-hardware.md#computer-architecture)
+# Computer Architecture
+- ### Von Neumann Architecture
+    <img src="./image/von-neumann-architecture.png" width="50%">
+- ### Harvard Architecture
+    <img src="./image/harvard-architecture.png" width="50%">
 - ### [Units of Computer](../computer-hardware/computer-hardware.md#units-of-computer)
 
 # [Instruction Set Architecture (ISA)](isa/isa.md)
@@ -41,3 +45,5 @@
 - ### based on Microprocessor
 - ### dedicated to specific tasks
 
+# Firmware
+- ### [Firmware](firmware.md)
