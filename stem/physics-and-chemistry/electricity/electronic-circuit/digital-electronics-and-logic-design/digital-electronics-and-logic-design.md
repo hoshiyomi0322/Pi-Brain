@@ -79,7 +79,19 @@
         - $G_2=\{0\cdot G_{1}\}\cup \{1\cdot Reflect(G_{1})\}=\{00,~01\}\cup \{11,~10\}=\{00,~01,~11,~10\}$
 - ### One-Hot：only one of the bits of the value is $1$ {#one-hot}
 
-# Tri-State Logic
+# 2-Level logic
+- ### Binary Representation
+    |Logic Level|Binary|Represents|
+    |:---:|:---:|:---:|
+    |Logical High|1|True, ON|
+    |Logical Low|0|False, OFF|
+- ### Active state
+    |Logic Level|Active-high signal|Active-low signal|
+    |:---:|:---:|:---:|
+    |Logical High (1)|1|0|
+    |Logical Low (0)|0|1|
+
+# Tri-State Logic (Three-State Logic)
 - ### Tri-States
     - High Voltage Output State ($1$)
     - Low Voltage Output State ($0$)
@@ -96,6 +108,15 @@
         |$0$|$Z$|
         |$1$|$A$|
 - ### Tri-State Bus
+
+# Pulse
+- ### Pulse Period：$T=PW + T_{off}$
+    |Logic Level|Time|
+    |:---:|:---:|
+    |Logical High (1)|On Time (Pulse Width, PW)|
+    |Logical Low (0)|Off Time ($T_{off}$)|
+- ### Duty Cycle (Duty Ratio)：$D=\frac{PW}{T}\times 100\%$
+- ### Pulse-Width Modulation (PWM)
 
 # Hazard
 - ### Static Hazard
