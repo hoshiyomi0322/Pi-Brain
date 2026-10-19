@@ -1,6 +1,38 @@
  - ### ☄️ = おすすめ
  - ### 👀 = 後で見る
 
+# サイト
+- ### YouTube
+    - [Muse木棉花](https://www.youtube.com/@MuseTW)
+    - [Ani-One Asia](https://www.youtube.com/AniOneAsia)
+    - [アニプレックス](https://www.youtube.com/@aniplex)
+        - [Aniplex USA](https://www.youtube.com/@AniplexUSA)
+    - [KADOKAWAanime](https://www.youtube.com/@KADOKAWAanime)
+    - [TOHO animation](https://www.youtube.com/@TOHOanimation)
+    - [NBCUniversal Anime/Music](https://www.youtube.com/@NBCUniversalAnimeandMusic)
+- ### アニメ
+    - [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
+    - [Crunchyroll](https://www.crunchyroll.com/)
+    - [Myself 動漫](https://myself-bbs.com/)
+    - [Anime1.me](https://anime1.me/)
+    - [アニテイク](https://anitake.to/)
+    - [HiAnime](https://hianime.ms/)
+- ### 漫画
+    - #### 日本語
+        - [マンガUP！](https://www.manga-up.com/)
+        - [カドコミ](https://comic-walker.com/)
+        - [サンデーうぇぶり](https://www.sunday-webry.com/)
+        - [webエース](https://web-ace.jp/)
+    - #### 英語
+        - [Weeb Central](https://weebcentral.com/)
+        - [MangaDex](https://mangadex.org/)
+        - [KL](https://klz9.com/)
+        - [Rawkuma](https://rawkuma.net/)
+    - #### 中国語
+        - [看漫畫](https://tw.manhuagui.com/)
+- ### 小説
+    - [小説家になろう](https://syosetu.com/)
+
 # アニメのジャンル
 - ### [異世界・転生・冒険](#異世界転生冒険-1)
 - ### [ファンタジー・SF](#ファンタジーsf-1)
@@ -909,6 +941,7 @@
     - #### さみしがりやの竜 (害怕寂寞的龍)
 - ### いびってこない義母と義姉 (不虐待我的繼母與繼姐)👀
 - ### 世話やきキツネの仙狐さん (請讓我撒嬌，仙狐大人)👀
+- ### ゆらぎ荘の幽奈さん (搖曳莊的幽奈小姐)
 - ### じょしらく (女子落語)👀
 - ### 違国日記 (異國日記)👀
 - ### であいもん (相合之物)☄️👀
