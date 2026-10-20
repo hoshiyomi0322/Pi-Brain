@@ -20,7 +20,33 @@
 # Less
 |Command|Description|Example|
 |:---:|:---:|:---:|
-|`less [file]`||`less a.txt`, `history\|less`|
+|`less [options] [file]`|View file contents|`less a.txt`, `history\|less`|
+- ### Options
+    |Options|Description|
+    |:---:|:---:|
+    |`-N`|Show line numbers|
+    |`+G`|Start at the end of the file|
+    |`-S`|Chop long lines instead of wrapping|
+    |`-i`|Ignore case in [searches](#search) (case-insensitive)|
+- ### Function
+    |Command|Description|
+    |:---:|:---:|
+    |`Space`, `Ctrl + F`|Scroll one screen forward|
+    |`b`, `Ctrl + B`|Scroll one screen backward|
+    |`j`, `Ctrl + J`, `Enter`|Next line|
+    |`y`, `Ctrl + Y`|Previous line|
+    |`g`, `<`|Go to beginning of file|
+    |`G`, `>`|Go to end of file|
+    |`Ctrl + ←/→`|Scroll horizontally left/right|
+    |`<n>G`|Go to `n`th line|
+    |`q`|Quit|
+    - #### Search
+        |Command|Description|
+        |:---:|:---:|
+        |`/<string>`|Search forward for `string` in file|
+        |`?<string>`|Search backward for `string` in file|
+        |`n`|Jump to the next match|
+        |`N`|Jump to the previous match|
 
 # Head and Tail
 |Command|Description|Example|
