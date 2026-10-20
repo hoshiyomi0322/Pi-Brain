@@ -113,16 +113,26 @@
 # Find
 |Command|Description|Example|
 |:---:|:---:|:---:|
-|`find <search_path> [search_criteria...]`|||
+|`find <search_path> [search_criteria...] [actions]`|Searches for files and directories in `search_path` based on [search criteria](#search-criteria) and performs [actions](#actions)|`find . -name "*.log" -delete`|
 - ### Search Criteria
     |Search Criteria|Description|Example|
     |:---:|:---:|:---:|
-    |`-name <"filename">`|||
-    |`-type <f\|d\|l>`|File, Directory, Link||
-    |`-mtime <-n\|n\|+n>`|||
-    |`-size <-n\|+n><unit>`||
-    |`-perm <octal_mode>`|Search by [octal mode (permission mode)](/stem/it/computer-science/operating-system/linux/linux-file-system.md#octal-mode)|
-    |`-exec <command_name> {} \`||
+    |`-maxdepth <levels>`|Search up to `<levels>` of directories below the `<search_path>`|`-maxdepth 1` (current directory only)|
+    |`-mindepth <levels>`|Search at least `<levels>` of directories below the `<search_path>`|`-mindepth 2` (skips top-level files)|
+    |`-name <"filename">`|Search by file name, case-sensitive|`-name "a*.log"`|
+    |`-iname <"filename">`|Search by file name, case-insensitive|`-name "index*"`|
+    |`-type <f\|d\|l>`|Search by file type<br>File (`f`), Directory (`d`), Link (`l`)|`-type d`|
+    |`-mtime <-n\|n\|+n>`|Search by file modification time in days<br>less than n (`-n`), exactly n (`n`), greater than n (`+n`)|`-mtime -7` (modified within last 7 days)|
+    |`-size <-n\|+n><unit>`|Search by file size<br>units：`k`(kB), `M`(MB), `G`(GB)<br>smaller than n (`-n`), larger than n (`+n`)|`-size +100M` (larger than 100MB)|
+    |`-perm <octal_mode>`|Search by [octal mode (permission mode)](/stem/it/computer-science/operating-system/linux/linux-file-system.md#octal-mode)|`-perm 755`|
+    |`-user <username>`|Search for files owned by a specific username or UID|`-user root`|
+- ### Actions
+    |Actions|Description|Example|
+    |:---:|:---:|:---:|
+    |`-print`|Default action. Prints the full file name|`-print`|
+    |`-delete`|Delete matched files|`-delete`|
+    |`-quit`|Exit immediately|`-quit`|
+    |`-exec <command_name> {} \;`|Execute an external command on each matched file<br>(`{}` is replaced by the matched file path)|`-exec chmod 644 {} \;`, `-exec rm {} \;`|
 
 # Locate
 |Command|Description|Example|

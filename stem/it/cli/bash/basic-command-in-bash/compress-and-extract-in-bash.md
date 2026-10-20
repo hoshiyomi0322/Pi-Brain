@@ -2,13 +2,13 @@
 - ### Compress
     |Command|Description|Example|
     |:---:|:---:|:---:|
-    |`tar cf [options...] <filename.tar> <files...>`|Compress files to a compressed file with `filename.tar`|`tar cf sui.tar a.txt b.jpg`|
-    |`tar cf [options...] <filename.tar> <folder>`|Compress folder to a compressed file with `filename.tar`|`tar cf sui.tar a/`|
+    |`tar -cf [options...] <filename.tar> <files...>`|Compress files to a compressed file with `filename.tar`|`tar -cf sui.tar a.txt b.jpg`|
+    |`tar -cf [options...] <filename.tar> <folder>`|Compress folder to a compressed file with `filename.tar`|`tar -cf sui.tar a/`|
 - ### Extract
     |Command|Description|Example|
     |:---:|:---:|:---:|
-    |`tar xf <compressed_file>`|Extract compressed file|`tar xf sui.tar`, `tar xf sui.zip`, `tar xf sui.7z`|
-    |`tar xf <compressed_file> -C <directory>`|Extracts compressed file to a specified Directory|`tar xf sui.tar -C /path/d`|
+    |`tar -xf <compressed_file>`|Extract compressed file|`tar -xf sui.tar`, `tar -xf sui.zip`, `tar -xf sui.7z`|
+    |`tar -xf <compressed_file> -C <directory>`|Extracts compressed file to a specified Directory|`tar -xf sui.tar -C /path/d`|
 - #### Options
     |Options|Description|
     |:---:|:---:|

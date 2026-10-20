@@ -52,7 +52,7 @@
 |Character|Definition|Example|
 |:---:|:---:|:---:|
 |`*`|zero or more characters|(`*` match `a.txt`, `sui.jpg`, `ken.md`, ...)<br>(`a*.txt` match `a.txt`, `a1.txt`, `a-a.txt`, `a 322.txt`, ...)|
-|`?`|one character|(`a?.txt` match `a1.txt`, `aa.txt`, `a_.txt`,...)|
+|`?`|one character|(`a?.txt` match `a1.txt`, `aa.txt`, `a_.txt`,...)<br>(`??.txt` match `a1.txt`, `s_.txt`, `35.txt`,...)|
 |`[]`|any one character enclosed within the brackets|(`a[AB6].txt` match `aA.txt`, `aB.txt`, `a6.txt`)<br>(`a[a-c3-5].txt` match `aa.txt`, `ab.txt`, `ac.txt`, `a3.txt`, `a4.txt`, `a5.txt`)|
 |`[!]`|any one character not enclosed in the brackets|(`a[AB6].txt` match `aa.txt`, `a3.txt`, `a*.txt`)<br>(`a[a-c3-5].txt` match `a1.txt`, `aA.txt`, `ad.txt`, `a_.txt`, ...)|
 - ### Recursive Globbing：recursively match all as and folders

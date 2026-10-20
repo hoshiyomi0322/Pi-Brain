@@ -5,11 +5,11 @@
 - ### [CLI Shortcuts](../cli.md#cli-shortcuts)
 
 # Operator
-|Operators|Description|
-|:---:|:---:|
-|`;`||
-|`\|`||
-|`&`|Run in Background|
+|Operators|Description|Example|
+|:---:|:---:|:---:|
+|`;`|Command separator, runs multiple commands sequentially|`cd /log ; ls`|
+|`\|`|Pipe, passes the output of one command as input to the next|`ps aux \| grep ssh`|
+|`&`|Runs the command in the background|`sleep 10 &`|
 - ### Redirection Operators
     |Operators|Description|
     |:---:|:---:|
