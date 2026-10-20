@@ -23,5 +23,8 @@
     - ### Operator
 - ### Operator Overloading
 - ### Pointer
+- ### Generics
+    - #### Generic Type
+    - #### Generic Method
 - ### Short-circuit Evaluation
-
+- ### Exception Handling
