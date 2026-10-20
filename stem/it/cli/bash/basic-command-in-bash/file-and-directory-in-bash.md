@@ -20,8 +20,12 @@
 - ### Options
     |Options|Description|
     |:---:|:---:|
-    |`-a`||
-    |`-l`||
+    |`-a`|List all files|
+    |`-l`|[List files in detail](#detail-list)|
+- ### Detail List (`ls -l`) {#detail-list}
+    <img src="./image/detail-list.png" width="60%">
+
+    - [File Permission String](/stem/it/computer-science/operating-system/linux/linux-file-system.md#file-permission-string) + Number of [hard links](#hard-link) + Owner + Group + File size (Bytes) + Last modified time + File name
 
 # List Open Files (lsof)
 |Command|Description|Example|
