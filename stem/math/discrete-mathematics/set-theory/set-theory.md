@@ -85,6 +85,7 @@
     <img src="./image/inclusion–exclusion-principle.png" width="25%">
 
 # Cartesian Product
+<div align="center"><img src="./image/cartesian-product.png" width="30%"></div>
 
 # Russell's Paradox
 - ### Barber Paradox
