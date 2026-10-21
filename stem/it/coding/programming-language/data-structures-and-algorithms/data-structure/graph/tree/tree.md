@@ -9,7 +9,7 @@
 - ### Disjoint Set
 
 # Elements of Tree
-<div align="center"><img src="./image/tree.png" width="50%"></div>
+<div align="center"><img src="./image/tree.png" width="30%"></div>
 
 - ### Node
     |Node|Definition|Example|
@@ -25,7 +25,7 @@
     |Sibling Node|nodes that share the same parent node|D and E are sibling nodes|
 - ### Edge
 - ### Subtree
-    <img src="./image/subtree.png" width="70%">
+    <img src="./image/subtree.png" width="30%">
 
     |Subtree|Definition|
     |:---:|:---:|
@@ -36,9 +36,9 @@
 # Height and Depth
 |Name|Definition|Example|
 |:---:|:---:|:---:|
-|Height|the number of edges on the longest path from the given node down to a leaf node|<img src="./image/height.png" width="70%">|
-|Depth|the number of edges on the path from the root node down to the given node|<img src="./image/depth.png" width="70%">|
-|Level|the number of edges on the path from the root node down to the given node|<img src="./image/level.png" width="70%">|
+|Height|the number of edges on the longest path from the given node down to a leaf node|<img src="./image/height.png" width="40%">|
+|Depth|the number of edges on the path from the root node down to the given node|<img src="./image/depth.png" width="40%">|
+|Level|the number of edges on the path from the root node down to the given node|<img src="./image/level.png" width="40%">|
 
 # Tree Algorithms
 - ### [DP](/stem/it/coding/programming-language/data-structures-and-algorithms/algorithm/algorithm-design-techniques/dynamic-programming.md) on Tree
