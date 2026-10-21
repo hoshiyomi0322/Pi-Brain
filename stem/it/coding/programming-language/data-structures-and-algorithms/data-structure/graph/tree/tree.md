@@ -1,6 +1,6 @@
 # Tree Data Structure
 - ### General Tree
-- ### [Binary Tree](binary-tree.md)
+- ### [Binary Tree](./binary-tree/binary-tree.md)
 - ### K-Dimensional Tree(K-D Tree)
 - ### B+ Tree
 - ### [Spanning Tree](spanning-tree.md)
