@@ -52,3 +52,42 @@
 |`p`|Named Pipe|
 |`s`|Socket|
 
+# Dotfiles
+
+# Filesystem Hierarchy Standard
+|Directory|Description|
+|:---:|:---:|
+|`/home`|Users' home directories|
+|`/root`|Home directory for the root user|
+|`/usr`||
+|`/boot`|Boot loader files|
+|`/etc`||
+|`/mnt`|Temporarily mounted filesystems|
+|`/bin`||
+|`/tmp`||
+|`/dev`||
+|`/srv`||
+|`/var`||
+|`/lib`||
+|`/lib<qual>`||
+- ### `/usr`
+    |Directory|Description|
+    |:---:|:---:|
+    |`/usr/bin`||
+    |`/usr/sbin`||
+    |`/usr/local`||
+    |`/usr/lib`||
+    |`/usr/share`||
+    |`/usr/src`||
+- ### `/var`
+    |Directory|Description|
+    |:---:|:---:|
+    |`/var/cache`||
+    |`/var/lib`||
+    |`/var/lock`||
+    |`/var/log`||
+    |`/var/mail`||
+    |`/var/opt`||
+    |`/var/run`||
+    |`/var/spool`||
+    |`/var/tmp`||

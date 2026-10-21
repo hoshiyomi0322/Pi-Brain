@@ -28,5 +28,13 @@
     git gc --prune=now
     ```
 
-# git config
+# Git Configuration
 - ### Command：`git config`
+- ### Git Configuration Files
+    - `.git`
+    - `.gitconfig`
+    - `.github`
+    - `.gitattributes`
+    - `.gitignore `
+    - `.gitmessage`
+    - `.gitmodules`

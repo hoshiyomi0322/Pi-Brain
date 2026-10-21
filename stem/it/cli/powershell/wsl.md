@@ -1,6 +1,6 @@
 # WSL Location
 - ### Path in File Explorer：`\\wsl$\`
-- ### Mount (mnt)：`\mnt\`
+- ### [Mount (mnt)](../../computer-science/operating-system/linux/linux-file-system.md#filesystem-hierarchy-standard)：`\mnt\`
 
 ```powershell
 wsl
