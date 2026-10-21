@@ -22,7 +22,7 @@
     |Right Child Node|a child node positioned on the right side of its parent node|E is the right child node of B|
     |Ancestor Node|any node located on the upward path from a given node|A and B are the ancestor nodes of D|
     |Descendant Node|any node that can be reached by moving downward from a given node|B and D are the descendant nodes of A|
-    |Sibling Node|nodes that share the same parent node|D, E|
+    |Sibling Node|nodes that share the same parent node|D and E are sibling nodes|
 - ### Edge
 - ### Subtree
     <img src="./image/subtree.png" width="70%">
