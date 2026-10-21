@@ -21,4 +21,20 @@
 # Linux File System
 - ### [Linux File System](linux-file-system.md)
 
+# Window Manager (WM)
+- ### Types of WMs
+    - #### Stacking Window Manager
+    - #### Tiling Window Manager
+    - #### Dynamic Window Manager
+    - #### Compositing Window Manager
+- ### Display Server
+    - #### X Window System (X11)
+        - i3
+    - #### Wayland
+        - Hyprland
+        - Niri
 
+# Desktop Environment (DE)
+- ### KDE Plasma
+- ### GNOME
+- ### Unity
