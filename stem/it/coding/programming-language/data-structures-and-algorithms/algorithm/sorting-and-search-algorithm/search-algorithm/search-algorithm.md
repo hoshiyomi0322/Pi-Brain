@@ -1,12 +1,12 @@
-# Unordered Search
-- ### Linear Search (Sequential Search)
+# [Unordered Search](./types-of-searching/unordered-search.md)
+- ### [Linear Search (Sequential Search)](./types-of-searching/unordered-search.md#linear-search-sequential-search)
 
-# Ordered Search
-- ### Binary Search
-- ### Ternary Search
-- ### Exponential Search
-- ### Interpolation Search
-- ### Fibonacci Search
+# [Ordered Search](./types-of-searching/ordered-search.md)
+- ### [Binary Search](./types-of-searching/ordered-search.md#binary-search)
+- ### [Ternary Search](./types-of-searching/ordered-search.md#ternary-search)
+- ### [Exponential Search](./types-of-searching/ordered-search.md#exponential-search)
+- ### [Interpolation Search](./types-of-searching/ordered-search.md#interpolation-search)
+- ### [Fibonacci Search](./types-of-searching/ordered-search.md#fibonacci-search)
 
 # [Search Tree](../../../data-structure/graph/tree/types-of-trees/search-tree/search-tree.md)
 - ### [Binary Search Tree (BST)](../../../data-structure/graph/tree/types-of-trees/binary-tree/types-of-binary-trees/binary-search-tree/binary-search-tree.md)

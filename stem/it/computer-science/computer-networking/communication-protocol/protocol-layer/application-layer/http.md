@@ -1,18 +1,18 @@
 # HTTP Message Format
 - ### Encoding
-    - #### [ASCII Text](../../../../data-representation/encoding/character-encoding.md#ascii)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-linern)
+    - #### [ASCII Text](../../../../data-representation/encoding/character-encoding.md#ascii)：[Start Line](#start-line), [HTTP Header Fields](#http-header-fields), [Empty line](#empty-line)
     - #### Binary：Body
-- ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-linern) + Body
-    - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-linern) + Body
+- ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](#http-header-fields) + [Empty line](#empty-line) + Body
+    - ### HTTP Request Message：([Request line](#request-linehttp-method--uri--http-version) + [Request Header Fields](#request-header-fields)) + [Empty line](#empty-line) + Body
         <img src="./image/http-request-message.png" width="50%">
-    - ### HTTP Response Message：([Status line](#status-linehttp-version--http-status-code) + [Response Header Fields](#response-header-fields)) + [Empty line](#empty-linern) + Body
+    - ### HTTP Response Message：([Status line](#status-linehttp-version--http-status-code) + [Response Header Fields](#response-header-fields)) + [Empty line](#empty-line) + Body
         <img src="./image/http-response-message.png" width="50%">
 - ### Start Line
     - ### Request line：[HTTP Method](#http-method) + [URI](../../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version)
     - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](#http-status-code)
-- ### Empty line：`\r\n`
-    - Carriage Return (CR)：`\r`
-    - Line Feed (LF)：`\n`
+- ### Empty line：[CRLF (`\r\n`)](../../../../data-representation/data-representation.md#crlf) {#empty-line}
+    - [Carriage Return (CR)](../../../../data-representation/data-representation.md#cr)：`\r`
+    - [Line Feed (LF)](../../../../data-representation/data-representation.md#lf)：`\n`
 
 # HTTP Connection
 <div align="center"><img src="./image/http-connection.png" width="55%"></div>
@@ -53,7 +53,7 @@
     |**Protocol Layer**|<img src="./image/http-1-1.png" width="100%">|<img src="./image/http-2.png" width="100%">|<img src="./image/http-3.png" width="100%">|
     |**Transport Layer**|[TCP](../transport-layer/tcp.md)|[TCP](../transport-layer/tcp.md)|[UDP](../transport-layer/udp.md)+[QUIC](../protocol-layer.md#quic)|
     |**HTTP Connection**|[HTTP Persistent Connection](#http-persistent-connection-http11)<br>[HTTP Pipelining (Optional)](#pipelining-http11)|[Multiplexing](../../../network-access/multiple-access.md#multiplexing)|HTTP/3 over [QUIC](../protocol-layer.md#quic)|
-    |**Data Format**|ASCII|Binary|Binary|
+    |**Data Format**|[ASCII](../../../../data-representation/encoding/character-encoding.md#ascii)|Binary|Binary|
     |**Header Compression**|None|HPACK|QPACK|
     |**Prioritization**|None|Stream Prioritization<br>(Weights, Dependencies)|Extensible Priorities<br>(Urgency, Incremental)|
 

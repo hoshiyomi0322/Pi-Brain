@@ -40,6 +40,11 @@
 - ### [Compression Encoding](./encoding/compression-encoding.md)
 - ### [Error Detection and Correction](./encoding/error-detection-and-correction.md)
 
+# End-of-Line Characters (EOL Characters)
+- ### New Line, Line Break, Line Feed (LF) {#lf}
+- ### Carriage Return (CR) {#cr}
+- ### CRLF
+
 # Control Character
 |Description|[Control Pictures (Unicode)](./encoding/character-encoding.md#control-pictures)|[Hex (ASCII)](./encoding/character-encoding.md#character-set-hex)|[Escape Sequence](#escape-sequence--character)|
 |:---:|:---:|:---:|:---:|
@@ -53,10 +58,10 @@
 |Bell, Alert|`BEL`|07|`\a`|
 |Backspace|`BS`|08|`\b`|
 |Horizontal Tab|`HT`|09|`\t`|
-|New Line, Line Break, Line Feed (LF)|`LF`|0A|`\n`|
+|[New Line, Line Break, Line Feed (LF)](#lf)|`LF`|0A|`\n`|
 |Vertical Tab|`VT`|0B|`\v`|
 |Form Feed (Page Break)|`FF`|0C|`\f`|
-|Carriage Return (CR)|`CR`|0D|`\r`|
+|[Carriage Return (CR)](#cr)|`CR`|0D|`\r`|
 |Shift Out|`SO`|0E|
 |Shift In|`SI`|0F|
 |Data Link Escape|`DLE`|10|
@@ -85,8 +90,8 @@
     |:---:|:---:|
     |`\0`|Null|
     |`\a`|Bell, Alert|
-    |`\n`|New Line, Line Break, Line Feed (LF)|
-    |`\r`|Carriage Return (CR)|
+    |`\n`|[New Line, Line Break, Line Feed (LF)](#lf)|
+    |`\r`|[Carriage Return (CR)](#cr)|
     |`\f`|Form Feed (Page Break)|
     |`\t`|Horizontal Tab|
     |`\v`|Vertical Tab|
