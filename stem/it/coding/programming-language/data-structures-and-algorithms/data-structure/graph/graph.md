@@ -3,7 +3,7 @@
 
 - ### Directed Graph
 
-    - ### [Tree Data Structure](./tree/tree.md)
+    - ### [Tree Data Structure (Tree)](./tree/tree.md)
     - ### Directed Acyclic Graph (DAG)
         <img src="./image/dag.png" width="40%">
 - ### [Regular Graph](#regular-graph-1)
@@ -48,7 +48,7 @@
 - ### [Graph Traversal](./graph-algorithms/graph-traversal.md)
 - ### [Shortest Path Algorithm](./graph-algorithms/shortest-path-algorithm.md)
 - ### [Topological Sort](./graph-algorithms/topological-sort.md)
-- ### [Tree Algorithm](./tree/tree.md#tree-algorithm)
+- ### [Tree Algorithms](./tree/tree.md#tree-algorithms)
 
 # Graph Problems
 - ### [Eulerian Graph](./graph-problems/eulerian-graph.md)

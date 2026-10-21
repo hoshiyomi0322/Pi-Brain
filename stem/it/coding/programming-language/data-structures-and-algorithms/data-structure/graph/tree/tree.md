@@ -1,10 +1,9 @@
-# Tree Data Structure
+# Types of Trees
 - ### General Tree
-- ### [Binary Tree](./binary-tree/binary-tree.md)
-- ### K-Dimensional Tree(K-D Tree)
-- ### B+ Tree
-- ### [Spanning Tree](spanning-tree.md)
-- ### Abstract Syntax Tree(AST)
+- ### [Binary Tree](./types-of-trees/binary-tree/binary-tree.md)
+- ### [Search Tree](./types-of-trees/search-tree/search-tree.md)
+- ### [Spanning Tree](./types-of-trees/spanning-tree/spanning-tree.md)
+- ### Abstract Syntax Tree (AST)
 - ### Decision Tree
     - ### Game Tree
 - ### Disjoint Set
@@ -42,7 +41,7 @@
 |Level|the number of edges on the path from the root node down to the given node|<img src="./image/level.png" width="70%">|
 
 # Tree Algorithms
-- ### [DP](../../../algorithm/dynamic-programming.md) on Tree
+- ### [DP](/stem/it/coding/programming-language/data-structures-and-algorithms/algorithm/algorithm-design-techniques/dynamic-programming.md) on Tree
 - ### Centroid Decomposition
 - ### Lowest Common Ancestor (LCA)
 - ### Binary Lifting

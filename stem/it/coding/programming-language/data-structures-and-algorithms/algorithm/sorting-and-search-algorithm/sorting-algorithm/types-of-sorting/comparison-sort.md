@@ -7,7 +7,7 @@
 
 # Merge Sort
 
-# [Heap](/stem/it/coding/programming-language/data-structures-and-algorithms/data-structure/graph/tree/binary-tree/complete-binary-tree/binary-heap.md) Sort
+# [Heap](/stem/it/coding/programming-language/data-structures-and-algorithms/data-structure/graph/tree/types-of-trees/binary-tree/types-of-binary-trees/complete-binary-tree/binary-heap.md) Sort
 
 # Insertion Sort
 - ### Shell Sort
