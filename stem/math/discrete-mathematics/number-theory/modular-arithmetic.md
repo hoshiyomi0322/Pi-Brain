@@ -5,6 +5,7 @@
     - $5 \bmod{3} = 2,~5=3\times1+2$
     - $-5 \bmod{3} = 1,~-5=3\times\left(-2\right)+1$
 - ### Properties of Modulo
+    - $a \bmod{m} = (a + m) \bmod{m}$
     - $\left(a+b\right) \bmod{m} = \left(a\bmod{m} + b\bmod{m}\right) \bmod{m}$
         - $\left(a+m\right) \bmod{m} = a\bmod{m}$
     - $\left(a-b\right) \bmod{m} = \left(a\bmod{m} - b\bmod{m}\right) \bmod{m}$
