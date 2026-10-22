@@ -1,6 +1,9 @@
 # Prime Number (Prime)
 - ### [Prime Number (Prime)](prime-number.md)
 
+# Modular Arithmetic
+- ### [Modular Arithmetic](modular-arithmetic.md)
+
 # Perfect Number
 - ### $n=\sum{f}=2^{k-1} \times \left(2^k-1\right)$
     - #### $f=\text{divisors excluding the number itself}$
@@ -23,5 +26,6 @@
 
 # Riemann Hypothesis
 
-# Modular Arithmetic
-- ### [Modular Arithmetic](modular-arithmetic.md)
+# Bézout's Identity
+- ### [Extended Euclidean Algorithm](/stem/it/coding/programming-language/data-structures-and-algorithms/algorithm/euclidean-algorithm.md#extended-euclidean-algorithm)
+

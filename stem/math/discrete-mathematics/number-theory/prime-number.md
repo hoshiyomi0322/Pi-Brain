@@ -1,6 +1,8 @@
 # Prime Number (Prime)
 - ### Coprime
 - ### Mersenne Prime
+    - #### Mersenne numbers：$M_n=2^n-1$
+    - $\text{If }M_n\text{ is prime},~\text{then }M_n\text{ is Mersenne Prime},~\text{and }n\text{ is prime}$
 - ### Fermat Prime
 
 # Pseudoprime
@@ -8,6 +10,7 @@
     - #### Carmichael Numbers
 
 # Fermat's Little Theorem
+- ### [Euler's Theorem](modular-arithmetic.md#eulers-theorem)
 - ### $a^p \equiv a\pmod{p}$
     - $p=\text{prime number}$
     - $a=\text{integer}$

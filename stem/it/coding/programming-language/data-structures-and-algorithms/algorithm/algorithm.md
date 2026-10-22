@@ -18,10 +18,10 @@
 - ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm/sorting-algorithm.md)
 - ### [Search Algorithm](./sorting-and-search-algorithm/search-algorithm/search-algorithm.md)
 
-# Euclidean Algorithm
-- ### Greatest Common Divisor (GCD)
-- ### Least Common Multiple (LCM)
-- ### Extended Euclidean Algorithm
+# [Euclidean Algorithm](euclidean-algorithm.md)
+- ### [Greatest Common Divisor (GCD)](euclidean-algorithm.md#greatest-common-divisor-gcd)
+- ### [Least Common Multiple (LCM)](euclidean-algorithm.md#least-common-multiple-lcm)
+- ### [Extended Euclidean Algorithm](euclidean-algorithm.md#extended-euclidean-algorithm)
 
 # Prime Number Algorithm
 - ### [Generation of Prime](./prime-number-algorithm/generation-of-prime.md)

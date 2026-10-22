@@ -28,6 +28,7 @@
 
 # Convert Array to Binary Tree
 - ### Convert Array to [Complete Binary Tree](#complete-binary-tree)
+    - Use [Level-order](#level-order)
     - Index = i
     - [Root Node](../../tree.md#node) = First element (i = 0)
     - For the element at i
