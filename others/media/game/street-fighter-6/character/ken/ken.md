@@ -35,6 +35,7 @@
 # Heavy Attack Combo
 - ### 5HP Combo
     - 5HP + [Medium Cancel Combo](#medium-cancel-combo)
+    - 對手 しゃがみ：5HP + [OD龍尾腳 Combo](./ken-special-move/ken-special-move.md#od龍尾腳-combo)
 - ### 2HP Combo
     - 2HP + [Medium Cancel Combo](#medium-cancel-combo)/[強迅雷 Combo](./ken-special-move/ken-236k.md)
 - ### 2HK Combo
@@ -43,13 +44,14 @@
     - (DR + 2HP) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### DR 5HP Combo
     - (DR + 5HP) + [5MP Combo](#5mp-combo)/[強迅雷 Combo](./ken-special-move/ken-236k.md#強迅雷-combo)
+    - 對手 しゃがみ：(DR + 5HP) + (中龍尾腳 + 2LP*2 + [5MP Combo](#5mp-combo))
 - ### DR 5HP Air Combo
     - (DR + 5HP) + [跑步5HK Combo](./ken-special-move/ken-special-move.md#跑步5hk-combo)/[跑步昇竜 Combo](./ken-special-move/ken-special-move.md#跑步昇竜-combo)
 
 # Medium Attack Combo
 - ### 5MP Combo
     - 5MP + [Medium Cancel Combo](#medium-cancel-combo)
-    - (5MP + 5HP) + 中龍尾腳 + [5F打摔擇](#5f打摔擇-4f5f)
+    - (5MP + 5HP) + 消費(中龍尾腳) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### 5MP跑步 Combo
         - (5MP + 5HP) + [跑步 Air Combo]()
         - (5MP + 5HP) + 跑步旋風腳 + [42F OKI](ken.md#42f-oki)
@@ -88,13 +90,16 @@
     - 8/9 + JHP + [5MP Combo]()/[2HP Combo]()
 
 # Counter Combo
+- ### 5HP Counter Combo
+    - 5HP(Counter) + [強迅雷 Combo](./ken-special-move/ken-236k.md#強迅雷-combo)
+    - 對手 しゃがみ：5HP(Counter) + (中龍尾腳 + 2LP*2 + [5MP Combo](#5mp-combo))
 
 # PC Combo
-- 龍尾腳(PC) + [5MP Combo](#5mp-combo)
-- [跑步 PC Combo](./ken-special-move/ken-special-move.md#跑步-pc-combo)
+- [跑步 PC Combo](./ken-special-move/ken-special-move.md#跑步-pc-combo)/[龍尾腳 PC Combo](./ken-special-move/ken-special-move.md#龍尾腳-pc-combo)
 - ### 5HP PC Combo
     - 5HP(PC) + [強迅雷 Combo](./ken-special-move/ken-236k.md#強迅雷-combo)
     - Close：5HP(PC) + [5MP Combo](#5mp-combo)
+    - 對手 しゃがみ：5HP(PC) + (中龍尾腳 + 2LP*2 + [5MP Combo](#5mp-combo))
 - ### 2HP PC Combo
     - 2HP(PC) + (跑步煞車 + [2LP Combo](#2lp-combo))
 - ### 5HK PC Combo

@@ -65,7 +65,11 @@
 # 迅雷 Combo
 - ### [迅雷 Combo](ken-236k.md)
 
-# 龍尾腳 Combo
+# 龍尾腳 PC Combo
+- 龍尾腳(PC) + [5MP Combo](#5mp-combo)
+
+# OD龍尾腳 Combo
+- 對手 しゃがみ：OD龍尾腳 + (2LP*2 + [5MP Combo](../ken.md#5mp-combo))
 
 # OD龍尾腳 Air Combo
 - OD龍尾腳 + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)/[OD旋風腳 Combo](#od旋風腳-combo)/SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
