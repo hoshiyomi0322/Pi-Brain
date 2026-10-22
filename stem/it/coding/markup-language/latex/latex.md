@@ -318,7 +318,7 @@ $\displaystyle{text}$
 |Natural Logarithm|$\ln{x}$|`\ln{x}`|
 |Degree|$\deg{x}$|`\deg{x}`|
 |Argument|$\arg{x}$|`\arg{x}`|
-|Greatest Common Divisor|$\gcd{x}$|`\gcd{x}`|
+|Greatest Common Divisor|$\gcd{ \left(a,~b\right) }$|`\gcd{ \left( a,~b \right) }`|
 |Binomial coefficient|$\binom{n}{k}$|`\binom{n}{k}`|
 - ### [Trigonometric Functions](/stem/math/trigonometric-and-hyperbolic-functions/trigonometric-functions.md)
     |Output|LaTex|
