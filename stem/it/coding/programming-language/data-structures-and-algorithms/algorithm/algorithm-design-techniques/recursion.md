@@ -16,7 +16,7 @@
     }
     ```
 - ### Matrix Fast Exponentiating by Squaring
-- ### Fast Modular Exponentiation
+- ### Fast [Modular](/stem/math/discrete-mathematics/number-theory/modular-arithmetic.md) Exponentiation
     
     - #### Fast Modular Exponentiation in C
 
