@@ -76,6 +76,7 @@
     - ### Corner 裂縫 投げ擇
         - 裂縫 + [General Corner 裂縫 投げ擇](#general-corner-裂縫-投げ擇)/[Corner 裂縫 Shimmy (バクステ)](../../shimmy.md#corner-裂縫-shimmy-バクステ)
         - 對手 投げ抜け：裂縫 + 前投げ(投げ抜け) + (DR + 5MK + 裂縫引爆 + [Mid Corner 裂縫引爆 Combo](jp-departure-shadow.md#mid-corner-裂縫引爆-combo))
+        - 裂縫 + [Corner 裂縫 弱風神](#corner-裂縫-弱風神)
 
 # Corner 5HP OD裂縫擇
 - ### Close Corner 5HP OD裂縫擇
@@ -189,9 +190,13 @@
     - ### その場受け身 Close Midscreen 強裂縫擇
         - ### Midscreen 裂縫 投げ擇
             - 強裂縫 + [General Midscreen 裂縫 投げ擇](#general-midscreen-裂縫-投げ擇)/[Midscreen 裂縫 Shimmy (バクステ)](../../shimmy.md#midscreen-裂縫-shimmy-バクステ)
+            - 強裂縫 + (2LK + 2LP + 弱風神) + [Midscreen 強地刺 Combo](../jp-special-move.md#midscreen-強地刺-combo)/[SA1 Combo](../../jp.md#sa1-combo)
+                - 強裂縫 + (2LK + 2LP + 弱風神) + (前ステ + DR + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo))
+                - Near-wall：強裂縫 + (2LK + 2LP + 弱風神) + [Close JMK Air Combo](../../jp.md#close-jmk-air-combo)
             - #### 對手 バックジャンプ
                 - 強裂縫 + 前投げ(對手 バックジャンプ) + DR + (6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo))
                 - 強裂縫 + 前投げ(對手 バックジャンプ) + DR + [投げ](../jp.md#投げ)
+            - Corner：[Corner 裂縫 投げ擇](#corner-裂縫-投げ擇)
         - ### Midscreen 裂縫 強TC擇
             - 強裂縫 + (5HK + 5HP + 弱地刺) + [強風神 Combo](../jp-stribog.md#強風神-combo)
             - 強裂縫 + [General Midscreen 裂縫 強TC擇](#general-midscreen-裂縫-強tc擇)

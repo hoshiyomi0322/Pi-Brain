@@ -37,6 +37,8 @@
 # Midscreen SA2 Reset
 - SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + [SA2 強裂縫 Extension Combo](jp-sa2.md#sa2-強裂縫-extension-combo)/[General Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#general-midscreen-裂縫-投げ擇)
     - 對手 パナシ：SA2 + 2HP + (9 + [F式](../jp.md#f式)) + 強裂縫 + (5HP + 弱地刺 + delay(等裂縫引爆) + 強地刺)
+- sa2 + (4MP + 強裂縫 + 弱地刺) + 2HP + 消費(CDR + delay(等DR換邊) + 2MK) + [強風神 Combo](../jp-special-move/jp-stribog.md#強風神-combo)/[2HP Reset](../jp-heavy-attack-combo/jp-hp-combo.md#2hp-reset)
+    - 裂縫ガード：sa2 + (4MP + 強裂縫 + 弱地刺) + 2HP + 消費(CDR + delay(等DR換邊) + 2MK) + [強TC Combo](../jp.md#強tc-combo)
 
 # DI コマ投げ SA2 Reset
 - SA2 + (5MK + 弱裂縫) + 前ステ*2 + (9 + [F式](../jp.md#f式)) + (前ステ + 2LP) + Reset(DI/コマ投げ)
@@ -54,9 +56,11 @@
 # 投げ SA2 Reset
 - SA2 + (2MK + 5HK + 2MP + delay(no cancel) + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
 - SA2 + (5MK*2 + 2MK + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
-- ### C-Switch 投げ SA2 Reset
-    - SA2 + (5MK*2 + 2MK + 弱裂縫) + Reset(後ろ投げ) + [Corner DR 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#corner-dr-裂縫引爆-combo)
-    - SA2 + (5MK*2 + 2MK + 弱裂縫) + [Midscreen 裂縫 Shimmy (バクステ)](../shimmy.md#midscreen-裂縫-shimmy-バクステ)
+- ### Switch 投げ SA2 Reset
+    - SA2 + (2MK + 9 + 前ステ + 2LP + 強裂縫) + [Midscreen 裂縫 投げ擇](../jp-special-move/jp-departure/jp-departure-mix-up.md#midscreen-裂縫-投げ擇)
+    - #### C-Switch 投げ SA2 Reset
+        - SA2 + (5MK*2 + 2MK + 弱裂縫) + Reset(後ろ投げ) + [Corner DR 裂縫引爆 Combo](../jp-special-move/jp-departure/jp-departure-shadow.md#corner-dr-裂縫引爆-combo)
+        - SA2 + (5MK*2 + 2MK + 弱裂縫) + [Midscreen 裂縫 Shimmy (バクステ)](../shimmy.md#midscreen-裂縫-shimmy-バクステ)
 
 # Midscreen 弱風神 SA2 Reset
 - ### 弱風神 SA2擇
