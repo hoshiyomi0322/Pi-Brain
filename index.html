@@ -617,7 +617,12 @@
                     }
                     resultsContainer.innerHTML =
                         visibleResults.map(function (item) {
-                            const fileName = item.file.replace(/\.md$/i, '');
+                            const fileName = item.file
+                                .split('/')
+                                .pop()
+                                .replace(/\.md$/i, '')
+                                .replace(/-/g, ' ')
+                                .replace(/\b\w/g, function (c) { return c.toUpperCase(); });
                             return `
                                 <a href="#"
                                         class="pi-heading-search-result level-${item.level}"
