@@ -50,6 +50,8 @@
     - (DR + 2MK) + [5MK Combo](#5mk-combo)
 - ### DR 5MP Combo
     - (DR + 5MP) + [推掌 Combo](arjun-special-move.md#推掌-combo)/[肩撞 Combo](arjun-special-move.md#肩撞-combo)
+- ### 2MP Combo
+    - 2MP + 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 
 # Light Attack Combo
 - ### 5LP Combo
@@ -144,6 +146,9 @@
 - ### DI OKI (25F/26F)
     - DI/[ODコマ投げ Combo](arjun-special-move.md#odコマ投げ-combo)
     - 帶地刺：DI + [帶地刺 Wall Splat Combo](#帶地刺-wall-splat-combo)
+    - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### Corner 地刺 重ね (30F/31F)
+    - 地刺 + 弱推掌 + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo)
 - ### 42F OKI
     - 安全飛び
     - 消費(2LP) + [DI OKI](#di-oki-25f26f)
@@ -160,6 +165,7 @@
     - 地刺/delay地刺/OD地刺/delayOD地刺
     - 消費(5MP) + [DI OKI](#di-oki-25f26f)
     - ### Corner 56F 地刺 OKI
+        - 消費(前ステ)
         - [当身派生 OKI](#当身派生-oki-51f63f)
         - delay地刺 + (5LP + 弱推掌 + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo))
             - delay地刺 + (2LK + 2LP + [強地刺肩撞 Combo](arjun-special-move.md#強地刺肩撞-combo))
@@ -172,6 +178,7 @@
 - ### 75F 地刺 OKI (74F/75F)
     - 地刺/delay地刺/OD地刺/delayOD地刺
     - ### Corner 75F 地刺 OKI
+        - 消費(前ステ*2) + [Corner 地刺 重ね](#corner-地刺-重ね-30f31f)
         - [当身派生 重ね](#当身派生-重ね-64f84f)
         - delay地刺 + [delay地刺 Extension Combo](arjun-special-move.md#delay地刺-extension-combo)
             - delay地刺 + ガード(6HP) + [5MP OKI](#5mp-oki-8f14f)
