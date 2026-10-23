@@ -1,3 +1,10 @@
+# Properties of Algorithm
+- ### Input：an algorithm takes zero or more well-defined inputs
+- ### Output：an algorithm produces at least one well-defined output
+- ### Finiteness：the algorithm must terminate after a finite number of steps
+- ### Definiteness：each step must be clear, precise, and unambiguous
+- ### Effectiveness：each step must be sufficiently simple, basic, and feasible
+
 # Complexity
 - ### [Complexity](complexity.md)
 
@@ -7,11 +14,11 @@
 - ### Greedy Algorithm
 - ### Exhaustive Algorithm (Brute Force Method)
 - ### Divide and Conquer
-    - ### Closest Pair of Points Problem
+    - #### Closest Pair of Points Problem
 - ### Decrease and Conquer
 - ### Transform and Conquer
-- ### Backtracking
-    - ### Eight Queens Puzzle
+- ### [Backtracking](./algorithm-design-techniques/backtracking.md)
+    - #### [Eight Queens Puzzle](./algorithm-design-techniques/backtracking.md#eight-queens-puzzle)
 - ### Branch and Bound
 
 # Sorting and Search Algorithm
@@ -34,16 +41,20 @@
 - ### Metaheuristic
 - ### [Iterative Improvement](iterative-improvement.md)
 
-# [Combinatorial Optimization](combinatorial-optimization.md)
-- ### [Travelling Salesman Problem (TSP)](combinatorial-optimization.md#travelling-salesman-problem-tsp)
-- ### [Knapsack problem](combinatorial-optimization.md#knapsack-problem)
-
 # Two Pointers
 - ### Left and Right Pointers
 - ### Fast and Slow Pointers
 
 # [Graph Algorithms](../data-structure/graph/graph.md#graph-algorithms)
 - ### [Tree Algorithms](../data-structure/graph/tree/tree.md#tree-algorithms)
+
+# Combinatorial Problem
+- ### [Combinatorial Optimization Problem (COP)](./combinatorial-problem/combinatorial-optimization-problem.md)
+    - #### [Travelling Salesman Problem (TSP)](./combinatorial-problem/combinatorial-optimization-problem.md#travelling-salesman-problem-tsp)
+    - #### [Knapsack problem](./combinatorial-problem/combinatorial-optimization-problem.md#knapsack-problem)
+- ### Constraint Satisfaction Problem (CSP)
+    - #### [Eight Queens Puzzle](./algorithm-design-techniques/backtracking.md#eight-queens-puzzle)
+    - #### [Graph Coloring Problem](../data-structure/graph/graph-problems/graph-coloring-problem.md)
 
 # Other Algorithm
 - ### Randomized Algorithm
