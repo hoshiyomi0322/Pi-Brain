@@ -56,6 +56,15 @@
     - #### [Eight Queens Puzzle](./algorithm-design-techniques/backtracking.md#eight-queens-puzzle)
     - #### [Graph Coloring Problem](../data-structure/graph/graph-problems/graph-coloring-problem.md)
 
+# [Matrix Multiplication](matrix-multiplication.md)
+- ### [Strassen Algorithm](matrix-multiplication.md#strassen-algorithm)
+- ### [Matrix Chain Multiplication](matrix-multiplication.md#matrix-chain-multiplication)
+- ### [Matrix Fast Exponentiating by Squaring](fast-exponentiation.md#matrix-fast-exponentiating-by-squaring)
+
+# [Exponentiation by Squaring (Fast Exponentiation)](fast-exponentiation.md)
+- ### [Matrix Fast Exponentiating by Squaring](fast-exponentiation.md#matrix-fast-exponentiating-by-squaring)
+- ### [Fast Modular Exponentiation](fast-exponentiation.md#fast-modular-exponentiation)
+
 # Other Algorithm
 - ### Randomized Algorithm
 - ### Monte Carlo method

@@ -1,13 +1,12 @@
 # Linear Data Structure
 - ### Array
 - ### [Linked List](#linked-list-1)
-    - ### Singly Linked List
-    - ### Doubly Linked List
-    - ### Circular Linked List
+    - #### Singly Linked List
+    - #### Doubly Linked List
+    - #### Circular Linked List
 - ### [Queue](#queue-1)
-    - ### Double-Ended Queue(Deque)
-    - ### Circular Queue
-    - ### Priority Queue
+    - #### Double-Ended Queue(Deque)
+    - #### Circular Queue
 - ### [Stack](#stack-1)
 
 # Linked List

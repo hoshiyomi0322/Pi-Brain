@@ -10,5 +10,6 @@
 - ### [Graph Algorithms](./graph/graph.md#graph-algorithms)
 - ### [Graph Problems](./graph/graph.md#graph-problems)
 
-# Hash Table
+# Priority Queue
 
+# Hash Table

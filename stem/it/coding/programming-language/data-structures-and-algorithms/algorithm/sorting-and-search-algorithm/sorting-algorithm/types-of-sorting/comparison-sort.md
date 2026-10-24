@@ -4,6 +4,8 @@
 # Quick Sort
 - ### Hoare Partition
 - ### Lomuto Partition
+- ### Example
+    <img src="./image/quick-sort.png" width="60%">
 
 # Merge Sort
 
@@ -13,3 +15,6 @@
 - ### Shell Sort
 
 # Selection Sort
+- ### Example
+    <img src="./image/selection-sort.png" width="60%">
+

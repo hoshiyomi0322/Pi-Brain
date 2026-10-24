@@ -31,7 +31,7 @@
     1. Given an odd number $n$ ($n>2$)
     2. Pick a random integer $a$ in the range $2 \le a \le n-2$
     3. $\text{If }\gcd{\left(a,~n\right)}\ne 1,~\text{then }n\text{ is composite}$
-    4. Calculate $\left(a^{n-1} \bmod{m}\right)$ using [Fast Modular Exponentiation](../algorithm-design-techniques/recursion.md#fast-modular-exponentiation)
+    4. Calculate $\left(a^{n-1} \bmod{m}\right)$ using [Fast Modular Exponentiation](../fast-exponentiation.md#fast-modular-exponentiation)
     5. $\text{If }\left(a^{n-1} \bmod{m}\right)\ne 1,~\text{then }n\text{ is composite}$
        - $\text{If }\left(a^{n-1} \bmod{m}\right)= 1,~\text{then }n\text{ is probably prime}$
     6. Repeat this test $k$ times with different random values of $a$ to increase confidence
