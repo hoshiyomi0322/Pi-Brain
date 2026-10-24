@@ -58,3 +58,6 @@
         - OD迅雷delay強派生*3 + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)/[跑步5HK Air Combo](ken-special-move.md#跑步5hk-air-combo)
     - #### Corner OD迅雷中派生 High-Air Combo
         - OD迅雷delay中派生二段 + SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
+
+# Midscreen OD迅雷 High-Air Combo
+- OD迅雷delay強派生 + [跑步 Air Combo](ken-special-move.md#跑步-air-combo)

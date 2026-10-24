@@ -60,7 +60,8 @@
     - 跑步龍尾腳 + [強昇竜 Air Combo](#強昇竜-air-combo)/[OD旋風腳 Combo](#od旋風腳-combo)/SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
     - 跑步龍尾腳 + [42F OKI](../ken.md#42f-oki)
 - ### 跑步5HK Air Combo
-    - 跑步5HK + SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
+    - 跑步5HK + SA1/SA2
+    - Close/Corner：跑步5HK + [SA3 Combo](../ken.md#sa3-combo)
 
 # 迅雷 Combo
 - ### [迅雷 Combo](ken-236k.md)

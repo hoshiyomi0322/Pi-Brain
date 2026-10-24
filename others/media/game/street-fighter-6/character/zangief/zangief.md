@@ -105,6 +105,8 @@
     - 2MK*2 + [Medium Cancel Combo](#medium-cancel-combo)
     - 2MK*2 + 2MK + [Medium Cancel Combo](#medium-cancel-combo)
     - 2MK*2 + ガード(2MK) + [Light CDR Combo](#light-cdr-combo)
+- ### Corner DR 5MP Air Reset
+    - (DR + 5MP*2) + [5F打摔擇](#5f打摔擇-3f5f)
 
 ## Light Attack combo
 - ### 5LP Combo
@@ -137,10 +139,10 @@
 
 # PC Combo
 - ### 2HP PC Combo
-    - 2HP(PC) + [DR 6MK Air Combo](#dr-6mk-air-combo)
+    - 2HP(PC) + [DR 6MK Air Combo](#dr-6mk-air-combo)/
     - 2HP(PC) + (DR + [2HP Reset](#2hp-reset))
     - Corner
-        - 2HP(PC) + [Corner 3MP Air Combo](#corner-3mp-air-combo)
+        - 2HP(PC) + [Corner 3MP Air Combo](#corner-3mp-air-combo)/[Corner DR 5MP Air Reset](#corner-dr-5mp-air-reset)
         - 2HP(PC) + 6MK + [10F打摔擇](#10f打摔擇)
         - 2HP(PC) + 旋風手 + [DI OKI](#di-oki-25f26f)
 - ### 5HK PC Combo
@@ -161,16 +163,16 @@
     - DI(PC) + (前ステ + [3MP Air Combo](#3mp-air-combo)/[2HP Reset](#2hp-reset))
     - DI(PC) + (前ステ + 6MK) + 消費(6MK) + [8F打摔擇](#8f打摔擇-6f9f)
     - DI(PC) + [DR 6MK Air Combo](#dr-6mk-air-combo)
+    - Corner：DI(PC) + (前ステ + [Corner DR 5MP Air Reset](#corner-dr-5mp-air-reset))
     - #### C-Switch DI PC Combo
         - DI(PC) + (9 + J2HP) + (旋風手 + 前ステ + [5F打摔擇](#5f打摔擇-3f5f))
         - DI(PC) + (9 + J2HP) + (OD旋風手 + 前ステ + [10F打摔擇](#10f打摔擇))
         - DI(PC) + (9 + J2HP) + SA1/(9 + Air-コマ投げ)
 - ### Wall Splat Combo
-    - DI(Wall spalt) + [Corner 3MP Air Combo](#corner-3mp-air-combo)
+    - DI(Wall spalt) + [Corner 3MP Air Combo](#corner-3mp-air-combo)/[Corner DR 5MP Air Reset](#corner-dr-5mp-air-reset)
     - DI(Wall spalt) + [2HP Reset](#2hp-reset)
 - ### Stun Combo
     - DI(Stun) + 
-
 
 # Cancel Combo
 - ### Medium Cancel Combo
@@ -185,7 +187,6 @@
     - #### Light CDR Combo
         - CDR + 2LP + [3MP Combo](#3mp-combo)
         - CDR + delay + [コマ投げ Combo](#コマ投げ-combo)/[6HP Combo](#6hp-combo)
-
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
