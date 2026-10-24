@@ -15,8 +15,8 @@
 - ### Strict Bounds
     |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|
     |:---:|:---:|:---:|
-    |Worst-case<br>(Strict Upper Bound)|Little o Notation<br>$T\left(n\right)=o\left(g\left(n\right)\right)$|$T\left(n\right) < c\times g\left(n\right) \\ \lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
-    |Best-case<br>(Strict Lower Bound)|Little ω Notation<br>$T\left(n\right)=ω\left(g\left(n\right)\right)$|$T\left(n\right) > c\times g\left(n\right) \\ \lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
+    |Worst-case<br>(Strict Upper Bound)|Little o Notation<br>$T\left(n\right)=o\left(g\left(n\right)\right)$|$T\left(n\right) < c\times g\left(n\right)$<br>$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
+    |Best-case<br>(Strict Lower Bound)|Little ω Notation<br>$T\left(n\right)=ω\left(g\left(n\right)\right)$|$T\left(n\right) > c\times g\left(n\right)$<br>$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
 - #### Example
     - number of operations：$T\left(n\right)=2n^2+n+1$
     - Time Complexity
