@@ -10,8 +10,8 @@
     |Average-case<br>(Tight Bound)|Big Θ Notation<br>$T\left(n\right)=Θ\left(g\left(n\right)\right)$|<img src="./image/average-case.png" width="30%"><br>$c_1\times g\left(n\right) \le T\left(n\right) \le c_2\times g\left(n\right)$|
     - $\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=c$
     - $T\left(n\right) \approx c\times g\left(n\right)$
-    - $c=\text{Leading Coefficient}$
-    - $g\left(n\right) = \text{the dominant term of }T(n)\text{ ignoring coefficients}$
+    - $c=\text{the Leading Coefficient of }T\left(n\right)$
+    - $g\left(n\right) = \text{the Dominant Term of }T\left(n\right)\text{ ignoring coefficients}$
 - ### Strict Bounds
     |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|
     |:---:|:---:|:---:|
