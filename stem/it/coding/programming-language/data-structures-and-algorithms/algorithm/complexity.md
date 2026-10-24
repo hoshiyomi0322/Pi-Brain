@@ -4,16 +4,16 @@
     - $c = \text{Constant}$
     - $g\left(n\right) = \text{the dominant term of }T(n)\text{ ignoring coefficients}$
 - ### Time Complexity：$f\left(n\right)$
-    |Time Complexity|Notation|Definition<br>($\text{for }n\ge n_0$)||
-    |:---:|:---:|:---:|:---:|
+    |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|
+    |:---:|:---:|:---:|
     |Worst-case<br>(Upper Bound)|Big O Notation<br>$T\left(n\right)=O\left(g\left(n\right)\right)$|<img src="./image/worst-case.png" width="30%"><br>$T\left(n\right) \le c\times g\left(n\right)$|
     |Best-case<br>(Lower Bound)|Big Ω Notation<br>$T\left(n\right)=Ω\left(g\left(n\right)\right)$|<img src="./image/best-case.png" width="30%"><br>$T\left(n\right) \ge c\times g\left(n\right)$|
     |Average-case|Big Θ Notation<br>$T\left(n\right)=Θ\left(g\left(n\right)\right)$|<img src="./image/average-case.png" width="30%"><br>$c_1\times g\left(n\right) \le T\left(n\right) \le c_2\times g\left(n\right)$|
     - #### Strict Bounds
-        |Time Complexity|Notation|Definition<br>($\text{for }n\ge n_0$)||
-        |:---:|:---:|:---:|:---:|
-        |Worst-case Time Complexity<br>(Strict Upper Bound)|Little o Notation<br>$T\left(n\right)=o\left(g\left(n\right)\right)$|$T\left(n\right) < c\times g\left(n\right)$|
-        |Best-case Time Complexity<br>(Strict Lower Bound)|Little ω Notation<br>$T\left(n\right)=ω\left(g\left(n\right)\right)$|$T\left(n\right) > c\times g\left(n\right)$|
+        |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|
+        |:---:|:---:|:---:|
+        |Worst-case<br>(Strict Upper Bound)|Little o Notation<br>$T\left(n\right)=o\left(g\left(n\right)\right)$|$T\left(n\right) < c\times g\left(n\right) \\ \lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
+        |Best-case<br>(Strict Lower Bound)|Little ω Notation<br>$T\left(n\right)=ω\left(g\left(n\right)\right)$|$T\left(n\right) > c\times g\left(n\right) \\ \lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
 - #### Example
     - number of operations：$T\left(n\right)=2n^2+n+1$
     - Time Complexity (Worst-case) = $O\left(n^2\right)$
