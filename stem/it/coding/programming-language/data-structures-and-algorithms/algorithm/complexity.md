@@ -14,18 +14,18 @@
         </thead>
         <tr>
             <th align="center">Worst-case<br>(Upper Bound)</th>
-            <td align="center">Big O Notation<br>$T\left(n\right)=O\left(g\left(n\right)\right)$</td>
+            <td align="center">Big O Notation<br>$T\left(n\right)=O\Bigl(g\left(n\right)\Bigr)$</td>
             <td align="center"><img src="./image/worst-case.png" width="30%"><br>$T\left(n\right) \le c\times g\left(n\right)$</td>
-            <td align="center" rowspan="3"> $\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=c_L$ <br> $T\left(n\right) \approx c_L\times g\left(n\right)$ <br> $c_L=\text{the Leading Coefficient of }T\left(n\right)$ <br> $g\left(n\right) = \text{the Dominant Term of }T\left(n\right)\text{ ignoring coefficients} \left(c_L\right)$ </td>
+            <td align="center" rowspan="3"> $\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=c_l$ <br> $T\left(n\right) \approx c_l\times g\left(n\right)$ <br> $c_l=\text{the Leading Coefficient of }T\left(n\right)$ <br> $g\left(n\right) = \text{the Dominant Term of }T\left(n\right)\text{ ignoring coefficients} \left(c_l\right)$ </td>
         </tr>
         <tr>
             <th align="center">Best-case<br>(Lower Bound)</th>
-            <td align="center">Big Ω Notation<br>$T\left(n\right)=Ω\left(g\left(n\right)\right)$</td>
+            <td align="center">Big Ω Notation<br>$T\left(n\right)=Ω\Bigl(g\left(n\right)\Bigr)$</td>
             <td align="center"><img src="./image/best-case.png" width="30%"><br>$T\left(n\right) \ge c\times g\left(n\right)$</td>
         </tr>
         <tr>
             <th align="center">Average-case<br>(Tight Bound)</th>
-            <td align="center">Big Θ Notation<br>$T\left(n\right)=Θ\left(g\left(n\right)\right)$</td>
+            <td align="center">Big Θ Notation<br>$T\left(n\right)=Θ\Bigl(g\left(n\right)\Bigr)$</td>
             <td align="center"><img src="./image/average-case.png" width="30%"><br>$c_1\times g\left(n\right) \le T\left(n\right) \le c_2\times g\left(n\right)$</td>
         </tr>
     </table>
@@ -33,8 +33,8 @@
     - #### Strict Bounds
         |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|Limit|
         |:---:|:---:|:---:|:---:|
-        |**Worst-case<br>(Strict Upper Bound)**|Little o Notation<br>$T\left(n\right)=o\left(g\left(n\right)\right)$|$T\left(n\right) < c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
-        |**Best-case<br>(Strict Lower Bound)**|Little ω Notation<br>$T\left(n\right)=ω\left(g\left(n\right)\right)$|$T\left(n\right) > c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
+        |**Worst-case<br>(Strict Upper Bound)**|Little o Notation<br>$T\left(n\right)=o\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) < c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
+        |**Best-case<br>(Strict Lower Bound)**|Little ω Notation<br>$T\left(n\right)=ω\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) > c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
 - #### Example
     - number of operations：$T\left(n\right)=2n^2+n+1$
     - Time Complexity
@@ -49,7 +49,7 @@
             </thead>
             <tr>
                 <th align="center">Upper Bound</th>
-                <td align="center" rowspan="3"> $\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=2 \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n^2}}=\lim\limits_{n\to\infty}{2}=2$ </td>
+                <td align="center" rowspan="3"> $\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=2 \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n^2}}=2$ </td>
                 <td align="center" rowspan="3">$g\left(n\right)=n^2$</td>
                 <td align="center">$T\left(n\right)=O\left(n^2\right)$</td>
             </tr>
@@ -63,21 +63,51 @@
             </tr>
             <tr>
                 <th align="center">Strict Upper Bound</th>
-                <td align="center">$\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=0 \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n^3}}=\lim\limits_{n\to\infty}{\frac{1}{n}}=0$</td>
+                <td align="center">$\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=0 \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n^3}}=0$</td>
                 <td align="center">$g\left(n\right)=n^3$</td>
                 <td align="center">$T\left(n\right)=o\left(n^3\right)$</td>
             </tr>
             <tr>
                 <th align="center">Strict Lower Bound</th>
-                <td align="center">$\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=\infty \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n}}=\lim\limits_{n\to\infty}{n}=\infty$</td>
+                <td align="center">$\lim\limits_{n\to\infty}{\frac{2n^2+n+1}{g\left(n\right)}}=\infty \implies \lim\limits_{n\to\infty}{\frac{2n^2+n+1}{n}}=\infty$</td>
                 <td align="center">$g\left(n\right)=n$</td>
                 <td align="center">$T\left(n\right)=ω\left(n\right)$</td>
             </tr>
         </table>
-- ### Common Time Complexities
+- ### Order of Growth
     <img src="./image/time-complexity.png" width="40%">
+    <table border="1">
+        <thead>
+            <tr>
+                <th align="center">Time Complexity</th>
+                <th align="center">$O\Bigl(g\left(n\right)\Bigr)$<br>($a>1,~b>1$)</th>
+                <th align="center">Name</th>
+                <th align="center">Example</th>
+            </tr>
+        </thead>
+        <tr>
+            <td align="center" rowspan="9">Faster<br>$\downarrow$<br>Slower</td>
+            <th align="center">$O\left(\log_a{n}\right)$</th>
+            <th align="center">Constant time</th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(\log_a{n}\right)$</th>
+            <th align="center">Logarithmic time</th>
+            <th align="center">[Binary search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search)</th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(\left(\log_a{n}\right)^b\right)$</th>
+            <th align="center">Polylogarithmic time</th>
+            <th align="center">1</th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(n\right)$</th>
+            <th align="center">Linear time</th>
+            <th align="center">[Linear search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search)</th>
+        </tr>
+    </table>
 
-    |Time Complexity|$O\left(g\left(n\right)\right)$<br>($a>1,~b>1$)|Name|Example|
+    |Time Complexity|$O\Bigl(g\left(n\right)\Bigr)$<br>($a>1,~b>1$)|Name|Example|
     |:---:|:---:|:---:|:---:|
     |Faster|$O\left(1\right)$|Constant time||
     |$\downarrow$|$O\left(\log_a{n}\right)$|Logarithmic time|[Binary search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search)|
@@ -88,7 +118,11 @@
     |$\downarrow$|$O\left(n^a\right)$|Polynomial time (P)|[Matrix multiplication](matrix-multiplication.md#matrix-multiplication)|
     |$\downarrow$|$O\left(a^n\right)$|Exponential time||
     |Slower|$O\left(n!\right)$|Factorial time||
-
+- ### Properties of Time Complexity
+    - $T\left(n\right)=O\Bigl(T\left(n\right)\Bigr)$
+    - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr),~\text{then }g\left(n\right)=Ω\Bigl(T\left(n\right)\Bigr)$
+    - $\text{If }T_1\left(n\right)=O\Bigl(g_1\left(n\right)\Bigr)\text{ and }T_2\left(n\right)=O\Bigl(g_2\left(n\right)\Bigr),~\text{then }T_1\left(n\right)+T_2\left(n\right)=O\biggl(\max{ \Bigl( g_1\left(n\right),~g_2\left(n\right) \Bigr) }\biggr)$
+    - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr)\text{ and }g\left(n\right)=O\Bigl(h\left(n\right)\Bigr),~\text{then }T\left(n\right)=O\Bigl(h\left(n\right)\Bigr)$
 # Space Complexity
 
 # Computational Complexity Theory
