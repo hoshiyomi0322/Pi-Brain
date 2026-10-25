@@ -45,7 +45,7 @@
     |Bits (s + e + f)|s(1 bits) + e(8 bits) + f(23 bits)|s(1 bits) + e(11 bits) + f(52 bits)|
     |Bias|127|1023|
 - ### Finite Binary Fraction：an irreducible fraction whose denominator has no prime factors other than 2
-    - $\frac{a}{2^n}\left(a\in Z,~n\in Z,~n\ge 0\right)$
+    - $\frac{a}{2^n}\left(a\in \mathbb{Z},~n\in \mathbb{Z},~n\ge 0\right)$
     - Example：$\frac{19}{2},~\frac{1}{8}$
 - ### Rounding Mode
     - #### Round to Nearest (Even)

@@ -14,7 +14,7 @@
 - ### General form (Normal form)
     - $ax+by=c$
 - ### Parametric form
-    - $\begin{cases}{x=x_1+α_1t}\\{y=y_1+α_2t}\end{cases},~t\in R$
+    - $\begin{cases}{x=x_1+α_1t} \\ {y=y_1+α_2t}\end{cases},~t\in \mathbb{R}$
 - ### Slope-Intercept form
     - $y=mx+y_0$
 - ### Intercept form

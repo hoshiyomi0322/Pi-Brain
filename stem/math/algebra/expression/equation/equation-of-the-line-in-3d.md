@@ -4,7 +4,7 @@
 
 # Forms of the Equation of Plane
 - ### Parametric form
-    - $\begin{cases}{x=x_1+α_1t}\\{y=y_1+α_2t}\\{z=z_1+α_3t}\end{cases},~t\in R$
+    - $\begin{cases}{x=x_1+α_1t} \\ {y=y_1+α_2t} \\ {z=z_1+α_3t}\end{cases},~t\in \mathbb{R}$
 - ### Symmetric form
     - $\frac{x-x_1}{α_1}=\frac{y-y_1}{α_2}=\frac{z-z_1}{α_3}$
 - ### [Two-Plane form](#two-plane-form-1)

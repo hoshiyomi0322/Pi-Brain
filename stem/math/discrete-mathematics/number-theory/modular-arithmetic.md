@@ -1,6 +1,6 @@
 # Modulo
 - $a \bmod{m} = r$
-    - $a=m\times q+r,~q\in Z,~0\le r < m$
+    - $a=m\times q+r,~q\in \mathbb{Z},~0\le r < m$
 - ### Example
     - $5 \bmod{3} = 2,~5=3\times1+2$
     - $-5 \bmod{3} = 1,~-5=3\times\left(-2\right)+1$

@@ -1,9 +1,9 @@
 # Quantifier
 |Name|Symbol|Definition|Example|
 |:---:|:---:|:---:|:---:|
-|Universal Quantifier|$\forall x$|$\text{For All }x$|$\forall x \in R:x^2 \ge 0$|
-|Existential Quantifier|$\exists x$|$\text{There Exists at least one }x$|$\exists x \in R:x^2=4$|
-|Uniqueness Quantifier|$\exists! x$|$\text{There Exists a Unique }x$|$\exists !x \in R:x+3=5$|
+|Universal Quantifier|$\forall x$|$\text{For All }x$|$\forall x \in \mathbb{R}:x^2 \ge 0$|
+|Existential Quantifier|$\exists x$|$\text{There Exists at least one }x$|$\exists x \in \mathbb{R}:x^2=4$|
+|Uniqueness Quantifier|$\exists! x$|$\text{There Exists a Unique }x$|$\exists !x \in \mathbb{R}:x+3=5$|
 - ### Counting Quantifier
     |Symbol|Definition|Example|
     |:---:|:---:|:---:|

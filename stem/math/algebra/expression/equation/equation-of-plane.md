@@ -12,7 +12,7 @@
 - ### General Form (Normal Form)
     - $ax+by+cz=d$
 - ### Parametric Form
-    - $\begin{cases} {x=x_1+α_1t+β_1s}\\{y=y_1+α_2t+β_2s}\\{z=z_1+α_3t+β_3s} \end{cases},~s\in R,~t\in R$
+    - $\begin{cases} {x=x_1+α_1t+β_1s} \\ {y=y_1+α_2t+β_2s} \\ {z=z_1+α_3t+β_3s} \end{cases},~s\in \mathbb{R},~t\in \mathbb{R}$
 - ### Intercept Form
     - $\frac{x}{x_0}+\frac{y}{y_0}+\frac{z}{z_0}=1$
 - ### Point-Slope form
