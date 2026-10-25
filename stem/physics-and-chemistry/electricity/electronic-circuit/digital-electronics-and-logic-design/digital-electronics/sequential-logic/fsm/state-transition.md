@@ -13,32 +13,32 @@
                     <th align="center" colspan="2">Output</th>
                 </tr>
                 <tr>
-                    <td align="center">x=0</td>
-                    <td align="center">x=1</td>
-                    <td align="center">x=0</td>
-                    <td align="center">x=1</td>
+                    <td align="center">$x=0$</td>
+                    <td align="center">$x=1$</td>
+                    <td align="center">$x=0$</td>
+                    <td align="center">$x=1$</td>
                 </tr>
             </thead>
             <tr>
-                <th align="center">A</th>
-                <td align="center">C</td>
-                <td align="center">A</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <th align="center">$A$</th>
+                <td align="center">$C$</td>
+                <td align="center">$A$</td>
+                <td align="center">$0$</td>
+                <td align="center">$0$</td>
             </tr>
             <tr>
-                <th align="center">B</th>
-                <td align="center">A</td>
-                <td align="center">B</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <th align="center">$B$</th>
+                <td align="center">$A$</td>
+                <td align="center">$B$</td>
+                <td align="center">$0$</td>
+                <td align="center">$0$</td>
             </tr>
             <tr>
-                <th align="center">C</th>
-                <td align="center">C</td>
-                <td align="center">B</td>
-                <td align="center">1</td>
-                <td align="center">1</td>
+                <th align="center">$C$</th>
+                <td align="center">$C$</td>
+                <td align="center">$B$</td>
+                <td align="center">$1$</td>
+                <td align="center">$1$</td>
             </tr>
         </table>
 
