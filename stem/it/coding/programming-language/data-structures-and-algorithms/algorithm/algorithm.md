@@ -6,7 +6,7 @@
 - ### Effectiveness：each step must be sufficiently simple, basic, and feasible
 
 # Complexity
-- ### [Complexity](complexity.md)
+- ### [Complexity](./complexity/complexity.md)
 
 # Algorithm Design Techniques
 - ### [Recursion](./algorithm-design-techniques/recursion.md)

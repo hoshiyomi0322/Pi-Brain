@@ -3,7 +3,7 @@
     - ### [Linear Data Structure](./data-structures-and-algorithms/data-structure/linear-data-structure/linear-data-structure.md)
     - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
 - ### [Algorithm](./data-structures-and-algorithms/algorithm/algorithm.md)
-    - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity.md)
+    - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity/complexity.md)
 
 # Types of Programming Language
 - ### [C](./types-of-programming-language/c/c.md)

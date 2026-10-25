@@ -93,7 +93,7 @@
         <tr>
             <th align="center">$O\left(\log_a{n}\right)$</th>
             <th align="center">Logarithmic time</th>
-            <th align="center"> <a href="./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search">Binary search</a> </th>
+            <th align="center"> <a href="../sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search">Binary search</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(\left(\log_a{n}\right)^b\right)$</th>
@@ -102,22 +102,22 @@
         <tr>
             <th align="center">$O\left(n\right)$</th>
             <th align="center">Linear time</th>
-            <th align="center"> <a href="./sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search">Linear search</a> </th>
+            <th align="center"> <a href="../sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search">Linear search</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(n\log_a{n}\right)$</th>
             <th align="center">Linearithmic time</th>
-            <th align="center"> <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#merge-sort">Merge sort</a> </th>
+            <th align="center"> <a href="../sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#merge-sort">Merge sort</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(n^2\right)$</th>
             <th align="center">Quadratic time</th>
-            <th align="center"> <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#bubble-sort">Bubble sort</a>, <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#insertion-sort">Insertion sort</a>, <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#selection-sort">Selection sort</a> </th>
+            <th align="center"> <a href="../sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#bubble-sort">Bubble sort</a>, <a href="../sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#insertion-sort">Insertion sort</a>, <a href="../sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#selection-sort">Selection sort</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(n^a\right)$</th>
             <th align="center">Polynomial time (P)</th>
-            <th align="center"> <a href="matrix-multiplication.md#matrix-multiplication">Matrix multiplication</a> </th>
+            <th align="center"> <a href="../matrix-multiplication.md#matrix-multiplication">Matrix multiplication</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(a^n\right)$</th>
@@ -145,7 +145,9 @@
 - ### NP-Complete
     - $\text{NP-Complete}=\text{NP}\cap \text{NP-Hard}$
 
-# Master Theorem
-- ### Master Theorem：$T\left(n\right)=aT\left(\frac{n}{b}\right)+f\left(n\right)$
+# [Solving Recurrence Relations](solving-recurrence-relations.md)
+- ### [Substitution method](solving-recurrence-relations.md#substitution-method)
+- ### [Recursion-Tree method](solving-recurrence-relations.md#recursion-tree-method)
+- ### [Master method](solving-recurrence-relations.md#master-method)
 
 # Amortized Analysis
