@@ -87,42 +87,53 @@
         </thead>
         <tr>
             <td align="center" rowspan="9">Faster<br>$\downarrow$<br>Slower</td>
-            <th align="center">$O\left(\log_a{n}\right)$</th>
+            <th align="center">$O\left(1\right)$</th>
             <th align="center">Constant time</th>
         </tr>
         <tr>
             <th align="center">$O\left(\log_a{n}\right)$</th>
             <th align="center">Logarithmic time</th>
-            <th align="center">[Binary search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search)</th>
+            <th align="center"> <a href="./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search">Binary search</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(\left(\log_a{n}\right)^b\right)$</th>
             <th align="center">Polylogarithmic time</th>
-            <th align="center">1</th>
         </tr>
         <tr>
             <th align="center">$O\left(n\right)$</th>
             <th align="center">Linear time</th>
-            <th align="center">[Linear search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search)</th>
+            <th align="center"> <a href="./sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search">Linear search</a> </th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(n\log_a{n}\right)$</th>
+            <th align="center">Linearithmic time</th>
+            <th align="center"> <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#merge-sort">Merge sort</a> </th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(n^2\right)$</th>
+            <th align="center">Quadratic time</th>
+            <th align="center"> <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#bubble-sort">Bubble sort</a>, <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#insertion-sort">Insertion sort</a>, <a href="./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#selection-sort">Selection sort</a> </th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(n^a\right)$</th>
+            <th align="center">Polynomial time (P)</th>
+            <th align="center"> <a href="matrix-multiplication.md#matrix-multiplication">Matrix multiplication</a> </th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(a^n\right)$</th>
+            <th align="center">Exponential time</th>
+        </tr>
+        <tr>
+            <th align="center">$O\left(n!\right)$</th>
+            <th align="center">Factorial time</th>
         </tr>
     </table>
-
-    |Time Complexity|$O\Bigl(g\left(n\right)\Bigr)$<br>($a>1,~b>1$)|Name|Example|
-    |:---:|:---:|:---:|:---:|
-    |Faster|$O\left(1\right)$|Constant time||
-    |$\downarrow$|$O\left(\log_a{n}\right)$|Logarithmic time|[Binary search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/ordered-search.md#binary-search)|
-    |$\downarrow$|$O\left(\left(\log_a{n}\right)^b\right)$|Polylogarithmic time|||
-    |$\downarrow$|$O\left(n\right)$|Linear time|[Linear search](./sorting-and-search-algorithm/search-algorithm/types-of-searching/unordered-search.md#linear-search-sequential-search)|
-    |$\downarrow$|$O\left(n\log_a{n}\right)$|Linearithmic time|[Merge sort](./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#merge-sort)|
-    |$\downarrow$|$O\left(n^2\right)$|Quadratic time|[Bubble sort](./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#bubble-sort), [Insertion sort](./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#insertion-sort), [Selection sort](./sorting-and-search-algorithm/sorting-algorithm/types-of-sorting/comparison-sort.md#selection-sort)|
-    |$\downarrow$|$O\left(n^a\right)$|Polynomial time (P)|[Matrix multiplication](matrix-multiplication.md#matrix-multiplication)|
-    |$\downarrow$|$O\left(a^n\right)$|Exponential time||
-    |Slower|$O\left(n!\right)$|Factorial time||
 - ### Properties of Time Complexity
     - $T\left(n\right)=O\Bigl(T\left(n\right)\Bigr)$
     - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr),~\text{then }g\left(n\right)=Ω\Bigl(T\left(n\right)\Bigr)$
     - $\text{If }T_1\left(n\right)=O\Bigl(g_1\left(n\right)\Bigr)\text{ and }T_2\left(n\right)=O\Bigl(g_2\left(n\right)\Bigr),~\text{then }T_1\left(n\right)+T_2\left(n\right)=O\biggl(\max{ \Bigl( g_1\left(n\right),~g_2\left(n\right) \Bigr) }\biggr)$
     - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr)\text{ and }g\left(n\right)=O\Bigl(h\left(n\right)\Bigr),~\text{then }T\left(n\right)=O\Bigl(h\left(n\right)\Bigr)$
+
 # Space Complexity
 
 # Computational Complexity Theory
