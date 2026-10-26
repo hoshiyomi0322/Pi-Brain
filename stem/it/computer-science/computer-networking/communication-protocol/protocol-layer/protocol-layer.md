@@ -74,7 +74,7 @@
 - ### Sliding Window Protocol
 - ### [Automatic Repeat-reQuest (ARQ)](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md#automatic-repeat-request-arq)
 - ### [Address Resolution Protocol (ARP)](./other-protocol/arp.md)
-    - #### [ARP Command](/stem/it/cli/bash/bash-networking.md#address-resolution-protocol-arp-command)
+    - #### [ARP Command](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md#address-resolution-protocol-arp-command)
     - #### [ARP Spoofing](./other-protocol/arp.md#arp-spoofing)
 - ### [Tunneling Protocol](../tunneling/tunneling.md#tunneling-protocol)
     - #### [VPN Protocol](../tunneling/tunneling.md#vpn-protocol)

@@ -157,5 +157,5 @@ sudo apt-get purge <package-name>
 - ### [Rclone](./linux-development-tools/rclone.md)
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)
 - ### [Conda](./linux-development-tools/conda.md)
-- ### [Node.js Tools](/stem/it/software-development/back-end/node-js/node-js-tools.mdnode-js-tools.md)
+- ### [Node.js Tools](/stem/it/software-development/back-end/node-js/node-js-tools.md)
 - ### [Ani-Cli](./linux-development-tools/ani-cli.md)

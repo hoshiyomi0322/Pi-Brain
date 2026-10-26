@@ -57,7 +57,7 @@
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [弱Crack-shoot OKI](#弱crack-shoot-oki-18f)
 
-# [OKI](../street-fighter-6.md#oki)
+# [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)

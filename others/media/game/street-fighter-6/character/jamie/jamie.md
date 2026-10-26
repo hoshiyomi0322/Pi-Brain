@@ -184,7 +184,7 @@
 
 # PC Combo
 - ### Light Attack PC Combo
-    - ガード後可以 Light Attack PC：[4F PC](../street-fighter-6.md#4f-pc)、[6F PC](../street-fighter-6.md#6f-pc)
+    - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)、[6F PC](../../street-fighter-6.md#6f-pc)
 - ### 5HK PC Combo
     - Mid：5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
     - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
@@ -357,7 +357,7 @@
 - DR + 5HP + [5LP Air Reset](#5lp-air-reset)
 - (DR + 5MP + 6HK) + [コマ投げ OKI](#コマ投げ-oki-6f8f)
 
-# [対空](../street-fighter-6.md#anti-air)
+# [対空](../../street-fighter-6.md#anti-air)
 - [昇竜 Combo](jamie-special-move.md#昇竜-combo)
 - 2HP + [5MK OKI](#5mk-oki-6f10f)
 - [JHK Air Combo](#jhk-air-combo)

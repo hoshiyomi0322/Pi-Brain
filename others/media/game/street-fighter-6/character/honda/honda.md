@@ -111,6 +111,6 @@
     - 消費(前ステ + 2MK) + [コマ投げ OKI](#コマ投げ-oki-6f7f)
     - 消費(9) + [5HP 重ね](#5hp-重ね-11f13f)
 
-# [対空](../street-fighter-6.md#anti-air)
+# [対空](../../street-fighter-6.md#anti-air)
 - 5HP
 - 頭槌

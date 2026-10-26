@@ -196,7 +196,7 @@
         - 消費(弱Phalanx/Parry) + [5MK 重ね](#5mk-重ね-13f)
         - 消費(強Quadriga) + [5F打摔擇](#5f打摔擇-4f5f)
 
-# [対空](../street-fighter-6.md#anti-air)
+# [対空](../../street-fighter-6.md#anti-air)
 - 2HP
 
 # todo
