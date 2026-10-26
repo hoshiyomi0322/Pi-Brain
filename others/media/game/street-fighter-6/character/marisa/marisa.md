@@ -53,7 +53,7 @@
         - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
         - 4HP(PC) + [5MP Combo](#5mp-combo)
     - ### 6HK PC Combo
-        - 6HK(PC) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
+        - 6HK(PC) + [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
     - ### 5HK PC Combo
         - 5HK(PC) + [DR 6HK High-Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-high-air-combo)
         - Corner：5HK(PC) + [Dimachaerus Air Combo](marisa-special-move.md#dimachaerus-air-combo)
@@ -99,7 +99,7 @@
 - ### Light Cancel Combo
 - ### CDR Combo
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ

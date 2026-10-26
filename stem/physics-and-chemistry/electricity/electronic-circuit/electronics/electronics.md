@@ -14,7 +14,7 @@
 # Conductor
 - ### Conductor
 - ### [Semiconductor](./semiconductor/semiconductor.md)
-    - ### [Semiconductor Manufacturing Process](./semiconductor/semiconductor-manufacturing-process.md)
+    - #### [Semiconductor Manufacturing Process](./semiconductor/semiconductor-manufacturing-process.md)
 - ### Insulator
 
 # Transistor

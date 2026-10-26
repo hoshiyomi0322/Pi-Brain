@@ -54,4 +54,4 @@
 - ### [Eulerian Graph](./graph-problems/eulerian-graph.md)
 - ### [Hamiltonian Graph](./graph-problems/hamiltonian-graph.md)
 - ### [Graph Coloring Problem](./graph-problems/graph-coloring-problem.md)
-- ### [Travelling Salesman Problem (TSP)](../../algorithm/combinatorial-optimization.md#travelling-salesman-problem-tsp)
+- ### [Travelling Salesman Problem (TSP)](/stem/it/computer-science/theory-of-computation/computational-problem/combinatorial-problem/combinatorial-optimization-problem.md#travelling-salesman-problem-tsp)

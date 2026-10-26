@@ -131,7 +131,7 @@
 - ### CDR Combo
 - ### ガード後 Cancel Combo
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - 前投げ + [Far DR 5HP OKI](#far-dr-5hp-oki-17f)
 - ### 後ろ投げ

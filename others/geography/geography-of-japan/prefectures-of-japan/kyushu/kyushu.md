@@ -3,7 +3,7 @@
 
 - ### [鹿児島県](kagoshima.md)
     - #### [薩南諸島 (さつなん しょとう)](kagoshima.md#薩南諸島-さつなん-しょとう)
-- ### [沖縄県](okinawa.md)
+- ### [沖縄県](okinawa/okinawa.md)
     - #### [琉球諸島 (りゅうきゅう しょとう)](okinawa/okinawa.md#琉球諸島-りゅうきゅう-しょとう)
     - #### [大東諸島 (だいとう しょとう)](okinawa/okinawa.md#大東諸島-だいとう-しょとう)
 

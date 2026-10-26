@@ -214,7 +214,7 @@
         - [強コマ投げ Combo](./blanka-special-move/blanka-special-move.md#強コマ投げ-combo)
         - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-24f60f)
 - ### 24F OKI (23F/24F)
-    - その場受け身/Corner：消費(前ステ) + [5F打摔擇](../blanka.md#5f打摔擇-4f5f)
+    - その場受け身/Corner：消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
     - Corner：[Corner 溜め放電 OKI](#corner-溜め放電-oki-24f60f)
 - ### DI OKI (25F/26F)
     - DI

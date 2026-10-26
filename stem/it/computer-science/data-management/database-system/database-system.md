@@ -2,7 +2,7 @@
 <div align="center"><img src="./image/dbms.png" width="55%"></div>
 
 - ### Query Language
-    - #### [Structured Query Language (SQL)](../../coding/query-language/sql.md)
+    - #### [Structured Query Language (SQL)](/stem/it/coding/query-language/sql.md)
 - ### Database Engine：a software that DBMS uses to [CRUD](#crud) data from database
     - #### Query Processor
 - ### Database Schema

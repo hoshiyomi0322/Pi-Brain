@@ -91,7 +91,7 @@
 - ### CDR Combo
     - CDR + [DR 5HK Combo](#dr-5hk-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - その場受け身/Corner：前投げ + [6HP OKI](#6hp-oki-17f23f)
 - ### 後ろ投げ

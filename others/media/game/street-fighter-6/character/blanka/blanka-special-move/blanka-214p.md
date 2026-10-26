@@ -41,7 +41,7 @@
             - 連ガ：ガード(OD放電 + 5LK + [放電 Combo](#放電-combo)/[OD放電 Combo](#od放電-combo)/[2MP Combo](../blanka.md#2mp-combo))
     - ### 帶炸彈 Corner OD放電 Combo
         - 消費(前ステ) + [10F 5HK 重ね](../blanka.md#10f-5hk-重ね-10f14f)
-        - OD放電 + 消費(前ステ + 2HK) + (強後翻滾 + [強昇竜 Air Combo](blanka-28p.md強昇竜-air-combo)/[Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo)/SA1/SA3)
+        - OD放電 + 消費(前ステ + 2HK) + (強後翻滾 + [強昇竜 Air Combo](blanka-28p.md#強昇竜-air-combo)/[Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo)/SA1/SA3)
         - OD放電 + 消費(前ステ + 2HK) + (構え-attack + [強昇竜 High-Air Combo](blanka-28p.md#強昇竜-high-air-combo))
         - OD放電 + 消費(2HK) + (7 + JMP + 中放炸彈 + 強昇竜) + [44F OKI](../blanka.md#44f-oki)
         - OD放電 + 消費(6MP*2) + [溜め放電 Air Combo](#溜め放電-air-combo)

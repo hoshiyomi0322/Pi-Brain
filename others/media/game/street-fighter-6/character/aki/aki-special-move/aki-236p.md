@@ -74,7 +74,7 @@
         - OD毒鞭(帶毒) + [Near-wall 毒泡 High-Air Combo](aki-214hp.md#near-wall-毒泡-high-air-combo)
         - #### OD毒鞭 Reset
             - OD毒鞭(帶毒) + [General DR Air Reset]()
-            - OD毒鞭(帶毒) + (5HK + [構え-コマ投げ Combo](./aki-special-move/aki-2pp.md#構え-コマ投げ-combo))
+            - OD毒鞭(帶毒) + (5HK + [構え-コマ投げ Combo](aki-2pp.md#構え-コマ投げ-combo))
             - OD毒鞭(帶毒) + (5HK + CDR + [Close 25F OKI]())
             - OD毒鞭(帶毒) + (5HK + CDR + 3MP + [5HK Combo]())
 

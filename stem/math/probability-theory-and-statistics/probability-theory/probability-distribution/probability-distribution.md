@@ -7,7 +7,7 @@
     - ### [Continuous Probability Distribution](continuous-probability-distribution/continuous-probability-distribution.md)
     - ### [Discrete Probability Distribution](discrete-probability-distribution/discrete-probability-distribution.md)
 
-# [Joint Distribution](joint-distribution/joint-distribution.md)
+# Joint Distribution
 - ### $X_1,~\cdots,~X_n \sim D\left(θ_1,\cdots,~θ_k\right)$：the Multivariate Distribution $D$ of [Random Vector](../probability-theory.md#random-vector-multivariate-random-variable) $X$
     - [Random Vector](../probability-theory.md#random-vector-multivariate-random-variable)：$X=\left( X_1,~\cdots,~X_n \right)^T$
     - $θ_1,\cdots,~θ_k=\text{Parameters}$

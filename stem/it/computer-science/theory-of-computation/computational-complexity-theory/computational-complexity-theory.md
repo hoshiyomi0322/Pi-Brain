@@ -41,6 +41,3 @@
 - ### [Many-one Reduction](polynomial-time-reduction.md#many-one-reduction)
 - ### [Truth-table Reduction](polynomial-time-reduction.md#truth-table-reduction)
 - ### [Turing Reduction](polynomial-time-reduction.md#turing-reduction)
-
-# Space Hierarchy Theorem
-- ### [Space Hierarchy Theorem](space-hierarchy-theorem.md)

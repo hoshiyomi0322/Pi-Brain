@@ -47,7 +47,8 @@
 - ### 5MK Combo
     - 5MK + [Medium Cancel Combo](#medium-cancel-combo)
 - ### DR 2MK Combo
-    - (DR + 2MK) + [5MK Combo](#5mk-combo)
+    - (DR + 2MK) + [5MK Combo](#5mk-combo)/[コマ投げ Combo](arjun-special-move.md#コマ投げ-combo-1)
+    - ガード(DR + 2MK) + [5LP Combo](#5lp-combo)
 - ### DR 5MP Combo
     - (DR + 5MP) + [推掌 Combo](arjun-special-move.md#推掌-combo)/[肩撞 Combo](arjun-special-move.md#肩撞-combo)
 - ### 2MP Combo
@@ -122,12 +123,14 @@
     - CDR + [DR 2LP Combo](#dr-2lp-combo)
     - ガード後：[弱推掌 Combo](arjun-special-move.md#弱推掌-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
+        - 前投げ + [ODコマ投げ OKI](#odコマ投げ-oki-23f26f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
+        - 後ろ投げ + [推掌 重ね](#推掌-重ね-21f25f)
 
 # [OKI](../../street-fighter-6.md#oki)
 - ### 3F打摔擇 (2F/3F)
@@ -143,8 +146,16 @@
 - ### 5MP OKI (8F~14F)
     - [5MP Combo](#5mp-combo)
     - 前歩き + [投げ](#投げ)/[コマ投げ Combo](arjun-special-move.md#コマ投げ-combo-1)
+- ### 推掌 重ね (21F~25F)
+    - 中推掌派生/OD推掌派生 + [75F 地刺 OKI](#75f-地刺-oki-74f75f)/SA3
+    - ガード(中推掌/OD推掌) + [5MP Combo](#5mp-combo)/(前歩き + [投げ](#投げ))
+    - ガード(中推掌派生/OD推掌派生) + [5MP Combo](#5mp-combo)
+- ### ODコマ投げ OKI (23F~26F)
+    - [ODコマ投げ Combo](arjun-special-move.md#odコマ投げ-combo)
+    - [推掌 重ね](#推掌-重ね-21f25f)
 - ### DI OKI (25F/26F)
-    - DI/[ODコマ投げ Combo](arjun-special-move.md#odコマ投げ-combo)
+    - DI
+    - [ODコマ投げ OKI](#odコマ投げ-oki-23f26f)
     - 帶地刺：DI + [帶地刺 Wall Splat Combo](#帶地刺-wall-splat-combo)
     - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### Corner 地刺 重ね (30F/31F)

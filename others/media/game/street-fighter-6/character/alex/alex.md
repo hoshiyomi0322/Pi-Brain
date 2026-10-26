@@ -109,7 +109,7 @@
 - ### Light Cancel Combo
     - CDR + [DR 5LP Combo](#dr-5lp-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - 前投げ + [Far 28F OKI](#far-28f-oki)
 - ### 後ろ投げ

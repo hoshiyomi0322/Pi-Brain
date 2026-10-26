@@ -14,7 +14,7 @@
 - ### [Causal Inference](./causal-inference/causal-inference.md)
 
 # [Statistical Classification](./statistical-classification/statistical-classification.md)
-- ### [Logistic Regression](logistic-regression.md)
+- ### [Logistic Regression](./statistical-classification/logistic-regression.md)
 
 # Multivariate Analysis
 - ### [Cluster Analysis (Clustering)](./multivariate-analysis/cluster-analysis.md)

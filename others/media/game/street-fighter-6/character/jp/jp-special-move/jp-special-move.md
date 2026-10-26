@@ -1,7 +1,7 @@
 # [裂縫 Combo](./jp-departure/jp-departure.md)
-- ### [裂縫引爆 Combo](jp-departure-shadow.md)
+- ### [裂縫引爆 Combo](./jp-departure/jp-departure-shadow.md)
 - ### [裂縫傳送 Combo](./jp-departure/jp-departure.md#裂縫傳送-combo)
-- ### [裂縫擇/OD裂縫擇](jp-departure-mix-up.md)
+- ### [裂縫擇/OD裂縫擇](./jp-departure/jp-departure-mix-up.md)
 - ### [OD裂縫 Combo](./jp-departure/jp-departure.md#od裂縫-combo)
 
 # 風神 Combo

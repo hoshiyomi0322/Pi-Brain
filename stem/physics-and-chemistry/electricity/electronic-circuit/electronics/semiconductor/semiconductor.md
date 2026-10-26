@@ -7,5 +7,5 @@
     |**多數載子**|Electron Hole|Electron|
 - ### Doping：將雜質引入至Intrinsic Semiconductor
 	- $\text{Intrinsic Semiconductor}\xrightarrow{Doping}\text{Extrinsic Semiconductor}$
-- ### [Semiconductor Manufacturing Process](./semiconductor/semiconductor-manufacturing-process.md)
+- ### [Semiconductor Manufacturing Process](semiconductor-manufacturing-process.md)
 

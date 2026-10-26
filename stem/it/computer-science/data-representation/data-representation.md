@@ -38,7 +38,7 @@
 # [Encoding](./encoding/encoding.md)
 - ### [Character Encoding](./encoding/character-encoding.md)
 - ### [Compression Encoding](./encoding/compression-encoding.md)
-- ### [Error Detection and Correction](./encoding/error-detection-and-correction.md)
+- ### [Error Detection and Correction](./encoding/error-detection-and-correction/error-detection-and-correction.md)
 
 # End-of-Line Characters (EOL Characters)
 - ### New Line, Line Break, Line Feed (LF) {#lf}

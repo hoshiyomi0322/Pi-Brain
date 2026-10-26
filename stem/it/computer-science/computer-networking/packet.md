@@ -11,5 +11,5 @@
 
 # Packet Sniffing
 - ### Packet Sniffer
-    - ### [Wireshark](./networking-tools/wireshark.md)
-    - ### [Tcpdump](./networking-tools/tcpdump.md)
+    - #### [Wireshark](./network-tools/wireshark.md)
+    - #### [Tcpdump](./network-tools/tcpdump.md)

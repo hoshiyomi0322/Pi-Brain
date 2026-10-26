@@ -156,7 +156,7 @@
 - ### ガード後 Cancel Combo
     - [DR 5MP Combo](#dr-5mp-combo)/[DR 2MP Combo](#dr-2mp-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - その場受け身/Corner：前投げ + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 後ろ投げ
@@ -195,7 +195,7 @@
     - 消費(跑步煞車) + [2LK Combo](#2lk-combo)
 - ### 33F OKI
     - 消費(跑步煞車) + [5MP OKI](#5mp-oki-6f)
-    - 對手 Parry：消費(強龍尾腳) + [投げ](../ken.md#投げ)
+    - 對手 Parry：消費(強龍尾腳) + [投げ](#投げ)
 - ### 40F OKI
     - 消費(2LP) + [DI OKI](#di-oki-25f26f)
     - 消費(跑步煞車) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)

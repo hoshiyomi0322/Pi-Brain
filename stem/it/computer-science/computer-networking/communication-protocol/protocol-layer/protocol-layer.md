@@ -33,7 +33,7 @@
     |**Speed**|Slow|Fast|
     |**Reliability**|Reliable|Unreliable|
     |**[Handshake](../../packet.md#handshake)**|[Three-way Handshake](transport-layer/tcp.md#three-way-handshake)|No Handshake|
-    |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](ip.md#voice-over-internet-protocolvoip))|
+    |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](network-layer/ip.md#voice-over-internet-protocol-voip))|
     - ### [TCP/UDP Ports](../../computer-networking.md#tcpudp-ports)
 - ### QUIC
     <img src="./image/quic.png" width="55%">

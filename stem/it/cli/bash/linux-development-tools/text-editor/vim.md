@@ -1,5 +1,5 @@
 # Bash
-- ### [Bash](bash.md)
+- ### [Bash](../../bash.md)
 
 # Vi IMproved (Vim)
 |Command|Description|

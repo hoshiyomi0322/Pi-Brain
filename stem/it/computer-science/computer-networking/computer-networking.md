@@ -25,9 +25,9 @@
 # Error Detection and Correction in Networking
 - ### [Error Detection and Correction in Networking](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md)
 
-# Networking Tools
+# Network Tools
 - ### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
-- ### [Wireshark](networking-tools/wireshark.md)
+- ### [Wireshark](network-tools/wireshark.md)
 - ### [Tcpdump](network-tools/tcpdump.md)
 - ### [Network Mapper (Nmap)](network-tools/nmap.md)
 - ### [Tailscale](network-tools/tailscale.md)

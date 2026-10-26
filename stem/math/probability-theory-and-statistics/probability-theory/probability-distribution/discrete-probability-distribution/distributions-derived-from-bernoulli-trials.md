@@ -1,11 +1,11 @@
-# Distributions derived from [Bernoulli Trial](../probability-theory.md#bernoulli-trial)
-- ### [Bernoulli Trial](../probability-theory.md#bernoulli-trial)
+# Distributions derived from [Bernoulli Trial](../../probability-theory.md#bernoulli-trial)
+- ### [Bernoulli Trial](../../probability-theory.md#bernoulli-trial)
 
 # Bernoulli Distribution
 |Property|Description|
 |:---:|:---:|
 |Notation|$X\sim Bernoulli\left(p\right)$|
-|Situation|Success in a [Bernoulli Trial](../probability-theory.md#bernoulli-trial)|
+|Situation|Success in a [Bernoulli Trial](../../probability-theory.md#bernoulli-trial)|
 |[Random Variable](../../probability-theory.md#random-variable)|$X$ = number of successes|
 |Parameters|$p=\text{probability of success}$|
 |[PMF](../distribution-function.md#probability-function)|$p^x\left(1-p\right)^{1-x}=\begin{cases}{1-p}&{\text{for }x=0}\\ p&{\text{for }x=1}\end{cases}$|

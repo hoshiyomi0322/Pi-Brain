@@ -55,7 +55,7 @@
 - ### Stun Combo
     - DI(Stun) + 
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ

@@ -24,7 +24,7 @@
 - ### [Security Controls](security-controls/security-controls.md)
 
 # Cybersecurity Tools
-- ### [Networking Tools](/stem/it/computer-science/computer-networking/computer-networking.md#networking-tools)
+- ### [Network Tools](/stem/it/computer-science/computer-networking/computer-networking.md#network-tools)
     - #### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
 - ### Metasploit
 - ### Burp Suite

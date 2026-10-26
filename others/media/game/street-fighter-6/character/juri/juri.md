@@ -39,7 +39,7 @@
 - ### CDR Combo
 - ### ガード後 Cancel Combo
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ

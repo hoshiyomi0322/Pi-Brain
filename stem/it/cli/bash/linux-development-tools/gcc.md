@@ -1,5 +1,5 @@
 # Bash
-- ### [Bash](bash.md)
+- ### [Bash](../bash.md)
 
 # GNU Compiler Collection (GCC)
 - ### [Ahead-Of-Time Compilation (AOT Compilation)](/stem/it/computer-science/computer-organization-and-architecture/build-process/build-process.md#ahead-of-time-compilation-aot-compilation)

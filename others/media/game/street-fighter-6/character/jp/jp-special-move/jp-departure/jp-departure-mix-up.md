@@ -164,7 +164,7 @@
     - 前歩き(保持不會被攻擊到的距離)
     - #### 裂縫引爆時
         - 9 + [Jump Attack Combo](../../jp.md#jump-attack-combo)
-        - 往前 + [投げ](../jp.md#投げ)/6MK/2MK
+        - 往前 + [投げ](../../jp.md#投げ)/6MK/2MK
         - [生ラッシュ Combo](../../jp.md#生ラッシュ-combo)
     - #### 對手後退到裂縫後
         - OD裂縫 + [裂縫前歩き](#裂縫前歩き)
@@ -178,10 +178,10 @@
         - 裂縫 + DR + ガード(5HK + 5HP) + 5HK/5HP/中弾/強弾 + [6HK Air Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#6hk-air-combo)
         - 裂縫 + DR + ガード(5HK) + 6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo)
         - 裂縫 + DR + ガード(5HK + 5HP) + [裂縫傳送 Combo](jp-departure.md#裂縫傳送-combo)
-    - 裂縫 + DR + [投げ](../jp.md#投げ)
+    - 裂縫 + DR + [投げ](../../jp.md#投げ)
 - ### 引爆後DR
     - [DR 中下擇 Combo](../../jp.md#dr-中下擇-combo)
-    - 對手 Parry：DR + [投げ](../jp.md#投げ)
+    - 對手 Parry：DR + [投げ](../../jp.md#投げ)
 - ### 裂縫ラッシュ止め(對手DR)
     - [ラッシュ止め](../../jp.md#ラッシュ止め-combo)(2MP/5MK) + 裂縫引爆 + [Mid-close 裂縫引爆 Combo](jp-departure-shadow.md#mid-close-裂縫引爆-combo)
 
@@ -195,7 +195,7 @@
                 - Near-wall：強裂縫 + (2LK + 2LP + 弱風神) + [Close JMK Air Combo](../../jp.md#close-jmk-air-combo)
             - #### 對手 バックジャンプ
                 - 強裂縫 + 前投げ(對手 バックジャンプ) + DR + (6MK/2MK + [強風神 Combo](../jp-stribog.md#強風神-combo))
-                - 強裂縫 + 前投げ(對手 バックジャンプ) + DR + [投げ](../jp.md#投げ)
+                - 強裂縫 + 前投げ(對手 バックジャンプ) + DR + [投げ](../../jp.md#投げ)
             - Corner：[Corner 裂縫 投げ擇](#corner-裂縫-投げ擇)
         - ### Midscreen 裂縫 強TC擇
             - 強裂縫 + (5HK + 5HP + 弱地刺) + [強風神 Combo](../jp-stribog.md#強風神-combo)
@@ -218,7 +218,7 @@
         - OD裂縫(弱強) + 裂縫傳送(弱) + ガード(JLK) + 2LK*2 + [強風神 Combo](../jp-stribog.md#強風神-combo)
     - OD裂縫(弱強) + 裂縫傳送(中) + (JLK + 2LP) + [強風神 Combo](../jp-stribog.md#強風神-combo)
         - OD裂縫(弱強) + 裂縫傳送(弱) + ガード(JLK) + 2LK + [強風神 Combo](../jp-stribog.md#強風神-combo)
-    - OD裂縫(弱強) + 裂縫傳送(弱)/裂縫傳送(中) + [投げ](../jp.md#投げ)
+    - OD裂縫(弱強) + 裂縫傳送(弱)/裂縫傳送(中) + [投げ](../../jp.md#投げ)
 - ### その場受け身 Midscreen OD裂縫擇
     - [Midscreen OD裂縫 左右擇](#midscreen-od裂縫-左右擇)
     - ### Midscreen OD裂縫 中下弾擇
@@ -234,7 +234,7 @@
             - OD裂縫(弱強) + ガード(5HK + 5HP) + (裂縫引爆 + [強風神 Combo](../jp-stribog.md#強風神-combo))
         - #### Midscreen OD裂縫 強TC 左右擇
             - OD裂縫(弱強) + ガード(5HK + 5HP) + (裂縫傳送(弱) + JHK + [5HP Air Combo](../../jp-heavy-attack-combo/jp-hp-combo.md#5hp-air-combo))
-            - OD裂縫(弱強) + ガード(5HK + 5HP) + (裂縫傳送(中) + [JLK Combo](../../jp.md#jlk-combo)/[投げ](../jp.md#投げ)/DI/コマ投げ)
+            - OD裂縫(弱強) + ガード(5HK + 5HP) + (裂縫傳送(中) + [JLK Combo](../../jp.md#jlk-combo)/[投げ](../../jp.md#投げ)/DI/コマ投げ)
         - #### C-Switch OD裂縫 強TC擇
             - OD裂縫(弱強) + (5HK + 5HP + 5HK) + (前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))
             - OD裂縫(弱強) + ガード(5HK + 5HP) + 裂縫引爆 + (前歩き + [Corner 6HK 中風神 Combo](../../jp-heavy-attack-combo/jp-6hk-combo.md#corner-6hk-中風神-combo))

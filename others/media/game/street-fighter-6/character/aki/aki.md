@@ -21,8 +21,11 @@
     - #### 中SA2：214214MP
     - #### 強SA2：214214HP
 
-# 必殺技, 特殊技 Combo
-- ### [必殺技, 特殊技 Combo](aki-special-move.md)
+# [必殺技, 特殊技 Combo](./aki-special-move/aki-special-move.md)
+- ### [毒泡 Combo](./aki-special-move/aki-214hp.md)
+- ### [毒鞭 Combo](./aki-special-move/aki-236p.md)
+- ### [凶襲突 Combo](./aki-special-move/aki-214k.md)
+- ### [構え-Combo](./aki-special-move/aki-2pp.md)
 
 # SA Combo
 - ### SA1 Combo
@@ -158,7 +161,7 @@
     - [構え-コマ投げ Combo](./aki-special-move/aki-2pp.md#構え-コマ投げ-combo)/[構え-踢 Combo]()
     - [毒泡 Combo]()/[Close OD弾 Combo]()
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ

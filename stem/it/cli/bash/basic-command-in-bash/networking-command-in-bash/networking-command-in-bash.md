@@ -34,7 +34,7 @@
     |`-o <file_name>`|Download file|
     |`-O`|Download file|
     |`-L`|Follow the redirects (Location header)|
-    |`-X {GET\|POST\|PUT\|DELETE\|PATCH}`|Specify [http request method](../../computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http.md#http-method)|
+    |`-X {GET\|POST\|PUT\|DELETE\|PATCH}`|Specify [http request method](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http.md#http-method)|
     |`-H`|Header|
     |`-i`|include|
     |`-d`|data|
@@ -136,9 +136,9 @@
 |`ifconfig`||
 
 # Network Tools
-- ### [Tcpdump](/stem/it/computer-science/computer-networking/networking-tools/network-tools/tcpdump.md)
-- ### [Network Mapper (Nmap)](/stem/it/computer-science/computer-networking/networking-tools/network-tools/nmap.md)
-- ### [Tailscale](/stem/it/computer-science/computer-networking/networking-tools/network-tools/tailscale.md)
+- ### [Tcpdump](/stem/it/computer-science/computer-networking/network-tools/tcpdump.md)
+- ### [Network Mapper (Nmap)](/stem/it/computer-science/computer-networking/network-tools/nmap.md)
+- ### [Tailscale](/stem/it/computer-science/computer-networking/network-tools/tailscale.md)
 
 # Linux Firewall
 - ### [Uncomplicated Firewall (ufw)](./linux-firewall/ufw.md)

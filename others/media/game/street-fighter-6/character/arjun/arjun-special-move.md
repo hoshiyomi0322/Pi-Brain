@@ -24,18 +24,20 @@
 # 推掌 Combo
 - ### 弱推掌 Combo
     - 弱推掌 + [3F打摔擇](arjun.md#3f打摔擇-2f3f)/SA3
+    - ガード(弱推掌派生) + [5MP Combo](arjun.md#5mp-combo)
 - ### 中推掌 Combo
     - 中推掌 + [3F打摔擇](arjun.md#3f打摔擇-2f3f)/SA3
+    - ガード(中推掌派生) + [5MP Combo](arjun.md#5mp-combo)
 - ### 強推掌 Combo
     - 強推掌派生 + [75F 地刺 OKI](arjun.md#75f-地刺-oki-74f75f)/SA3
     - ガード
         - ガード(強推掌) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
-        - ガード(強推掌派生)
+        - ガード(強推掌派生) + [5MP Combo](arjun.md#5mp-combo)
 - ### OD推掌 Combo
     - OD推掌派生 + [75F 地刺 OKI](arjun.md#75f-地刺-oki-74f75f)/SA2/SA3
     - ガード
         - ガード(OD推掌) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
-        - ガード(OD推掌派生)
+        - ガード(OD推掌派生) + [5MP Combo](arjun.md#5mp-combo)
 
 # 推掌 Air Combo
 - ### 弱推掌 Air Combo

@@ -13,7 +13,7 @@
     - #### $Var\left(c\right)=0$
     - #### $Var\left(aX+b\right)=a^2Var\left(X\right)$
 
-# Variance of [Joint Distribution](./probability-distribution/joint-distribution/joint-distribution-function.md)
+# Variance of [Joint Distribution](../probability-theory/probability-distribution/joint-distribution/joint-distribution-function.md)
 - ### $Var\left(X\right) = E\left[X^2\right]-E\left[X\right]^2$
 - ### $Var\left(g\left( X,~Y \right)\right) = E\left[g\left( X,~Y \right)^2\right]-E\left[g\left( X,~Y \right)\right]^2$
     - $X,~Y = \href{#/stem/math/probability-theory-and-statistics/probability-theory/probability-theory.md?id=random-variable}{\text{Random Variable}}$

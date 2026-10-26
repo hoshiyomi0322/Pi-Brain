@@ -37,7 +37,7 @@
     |$b=\text{Point of Discontinuity}$|$\lim\limits_{s\to b^-}{\int_{a}^{s}{f\left(x\right)\,dx}}$|
     |$a=\text{Point of Discontinuity},~b=\text{Point of Discontinuity}$|$\lim\limits_{t\to a^+}{\int_{t}^{c}{f\left(x\right)\,dx}}+\lim\limits_{s\to b^-}{\int_{c}^{s}{f\left(x\right)\,dx}}$|
     |$c=\text{Point of Discontinuity}$|$\lim\limits_{t\to c^-}{\int_{a}^{t}{f\left(x\right)\,dx}}+\lim\limits_{s\to c^+}{\int_{s}^{b}{f\left(x\right)\,dx}}$|
-- ### [Convergence Tests](../limit/convergence-tests.md\right)
+- ### [Convergence Tests](../limit/convergence-tests.md)
 
 # Integration Techniques
 - ### [Substitution](./integration-techniques/substitution.md)

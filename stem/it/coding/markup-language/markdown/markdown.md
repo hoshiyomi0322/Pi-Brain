@@ -61,9 +61,9 @@
     (select a text, paste link (Ctrl+v))
     ```
     - #### File：`[link text](file path)`
-        [LaTex](../latex.md)
+        [LaTex](../latex/latex.md)
         ```md
-        [LaTex](../latex.md)
+        [LaTex](../latex/latex.md)
         ```
     - #### Heading：`[link text](#heading name)`
         [Link](#link)

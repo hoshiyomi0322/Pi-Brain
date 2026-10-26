@@ -121,7 +121,7 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + [4HP High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.)md#4hp-high-air-combo)
+    - DI(PC) + (前ステ + [4HP High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-high-air-combo))
     - DI(PC) + 前ステ + (DR + 4HP) + (強迅雷 + 5LK) + Reset(DI)
     - DI(PC) + 前ステ + (DR + 5HK + 5LP/2LP/5LK) + Reset(DI)
 - ### DI PC Air Combo

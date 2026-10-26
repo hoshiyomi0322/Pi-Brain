@@ -30,12 +30,12 @@
 - DR + [4HK Combo](../gouki-4hk-combo.md#4hk-combo)
 - Mid Near-wall：SA1
 - ### Corner 溜め弾後 Combo
-    - [強旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()
+    - [強旋風腳 Air Combo]()/SA1/[SA2 Combo](../gouki.md#sa2-combo)/[弱昇竜 Combo]()
 
 # OD溜め弾 Combo
 - OD溜め弾 + SA1
 - ### Close OD溜め弾 Combo
-    - OD溜め弾 + SA1/[SA2 Combo](gouki.md#sa2-combo)/[弱昇竜 Combo]()/中旋風腳
+    - OD溜め弾 + SA1/[SA2 Combo](../gouki.md#sa2-combo)/[弱昇竜 Combo]()/中旋風腳
     - OD溜め弾 + (強灼火派生 + SA3)
     - OD溜め弾 + (DR + delay + [4HK Combo](../gouki-4hk-combo.md#4hk-combo))
     - OD溜め弾 + (DR + 2HP + OD溜め弾) + SA1/[中旋風腳 Combo](gouki-tatsumaki.md#中旋風腳-combo)

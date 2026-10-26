@@ -254,7 +254,7 @@
     - [OD酔拳 Combo](jamie-special-move.md#od酔拳-combo)/[強推掌 Combo](jamie-special-move.md#強推掌-combo)
     - 酔い4：[酔拳 Combo](jamie-special-move.md#酔拳-combo)
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - 前投げ + [Mid 6MK OKI](#mid-6mk-oki)
     - #### Midscreen 前投げ

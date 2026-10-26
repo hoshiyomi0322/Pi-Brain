@@ -80,7 +80,7 @@
         - (3MP + OD旋風手) + 消費(2MP) + [DI OKI](#di-oki-25f26f)
         - (3MP + OD旋風手) + 消費(2HP/6HK) + SA3
 - ### 3MP High-Air Combo
-    - 9 + delay + Air-コマ投げ
+    - 9 + Air-コマ投げ/OD Air-コマ投げ
     - (3MP + 旋風手) + [DR 6HK 重ね](#dr-6hk-重ね-38f)
     - (3MP + OD旋風手) + [SA2 Air Combo](#sa2-air-combo)
     - (3MP + OD旋風手) + 消費(9 + Air-コマ投げ) + [5F打摔擇](#5f打摔擇-3f5f)
@@ -132,8 +132,10 @@
     - Corner：2LP + delay + [10F打摔擇](#10f打摔擇)
 
 # Jump Attack Combo
-- 8/9 + (J2HP + [6HP Combo](#6hp-combo))
-- 8 + (J8HP + コマ投げ)
+- ### J2HP Air Combo
+    - 8/9 + (J2HP + [6HP Combo](#6hp-combo))
+- ### J8HP Air Combo
+    - 8 + (J8HP + コマ投げ)
 
 # Counter Combo
 
@@ -152,10 +154,12 @@
     - 6HK(PC) + [3MP Air Combo](#3mp-air-combo)
     - 6HK(PC) + [2LP Air Reset](#2lp-air-reset)
 - ### Corner 3HK PC Combo
-    - 3HK(PC) + [コマ投げ Combo](#コマ投げ-combo)/SA3
+    - 3HK(PC) + [コマ投げ Combo](#コマ投げ-combo)/[俄式背摔 Combo](#俄式背摔-combo)/SA3
     - 3HK(PC) + (3MP + 旋風手) + [DI OKI](#di-oki-25f26f)
 - ### Corner 溜め5HP PC Combo
-    - 溜め5HP + 消費(9) + [10F打摔擇](#10f打摔擇)
+    - 溜め5HP(PC) + 消費(9) + [10F打摔擇](#10f打摔擇)
+- ### Midscreen JHK PC Combo
+    - JHK(PC) + (delay + 9 + Air-コマ投げ/OD Air-コマ投げ)
 
 # DI Combo
 - ### DI PC Combo

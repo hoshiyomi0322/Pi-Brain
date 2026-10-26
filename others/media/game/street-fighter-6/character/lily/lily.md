@@ -52,7 +52,7 @@
     - [OD突刺 Combo]()
     - 帶風：[帶風弱突刺 Combo]()/[帶風中突刺 Combo]()
 
-# [投げ](../street-fighter-6.md#throw)
+# [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
