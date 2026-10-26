@@ -58,6 +58,11 @@
 # [Graph Algorithms](../data-structure/graph/graph.md#graph-algorithms)
 - ### [Tree Algorithms](../data-structure/graph/tree/tree.md#tree-algorithms)
 
+# [Large Integer Multiplication](large-integer-multiplication.md)
+- ### [Karatsuba Algorithm](large-integer-multiplication.md#karatsuba-algorithm)
+- ### [Toom-Cook Multiplication (Toom 3-Way Multiplication)](large-integer-multiplication.md#toom-cook-multiplication-toom-3-way-multiplication)
+- ### [Schönhage–Strassen Algorithm](large-integer-multiplication.md#schönhagestrassen-algorithm)
+
 # [Matrix Multiplication](matrix-multiplication.md)
 - ### [Strassen Algorithm](matrix-multiplication.md#strassen-algorithm)
 - ### [Matrix Chain Multiplication](matrix-multiplication.md#matrix-chain-multiplication)
