@@ -71,7 +71,7 @@
 - ### Curt Herzstark
     - ### Curta Calculator
 - ### Alan Turing
-    - ### Turing Machine
+    - ### [Turing Machine](../theory-of-computation/automata-theory-and-formal-languages/recursively-enumerable-language/recursively-enumerable-language.md#turing-machine)
         <img src="./image/turing-machine.png" width="35%">
     - ### Turing Test
         <img src="./image/turing-test.png" width="30%">

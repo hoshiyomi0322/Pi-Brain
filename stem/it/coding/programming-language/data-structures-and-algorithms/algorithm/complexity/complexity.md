@@ -116,12 +116,12 @@
         </tr>
         <tr>
             <th align="center">$O\left(n^a\right)$</th>
-            <th align="center">Polynomial time (P)</th>
+            <th align="center"> <a href="/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#polynomial-time-p">Polynomial time (P)</a> </th>
             <th align="center"> <a href="../matrix-multiplication.md#matrix-multiplication">Matrix multiplication</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(a^n\right)$</th>
-            <th align="center">Exponential time</th>
+            <th align="center"> <a href="/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#exponential-time-exptime">Exponential time (EXPTIME)</a> </th>
         </tr>
         <tr>
             <th align="center">$O\left(n!\right)$</th>
@@ -133,17 +133,13 @@
     - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr),~\text{then }g\left(n\right)=Ω\Bigl(T\left(n\right)\Bigr)$
     - $\text{If }T_1\left(n\right)=O\Bigl(g_1\left(n\right)\Bigr)\text{ and }T_2\left(n\right)=O\Bigl(g_2\left(n\right)\Bigr),~\text{then }T_1\left(n\right)+T_2\left(n\right)=O\biggl(\max{ \Bigl( g_1\left(n\right),~g_2\left(n\right) \Bigr) }\biggr)$
     - $\text{If }T\left(n\right)=O\Bigl(g\left(n\right)\Bigr)\text{ and }g\left(n\right)=O\Bigl(h\left(n\right)\Bigr),~\text{then }T\left(n\right)=O\Bigl(h\left(n\right)\Bigr)$
+- ### [Time Complexity Class](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#time-complexity-classes-1)
 
 # Space Complexity
+- ### [Space Complexity Class](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#space-complexity-classes-1)
 
-# Computational Complexity Theory
-
-- ### Nondeterministic Polynomial Time (NP)
-- ### Polynomial Time (P)
-    - $\text{P} \subseteq \text{NP}$
-- ### NP-Hard
-- ### NP-Complete
-    - $\text{NP-Complete}=\text{NP}\cap \text{NP-Hard}$
+# [Computational Complexity Theory](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
+- ### [Polynomial-time Reduction](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/polynomial-time-reduction.md)
 
 # [Solving Recurrence Relations](solving-recurrence-relations.md)
 - ### [Substitution method](solving-recurrence-relations.md#substitution-method)

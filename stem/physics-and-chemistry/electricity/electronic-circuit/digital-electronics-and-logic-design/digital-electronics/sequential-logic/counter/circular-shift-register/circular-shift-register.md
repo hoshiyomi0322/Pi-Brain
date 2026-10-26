@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|
 |Feedback|Non-Inverted|Inverted|
 |Number of States ($n$-bit)|$n$|$2n$|
-- ### State-Transition Table
+- ### [State-Transition Table](../../finite-state-machine/representations-of-finite-state-machine.md#state-transition-table)
     |Current State|Next State|
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|

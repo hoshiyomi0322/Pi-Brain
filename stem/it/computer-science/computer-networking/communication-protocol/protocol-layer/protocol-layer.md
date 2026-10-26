@@ -71,6 +71,7 @@
     - #### Protocol + S = Protocol Secure (Protocol over TLS/SSL) = Protocol + TLS/SSL
     - #### Evolution：Secure Sockets Layer (SSL) $\to$ Transport Layer Security (TLS)
     - #### Workflow：TCP Three-way Handshake $\to$ TLS Handshake $\to$ Encrypted Data Transfer
+- ### Sliding Window Protocol
 - ### [Automatic Repeat-reQuest (ARQ)](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md#automatic-repeat-request-arq)
 - ### [Address Resolution Protocol (ARP)](./other-protocol/arp.md)
     - #### [ARP Command](/stem/it/cli/bash/bash-networking.md#address-resolution-protocol-arp-command)

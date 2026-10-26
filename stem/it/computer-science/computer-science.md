@@ -24,16 +24,22 @@
 - ### [Networking Hardware](./computer-networking/networking-hardware.md)
 - ### [History of the Internet](./computer-networking/history-of-the-internet.md)
 
+# [Theory of Computation (TOC)](./theory-of-computation/theory-of-computation.md)
+- ### [Automata Theory and Formal Languages](./theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md)
+- ### [Computability Theory (Recursion Theory)](./theory-of-computation/computability-theory/computability-theory.md)
+- ### [Computational Complexity Theory](./theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
+- ### [Computational Problem](./theory-of-computation/computational-problem/computational-problem.md)
+
 # [Distributed Computing](./distributed-computing/distributed-computing.md)
 - ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models/distributed-computing-system-models.md)
 - ### [Cloud Computing](./distributed-computing/cloud-computing.md)
 
 # [Operating System](./operating-system/operating-system.md)
 - ### [Process Management](./operating-system/process-management/process-management.md)
-    - ### [Scheduling](./operating-system/process-management/scheduling.md)
+    - #### [Scheduling](./operating-system/process-management/scheduling.md)
 - ### [Memory Management](./operating-system/memory-management/memory-management.md)
-    - ### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
-    - ### [Non-Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)
+    - #### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
+    - #### [Non-Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)
 - ### [File System](./operating-system/file-system.md)
 
 # [Data Representation](./data-representation/data-representation.md)

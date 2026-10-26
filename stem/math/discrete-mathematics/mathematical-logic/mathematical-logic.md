@@ -6,7 +6,11 @@
 - ### [Proof Theory](proof-theory.md)
 - ### [Rules of Inference](./rules-of-inference/rules-of-inference.md)
 - ### [Mathematical Proof](./mathematical-proof/mathematical-proof.md)
-- ### [Computability Theory](computability-theory.md)
+- ### [Theory of Computation (TOC)](/stem/it/computer-science/theory-of-computation/theory-of-computation.md)
+    - #### [Automata Theory and Formal Languages](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md)
+    - #### [Computability Theory (Recursion Theory)](/stem/it/computer-science/theory-of-computation/computability-theory/computability-theory.md)
+    - #### [Computational Complexity Theory](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
+    - #### [Computational Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md)
 
 # Truth Value (Logical Value)
 - ### True ($T,~\top$)

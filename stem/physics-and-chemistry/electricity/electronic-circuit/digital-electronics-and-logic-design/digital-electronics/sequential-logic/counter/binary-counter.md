@@ -11,7 +11,7 @@
     |$S_5$|101|
     |$S_6$|110|
     |$S_7$|111|
-- ### State-Transition Table
+- ### [State-Transition Table](../finite-state-machine/representations-of-finite-state-machine.md#state-transition-table)
     |Current State|Next State|
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|

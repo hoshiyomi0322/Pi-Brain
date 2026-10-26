@@ -1,3 +1,0 @@
-# Halting Problem
-
-# Turing Machine

@@ -11,7 +11,7 @@
     - ### Slow Start Threshold (ssthresh)
 - ### Fast Retransmit
 - ### Fast Recovery
-- ### congestion window (cwnd)
+- ### Congestion Window (CWND)
 - ### Additive Increase Multiplicative Decrease (AIMD)
 - ### Congestion Control Algorithms
     - ### TCP Tahoe and Reno

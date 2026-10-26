@@ -4,6 +4,7 @@
 - ### [Proof Theory](./mathematical-logic/proof-theory.md)
 - ### [Rules of Inference](./mathematical-logic/rules-of-inference/rules-of-inference.md)
 - ### [Mathematical Proof](./mathematical-logic/mathematical-proof/mathematical-proof.md)
+- ### [Theory of Computation (TOC)](/stem/it/computer-science/theory-of-computation/theory-of-computation.md)
 
 # Set Theory
 - ### [Set Theory](./set-theory/set-theory.md)

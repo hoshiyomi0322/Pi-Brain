@@ -5,8 +5,9 @@
 - ### Definiteness：each step must be clear, precise, and unambiguous
 - ### Effectiveness：each step must be sufficiently simple, basic, and feasible
 
-# Complexity
-- ### [Complexity](./complexity/complexity.md)
+# [Complexity](./complexity/complexity.md)
+- ### [Computational Complexity Theory](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
+- ### [Solving Recurrence Relations](./complexity/solving-recurrence-relations.md)
 
 # Algorithm Design Techniques
 - ### [Recursion](./algorithm-design-techniques/recursion.md)
@@ -18,8 +19,16 @@
 - ### Decrease and Conquer
 - ### Transform and Conquer
 - ### [Backtracking](./algorithm-design-techniques/backtracking.md)
-    - #### [Eight Queens Puzzle](./algorithm-design-techniques/backtracking.md#eight-queens-puzzle)
+    - #### [Constraint Satisfaction Problem (CSP)](/stem/it/computer-science/theory-of-computation/computational-problem/combinatorial-problem/constraint-satisfaction-problem.md)
 - ### Branch and Bound
+
+# [Computational Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md)
+- ### [Decision Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md#decision-problem)
+- ### [Function Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md#function-problem)
+- ### [Optimization Problem](/stem/it/computer-science/theory-of-computation/computational-problem/optimization-problem.md)
+- ### [Combinatorial Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md#combinatorial-problem)
+- ### [Search Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md#search-problem)
+- ### [Counting Problem](/stem/it/computer-science/theory-of-computation/computational-problem/computational-problem.md#counting-problem)
 
 # Sorting and Search Algorithm
 - ### [Sorting Algorithm](./sorting-and-search-algorithm/sorting-algorithm/sorting-algorithm.md)
@@ -41,20 +50,13 @@
 - ### Metaheuristic
 - ### [Iterative Improvement](iterative-improvement.md)
 
-# Two Pointers
-- ### Left and Right Pointers
-- ### Fast and Slow Pointers
+# [Two Pointers](./two-pointers/two-pointers.md)
+- ### [Opposite Direction (Converging Pointers)](./two-pointers/two-pointers.md#opposite-direction-converging-pointers)
+- ### [Same Direction](./two-pointers/two-pointers.md#same-direction)
+- ### [Sliding Window](./two-pointers/two-pointers.md#sliding-window)
 
 # [Graph Algorithms](../data-structure/graph/graph.md#graph-algorithms)
 - ### [Tree Algorithms](../data-structure/graph/tree/tree.md#tree-algorithms)
-
-# Combinatorial Problem
-- ### [Combinatorial Optimization Problem (COP)](./combinatorial-problem/combinatorial-optimization-problem.md)
-    - #### [Travelling Salesman Problem (TSP)](./combinatorial-problem/combinatorial-optimization-problem.md#travelling-salesman-problem-tsp)
-    - #### [Knapsack problem](./combinatorial-problem/combinatorial-optimization-problem.md#knapsack-problem)
-- ### Constraint Satisfaction Problem (CSP)
-    - #### [Eight Queens Puzzle](./algorithm-design-techniques/backtracking.md#eight-queens-puzzle)
-    - #### [Graph Coloring Problem](../data-structure/graph/graph-problems/graph-coloring-problem.md)
 
 # [Matrix Multiplication](matrix-multiplication.md)
 - ### [Strassen Algorithm](matrix-multiplication.md#strassen-algorithm)
@@ -73,4 +75,3 @@
 - ### Sweep Line Algorithm
 - ### Shor's Algorithm
 - ### Grover Algorithm
-

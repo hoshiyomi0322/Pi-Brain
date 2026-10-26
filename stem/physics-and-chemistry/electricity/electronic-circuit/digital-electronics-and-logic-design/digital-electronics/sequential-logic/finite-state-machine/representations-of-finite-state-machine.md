@@ -1,10 +1,10 @@
-# State Transition
+# Representations of Finite State Machine
 - ### State Transition Table
 - ### State Graph
     - Element：State, Input, Next State, Ouput
     - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Ouput}$
 - ### Example
-    - ### State Transition Table
+    - #### State Transition Table
         <table border="1">
             <thead>
                 <tr>
