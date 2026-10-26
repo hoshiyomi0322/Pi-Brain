@@ -67,6 +67,11 @@
 - ### [Matrix Fast Exponentiating by Squaring](fast-exponentiation.md#matrix-fast-exponentiating-by-squaring)
 - ### [Fast Modular Exponentiation](fast-exponentiation.md#fast-modular-exponentiation)
 
+# [Computational Geometry](./computational-geometry/computational-geometry.md)
+- ### [Voronoi Diagrams and Delaunay Triangulations](./computational-geometry/voronoi-diagrams-and-delaunay-triangulations.md)
+- ### [Convex Hull](./computational-geometry/convex-hull.md)
+- ### [Closest Pair of Points](./computational-geometry/computational-geometry.md#closest-pair-of-points)
+
 # Other Algorithm
 - ### Randomized Algorithm
 - ### Monte Carlo method

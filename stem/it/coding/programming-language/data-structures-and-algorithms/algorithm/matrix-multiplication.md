@@ -1,6 +1,7 @@
 # Matrix Multiplication
 
 # Strassen Algorithm
+<div align="center"><img src="./image/strassen-algorithm.png" width="40%"></div>
 
 # Matrix Chain Multiplication
 
