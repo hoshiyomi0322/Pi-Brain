@@ -15,7 +15,6 @@
 - ### Greedy Algorithm
 - ### Exhaustive Algorithm (Brute Force Method)
 - ### Divide and Conquer
-    - #### Closest Pair of Points Problem
 - ### Decrease and Conquer
 - ### Transform and Conquer
 - ### [Backtracking](./algorithm-design-techniques/backtracking.md)

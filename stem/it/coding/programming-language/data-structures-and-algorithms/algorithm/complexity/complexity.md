@@ -6,7 +6,7 @@
     <table border="1">
         <thead>
             <tr>
-                <th align="center">Time Complexity</th>
+                <th align="center">Bound</th>
                 <th align="center">Asymptotic Notation</th>
                 <th align="center">Definition<br>($\text{for }n\ge n_0$)</th>
                 <th align="center">Limit</th>
@@ -31,20 +31,30 @@
     </table>
 
     - #### Strict Bounds
-        |Time Complexity|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|Limit|
+        |Bound|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|Limit|
         |:---:|:---:|:---:|:---:|
         |**Worst-case<br>(Strict Upper Bound)**|Little o Notation<br>$T\left(n\right)=o\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) < c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
         |**Best-case<br>(Strict Lower Bound)**|Little ω Notation<br>$T\left(n\right)=ω\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) > c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
 - #### Example
+    ```c
+    void f(int n){
+        int a; //1
+        for(int i=0; i<n; i++){ //n
+            for(int i=0; i<n; i++){ //n^2
+                a++; //n^2
+            }
+        }
+    }
+    ```
     - number of operations：$T\left(n\right)=2n^2+n+1$
     - Time Complexity
         <table border="1">
             <thead>
                 <tr>
-                    <th align="center">Time Complexity</th>
+                    <th align="center">Bound</th>
                     <th align="center">Limit</th>
                     <th align="center">$g\left(n\right)$</th>
-                    <th align="center">$T\left(n\right)$</th>
+                    <th align="center">Time Complexity</th>
                 </tr>
             </thead>
             <tr>

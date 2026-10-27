@@ -22,13 +22,13 @@
         - $n=\text{composite number}$
         - $a \in \mathbb{Z},~\gcd{\left(a,~n\right)}=1$
         - $a^{n-1} \equiv 1\pmod{n}$
-    - $\text{If meets all conditions},~\text{then }n\text{ is a Fermat Pseudoprime to base }a$
+    - $\text{If all conditions are met},~\text{then }n\text{ is a Fermat Pseudoprime to base }a$
 - ### Carmichael Number
     - Conditions
         - $n=\text{composite number}$
         - $\forall a \in \mathbb{Z} \text{ where } \gcd{\left(a,~n\right)}=1$
         - $a^{n-1} \equiv 1\pmod{n}$
-    - $\text{If meets all conditions},~\text{then }n\text{ is a Carmichael Number}$
+    - $\text{If all conditions are met},~\text{then }n\text{ is a Carmichael Number}$
     - Example：561, 1105, 1729, 2465, 2821, 6601, 8911, 10585
 
 # Prime Number Theorem
