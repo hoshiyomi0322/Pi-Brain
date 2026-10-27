@@ -66,7 +66,7 @@
 - ### Close Corner
     - OD弾 + [Corner 地刺 Combo](jp-special-move.md#corner-地刺-combo)/[Corner OD弾 Air Combo](#corner-od弾-air-combo)
     - (OD弾 + 前ステ) + [Corner 2HP 中下擇](../jp-heavy-attack-combo/jp-hp-combo.md#corner-2hp-中下擇)
-    - (OD弾 + 前ステ\*2) + [6MK 重ね](../jp.md#6mk-重ね-22f)
+    - (OD弾 + 前ステ*2) + [6MK 重ね](../jp.md#6mk-重ね-22f)
     - (OD弾 + 前ステ + 2HK) + [34F OKI](../jp.md#34f-oki)
     - (OD弾 + 中弾) + [39F OKI](../jp.md#39f-oki)
     - Corner OD弾 ガード：[Close OD弾 ガード](#close-od弾-ガード)

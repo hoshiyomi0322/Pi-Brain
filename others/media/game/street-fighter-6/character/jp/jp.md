@@ -211,7 +211,7 @@
 - ### 強TC OKI (10F~12F)
     - [強TC Combo](#強tc-combo)
 - ### 6MK 重ね (22F)
-    - 6MK + (2LP\*2 + [Light Cancel Combo](#light-cancel-combo))
+    - 6MK + (2LP*2 + [Light Cancel Combo](#light-cancel-combo))
 - ### 34F OKI
     - 消費(5MK) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(4MP) + [2MP 重ね](#2mp-重ね-8f)
