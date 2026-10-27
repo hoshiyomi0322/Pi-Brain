@@ -63,7 +63,7 @@
 - ### Corner DR 4HK Combo
     - (DR + 4HK*2) + delay(no cancel) + (中Spiral-arrow + [強昇竜 Combo](#強昇竜-combo)/SA1/SA3)
     - (DR + 4HK*2) + delay(no cancel) + (強Spiral-arrow + [Hooligan-中段 重ね](#hooligan-中段-重ね-39f40f))
-    - (DR + 4HK*2) + delay(no cancel) + (弱Spiral-arrow\*2 + [Hooligan-空插 OKI](#hooligan-空插-oki-30f34f))
+    - (DR + 4HK\*2) + delay(no cancel) + (弱Spiral-arrow\*2 + [Hooligan-空插 OKI](#hooligan-空插-oki-30f34f))
     - (DR + 4HK*2) + (9 + JHP) + Reset(DI)
 - ### DR 5HP Combo
     - (DR + 5HP) + 
@@ -151,7 +151,7 @@
     - [2HP Combo](#2hp-combo)
 - ### 2HP 重ね (10F~12F)
     - 2HP + [5HP Combo](#5hp-combo)
-    - ガード(2HP) + [2LP Combo](#2lp-combo)
+    - ガード(2HP) + [2LP Combo](#2lp-combo)/(前歩き + [投げ](#投げ))
 - ### Far DR 5HP OKI (17F)
     - [DR 5HP Combo](#dr-5hp-combo)
 - ### Far DR 5MP OKI (14F)
