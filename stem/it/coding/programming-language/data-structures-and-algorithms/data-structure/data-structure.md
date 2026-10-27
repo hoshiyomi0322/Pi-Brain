@@ -13,3 +13,4 @@
 # Priority Queue
 
 # Hash Table
+- ### [Hash Table](../hashing/hashing.md#hash-table)

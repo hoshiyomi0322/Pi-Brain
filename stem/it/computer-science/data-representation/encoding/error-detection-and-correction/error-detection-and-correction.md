@@ -2,6 +2,7 @@
 - ### [Parity bit](./block-code/linear-block-code.md#parity-bit)
 - ### [Cyclic Redundancy Check (CRC)](error-detection-and-correction-in-networking.md#cyclic-redundancy-check-crc)
 - ### [Checksum](error-detection-and-correction-in-networking.md#checksum)
+- ### [Cryptographic Hash Function (CHF)](/stem/it/coding/programming-language/data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
 
 # Error Correction Code
 - ### [Hamming Code](./block-code/linear-block-code.md#hamming-code)

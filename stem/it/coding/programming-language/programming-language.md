@@ -4,6 +4,8 @@
     - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
 - ### [Algorithm](./data-structures-and-algorithms/algorithm/algorithm.md)
     - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity/complexity.md)
+- ### [Hashing](./data-structures-and-algorithms/hashing/hashing.md)
+    - ### [Cryptographic Hash Function (CHF)](./data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
 
 # Types of Programming Language
 - ### [C](./types-of-programming-language/c/c.md)

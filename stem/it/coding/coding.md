@@ -1,5 +1,8 @@
 # [Programming Language](./programming-language/programming-language.md)
 - ### [Data Structures and Algorithms (DSA)](./programming-language/programming-language.md#data-structures-and-algorithms-dsa)
+    - #### [Data Structure](./programming-language/data-structures-and-algorithms/data-structure/data-structure.md)
+    - #### [Algorithm](./programming-language/data-structures-and-algorithms/algorithm/algorithm.md)
+    - #### [Hashing](./programming-language/data-structures-and-algorithms/hashing/hashing.md)
 - ### Types of Programming Language
     - #### [C](./programming-language/types-of-programming-language/c/c.md)
     - #### [Rust](./programming-language/types-of-programming-language/rust/rust.md)

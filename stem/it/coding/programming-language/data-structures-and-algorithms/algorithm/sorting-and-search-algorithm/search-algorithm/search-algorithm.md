@@ -17,3 +17,4 @@
 - ### [Shortest Path Algorithm](../../../data-structure/graph/graph-algorithms/shortest-path-algorithm.md)
 
 # Hash Search
+- ### [Hash Search](../../../hashing/hashing.md#hash-search)

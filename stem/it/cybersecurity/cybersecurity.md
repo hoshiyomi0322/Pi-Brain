@@ -14,7 +14,7 @@
 # [Cryptography](./cryptography/cryptography.md)
 - ### [Encoding](../computer-science/data-representation/encoding/encoding.md)
 - ### [Encryption](./cryptography/cryptography.md#encryption)
-- ### [Cryptographic Hash Function (CHF)](./cryptography/cryptographic-hash-function.md)
+- ### [Cryptographic Hash Function (CHF)](/stem/it/coding/programming-language/data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
 - ### Cryptanalysis
 
 # Cyberattack

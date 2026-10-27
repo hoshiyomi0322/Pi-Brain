@@ -1,4 +1,5 @@
 # Cryptographic Hash Function (CHF)
+- ### Message Digest (Digest) {#digest}
 
 # Types of Cryptographic Hash Function
 - ### [Secure Hash Algorithm (SHA)](#secure-hash-algorithm-sha-1)
