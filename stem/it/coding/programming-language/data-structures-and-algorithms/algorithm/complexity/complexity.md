@@ -152,6 +152,8 @@
 - ### [Time Complexity Class](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#time-complexity-classes-1)
 
 # Space Complexity
+- ### Space Complexity = Input Space Complexity + Auxiliary Space Complexity
+- ### Auxiliary Space Complexity：space other than that consumed by the input {#auxiliary-space-complexity}
 - ### [Space Complexity Class](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md#space-complexity-classes-1)
 
 # [Computational Complexity Theory](/stem/it/computer-science/theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
