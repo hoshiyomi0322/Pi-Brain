@@ -2,6 +2,12 @@
 - ### Number of operations：$T\left(n\right)$
     - $n = \text{Input size}$
     - $c = \text{Constant}$
+- ### Case Complexity
+    |Case Complexity|Definition|Typical Bound|
+    |:---:|:---:|:---:|
+    |Worst-case|the maximum number of steps the algorithm takes on the most unfavorable input|Upper Bound|
+    |Best-case|the minimum number of steps the algorithm takes on the most ideal input|Lower Bound|
+    |Average-case|the expected number of steps averaged over all possible inputs based on probability|Tight Bound|
 - ### Asymptotic Notation
     <table border="1">
         <thead>
@@ -13,28 +19,28 @@
             </tr>
         </thead>
         <tr>
-            <th align="center">Worst-case<br>(Upper Bound)</th>
+            <th align="center">Upper Bound</th>
             <td align="center">Big O Notation<br>$T\left(n\right)=O\Bigl(g\left(n\right)\Bigr)$</td>
-            <td align="center"><img src="./image/worst-case.png" width="30%"><br>$T\left(n\right) \le c\times g\left(n\right)$</td>
+            <td align="center"><img src="./image/upper-bound.png" width="30%"><br>$T\left(n\right) \le c\times g\left(n\right)$</td>
             <td align="center" rowspan="3"> $\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=c_l$ <br> $T\left(n\right) \approx c_l\times g\left(n\right)$ <br> $c_l=\text{the Leading Coefficient of }T\left(n\right)$ <br> $g\left(n\right) = \text{the Dominant Term of }T\left(n\right)\text{ ignoring coefficients} \left(c_l\right)$ </td>
         </tr>
         <tr>
-            <th align="center">Best-case<br>(Lower Bound)</th>
+            <th align="center">Lower Bound</th>
             <td align="center">Big Ω Notation<br>$T\left(n\right)=Ω\Bigl(g\left(n\right)\Bigr)$</td>
-            <td align="center"><img src="./image/best-case.png" width="30%"><br>$T\left(n\right) \ge c\times g\left(n\right)$</td>
+            <td align="center"><img src="./image/lower-bound.png" width="30%"><br>$T\left(n\right) \ge c\times g\left(n\right)$</td>
         </tr>
         <tr>
-            <th align="center">Average-case<br>(Tight Bound)</th>
+            <th align="center">Tight Bound</th>
             <td align="center">Big Θ Notation<br>$T\left(n\right)=Θ\Bigl(g\left(n\right)\Bigr)$</td>
-            <td align="center"><img src="./image/average-case.png" width="30%"><br>$c_1\times g\left(n\right) \le T\left(n\right) \le c_2\times g\left(n\right)$</td>
+            <td align="center"><img src="./image/tight-bound.png" width="30%"><br>$c_1\times g\left(n\right) \le T\left(n\right) \le c_2\times g\left(n\right)$</td>
         </tr>
     </table>
 
     - #### Strict Bounds
         |Bound|Asymptotic Notation|Definition<br>($\text{for }n\ge n_0$)|Limit|
         |:---:|:---:|:---:|:---:|
-        |**Worst-case<br>(Strict Upper Bound)**|Little o Notation<br>$T\left(n\right)=o\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) < c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
-        |**Best-case<br>(Strict Lower Bound)**|Little ω Notation<br>$T\left(n\right)=ω\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) > c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
+        |**Strict Upper Bound**|Little o Notation<br>$T\left(n\right)=o\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) < c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=0$|
+        |**Strict Lower Bound**|Little ω Notation<br>$T\left(n\right)=ω\Bigl(g\left(n\right)\Bigr)$|$T\left(n\right) > c\times g\left(n\right)$|$\lim\limits_{n\to\infty}{\frac{T\left(n\right)}{g\left(n\right)}}=\infty$|
 - #### Example
     ```c
     void f(int n){
