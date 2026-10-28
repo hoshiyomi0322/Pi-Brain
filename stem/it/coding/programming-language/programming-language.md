@@ -1,11 +1,11 @@
 # Data Structures and Algorithms (DSA)
 - ### [Data Structure](./data-structures-and-algorithms/data-structure/data-structure.md)
-    - ### [Linear Data Structure](./data-structures-and-algorithms/data-structure/linear-data-structure/linear-data-structure.md)
-    - ### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
+    - #### [Linear Data Structure](./data-structures-and-algorithms/data-structure/linear-data-structure/linear-data-structure.md)
+    - #### [Graph](./data-structures-and-algorithms/data-structure/graph/graph.md)
 - ### [Algorithm](./data-structures-and-algorithms/algorithm/algorithm.md)
-    - ### [Complexity](./data-structures-and-algorithms/algorithm/complexity/complexity.md)
+    - #### [Complexity](./data-structures-and-algorithms/algorithm/complexity/complexity.md)
 - ### [Hashing](./data-structures-and-algorithms/hashing/hashing.md)
-    - ### [Cryptographic Hash Function (CHF)](./data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
+    - #### [Cryptographic Hash Function (CHF)](./data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
 
 # Types of Programming Language
 - ### [C](./types-of-programming-language/c/c.md)

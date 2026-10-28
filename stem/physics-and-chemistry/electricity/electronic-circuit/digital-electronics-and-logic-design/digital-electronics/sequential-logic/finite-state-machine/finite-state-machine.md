@@ -1,7 +1,7 @@
 # Finite State Machine
 - ### Formal Definition
     - $Q$ = a set of states
-    - $Σ$ = Input [Alphabet](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet)
+    - $Σ$ = Input <a href="/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet">Alphabet</a>
     - $Γ$ = Output [Alphabet](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet)
     - $δ$ = [State Transition Function](#state-transition-function-)
     - $λ$ = [Output Function](#output-function-)
