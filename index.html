@@ -57,24 +57,26 @@
             var folder = currentFile.indexOf('/') === -1
                 ? ''
                 : currentFile.substring(0, currentFile.lastIndexOf('/'));
-
+            var currentRoute = currentFile.replace(/\.md$/i, '');
+            root.querySelectorAll('a[href^="#"]').forEach(function (a) {
+                var href = a.getAttribute('href');
+                if (!href || href.length < 2 || href.charAt(1) === '/') return;
+                a.setAttribute('href', '#/' + currentRoute + '?id=' + href.slice(1));
+            });
             root.querySelectorAll('a[href*=".md"]').forEach(function (a) {
                 var href = a.getAttribute('href');
                 if (!href || /^(https?:|mailto:|#\/|\/#\/)/i.test(href)) return;
-            
                 var parts = href.split('#');
                 var rel = parts[0];
-                var anchor = parts[1];            
+                var anchor = parts[1];
                 var targetPath = rel.charAt(0) === '/'
                     ? rel
                     : (folder ? folder + '/' : '') + rel;
-            
                 var resolved = [];
                 targetPath.split('/').forEach(function (segment) {
                     if (segment === '..') resolved.pop();
                     else if (segment !== '.' && segment !== '') resolved.push(segment);
                 });
-            
                 var newHref = '#/' + resolved.join('/').replace(/\.md$/, '');
                 if (anchor) newHref += '?id=' + anchor;
                 a.setAttribute('href', newHref);
