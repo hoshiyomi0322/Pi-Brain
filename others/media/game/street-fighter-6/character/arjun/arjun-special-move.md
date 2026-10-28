@@ -30,6 +30,7 @@
     - ガード(中推掌派生) + [5MP Combo](arjun.md#5mp-combo)
 - ### 強推掌 Combo
     - 強推掌派生 + [75F 地刺 OKI](arjun.md#75f-地刺-oki-74f75f)/SA3
+    - 強推掌 + SA1
     - ガード
         - ガード(強推掌) + [3F打摔擇](arjun.md#3f打摔擇-2f3f)
         - ガード(強推掌派生) + [5MP Combo](arjun.md#5mp-combo)

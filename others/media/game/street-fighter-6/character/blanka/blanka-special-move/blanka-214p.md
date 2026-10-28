@@ -1,5 +1,5 @@
 # 放電 Combo
-- 放電 + [中コマ投げ OKI](../blanka.md#中コマ投げ-oki-38f39f)
+- 放電 + [中コマ投げ OKI](../blanka.md#中コマ投げ-oki-38f39f)/SA3
 - ### 帶炸彈 放電 Combo
     - ### 帶炸彈 Midscreen 放電 Combo
         - 放電 + [中コマ投げ OKI](../blanka.md#中コマ投げ-oki-38f39f)
@@ -28,9 +28,10 @@
         - 對手 Parry：ガード(前hop) + (5HP + 前hop) + [投げ](../blanka.md#投げ)
 
 # OD放電 Combo
-- OD放電 + [40F OKI](../blanka.md#40f-oki)
-- OD放電 + SA2 + [帶電 OD前翻滾 Combo](blanka-46p.md#帶電-od前翻滾-combo)
-- OD放電 + SA2 + [帶電 強前翻滾 Air Combo](blanka-46p.md#帶電-強前翻滾-air-combo)
+- OD放電 + [40F OKI](../blanka.md#40f-oki)/SA3
+    - Corner：OD放電 + delay(cancel) + SA3
+- OD放電 + delay(cancel) + SA2 + [帶電 強前翻滾 Air Combo](blanka-46p.md#帶電-強前翻滾-air-combo)
+    - C-switch：OD放電 + delay(cancel) + SA2 + [帶電 OD前翻滾 Combo](blanka-46p.md#帶電-od前翻滾-combo)
 - 連ガ：ガード(OD放電) + [5LK Combo](../blanka.md#5lk-combo)
 - ### 帶炸彈 OD放電 Combo
     - ### 帶炸彈 Midscreen OD放電 Combo
