@@ -213,7 +213,17 @@
 
                             links.forEach(function(a) {
                                 var href = a.getAttribute('href');
-                                if (/^(http|https|\/#\/|\/)/.test(href)) return;
+                                if (/^(http|https|\/#\/)/.test(href)) return;
+                                if (href.charAt(0) === '/') {
+                                    var rootParts = href.split('#');
+                                    var rootPath = rootParts[0].replace(/^\//, '').replace(/\.md$/, '');
+                                    var rootNew = '#/' + rootPath;
+                                    if (rootParts[1]) {
+                                        rootNew += '?id=' + rootParts[1];
+                                    }
+                                    a.setAttribute('href', rootNew);
+                                    return;
+                                }
                                 var parts = href.split('#');
                                 var relativePath = parts[0];
                                 var anchor = parts[1];
