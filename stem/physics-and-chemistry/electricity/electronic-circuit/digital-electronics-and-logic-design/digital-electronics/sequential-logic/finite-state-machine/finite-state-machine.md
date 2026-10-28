@@ -2,12 +2,12 @@
 - ### Formal Definition
     - $Q$ = a set of states
     - $Σ$ = Input <a href="/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet">Alphabet</a>
-    - $Γ$ = Output [Alphabet](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet)
-    - $δ$ = [State Transition Function](#state-transition-function-)
-    - $λ$ = [Output Function](#output-function-)
+    - $Γ$ = Output <a href="/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#alphabet">Alphabet</a>
+    - $δ$ = <a href="#state-transition-function-">State Transition Function</a>
+    - $λ$ = <a href="#output-function-">Output Function</a>
     - $q_0$ = Start State ($q_0\in Q$)
     - $F$ = a set of Accept States ($F\subseteq Q$)
-    - $\times$ = [Cartesian Product](/stem/math/discrete-mathematics/set-theory/set-theory.md#cartesian-product)
+    - $\times$ = <a href="/stem/math/discrete-mathematics/set-theory/set-theory.md#cartesian-product">Cartesian Product</a>
 - ### State Transition Function ($δ$)
     - Example：$δ:Q \times Σ \to Q$
 - ### Output Function ($λ$)

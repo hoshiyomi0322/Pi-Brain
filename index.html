@@ -52,6 +52,36 @@
 <body>
     <div id="app">Loading...</div>
     <script>
+        function piFixMdLinks(root, currentFile) {
+            if (!root || !currentFile) return;
+            var folder = currentFile.indexOf('/') === -1
+                ? ''
+                : currentFile.substring(0, currentFile.lastIndexOf('/'));
+
+            root.querySelectorAll('a[href*=".md"]').forEach(function (a) {
+                var href = a.getAttribute('href');
+                if (!href || /^(https?:|mailto:|#\/|\/#\/)/i.test(href)) return;
+            
+                var parts = href.split('#');
+                var rel = parts[0];
+                var anchor = parts[1];            
+                var targetPath = rel.charAt(0) === '/'
+                    ? rel
+                    : (folder ? folder + '/' : '') + rel;
+            
+                var resolved = [];
+                targetPath.split('/').forEach(function (segment) {
+                    if (segment === '..') resolved.pop();
+                    else if (segment !== '.' && segment !== '') resolved.push(segment);
+                });
+            
+                var newHref = '#/' + resolved.join('/').replace(/\.md$/, '');
+                if (anchor) newHref += '?id=' + anchor;
+                a.setAttribute('href', newHref);
+            });
+        }
+        var piLinkTimer = null;
+
         window.$docsify = {
             name: 'Pi-Brain',
             homepage: 'index.md',
@@ -205,46 +235,16 @@
                             }
                         });
 
-                        // Adjust links to other markdown files to be relative to the current file's directory
-                        var currentFile = vm.route.file;
-                        if (currentFile) {
-                            var links = document.querySelectorAll('#main a[href*=".md"]');
-                            var folder = currentFile.substring(0, currentFile.lastIndexOf('/'));
-
-                            links.forEach(function(a) {
-                                var href = a.getAttribute('href');
-                                if (/^(http|https|\/#\/)/.test(href)) return;
-                                if (href.charAt(0) === '/') {
-                                    var rootParts = href.split('#');
-                                    var rootPath = rootParts[0].replace(/^\//, '').replace(/\.md$/, '');
-                                    var rootNew = '#/' + rootPath;
-                                    if (rootParts[1]) {
-                                        rootNew += '?id=' + rootParts[1];
-                                    }
-                                    a.setAttribute('href', rootNew);
-                                    return;
-                                }
-                                var parts = href.split('#');
-                                var relativePath = parts[0];
-                                var anchor = parts[1];
-                                var targetPath = (folder ? folder + '/' : '') + relativePath;
-                                var pathSegments = targetPath.split('/');
-                                var resolvedSegments = [];
-                                for (var i = 0; i < pathSegments.length; i++) {
-                                    var segment = pathSegments[i];
-                                    if (segment === '..') {
-                                        resolvedSegments.pop();
-                                    } else if (segment !== '.' && segment !== '') {
-                                        resolvedSegments.push(segment);
-                                    }
-                                }
-                                var finalPath = resolvedSegments.join('/').replace(/\.md$/, '');
-                                var newHref = '#/' + finalPath;
-                                if (anchor) {
-                                    newHref += '?id=' + anchor;
-                                }
-                                a.setAttribute('href', newHref);
+                        var mainEl = document.getElementById('main');
+                        piFixMdLinks(mainEl, vm.route.file);
+                        if (!window.piLinkObserver && mainEl) {
+                            window.piLinkObserver = new MutationObserver(function () {
+                                clearTimeout(piLinkTimer);
+                                piLinkTimer = setTimeout(function () {
+                                    piFixMdLinks(document.getElementById('main'), vm.route.file);
+                                }, 50);
                             });
+                            window.piLinkObserver.observe(mainEl, { childList: true, subtree: true });
                         }
 
                         document.querySelectorAll('.markdown-section table').forEach(function(table) {

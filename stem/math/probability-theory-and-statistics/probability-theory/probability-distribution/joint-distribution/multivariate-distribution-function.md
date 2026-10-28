@@ -6,7 +6,7 @@
     |**$\left(X_1,~\cdots,~X_n\right)$ is Discrete**|**Multivariate Probability Mass Function (Multivariate PMF)**<br>$f\left(x_1,~\cdots,~x_n\right)=P\left(X_1=x_1,~\cdots,~X_n=x_n\right)=P\left(\left(X_1=x_1\right)\cap\cdots\cap\left(X_n=x_n\right)\right)$|
 - ### Multivariate [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf)：$F_{X_1,~\cdots,~X_n}\left(x_1,~\cdots,~x_n\right)$ {#multivariate-cdf}
     - ### $\begin{aligned} F\left(x_1,~\cdots,~x_n\right) &= P\left(X_1\le x_1,~\cdots,~X_n\le x_n\right) \\ &= \begin{cases}{\int^{x_1}_{-\infty}{\cdots\int^{x_n}_{-\infty}{f\left(t_1,~\cdots,~t_n\right)\,dt_n\cdots dt_1}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Continuous}\\{\sum\limits_{t_1\le x_1}{\cdots\sum\limits_{t_n\le x_n}{f\left(t_1,~\cdots,~t_n\right)}}}&\text{if }\left(X_1,~\cdots,~X_n\right)\text{ is Discrete}\end{cases} \end{aligned}$
-- ### $\text{If } X_1,~\cdots,~X_n \text{ are }$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $\text{If } X_1,~\cdots,~X_n \text{ are }\href{#/stem/math/probability-theory-and-statistics/probability-theory/conditional-probability/conditional-probability?id=independent-events-mutually-exclusive-events}{\text{Independent}}$
     - ### $f\left(x_1,~\cdots,~x_n\right) = f_{X_1}\left(x_1\right) \times\cdots\times f_{X_n}\left(x_n\right)$
     - ### $F\left(x_1,~\cdots,~x_n\right) = F_{X_1}\left(x_1\right) \times\cdots\times F_{X_n}\left(x_n\right)$
 - ### Properties
@@ -43,7 +43,7 @@
     - ### $f_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right) = \frac{f_{X_i \cdots X_jX_v \cdots X_w}\left(x_i,~ \cdots,~ x_j,~x_v,~ \cdots,~ x_w\right)}{f_{X_v \cdots X_w}\left(x_v,~ \cdots,~ x_w\right)}$
 - ### Conditional [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $\begin{aligned} F_{X_i \cdots X_j| X_v \cdots X_w}\left( x_i \cdots x_j| x_v \cdots x_w \right) &= P\left(X_i \le x_i ,~\cdots,~ X_j \le x_j | X_v=x_v ,~\cdots,~ X_w=x_w \right) \\ &= \begin{cases}{\int^{x_i}_{-\infty}{\cdots\int^{x_j}_{-\infty}{f_{X_i \cdots X_j| X_v \cdots X_w}\left( t_i \cdots t_j| x_v \cdots x_w \right)\,dt_j\cdots dt_i}}}&\text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Continuous} \\ {\sum\limits_{t_i\le x_i}{\cdots\sum\limits_{t_j\le x_j}{f_{X_i \cdots X_j| X_v \cdots X_w}\left( t_i \cdots t_j| x_v \cdots x_w \right)}}}&\text{if }\left(X_i,~\cdots,~X_j\right)\text{ is Discrete}\end{cases}\end{aligned}$
-- ### $\text{If }\left( X_i \cdots X_j \right)\text{ and }\left( X_v \cdots X_w \right)\text{ are }$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $\text{If }\left( X_i \cdots X_j \right)\text{ and }\left( X_v \cdots X_w \right)\text{ are }\href{#/stem/math/probability-theory-and-statistics/probability-theory/conditional-probability/conditional-probability?id=independent-events-mutually-exclusive-events}{\text{Independent}}$
     - ### $f_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right)=f_{X_i \cdots X_j}\left(x_i,~ \cdots,~ x_j\right)$
     - ### $F_{X_i \cdots X_j | X_v \cdots X_w}\left( x_i \cdots x_j | x_v \cdots x_w \right)=F_{X_i \cdots X_j}\left(x_i,~ \cdots,~ x_j\right)$
 - ### Example

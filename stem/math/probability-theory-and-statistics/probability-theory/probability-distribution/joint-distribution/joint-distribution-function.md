@@ -7,7 +7,7 @@
     |**$X$ is Continuous, $Y$ is Discrete**|$f\left(x,~y\right)=f_{X|Y}\left(x|y\right)P\left(Y=y\right)=P\left(Y=y|X=x\right)f_X\left(x\right)$<br>$f\left(x,~y\right)=\frac{\partial}{\partial x}P\left(X\le x,~Y=y\right)$|
 - ### [Joint](../../conditional-probability/conditional-probability.md#joint-probability) [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Joint [CDF](../distribution-function.md#cumulative-distribution-function-cdf))：$F_{XY}\left(x,~y\right)$ {#joint-cdf}
     - ### $F\left(x,~y\right)=P\left(X\le x,~Y\le y\right)=\begin{cases}{\int^x_{-\infty}{\int^y_{-\infty}{f\left(t,~s\right)\,ds}\,dt}}&\text{if }\left(X,~Y\right)\text{ is Continuous}\\{\sum\limits_{t\le x}{\sum\limits_{s\le y}{f\left(t,~s\right)}}}&\text{if }\left(X,~Y\right)\text{ is Discrete}\\{\sum\limits_{s\le y}{\int_{-\infty}^{x}{f\left(t,~s\right)\,dt}}}&\text{if }X\text{ is Continuous},~Y\text{ is Discrete}\end{cases}$
-- ### $\text{If }X\text{ and }Y\text{ are }$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $\text{If }X\text{ and }Y\text{ are }\href{#/stem/math/probability-theory-and-statistics/probability-theory/conditional-probability/conditional-probability?id=independent-events-mutually-exclusive-events}{\text{Independent}}$
     - ### $f_{XY}\left(x,~y\right)=f_X\left(x\right)f_Y\left(y\right)$
     - ### $F_{XY}\left(x,~y\right)=F_X\left(x\right)F_Y\left(y\right)$
 - ### Properties
@@ -48,7 +48,7 @@
 - ### Conditional [Cumulative Distribution Function](../distribution-function.md#cumulative-distribution-function-cdf) (Conditional [CDF](../distribution-function.md#cumulative-distribution-function-cdf))
     - ### $F_{X|Y}\left(x|y\right) = P\left(X\le x|Y=y\right) = \begin{cases} {\int^x_{-\infty}{f_{X|Y}\left(t|y\right)\,dt}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{t\le x}{f_{X|Y}\left(t|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}$
 - ### $P\left(a\le X\le b|Y=y\right) = \begin{cases} {\int^b_{a}{f_{X|Y}\left(x|y\right)\,dx}} &\text{if }X\text{ is Continuous} \\ {\sum\limits_{a\le x \le b}{f_{X|Y}\left(x|y\right)}} &\text{if }X\text{ is Discrete} \end{cases}$
-- ### $\text{If }X\text{ and }Y\text{ are }$[Independent](../../conditional-probability/conditional-probability.md#independent-events-mutually-exclusive-events)
+- ### $\text{If }X\text{ and }Y\text{ are }\href{#/stem/math/probability-theory-and-statistics/probability-theory/conditional-probability/conditional-probability?id=independent-events-mutually-exclusive-events}{\text{Independent}}$
     - ### $f_{X|Y}\left(x|y\right)=f_X\left(x\right),~f_{Y|X}\left(y|x\right)=f_Y\left(y\right)$
     - ### $F_{X|Y}\left(x|y\right)=F_X\left(x\right),~F_{Y|X}\left(y|x\right)=F_Y\left(y\right)$
 - ### [Conditional Expectation](../../expected-value.md#conditional-expectation)
