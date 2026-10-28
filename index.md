@@ -78,3 +78,6 @@
     - ### [Video](others/media/video/video.md)
     - ### [Computer Graphics (CG)](others/media/computer-graphics/computer-graphics.md)
     - ### [Game](others/media/game/game.md)
+
+
+- $x=\href{others/media/game/game.md}{\text{Game}}$
