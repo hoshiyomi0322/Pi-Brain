@@ -126,10 +126,6 @@
 - ### Static 0-Hazards
 - ### Dynamic Hazard
 
-# Programmable Logic Device (PLD)
-- ### Programmable Logic Array (PLA)
-- ### Complex PLD (CPLD)
-- ### Field-Programmable Gate Array (FPGA)
 ---
 - ### General-Purpose Input/Output (GPIO)
 - ### Seven-Segment Display

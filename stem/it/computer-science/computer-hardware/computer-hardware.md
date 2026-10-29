@@ -6,7 +6,7 @@
     - ### input devices
     - ### output devices
     - ### both input and output devices
-- ### [Central Processing Unit (CPU)](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/digital-ic/logic-ic/processor/microprocessor.md#central-processing-unit-cpu)
+- ### [Central Processing Unit (CPU)](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/logic-ic/processor/microprocessor-unit.md#central-processing-unit-cpu)
     - ### [Datapath](./datapath/datapath.md)
         - #### Arithmetic Logic Unit (ALU)
 
@@ -21,11 +21,11 @@
 
     - #### Northbridge (Memory Controller Hub, MCH)
     - #### Southbridge (I/O Control Hub, ICH)
-    - #### Front Side Bus (FSB)：Northbridge $\xrightarrow{FSB}$ [CPU](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/digital-ic/logic-ic/processor/microprocessor.md#central-processing-unit-cpu)
+    - #### Front Side Bus (FSB)：Northbridge $\xrightarrow{FSB}$ [CPU](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/logic-ic/processor/microprocessor-unit.md#central-processing-unit-cpu)
 - ### PCH Architecture
     <img src="./image/pch-architecture.png" width="50%">
 
-    - #### Northbridge functions were integrated into [CPU](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/digital-ic/logic-ic/processor/microprocessor.md#central-processing-unit-cpu)
+    - #### Northbridge functions were integrated into [CPU](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/logic-ic/processor/microprocessor-unit.md#central-processing-unit-cpu)
     - #### Southbridge (Platform Controller Hub, PCH)
 
 # Bus
