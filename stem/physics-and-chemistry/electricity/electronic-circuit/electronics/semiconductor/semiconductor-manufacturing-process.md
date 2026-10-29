@@ -1,14 +1,10 @@
+# Silicon $\to$ Wafer $\to$ Die $\to$ [Integrated Circuits](./integrated-circuits/integrated-circuits.md)
 - ### Silicon
     - #### Polysilicon
     - #### Monocrystalline Silicon (Single-Crystal Silicon)
 - ### Wafer
 - ### Die
-- ### Integrated Circuits (IC, Chip)
-    - #### Small-Scale Integration (SSI)
-    - #### Medium-Scale Integration (MSI)
-    - #### Large-Scale Integration (LSI)
-    - #### Very Large-Scale Integration (VLSI)
-    - #### Ultra-Large-Scale Integration (ULSI)
+- ### [Integrated Circuits (IC, Chip)](./integrated-circuits/integrated-circuits.md)
 - ### Front Opening Unified Pod (FOUP)
 - ### Yield = 良品數實際生産數
 
@@ -18,12 +14,12 @@
 - ### [Back End of Line (BEOL)](#back-end-of-line-beol-1)
 - ### Wafer Backgrinding
 - ### Wafer Probe Test
-- ### Wafer Dicing：Wafer → Die
-- ### [IC Packaging](#ic-packagingdie--integrated-circuits-1)：Die → Integrated Circuits
+- ### Wafer Dicing：Wafer $\to$ Die
+- ### [IC Packaging](#ic-packagingdie--integrated-circuits-1)：Die $\to$ [Integrated Circuits](./integrated-circuits/integrated-circuits.md)
 
 # Wafer Fabrication
-- ### Czochralski Process：Polysilicon → Monocrystalline Silicon Ingot
-- ### Slicing：Monocrystalline Silicon Ingot → Wafer
+- ### Czochralski Process：Polysilicon $\to$ Monocrystalline Silicon Ingot
+- ### Slicing：Monocrystalline Silicon Ingot $\to$ Wafer
 
 # Front End of Line (FEOL)
 - ### Oxidation
@@ -43,7 +39,7 @@
 - ### Interconnect
     - #### VIA
 
-# IC Packaging：Die → Integrated Circuits
+# IC Packaging：Die $\to$ [Integrated Circuits](./integrated-circuits/integrated-circuits.md)
 - ### Bonding
     - #### Die Bonding
     - #### Wire Bonding

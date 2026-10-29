@@ -5,9 +5,11 @@
     - #### Literal：$A,~A',~B,~B',~C,~C',~\cdots$
 - ### Logic Diagram
 - ### Truth Table
-- ### Hardware Description Language (HDL)
-    - ### [VHDL](./hdl/vhdl.md)
-    - ### Verilog
+
+# Hardware Description Language (HDL)
+- ### Register-Transfer Level (RTL)
+- ### [VHDL](./hdl/vhdl.md)
+- ### [Verilog](./hdl/verilog.md)
 
 # [Logic](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-connective-logical-operator) Gate
 |Logic Gate|Boolean Expression|Logic Diagram Symbol|

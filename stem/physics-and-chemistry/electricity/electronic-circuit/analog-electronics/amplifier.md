@@ -6,12 +6,12 @@
         - non-inverting amplifier
     - ### Positive feedback
 
-# Transistor Amplifier
-- ### FET Amplifier
+# [Transistor](../electronics/electronics.md#transistor) Amplifier
+- ### [FET](../electronics/transistor/field-effect-transistor/field-effect-transistor.md) Amplifier
     - ### Common-Source Amplifier
     - ### Common-Gate Amplifier
     - ### Common-Drain Amplifier
-- ### BJT Amplifier
+- ### [BJT](../electronics/transistor/bipolar-junction-transistor/bipolar-junction-transistor.md) Amplifier
     - ### Common-Emitter Amplifier
     - ### Common-Base Amplifier
     - ### Common-Collector Amplifier

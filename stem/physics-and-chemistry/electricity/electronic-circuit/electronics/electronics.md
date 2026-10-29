@@ -15,18 +15,19 @@
 - ### Conductor
 - ### [Semiconductor](./semiconductor/semiconductor.md)
     - #### [Semiconductor Manufacturing Process](./semiconductor/semiconductor-manufacturing-process.md)
+    - #### [Integrated Circuits (IC, Chip)](./semiconductor/integrated-circuits/integrated-circuits.md)
 - ### Insulator
 
 # Transistor
-- ### [Bipolar Junction Transistor (BJT)](./transistor/bjt.md)
+- ### [Bipolar Junction Transistor (BJT)](./transistor/bipolar-junction-transistor/bipolar-junction-transistor.md)
     - PNP Transistor
     - NPN Transistor
-- ### [Field-Effect Transistor(FET)](./transistor/fet.md)
+- ### [Field-Effect Transistor(FET)](./transistor/field-effect-transistor/field-effect-transistor.md)
     - #### Junction FET (JFET)
         - P-channel JFET
         - N-channel JFET 
     - #### Insulated Gate FET (IGFET)
-        - Metal-Oxide-Semiconductor FET (MOSFET)
+        - [Metal-Oxide-Semiconductor FET (MOSFET)](./transistor/field-effect-transistor/mosfet.md)
         - High Electron Mobility Transistor (HEMT)
     - #### Metal Semiconductor FET (MESFET)
 

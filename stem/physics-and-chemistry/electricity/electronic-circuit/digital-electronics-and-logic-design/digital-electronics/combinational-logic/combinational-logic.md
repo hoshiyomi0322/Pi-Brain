@@ -15,8 +15,9 @@
 - ### Encoder
 - ### Decoder
 
-# Multiplexer (MUX)
-
+# Multiplexer (MUX) and Demultiplexer (DEMUX)
+- ### Multiplexer (MUX)
+- ### Demultiplexer (DEMUX)
 
 # Shift
 - ### [Shift](shift.md)

@@ -140,7 +140,7 @@
     - #### replaced [Magnetic Tape](#magnetic-tape)
 
 # Third Generation (1965~1971)
-- ### [Integrated Circuits (IC)](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#integrated-circuits-ic-chip)
+- ### [Integrated Circuits (IC)](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/integrated-circuits.md)
     <img src="./image/integrated-circuits.png" width="20%">
 
     - #### type：electronic component
@@ -155,7 +155,7 @@
     - #### type：input/output device
     - #### with a keyboard and screen
 - ### Moore's law
-    - #### ver.1：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an integrated circuit doubles every year
+    - #### ver.1：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an [integrated circuit](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/integrated-circuits.md) doubles every year
 
 # Fourth Generation (1971~)
 - ### [Very Large-Scale Integration (VLSI)](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#very-large-scale-integration-vlsi)
@@ -172,7 +172,7 @@
     - #### new companies emerge：Apple, Sun, Dell…
 - ### Laptops, Tablet Computers, Smart Phones
 - ### Moore's law
-    - #### ver.2：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an integrated circuit doubles every 18 months
+    - #### ver.2：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an [integrated circuit](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/integrated-circuits.md) doubles every 18 months
     - #### ver.3：the computer [chip](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#integrated-circuits-ic-chip) performance double every 18 months, or the price drops by half
 
 # [Parallel Computing](../computer-organization-and-architecture/parallel-computing/parallel-computing.md) and [Networking](../computer-networking/computer-networking.md)

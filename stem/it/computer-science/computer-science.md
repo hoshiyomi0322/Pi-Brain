@@ -4,6 +4,7 @@
 # Abstraction
 - ### Rationale：a mental model that removes or hides complex details
 - ### Information Hiding
+- ### Levels of Abstraction
 - ### [Abstract Data Type (ADT)](../coding/programming-language/data-structures-and-algorithms/data-structure/data-structure.md#abstract-data-type-adt)
 
 # [Computer Organization and Architecture](./computer-organization-and-architecture/computer-organization-and-architecture.md)
