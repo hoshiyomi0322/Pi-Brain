@@ -7,6 +7,8 @@
     - $λ$ = <a href="#output-function-">Output Function</a>
     - $q_0$ = Start State ($q_0\in Q$)
     - $F$ = a set of Accept States ($F\subseteq Q$)
+    - $ε$ = Empty String
+    - $\mathcal{P}\left(\right)$ = [Power Set](/stem/math/discrete-mathematics/set-theory/set-theory.md#power-set)
     - $\times$ = <a href="/stem/math/discrete-mathematics/set-theory/set-theory.md#cartesian-product">Cartesian Product</a>
 - ### State Transition Function ($δ$)
     - Example：$δ:Q \times Σ \to Q$

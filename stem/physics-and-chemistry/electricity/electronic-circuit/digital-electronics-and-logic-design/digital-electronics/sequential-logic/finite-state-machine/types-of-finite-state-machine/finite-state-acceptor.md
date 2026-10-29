@@ -14,4 +14,3 @@
 # Deterministic Finite Automata (DFA)
 
 # Nondeterministic Finite Automata (NFA)
-- $\mathcal{P}\left(Q\right)$ = Power Set

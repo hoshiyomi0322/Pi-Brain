@@ -17,6 +17,7 @@
 
 # Set of Sets
 - ### Power Set
+    - $\mathcal{P}\left(S\right)$
 - ### Partition of a Set
 
 # Venn Diagram
