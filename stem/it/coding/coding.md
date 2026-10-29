@@ -30,3 +30,11 @@
 - ### [Extensible Markup Language (XML)](./data-serialization/xml/xml.md)
 - ### [JavaScript Object Notation (JSON)](./data-serialization/json.md)
 - ### [YAML](./data-serialization/yaml.md)
+
+# Naming Convention
+|Naming Convention|Description|Example|
+|:---:|:---:|:---:|
+|camelCase|The first word starts with a lowercase letter, and all subsequent words start with an uppercase letter, with no spaces or punctuation|`myVariableName`|
+|PascalCase|Every word starts with an uppercase letter, with no spaces or punctuation|`MyVariableName`|
+|snake_case|All words are written in lowercase letters and separated by underscores (`_`)|`my_variable_name`|
+|kebab-case|All words are written in lowercase letters and separated by hyphens (`-`)|`my-variable-name`|
