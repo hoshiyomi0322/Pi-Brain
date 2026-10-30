@@ -14,3 +14,4 @@
 - ### Foreign Key
 
 # Database Normalization
+- ### [Normal Forms](normal-forms.md)
