@@ -44,6 +44,4 @@
     - #### Die Bonding
     - #### Wire Bonding
 - ### Encapsulation
-- ### Type of IC Packaging
-    - #### Dual in-line package (DIP)
-        - DIP Switch
+- ### Dual in-line package (DIP)

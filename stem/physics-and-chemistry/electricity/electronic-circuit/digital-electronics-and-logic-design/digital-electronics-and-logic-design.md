@@ -126,7 +126,3 @@
 - ### Static 0-Hazards
 - ### Dynamic Hazard
 
----
-- ### General-Purpose Input/Output (GPIO)
-- ### Seven-Segment Display
-- ### DIP Switch

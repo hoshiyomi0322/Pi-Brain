@@ -44,24 +44,33 @@
         - High Electron Mobility Transistor (HEMT)
     - #### Metal Semiconductor FET (MESFET)
 
-# Hole
-- ### Through Hole
-    - ### Plating Through Hole (PTH)
-    - ### Non Plating Through Hole (NPTH)
-- ### VIA
-    - ### Through Silicon Via (TSV)
-- ### Blind Via Hole
-- ### Buried Via Hole
-
-# Electrical Wiring and Cable
-- ### DuPont Jumper Wire
-
 # Breadboard
 <div align="center"><img src="./image/breadboard.png" width="80%"></div>
 
-# Circuit Board
-- ### Printed Circuit Board (PCB)
-    - ### High Density Interconnect PCB (HDI PCB)
-- ### Single-Board Computer (SBC)
-    - ### Raspberry Pi
+# Printed Circuit Board (PCB)
+- ### High Density Interconnect PCB (HDI PCB)
+- ### [Printed Circuit Board Assembly](#printed-circuit-board-assembly-1)
+
+# Single-Board Computer (SBC)
+- ### Raspberry Pi
+
+# [DIP](./semiconductor/semiconductor-manufacturing-process.md#dual-in-line-package-dip) Switch
+<div align="center"><img src="./image/dip-switch.png" width="30%"></div>
+
+- ### Pinout (8 position)
+    <img src="./image/dip-switch-pinout.png" width="25%">
+
+# Printed Circuit Board Assembly
+- ### Through Hole Technology (THT)
+    - #### Plating Through Hole (PTH)
+    - #### Non Plating Through Hole (NPTH)
+- ### Vertical Interconnect Access (VIA)
+    - #### Through-Hole Via
+    - #### Blind Via
+    - #### Buried Via
+    - #### Through Silicon Via (TSV)
+- ### Surface-Mount Technology (SMT)
+
+# Electrical Wiring and Cable
+- ### DuPont Jumper Wire
 
