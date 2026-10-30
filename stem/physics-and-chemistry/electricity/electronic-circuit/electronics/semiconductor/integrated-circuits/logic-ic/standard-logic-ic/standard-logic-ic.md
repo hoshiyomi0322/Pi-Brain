@@ -18,6 +18,7 @@
     |74138|3-Line to 8-Line [Decoder](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/combinational-logic/combinational-logic.md#decoder)|<img src="./image/74138.png" width="30%">|
     |74151|8-to-1 [Multiplexer](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/combinational-logic/combinational-logic.md#multiplexer-mux)|<img src="./image/74151.png" width="30%">|
     |7447|Seven Segment Display [Decoder](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/combinational-logic/combinational-logic.md#decoder)|<img src="./image/7447.png" width="30%">|
+
 # Resistor-Transistor Logic (RTL)
 
 # Emitter-Coupled Logic (CTL)
