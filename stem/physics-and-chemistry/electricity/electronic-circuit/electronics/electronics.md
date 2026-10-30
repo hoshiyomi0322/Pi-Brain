@@ -20,7 +20,7 @@
 - ### [Analog Mode](./gpio/gpio.md#analog-mode)
 
 # Power Supply Unit
-- ### (交流電→降壓→整流→濾波→穩壓→直流電)
+- ### 交流電 $\to$ 降壓 $\to$ 整流 $\to$ 濾波 $\to$ 穩壓 $\to$ 直流電
 - ### Rectifier
 - ### Filter
 

@@ -17,8 +17,8 @@
 
 # Pull-up/Pull-down Resistor
 - ### Pull-up Resistor
-    <img src="./image/pull-up-resistor.png" width="20%">
+    <img src="./image/pull-up-resistor.png" width="10%">
 - ### Pull-down Resistor
-    <img src="./image/pull-down-resistor.png" width="20%">
+    <img src="./image/pull-down-resistor.png" width="10%">
 
 # Wired-AND
