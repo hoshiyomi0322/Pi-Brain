@@ -18,6 +18,7 @@
 # Set of Sets
 - ### Power Set
     - $\mathcal{P}\left(S\right)$
+    - #### Cantor's Theorem：$|\mathcal{P}\left(S\right)|=2^{|S|}$
 - ### Partition of a Set
 
 # Venn Diagram
