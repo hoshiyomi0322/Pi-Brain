@@ -5,6 +5,8 @@
     - #### Literal：$A,~A',~B,~B',~C,~C',~\cdots$
 - ### Logic Diagram
 - ### Truth Table
+    - #### 1 (High)
+    - #### 0 (Low)
 
 # Hardware Description Language (HDL)
 - ### Register-Transfer Level (RTL)
@@ -22,7 +24,7 @@
 |NOR|$\overline{A+B}$|<img src="./image/nor.png" width="50%">|
 |Exclusive OR (XOR)|$A\oplus B$|<img src="./image/xor.png" width="50%">|
 |Exclusive NOR (XNOR)|$A\odot B,~\overline{A\oplus B}$|<img src="./image/xnor.png" width="50%">|
-- ### Truth Table
+- ### [Truth Table](#truth-table)
     |$A$|$B$|$A$<br>(Buffer)|$\overline{A}$<br>(NOT)|$A\cdot B$<br>(AND)|$A+B$<br>(OR)|$A\oplus B$<br>(XOR)|$\overline{A\cdot B}$<br>(NAND)|$\overline{A+B}$<br>(NOR)|$A\odot B$<br>(XNOR)|
     |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     |1|1|1|0|1|1|0|0|0|1|
@@ -104,7 +106,7 @@
         - Output：$C$
     - ### Logic Diagram
         <img src="./image/tri-state-buffer.png" width="40%">
-    - ### Truth Table
+    - ### [Truth Table](#truth-table)
         |$B$|$C$|
         |:---:|:---:|
         |$0$|$Z$|

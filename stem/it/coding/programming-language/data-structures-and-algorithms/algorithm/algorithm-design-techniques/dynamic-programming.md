@@ -4,7 +4,7 @@
 
 # Sum of Subsets Dynamic Programming (SOS DP)
 
-# Longest Common Subsequence
+# Longest Common [Subsequence](/stem/math/discrete-mathematics/set-theory/sequence.md#subsequence)
 
 # Knapsack problem
 

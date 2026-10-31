@@ -13,7 +13,7 @@
     - $Γ$ = Stack <a href="../automata-theory-and-formal-languages.md#alphabet">Alphabet</a>
     - $*$ = [Kleene Star](../automata-theory-and-formal-languages.md#kleene-star)
     - $δ$ = <a href="/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/sequential-logic/finite-state-machine/finite-state-machine.md#state-transition-function-">State Transition Function</a>
-    - $ε$ = Empty String
+    - $ε$ = Empty [String](../automata-theory-and-formal-languages.md#string)
     - $\mathcal{P}\left(\right)$ = [Power Set](/stem/math/discrete-mathematics/set-theory/set-theory.md#power-set)
     - $\times$ = <a href="/stem/math/discrete-mathematics/set-theory/set-theory.md#cartesian-product">Cartesian Product</a>
     - $Σ_ε=Σ\cup{\{ε\}}$

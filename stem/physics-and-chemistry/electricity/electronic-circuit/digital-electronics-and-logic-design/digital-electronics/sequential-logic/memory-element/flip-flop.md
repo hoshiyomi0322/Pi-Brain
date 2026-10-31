@@ -8,7 +8,7 @@
     - Input：$clk,~S,~R,~Q$
     - Output：$Q_{next}$
 - ### Boolean Expression：$Q_{next}=S+\overline{R}Q$
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$S$|$R$|$Q_{next}$|
     |:---:|:---:|:---:|:---:|
     |Hold|0|0|$Q$|
@@ -21,7 +21,7 @@
     - Input：$clk,~D,~Q$
     - Output：$Q_{next}$
 - ### Boolean Expression：$Q_{next}=D$
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$clk$|$Q_{next}$|
     |:---:|:---:|:---:|
     |Hold|0|$Q$|
@@ -32,7 +32,7 @@
     - Input：$clk,~T,~Q$
     - Output：$Q_{next}$
 - ### Boolean Expression：$Q_{next}=Q\oplus T=\overline{T}Q+T\overline{Q}$
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$T$|$Q_{next}$|
     |:---:|:---:|:---:|
     |Hold|0|$Q$|
@@ -43,7 +43,7 @@
     - Input：$clk,~J,~K,~Q$
     - Output：$Q_{next}$
 - ### Boolean Expression：$Q_{next}=J\overline{Q}+\overline{K}Q$
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$J$|$K$|$Q_{next}$|
     |:---:|:---:|:---:|:---:|
     |Hold|0|0|Q|

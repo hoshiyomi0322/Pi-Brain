@@ -7,7 +7,7 @@
         <img src="./image/sr-nand-latch.png" width="30%">
     - ### SR NOR Latch
         <img src="./image/sr-nor-latch.png" width="30%">
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$S$|$R$|$Q_{next}$|
     |:---:|:---:|:---:|:---:|
     |Hold|0|0|$Q$|
@@ -22,7 +22,7 @@
     - Output：$Q_{next}$
 - ### Logic Diagram
     - ### Logic Diagram(NAND、NOR)
-- ### Truth Table
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
     |Action|$E$|$Q_{next}$|
     |:---:|:---:|:---:|
     |Hold|0|$Q$|

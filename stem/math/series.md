@@ -1,13 +1,9 @@
 # Arithmetic Series
-- ### Arithmetic Sequence：$a_1,~a_1+d,~a_1+2d,~a_1+3d,~\cdots$
-    - $a_n=a_1+\left(n-1\right)d$
-    - $d=\text{common difference}$
+- ### [Arithmetic Sequence (Arithmetic Progression)](./discrete-mathematics/set-theory/sequence.md#arithmetic-sequence)
 - ### Arithmetic Series：$\sum\limits_{i=0}^{n-1}\left(a_1+id\right)=\frac{n\left(\ 2a_1+\left(n-1\right)d\ \right)}{2}=\frac{n\left(a_1+a_n\right)}{2}$
 
 # Geometric Series
-- ### Geometric Sequence：$a_1,~a_1r,~a_1r^2,~a_1r^3,~\cdots$
-    - $a_n=a_1\times r^{\left(n-1\right)}$
-    - $r=\text{common ratio}$
+- ### [Geometric Sequence (Geometric Progression)](./discrete-mathematics/set-theory/sequence.md#geometric-sequence)
 - ### Geometric Series：$\sum\limits_{i=0}^{n-1}\left(a_1\times r^i\right)=\frac{a_1\left(1-r^n\right)}{1-r},~r\neq1$
 - ### Infinite Geometric Series：$\sum\limits_{i=0}^{\infty}\left(a_1\times r^i\right)=\begin{cases}{\frac{a_1}{1-r}}&{\text{if }|r|<1}\\ {\text{ diverges}}&{\text{if }|r|\geq 1}\end{cases}$
 
@@ -23,11 +19,11 @@
     - $a_n=\frac{f^{\left(n\right)}\left(c\right)}{n!}$
 - ### Maclaurin Series ($c=0$)：$f\left(x\right)=\sum\limits_{n=0}^{\infty}{\frac{f^{\left(n\right)}\left(0\right)}{n!}\left(x-0\right)^n} = f\left(0\right)+\frac{f^\prime\left(0\right)}{1!}x+\frac{f^{\prime\prime}\left(0\right)}{2!}x^2+\cdots$
 - ### Taylor's Theorem
-    - ### Remainder：$R_n\left(x\right)=f\left(x\right)-\sum\limits_{n=0}^{\infty}{\frac{f^{\left(n\right)}\left(c\right)}{n!}\left(x-c\right)^n}$
+    - #### Remainder：$R_n\left(x\right)=f\left(x\right)-\sum\limits_{n=0}^{\infty}{\frac{f^{\left(n\right)}\left(c\right)}{n!}\left(x-c\right)^n}$
         - $α=\text{a number between x and c}$
-    - ### Lagrange Form：$R_n\left(x\right)=\frac{f^{n+1}\left(α\right)}{\left(n+1\right)!}\left(x-c\right)^{n+1}$
+    - #### Lagrange Form：$R_n\left(x\right)=\frac{f^{n+1}\left(α\right)}{\left(n+1\right)!}\left(x-c\right)^{n+1}$
         - Lagrange Error Bound
-    - ### Cauchy Form：$R_n\left(x\right)=\frac{f^{n+1}\left(α\right)}{n!}\left(x-α\right)^n\left(x-c\right)$
+    - #### Cauchy Form：$R_n\left(x\right)=\frac{f^{n+1}\left(α\right)}{n!}\left(x-α\right)^n\left(x-c\right)$
 - ### List of Maclaurin Series
     - $\frac{1}{1-x}=\sum\limits_{n=0}^\infty{x^n}=1+x+x^2+x^3+\cdots$
     - $e^x=\sum\limits_{n=0}^{\infty}\frac{x^n}{n!}=1+x+\frac{x^2}{2!}+\frac{x^2}{3!}+\cdots$
@@ -37,6 +33,9 @@
 	- $\cos{x}=\sum\limits_{n=0}^{\infty}{\left(-1\right)^n\frac{x^{2n}}{\left(2n\right)!}}=1-\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots$
 	- $\sinh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n+1}}{\left(2n+1\right)!}=x+\frac{x^3}{3!}+\frac{x^5}{5!}+\cdots$
 	- $\cosh{x}=\sum\limits_{n=0}^{\infty}\frac{x^{2n}}{\left(2n\right)!}=1+\frac{x^2}{2!}+\frac{x^4}{4!}+\cdots$
+
+# Formal Power Series
+- ### Generating Function
 
 # Other Series
 - ### Alternating Series：$\sum\limits_{n=1}^{\infty}{\left(-1\right)^{n+1}a_n},~a_n>0$ {#alternating-series}

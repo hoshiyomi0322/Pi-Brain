@@ -37,7 +37,7 @@
     - ### $clk=\text{Clock input}$
     - ### $en=\text{Enable}$
 - ### Boolean Expression：$output=clk\cdot en$
-- ### Truth Table
+- ### [Truth Table](../../digital-electronics-and-logic-design.md#truth-table)
     |$en$|$output$|
     |:---:|:---:|
     |$0$|$0$|
