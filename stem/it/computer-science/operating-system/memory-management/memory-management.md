@@ -1,3 +1,7 @@
+# Memory Management Scheme
+- ### [Contiguous Memory Management Scheme](./memory-management-scheme/contiguous-memory-management-scheme.md)
+- ### [Non-Contiguous Memory Management Scheme](./memory-management-scheme/non-contiguous-memory-management-scheme.md)
+
 # Memory Hierarch
 - ### [Memory Hierarchy](../../computer-hardware/memory/memory.md#memory-hierarchy)
 
@@ -48,6 +52,5 @@
 - ### Capacity Miss
 - ### Conflict Miss
 
-# Memory Management Scheme
-- ### [Contiguous Memory Management Scheme](./memory-management-scheme/contiguous-memory-management-scheme.md)
-- ### [Non-Contiguous Memory Management Scheme](./memory-management-scheme/non-contiguous-memory-management-scheme.md)
+# Memory Leak
+

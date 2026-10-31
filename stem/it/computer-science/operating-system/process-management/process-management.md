@@ -13,7 +13,6 @@
 - ### soft real-time
 
 # Interrupt
-
 - ### Types of Interrupts
     - #### External Interrupt (Hardware Interrupt)
     - #### Internal Interrupt
@@ -25,6 +24,14 @@
     - #### End Of Interrupt (EOI)
     - #### Top Half and Bottom Half
 - ### Nested Interrupt
+
+# [Thread](thread.md)
+- ### [User Thread and Kernel Thread](thread.md#user-thread-and-kernel-thread)
+- ### [Multithreading](thread.md#multithreading)
+- ### [Thread Pool](thread.md#thread-pool)
+
+# Scheduling
+- ### [Scheduling](scheduling.md)
 
 # Time-sharing
 - ### virtual memory
@@ -48,13 +55,6 @@
 
 # Inter-Process Communication (IPC)
 - ### [Inter-Process Communication (IPC)](inter-process-communication.md)
-
-# Thread
-- ### User Thread
-- ### Kernel Thread
-
-# Scheduling
-- ### [Scheduling](scheduling.md)
 
 # Process Synchronization
 

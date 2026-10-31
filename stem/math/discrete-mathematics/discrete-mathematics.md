@@ -6,8 +6,9 @@
 - ### [Mathematical Proof](./mathematical-logic/mathematical-proof/mathematical-proof.md)
 - ### [Theory of Computation (TOC)](/stem/it/computer-science/theory-of-computation/theory-of-computation.md)
 
-# Set Theory
-- ### [Set Theory](./set-theory/set-theory.md)
+# [Set Theory](./set-theory/set-theory.md)
+- ### [Sequence](./set-theory/sequence.md)
+- ### [Family of Sets](./set-theory/family-of-sets.md)
 
 # Combinatorics
 - ### [Combinatorics](./combinatorics/combinatorics.md)

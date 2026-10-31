@@ -4,6 +4,14 @@
 - ### Data-Level Parallelism (DLP)
 - ### Task-Level Parallelism (TLP)
 
+# Multiprocessing
+- ### Symmetric Multiprocessing
+- ### Asymmetric Multiprocessing
+
+# Shared Memory
+- ### Uniform Memory Access (UMA)
+- ### Non-Uniform Memory Access (NUMA)
+
 # Flynn's Taxonomy
 ||Single Instruction (SI)|Multiple Instruction (MI)|
 |:--:|:--:|:--:|
