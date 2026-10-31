@@ -6,20 +6,24 @@
 |Universal Set|$U$|a set that contains all of the objects|
 |Empty Set|$\varnothing=\Set{}$|a set having no elements|
 |Cardinality| $|S|$ |the number of distinct elements in a set| $S=\set{3.14,~\text{sui},~x^2+5},~|S|=3,~|\varnothing|=0$ |
+- ### Set-Builder Notation
+    |Set-Builder Notation|Definition|Example|
+    |:---:|:---:|:---:|
+    |$\{x\mid Φ\left(x\right)\},~\{x:Φ\left(x\right)\}$|the set of all elements $x$ that satisfy the condition $Φ\left(x\right)$|$\{x\mid x>35\}$, $\{x\mid x>35,~x\in \mathbb{R}\}$|
+    |$\{x\in S \mid Φ\left(x\right)\},~\{x\in S:Φ\left(x\right)\}$|the set of all elements $x$ belonging to set $S$ that satisfy the condition $Φ\left(x\right)$|$\{x\in \mathbb{R} \mid x>35\}$|
 - ### Properties of Set
     |Properties of Set|Definition|Example|
     |:---:|:---:|:---:|
-    |Unorderedness|The elements in a set are unordered<br>$S=\set{a_1,~\cdots ,~a_n}=\set{a_n,~\cdots ,~a_1}$|$S=\set{1,~2,~3}=\set{3,~1,~2}$|
-    |Distinctness|The elements in a set are distinct<br>$S=\set{a_1,~\cdots ,~a_n},~a_i\ne a_j,~\text{for all }i\ne j$|$S=\set{1,~2,~2,~3}=\set{1,~2,~3}$|
+    |Unorderedness|the elements in a set are unordered<br>$S=\set{a_1,~\cdots ,~a_n}=\set{a_n,~\cdots ,~a_1}$|$S=\set{1,~2,~3}=\set{3,~1,~2}$|
+    |Distinctness|the elements in a set are distinct<br>$S=\set{a_1,~\cdots ,~a_n},~a_i\ne a_j,~\text{for all }i\ne j$|$S=\set{1,~2,~2,~3}=\set{1,~2,~3}$|
 
 # Tuple
 
 
-# Set of Sets
-- ### Power Set
-    - $\mathcal{P}\left(S\right)$
-    - #### Cantor's Theorem：$|\mathcal{P}\left(S\right)|=2^{|S|}$
-- ### Partition of a Set
+# [Family of Sets](family-of-sets.md)
+- ### [Indexed Family](family-of-sets.md#indexed-family)
+- ### [Partition of a Set](family-of-sets.md#partition-of-a-set)
+- ### [Power Set](family-of-sets.md#power-set)
 
 # Venn Diagram
 <img src="./image/venn-diagram.png" width="20%">
@@ -39,13 +43,18 @@
     |Finite Union|$\bigcup\limits_{i=1}^{n}A_i=A_1\cup\cdots\cup A_n$|
 
 # Set Relations
-|Set Operations|Notation|Definition|Venn Diagram|Example|
+|Set Relations|Notation|Definition|Venn Diagram|Example|
 |:---:|:---:|:---:|:---:|:---:|
 |Superset|$A\supseteq B$|$A\text{ is a superset of }B,~A\text{ contains }B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supseteq \set{1,~2},~\set{1,~2,~3}\supseteq \set{1,~2,~3}$|
 |Subset|$A\subseteq B$|$A\text{ is a subset of }B,~B\text{ contains }A$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subseteq \set{1,~2,~3},~\set{1,~2,~3}\subseteq \set{1,~2,~3}$|
 |Proper Superset|$A\supset B$|$A\text{ is a superset of }B,~\text{but }A\ne B$|<img src="./image/superset.png" width="70%">|$\set{1,~2,~3}\supset \set{1,~2}$|
 |Proper Subset|$A\subset B$|$A\text{ is a subset of }B,~\text{but }A\ne B$|<img src="./image/subset.png" width="70%">|$\set{1,~2}\subset \set{1,~2,~3}$|
 |Element of|$A\in B$|$A\text{ is a element of }B$||$2\in \set{1,~2,~3}$|
+- ### Equal And Equivalent Sets
+    |Equal And Equivalent Sets|Definition|Example|
+    |:---:|:---:|:---:|
+    |Equal Sets ($A=B$)|contain the exact same elements<br>$\forall x\left(x\in A\iff x\in B\right)$|$A=\set{1,~2,~3},~B=\set{3,~1,~2}$|
+    |Equivalent Sets ($A \sim B$)|contain the same [cardinality](#set)<br>$|A|=|B|$|$A=\set{1,~2,~3},~B=\set{4,~6,~5}$|
 
 # Properties of Relations
 - ### Reflexive
@@ -88,6 +97,28 @@
 
 # Cartesian Product
 <div align="center"><img src="./image/cartesian-product.png" width="30%"></div>
+
+# Number Set
+<div align="center"><img src="./image/number-set.png" width="40%"></div>
+
+- $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}$
+    |Number Set|Definition|Set Relations|Example|
+    |:---:|:---:|:---:|:---:|
+    |Natural Numbers ($\mathbb{N}$)|integers that are positive|$\mathbb{N} \subset \mathbb{W} \subset \mathbb{Z}$|$1,~2$|
+    |Whole Numbers ($\mathbb{W}$)|integers that are not negative|$\mathbb{W}=\set{0}\cup\mathbb{N}$<br>$\mathbb{W} \subset \mathbb{Z}$|$0,~1,~2$|
+    |Integers ($\mathbb{Z}$)|rational numbers that can be written without a fractional part|$\mathbb{Z} \subset \mathbb{Q}$|$-2,~-1,~0,~1,~2$|
+    |Rational Numbers ($\mathbb{Q}$)|real numbers that can be expressed as a fraction|$\mathbb{Q} \subset \mathbb{R}$|$2,~-\frac{6}{7},~3.5,~0.\overline{3}$|
+    |Irrational Numbers ($\mathbb{Q}'$)|real numbers that cannot be written as a simple fraction|$\mathbb{Q}' \subset \mathbb{R}$|$\sqrt{2},~π,~e$|
+    |Real Numbers ($\mathbb{R}$)|all numbers that can be found on the number line|$\mathbb{R}=\mathbb{Q} \cup \mathbb{Q}'$<br>$\mathbb{R} \subset \mathbb{C}$|$2,~-\frac{6}{7},~π$|
+    |Imaginary Numbers ($\mathbb{I}$)|complex numbers with a non-zero imaginary part<br>($a+bi,~b\neq 0$)|$\mathbb{I} \subset \mathbb{C}$|$i,~\sqrt{-35},~-2i^3,~e^{i}$|
+    |Complex Numbers ($\mathbb{C}$)|numbers in the form $a+bi$ where $a,~b \in \mathbb{R}$||$π,~i,~3-5i$|
+- ### Positive/Negative Number Set
+    |Number Set|Definition|Set Relations|Example|
+    |:---:|:---:|:---:|:---:|
+    |Positive Integers ($\mathbb{Z}^+$)|integers that are positive|$\mathbb{Z}^+ \subset \mathbb{Z}$|$1,~2,~3$|
+    |Negative Integers ($\mathbb{Z}^-$)|integers that are negative|$\mathbb{Z}^- \subset \mathbb{Z}$|$-1,~-2,~-3$|
+    |Positive Real Numbers ($\mathbb{R}^+$)|real numbers that are positive|$\mathbb{R}^+ \subset \mathbb{R}$|$35,~\frac{6}{7},~π$|
+    |Negative Real Numbers ($\mathbb{R}^-$)|real numbers that are negative|$\mathbb{R}^- \subset \mathbb{R}$|$-35,~-\frac{6}{7},~-π$|
 
 # Russell's Paradox
 - ### Barber Paradox
