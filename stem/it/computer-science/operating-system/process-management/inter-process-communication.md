@@ -1,10 +1,10 @@
 # Inter-Process Communication (IPC)
 
 # Methods of IPC
-- ### Shared Memory
-- ### Message Passing
+- ### [Shared Memory](../../computer-organization-and-architecture/parallel-computing/multiprocessing/memory-architecture/shared-memory.md)
+- ### [Message Passing](process-management.md#message-passing)
 - ### Pipe
-- ### Socket
+- ### [Socket](../../computer-networking/computer-networking.md#socket)
 
 # Remote Procedure Call (RPC)
 - ### [Remote Procedure Call (RPC)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md)

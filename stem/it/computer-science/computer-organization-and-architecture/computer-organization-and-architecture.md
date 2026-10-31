@@ -30,13 +30,14 @@
 # System Clock
 - ### [System Clock](system-clock.md)
 
-# Sequential Processing
-- ### Single-cycle Processor
-- ### Multi-cycle Processor
-
-# [Parallel Computing](./parallel-computing/parallel-computing.md)
-- ### [Pipeline](./parallel-computing/pipeline/pipeline.md)
-- ### [Tomasulo Algorithm](./parallel-computing/tomasulo-algorithm.md)
+# Sequential and Parallel Processing
+- ### Sequential Processing
+    - #### Single-cycle Processor
+    - #### Multi-cycle Processor
+- ### [Parallel Computing (Parallel Processing)](./parallel-computing/parallel-computing.md)
+    - #### [Multiprocessing](./parallel-computing/multiprocessing/multiprocessing.md)
+    - #### [Pipeline](./parallel-computing/pipeline/pipeline.md)
+    - #### [Tomasulo Algorithm](./parallel-computing/tomasulo-algorithm.md)
 
 # Virtualization
 - ### [Virtualization](./virtualization/virtualization.md)

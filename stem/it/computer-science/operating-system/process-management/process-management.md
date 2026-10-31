@@ -2,16 +2,6 @@
 - ### Parent Process
 - ### Child Process
 
-# Multiprogramming
-
-# Multitasking
-- ### preemptive
-- ### nonpreemptive
-
-# Real-time
-- ### hard real-time
-- ### soft real-time
-
 # Interrupt
 - ### Types of Interrupts
     - #### External Interrupt (Hardware Interrupt)
@@ -33,12 +23,6 @@
 # Scheduling
 - ### [Scheduling](scheduling.md)
 
-# Time-sharing
-- ### virtual memory
-
-# Batch processing
-- ### batch file
-
 # Process States
 <div align="center"><img src="./image/process-states.png" width="60%"></div>
 
@@ -59,4 +43,27 @@
 # Process Synchronization
 
 # Deadlock
+
+# Message Passing
+- ### Message Queue
+
+# Real-time
+- ### Hard Real-time
+- ### Soft Real-time
+
+# Time-sharing
+- ### virtual memory
+
+# Batch processing
+- ### batch file
+
+# Multiprogramming
+
+# Multitasking
+- ### preemptive
+- ### nonpreemptive
+
+# [Multiprocessing](../../computer-organization-and-architecture/parallel-computing/multiprocessing/multiprocessing.md)
+- ### [Shared Memory](../../computer-organization-and-architecture/parallel-computing/multiprocessing/memory-architecture/shared-memory.md)
+- ### [Distributed Memory](../../computer-organization-and-architecture/parallel-computing/multiprocessing/memory-architecture/distributed-memory.md)
 
