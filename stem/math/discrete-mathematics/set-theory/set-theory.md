@@ -9,8 +9,8 @@
 - ### Set-Builder Notation
     |Set-Builder Notation|Definition|Example|
     |:---:|:---:|:---:|
-    |$\{x\mid Φ\left(x\right)\},~\{x:Φ\left(x\right)\}$|the set of all elements $x$ that satisfy the condition $Φ\left(x\right)$|$\{x\mid x>35\}$, $\{x\mid x>35,~x\in \mathbb{R}\}$|
-    |$\{x\in S \mid Φ\left(x\right)\},~\{x\in S:Φ\left(x\right)\}$|the set of all elements $x$ belonging to set $S$ that satisfy the condition $Φ\left(x\right)$|$\{x\in \mathbb{R} \mid x>35\}$|
+    |$\left\{x\mid Φ\left(x\right)\right\} ,~ \left\{x:Φ\left(x\right)\right\}$|the set of all elements $x$ that satisfy the condition $Φ\left(x\right)$|$\left\{x\mid x>35\right\}$, $\left\{x\mid x>35,~x\in \mathbb{R}\right\}$|
+    |$\left\{x\in S \mid Φ\left(x\right)\right\} ,~ \left\{x\in S:Φ\left(x\right)\right\}$|the set of all elements $x$ belonging to set $S$ that satisfy the condition $Φ\left(x\right)$|$\left\{x\in \mathbb{R} \mid x>35\right\}$|
 - ### Properties of Set
     |Properties of Set|Definition|Example|
     |:---:|:---:|:---:|
@@ -111,7 +111,7 @@
 # Cartesian Product
 <div align="center"><img src="./image/cartesian-product.png" width="30%"></div>
 
-- $A\times B = \{\left(a,~b\right) \mid a\in A \text{ and } b\in B\}$
+- $A\times B = \left\{\left(a,~b\right) \mid a\in A \text{ and } b\in B \right\}$
 
 # Number Set
 <div align="center"><img src="./image/number-set.png" width="40%"></div>

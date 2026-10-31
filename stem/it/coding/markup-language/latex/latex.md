@@ -76,8 +76,8 @@ $\displaystyle{text}$
 |Boldface|$\mathbf{text}$|`\mathbf{text}`|
 |Underline|$\underline{text}$|`\underline{text}`|
 |Overline|$\overline{text}$|`\overline{text}`|
-|Underbrace|$\underbrace{text}~,~\underbrace{text}_{n}$|`\underbrace{text}`, `\underbrace{text}_{n}`|
-|Overbrace|$\overbrace{text}~,~\overbrace{text}^{n}$|`\overbrace{text}`, `\overbrace{text}^{n}`|
+|Underbrace|$\underbrace{text},~\underbrace{text}_{n}$|`\underbrace{text}`, `\underbrace{text}_{n}`|
+|Overbrace|$\overbrace{text},~\overbrace{text}^{n}$|`\overbrace{text}`, `\overbrace{text}^{n}`|
 |Bar|$\bar{a}$|`\bar{a}`|
 |Vector|$\vec{ab}$|`\vec{ab}`|
 |Dot|$\dot{a}$|`\dot{a}`|
@@ -158,8 +158,8 @@ $\displaystyle{text}$
 |:---:|:---:|:---:|
 |Backslash|$\backslash$|`\backslash`|
 |Infinity|$\infty$|`\infty`|
-|Circle|$\circ~,~180^{\circ}$|`\circ`, `180^{\circ}`|
-|Prime|$\prime~,~x^{\prime}~,~x^{\prime\prime}$|`\prime`, `x^{\prime}`, `x^{\prime\prime}`|
+|Circle|$\circ,~180^{\circ}$|`\circ`, `180^{\circ}`|
+|Prime|$\prime,x',~x^{\prime},~x^{\prime\prime}$|`\prime`, `x'`, `x^{\prime}`, `x^{\prime\prime}`|
 |Partial Derivative|$\partial$|`\partial`|
 |Vector Operator (Nabla)|$\nabla$|`\nabla`|
 |Angle|$\angle$|`\angle`|
@@ -174,6 +174,7 @@ $\displaystyle{text}$
     |Lower Dots|$\ldots$|`\ldots`|
     |Diagonal Dots|$\ddots$|`\ddots`|
     |Vertical Dots|$\vdots$|`\vdots`|
+    |Colon|$\colon$|`\colon`|
 - ### O, Box
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|

@@ -4,38 +4,38 @@
     - ### HIDS/HIPS
     - ### NIDS/NIPS
 - ### EDR/MDR
-- ### Security Information and Event Management(SIEM)
+- ### Security Information and Event Management (SIEM)
 - ### DDoS Mitigation
-    - ### High Defense IP(Anti-DDoS IP)
+    - ### High Defense IP (Anti-DDoS IP)
     - ### Traffic Scrubbing
-- ### Data Loss Prevention(DLP)
-- ### Single Sign-On(SSO)
+- ### Data Loss Prevention (DLP)
+- ### Single Sign-On (SSO)
 
 # Access Control
 - ### Access Control Model
-    - ### Discretionary Access Control(DAC)
-    - ### Mandatory Access Control(MAC)
-    - ### Attribute-Based Access Control(ABAC)
-    - ### Role-Based Access Control(RBAC)
+    - ### Discretionary Access Control (DAC)
+    - ### Mandatory Access Control (MAC)
+    - ### Attribute-Based Access Control (ABAC)
+    - ### Role-Based Access Control (RBAC)
 - ### Access Control Policy
     <img src="./image/access-control-policy.png" width="20%">
-- ### Access Control List(ACL)
+- ### Access Control List (ACL)
     <img src="./image/acl.png" width="25%">
-- ### [Authentication, Authorization, Accounting(AAA)](#authentication-authorization-accountingaaa-1)
+- ### [Authentication, Authorization, Accounting (AAA)](#authentication-authorization-accounting-aaa-1)
     - ### Authentication：identity
     - ### Authorization：permission
     - ### Accounting：logging
 - ### Firewall
 - ### Whitelist
 
-# Authentication, Authorization, Accounting(AAA)
+# Authentication, Authorization, Accounting (AAA)
 - ### Session-based Authentication
     - ### Flask Session
 - ### Token-based Authentication
-    - ### JSON Web Token(JWT)
-- ### Multi-Factor Authentication(MFA)
-    - ### Two-Factor Authentication(2FA)
-- ### Open Authorization(OAuth)
-- ### Remote Authentication Dial In User Service(RADIUS)
-- ### Terminal Access Controller Access-Control System(TACACS)
+    - ### JSON Web Token (JWT)
+- ### Multi-Factor Authentication (MFA)
+    - ### Two-Factor Authentication (2FA)
+- ### Open Authorization (OAuth)
+- ### Remote Authentication Dial In User Service (RADIUS)
+- ### Terminal Access Controller Access-Control System (TACACS)
 - ### Biometrics
