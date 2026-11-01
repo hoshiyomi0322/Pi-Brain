@@ -1,4 +1,6 @@
 # Virtual Machine (VM)
+<div align="center"><img src="./image/virtual-machine.png" width="45%"></div>
+
 - ### Kernel-based Virtual Machine (KVM)
 - ### VirtualBox
 - ### Quick Emulator (QEMU)

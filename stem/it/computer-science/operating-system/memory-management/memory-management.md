@@ -36,7 +36,7 @@
 # Virtual memory
 - ### Thrashing
     <img src="./image/thrashing.png" width="50%">
-- ### User Space and Kernel Space
+- ### Virtual Address Space
     - #### User Space
     - #### Kernel Space
 

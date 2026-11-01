@@ -30,6 +30,11 @@
 |:---:|:---:|
 |`pgrep`|
 
+# Virtual Memory Statistics (vmstat)
+|Command|Description|
+|:---:|:---:|
+|`vmstat`|
+
 # Kill
 |Command|Description|
 |:---:|:---:|

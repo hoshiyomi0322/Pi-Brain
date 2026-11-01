@@ -1,5 +1,5 @@
 # Shared Memory
-<div align="center"><img src="./image/shared-memory.png" width="50%"></div>
+<div align="center"><img src="./image/shared-memory.png" width="30%"></div>
 
 # Types of Shared Memory
 - ### Uniform Memory Access (UMA)

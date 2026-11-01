@@ -54,10 +54,25 @@
 |`nc <host> <port>`|Connect to a host|
 |`nc -l <port>`|Listen on a port|
 
+# Network Load (nload)
+|Command|Description|
+|:---:|:---:|
+|`nload`||
+
+# Interface Top (iftop)
+|Command|Description|
+|:---:|:---:|
+|`iftop`||
+
 # Network Statistics (netstat)
 |Command|Description|
 |:---:|:---:|
-|`netstat`|
+|`netstat`||
+
+# vnStat
+|Command|Description|
+|:---:|:---:|
+|`vnstat`||
 
 # Socket Statistics (ss)
 |Command|Description|
