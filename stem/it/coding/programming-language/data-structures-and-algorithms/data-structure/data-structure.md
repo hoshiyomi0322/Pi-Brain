@@ -1,9 +1,10 @@
 # Abstract Data Type (ADT)
 
 # [Linear Data Structure](./linear-data-structure/linear-data-structure.md)
-- ### Linked List
-- ### Queue
-- ### Stack
+- ### [Array](./linear-data-structure/linear-data-structure.md#array)
+- ### [Linked List](./linear-data-structure/linked-list.md)
+- ### [Queue](./linear-data-structure/queue.md)
+- ### [Stack](./linear-data-structure/stack.md)
 
 # [Graph](./graph/graph.md)
 - ### [Tree Data Structure](./graph/tree/tree.md)

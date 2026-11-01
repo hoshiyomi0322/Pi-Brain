@@ -1,6 +1,7 @@
-# Parent Process, Child Process
+# Process Tree
 - ### Parent Process
 - ### Child Process
+- ### Process ID (PID)
 
 # Interrupt
 - ### Types of Interrupts
@@ -20,8 +21,15 @@
 - ### [Multithreading](thread.md#multithreading)
 - ### [Thread Pool](thread.md#thread-pool)
 
-# Scheduling
-- ### [Scheduling](./scheduling/scheduling.md)
+# [Scheduling](./scheduling/scheduling.md)
+- ### [CPU Scheduling](./scheduling/cpu-scheduling.md)
+
+# Operations on Processes
+- ### Creation
+- ### Scheduling/Dispatching
+- ### Blocking
+- ### Preemption
+- ### Termination
 
 # Process States
 <div align="center"><img src="./image/process-states.png" width="60%"></div>
@@ -35,8 +43,19 @@
 # Process Control Block (PCB)
 <div align="center"><img src="./image/pcb.png" width="25%"></div>
 
-- ### Process ID (PID)
-- ### Context Switch：exchange of register information
+- ### Process Attributes
+    - #### [Process ID (PID)](#process-id-pid)
+    - #### [Process States](#process-states)
+    - #### Process Priority
+    - #### [Program Counter (PC)](../../computer-organization-and-architecture/isa/isa.md#program-counter)
+    - #### CPU Registers
+    - #### Accounting Information
+    - #### Process I/O Status Information
+
+# Context Switch
+<div align="center"><img src="./image/context-switch.png" width="50%"></div>
+
+- ### exchange of register information
 
 # Inter-Process Communication (IPC)
 - ### [Inter-Process Communication (IPC)](inter-process-communication.md)
@@ -44,6 +63,9 @@
 # Process Synchronization
 
 # Message Passing
+- ### Types of Message Passing
+    - #### Synchronous Message Passing
+    - #### Asynchronous Message Passing
 - ### Message Queue
 
 # Real-time

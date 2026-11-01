@@ -41,7 +41,7 @@
     |:---:|:---:|:---:|:---:|
     |**Register**|Parameters are written directly into CPU registers, and the kernel fetches parameters directly from the CPU registers|Fewest<br>(limit by number of registers)|Fastest|
     |**Memory Block/Table**|Parameters are stored in a block/table in memory, and address of block/table is passed via a register|Most<br>(unlimited)|Slowest<br>(due to memory access and strict address validation)|
-    |**Call Stack**|Parameters are pushed onto the stack by the program, and popped off the stack by the operating system|More<br>(limit by stack size)|Slower<br>(due to memory access and stack context switching)|
+    |**Call Stack**|Parameters are pushed onto the stack by the program, and popped off the stack by the operating system|More<br>(limit by stack size)|Slower<br>(due to memory access and stack [context switching](./process-management/process-management.md#context-switch))|
 - ### Types of System Calls
     |System Call|Definition|Example ([Linux](./linux/linux.md))|
     |:---:|:---:|:---:|

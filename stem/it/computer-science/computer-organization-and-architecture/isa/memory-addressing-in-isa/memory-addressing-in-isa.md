@@ -11,8 +11,10 @@
 - ### Effective Address：The Address of Data
     - $\text{Data}=\text{RAM}\left[ \text{Effective Address} \right]$
 
-# Addressing mode
-- ### [Addressing mode](addressing-mode.md)
+# [Addressing mode](addressing-mode.md)
+- ### [Addressing mode for Code](addressing-mode.md#addressing-mode-for-code)
+- ### [Addressing mode for Data](addressing-mode.md#addressing-mode-for-data)
+- ### [Addressing mode for Code or Data](addressing-mode.md#addressing-mode-for-code-or-data)
 
 # Endianness
 - ### Endianness：the order in which bytes of a multi-byte word are stored in memory.

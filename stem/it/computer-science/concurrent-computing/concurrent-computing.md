@@ -29,10 +29,22 @@
     - #### Mutual Exclusion
     - #### Progress
     - #### Bounded Waiting
+- ### Peterson's Solution
 
 # Race Condition
 
 # Deadlock
 
-# Starvation
+# Concurrency Control Mechanisms
+- ### Mutex Locks
+- ### Semaphores
+- ### Monitors
 
+# Starvation
+- ### Aging
+
+# Producer-Consumer Problem
+- ### Unbounded Buffer
+- ### Bounded Buffer
+
+# Atomic Operation

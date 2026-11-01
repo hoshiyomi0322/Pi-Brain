@@ -39,4 +39,8 @@
     - [Euler's Theorem](#eulers-theorem)
 
 # Euler's Theorem
+- ### Euler's Totient Function
 - ### [Fermat's little theorem](prime-number.md#fermats-little-theorem)
+
+# Galois field (Finite Field)
+

@@ -1,16 +1,3 @@
-# Instruction Set Architecture (ISA)
-- ### [Types of ISA](#types-of-isa-1)
-- ### [Data Type](#data-type-1)
-- ### Literal
-    - ### Literal Pool
-- ### Instruction Format
-    - ### Instruction Length
-- ### [Assembler Directives](#assembler-directives-1)
-- ### [Register](#register-1)
-- ### [Memory Addressing in ISA](memory-addressing-in-isa/memory-addressing-in-isa.md)
-    - ### [Addressing mode](memory-addressing-in-isa/addressing-mode.md)
-- ### [Two Pass Assembler](#two-pass-assembler-1)
-
 # Types of ISA
 - ### RISC, CISC
     ||[RISC](#reduced-instruction-set-computer-risc)|[CISC](#complex-instruction-set-computer-cisc)|
@@ -38,6 +25,12 @@
 - ### Halfword
 - ### Word
 
+# Literal
+- ### Literal Pool
+
+# Instruction Format
+- ### Instruction Length
+
 # Assembler Directives (Pseudo-op)
 - ### Assembler Directives：commands in Assembly Language that instruct the assembler how to translate the code
 - ### Types of Assembler Directives
@@ -48,7 +41,13 @@
 # Register
 - ### General-Purpose Register (GPR)
 - ### Special-Purpose Register (SPR)
-    - ### Program Counter (PC)：holds the address of the next instruction that would be executed
+    - ### Program Counter (PC)：holds the address of the next instruction that would be executed {#program-counter}
+    - ### Instruction Register (IR)：holds the instruction that is being executed {#instruction-register}
+    - ### Data Register (DR)
+    - ### Accumulator：holds the data and results of operations
+
+# [Memory Addressing in ISA](memory-addressing-in-isa/memory-addressing-in-isa.md)
+- ### [Addressing mode](memory-addressing-in-isa/addressing-mode.md)
 
 # Low-level Programing Language
 - ### Assembly Language

@@ -1,30 +1,13 @@
-# Linear Data Structure
-- ### Array
-- ### [Linked List](#linked-list-1)
-    - #### Singly Linked List
-    - #### Doubly Linked List
-    - #### Circular Linked List
-- ### [Queue](#queue-1)
-    - #### Double-Ended Queue(Deque)
-    - #### Circular Queue
-- ### [Stack](#stack-1)
+# Array
 
-# Linked List
-- ### head
-- ### `insert(item)`
-- ### `delete(item)`
-- ### `search(item)`
+# [Linked List](linked-list.md)
+- ### [Singly Linked List](linked-list.md#singly-linked-list)
+- ### [Doubly Linked List](linked-list.md#doubly-linked-list)
+- ### [Circular Linked List](linked-list.md#circular-linked-list)
 
-# Queue
-- ### First In, First Out(FIFO)
-- ### pointer
-    - ### front
-    - ### rear
-- ### `add(item)`
-- ### `delete()`
+# [Queue](queue.md)
+- ### [Double-Ended Queue (Deque)](queue.md#double-ended-queue-deque)
+- ### [Circular Queue](queue.md#circular-queue)
 
 # Stack
-- ### Last In, First Out(LIFO)
-- ### top
-- ### `push(item)`
-- ### `pop()`
+- ### [Stack](stack.md)

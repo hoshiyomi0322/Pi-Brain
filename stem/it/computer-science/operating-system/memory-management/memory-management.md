@@ -30,8 +30,29 @@
 - ### bound = base + limit
 
 # Fragmentation
-- ### internal fragmentation (fixed-size)
-- ### external fragmentation (variable-size)
+- ### Internal Fragmentation (Fixed-size)
+- ### External Fragmentation (Variable-size)
+
+# Process Memory Layout
+<div align="center"><img src="./image/process-memory-layout.png" width="35%"></div>
+
+- ### Kernel Space
+    - Content：Command-Line Arguments, Environment Variables
+- ### Stack
+    - Characteristic：Grows Downward
+    - Content：Local Variables, Parameters, Return Address, Stack Frame
+- ### Heap
+    - Characteristic：Grows Upward
+    - Content：Dynamic Memory Allocation
+- ### Uninitialized Data (Block Started by Symbol, BSS)
+- ### Initialized Data
+    - Content：Global Variables, Static Variables
+- ### Text Segment (Code Segment)
+    - Characteristics：Read-Only
+    - Contents：Compiled Machine Instructions ([Executable Code](../../computer-organization-and-architecture/build-process/build-process.md#executable-code))
+
+# Out of Memory (OOM)
+
 
 # Virtual memory
 - ### Thrashing

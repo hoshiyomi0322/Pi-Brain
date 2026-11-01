@@ -1,7 +1,7 @@
 # Memory Hierarchy
 <div align="center"><img src="./image/memory-hierarchy.png" width="75%"></div>
 
-- ### Register
+- ### [Register](../../computer-organization-and-architecture/isa/isa.md#register)
 - ### Cache (L1 Cache → L2 Cache → L3 Cache → L4 Cache)
     - #### [SRAM](volatile-memory.md#static-ram-sram)：L1 Cache, L2 Cache, L3 Cache
     - #### [DRAM](volatile-memory.md#dynamic-ram-dram)：L4 Cache
@@ -25,12 +25,6 @@
         - [Non-Volatile RAM (NVRAM)](non-volatile-memory.md#non-volatile-ram-nvram)
 - ### Sequential Access
     - #### Sequential Access Memory (SAM)
-
-# Register
-- ### Program Counter (PC)：holds the address of the next instruction that would be executed
-- ### Instruction Register (IR)：holds the instruction that is being executed
-- ### Data Register (DR)
-- ### Accumulator：holds the data and results of operations
 
 # Volatile, Non-Volatile
 - ### [Volatile Memory](volatile-memory.md)

@@ -14,8 +14,14 @@
     - ### fork()
     - ### exec()
 - ### systemd
-- ### Zombie Process
-- ### Orphan Process
+- ### Zombie Process and Orphan Process
+    ||Zombie Process|Orphan Process|
+    |:---:|:---:|:---:|
+    |**Child State**|Already terminated (dead)|Still running (alive)|
+    |**Parent State**|Parent is still alive, but failed to call `wait()`|Parent has exited or died|
+    |**Resource Usage**|Consumes no CPU or memory, only a process table slot (PID)|Consumes normal CPU, memory, and system resources|
+    |**Cleanup**|Cleared when the parent calls `wait()` or dies (re-parented to PID 1)|Adopted by `init` or `systemd` (PID 1), which cleans it up automatically upon exit|
+- ### Daemon Process
 - ### [Process Management in Bash](/stem/it/cli/bash/basic-command-in-bash/process-management-in-bash.md)
 
 # Linux File System

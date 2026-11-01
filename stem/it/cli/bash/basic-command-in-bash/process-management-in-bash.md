@@ -10,7 +10,7 @@
     |`u`|user|
     |`x`||
 
-# Process Tree (pstree)
+# [Process Tree](/stem/it/computer-science/operating-system/process-management/process-management.md#process-tree) (pstree)
 |Command|Description|
 |:---:|:---:|
 |`pstree`|

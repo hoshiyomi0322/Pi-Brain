@@ -5,7 +5,7 @@
     - #### Demand Segmentation
 
 # Paging
-<div align="center"><img src="./image/paging.png" width="60%"></div>
+<div align="center"><img src="./image/paging.png" width="40%"></div>
 
 - ### Page：a portion of logical memory
     - #### Page number (p)
@@ -22,7 +22,7 @@
     - #### [Page number (p)](#page-number-p) → [Frame number (f)](#frame-number-f)
 
 # Segmentation
-<div align="center"><img src="./image/segmentation.png" width="70%"></div>
+<div align="center"><img src="./image/segmentation.png" width="40%"></div>
 
 - ### Segment Table
     - #### Base address
