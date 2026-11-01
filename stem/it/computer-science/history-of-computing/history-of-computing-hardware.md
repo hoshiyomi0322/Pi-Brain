@@ -175,8 +175,8 @@
     - #### ver.2：the number of [transistors](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/electronics.md#transistor) in an [integrated circuit](/stem/physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/integrated-circuits/integrated-circuits.md) doubles every 18 months
     - #### ver.3：the computer [chip](../../../physics-and-chemistry/electricity/electronic-circuit/electronics/semiconductor/semiconductor-manufacturing-process.md#integrated-circuits-ic-chip) performance double every 18 months, or the price drops by half
 
-# [Parallel Computing](../computer-organization-and-architecture/parallel-computing/parallel-computing.md) and [Networking](../computer-networking/computer-networking.md)
-- ### [Parallel Computing](../computer-organization-and-architecture/parallel-computing/parallel-computing.md)
+# [Parallel Computing](../concurrent-computing/parallel-computing/parallel-computing.md) and [Networking](../computer-networking/computer-networking.md)
+- ### [Parallel Computing](../concurrent-computing/parallel-computing/parallel-computing.md)
     - #### computers rely on interconnected central processing and/or memory units to increase processing speed
 - ### [Networking](../computer-networking/computer-networking.md)
     - #### Ethernet connects small computers to share resources

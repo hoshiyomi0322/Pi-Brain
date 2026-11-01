@@ -9,7 +9,7 @@
 <div align="center"><img src="./image/operating-system-services.png" width="60%"></div>
 
 - ### User Interface (UI)：allows users to interact with the system
-    - #### Batch Interface
+    - #### [Batch Interface](./process-management/process-management.md#batch-interface)
     - #### [Command-Line Interface](/stem/it/cli/cli.md)
         - Command Interpreter (Shell)
     - #### Graphical User Interface (GUI)
@@ -86,7 +86,7 @@
     - #### Crash Dump
 - ### Performance Tuning
     - #### Tools
-        |Resource Type|Linux Tools|Windows Tools|
+        |Resource Type|[Linux](./linux/linux.md) Tools|[Windows](#windows) Tools|
         |:---:|:---:|:---:|
         |System-wide Overview|[`ps`](/stem/it/cli/bash/basic-command-in-bash/process-management-in-bash.md#process-status-ps), [`top`](/stem/it/cli/bash/basic-command-in-bash/process-management-in-bash.md#top), [`htop`](/stem/it/cli/bash/basic-command-in-bash/process-management-in-bash.md#htop), `glances`, [`vmstat`](/stem/it/cli/bash/basic-command-in-bash/process-management-in-bash.md#virtual-memory-statistics-vmstat)|Task Manager|
         |CPU|`mpstat`, `perf`|Performance Monitor|
@@ -111,8 +111,8 @@
 
 
 # [Process Management](process-management/process-management.md)
-- ### [Scheduling](process-management/scheduling.md)
-- ### [Thread](thread.md)
+- ### [Scheduling](process-management/scheduling/scheduling.md)
+- ### [Thread](process-management/thread.md)
 - ### [Inter-Process Communication (IPC)](process-management/inter-process-communication.md)
 
 # [Memory Management](./memory-management/memory-management.md)

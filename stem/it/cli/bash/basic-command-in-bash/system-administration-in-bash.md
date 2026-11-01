@@ -34,7 +34,3 @@
 |:---:|:---:|
 |`free`|
 
-# Virtual Memory Statistics (vmstat)
-|Command|Description|
-|:---:|:---:|
-|`vmstat`|

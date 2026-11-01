@@ -51,7 +51,7 @@
     - #### Modula-2
     - #### [C](../../coding/programming-language/types-of-programming-language/c/c.md)
     - #### [C++](../../coding/programming-language/types-of-programming-language/oop/cpp/cpp.md)
-- ### Operating Systems (OS)
+- ### [Operating Systems (OS)](../operating-system/operating-system.md)
     |Operating Systems|Developer|
     |:---:|:---:|
     |UNIX|AT&T|

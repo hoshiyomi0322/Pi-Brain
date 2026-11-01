@@ -57,8 +57,8 @@
     - #### combines two or more network topology types
 
 # Distributed Computing in Networking
-- ### [Architectural Model](../distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
-- ### [Cloud Computing](../distributed-computing/cloud-computing.md)
+- ### [Architectural Model](../concurrent-computing/distributed-computing/distributed-computing-system-models/architectural-model/architectural-model.md)
+- ### [Cloud Computing](../concurrent-computing/distributed-computing/cloud-computing.md)
 
 # Types of Computer Networks
 <div align="center"><img src="./image/types-of-computer-networks.png" width="20%"></div>
@@ -111,8 +111,8 @@
 - ### [History of the Internet](history-of-the-internet.md)
 
 # Web Service
-- ### [Representational State Transfer (REST, RESTful)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/restful.md)
-- ### [Remote Procedure Call (RPC)](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md)
+- ### [Representational State Transfer (REST, RESTful)](/stem/it/computer-science/concurrent-computing/distributed-computing/distributed-computing-system-models/architectural-model/client-server/restful.md)
+- ### [Remote Procedure Call (RPC)](/stem/it/computer-science/concurrent-computing/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md)
 - ### [Simple Object Access Protocol (SOAP)](./communication-protocol/protocol-layer/application-layer/soap.md)
 - ### [Web Services Description Language (WSDL)](/stem/it/coding/data-serialization/xml/wsdl.md)
 

@@ -12,7 +12,6 @@
 - ### [Instruction Set Architecture (ISA)](./computer-organization-and-architecture/isa/isa.md)
 - ### [Build Process](./computer-organization-and-architecture/build-process/build-process.md)
 - ### [System Clock](./computer-organization-and-architecture/system-clock.md)
-- ### [Parallel Computing](./computer-organization-and-architecture/parallel-computing/parallel-computing.md)
 - ### [Virtualization](./computer-organization-and-architecture/virtualization/virtualization.md)
 
 # [Computer Hardware](./computer-hardware/computer-hardware.md)
@@ -31,17 +30,16 @@
 - ### [Computational Complexity Theory](./theory-of-computation/computational-complexity-theory/computational-complexity-theory.md)
 - ### [Computational Problem](./theory-of-computation/computational-problem/computational-problem.md)
 
-# [Distributed Computing](./distributed-computing/distributed-computing.md)
-- ### [Distributed Computing System Models](./distributed-computing/distributed-computing-system-models/distributed-computing-system-models.md)
-- ### [Cloud Computing](./distributed-computing/cloud-computing.md)
+# [Concurrent Computing](./concurrent-computing/concurrent-computing.md)
+- ### [Parallel Computing](./concurrent-computing/parallel-computing/parallel-computing.md)
+- ### [Distributed Computing](./concurrent-computing/distributed-computing/distributed-computing.md)
 
 # [Operating System](./operating-system/operating-system.md)
+- ### [Operating System Structures (OS Structures)](./operating-system/os-structures.md)
 - ### [Process Management](./operating-system/process-management/process-management.md)
-    - #### [Scheduling](./operating-system/process-management/scheduling.md)
 - ### [Memory Management](./operating-system/memory-management/memory-management.md)
-    - #### [Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/contiguous-memory-management-scheme.md)
-    - #### [Non-Contiguous Memory Management Scheme](./operating-system/memory-management/memory-management-scheme/non-contiguous-memory-management-scheme.md)
 - ### [File System](./operating-system/file-system.md)
+- ### [Linux](./operating-system/linux/linux.md)
 
 # [Data Representation](./data-representation/data-representation.md)
 - ### [Number System](./data-representation/number-system.md)

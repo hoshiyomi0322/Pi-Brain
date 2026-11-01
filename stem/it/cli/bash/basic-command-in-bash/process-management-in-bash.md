@@ -30,7 +30,7 @@
 |:---:|:---:|
 |`pgrep`|
 
-# Virtual Memory Statistics (vmstat)
+# [Virtual Memory](/stem/it/computer-science/operating-system/memory-management/memory-management.md#virtual-memory) Statistics (vmstat)
 |Command|Description|
 |:---:|:---:|
 |`vmstat`|

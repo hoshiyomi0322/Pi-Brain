@@ -78,4 +78,4 @@
     - #### [ARP Spoofing](./other-protocol/arp.md#arp-spoofing)
 - ### [Tunneling Protocol](../tunneling/tunneling.md#tunneling-protocol)
     - #### [VPN Protocol](../tunneling/tunneling.md#vpn-protocol)
-- ### [RPC Protocols](/stem/it/computer-science/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md#rpc-protocols)
+- ### [RPC Protocols](/stem/it/computer-science/concurrent-computing/distributed-computing/distributed-computing-system-models/architectural-model/client-server/rpc.md#rpc-protocols)

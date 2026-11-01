@@ -21,7 +21,7 @@
 - ### [Thread Pool](thread.md#thread-pool)
 
 # Scheduling
-- ### [Scheduling](scheduling.md)
+- ### [Scheduling](./scheduling/scheduling.md)
 
 # Process States
 <div align="center"><img src="./image/process-states.png" width="60%"></div>
@@ -35,14 +35,13 @@
 # Process Control Block (PCB)
 <div align="center"><img src="./image/pcb.png" width="25%"></div>
 
+- ### Process ID (PID)
 - ### Context Switch：exchange of register information
 
 # Inter-Process Communication (IPC)
 - ### [Inter-Process Communication (IPC)](inter-process-communication.md)
 
 # Process Synchronization
-
-# Deadlock
 
 # Message Passing
 - ### Message Queue
@@ -52,18 +51,12 @@
 - ### Soft Real-time
 
 # Time-sharing
-- ### virtual memory
+- ### [Virtual Memory](../memory-management/memory-management.md#virtual-memory)
 
-# Batch processing
-- ### batch file
+# Batch Processing
+- ### Batch File
+- ### Batch Interface
 
-# Multiprogramming
-
-# Multitasking
-- ### preemptive
-- ### nonpreemptive
-
-# [Multiprocessing](../../computer-organization-and-architecture/parallel-computing/multiprocessing/multiprocessing.md)
-- ### [Shared Memory](../../computer-organization-and-architecture/parallel-computing/multiprocessing/memory-architecture/shared-memory.md)
-- ### [Distributed Memory](../../computer-organization-and-architecture/parallel-computing/multiprocessing/memory-architecture/distributed-memory.md)
-
+# Concurrency and Parallelism
+- ### [Concurrent Computing](../../concurrent-computing/concurrent-computing.md)
+- ### [Parallel computing](../../concurrent-computing/parallel-computing/parallel-computing.md)
