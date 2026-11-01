@@ -6,7 +6,8 @@
     - 構え-attack + (中昇竜 + [44F OKI](../blanka.md#44f-oki))
 - ### Corner 構え-attack Combo
     - 構え-attack + [55F OKI](../blanka.md#55f-oki-54f55f)/[強昇竜 Air Combo](blanka-28p.md#強昇竜-air-combo)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/[Close OD後翻滾 High-Air Combo](blanka-624k.md#close-od後翻滾-high-air-combo)
-    - 構え-attack + (放電 + SA1)
+    - 構え-attack + (放電 + 強昇竜/SA1)
+    - 構え-attack + (放電 + OD後翻滾) + [55F OKI](../blanka.md#55f-oki-54f55f)/[OD昇竜 Air Combo](blanka-28p.md#od昇竜-air-combo)/(delay + SA1)/[SA3 Combo](../blanka.md#sa3-combo)
     - #### 帶炸彈 Corner 構え-attack Combo
         - 構え-attack + (放電 + [Close OD後翻滾 Air Combo](blanka-624k.md#close-od後翻滾-air-combo))
         - 構え-attack + [帶炸彈 Corner 放電 Air Combo](blanka-214p.md#帶炸彈-corner-放電-air-combo)

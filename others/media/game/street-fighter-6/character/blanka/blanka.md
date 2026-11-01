@@ -126,7 +126,8 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + [5HP Air Combo](#5hp-air-combo)
 - ### Stun Combo
-    - DI(Stun) + 弱放炸彈 + (バクステ + 弱後翻滾) + [5HP Combo](#5hp-combo)
+    - DI(Stun) + 弱放炸彈 + (バクステ) + 弱後翻滾 + [5HP Combo](#5hp-combo)
+    - DI(Stun) + 消費(バクステ + 7) + 中後翻滾 + [5HP Combo](#5hp-combo)
 
 # Cancel Combo
 - ### Heavy Cancel Combo
