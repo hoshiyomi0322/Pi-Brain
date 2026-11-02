@@ -5,7 +5,7 @@
     <img src="./image/symmetric-multiprocessing.png" width="20%">
 - ### Asymmetric Multiprocessing
     <img src="./image/asymmetric-multiprocessing.png" width="20%">
-    
+
     - #### Master Processor：controls system operation, assigns specific tasks, manages resources
     - #### Slave Processors：execute assigned tasks
 
