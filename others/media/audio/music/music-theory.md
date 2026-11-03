@@ -25,5 +25,22 @@
 - ### Pythagorean Interval
 - ### Meantone Temperament
 
+# Modulation
+- ### Common Tone Modulation
+
+# [Chord](#chord) Progression
+- ### I-V-vi-IV Progression：The Pop Progression
+- ### vi-IV-I-V Progression：Somber Minor Variation
+- ### I-IV-V Progression：Rock, Blues, and Country Foundation
+- ### ii–V–I Progression：Jazz Staple
+- ### i-VII-VI-V Progression：Descending Bassline
+- ### 12-Bar Blues
+
+# [Chord](#chord) Substitution
+- ### Tonic Substitution
+- ### Subdominant Substitution
+- ### Tritone Substitution (subV7)
+- ### Diminished 7th Substitution
+
 # Musical Form
 

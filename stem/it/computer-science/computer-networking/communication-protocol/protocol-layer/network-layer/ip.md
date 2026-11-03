@@ -22,7 +22,7 @@
 
 # Private Network
 - ### Private IPv4 Addresses
-    |RFC 1918 name|IP address range||
+    |RFC 1918 name|IP Address Range||
     |:---:|:---:|:---:|
     |24-bit block|`10.0.0.0`~`10.255.255.255`|
     |20-bit block|`172.16.0.0`~`172.31.255.255`|
