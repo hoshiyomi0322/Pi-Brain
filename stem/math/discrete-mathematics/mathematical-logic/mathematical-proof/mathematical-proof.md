@@ -5,8 +5,10 @@
 - ### Proof by [Contradiction](../propositional-logic.md#tautology-contradiction-and-contingency) (Reductio ad Absurdum)
 - ### Proof by [Contrapositive](../propositional-logic.md#conditional-statements)
 
-# Existence and Uniqueness Proofs
-- ### [Existence and Uniqueness Proofs](existence-and-uniqueness-proofs.md)
+# [Existence and Uniqueness Proofs](existence-and-uniqueness-proofs.md)
+- ### [Existence Proof](existence-and-uniqueness-proofs.md#existence-proof)
+- ### [Uniqueness Proof](existence-and-uniqueness-proofs.md#uniqueness-proof)
+
 
 # Without Loss of Generality (WLOG)
 - ### Symmetry
