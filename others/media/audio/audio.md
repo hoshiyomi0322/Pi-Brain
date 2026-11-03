@@ -1,8 +1,7 @@
 # Music
 - ### [Music Theory](./music/music-theory.md)
 - ### [History of music](./music/music-theory.md)
-- ### Popular Music
-    - #### [Japanese Popular Music (J-POP)](./music/j-pop.md)
+- ### [Music Genres](./music/music-genres/music-genres.md)
 
 # Digital Audio Workstation (DAW)
 - ### Audacity
