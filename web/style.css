@@ -602,3 +602,15 @@ mjx-container::-webkit-scrollbar-thumb {
     overflow-y: hidden !important;
     -webkit-overflow-scrolling: touch;
 }
+
+.markdown-section table td {
+    vertical-align: top !important;
+}
+.markdown-section table td img {
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 0 auto;
+}
+.markdown-section table td br {
+    display: inline;
+}
