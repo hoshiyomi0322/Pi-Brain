@@ -24,11 +24,11 @@
 
 |Element|Definition|
 |:---:|:---:|
-|Table|a collection of data organized in rows and columns|
-|Record, Row, Tuple, Object, Entity|a horizontal entry|
-|Field, Column, Attribute|a vertical category|
-|Key, Key Attribute, Key Field, Id|a unique identifier of data|
-|Value|the specific data content identified or accessed by a key|
+|**Table**|a collection of data organized in rows and columns|
+|**Record, Row, Tuple, Object, Entity**|a horizontal entry|
+|**Field, Column, Attribute**|a vertical category|
+|**Key, Key Attribute, Key Field, Id**|a unique identifier of data|
+|**Value**|the specific data content identified or accessed by a key|
 </div>
 
 # Key–Value Database
