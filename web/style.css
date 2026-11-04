@@ -604,12 +604,16 @@ mjx-container::-webkit-scrollbar-thumb {
 }
 
 .markdown-section table td {
-    vertical-align: top !important;
+  vertical-align: top !important;
 }
+
 .markdown-section table td img {
     display: inline-block;
     vertical-align: bottom;
-    margin: 0 auto;
+    margin: 0 4px;
+}
+.markdown-section table td {
+    white-space: nowrap;
 }
 .markdown-section table td br {
     display: inline;
