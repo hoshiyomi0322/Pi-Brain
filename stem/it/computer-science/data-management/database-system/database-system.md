@@ -46,8 +46,4 @@
 # Data Integrity
 - ### Physical Integrity
 - ### Logical Integrity
-    - #### Integrity Constraints
-        - Entity Integrity
-        - Referential Integrity
-        - Domain Integrity
-        - User-defined Integrity
+    - ### [Integrity Constraints](./data-integrity/integrity-constraints.md)

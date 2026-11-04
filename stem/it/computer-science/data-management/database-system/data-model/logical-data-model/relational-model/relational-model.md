@@ -15,3 +15,7 @@
 
 # Database Normalization
 - ### [Normal Forms](normal-forms.md)
+- ### Dependency
+    - #### Functional Dependency
+    - #### Multivalued Dependency
+
