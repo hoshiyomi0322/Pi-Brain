@@ -104,7 +104,7 @@
                 function(hook, vm) {
                     hook.beforeEach(function(content) {
                         content = content.replace(
-                            /^(\s*(?:[-*+]\s+|\d+\.\s+)?#{1,6}\s+)(.*?)(?:\s+)?(?:\{:\s*#([A-Za-z][A-Za-z0-9_-]*)\}|\{#([A-Za-z][A-Za-z0-9_-]*)\})\s*$/gm,
+                            /^([ \t]*(?:[-*+][ \t]+|\d+\.[ \t]+)?#{1,6}[ \t]+)(.*?)[ \t]*(?:\{:[ \t]*#([A-Za-z][A-Za-z0-9_-]*)\}|\{#([A-Za-z][A-Za-z0-9_-]*)\})[ \t]*$/gm,
                             function(match, prefix, title, id1, id2) {
                                 var id = id1 || id2;
                                 return (
@@ -116,9 +116,8 @@
                                 );
                             }
                         );
-
                         content = content.replace(
-                            /^(\s*)([-*+]\s+|\d+\.\s+)?<h([1-6])\s+id="([^"]+)">([\s\S]*?)<\/h\3>\s*$/gm,
+                            /^([ \t]*)([-*+][ \t]+|\d+\.[ \t]+)?<h([1-6])[ \t]+id="([^"]+)">([\s\S]*?)<\/h\3>[ \t]*$/gm,
                             function(match, indent, listPrefix, level, id, title) {
                                 return (
                                     indent +
