@@ -2,7 +2,7 @@
 - ### MySQL
 
 # Relation Schema
-<div align="center"><img src="./image/relation-schema.png" width="55%"></div>
+<div align="center"><img src="./image/relation-schema.png" width="40%"></div>
 
 # [Keys](../../database-system.md#element) in Relational Model
 - ### Super Key

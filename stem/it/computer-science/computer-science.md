@@ -46,6 +46,7 @@
 - ### [Encoding](./data-representation/encoding/encoding.md)
 
 # [Data Management](./data-management/data-management.md)
+- ### [Database System](./data-management/database-system/database-system.md)
 - ### [Data Engineering](./data-management/data-engineering.md)
 
 # History of Computing

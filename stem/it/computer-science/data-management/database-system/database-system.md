@@ -14,6 +14,8 @@
 - ### Logical Data Model
     - #### [Relational Model](./data-model/logical-data-model/relational-model/relational-model.md)
     - #### [Object-Oriented Model](./data-model/logical-data-model/object-oriented-model.md)
+    - #### Hierarchical Database Model
+    - #### Network Model
 - ### Physical data Model
 
 # Element
@@ -25,7 +27,7 @@
 |Table|a collection of data organized in rows and columns|
 |Record, Row, Tuple, Object, Entity|a horizontal entry|
 |Field, Column, Attribute|a vertical category|
-|Key, (Key Field, Id)|a unique identifier of data|
+|Key, Key Attribute, Key Field, Id|a unique identifier of data|
 |Value|the specific data content identified or accessed by a key|
 </div>
 
@@ -39,3 +41,13 @@
 
 # Non-relational Database (Not Only SQL, NoSQL)
 
+# Data Redundancy
+
+# Data Integrity
+- ### Physical Integrity
+- ### Logical Integrity
+    - #### Integrity Constraints
+        - Entity Integrity
+        - Referential Integrity
+        - Domain Integrity
+        - User-defined Integrity
