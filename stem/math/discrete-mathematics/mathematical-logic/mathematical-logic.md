@@ -102,6 +102,14 @@
 - ### Example：$\forall xP \left(x\right) \land Q \left(x\right) \to \neg R \left(x\right) \lor S(x)$
     - $\biggl( \bigl(\forall x P\left(x\right) \bigr) \land Q\left(x\right) \biggr) \to \biggl( \bigl( \neg R\left(x\right) \bigr) \lor S\left(x\right) \biggr)$
 
+# Normal and Principal Normal Forms
+- ### Normal Forms：[Standard Form](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#standard-form) in Mathematical Logic
+    - #### Disjunctive Normal Form (DNF)：[Sum-of-Products (SOP)](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#sop) in Mathematical Logic
+    - #### Conjunctive Normal Form (CNF)：[Product-of-Sums (POS)](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#pos) in Mathematical Logic
+- ### Principal Normal Forms：[Canonical Normal Form](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#canonical-normal-form) in Mathematical Logic
+    - #### Principal Disjunctive Normal Form (PDNF)：[Canonical SOP](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#canonical-sop) in Mathematical Logic
+    - #### Principal Conjunctive Normal Form (PCNF)：[Canonical POS](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/minimization-of-boolean-expressions.md#canonical-pos) in Mathematical Logic
+
 # Laws of Thought
 - ### Law of Identity：$p = p$
 - ### Law of Noncontradiction：$\neg\left(p\land \neg p\right)$

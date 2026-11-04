@@ -1,8 +1,8 @@
 # Standard Form
-- ### Sum-of-Products (SOP)：an expression formed by adding (ORing) two or more [product terms](#product-term) {#sop}
-    - #### Product Term：made of literals multiplied (ANDing) together {#product-term}
-- ### Product-of-Sums (POS)：an expression formed by multiplying (ANDing) two or more [sum terms](#sum-term) {#pos}
-    - #### Sum Term：made of literals added (ORing) together {#sum-term}
+- ### Sum-of-Products (SOP)：an expression formed by [adding (ORing)](digital-electronics-and-logic-design.md#logic-gate) two or more [product terms](#product-term) {#sop}
+    - #### Product Term：made of literals [multiplied (ANDing)](digital-electronics-and-logic-design.md#logic-gate) together {#product-term}
+- ### Product-of-Sums (POS)：an expression formed by [multiplying (ANDing)](digital-electronics-and-logic-design.md#logic-gate) two or more [sum terms](#sum-term) {#pos}
+    - #### Sum Term：made of literals [added (ORing)](digital-electronics-and-logic-design.md#logic-gate) together {#sum-term}
 - ### Example (3 variables)
     - #### Example (SOP)
         - SOP：$F=\overline{A}B + BC + AC$
