@@ -25,8 +25,8 @@
 |Element|Definition|
 |:---:|:---:|
 |**Table**|A collection of data organized in rows and columns|
-|**Record, Row, Tuple, Object, Entity**|A horizontal entry|
-|**Field, Column, Attribute**|A vertical category|
+|**Record, Row, Tuple, Object, [Entity Instance](./data-model/conceptual-data-model/er-model.md#entity-instance)**|A horizontal row that represents a single data object in a database|
+|**Field, Column, Attribute**|A vertical column that represents a specific attribute of the data|
 |**Key, Key Attribute, Key Field, Id**|A unique identifier of data|
 |**Value**|The specific data content identified or accessed by a key|
 |**Atomic Value**|A single, indivisible value within a database column that cannot be further subdivided or decomposed|
