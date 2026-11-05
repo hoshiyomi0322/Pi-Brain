@@ -37,6 +37,8 @@
 
 # Dependency
 - ### Functional Dependency
+    - #### Partial Functional Dependency
+- ### Transitive Dependency
 - ### Multivalued Dependency
 
 # Database Normalization
