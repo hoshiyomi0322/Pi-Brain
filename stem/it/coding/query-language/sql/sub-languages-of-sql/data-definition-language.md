@@ -1,0 +1,8 @@
+# CREATE
+
+# ALTER
+
+# DROP
+
+# TRUNCATE
+

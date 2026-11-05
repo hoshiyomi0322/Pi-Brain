@@ -50,3 +50,11 @@
 - ### Physical Integrity
 - ### Logical Integrity
     - ### [Integrity Constraints](./data-integrity/integrity-constraints.md)
+
+# Database Transaction
+- ### ACID Properties
+    - #### Atomicity
+    - #### Consistency
+    - #### Isolation
+    - #### Durability
+- ### Nested Transaction

@@ -37,3 +37,5 @@
     - #### Functional Dependency
     - #### Multivalued Dependency
 
+# Database Denormalization
+

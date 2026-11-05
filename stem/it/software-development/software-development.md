@@ -2,9 +2,10 @@
 - ### [HyperText Markup Language (HTML)](../coding/markup-language/html/html.md)
 - ### [Cascading Style Sheets (CSS)](../coding/style-sheet-language/css/css.md)
 - ### [JavaScript (JS)](../coding/programming-language/types-of-programming-language/oop/javascript/javascript.md)
-    - ### [React.js](/stem/it/coding/programming-language/types-of-programming-language/oop/javascript/javascript-libraries-and-frameworks/react-js.md)
-    - ### [Vue.js](/stem/it/coding/programming-language/types-of-programming-language/oop/javascript/javascript-libraries-and-frameworks/vue-js.md)
-    - ### [AngularJS](/stem/it/coding/programming-language/types-of-programming-language/oop/javascript/javascript-libraries-and-frameworks/angularjs.md)
+    - #### [React](/stem/it/coding/programming-language/types-of-programming-language/oop/javascript/javascript-libraries-and-frameworks/react.md)
+    - #### [Vue.js](/stem/it/coding/programming-language/types-of-programming-language/oop/javascript/javascript-libraries-and-frameworks/vue-js.md)
+- ### [TypeScript](/stem/it/coding/programming-language/types-of-programming-language/oop/typescript/typescript.md)
+    - #### [Angular](/stem/it/coding/programming-language/types-of-programming-language/oop/typescript/typescript-frameworks/angular.md)
 
 # Back End
 - ### [Programming Language](../coding/programming-language/programming-language.md)

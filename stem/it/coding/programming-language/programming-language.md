@@ -17,6 +17,7 @@
     - ### PHP
     - ### [Java](./types-of-programming-language/oop/java/java.md)
     - ### [JavaScript (JS)](./types-of-programming-language/oop/javascript/javascript.md)
+    - ### [TypeScript](./types-of-programming-language/oop/typescript/typescript.md)
     - ### [Kotlin](./types-of-programming-language/oop/kotlin/kotlin.md)
 
 # Programming Language
