@@ -7,6 +7,7 @@
     - Corner
         - 中昇竜 + 消費(5MK) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
         - 中昇竜 + 消費(5MP) + [5HP 重ね](ryu.md#5hp-重ね-12f13f)
+        - 中昇竜 + 消費(5LP) + [6HP OKI](ryu.md#6hp-oki-17f23f)
 - ### 強昇竜 Combo
     - 強昇竜 + SA3
     - 強昇竜 + [前ステ6HP OKI](ryu.md#前ステ6hp-oki-36f42f)
@@ -52,8 +53,12 @@
 - ### 弱旋風腳 Combo
     - 弱旋風腳 + [35F OKI](ryu.md#35f-oki)
 - ### 中旋風腳 Combo
-    - その場受け身/Corner：中旋風腳 + 消費(前ステ) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+    - その場受け身/Corner
+        - 中旋風腳 + 消費(前ステ) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+        - 中旋風腳 + [6HP OKI](ryu.md#6hp-oki-17f23f)
 - ### 強旋風腳 Combo
+    - その場受け身/Corner
+        - 強旋風腳 + [6HP OKI](ryu.md#6hp-oki-17f23f)
     - Corner：強旋風腳 + 消費(2LP) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
 - ### OD旋風腳 Combo
     - OD旋風腳 + SA1(帶電)

@@ -39,17 +39,16 @@
         - SA3 + (DR + 2HP + OD推掌) + (DR + 2HP + [強推掌 Combo](jamie-special-move.md#強推掌-combo)/[OD推掌 Air Combo](jamie-special-move.md#od推掌-air-combo))
     - SA3 + (DR + delay + [2HP Air Combo](#2hp-air-combo))
         - SA3 + (DR + 5MP + 5HK) + (CDR + delay + [2HP Air Combo](#2hp-air-combo))
-    - SA3 + (前ステ + 5HP + [昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo))
+    - SA3 + 前ステ + (5HP + [昇竜 Air Combo](jamie-special-move.md#昇竜-air-combo))/[5LP Air Reset](#5lp-air-reset)
+    - SA3 + (DR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
     - SA3 + (DR + 5MP) + 消費(2MK) + [DI OKI](#di-oki-25f26f)
     - SA3 + 消費(Parry) + [DI OKI](#di-oki-25f26f)
     - SA3 + 消費(9 + JHK) + [DI OKI](#di-oki-25f26f)
     - 打動力槽：SA3 + (DR + delay + 2HP + DI)
     - Switch：SA3 + (前ステ + 2MP + CDR + 5LP) + [5F打摔擇](#5f打摔擇-4f5f)
     - #### Corner SA3 Combo
-        - SA3 + (前ステ + [5LP Air Reset](#5lp-air-reset))
-            - SA3 + (DR + 2HP + [5LP Air Reset](#5lp-air-reset))
-        - SA3 + (DR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
-            - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
+        - SA3 + (DR + 2HP + [5LP Air Reset](#5lp-air-reset))
+        - SA3 + (DR + 5MP + 5HK) + (CDR + 5MP + [2HP High-Air Reset](#2hp-high-air-reset))
         - SA3 + [Corner DR Air Reset](#corner-dr-air-reset)
             - SA3 + (DR + 5MP + 5HK) + (CDR + delay + 5HP + [5LP Air Reset](#5lp-air-reset))
 
@@ -73,18 +72,22 @@
     - 2HP + [Air Cancel Combo](#air-cancel-combo)
     - 酔い3：2HP + (CDR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo))
 - ### 2HP Air Reset
-    - 2HP + [3F打摔擇](#3f打摔擇-2f3f)
-    - 2HP + Reset(CDR + [DR 6MK Combo](#dr-6mk-combo))
-    - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo)/[SA3 Combo](#sa3-combo))
+    - 2HP + Reset(強推掌 + [SA3 Combo](#sa3-combo))
         - 2HP + ガード(強推掌) + [3F打摔擇](#3f打摔擇-2f3f)
         - 對手 Parry：2HP + 消費(弱推掌/中推掌) + [投げ](#投げ)/[コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
+    - Corner
+        - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo))
+        - 2HP + [3F打摔擇](#3f打摔擇-2f3f)
+        - 2HP + Reset(CDR + [DR 6MK Combo](#dr-6mk-combo))
 - ### 2HP High-Air Reset
-    - 2HP + [5F打摔擇](#5f打摔擇-4f5f)
-    - 2HP + Reset(CDR + 6MK + [2MP Combo](#2mp-combo))
-        - 2HP + ガード(CDR + 6MK) + [2LP Combo](#2lp-combo)/[5LP Combo](#5lp-combo)
-    - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo)/[SA3 Combo](#sa3-combo))
+    - 2HP + Reset(強推掌 + [SA3 Combo](#sa3-combo))
         - 2HP + ガード(強推掌) + [5F打摔擇](#5f打摔擇-4f5f)
         - 對手 Parry：2HP + 消費(弱推掌/中推掌) + [投げ](#投げ)/[コマ投げ Combo](jamie-special-move.md#コマ投げ-combo-1)/[ODコマ投げ Combo](jamie-special-move.md#odコマ投げ-combo)
+    - Corner
+        - 2HP + Reset(強推掌 + [5HP Air Combo](#5hp-air-combo))
+        - 2HP + [5F打摔擇](#5f打摔擇-4f5f)
+        - 2HP + Reset(CDR + 6MK + [2MP Combo](#2mp-combo))
+        - 2HP + ガード(CDR + 6MK) + [2LP Combo](#2lp-combo)/[5LP Combo](#5lp-combo)
 - ### 酔い3 DR 4HP Combo
     - DR + [酔い3 4HP Air Combo](#酔い3-4hp-air-combo)
 - ### 酔い3 4HP Air Combo

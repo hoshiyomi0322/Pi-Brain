@@ -14,6 +14,9 @@
 - ### 強昇竜 Air Combo
     - 強昇竜
 
+- ### 弱昇竜 High-Air Combo
+    - 弱昇竜 + OD昇竜/[SA1 Air Combo](jamie.md#sa1-air-combo)
+
 # 酔拳 Combo
 - ### 弱酔拳 Combo
     - 弱醉拳二派生 + [SA3 Combo](jamie.md#sa3-combo)/[31F OKI](jamie.md#31f-oki-31f32f)
@@ -138,5 +141,5 @@
 
 # DR 天晴脚 Air Combo
 - (DR + 天晴脚) + (9 + delay + JHK) + (9 + [JMP High-Air Combo](jamie.md#jmp-high-air-combo)/[JHP Air Combo](jamie.md#jhp-air-combo))
-- DR + 天晴脚 + [2HP High-Air Reset](jamie.md#2hp-high-air-reset)
 - DR + 天晴脚 + delay + [5LP Air Reset](jamie.md#5lp-air-reset)
+- Corner：DR + 天晴脚 + [2HP High-Air Reset](jamie.md#2hp-high-air-reset)

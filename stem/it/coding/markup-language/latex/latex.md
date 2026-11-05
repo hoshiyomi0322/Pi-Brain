@@ -163,7 +163,6 @@ $\displaystyle{text}$
 |Partial Derivative|$\partial$|`\partial`|
 |Vector Operator (Nabla)|$\nabla$|`\nabla`|
 |Angle|$\angle$|`\angle`|
-|Triangle|$\triangle$|`\triangle`|
 |Square|$\square$|`\square`|
 |h-bar|$\hbar$|`\hbar`|
 - ### Dot
@@ -190,6 +189,27 @@ $\displaystyle{text}$
     |Box + Minus|$\boxminus$|`\boxminus`|
     |Box + Times|$\boxtimes$|`\boxtimes`|
     |Box + Dot|$\boxdot$|`\boxdot`|
+- ### Triangle
+    |Name|Symbol|LaTex|
+    |:---:|:---:|:---:|
+    |Triangle|$\triangle$|`\triangle`|
+    |Right-pointing Triangle|$\triangleright$|`\triangleright`|
+    |Left-pointing Triangle|$\triangleleft$|`\triangleleft`|
+    |Down-pointing Triangle|$\triangledown$|`\triangledown`|
+    |[Natural Join](/stem/it/computer-science/data-management/database-system/data-model/logical-data-model/relational-model/relational-query-languages/relational-algebra.md#join)|$\Join$|`\Join`, `\bowtie`|
+    - #### Black Triangle
+        |Name|Symbol|LaTex|
+        |:---:|:---:|:---:|
+        |Black Triangle|$\blacktriangle$|`\blacktriangle`|
+        |Black Right-pointing Triangle|$\blacktriangleright$|`\blacktriangleright`|
+        |Black Left-pointing Triangle|$\blacktriangleleft$|`\blacktriangleleft`|
+        |Black Down-pointing Triangle|$\blacktriangledown$|`\blacktriangledown`|
+    - ### Triangle or Equal
+        |Name|Symbol|LaTex|
+        |:---:|:---:|:---:|
+        |Defined As|$\triangleq$|`\triangleq`|
+        |Right-pointing Triangle or Equal|$\trianglerighteq$|`\trianglerighteq`|
+        |Left-pointing Triangle or Equal|$\trianglelefteq$|`\trianglelefteq`|
 - ### [Logic Symbol](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md)
     |Name|Symbol|LaTex|
     |:---:|:---:|:---:|

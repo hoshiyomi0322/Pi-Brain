@@ -93,7 +93,9 @@
 
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
-    - その場受け身/Corner：前投げ + [6HP OKI](#6hp-oki-17f23f)
+    - その場受け身/Corner
+        - 前投げ + [6HP OKI](#6hp-oki-17f23f)
+        - 前投げ + 消費(5LP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + 弱足刀
