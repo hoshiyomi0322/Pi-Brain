@@ -69,3 +69,7 @@
 |**Total Participation**|Every [entity instance](#entity-instance) in A must participate in at least one [relationship](#relationship) in the [relationship set](#relationship-set)|<img src="./image/total-participation.png" width="40%">|Double line|
 |**Partial Participation**|Some [entity instances](#entity-instance) in A may not participate in any [relationship](#relationship) in the [relationship set](#relationship-set)|<img src="./image/partial-participation.png" width="40%">|Single line|
 </div>
+
+# [Enhanced Entity-Relationship Model](enhanced-entity-relationship-model.md)
+- ### [Key Concepts and Features](enhanced-entity-relationship-model.md#key-concepts-and-features)
+- ### [Constraints](enhanced-entity-relationship-model.md#constraints)
