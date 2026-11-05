@@ -31,11 +31,16 @@
         - #### Domain Relational Calculus (DRC)
 - ### Relational Completeness
 
+# Join Decomposition
+- ### Lossless Join Decomposition
+- ### Lossy Join Decomposition
+
+# Dependency
+- ### Functional Dependency
+- ### Multivalued Dependency
+
 # Database Normalization
-- ### [Normal Forms](normal-forms.md)
-- ### Dependency
-    - #### Functional Dependency
-    - #### Multivalued Dependency
+- ### [Normal Forms](./database-normalization/normal-forms.md)
 
 # Database Denormalization
 
