@@ -31,15 +31,20 @@
 # Relationship
 |Relationship|Definition|Figure|
 |:---:|:---:|:---:|
-|**Non-Identifying Relationship**|A relationship that connects strong entities|<img src="./image/relationship.png" width="30%"><br>Diamond|
-|**Identifying Relationship**|A relationship that connects a weak entity to its owner entity|<img src="./image/identifying-relationship.png" width="30%"><br>Double-lined Diamond|
+|**Non-Identifying Relationship<br>(Strong Relationship)**|A relationship that connects strong entities|<img src="./image/relationship.png" width="30%"><br>Diamond|
+|**Identifying Relationship<br>(Weak Relationship)**|A relationship that connects a weak entity to its owner entity|<img src="./image/identifying-relationship.png" width="30%"><br>Double-lined Diamond|
 
 # Notation
 - ### Chen Notation
 - ### Crow's Foot Notation
 
 # Cardinality Constraint
-- ### One-to-One (1:1)
-- ### One-to-Many (1:M)
-- ### Many-to-One (M:1)
-- ### Many-to-Many (M:N)
+- ### Cardinality Ratio (Mapping Cardinality)
+    - ### One-to-One (1:1)
+    - ### One-to-Many (1:M)
+    - ### Many-to-One (M:1)
+    - ### Many-to-Many (M:N)
+
+# Participation Constraints
+- ### Total Participation
+- ### Partial Participation

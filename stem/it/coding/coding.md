@@ -24,7 +24,7 @@
 - ### [Cascading Style Sheets (CSS)](./style-sheet-language/css/css.md)
 
 # Query Language
-- ### [Structured Query Language (SQL)](./query-language/sql.md)
+- ### [Structured Query Language (SQL)](./query-language/sql/sql.md)
 
 # Data Serialization
 - ### [Extensible Markup Language (XML)](./data-serialization/xml/xml.md)
