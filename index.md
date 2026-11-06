@@ -5,6 +5,7 @@
     - ### [Computer Science](stem/it/computer-science/computer-science.md)
     - ### [Software Development](stem/it/software-development/software-development.md)
     - ### [Cybersecurity](stem/it/cybersecurity/cybersecurity.md)
+    - ### [Visual Computing](./stem/it/visual-computing/visual-computing.md)
     - ### [Machine Learning](stem/it/machine-learning/machine-learning.md)
     - ### [IT Tools](stem/it/it-tools/it-tools.md)
     - ### [Keyboard Shortcuts](stem/it/keyboard-shortcuts.md)
@@ -72,9 +73,7 @@
     - ### History of China
     - ### Others (History)
 - ## Media
-    - ### Text
     - ### [Art](others/media/art/art.md)
     - ### [Audio](others/media/audio/audio.md)
     - ### [Video](others/media/video/video.md)
-    - ### [Computer Graphics (CG)](others/media/computer-graphics/computer-graphics.md)
     - ### [Game](others/media/game/game.md)

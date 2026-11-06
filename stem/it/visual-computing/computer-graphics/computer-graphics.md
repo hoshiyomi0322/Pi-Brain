@@ -3,6 +3,10 @@
 - ### Fragment Shader (Pixel Shader)
 - ### Compute Shader
 
+# Rendering
+- ### Real-time Rendering
+- ### Pre-Rendering (Offline Rendering)
+
 # Open Graphics Library (OpenGL)
 - ### OpenGL Shading Language (GLSL)
 
@@ -18,3 +22,5 @@
     - ### Blender
     - ### MikuMikuDance (MMD)
 - ### Interactive CG
+
+
