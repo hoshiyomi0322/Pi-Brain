@@ -5,6 +5,8 @@
 
 # DISTINCT
 
+# CASE
+
 # WHERE
 - ### LIKE
 
