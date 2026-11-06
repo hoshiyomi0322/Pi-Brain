@@ -54,8 +54,7 @@
             - ガード(5HK + 5HP) + (CDR + [DR 2HP 連ガ Combo](./jp-heavy-attack-combo/jp-hp-combo.md#dr-2hp-連ガ-combo))
             - Midscreen：ガード(5HK + 5HP) + 弱風神
 - ### DR 5HK Combo
-    - DR + [強TC Combo](#強tc-combo)
-    - DR + 5HK + [6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)
+    - DR + 5HK + [4MP Combo](#4mp-combo)/[2HP Combo](./jp-heavy-attack-combo/jp-hp-combo.md#2hp-combo)/[6HK Combo](./jp-heavy-attack-combo/jp-6hk-combo.md#6hk-combo)
 - ### 2HK Combo
     - 2HK + (delay + コマ投げ)
     - 2HK + (前ステ + [5F打摔擇](#5f打摔擇-4f5f))
