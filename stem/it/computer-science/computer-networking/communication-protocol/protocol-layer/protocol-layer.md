@@ -1,25 +1,26 @@
 # Application layer
 - ### HTTP/HTTPS
-    - ### [HyperText Transfer Protocol (HTTP)](application-layer/http/http.md)
-    - ### HTTP Secure (HTTPS) = [HTTP](application-layer/http/http.md) + [TLS/SSL](#tlsssl)
+    - #### [HyperText Transfer Protocol (HTTP)](application-layer/http/http.md)
+    - #### HTTP Secure (HTTPS) = [HTTP](application-layer/http/http.md) + [TLS/SSL](./other-protocol/tls-ssl.md)
 - ### [Domain Name System (DNS)](application-layer/dns.md)
 - ### [Secure Shell (SSH)](application-layer/ssh.md)
 - ### File Transfer Protocol (FTP)
-    - ### FTP Secure (FTPS) = [FTP](#file-transfer-protocol-ftp) + [TLS/SSL](#tlsssl)
+    - #### FTP Secure (FTPS) = [FTP](#file-transfer-protocol-ftp) + [TLS/SSL](./other-protocol/tls-ssl.md)
 - ### Email Protocols
-    - ### Simple Mail Transfer Protocol (SMTP)
-    - ### Internet Message Access Protocol (IMAP)
-    - ### Post Office Protocol (POP)
+    - #### Simple Mail Transfer Protocol (SMTP)
+    - #### Internet Message Access Protocol (IMAP)
+    - #### Post Office Protocol (POP)
         - POP version 3 (POP3)
 - ### [Network Management Protocol](application-layer/network-management-protocol.md)
-    - ### [Simple Network Management Protocol (SNMP)](application-layer/network-management-protocol.md#simple-network-management-protocol-snmp)
-    - ### [Network Configuration Protocol (NETCONF)](application-layer/network-management-protocol.md#network-configuration-protocol-netconf)
-    - ### [RESTful Configuration Protocol (RESTCONF)](application-layer/network-management-protocol.md#restful-configuration-protocol-restconf)
+    - #### [Simple Network Management Protocol (SNMP)](application-layer/network-management-protocol.md#simple-network-management-protocol-snmp)
+    - #### [Network Configuration Protocol (NETCONF)](application-layer/network-management-protocol.md#network-configuration-protocol-netconf)
+    - #### [RESTful Configuration Protocol (RESTCONF)](application-layer/network-management-protocol.md#restful-configuration-protocol-restconf)
 - ### System Logging Protocol (Syslog)
 - ### [Multipurpose Internet Mail Extensions (MIME)](application-layer/mime.md)
 - ### Dynamic Host Configuration Protocol (DHCP)
 - ### Network Time Protocol (NTP)
 - ### Online Certificate Status Protocol (OCSP)
+    - #### OCSP Stapling
 - ### Telnet：Remote login to hosts
 - ### Remote Shell (rsh)
 - ### Remote Desktop
@@ -35,7 +36,7 @@
     |**Reliability**|Reliable|Unreliable|
     |**[Handshake](../../packet.md#handshake)**|[Three-way Handshake](transport-layer/tcp.md#three-way-handshake)|No Handshake|
     |**Application**|email, web, file transfer|Real-time applications (streaming media, game, [VoIP](network-layer/ip.md#voice-over-internet-protocol-voip))|
-    - ### [TCP/UDP Ports](../../computer-networking.md#tcpudp-ports)
+    - #### [TCP/UDP Ports](../../computer-networking.md#tcpudp-ports)
 - ### QUIC
     <img src="./image/quic.png" width="55%">
 - ### Datagram Congestion Control Protocol (DCCP)
@@ -51,14 +52,14 @@
 
 # Data Link layer
 - ### Sublayers of the Data link layer
-    - ### Logical Link Control (LLC)
-    - ### [Media Access Control (MAC)](data-link-layer/media-access-control.md)
+    - #### Logical Link Control (LLC)
+    - #### [Media Access Control (MAC)](data-link-layer/media-access-control.md)
 - ### Wi-Fi
 - ### Ethernet
 - ### [Switch](../../networking-hardware.md#switch)
 - ### Spanning Tree Protocol (STP)
-    - ### Rapid Spanning Tree Protocol (RSTP)
-    - ### Multiple Spanning Tree Protocol (MSTP)
+    - #### Rapid Spanning Tree Protocol (RSTP)
+    - #### Multiple Spanning Tree Protocol (MSTP)
 - ### [Point-to-Point Protocol (PPP)](data-link-layer/point-to-point-protocol.md)
 - ### Asynchronous Transfer Mode (ATM)
 
@@ -67,11 +68,7 @@
 - ### [Transmission Medium](../../networking-hardware.md#transmission-medium)
 
 # Other Protocol
-- ### TLS/SSL
-    - #### Layer：[Transport layer](#transport-layer) < TLS/SSL < [Application layer](#application-layer)
-    - #### Protocol + S = Protocol Secure (Protocol over TLS/SSL) = Protocol + TLS/SSL
-    - #### Evolution：Secure Sockets Layer (SSL) $\to$ Transport Layer Security (TLS)
-    - #### Workflow：TCP Three-way Handshake $\to$ TLS Handshake $\to$ Encrypted Data Transfer
+- ### [TLS/SSL](./other-protocol/tls-ssl.md)
 - ### Sliding Window Protocol
 - ### [Automatic Repeat-reQuest (ARQ)](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/error-detection-and-correction-in-networking.md#automatic-repeat-request-arq)
 - ### [Address Resolution Protocol (ARP)](./other-protocol/arp.md)

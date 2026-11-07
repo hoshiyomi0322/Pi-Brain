@@ -22,8 +22,8 @@
 - Server
 - [Set-Cookie](http.md#http-cookie-cookie)
 - ### Security Header Fields
-    - Strict-Transport-Security
-    - Content-Security-Policy
+    - [Strict-Transport-Security](http.md#http-strict-transport-security-hsts)
+    - [Content-Security-Policy (CSP)](http.md#content-security-policy-csp)
     - X-Content-Type-Options
     - X-Frame-Options
     - Referrer-Policy

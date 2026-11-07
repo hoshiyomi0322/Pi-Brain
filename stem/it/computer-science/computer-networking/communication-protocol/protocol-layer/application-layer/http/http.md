@@ -119,3 +119,5 @@
 - ### HSTS Preload List
 
 # SSL Stripping
+
+# Content-Security-Policy (CSP)
