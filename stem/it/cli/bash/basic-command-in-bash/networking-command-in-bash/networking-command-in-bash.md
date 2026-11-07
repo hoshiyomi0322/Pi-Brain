@@ -34,7 +34,7 @@
     |`-o <file_name>`|Download file|
     |`-O`|Download file|
     |`-L`|Follow the redirects (Location header)|
-    |`-X {GET\|POST\|PUT\|DELETE\|PATCH}`|Specify [http request method](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http.md#http-method)|
+    |`-X {GET\|POST\|PUT\|DELETE\|PATCH}`|Specify [http request method](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http/http.md#http-method)|
     |`-H`|Header|
     |`-i`|include|
     |`-d`|data|

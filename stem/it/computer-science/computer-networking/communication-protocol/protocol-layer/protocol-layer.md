@@ -1,7 +1,7 @@
 # Application layer
 - ### HTTP/HTTPS
-    - ### [HyperText Transfer Protocol (HTTP)](application-layer/http.md)
-    - ### HTTP Secure (HTTPS) = [HTTP](application-layer/http.md) + [TLS/SSL](#tlsssl)
+    - ### [HyperText Transfer Protocol (HTTP)](application-layer/http/http.md)
+    - ### HTTP Secure (HTTPS) = [HTTP](application-layer/http/http.md) + [TLS/SSL](#tlsssl)
 - ### [Domain Name System (DNS)](application-layer/dns.md)
 - ### [Secure Shell (SSH)](application-layer/ssh.md)
 - ### File Transfer Protocol (FTP)
@@ -19,6 +19,7 @@
 - ### [Multipurpose Internet Mail Extensions (MIME)](application-layer/mime.md)
 - ### Dynamic Host Configuration Protocol (DHCP)
 - ### Network Time Protocol (NTP)
+- ### Online Certificate Status Protocol (OCSP)
 - ### Telnet：Remote login to hosts
 - ### Remote Shell (rsh)
 - ### Remote Desktop

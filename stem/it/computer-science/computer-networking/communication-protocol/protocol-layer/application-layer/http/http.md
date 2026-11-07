@@ -1,0 +1,121 @@
+# HTTP Message Format
+- ### Encoding
+    - #### [ASCII Text](/stem/it/computer-science/data-representation/encoding/character-encoding.md#ascii)：[Start Line](#start-line), [HTTP Header Fields](http-header-fields.md), [Empty line](#empty-line)
+    - #### Binary：Body
+- ### HTTP Message Format：[Start Line](#start-line) + [HTTP Header Fields](http-header-fields.md) + [Empty line](#empty-line) + Body
+    - ### HTTP Request Message：([Request line](#request-line) + [Request Header Fields](http-header-fields.md#request-header-fields)) + [Empty line](#empty-line) + Body
+        <img src="./image/http-request-message.png" width="50%">
+    - ### HTTP Response Message：([Status line](#status-line) + [Response Header Fields](http-header-fields.md#response-header-fields)) + [Empty line](#empty-line) + Body
+        <img src="./image/http-response-message.png" width="50%">
+- ### Start Line
+    - ### Request line：[HTTP Method](#http-method) + [URI](../../../../computer-networking.md#uniform-resource-identifier-uri) + [HTTP Version](#http-version) {#request-line}
+    - ### Status line：[HTTP Version](#http-version) + [HTTP Status Code](http-status-code.md) {#status-line}
+- ### Empty line：[CRLF](/stem/it/computer-science/data-representation/data-representation.md#crlf) (`\r\n`) {#empty-line}
+    - [Carriage Return (CR)](/stem/it/computer-science/data-representation/data-representation.md#cr)：`\r`
+    - [Line Feed (LF)](/stem/it/computer-science/data-representation/data-representation.md#lf)：`\n`
+
+# HTTP Connection
+<div align="center"><img src="./image/http-connection.png" width="55%"></div>
+
+- ### HTTP Non-persistent/Persistent Connection
+    <img src="./image/http-persistent.png" width="50%">
+
+    - ### HTTP Non-persistent Connection ([HTTP/0.9, HTTP/1.0](#http09-http10))
+        1. [TCP](../../transport-layer/tcp.md) connection opened
+        2. send and receive Single HTTP request/response
+        3. [TCP](../../transport-layer/tcp.md) connection closed
+    - ### HTTP Persistent Connection ([HTTP/1.1](#http11-http2-http3))
+        1. [TCP](../../transport-layer/tcp.md) connection opened
+        2. send and receive Multiple HTTP requests/responses
+        3. [TCP](../../transport-layer/tcp.md) connection closed
+- ### Pipelining ([HTTP/1.1](#http11-http2-http3))
+    <img src="image/http-pipelining.png" width="50%">
+
+    - #### [HTTP HOL Blocking](../../../../network-performance/network-performance.md#types-of-hol-blocking)
+- ### Multiplexing over a Single [TCP](../../transport-layer/tcp.md) Connection ([HTTP/2](#http11-http2-http3))
+    <img src="image/http-multiplexing.png" width="60%">
+
+    - #### [Multiplexing](../../../../network-access/multiple-access.md#multiplexing)
+    - #### [TCP HOL Blocking](../../../../network-performance/network-performance.md#types-of-hol-blocking)
+
+# HTTP Version
+- ### HTTP/0.9, HTTP/1.0
+    |HTTP Version|HTTP/0.9|HTTP/1.0|
+    |:---:|:---:|:---:|
+    |**HTTP Connection**|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|[HTTP Non-persistent Connection](#http-non-persistent-connection-http09-http10)|
+    |**Content Types**|HTML Text only|Multimedia Support<br>(Images, Videos, Binary files)|
+    |**Headers**|None|Supported|
+    |**Status Codes**|None|Supported|
+    |**Methods**|`GET` only|`GET`, `POST`, `HEAD`|
+- ### HTTP/1.1, HTTP/2, HTTP/3
+    |HTTP Version|HTTP/1.1|HTTP/2|HTTP/3|
+    |:---:|:---:|:---:|:---:|
+    |**Protocol Layer**|<img src="./image/http-1-1.png" width="100%">|<img src="./image/http-2.png" width="100%">|<img src="./image/http-3.png" width="100%">|
+    |**Transport Layer**|[TCP](../../transport-layer/tcp.md)|[TCP](../../transport-layer/tcp.md)|[UDP](../../transport-layer/udp.md)+[QUIC](../../protocol-layer.md#quic)|
+    |**HTTP Connection**|[HTTP Persistent Connection](#http-persistent-connection-http11)<br>[HTTP Pipelining (Optional)](#pipelining-http11)|[Multiplexing](../../../../network-access/multiple-access.md#multiplexing)|HTTP/3 over [QUIC](../../protocol-layer.md#quic)|
+    |**Data Format**|[ASCII](/stem/it/computer-science/data-representation/encoding/character-encoding.md#ascii)|Binary|Binary|
+    |**Header Compression**|None|HPACK|QPACK|
+    |**Prioritization**|None|Stream Prioritization<br>(Weights, Dependencies)|Extensible Priorities<br>(Urgency, Incremental)|
+
+# HTTP Method
+|HTTP Method|Description|
+|:---:|:---:|
+|GET|Retrieve resource from the server|
+|POST|Submit resource to the server|
+|PUT|Update an entire resource|
+|PATCH|Partially Update a resource|
+|DELETE|Delete a resource|
+|HEAD|Retrieve Headers only|
+|OPTIONS|Get supported HTTP Methods of the server|
+|CONNECT|Establish a Tunnel (used for HTTPS)|
+|TRACE|Echo Back the Received Request (used for debugging)|
+
+# [HTTP Status Code](http-status-code.md)
+- ### [1xx Informational Response](http-status-code.md#1xx-informational-response)
+- ### [2xx Success](http-status-code.md#2xx-success)
+- ### [3xx Redirection](http-status-code.md#3xx-redirection)
+- ### [4xx Client Error](http-status-code.md#4xx-client-error)
+- ### [5xx Server Error](http-status-code.md#5xx-server-error)
+
+# [HTTP Header Fields](http-header-fields.md)
+- ### [Request Header Fields](http-header-fields.md#request-header-fields)
+- ### [Response Header Fields](http-header-fields.md#response-header-fields)
+    - ### [Security Header Fields](http-header-fields.md#security-header-fields)
+
+# HTTP Cookie (Cookie)
+- ### Types of Cookie
+    - #### Session Cookie
+    - #### Persistent Cookie
+    - #### First-Party/Third-Party Cookie
+        - #### First-Party Cookie：Created and stored by the website you are currently visiting
+        - #### Third-Party Cookie：Created and stored by external domains, such as advertisers or trackers
+            <img src="./image/third-party-cookie.png" width="50%">
+- ### Cookie Attribute
+    <img src="./image/cookie-attribute.png" width="70%">
+
+    |Attribute|Description|
+    |:---:|:---:|
+    |`Domain=x`|The Host x allowed to receive the cookie|
+    |`Path=x`|The URL Path x allowed to receive the cookie|
+    |`Expires=x`|the browser deletes the cookie at Date x|
+    |`Max-Age=x`|the browser deletes the cookie after x Seconds|
+    |`Secure`|cookie can only be transmitted over an Encrypted Connection (HTTPS)|
+    |`HttpOnly`|cookie cannot be accessed by Client-Side Scripting|
+    |`SameSite=Strict`<br>`SameSite=Lax`<br>`SameSite=None`|Strict：sent for Same-Site requests only<br> Lax：sent for Safe Requests only<br> None：sent for All requests|
+    - Example
+        ```http
+        HTTP/1.1 200 OK
+        Set-Cookie: SSID=Ap4P…GTEq; Domain=foo.com; Path=/; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly; SameSite=Strict
+        ```
+- ### Uses
+    - ### Session Management
+        <img src="./image/cookie.png" width="50%">
+    - ### Personalization
+    - ### [Web Tracking](../../../communication-protocol.md#web-tracking)
+
+# HTTP ETag
+
+# HTTP Strict Transport Security (HSTS)
+- ### HSTS Preload List
+
+# SSL Stripping

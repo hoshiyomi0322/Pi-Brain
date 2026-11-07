@@ -13,7 +13,7 @@
     |**Resource usage**|High|Low|
     |**Fault Tolerance**|Low|High|
     |**Scalability**|Difficult|Easy|
-    |**eg**|[FTP](./protocol-layer/protocol-layer.md#file-transfer-protocol-ftp), [SSH](./protocol-layer/protocol-layer.md#secure-shell-ssh), [TCP](./protocol-layer/transport-layer/tcp.md)|[HTTP](./protocol-layer/application-layer/http.md), [DNS](./protocol-layer/application-layer/dns.md), [UDP](./protocol-layer/transport-layer/udp.md), [IP](./protocol-layer/network-layer/ip.md)|
+    |**eg**|[FTP](./protocol-layer/protocol-layer.md#file-transfer-protocol-ftp), [SSH](./protocol-layer/protocol-layer.md#secure-shell-ssh), [TCP](./protocol-layer/transport-layer/tcp.md)|[HTTP](./protocol-layer/application-layer/http/http.md), [DNS](./protocol-layer/application-layer/dns.md), [UDP](./protocol-layer/transport-layer/udp.md), [IP](./protocol-layer/network-layer/ip.md)|
 
 # [Protocol Stack (Protocol Suite)](protocol-stack.md)
 - ### [Protocol Layer](./protocol-layer/protocol-layer.md)
@@ -30,8 +30,8 @@
 
 # Web Tracking
 - ### Methods
-    - #### [HTTP Cookie](./protocol-layer/application-layer/http.md#http-cookie-cookie)
-    - #### [HTTP ETag](./protocol-layer/application-layer/http.md#http-etag)
+    - #### [HTTP Cookie](./protocol-layer/application-layer/http/http.md#http-cookie-cookie)
+    - #### [HTTP ETag](./protocol-layer/application-layer/http/http.md#http-etag)
     - #### [IP Address](./protocol-layer/network-layer/ip.md#ip-address)
 - ### Browser Fingerprinting
     - #### Canvas Fingerprinting

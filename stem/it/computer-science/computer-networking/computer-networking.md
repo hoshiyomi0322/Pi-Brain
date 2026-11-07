@@ -103,7 +103,7 @@
 
         - ### authority = [user:password@] host [:port]
 - ### Hypertext
-    - ### [HyperText Transfer Protocol (HTTP)](./communication-protocol/protocol-layer/application-layer/http.md)
+    - ### [HyperText Transfer Protocol (HTTP)](./communication-protocol/protocol-layer/application-layer/http/http.md)
     - ### [HTTP Secure (HTTPS)](./communication-protocol/protocol-layer/protocol-layer.md#http-secure-https--http--tlsssl)
     - ### [HyperText Markup Language (HTML)](../../coding/markup-language/html/html.md)
 

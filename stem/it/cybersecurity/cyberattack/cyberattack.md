@@ -17,6 +17,7 @@
     - Remote Access Trojan
 
 # Man-in-the-Middle (MitM)
+- ### [SSL Stripping](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/http/http.md#ssl-stripping)
 
 # Denial-of-Service (DoS)
 - ### Distributed Denial-of-Service (DDoS)
