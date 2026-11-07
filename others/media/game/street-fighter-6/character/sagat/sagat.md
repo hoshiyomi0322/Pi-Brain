@@ -69,7 +69,7 @@
     - (DR + 2MP + 5HP) + (高OD弾 + 6HK + [48F OKI](#48f-oki))
     - (DR + 2MP + 5HK) + [SA1 Air Combo](#sa1-air-combo)/[SA2 Combo](#sa2-combo)/[SA3 Combo](#sa3-combo)
     - #### Corner DR 2MP Air Combo
-        - (DR + 2MP + 5HP) + (OD Tiger-knee + delay(等第二段打完) + [中昇竜 Combo](sagat-special-move.md#中昇竜-combo))
+        - (DR + 2MP + 5HP) + (OD Tiger-knee + delay(等第二段打完) + [中昇竜 Combo](sagat-special-move.md#中昇竜-combo)/[SA2 Combo](#sa2-combo))
         - (DR + 2MP + 5HP) + (高OD弾 + 6HK + [中昇竜 Air Combo](sagat-special-move.md#中昇竜-air-combo)/[SA1 Combo](#sa1-combo)/[SA2 Combo](#sa2-combo))
 - ### DR 2MK Combo
     - (DR + 2MK) + [2MP Combo](#2mp-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
@@ -116,8 +116,11 @@
         - 2MP(PC) + [4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
         - 2MP(PC) + 5HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### Heavy Attack PC Combo
-    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
-    - 6HK(PC) + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)
+    - ### 5HP PC Combo
+        - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+        - 5HP(PC) + [強迅雷 Combo](sagat-special-move.md#強迅雷-combo)
+    - ### 6HK PC Combo
+        - 6HK(PC) + [6HK Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#6hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)/[2HP Combo](#2hp-combo)/[5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)
 
 # DI Combo
 - ### DI PC Combo
