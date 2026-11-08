@@ -23,6 +23,8 @@
     - ### 4HK-OD溜め弾-DR Combo
         - (4HK + OD溜め弾) + (DR + delay + 2HP + [Close 中旋風腳 High-Air Combo](./gouki-special-move/gouki-tatsumaki.md#close-中旋風腳-high-air-combo))
         - (4HK + OD溜め弾) + (DR + 4HK + 強百鬼-強空插 + [中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3)
+        - (4HK + OD溜め弾) + (DR + 4HK + OD百鬼-空弾) + (DR + 4HK + 強百鬼-強空插 + [中旋風腳 Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)/SA3)
+        - (4HK + OD溜め弾) + (DR + 4HK + OD百鬼-空弾) + (DR + delay + 4HK + [Close 中旋風腳 High-Air Combo](./gouki-special-move/gouki-tatsumaki.md#close-中旋風腳-high-air-combo))
         - #### QQH 4HK-OD溜め弾-DR Combo
             - (4HK + OD溜め弾) + (DR + [Corner 4HK High-Air Combo]())
             - (4HK + OD溜め弾) + (DR + delay + 4HK + [Near-wall 中旋風腳 High-Air Combo]())
@@ -31,7 +33,7 @@
 - ### Midscreen 4HK Combo
     - [General 4HK Combo](#general-4hk-combo)/[4HK OD溜め弾 Combo](#4hk-od溜め弾-combo)
     - (4HK + 弱弾) + SA1
-    - (4HK + 弱弾) + (DR + [5HP Air Combo]())
+    - (4HK + 弱弾) + (DR + [5HP Air Combo](gouki.md#5hp-air-combo))
 - ### Corner 4HK Combo
     - [General Corner 4HK Combo](#general-corner-4hk-combo)/[4HK OD溜め弾 Combo](#4hk-od溜め弾-combo)
     - (4HK + 溜め弾1) + [強旋風腳 Air Combo]()/[Corner 中旋風腳 Air Combo]()/SA1/[SA2 Combo](gouki.md#sa2-combo)
