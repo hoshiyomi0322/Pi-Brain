@@ -38,15 +38,13 @@
 - (DR + delay + 4HP) + [溜め強昇竜 Combo](../sagat-special-move.md#溜め強昇竜-combo)
 - (DR + delay + 4HP) + (強Tiger-knee + [中昇竜 Combo](../sagat-special-move.md#中昇竜-combo))
 - (DR + 2MP) + [DR 4HP Highest-Air Combo](#dr-4hp-highest-air-combo)
-- [Midscreen DR 4HP SA1 Air Combo](#midscreen-dr-4hp-sa1-air-combo)
+- [Midscreen DR 4HP SA1 High-Air Combo](#midscreen-dr-4hp-sa1-high-air-combo)
 
 # DR 4HP Highest-Air Combo
 - (DR + 4HP) + [溜め強昇竜 Combo](../sagat-special-move.md#溜め強昇竜-combo)
 - (delay + DR + 4HP) + (強Tiger-knee + [中昇竜 Combo](../sagat-special-move.md#中昇竜-combo))
 - (DR + 2HP) + [DR 4HP Highest-Air Combo](#dr-4hp-highest-air-combo)
+- [Midscreen DR 4HP SA1 High-Air Combo](#midscreen-dr-4hp-sa1-high-air-combo)
 
 # Midscreen DR 4HP SA1 High-Air Combo
 - DR + delay + [Midscreen 4HP SA1 High-Air Combo](#midscreen-4hp-sa1-high-air-combo)
-
-# Midscreen DR 4HP SA1 Highest-Air Combo
-- DR + [Midscreen 4HP SA1 High-Air Combo](#midscreen-4hp-sa1-high-air-combo)

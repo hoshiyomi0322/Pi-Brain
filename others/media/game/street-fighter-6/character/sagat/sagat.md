@@ -24,7 +24,7 @@
     - Corner：SA1 + [DI OKI](#di-oki-25f26f)
 - ### SA2 Combo
     - Forward-SA2 + [4HP-6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#4hp-6hk-high-air-combo)
-    - Forward-SA2 + [Midscreen DR 4HP SA1 Highest-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-highest-air-combo)
+    - Forward-SA2 + (DR + [Midscreen 4HP SA1 High-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-4hp-sa1-high-air-combo))
     - Crouching-SA2 + [Close 弾 OKI](#close-弾-oki)
     - General-SA2/Switch-SA2
 - ### SA3 Combo
@@ -98,7 +98,7 @@
 - ### JHK Combo
     - 8/9 + JHK + [5HK Combo](./sagat-heavy-attack-combo/sagat-5hk-combo.md#5hk-combo)/[4HP Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#4hp-combo)
 - ### JHK Air Combo
-    - 8/9 + JHK + [DR5HK-6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#dr5hk-6hk-high-air-combo)/[Midscreen DR 4HP SA1 Highest-Air Combo](./sagat-heavy-attack-combo/sagat-4hp-combo.md#midscreen-dr-4hp-sa1-highest-air-combo)
+    - 8/9 + JHK + [DR5HK-6HK High-Air Combo](./sagat-heavy-attack-combo/sagat-6hk-combo.md#dr5hk-6hk-high-air-combo)
 
 # Counter Combo
 - ### [迅雷 Counter Combo](sagat-special-move.md#迅雷-counter-combo)
