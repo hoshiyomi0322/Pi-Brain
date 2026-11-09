@@ -1,9 +1,9 @@
 # Command
 - ### 弾：236P
 - ### 214P
-    - Quick-burn：214LP
+    - ### Quick-burn：214LP
         - OD Quick-burn：214LPMP, 214LPHP
-    - Burning-knuckle：214MP, 214HP
+    - ### Burning-knuckle：214MP, 214HP
         - OD Burning-knuckle：214MPHP
 - ### 昇竜：623P
 - ### Power-charge：236K
