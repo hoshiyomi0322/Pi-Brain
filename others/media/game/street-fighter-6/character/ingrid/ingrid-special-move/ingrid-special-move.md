@@ -16,7 +16,7 @@
 - ### 中昇竜 Air Combo
     - 中昇竜 + [37F OKI](../ingrid.md#37f-oki)
 - ### OD昇竜 Air Combo
-    - OD昇竜 + [38F OKI](../ingrid.md#38f-oki)/SA3
+    - OD昇竜 + [37F OKI](../ingrid.md#37f-oki)/SA3
 
 # Beam Combo
 - ### [Beam Combo](ingrid-beam.md)

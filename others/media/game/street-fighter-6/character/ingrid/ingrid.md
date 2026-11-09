@@ -38,9 +38,12 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
-- ### 4HP Combo
+- ### Corner 4HP Combo
+    - 4HP*2 + (Beam + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo))
+    - 4HP*2 + (Beam(1太陽) + 消費(5LP) + 強弾) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
+    - 4HP*2 + (Beam(2太陽)/OD Beam(1太陽) + 前Teleport) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
 - ### 6HP Combo
-    - ( 6HP + OD Beam(2太陽) + 6HP + OD Beam(2太陽) ) + (DR + 2HP) + SA1/(Beam + SA3)
+    - (6HP + OD Beam(2太陽))*2 + (DR + 2HP) + SA1/(Beam + SA3)
 - ### 5HK Combo
     - 5HK + [2LP Combo](#2lp-combo)
 - ### DR 5HK Combo
@@ -52,8 +55,13 @@
 # Medium Attack Combo
 - ### 5MP Combo
     - (5MP + 5MK)
+- ### 5MP Air Combo
+    - (5MP + 5MK) + 中昇竜/(OD昇竜 + SA3)
 - ### DR 5MK Combo
     - (DR + 5MK) + [強昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#強昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
+- ### Corner DR 4MK Combo
+    - (DR + 4MK + 5HP) + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Air Combo](ingrid-special-move.md#od昇竜-air-combo)/SA1
+    - (DR + 4MK + 5HP) + (強弾 + SA3)
 
 # Light Attack Combo
 - ### 2LP Combo
@@ -77,9 +85,11 @@
 
 # DI Combo
 - ### DI PC Combo
-    - DI(PC) + (前ステ + )
+    - DI(PC) + [強昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#強昇竜-combo)
+    - Corner：DI(PC) + [Corner 4HP Combo](#corner-4hp-combo)
 - ### Wall Splat Combo
     - DI(Wall spalt) + (DR + 5HP/2HP + 5LP/5LK) + Reset (DI)
+    - DI(Wall spalt) + [Corner 4HP Combo](#corner-4hp-combo)
 - ### Stun Combo
     - DI(Stun) + 
 

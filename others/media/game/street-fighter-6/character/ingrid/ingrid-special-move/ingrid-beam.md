@@ -2,9 +2,10 @@
 - ### 帶2太陽 Beam Combo
     - Beam(2太陽) + 前Teleport
 - ### Close Beam Combo
+    - Beam + 集太陽/SA3
     - #### Close 帶1太陽 Beam Combo
-        - Corner：Beam(1太陽) + (DR + 4MK + 5HP) + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Air Combo](ingrid-special-move.md#od昇竜-air-combo)/SA1
-        - Corner：Beam(1太陽) + [Corner 弱弾 Air Combo](ingrid-special-move.md#corner-弱弾-air-combo)
+        - Corner
+            - Beam(1太陽) + [Corner DR 4MK Combo](../ingrid.md#corner-dr-4mk-combo)/[Corner 弱弾 Air Combo](ingrid-special-move.md#corner-弱弾-air-combo)
     - #### Close 帶2太陽 Beam Combo
         - Beam(2太陽) + (前ステ + [中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo))
         - Corner：Beam(2太陽) + [Corner 弱弾 High-Air Combo](ingrid-special-move.md#corner-弱弾-high-air-combo)
