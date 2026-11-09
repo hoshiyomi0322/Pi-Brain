@@ -34,7 +34,7 @@
 
 
 # [必殺技 Combo](./ingrid-special-move/ingrid-special-move.md)
-- ### [Beam Combo](ingrid-beam.md)
+- ### [Beam Combo](./ingrid-special-move/ingrid-beam.md)
 
 # Heavy Attack Combo
 - ### 5HP Combo
