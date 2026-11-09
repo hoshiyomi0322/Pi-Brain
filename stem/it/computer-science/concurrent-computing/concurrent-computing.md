@@ -33,7 +33,8 @@
 
 # Race Condition
 
-# Deadlock
+# [Deadlock](./deadlock/deadlock.md)
+- ### [Deadlock Avoidance](./deadlock/methods-for-handling-deadlocks/deadlock-avoidance.md)
 
 # Concurrency Control Mechanisms
 - ### Mutex Locks
