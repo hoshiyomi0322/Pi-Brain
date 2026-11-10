@@ -16,6 +16,9 @@
     - 弱昇竜 + [34F OKI](../ingrid.md#34f-oki)
 - ### 中昇竜 Air Combo
     - 中昇竜 + [前ステDR 5HK OKI](../ingrid.md#前ステdr-5hk-oki-37f49f)
+- ### 強昇竜 Air Combo
+    - 強昇竜 + (Air-beam + [50F OKI](../ingrid.md#50f-oki-50f51f))
+    - 強昇竜 + (Air-集太陽 + [DI OKI](../ingrid.md#di-oki-25f26f))
 - ### OD昇竜 Air Combo
     - OD昇竜 + [前ステDR 5HK OKI](../ingrid.md#前ステdr-5hk-oki-37f49f)/SA3
 
