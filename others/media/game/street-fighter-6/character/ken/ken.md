@@ -120,7 +120,7 @@
         - DI(PC) + (前ステ + 2HP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
         - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
         - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 2HP + Reset([跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
-        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 5MP + 消費(跑步煞車) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 5MP + 消費(跑步煞車) + [5F打摔擇](#5f打摔擇-4f5f)
         - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + (delay + 5LK) + Reset(DI)
         - DI(PC) + (8 + delay + JHK) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
     - #### Corner DI PC Combo
@@ -130,7 +130,7 @@
             - DI(PC) + (8 + delay + JHK) + 消費(5LP) + (中迅雷強派生 + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo))
         - DI(PC) + (DR + 5HP + 5LK) + Reset(DI)
 - ### DI PC Air Combo
-    - DI(PC) + 2HP + 消費(跑步煞車) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - DI(PC) + 2HP + 消費(跑步煞車) + [5F打摔擇](#5f打摔擇-4f5f)
     - DI(PC) + 消費(5LK + 前ステ) + (5MP + [跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
 - ### Wall Splat Combo
     - DI(Wall spalt) + [2HP Combo](#2hp-combo)
@@ -167,12 +167,7 @@
     - [投げ](#投げ)
     - [5MP Combo](#5mp-combo)
 - ### 5F打摔擇 (4F/5F)
-    - ### 5F打摔擇 (後ろ歩き)
-        - [投げ](#投げ)/[5MP Combo](#5mp-combo)
-        - Shimmy：後ろ歩き + [5HP PC Combo](#5hp-pc-combo)/[5HK PC Combo](#5hk-pc-combo)
-    - ### 5F打摔擇 (バクステ)
-        - [投げ](#投げ)/[5MP Combo]()
-        - Shimmy：バクステ + [5HP PC Combo](#5hp-pc-combo)
+    - [投げ](#投げ)/[5MP Combo](#5mp-combo)
 - ### 5MP OKI (6F)
     - [5MP Combo]()
     - delay + [投げ](#投げ)
@@ -199,10 +194,10 @@
 - ### 40F OKI
     - 消費(2LP) + [DI OKI](#di-oki-25f26f)
     - 消費(跑步煞車) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
-    - 消費(DR + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(DR + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 42F OKI
     - 安全飛び
-    - 消費(前ステ*2) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(前ステ*2) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5LP) + [跑步中段 重ね](#跑步中段-重ね-29f30f)
     - 消費(2LK) + [DI OKI](#di-oki-25f26f)
     - その場受け身/Corner
@@ -212,7 +207,7 @@
     - [42F OKI](#42f-oki)
     - その場受け身/Corner：強迅雷弱派生 + [5MP Combo](#5mp-combo)/[2MP Combo](#2mp-combo)
 - ### 47F OKI
-    - 消費(前ステ + 2MP) + [5F打摔擇 (バクステ)](#5f打摔擇-バクステ)
+    - 消費(前ステ + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(2HK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)
     - 消費(5LK) + [跑步中段 重ね](#跑步中段-重ね-29f30f)
     - 消費(5MP) + [DI OKI](#di-oki-25f26f)

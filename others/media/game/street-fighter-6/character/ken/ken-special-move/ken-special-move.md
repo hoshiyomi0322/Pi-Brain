@@ -1,10 +1,10 @@
 # 昇竜 Combo
 - ### 弱昇竜 Combo
     - 弱昇竜 + [SA3 Air Combo](../ken.md#sa3-air-combo)
-    - Corner：弱昇竜 + 消費(2MK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+    - Corner：弱昇竜 + 消費(2MK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 - ### 中昇竜 Combo
     - 中昇竜 + [SA3 Air Combo](../ken.md#sa3-air-combo)
-    - Corner：中昇竜 + 消費(2MK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+    - Corner：中昇竜 + 消費(2MK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 - ### 強昇竜 Combo
     - 強昇竜 + [SA3 Combo](../ken.md#sa3-combo)
     - Corner：強昇竜 + [DI OKI](../ken.md#di-oki-25f26f)
@@ -12,13 +12,13 @@
 # 昇竜 Air Combo
 - ### 弱昇竜 Air Combo
     - 弱昇竜 + [SA3 Air Combo](../ken.md#sa3-air-combo)
-    - Corner：弱昇竜 + 消費(2MK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+    - Corner：弱昇竜 + 消費(2MK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 - ### 中昇竜 Air Combo
     - 中昇竜 + [SA3 Air Combo](../ken.md#sa3-air-combo)
-    - Corner：中昇竜 + 消費(2MK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+    - Corner：中昇竜 + 消費(2MK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 - ### 強昇竜 Air Combo
     - 強昇竜 + [SA3 Air Combo](../ken.md#sa3-air-combo)
-    - Corner：強昇竜 + 消費(5MP) + [5F打摔擇 (バクステ)](../ken.md#5f打摔擇-バクステ)
+    - Corner：強昇竜 + 消費(5MP) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 
 # 強昇竜 High-Air Combo
 - 強昇竜
@@ -28,7 +28,7 @@
 - ### 弱旋風腳 Combo
     - 弱旋風腳 + [弱昇竜 Combo](#弱昇竜-combo)/[中昇竜 Combo](#中昇竜-combo)/SA2
 - ### 中旋風腳 Combo
-    - 中旋風腳 + (前ステ*2 + [5F打摔擇 (バクステ)](../ken.md#5f打摔擇-バクステ))
+    - 中旋風腳 + (前ステ*2 + [5F打摔擇](../ken.md#5f打摔擇-4f5f))
 - ### 強旋風腳 Combo
     - 強旋風腳
 - ### OD旋風腳 Combo
@@ -40,10 +40,10 @@
     - ### 跑步5HK Combo
         - 跑步5HK + SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
     - ### 跑步中段 Combo
-        - 跑步中段 + [5F打摔擇 (バクステ)](../ken.md#5f打摔擇-バクステ)/[SA3 Combo](../ken.md#sa3-combo)
+        - 跑步中段 + [5F打摔擇](../ken.md#5f打摔擇-4f5f)/[SA3 Combo](../ken.md#sa3-combo)
     - ### 跑步昇竜 Combo
         - 跑步昇竜 + [跑步中段 Combo](#跑步中段-combo)/DI/[SA3 Combo](../ken.md#sa3-combo)
-        - Corner：跑步昇竜 + 消費(5MP) + [5F打摔擇 (バクステ)](../ken.md#5f打摔擇-バクステ)
+        - Corner：跑步昇竜 + 消費(5MP) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 - ### 跑步旋風腳 Combo
     - 跑步旋風腳 + [3F打摔擇](../ken.md#3f打摔擇-2f3f)
 

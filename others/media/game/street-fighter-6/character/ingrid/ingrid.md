@@ -58,10 +58,10 @@
 - ### 5MP Combo
     - (5MP + 5MK)
 - ### 5MP Air Combo
-    - (5MP + 5MK) + 中昇竜/(OD昇竜 + SA3)
+    - (5MP + 5MK) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
 - ### DR 5MK Combo
     - (DR + 5MK) + [強昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#強昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
-- ### Corner DR 4MK Combo
+- ### Corner DR 4MK Air Combo
     - (DR + 4MK + 5HP) + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Air Combo](ingrid-special-move.md#od昇竜-air-combo)/SA1
     - (DR + 4MK + 5HP) + (強弾 + SA3)
 
@@ -127,6 +127,8 @@
     - 5HK + [5MP Combo](#5mp-combo)
 - ### DR 5HK OKI (17F~29F)
     - [DR 5HK Combo](#dr-5hk-combo)
+- ### 前ステDR 5HK OKI (37F~49F)
+    - 消費(前ステ) + [DR 5HK OKI](#dr-5hk-oki-17f29f)
 - ### 弾 OKI (20F~21F)
     - [DR 5HK OKI](#dr-5hk-oki-17f29f)
     - 弱弾 + [DR 5HK Combo](#dr-5hk-combo)
@@ -158,19 +160,19 @@
         - 消費(2HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 37F OKI
     - 消費(5LP) + [DI OKI](#di-oki-25f26f)
-    - 消費(前ステ) + [DR 5HK OKI](#dr-5hk-oki-17f29f)
+    - [前ステDR 5HK OKI](#前ステdr-5hk-oki-37f49f)
     - Corner
         - 消費(2LP) + [22F 6MP 重ね](#22f-6mp-重ね)
         - 消費(2HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 38F OKI
     - 消費(5LP) + [25F OKI](#25f-oki)
-    - 消費(前ステ) + [DR 5HK OKI](#dr-5hk-oki-17f29f)
+    - [前ステDR 5HK OKI](#前ステdr-5hk-oki-37f49f)
     - Corner
         - 消費(2LK) + [22F 6MP 重ね](#22f-6mp-重ね)
         - 消費(2HP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 40F OKI
     - 消費(2LP) + [DI OKI](#di-oki-25f26f)
-    - 消費(前ステ) + [DR 5HK OKI](#dr-5hk-oki-17f29f)
+    - [前ステDR 5HK OKI](#前ステdr-5hk-oki-37f49f)
     - Corner
         - 消費(5LK) + [22F 6MP 重ね](#22f-6mp-重ね)
         - 消費(5HK) + [5F打摔擇](#5f打摔擇-4f5f)

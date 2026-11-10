@@ -21,7 +21,7 @@
         - 強迅雷delay弱派生 + [Corner 弱迅雷 Air Combo](#corner-弱迅雷-air-combo)/[Corner OD迅雷 Air Combo](#corner-od迅雷-air-combo)
         - 強迅雷弱派生 + [DI OKI](../ken.md#di-oki-25f26f)
         - 強迅雷中派生/強迅雷強派生 + (DI(騙對手 DI) + 反DI)
-        - 強迅雷強派生 + 消費(2HK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+        - 強迅雷強派生 + 消費(2HK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
 
 # Corner 弱迅雷 Air Combo
 - 弱迅雷弱派生 + [強昇竜 Air Combo](ken-special-move.md#強昇竜-air-combo)/[OD旋風腳 Combo](ken-special-move.md#od旋風腳-combo)/SA1/SA2
@@ -46,7 +46,7 @@
 - ### Corner 中迅雷 High-Air Combo
     - 中迅雷delay強派生 + [強昇竜 Air Combo](ken-special-move.md#強昇竜-air-combo)/[OD旋風腳 Combo](ken-special-move.md#od旋風腳-combo)
     - 中迅雷delay強派生 + SA1/SA2/(delay + [SA3 Combo](../ken.md#sa3-combo))
-    - 中迅雷delay強派生 + 消費(5HK) + [5F打摔擇 (後ろ歩き)](../ken.md#5f打摔擇-後ろ歩き)
+    - 中迅雷delay強派生 + 消費(5HK) + [5F打摔擇](../ken.md#5f打摔擇-4f5f)
     - 中迅雷弱派生 + [DI OKI](../ken.md#di-oki-25f26f)
     - 中迅雷中派生 + (DI(騙對手 DI) + 反DI)
 - ### Corner OD迅雷 High-Air Combo

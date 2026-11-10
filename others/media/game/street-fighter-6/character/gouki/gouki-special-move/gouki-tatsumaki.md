@@ -2,7 +2,7 @@
 - 弱旋風腳 + [50F OKI](../gouki.md#50f-oki)/[2HK Air Combo](../gouki.md#2hk-air-combo)/[弱昇竜 Combo]()/[強昇竜 Combo]()
 - 弱旋風腳 + SA1/[SA2 Combo]()
 - 大體型限定：弱旋風腳 + [強旋風腳 Combo](#強旋風腳-combo)
-- その場受け身/Corner：弱旋風腳 + (強灼火) + [5F打摔擇 (バクステ)]()
+- その場受け身/Corner：弱旋風腳 + (強灼火) + [5F打摔擇]()
 - ### Corner 弱旋風腳 Combo
     - 弱旋風腳 + (delay + [強旋風腳 Air Combo](#強旋風腳-air-combo))
 

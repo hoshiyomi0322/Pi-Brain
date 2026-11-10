@@ -23,7 +23,7 @@
 - [SA2 Combo](../gouki.md#sa2-combo)
 - (OD旋風腳 + [弱昇竜 Combo]())
 - (OD弾 + SA1/[SA2 Combo](../gouki.md#sa2-combo))
-- 消費(DR + 5HK) + [5F打摔擇 (バクステ)]()
+- 消費(DR + 5HK) + [5F打摔擇]()
 
 
 # 溜め弾後 Combo
