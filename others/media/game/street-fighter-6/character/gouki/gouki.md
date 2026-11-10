@@ -229,21 +229,20 @@
     - [投げ](#投げ)
     - [2LP Combo](#2lp-combo)
 - ### 5F打摔擇 (4F/5F)
-    - ### 5F打摔擇
-        - [5MP Combo]()/[Close 2MP Combo]()
-        - [投げ]()/瞬獄殺
-    - ### 5F打摔擇
-        - [5MP Combo]()/[Close 2MP Combo]()
-        - [投げ]()/瞬獄殺
-
+    - [5MP Combo]()/[Close 2MP Combo]()
+    - [投げ]()/[瞬獄殺 OKI](#瞬獄殺-oki-4f12f)
+- ### 瞬獄殺 OKI (4F~12F)
+    - 瞬獄殺
 - ### 5HP OKI (6F~8F)
     - [5HP Combo]()
+    - [瞬獄殺 OKI](#瞬獄殺-oki-4f12f)
 - ### 5HP 重ね
     - ### 9F 5HP 重ね
-        - 5HP + [2LP Combo]()
         - [5HP Combo]()
+        - [瞬獄殺 OKI](#瞬獄殺-oki-4f12f)
         - [4HK Combo](gouki-4hk-combo.md#4hk-combo)
     - ### 12F 5HP 重ね
+        - [瞬獄殺 OKI](#瞬獄殺-oki-4f12f)
         - 5HP + [2MP Combo]()
         - [4HK Combo](gouki-4hk-combo.md#4hk-combo)
 - ### 6MP 重ね (22F/23F)
@@ -314,6 +313,7 @@
         - 消費(5MP) + [DI OKI](#di-oki-25f26f)
         - その場受け身/Corner
             - 消費(5HK) + [5F打摔擇]()
+            - 消費(投げ) + [5HP OKI](#5hp-oki-6f8f)
             - 消費(6HP) + [12F 5HP 重ね](#12f-5hp-重ね)
             - 消費(2MP) + [6MP 重ね](#6mp-重ね-22f23f)
     - #### Far 47F OKI

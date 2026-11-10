@@ -5,8 +5,9 @@
     - 中昇竜 + [38F OKI](../ingrid.md#38f-oki)
 - ### 強昇竜 Combo
     - 強昇竜 + (delay + JMP + SA3)
+    - 強昇竜 + (Air-beam + [50F OKI](../ingrid.md#50f-oki-50f51f))
     - 強昇竜 + (Air-集太陽 + [25F OKI](../ingrid.md#25f-oki))
-    - Corner：強昇竜 + (delay + JHP + [22F 6MP 重ね](../ingrid.md#22f-6mp-重ね))
+    - Corner：強昇竜 + (delay + JHP + [22F 6MP 重ね](../ingrid.md#22f-6mp-重ね-21f22f))
 - ### OD昇竜 Combo
     - OD昇竜 + [40F OKI](../ingrid.md#40f-oki)/[SA2 Combo](../ingrid.md#sa2-combo)/SA3
 
@@ -26,7 +27,7 @@
     - ガード(下Teleport) + [3F打摔擇](../ingrid.md#3f打摔擇-2f3f)
 
 # Corner 弱弾 Air Combo
-- 弱弾 + [50F OKI](../ingrid.md#50f-oki-50f52f)/[中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo)
+- 弱弾 + [50F OKI](../ingrid.md#50f-oki-50f51f)/[中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo)
 
 # Corner 弱弾 High-Air Combo
 - 弱弾 + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)

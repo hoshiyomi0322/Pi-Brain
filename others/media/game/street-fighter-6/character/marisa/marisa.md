@@ -68,6 +68,7 @@
         - 溜め2HP(PC) + (強Dimachaerus + delay + [Dimachaerus Extension Combo](marisa-special-move.md#dimachaerus-extension-combo))
         - 溜め2HP(PC) + (強Dimachaerus + [DR 6HK Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-air-combo))
         - Corner：溜め2HP(PC) + [Corner 溜め2HP Air Combo](./marisa-heavy-attack-combo/marisa-2hp-combo.md#corner-溜め2hp-air-combo)
+- DR + 溜め4HP(PC) + [溜め4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#溜め4hp-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -81,6 +82,7 @@
 # Cancel Combo
 - ### Heavy Cancel Combo
     - [Dimachaerus Combo](marisa-special-move.md#dimachaerus-combo)/[Gladius Combo](marisa-special-move.md#gladius-combo)
+    - CDR + [DR 5MK Combo](#dr-5mk-combo)
     - #### ガード後 Heavy Cancel Combo
         - 連ガ
             - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)
@@ -91,12 +93,14 @@
 - ### Medium Cancel Combo
     - [中Dimachaerus Combo](marisa-special-move.md#中dimachaerus-combo)/[OD Dimachaerus Combo](marisa-special-move.md#od-dimachaerus-combo)
     - [中Gladius Combo](marisa-special-move.md#中gladius-combo)/[OD Gladius Combo](marisa-special-move.md#od-gladius-combo)
+    - CDR + [4HP Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-combo)
     - #### ガード後 Medium Cancel Combo
         - [弱Gladius Combo](marisa-special-move.md#弱gladius-combo)/[弱溜めGladius Combo](marisa-special-move.md#弱溜めgladius-combo)
         - [Phalanx Combo](marisa-special-move.md#phalanx-combo)
         - CDR + [5MP Combo](#5mp-combo)
         - CDR + Scutum-コマ投げ/OD Scutum-コマ投げ
 - ### Light Cancel Combo
+    - [弱Dimachaerus Combo](marisa-special-move.md#弱dimachaerus-combo)
 - ### CDR Combo
 
 # [投げ](../../street-fighter-6.md#throw)

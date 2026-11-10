@@ -1,8 +1,9 @@
 # 6HK Combo
-- 6HK + [Heavy Cancel Combo](../marisa.md#heavy-cancel-combo)
+- 6HK + [Heavy Cancel Combo](../marisa.md#heavy-cancel-combo)/[OD Quadriga Combo](../marisa-special-move.md#od-quadriga-combo)
 
 # 溜め6HK Combo
 - 溜め6HK + [4HP Combo](marisa-4hp-combo.md#4hp-combo)/[2HP Combo](marisa-2hp-combo.md#2hp-combo)
+- 溜め6HK + (CDR + [DR 溜め4HP Combo](marisa-4hp-combo.md#dr-溜め4hp-combo))
 - ガード(溜め6HK) + [3F打摔擇](../marisa.md#3f打摔擇-2f3f)
 
 # 6HK Air Combo

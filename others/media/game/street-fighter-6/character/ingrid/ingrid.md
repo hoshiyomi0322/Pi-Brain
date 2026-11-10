@@ -7,13 +7,15 @@
         - OD溜め弾：236MPHP(Hold)
 - ### 214P
     - ### 集太陽：214LP
-    - ### Beam：214MP/214HP
+    - ### Beam：214MP
         - Beam(1太陽)：214HP
         - Beam(2太陽)：214HP
         - OD Beam：214PP
 - ### Air 214P
     - ### Air-集太陽：8/9 + 214LP
-    - ### Air-beam：8/9 + 214MP/214HP
+    - ### Air-beam：8/9 + 214MP
+        - Air-beam(1太陽)：214HP
+        - Air-beam(2太陽)：214HP
         - OD Air-beam：8/9 + 214PP
 - ### 昇竜：236K
 - ### 当身：22K
@@ -43,11 +45,11 @@
     - 4HP*2 + (Beam(1太陽) + 消費(5LP) + 強弾) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
     - 4HP*2 + (Beam(2太陽)/OD Beam(1太陽) + 前Teleport) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
 - ### 6HP Combo
-    - (6HP + OD Beam(2太陽))*2 + (DR + 2HP) + SA1/(Beam + SA3)
+    - (6HP + OD Air-beam(2太陽))*2 + (DR + 2HP) + SA1/(Beam + SA3)
 - ### 6HP Air Combo
     - 6HP
 - ### 5HK Combo
-    - 5HK + [2LP Combo](#2lp-combo)
+    - 5HK + (2LP + [Light Cancel Combo](#light-cancel-combo))
 - ### DR 5HK Combo
     - DR + 5HK + [5MP Combo](#5mp-combo)
     - DR + ガード(5HK) + [3F打摔擇](#3f打摔擇-2f3f)
@@ -56,7 +58,13 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - (5MP + 5MK)
+    - (5MP + 5MK) + [Medium Cancel Combo](#medium-cancel-combo)
+- ### 2MP Combo
+    - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
+- ### 5MK Combo
+    - 5MK + [Medium Cancel Combo](#medium-cancel-combo)
+- ### 2MK Combo
+    - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 5MP Air Combo
     - (5MP + 5MK) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
 - ### DR 5MK Combo
@@ -66,7 +74,16 @@
     - (DR + 4MK + 5HP) + (強弾 + SA3)
 
 # Light Attack Combo
+- ### 5LP Combo
+    - 5LP*2 + [Light Cancel Combo](#light-cancel-combo)
 - ### 2LP Combo
+    - 2LP*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 2LK Combo
+    - 2LK + (5LP/2LP)*2 + [Light Cancel Combo](#light-cancel-combo)
+- ### 5LK Combo
+    - 5LK + [Light Cancel Combo](#light-cancel-combo)
+- ### DR 5LP Combo
+    - (DR + 5LP) + [5HK Combo](#5hk-combo)/[5MP Combo](#5mp-combo)
 
 # Jump Attack Combo
 - ### JHK Air Combo
@@ -98,9 +115,12 @@
 # Cancel Combo
 - ### Heavy Cancel Combo
 - ### Medium Cancel Combo
+    - [中昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
     - [Close OD Beam Combo](./ingrid-special-move/ingrid-beam.md#close-od-beam-combo)
+    - CDR + [DR 2HP Combo](#dr-2hp-combo)
 - ### Light Cancel Combo
     - [中昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
+    - CDR + [DR 5LP Combo](#dr-5lp-combo)
 - ### CDR Combo
 - ### ガード後 Cancel Combo
     - CDR + [DR 5HK Combo](#dr-5hk-combo)
@@ -135,7 +155,7 @@
     - 對手 前ジャンプ：弱弾 + 弱昇竜
     - 對手 Parry：強溜め弾 + [投げ](#投げ)
 - ### 6MP 重ね
-    - #### 22F 6MP 重ね
+    - #### 22F 6MP 重ね (21F~22F)
         - 6MP + [2LP Combo](#2lp-combo)
         - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
         - [DR 5HK OKI](#dr-5hk-oki-17f29f)
@@ -162,7 +182,7 @@
     - 消費(5LP) + [DI OKI](#di-oki-25f26f)
     - [前ステDR 5HK OKI](#前ステdr-5hk-oki-37f49f)
     - Corner
-        - 消費(2LP) + [22F 6MP 重ね](#22f-6mp-重ね)
+        - 消費(2LP) + [22F 6MP 重ね](#22f-6mp-重ね-21f22f)
         - 消費(2HP) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 38F OKI
     - 消費(5LP) + [25F OKI](#25f-oki)
@@ -184,10 +204,14 @@
     - 安全飛び
     - 消費(前ステ) + [22F 6MP 重ね](#22f-6mp-重ね)
     - [弱弾 重ね](#弱弾-重ね-42f52f)
-- ### 50F OKI (50F~52F)
+- ### 50F OKI (50F~51F)
     - [弱弾 重ね](#弱弾-重ね-42f52f)
         - 對手 パナシ：弱弾 + 4
     - 集太陽 + [2LP Combo](#2lp-combo)/(前歩き + [投げ](#投げ))
+    - 消費(2MP) + [DI OKI](#di-oki-25f26f)
+    - Corner
+        - 消費(2MK) + [22F 6MP 重ね](#22f-6mp-重ね-21f22f)
+        - 消費(前ステ + 5MK) + [5F打摔擇](#5f打摔擇-4f5f)
 
 # Dリバ
 - Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
