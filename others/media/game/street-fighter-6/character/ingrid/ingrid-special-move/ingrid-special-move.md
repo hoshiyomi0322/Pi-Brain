@@ -26,7 +26,7 @@
     - ガード(下Teleport) + [3F打摔擇](../ingrid.md#3f打摔擇-2f3f)
 
 # Corner 弱弾 Air Combo
-- 弱弾 + [弱弾 重ね](../ingrid.md#弱弾-重ね-51f)/[中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo)
+- 弱弾 + [50F OKI](../ingrid.md#50f-oki-50f52f)/[中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo)
 
 # Corner 弱弾 High-Air Combo
 - 弱弾 + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)

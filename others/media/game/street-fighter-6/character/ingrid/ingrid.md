@@ -44,6 +44,8 @@
     - 4HP*2 + (Beam(2太陽)/OD Beam(1太陽) + 前Teleport) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
 - ### 6HP Combo
     - (6HP + OD Beam(2太陽))*2 + (DR + 2HP) + SA1/(Beam + SA3)
+- ### 6HP Air Combo
+    - 6HP
 - ### 5HK Combo
     - 5HK + [2LP Combo](#2lp-combo)
 - ### DR 5HK Combo
@@ -172,15 +174,18 @@
     - Corner
         - 消費(5LK) + [22F 6MP 重ね](#22f-6mp-重ね)
         - 消費(5HK) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 弱弾 重ね (42F~52F)
+    - 弱弾 + [Heavy Attack Combo](#heavy-attack-combo)
+    - ガード(弱弾) + [Heavy Attack Combo](#heavy-attack-combo)/[DR 5HK Combo](#dr-5hk-combo)/[Close 高OD弾 Combo](./ingrid-special-move/ingrid-special-move.md#close-高od弾-combo)
+    - 對手 Parry：強溜め弾 + [投げ](#投げ)
 - ### 42F OKI
     - 安全飛び
     - 消費(前ステ) + [22F 6MP 重ね](#22f-6mp-重ね)
-- ### 弱弾 重ね (50F~52F)
-    - 弱弾 + [Heavy Attack Combo](#heavy-attack-combo)
-    - ガード(弱弾) + [Heavy Attack Combo](#heavy-attack-combo)/[DR 5HK Combo](#dr-5hk-combo)/[Close 高OD弾 Combo](./ingrid-special-move/ingrid-special-move.md#close-高od弾-combo)
+    - [弱弾 重ね](#弱弾-重ね-42f52f)
+- ### 50F OKI (50F~52F)
+    - [弱弾 重ね](#弱弾-重ね-42f52f)
+        - 對手 パナシ：弱弾 + 4
     - 集太陽 + [2LP Combo](#2lp-combo)/(前歩き + [投げ](#投げ))
-    - 對手 Parry：強溜め弾 + [投げ](#投げ)
-    - 對手 パナシ：弱弾/集太陽 + 4
 
 # Dリバ
 - Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
