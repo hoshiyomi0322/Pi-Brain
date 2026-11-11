@@ -1,6 +1,6 @@
 # Street Fighter 6 (SF6)
 - ### Combo (コンボ)
-    - #### Format：Buff + [Position](#position) + [Attack](#attack) + [Combo Type](#combo-type)
+    - #### Format：[Status](#status) + [Position](#position) + [Attack](#attack) + [Combo Type](#combo-type)
     - #### `ガード(Combo)` = Combo被防住
     - #### `X/Y` = X or Y
     - #### Combo*n = 重複此Combo n次
@@ -24,6 +24,7 @@
 - ### ヒット確認 (Hit Confirm)
 - ### Setup (Set, セットプレイ)
     - #### Reset (補正切り)
+- ### 状態 (Status)：対戦中に特定の行動で蓄積させ、自身の技を強化していくキャラクター固有の特殊状態 (専用システム) {#status}
 
 # Direction
 - ### Number Pad

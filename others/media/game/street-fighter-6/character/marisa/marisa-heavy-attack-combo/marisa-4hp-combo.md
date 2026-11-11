@@ -13,6 +13,7 @@
 # 溜め4HP Air Combo
 - 溜め4HP + [強Gladius Combo](../marisa-special-move.md#強gladius-combo)/[OD Gladius Air Combo](../marisa-special-move.md#od-gladius-air-combo)
 - 溜め4HP + 消費(強Quadriga) + [コマ投げ OKI](../marisa.md#コマ投げ-oki-9f13f)
+- 4HP + (CDR + 6HK*2 + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2)
 
 # 4HP Air Combo
 - 4HP + [Quadriga Air Combo](../marisa-special-move.md#quadriga-air-combo)

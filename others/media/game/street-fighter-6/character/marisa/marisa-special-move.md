@@ -32,8 +32,7 @@
     - 中Dimachaerus派生 + [強Phalanx OKI](marisa.md#強phalanx-oki-31f36f)
 - ### 強Dimachaerus Combo
     - 強Dimachaerus派生 + [Dimachaerus Extension Combo](#dimachaerus-extension-combo)
-    - 強Dimachaerus派生 + [56F OKI](marisa.md#56f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)
-    - 強Dimachaerus派生 + (3HP*2 + [DR溜め5HP OKI](marisa.md#dr溜め5hp-oki-31f33f))
+    - 強Dimachaerus派生 + [溜め5HP Air Combo](./marisa-heavy-attack-combo/marisa-5hp-combo.md#溜め5hp-air-combo)[56F OKI](marisa.md#56f-oki)/[弱Quadriga Air Combo](#弱quadriga-air-combo)
     - Corner
         - 強Dimachaerus + 2LP + Reset(DI)
         - 強Dimachaerus + 溜め4HP + 消費(弱溜めGladius) + [コマ投げ OKI](marisa.md#コマ投げ-oki-9f13f)

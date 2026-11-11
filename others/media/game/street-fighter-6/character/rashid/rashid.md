@@ -14,7 +14,7 @@
     - #### 跑步翻滾：(前 + 前(蓄力)) + 前腳
 - ### Side-flip：6KK
     - #### Side-flip派生：6KK + KK
-- ### 帶風：SA2或溜め弾之後的狀態
+- ### 帶風：SA2或溜め弾後的特殊狀態
 
 # 必殺技, 特殊技 Combo
 - ### [必殺技, 特殊技 Combo](rashid-special-move.md)

@@ -48,6 +48,7 @@
     - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
 - ### Medium Attack PC Combo
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+    - 2MP(PC) + (CDR + [DR 6HK Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-combo))
 - ### Heavy Attack PC Combo
     - ### 4HP PC Combo
         - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
