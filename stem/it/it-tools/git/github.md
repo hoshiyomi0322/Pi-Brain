@@ -19,5 +19,5 @@
 # GitHub Tools
 - ### [GitDiagram](https://gitdiagram.com/)：visualize any repo
     - How to Access：Replace `github.com` with `gitdiagram.com` in the URL
-- ### [Gitingest](https://gitingest.com/)：turn any repo into a prompt for LLMs
+- ### [Gitingest](https://gitingest.com/)：turn any repo into a prompt for [LLMs](/stem/it/machine-learning/deep-learning/llm.md)
     - How to Access：Replace `github.com` with `gitingest.com` in the URL

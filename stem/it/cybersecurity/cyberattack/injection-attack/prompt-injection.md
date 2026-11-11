@@ -4,5 +4,6 @@
 - ### Prompt Leaking
 
 # Indirect Prompt Injection
+- ### Tool Poisoning
 
 # Stored Prompt Injection
