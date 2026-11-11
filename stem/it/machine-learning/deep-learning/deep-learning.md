@@ -7,6 +7,7 @@
 - ### Pre-training $\to$ [AI Alignment](../ai-safety/ai-alignment.md) ([SFT](../transfer-learning/fine-tuning.md#supervised-fine-tuning-sft) $\to$ [RLHF](../transfer-learning/fine-tuning.md#reinforcement-learning-from-human-feedback-rlhf), [DPO](../transfer-learning/fine-tuning.md#direct-preference-optimization-dpo))
 - ### Test-time scaling
 - ### [Model Context Protocol (MCP)](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/mcp.md)
+- ### Retrieval-Augmented Generation (RAG)
 
 # Diffusion Model
 
