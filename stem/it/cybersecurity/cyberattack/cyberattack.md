@@ -38,7 +38,7 @@
 - ### Code Injection
     - ### Cross-Site Scripting (XSS)
 - ### [SQL injection](./injection-attack/sql-injection.md)
-
+- ### [Prompt Injection](./injection-attack/prompt-injection.md)
 
 # Buffer Overflow Attack
 

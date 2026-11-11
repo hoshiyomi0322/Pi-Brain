@@ -1,0 +1,8 @@
+# Direct Prompt Injection
+- ### Ignore All Previous Instructions
+- ### Do Anything Now (DAN)
+- ### Prompt Leaking
+
+# Indirect Prompt Injection
+
+# Stored Prompt Injection
