@@ -1,3 +1,13 @@
+# 昇竜 Combo
+- ### 弱昇竜 Combo
+    - 弱昇竜 + SA3
+- ### 中昇竜 Combo
+    - 中昇竜
+- ### 強昇竜 Combo
+    - 強昇竜
+- ### OD昇竜 Combo
+    - OD昇竜
+
 # 風破刃 Combo
 - ### 弱風破刃 Combo
     - 弱風破刃*2
