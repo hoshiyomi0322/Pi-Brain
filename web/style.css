@@ -422,15 +422,11 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     background-color: rgba(96, 165, 250, 0.12);
     color: #93c5fd !important;
 }
-.pi-heading-search-result.level-1 {
+.pi-heading-search-result.level-1,
+.pi-heading-search-result.level-2,
+.pi-heading-search-result.level-3 {
     padding-left: 8px;
     font-weight: 600;
-}
-.pi-heading-search-result.level-2 {
-    padding-left: 22px;
-}
-.pi-heading-search-result.level-3 {
-    padding-left: 36px;
 }
 .pi-heading-level {
     display: inline-block;
@@ -456,7 +452,7 @@ section.cover ul{line-height:1.8;list-style-type: none;}
     display: block;
 
     margin-top: 2px;
-    padding-left: 29px;
+    padding-left: 20px;
 
     color: rgba(255, 255, 255, 0.35);
 
