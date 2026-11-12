@@ -16,7 +16,14 @@
 - ### 強風破刃 Combo
     - 強風破刃 + 強昇竜
 - ### OD風破刃 Combo
-    - OD風破刃 + (6MP + [五黄殺 Air Combo](#五黄殺-air-combo)/SA1)
+    - OD風破刃 + (6MP + [暗剣殺 Air Combo](#暗剣殺-air-combo)/[五黄殺 Air Combo](#五黄殺-air-combo)/SA1)
+
+# 暗剣殺 Air Combo
+- ### 暗剣殺 Air Combo
+    - 暗剣殺 + SA3
+- ### OD暗剣殺 Air Combo
+    - OD暗剣殺 + SA1/SA3
+    - OD暗剣殺-五黄殺(1風破) + delay(cancel) + SA3
 
 # 五黄殺 Air Combo
 - ### 五黄殺 Air Combo
