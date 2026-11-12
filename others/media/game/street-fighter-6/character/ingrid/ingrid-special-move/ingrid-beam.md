@@ -25,4 +25,4 @@
         - Corner：OD Beam(1太陽) + [Corner 弱弾 High-Air Combo](ingrid-special-move.md#corner-弱弾-high-air-combo)
     - #### Close 帶2太陽 OD Beam Combo
         - [帶2太陽 OD Beam Combo](#帶2太陽-od-beam-combo)
-        - OD Beam(2太陽) + (前ステ + [強昇竜 Combo](ingrid-special-move.md#強昇竜-combo))
+        - OD Beam(2太陽) + (前ステ + [強昇竜 Air Combo](ingrid-special-move.md#強昇竜-air-combo))

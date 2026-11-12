@@ -30,16 +30,19 @@
     - ガード(下Teleport) + [3F打摔擇](../ingrid.md#3f打摔擇-2f3f)
 
 # Corner 弱弾 Air Combo
-- 弱弾 + [50F OKI](../ingrid.md#50f-oki-50f51f)/[中昇竜 Air Combo](ingrid-special-move.md#中昇竜-air-combo)
+- 弱弾 + [50F OKI](../ingrid.md#50f-oki-50f51f)/[弱昇竜 Air Combo](#弱昇竜-air-combo)
 
 # Corner 弱弾 High-Air Combo
-- 弱弾 + [中昇竜 Combo](ingrid-special-move.md#中昇竜-combo)
+- 弱弾 + [中昇竜 Combo](#中昇竜-combo)
 - 弱弾 + (強弾 + [42F OKI](../ingrid.md#42f-oki))
 - 弱弾 + (集太陽 + [5HK OKI](../ingrid.md#5hk-oki-7f15f))
 
+# Corner 弱弾 Highest-Air Combo
+- (弱弾 + 強弾) + [中昇竜 Air Combo](#中昇竜-air-combo)/[52F OKI](../ingrid.md#52f-oki)
+
 # Close 高OD弾 Combo
 - 高OD弾 + 集太陽
-- ガード(高OD弾) + [5MP Combo](#5mp-combo)/[DR 5HK Combo](#dr-5hk-combo)
+- ガード(高OD弾) + [5MP Combo](../ingrid.md#5mp-combo)/[DR 5HK Combo](../ingrid.md#dr-5hk-combo)
 - Corner
     - 高OD弾 + [中昇竜 Air Combo](#中昇竜-air-combo)
-    - ガード(高OD弾) + (前歩き + [投げ](#投げ))
+    - ガード(高OD弾) + (前歩き + [投げ](../ingrid.md#投げ))

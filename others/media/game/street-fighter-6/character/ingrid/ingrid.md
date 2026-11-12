@@ -41,6 +41,8 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
+- ### 2HP Combo
+    - 2HP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### Corner 4HP Combo
     - 4HP*2 + (Beam + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo))
     - 4HP*2 + (Beam(1太陽) + 消費(5LP) + 強弾) + [中昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-air-combo)/[OD昇竜 Air Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-air-combo)
@@ -64,11 +66,12 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
-    - (5MP + 5MK) + [Medium Cancel Combo](#medium-cancel-combo)
+    - (5MP + 5MK) + [Heavy Cancel Combo](#heavy-cancel-combo)
+    - 5MP + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 2MP Combo
-    - 2MP + [Medium Cancel Combo](#medium-cancel-combo)
+    - 2MP + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 5MK Combo
-    - 5MK + [Medium Cancel Combo](#medium-cancel-combo)
+    - 5MK + [Heavy Cancel Combo](#heavy-cancel-combo)
 - ### 2MK Combo
     - 2MK + [Medium Cancel Combo](#medium-cancel-combo)
 - ### 5MP Air Combo
@@ -108,7 +111,7 @@
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
     - 2HP(PC) + [強昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#強昇竜-combo)
-    - 5HP(PC) + [DR 2HP Combo](#dr-2hp-combo)
+    - 5HP(PC) + [DR 2HP Combo](#dr-2hp-combo)/[DR 5HK Combo](#dr-5hk-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -122,10 +125,15 @@
 
 # Cancel Combo
 - ### Heavy Cancel Combo
+    - [中昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
+    - [Close Beam Combo](./ingrid-special-move/ingrid-beam.md#close-beam-combo)
+    - [Close OD Beam Combo](./ingrid-special-move/ingrid-beam.md#close-od-beam-combo)
+    - CDR + [DR 2HP Combo](#dr-2hp-combo)/[DR 5HK Combo](#dr-5hk-combo)
 - ### Medium Cancel Combo
     - [中昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
+    - [Close 帶1太陽 Beam Combo](./ingrid-special-move/ingrid-beam.md#close-帶1太陽-beam-combo)/[Close 帶2太陽 Beam Combo](./ingrid-special-move/ingrid-beam.md#close-帶2太陽-beam-combo)
     - [Close OD Beam Combo](./ingrid-special-move/ingrid-beam.md#close-od-beam-combo)
-    - CDR + [DR 2HP Combo](#dr-2hp-combo)
+    - CDR + [DR 2HP Combo](#dr-2hp-combo)/[DR 5HK Combo](#dr-5hk-combo)
 - ### Light Cancel Combo
     - [中昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#中昇竜-combo)/[OD昇竜 Combo](./ingrid-special-move/ingrid-special-move.md#od昇竜-combo)
     - CDR + [DR 5LP Combo](#dr-5lp-combo)
@@ -207,6 +215,7 @@
 - ### 弱弾 重ね (42F~52F)
     - 弱弾 + [Heavy Attack Combo](#heavy-attack-combo)
     - ガード(弱弾) + [Heavy Attack Combo](#heavy-attack-combo)/[DR 5HK Combo](#dr-5hk-combo)/[Close 高OD弾 Combo](./ingrid-special-move/ingrid-special-move.md#close-高od弾-combo)
+    - ガード(弱弾) + delay(等到弾消失) + DI
     - 對手 Parry：強溜め弾 + [投げ](#投げ)
 - ### 42F OKI
     - 安全飛び
@@ -220,6 +229,13 @@
     - Corner
         - 消費(2MK) + [22F 6MP 重ね](#22f-6mp-重ね-21f22f)
         - 消費(前ステ + 5MK) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### 52F OKI
+    - [弱弾 重ね](#弱弾-重ね-42f52f)
+        - 對手 パナシ：弱弾 + 4
+    - 集太陽 + [5MP Combo](#5mp-combo)/(前歩き + [投げ](#投げ))
+    - 消費(5MK) + [25F OKI](#25f-oki)
+    - Corner
+        - 消費(4MK) + [23F 6MP 重ね](#23f-6mp-重ね)
 
 # Dリバ
 - Dリバ + 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
