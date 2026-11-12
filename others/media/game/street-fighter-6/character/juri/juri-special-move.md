@@ -16,7 +16,7 @@
 - ### 強風破刃 Combo
     - 強風破刃 + 強昇竜
 - ### OD風破刃 Combo
-    - OD風破刃
+    - OD風破刃 + (6MP + [五黄殺 Air Combo](#五黄殺-air-combo)/SA1)
 
 # 五黄殺 Air Combo
 - ### 五黄殺 Air Combo
