@@ -18,11 +18,17 @@
 - (DR + 6HK) + [4HP Combo](marisa-4hp-combo.md#4hp-combo)
 
 # DR 6HK Air Combo
-- (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)/SA2
-- Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
+- ### General DR 6HK Air Combo
+    - (DR + 6HK*2) + SA2
+    - (DR + 6HK*2) + (DR + 5LK + [Gladius Combo](../marisa-special-move.md#gladius-combo))
+        - (DR + 6HK*2) + (DR + 5LK) + (CDR + [DR 4HP High-Air Combo](marisa-4hp-combo.md#dr-4hp-high-air-combo))
+    - Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
+- (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[弱Gladius Combo](../marisa-special-move.md#弱gladius-combo)
 
 # DR 6HK High-Air Combo
-- (DR + 6HK*2) + [57F OKI](../marisa.md#57f-oki)/[中Gladius Combo](../marisa-special-move.md#中gladius-combo)/SA2
-- (DR + 6HK*2) + (CDR + 5LK + [強Dimachaerus Combo](../marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Air Combo](../marisa-special-move.md#od-dimachaerus-air-combo))
-- Corner：(DR + 6HK*2) + [5HP High-Air Reset](marisa-5hp-combo.md#5hp-high-air-reset)
+- [General DR 6HK Air Combo](#general-dr-6hk-air-combo)
+- (DR + 6HK*2) + [59F OKI](../marisa.md#57f-oki)/[中Gladius Combo](../marisa-special-move.md#中gladius-combo)/[DR 4HP Air Combo](marisa-4hp-combo.md#dr-4hp-air-combo)
 
+# DR 6HK-Dimachaerus Air Combo
+- [DR 6HK Air Combo](#dr-6hk-air-combo)
+- (DR + 6HK*2) + (DR + 5LK + [強Dimachaerus Combo](../marisa-special-move.md#強dimachaerus-combo)/[OD Dimachaerus Air Combo](../marisa-special-move.md#od-dimachaerus-air-combo))

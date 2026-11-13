@@ -9,11 +9,17 @@
         <img src="./image/eeprom.png" width="15%">
 - ### Flash Memory
     ![flash-memory](./image/flash-memory.png ':size=10%')
-    - #### USB Flash Drive
-        ![usb-flash-drive](./image/usb-flash-drive.png ':size=10%')
 
-# Solid-State Drive (SSD)
-<div align="center"><img src="./image/ssd.png" width="35%"></div>
+# Solid-State Storage
+
+- ### Solid-State Drive (SSD)
+    <img src="./image/ssd.png" width="35%">
+- ### USB Flash Drive
+    ![usb-flash-drive](./image/usb-flash-drive.png ':size=10%')
+- ### Secure Digital Memory Card (SD Card, SD)
+    - Standard SD
+    - miniSD
+    - microSD
 
 # Magnetic Storage
 - ### Hard Disk Drive (HDD)

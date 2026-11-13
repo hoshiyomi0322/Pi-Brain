@@ -266,6 +266,7 @@
 - ### [Manon](./character/manon/manon.md)
 - ### [Marisa](./character/marisa/marisa.md)
 - ### [Kimberly](./character/kimberly/kimberly.md)
+- ### [Dee Jay](./character/dee-jay/dee-jay.md)
 - ### [Rashid](./character/rashid/rashid.md)
 - ### [Chunli](./character/chunli/chunli.md)
 - ### [Elena](./character/elena/elena.md)

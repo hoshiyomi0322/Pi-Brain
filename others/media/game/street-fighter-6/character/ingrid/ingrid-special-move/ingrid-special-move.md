@@ -4,7 +4,7 @@
 - ### 中昇竜 Combo
     - 中昇竜 + [38F OKI](../ingrid.md#38f-oki)
 - ### 強昇竜 Combo
-    - 強昇竜 + (delay + JMP + SA3)
+    - 強昇竜 + (delay + JMP + SA1/SA3)
     - 強昇竜 + (Air-beam + [50F OKI](../ingrid.md#50f-oki-50f51f))
     - 強昇竜 + (Air-集太陽 + [25F OKI](../ingrid.md#25f-oki))
     - Corner：強昇竜 + (delay + JHP + [22F 6MP 重ね](../ingrid.md#22f-6mp-重ね-21f22f))
