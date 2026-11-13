@@ -38,7 +38,7 @@
 - ### Universal Serial Bus (USB)
     <img src="./image/usb.png" width="45%">
 
-    - #### [USB Flash Drive](./memory/non-volatile-memory.md#usb-flash-drive)
+    - #### [USB Flash Drive](./memory/non-volatile-memory/flash-memory.md#usb-flash-drive)
 - ### Serial Advanced Technology Attachment (SATA)
     <img src="./image/sata.png" width="30%">
 

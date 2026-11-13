@@ -23,3 +23,5 @@
 - ### Scoreboarding
 - ### [Tomasulo Algorithm](tomasulo-algorithm.md)
 
+# Compute Unified Devices Architecture (CUDA)
+<div align="center"><img src="./image/cuda.png" width="30%"></div>

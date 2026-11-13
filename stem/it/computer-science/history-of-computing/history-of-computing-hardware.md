@@ -103,17 +103,17 @@
 - ### Magnetic Drums
     <img src="./image/magnetic-drums.png" width="15%">
 
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory/magnetic-storage.md)
 - ### Card Readers
     <img src="./image/card-readers.png" width="25%">
 
     - #### type：punched card input device
     - #### IBM card
         <img src="./image/ibm-card.png" width="35%">
-- ### [Magnetic Tape](../computer-hardware/memory/non-volatile-memory.md#magnetic-tape)
+- ### [Magnetic Tape](../computer-hardware/memory/non-volatile-memory/magnetic-storage.md#magnetic-tape)
     <img src="./image/magnetic-tape.jpg" width="15%">
 
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory/magnetic-storage.md)
         - sequential access
     - #### Magnetic Tape Drives
         <img src="./image/magnetic-tape-drives.jpg" width="20%">
@@ -129,13 +129,13 @@
 - ### Magnetic Core Memory
     <img src="./image/magnetic-cores.png" width="20%">
 
-    - #### type：[Non-Volatile RAM](../computer-hardware/memory/non-volatile-memory.md#non-volatile-ram-nvram)
+    - #### type：[Non-Volatile RAM](../computer-hardware/memory/non-volatile-memory/non-volatile-memory.md#non-volatile-ram-nvram)
         - information available instantly
     - #### replaced [Magnetic Drums](#magnetic-drums)
 - ### Magnetic Disks
     <img src="./image/magnetic-disks.png" width="25%">
 
-    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory.md#magnetic-storage)
+    - #### type：[Magnetic Storage (Non-Volatile)](../computer-hardware/memory/non-volatile-memory/magnetic-storage.md)
         - data can be accessed directly
     - #### replaced [Magnetic Tape](#magnetic-tape)
 
