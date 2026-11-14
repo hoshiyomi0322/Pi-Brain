@@ -1,4 +1,4 @@
-# Circular Shift Register
+# [Circular Shift](../../../combinational-logic/shift/shift.md#rotate-circular-shift) Register
 ||[Ring Counter](#ring-counter)|[Johnson Counter](#johnson-counter)|
 |:---:|:---:|:---:|
 |**[Feedback](../../sequential-logic.md#feedback)**|Non-Inverted|Inverted|
@@ -9,7 +9,7 @@
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
     |$S_{m-1}$|$S_0$|
     - $m=\text{Number of States}$
-- ### Uses Shift Register (D Flip-Flop)
+- ### Uses [Shift Register](../../shift-register/shift-register.md) ([D Flip-Flop](../../memory-element/flip-flop.md#d-flip-flop-data))
 
 # Ring Counter
 - ### Encoding：One-Hot

@@ -3,7 +3,7 @@
     - $clk=\text{Clock input}$
     - $D=\text{Data input}$
     - $D=\text{Data output}$
-- ### Uses D Flip-Flop
+- ### Uses [D Flip-Flop](../memory-element/flip-flop.md#d-flip-flop-data)
 
 # Serial-In Serial-Out (SISO)
 - ### Logic Diagram (4-bit)

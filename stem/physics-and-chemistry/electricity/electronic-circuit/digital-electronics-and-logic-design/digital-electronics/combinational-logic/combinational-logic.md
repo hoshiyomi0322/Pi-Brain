@@ -5,11 +5,9 @@
 - ### [Adder-Subtractor](./adder-and-subtractor/adder-subtractor.md)
 - ### [BCD Adder](./adder-and-subtractor/bcd-adder.md)
 
-# Multiplier
-
-
-# Divider
-
+# Multiplier and Divider
+- ### Multiplier
+- ### Divider
 
 # Encoder and Decoder
 - ### Encoder
