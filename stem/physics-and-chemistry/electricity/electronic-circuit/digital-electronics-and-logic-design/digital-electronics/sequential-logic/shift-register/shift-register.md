@@ -26,5 +26,6 @@
 # Linear Feedback Shift Register (LFSR)
 - ### Number of States ($n$-bit)：$2^n-1$
 
-# Circular Shift Register
-- ### [Circular Shift Register](../counter/circular-shift-register/circular-shift-register.md)
+# [Circular Shift Register](../counter/circular-shift-register/circular-shift-register.md)
+- ### [Ring Counter](../counter/circular-shift-register/circular-shift-register.md#ring-counter)
+- ### [Johnson Counter](../counter/circular-shift-register/circular-shift-register.md#johnson-counter)
