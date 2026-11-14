@@ -19,8 +19,12 @@
 - ### Multiplexer (MUX)
 - ### Demultiplexer (DEMUX)
 
-# Shift
-- ### [Shift](shift.md)
+# [Shift](./shift/shift.md)
+- ### [Logical Shift](./shift/shift.md#logical-shift)
+- ### [Arithmetic Shift](./shift/shift.md#arithmetic-shift)
+- ### [Rotate (Circular Shift)](./shift/shift.md#rotate-circular-shift)
+    - #### [Rotate (through carry)](./shift/shift.md#rotate-through-carry)
+- ### [Barrel Shifter](./shift/shift.md#barrel-shifter)
 
 # Comparator
 
