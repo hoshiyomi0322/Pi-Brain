@@ -74,3 +74,22 @@
 # Electrical Wiring and Cable
 - ### DuPont Jumper Wire
 
+# Feedback
+- ### Positive Feedback
+- ### Negative Feedback
+
+# Multivibrator
+||Astable Multivibrator|Monostable Multivibrator (One-Shot)|Bistable Multivibrator|
+|:---:|:---:|:---:|:---:|
+|**Number of Stable States**|0|1|2|
+|**External Trigger Requirement**|None|1 trigger|2 triggers|
+|**State Recovery Method**|Toggles back and forth automatically via internal RC charging/discharging|Automatically returns to its original state after the RC time constant elapses|Does not recover automatically, must wait for the next trigger|
+|**Output Waveform Characteristics**|Continuous square wave or rectangular wave|Single pulse of fixed width (One-shot)|Step voltage (maintains a steady HIGH or LOW level)|
+|**Example**|[Oscillator](#electronic-oscillator), Clock generator|Timer, Time-delay switch, Pulse shaping|[Flip-Flop](../digital-electronics-and-logic-design/digital-electronics/sequential-logic/memory-element/flip-flop.md), [Latch](../digital-electronics-and-logic-design/digital-electronics/sequential-logic/memory-element/latch.md)|
+
+# Electronic Oscillator
+- ### Harmonic Oscillator
+    - #### Feedback oscillator
+    - #### Negative Resistance Oscillator
+- ### Relaxation Oscillator
+

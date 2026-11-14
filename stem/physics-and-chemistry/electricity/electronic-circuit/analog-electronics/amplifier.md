@@ -16,8 +16,9 @@
     - ### Common-Base Amplifier
     - ### Common-Collector Amplifier
 
----
+# Differentiator and Integrator
 - ### Differentiator
 - ### Integrator
-- ### Comparator
-    - ### Schmitt Trigger
+
+# Comparator
+- ### Schmitt Trigger

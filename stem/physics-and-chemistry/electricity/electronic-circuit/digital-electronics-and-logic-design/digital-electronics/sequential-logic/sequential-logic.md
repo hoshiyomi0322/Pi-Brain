@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|
 |**Sequential Circuit**|<img src="./image/synchronous-sequential-circuit.png" width="35%">|<img src="./image/asynchronous-sequential-circuit.png" width="35%">|
 |**Clock Signal**|Present (global clock controls all memory elements)|Absent or uses independent clocks|
-|**Memory Element**|[Flip-Flop (FF)](./memory-element/flip-flop.md)|[Latch](./memory-element/latch.md) or Delay Element|
+|**Memory Element**|[Flip-Flop](./memory-element/flip-flop.md)|[Latch](./memory-element/latch.md) or Delay Element|
 |**Triggering Method**|[Edge-triggering](#edge-triggering)|[Level-triggering](#level-triggering) or direct input change|
 |**Design Complexity**|Easier, Predictable, Reliable|More difficult, Prone to [race conditions]() and hazards|
 |**Speed**|Slower (limited by maximum clock frequency)|Faster (no waiting for clock edges)|
@@ -42,7 +42,7 @@
     |:---:|:---:|:---:|
     |**Rising Edge-triggering<br>(Positive Edge-triggering)**|active on the transition from low to high (0 $\to$ 1)|<img src="./image/rising-edge-triggering.png" width="40%">|
     |**Falling Edge-triggering<br>(Negative Edge-triggering)**|active on the transition from high to low (1 $\to$ 0)|<img src="./image/falling-edge-triggering.png" width="40%">|
-    - Memory Element：[Flip-Flop (FF)](./memory-element/flip-flop.md)
+    - Memory Element：[Flip-Flop](./memory-element/flip-flop.md)
 
 # Input Signals
 - ### Clock input ($clk$)
@@ -53,7 +53,7 @@
     |$0$|Hold|
     |$1$|Reset|
     - Clear Negative：$ClrN=\overline{Clr}$
-- ### Feedback：part of the output is feedback to the input
+- ### [Feedback](../../../electronics/electronics.md#feedback)：part of the output is fed back to the input {#feedback}
 
 # Clock Gating
 - ### Clock Gating：When a register is not in use, turn off its clock to reduce dynamic power.

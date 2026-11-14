@@ -1,8 +1,8 @@
 # Circular Shift Register
 ||[Ring Counter](#ring-counter)|[Johnson Counter](#johnson-counter)|
 |:---:|:---:|:---:|
-|Feedback|Non-Inverted|Inverted|
-|Number of States ($n$-bit)|$n$|$2n$|
+|**[Feedback](../../sequential-logic.md#feedback)**|Non-Inverted|Inverted|
+|**Number of States ($n$-bit)**|$n$|$2n$|
 - ### [State-Transition Table](../../finite-state-machine/representations-of-finite-state-machine.md#state-transition-table)
     |Current State|Next State|
     |:---:|:---:|
