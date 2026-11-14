@@ -107,7 +107,8 @@
     - 強Quadriga + SA3
 - ### OD Quadriga Combo
     - OD Quadriga + SA3
-    - Corner：OD Quadriga + [4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-air-combo)/SA2
+    - QQH：OD Quadriga + [DR 6HK-Dimachaerus Air Combo](./marisa-heavy-attack-combo/marisa-6hk-combo.md#dr-6hk-dimachaerus-air-combo)
+    - Near-wall：OD Quadriga + [4HP Air Combo](./marisa-heavy-attack-combo/marisa-4hp-combo.md#4hp-air-combo)/SA2
 
 # Quadriga Air Combo
 - ### 弱Quadriga Air Combo
