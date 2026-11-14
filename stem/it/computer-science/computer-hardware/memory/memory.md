@@ -1,5 +1,5 @@
 # Memory Hierarchy
-<div align="center"><img src="./image/memory-hierarchy.png" width="55%"></div>
+<div align="center"><img src="./image/memory-hierarchy.png" width="30%"></div>
 
 - ### [Register](../../computer-organization-and-architecture/isa/isa.md#register)
 - ### Cache (L1 Cache → L2 Cache → L3 Cache → L4 Cache)
@@ -11,7 +11,7 @@
     - #### [ROM](./non-volatile-memory/non-volatile-memory.md#read-only-memory-rom)
         - run [BIOS](../../computer-organization-and-architecture/firmware.md#basic-inputoutput-system-bios)
 
-            <img src="./image/bios.png" width="15%">
+            <img src="./image/bios.png" width="7%">
 - ### Secondary Storage
     - #### [Solid-State Storage](./non-volatile-memory/non-volatile-memory.md#solid-state-storage)
     - #### [Magnetic Storage](./non-volatile-memory/magnetic-storage.md)
