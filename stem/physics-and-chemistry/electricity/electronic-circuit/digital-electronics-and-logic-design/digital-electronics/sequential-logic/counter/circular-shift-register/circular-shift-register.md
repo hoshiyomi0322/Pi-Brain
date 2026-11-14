@@ -3,20 +3,31 @@
 |:---:|:---:|:---:|
 |**[Feedback](../../sequential-logic.md#feedback)**|Non-Inverted|Inverted|
 |**Number of States ($n$-bit)**|$n$|$2n$|
+- ### Signals
+    - $clk=\href{../../sequential-logic.md#clk}{Clock input}$
+    - $Reset$
+    - $D=\text{Data input}$
+    - $Q=\text{Data output}$
 - ### [State-Transition Table](../../finite-state-machine/representations-of-finite-state-machine.md#state-transition-table)
     |Current State|Next State|
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
     |$S_{m-1}$|$S_0$|
     - $m=\text{Number of States}$
-- ### Uses [Shift Register](../../shift-register/shift-register.md) ([D Flip-Flop](../../memory-element/flip-flop.md#d-flip-flop-data))
+- ### Uses [SISO Shift Register](../../shift-register/shift-register.md#serial-in-serial-out-siso) ([D Flip-Flop](../../memory-element/flip-flop.md#d-flip-flop-data))
 
 # Ring Counter
-- ### Encoding：One-Hot
+- ### Encoding：[One-Hot](../../../../digital-electronics-and-logic-design.md#one-hot)
 - ### State ($n$-bit)：$S_i=\underbrace{0\cdots 0}_{i}\,1\,\underbrace{0\cdots 0}_{n-i-1}$
 - ### Logic Diagram ($4$-bit)
     <img src="./image/ring-counter.png" width="60%">
-- ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table) ($4$-bit)
+- ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table)
+    |Action|$Reset$|$clk$|$Q$|
+    |:---:|:---:|:---:|:---:|
+    |Reset|$1$|X|$Q_i = \begin{cases} 1 & i=1 \\ 0 & i \neq 1 \end{cases}$|
+    |Hold|$0$|$0/1/\downarrow$|$Q_i = Q_i$|
+    |Shift|$0$|$\uparrow$|$Q_i = \begin{cases} Q_m & i=1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
+- ### State Table ($4$-bit)
     |State|Data Ouput ($Q_1 Q_2 Q_3 Q_4$)|
     |:---:|:---:|
     |$S_0$|1000|
@@ -28,7 +39,13 @@
 - ### State ($n$-bit)：$S_i=\begin{cases}{\underbrace{1\cdots 1}_{i}\,\underbrace{0\cdots 0}_{n-i}}&{\text{if }0\leq i\leq n}\\ {\underbrace{0\cdots 0}_{i-n}\,\underbrace{1\cdots 1}_{2n-i}}&{\text{if }n<i< 2n}\end{cases}$
 - ### Logic Diagram ($4$-bit)
     <img src="./image/johnson-counter.png" width="60%">
-- ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table) ($4$-bit)
+- ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table)
+    |Action|$Reset$|$clk$|$Q$|
+    |:---:|:---:|:---:|:---:|
+    |Reset|$1$|X|$Q_i = 0$|
+    |Hold|$0$|$0/1/\downarrow$|$Q_i = Q_i$|
+    |Shift|$0$|$\uparrow$|$Q_i = \begin{cases} \overline{Q_m} & i = 1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
+- ### State Table ($4$-bit)
     |State|Data Ouput ($Q_1 Q_2 Q_3 Q_4$)|
     |:---:|:---:|
     |$S_0$|0000|
@@ -39,4 +56,3 @@
     |$S_5$|0111|
     |$S_6$|0011|
     |$S_7$|0001|
-

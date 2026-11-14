@@ -45,9 +45,12 @@
     - Memory Element：[Flip-Flop](./memory-element/flip-flop.md)
 
 # Input Signals
-- ### Clock input ($clk$)
+- ### Clock input ($clk$) {#clk}
+    - [Edge-triggering](#edge-triggering)
+        - $\uparrow$ = [Rising Edge](#edge-triggering)
+        - $\downarrow$ = [Falling Edge](#edge-triggering)
     - Clock Domain Crossing (CDC)
-- ### Clear ($Clr$)：Clear the State
+- ### Clear ($Clr$)：Clear the State {#clear}
     |$Clr$|Action|
     |:---:|:---:|
     |$0$|Hold|

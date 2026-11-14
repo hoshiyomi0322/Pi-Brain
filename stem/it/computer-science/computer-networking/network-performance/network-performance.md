@@ -23,7 +23,7 @@
     - ### Queuing Delay ($D_{que}$)
     - ### Transmission Delay：$D_{tran}=\frac{L}{R}$
         - $L = \text{Packet Length (bits)}$
-        - $R = \href{#/stem/it/computer-science/computer-networking/network-performance/data-transfer-rate?id=data-transfer-rate}{\text{Data Transfer Rate}}\text{ (bps)}$
+        - $R = \href{/stem/it/computer-science/computer-networking/network-performance/data-transfer-rate?id=data-transfer-rate}{\text{Data Transfer Rate}}\text{ (bps)}$
     - ### Propagation Delay：$D_{prop}=\frac{d}{s}$
         - $d = \text{distance of link}$
         - $s = \text{propagation speed}$

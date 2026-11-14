@@ -23,8 +23,8 @@
 - ### Probabilistic Model
 - ### [Expected Value (Expectation, Mean)](expected-value.md)
 - ### [Variance](../statistics/variance.md#variance)
-- ### $\href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=mode}{\text{Mode}} \text{ of Continuous Random Variable} = \mathop{\text{argmax}}\limits_α{~f\left(α\right)}$ {#mode-of-continuous-random-variable}
-    - $\big( α=\text{Mode},~f\left(α\right)=\href{#/stem/math/algebra/calculus/differential-calculus?id=extremum}{\text{Maximum}} \text{ of } \href{#/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/distribution-function?id=probability-function}{\text{PDF}} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
+- ### $\href{/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=mode}{\text{Mode}} \text{ of Continuous Random Variable} = \mathop{\text{argmax}}\limits_α{~f\left(α\right)}$ {#mode-of-continuous-random-variable}
+    - $\big( α=\text{Mode},~f\left(α\right)=\href{/stem/math/algebra/calculus/differential-calculus?id=extremum}{\text{Maximum}} \text{ of } \href{/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/distribution-function?id=probability-function}{\text{PDF}} \big) ,~\text{when } \big( f^\prime\left(α\right)=0,~f^{\prime\prime}\left(α\right)<0 \big)$
 - ### [Moment](#moment)
 
 # Inequality
@@ -38,16 +38,16 @@
     ![central-limit-theorem](./image/central-limit-theorem.png ':size=60%')
     - $X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right) \xrightarrow{n \to \infty} \overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)$
     - #### Population Distribution ([IID](./probability-distribution/probability-distribution.md#independent-and-identically-distributed-iid))：$X_1,~\cdots,~X_n \overset{i.i.d.}{\sim} D\left(θ_1,\cdots,~θ_k\right)$
-        - $μ = \href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=arithmetic-mean-am}{\text{Population Mean}}$
-        - $σ^2 = \href{#/stem/math/probability-theory-and-statistics/statistics/variance?id=variance}{\text{Population Variance}}$
-        - $σ = \href{#/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=standard-deviation-sd}{\text{Population Standard Deviation}}$
+        - $μ = \href{/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=arithmetic-mean-am}{\text{Population Mean}}$
+        - $σ^2 = \href{/stem/math/probability-theory-and-statistics/statistics/variance?id=variance}{\text{Population Variance}}$
+        - $σ = \href{/stem/math/probability-theory-and-statistics/statistics/descriptive-statistics?id=standard-deviation-sd}{\text{Population Standard Deviation}}$
     - #### [Sampling Distribution](../statistics/data-collection/sampling/sampling.md#sampling-distribution) of the mean ([Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#normal-distribution-gaussian-distribution))：$\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right)$
-        - $\overline{X} = \href{#/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator?id=sample-mean}{\text{Sample Mean}}$
+        - $\overline{X} = \href{/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator?id=sample-mean}{\text{Sample Mean}}$
         - $n = \text{Sample Size}$
     - #### [Standard Normal Distribution](./probability-distribution/continuous-probability-distribution/continuous-probability-distribution.md#standard-normal-distribution-)：$Z\sim N\left(0,~1\right)$
         - #### [Standardization](../statistics/descriptive-statistics.md#standardization)：$\overline{X}\sim N\left(μ,~\frac{σ^2}{n}\right) \xrightarrow{Standardize} Z\sim N\left(0,~1\right)$
         - #### [Z-score](../statistics/descriptive-statistics.md#standard-score-z-score)：$Z=\frac{\overline{X}-μ}{σ/\sqrt{n}} = \frac{\overline{X}-μ}{SE}$
-            - $SE = \href{#/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator?id=standard-error-se}{\text{Standard Error (SE)}}$
+            - $SE = \href{/stem/math/probability-theory-and-statistics/statistics/data-analysis/statistical-inference/estimation/point-estimation/estimator/estimator?id=standard-error-se}{\text{Standard Error (SE)}}$
 
 - ### Law of Large Numbers
 

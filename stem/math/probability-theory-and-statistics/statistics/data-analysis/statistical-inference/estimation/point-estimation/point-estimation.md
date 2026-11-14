@@ -16,7 +16,7 @@
 # Properties of Sample Statistics
 - ### Sufficiency
     -  #### $T\text{ is Sufficient Statistic} \iff f\left(X|θ\right) = g\left( T,~θ \right) h\left(X\right)$
-    - $f\left(X|θ\right) = \href{#/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/joint-distribution/joint-distribution-function?id=conditional-probability-function}{\text{Conditional Probability Function}}$
+    - $f\left(X|θ\right) = \href{/stem/math/probability-theory-and-statistics/probability-theory/probability-distribution/joint-distribution/joint-distribution-function?id=conditional-probability-function}{\text{Conditional Probability Function}}$
 - ### Completeness
     - #### $T\text{ is Complete Statistic} \iff \forall g\Big( \text{If }\big( E_θ\left[ g\left(T\right) \right]=0 ,~\forall θ \big) ,~\text{then } \big( P_θ\left( g\left(T\right)=0 \right)=1 ,~\forall θ \big) \Big)$
 - ### [Properties of Estimators](estimator/properties-of-estimators.md)

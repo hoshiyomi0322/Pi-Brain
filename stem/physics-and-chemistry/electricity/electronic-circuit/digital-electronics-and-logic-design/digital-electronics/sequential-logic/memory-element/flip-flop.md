@@ -1,7 +1,5 @@
 # Signals
-- ### $clk=\text{Clock input}$
-    - $\uparrow$ = [Rising Edge](../sequential-logic.md#edge-triggering)
-    - $\downarrow$ = [Falling Edge](../sequential-logic.md#edge-triggering)
+- ### $clk=\href{../sequential-logic.md#clk}{Clock input}$
 - ### $Q=\text{Present state}$
 - ### $Q_{next}=\text{Next state}$
 

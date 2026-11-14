@@ -4,8 +4,8 @@
 - ### Net input：$z = \left( \sum{wx} \right) + b$
     - $x$ = input
     - [Parameters](../ann.md#parameters)
-        - $w = \href{#/stem/it/machine-learning/ann/ann?id=weight}{\text{weight}}$
-        - $b = \href{#/stem/it/machine-learning/ann/ann?id=bias}{\text{bias}}$
+        - $w = \href{/stem/it/machine-learning/ann/ann?id=weight}{\text{weight}}$
+        - $b = \href{/stem/it/machine-learning/ann/ann?id=bias}{\text{bias}}$
 - ### Activation Function：$y=f\left(z\right)$
     - $y$ = output
 
