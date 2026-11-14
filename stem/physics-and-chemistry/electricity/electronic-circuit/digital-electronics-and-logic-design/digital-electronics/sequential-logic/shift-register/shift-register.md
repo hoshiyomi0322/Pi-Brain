@@ -23,6 +23,12 @@
 - ### Logic Diagram (4-bit)
     <img src="./image/pipo.png" width="60%">
 
+# Bidirectional Shift Register
+- ### Logic Diagram (4-bit)
+    <img src="./image/bidirectional-shift-register.png" width="60%">
+
+# Universal Shift Register
+
 # Linear Feedback Shift Register (LFSR)
 - ### Number of States ($n$-bit)：$2^n-1$
 
