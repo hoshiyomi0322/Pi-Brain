@@ -85,7 +85,7 @@
 # Consensus Theorem
 - ### Consensus Term
 - ### Form
-    |Form|Boolean Expression|Consensus Term|
+    |Form|[Boolean Expression](digital-electronics-and-logic-design.md#boolean-expression)|Consensus Term|
     |:---:|:---:|:---:|
     |[SOP Form](#sop)|$xy+\overline{x}z+yz=xy+\overline{x}z$|$yz$|
     |[POS Form](#pos)|$\left(x+y\right) \left(\overline{x}+z\right) \left(y+z\right)=\left(x+y\right) \left(\overline{x}+z\right)$|$\left(y+z\right)$|

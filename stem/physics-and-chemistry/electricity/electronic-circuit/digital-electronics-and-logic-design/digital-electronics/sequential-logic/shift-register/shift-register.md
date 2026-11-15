@@ -28,9 +28,9 @@
 # Parallel-In Serial-Out (PISO)
 - ### Logic Diagram (4-bit)
     <img src="./image/piso.png" width="60%">
-- ### Additional Input：$Shift$ ($\overline{Load}$)
+- ### Additional Input：$\text{Shift}/\overline{\text{Load}}$
 - ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
-    |Action|$clk$|$Shift$ ($\overline{Load}$)|$Q_i$|
+    |Action|$clk$|$\text{Shift}/\overline{\text{Load}}$|$Q_i$|
     |:---:|:---:|:---:|:---:|
     |Hold|$0/1/\downarrow$|X|$Q_i$|
     |Load|$\uparrow$|$0$|$D_i$|
@@ -48,9 +48,9 @@
 # Bidirectional Shift Register
 - ### Logic Diagram (4-bit, SISO)
     <img src="./image/bidirectional-shift-register.png" width="60%">
-- ### Additional Input：$Right$ ($\overline{Left}$)
+- ### Additional Input：$\text{Right}/\overline{\text{Left}}$
 - ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
-    |Action|$Right$ ($\overline{Left}$)|$clk$|$Q_i$|
+    |Action|$\text{Right}/\overline{\text{Left}}$|$clk$|$Q_i$|
     |:---:|:---:|:---:|:---:|
     |Hold|X|$0/1/\downarrow$|$Q_i$|
     |Shift Left|$0$|$\uparrow$|$\begin{cases} D & i=4 \\ Q_{i+1} & i\ne 4 \end{cases}$|

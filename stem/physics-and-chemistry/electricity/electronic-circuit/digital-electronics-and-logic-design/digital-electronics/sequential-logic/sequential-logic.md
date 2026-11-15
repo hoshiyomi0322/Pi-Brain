@@ -64,7 +64,7 @@
 - ### Input Signals
     - ### $clk=\href{#clk}{\text{Clock input}}$
     - ### $en=\text{Enable}$
-- ### Boolean Expression：$output=clk\cdot en$
+- ### [Boolean Expression](../../digital-electronics-and-logic-design.md#boolean-expression)：$output=clk\cdot en$
 - ### [Truth Table](../../digital-electronics-and-logic-design.md#truth-table)
     |$en$|$output$|
     |:---:|:---:|

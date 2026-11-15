@@ -14,7 +14,7 @@
 - ### [Verilog](./hdl/verilog.md)
 
 # [Logic](/stem/math/discrete-mathematics/mathematical-logic/mathematical-logic.md#logical-connective-logical-operator) Gate
-|Logic Gate|Boolean Expression|Logic Diagram Symbol|
+|Logic Gate|[Boolean Expression](#boolean-expression)|Logic Diagram Symbol|
 |:---:|:---:|:---:|
 |Buffer|$A$|<img src="./image/buffer.png" width="50%">|
 |NOT|$\overline{A},~A'$|<img src="./image/not.png" width="50%">|

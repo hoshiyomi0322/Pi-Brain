@@ -4,7 +4,7 @@
 |**[Feedback](../../sequential-logic.md#feedback)**|Non-Inverted|Inverted|
 |**Number of States ($n$-bit)**|$m=n$|$m=2n$|
 - ### Signals
-    - $clk=\href{../sequential-logic.md#clk}{\text{Clock input}}$
+    - $clk=\href{../../sequential-logic.md#clk}{\text{Clock input}}$
     - $Reset$
     - $D=\text{Data input}$
     - $Q=\text{Data output}$

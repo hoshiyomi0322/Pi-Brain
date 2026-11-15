@@ -1,4 +1,7 @@
 # Binary Counter
+- ### Signals
+    - $clk=\href{../sequential-logic.md#clk}{\text{Clock input}}$
+    - $Q=\text{Data output}$
 - ### Number of States ($n$-bit)：$m=2^n$
 - ### Binary Up Counter
     - #### State Table ($3$-bit)
@@ -38,14 +41,14 @@
 # Synchronous Binary Counter
 - ### Synchronous [Binary Up Counter](#binary-up-counter)
     - #### Logic Diagram (4-bit)
-        <img src="./image/asynchronous-binary-up-counter.png" width="60%">
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table) ($3$-bit)
+        <img src="./image/synchronous-binary-up-counter.png" width="60%">
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
         - $Q_1$
             |Action|$clk$|$Q_1$|
             |:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|$Q_1$|
             |Toggle|$\uparrow$|$\overline{Q_1}$|
-        - $Q_i, i\ne1$
+        - $Q_i,~i\ne1$
             |Action|$clk$|$Q_1 \cdots Q_{i-1}$|$Q_i$|
             |:---:|:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|x|$Q_i$|
@@ -53,51 +56,86 @@
             |Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
 - ### Synchronous [Binary Down Counter](#binary-down-counter)
     - #### Logic Diagram (4-bit)
-        <img src="./image/asynchronous-binary-down-counter.png" width="60%">
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table) ($3$-bit)
+        <img src="./image/synchronous-binary-down-counter.png" width="60%">
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
         - $Q_1$
             |Action|$clk$|$Q_1$|
             |:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|$Q_1$|
             |Toggle|$\uparrow$|$\overline{Q_1}$|
-        - $Q_i, i\ne1$
-            |Action|$clk$|$Q_1 \cdots Q_{i-1}$|$Q_i$|
+        - $Q_i,~i\ne1$
+            |Action|$clk$|$\overline{Q_1} \cdots \overline{Q_{i-1}}$|$Q_i$|
             |:---:|:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|x|$Q_i$|
-            |Hold|$\uparrow$|$1$|$Q_i$|
-            |Toggle|$\uparrow$|$0$|$\overline{Q_i}$|
+            |Hold|$\uparrow$|$0$|$Q_i$|
+            |Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
 
 # Asynchronous Binary Counter (Ripple Counter)
 - ### Asynchronous [Binary Up Counter](#binary-up-counter)
     - #### Logic Diagram (4-bit)
         <img src="./image/asynchronous-binary-up-counter.png" width="60%">
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table) ($3$-bit)
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
         - $Q_1$
             |Action|$clk$|$Q_1$|
             |:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|$Q_1$|
             |Toggle|$\uparrow$|$\overline{Q_1}$|
-        - $Q_i, i\ne1$
-            |Action|$Q_{i-1}$|$Q_i$|
+        - $Q_i,~i\ne1$
+            |Action|$\overline{Q_{i-1}}$|$Q_i$|
             |:---:|:---:|:---:|
-            |Hold|$0/1/\uparrow$|$Q_i$|
-            |Toggle|$\downarrow$|$\overline{Q_i}$|
+            |Hold|$0/1/\downarrow$|$Q_i$|
+            |Toggle|$\uparrow$|$\overline{Q_i}$|
 - ### Asynchronous [Binary Down Counter](#binary-down-counter)
     - #### Logic Diagram (4-bit)
         <img src="./image/asynchronous-binary-down-counter.png" width="60%">
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table) ($3$-bit)
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
         - $Q_1$
             |Action|$clk$|$Q_1$|
             |:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|$Q_1$|
             |Toggle|$\uparrow$|$\overline{Q_1}$|
-        - $Q_i, i\ne1$
+        - $Q_i,~i\ne1$
             |Action|$Q_{i-1}$|$Q_i$|
             |:---:|:---:|:---:|
             |Hold|$0/1/\downarrow$|$Q_i$|
             |Toggle|$\uparrow$|$\overline{Q_i}$|
 
-# Up/Down Binary Counter
-- ### Synchronous Up/Down Binary Counter
-- ### Asynchronous Up/Down Binary Counter
-
+# Binary Up/Down Counter
+- ### Signals
+    - $\text{UP}/\overline{\text{DOWN}}$
+- ### Synchronous Binary Up/Down Counter
+    - #### Logic Diagram (4-bit)
+        <img src="./image/synchronous-binary-up-down-counter.png" width="60%">
+    - #### [Boolean Expression](../../../digital-electronics-and-logic-design.md#boolean-expression)
+        - $J_1=K_1=1$
+        - $J_i=K_i = \text{UP}\cdot\left(Q_1 \cdots Q_{i-1}\right) + \text{DOWN}\cdot\left(\overline{Q_1} \cdots \overline{Q_{i-1}}\right) ,~i\ne1$
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
+        - $Q_1$
+			|Action|$clk$|$Q_1$|
+			|:---:|:---:|:---:|
+			|Hold|$0/1/\downarrow$|$Q_1$|
+			|Toggle|$\uparrow$|$\overline{Q_1}$|
+		- $Q_i,~i\ne1$
+            |Action|$clk$|$J_i,~K_i$|$Q_i$|
+			|:---:|:---:|:---:|:---:|
+			|Hold|$0/1/\downarrow$|X|$Q_i$|
+			|Hold|$\uparrow$|$0$|$Q_i$|
+			|Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
+- ### Asynchronous Binary Up/Down Counter
+    - #### Logic Diagram (4-bit)
+        <img src="./image/asynchronous-binary-up-down-counter.png" width="60%">
+    - #### [Boolean Expression](../../../digital-electronics-and-logic-design.md#boolean-expression)
+		- $J_i = K_i = 1$
+		- $CLK_1 = clk$
+		- $CLK_i = \text{UP}\cdot\left(Q_1 \cdots Q_{i-1}\right) + \text{DOWN}\cdot\left(\overline{Q_1} \cdots \overline{Q_{i-1}}\right) ,~i\ne1$
+    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
+        - $Q_1$
+			|Action|$clk$|$Q_1$|
+			|:---:|:---:|:---:|
+			|Hold|$0/1/\downarrow$|$Q_1$|
+			|Toggle|$\uparrow$|$\overline{Q_1}$|
+		- $Q_i,~i\ne1$
+			|Action|$CLK_i$|$Q_i$|
+			|:---:|:---:|:---:|
+			|Hold|$0/1/\downarrow$|$Q_i$|
+			|Toggle|$\uparrow$|$\overline{Q_i}$|
