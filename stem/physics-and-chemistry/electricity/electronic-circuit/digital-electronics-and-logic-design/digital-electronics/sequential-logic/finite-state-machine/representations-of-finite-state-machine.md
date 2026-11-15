@@ -1,8 +1,8 @@
 # Representations of Finite State Machine
 - ### State Transition Table
 - ### State Graph
-    - Element：State, Input, Next State, Ouput
-    - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Ouput}$
+    - Element：State, Input, Next State, Output
+    - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Output}$
 - ### Example
     - #### State Transition Table
         <table border="1">

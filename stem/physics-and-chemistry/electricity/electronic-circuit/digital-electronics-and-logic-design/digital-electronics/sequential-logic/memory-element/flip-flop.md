@@ -1,5 +1,5 @@
 # Signals
-- ### $clk=\href{../sequential-logic.md#clk}{Clock input}$
+- ### $clk=\href{../sequential-logic.md#clk}{\text{Clock input}}$
 - ### $Q=\text{Present state}$
 - ### $Q_{next}=\text{Next state}$
 

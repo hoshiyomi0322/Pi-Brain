@@ -1,7 +1,7 @@
 # Sequential Circuit
 ||Synchronous Sequential Circuit|Asynchronous Sequential Circuit|
 |:---:|:---:|:---:|
-|**Sequential Circuit**|<img src="./image/synchronous-sequential-circuit.png" width="35%">|<img src="./image/asynchronous-sequential-circuit.png" width="35%">|
+|**Sequential Circuit**|<img src="./image/synchronous-sequential-circuit.png" width="45%">|<img src="./image/asynchronous-sequential-circuit.png" width="45%">|
 |**Clock Signal**|Present (global clock controls all memory elements)|Absent or uses independent clocks|
 |**Memory Element**|[Flip-Flop](./memory-element/flip-flop.md)|[Latch](./memory-element/latch.md) or Delay Element|
 |**Triggering Method**|[Edge-triggering](#edge-triggering)|[Level-triggering](#level-triggering) or direct input change|
@@ -62,7 +62,7 @@
 - ### Clock Gating：When a register is not in use, turn off its clock to reduce dynamic power.
     - Cons：potential timing issues and synchronization problems
 - ### Input Signals
-    - ### $clk=\text{Clock input}$
+    - ### $clk=\href{#clk}{\text{Clock input}}$
     - ### $en=\text{Enable}$
 - ### Boolean Expression：$output=clk\cdot en$
 - ### [Truth Table](../../digital-electronics-and-logic-design.md#truth-table)
@@ -70,4 +70,3 @@
     |:---:|:---:|
     |$0$|$0$|
     |$1$|$clk$|
-

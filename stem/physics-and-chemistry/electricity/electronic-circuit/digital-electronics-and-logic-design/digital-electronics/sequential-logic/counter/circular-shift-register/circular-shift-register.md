@@ -2,9 +2,9 @@
 ||[Ring Counter](#ring-counter)|[Johnson Counter](#johnson-counter)|
 |:---:|:---:|:---:|
 |**[Feedback](../../sequential-logic.md#feedback)**|Non-Inverted|Inverted|
-|**Number of States ($n$-bit)**|$n$|$2n$|
+|**Number of States ($n$-bit)**|$m=n$|$m=2n$|
 - ### Signals
-    - $clk=\href{../../sequential-logic.md#clk}{Clock input}$
+    - $clk=\href{../sequential-logic.md#clk}{\text{Clock input}}$
     - $Reset$
     - $D=\text{Data input}$
     - $Q=\text{Data output}$
@@ -13,7 +13,6 @@
     |:---:|:---:|
     |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
     |$S_{m-1}$|$S_0$|
-    - $m=\text{Number of States}$
 - ### Uses [SISO Shift Register](../../shift-register/shift-register.md#serial-in-serial-out-siso) ([D Flip-Flop](../../memory-element/flip-flop.md#d-flip-flop-data))
 
 # Ring Counter
@@ -22,13 +21,13 @@
 - ### Logic Diagram ($4$-bit)
     <img src="./image/ring-counter.png" width="60%">
 - ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table)
-    |Action|$Reset$|$clk$|$Q$|
+    |Action|$Reset$|$clk$|$Q_i$|
     |:---:|:---:|:---:|:---:|
-    |Reset|$1$|X|$Q_i = \begin{cases} 1 & i=1 \\ 0 & i \neq 1 \end{cases}$|
-    |Hold|$0$|$0/1/\downarrow$|$Q_i = Q_i$|
-    |Shift|$0$|$\uparrow$|$Q_i = \begin{cases} Q_m & i=1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
+    |Reset|$1$|X|$\begin{cases} 1 & i=1 \\ 0 & i \neq 1 \end{cases}$|
+    |Hold|$0$|$0/1/\downarrow$|$Q_i$|
+    |Shift|$0$|$\uparrow$|$\begin{cases} Q_m & i=1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
 - ### State Table ($4$-bit)
-    |State|Data Ouput ($Q_1 Q_2 Q_3 Q_4$)|
+    |State|Data Output ($Q_1 Q_2 Q_3 Q_4$)|
     |:---:|:---:|
     |$S_0$|1000|
     |$S_1$|0100|
@@ -40,13 +39,13 @@
 - ### Logic Diagram ($4$-bit)
     <img src="./image/johnson-counter.png" width="60%">
 - ### [Truth Table](../../../../digital-electronics-and-logic-design.md#truth-table)
-    |Action|$Reset$|$clk$|$Q$|
+    |Action|$Reset$|$clk$|$Q_i$|
     |:---:|:---:|:---:|:---:|
-    |Reset|$1$|X|$Q_i = 0$|
-    |Hold|$0$|$0/1/\downarrow$|$Q_i = Q_i$|
-    |Shift|$0$|$\uparrow$|$Q_i = \begin{cases} \overline{Q_m} & i = 1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
+    |Reset|$1$|X|$0$|
+    |Hold|$0$|$0/1/\downarrow$|$Q_i$|
+    |Shift|$0$|$\uparrow$|$\begin{cases} \overline{Q_m} & i = 1 \\ Q_{i-1} & i \neq 1 \end{cases}$|
 - ### State Table ($4$-bit)
-    |State|Data Ouput ($Q_1 Q_2 Q_3 Q_4$)|
+    |State|Data Output ($Q_1 Q_2 Q_3 Q_4$)|
     |:---:|:---:|
     |$S_0$|0000|
     |$S_1$|1000|
