@@ -7,8 +7,8 @@
     - $λ$ = <a href="#output-function-">Output Function</a>
     - $q_0$ = Start State ($q_0\in Q$)
     - $F$ = a set of Accept States ($F\subseteq Q$)
-    - $ε$ = Empty [String](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#string)
-    - $\mathcal{P}\left(\right)$ = [Power Set](/stem/math/discrete-mathematics/set-theory/set-theory.md#power-set)
+    - $ε$ = Empty <a href="/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/automata-theory-and-formal-languages.md#string">String</a>
+    - $\mathcal{P}\left(\right)$ = <a href="/stem/math/discrete-mathematics/set-theory/family-of-sets.md#power-set">Power Set</a>
     - $\times$ = <a href="/stem/math/discrete-mathematics/set-theory/set-theory.md#cartesian-product">Cartesian Product</a>
 - ### State Transition Function ($δ$)
     - Example：$δ:Q \times Σ \to Q$
