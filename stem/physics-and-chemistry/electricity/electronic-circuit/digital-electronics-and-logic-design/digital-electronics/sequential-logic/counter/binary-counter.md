@@ -37,6 +37,7 @@
         |:---:|:---:|
         |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
         |$S_{m-1}$|$S_0$|
+- ### Uses [JK Flip-Flop](../memory-element/flip-flop.md#jk-flip-flop)
 
 # Synchronous Binary Counter
 - ### Synchronous [Binary Up Counter](#binary-up-counter)
@@ -51,7 +52,7 @@
         - $Q_i,~i\ne1$
             |Action|$clk$|$Q_1 \cdots Q_{i-1}$|$Q_i$|
             |:---:|:---:|:---:|:---:|
-            |Hold|$0/1/\downarrow$|x|$Q_i$|
+            |Hold|$0/1/\downarrow$|X|$Q_i$|
             |Hold|$\uparrow$|$0$|$Q_i$|
             |Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
 - ### Synchronous [Binary Down Counter](#binary-down-counter)
@@ -66,7 +67,7 @@
         - $Q_i,~i\ne1$
             |Action|$clk$|$\overline{Q_1} \cdots \overline{Q_{i-1}}$|$Q_i$|
             |:---:|:---:|:---:|:---:|
-            |Hold|$0/1/\downarrow$|x|$Q_i$|
+            |Hold|$0/1/\downarrow$|X|$Q_i$|
             |Hold|$\uparrow$|$0$|$Q_i$|
             |Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
 
