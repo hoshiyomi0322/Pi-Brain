@@ -47,8 +47,8 @@
 # Input Signals
 - ### Clock input ($clk$) {#clk}
     - [Edge-triggering](#edge-triggering)
-        - $\uparrow$ = [Rising Edge](#edge-triggering)
-        - $\downarrow$ = [Falling Edge](#edge-triggering)
+        - $\uparrow = \href{#edge-triggering}{\text{Rising Edge}}$
+        - $\downarrow = \href{#edge-triggering}{\text{Falling Edge}}$
     - Clock Domain Crossing (CDC)
 - ### Clear ($Clr$)：Clear the State {#clear}
     |$Clr$|Action|
