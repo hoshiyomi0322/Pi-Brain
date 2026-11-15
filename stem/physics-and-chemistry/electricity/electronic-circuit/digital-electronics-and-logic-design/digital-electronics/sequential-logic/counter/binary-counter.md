@@ -100,42 +100,23 @@
             |Hold|$0/1/\downarrow$|$Q_i$|
             |Toggle|$\uparrow$|$\overline{Q_i}$|
 
-# Binary Up/Down Counter
+# Synchronous Binary Up/Down Counter
 - ### Signals
     - $\text{UP}/\overline{\text{DOWN}}$
-- ### Synchronous Binary Up/Down Counter
-    - #### Logic Diagram (4-bit)
-        <img src="./image/synchronous-binary-up-down-counter.png" width="60%">
-    - #### [Boolean Expression](../../../digital-electronics-and-logic-design.md#boolean-expression)
-        - $J_1=K_1=1$
-        - $J_i=K_i = \text{UP}\cdot\left(Q_1 \cdots Q_{i-1}\right) + \text{DOWN}\cdot\left(\overline{Q_1} \cdots \overline{Q_{i-1}}\right) ,~i\ne1$
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
-        - $Q_1$
-			|Action|$clk$|$Q_1$|
-			|:---:|:---:|:---:|
-			|Hold|$0/1/\downarrow$|$Q_1$|
-			|Toggle|$\uparrow$|$\overline{Q_1}$|
-		- $Q_i,~i\ne1$
-            |Action|$clk$|$J_i,~K_i$|$Q_i$|
-			|:---:|:---:|:---:|:---:|
-			|Hold|$0/1/\downarrow$|X|$Q_i$|
-			|Hold|$\uparrow$|$0$|$Q_i$|
-			|Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
-- ### Asynchronous Binary Up/Down Counter
-    - #### Logic Diagram (4-bit)
-        <img src="./image/asynchronous-binary-up-down-counter.png" width="60%">
-    - #### [Boolean Expression](../../../digital-electronics-and-logic-design.md#boolean-expression)
-		- $J_i = K_i = 1$
-		- $CLK_1 = clk$
-		- $CLK_i = \text{UP}\cdot\left(Q_1 \cdots Q_{i-1}\right) + \text{DOWN}\cdot\left(\overline{Q_1} \cdots \overline{Q_{i-1}}\right) ,~i\ne1$
-    - #### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
-        - $Q_1$
-			|Action|$clk$|$Q_1$|
-			|:---:|:---:|:---:|
-			|Hold|$0/1/\downarrow$|$Q_1$|
-			|Toggle|$\uparrow$|$\overline{Q_1}$|
-		- $Q_i,~i\ne1$
-			|Action|$CLK_i$|$Q_i$|
-			|:---:|:---:|:---:|
-			|Hold|$0/1/\downarrow$|$Q_i$|
-			|Toggle|$\uparrow$|$\overline{Q_i}$|
+- ### Logic Diagram (4-bit)
+    <img src="./image/synchronous-binary-up-down-counter.png" width="60%">
+- ### [Boolean Expression](../../../digital-electronics-and-logic-design.md#boolean-expression)
+    - $J_1=K_1=1$
+    - $J_i=K_i = \text{UP}\cdot\left(Q_1 \cdots Q_{i-1}\right) + \text{DOWN}\cdot\left(\overline{Q_1} \cdots \overline{Q_{i-1}}\right) ,~i\ne1$
+- ### [Truth Table](../../../digital-electronics-and-logic-design.md#truth-table)
+    - $Q_1$
+		|Action|$clk$|$Q_1$|
+		|:---:|:---:|:---:|
+		|Hold|$0/1/\downarrow$|$Q_1$|
+		|Toggle|$\uparrow$|$\overline{Q_1}$|
+	- $Q_i,~i\ne1$
+        |Action|$clk$|$J_i,~K_i$|$Q_i$|
+		|:---:|:---:|:---:|:---:|
+		|Hold|$0/1/\downarrow$|X|$Q_i$|
+		|Hold|$\uparrow$|$0$|$Q_i$|
+		|Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
