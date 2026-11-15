@@ -39,7 +39,7 @@
         |$S_{m-1}$|$S_0$|
 - ### Uses [JK Flip-Flop](../memory-element/flip-flop.md#jk-flip-flop)
 
-# Synchronous Binary Counter
+# [Synchronous](../sequential-logic.md#sequential-circuit) Binary Counter
 - ### Synchronous [Binary Up Counter](#binary-up-counter)
     - #### Logic Diagram (4-bit)
         <img src="./image/synchronous-binary-up-counter.png" width="60%">
@@ -71,7 +71,7 @@
             |Hold|$\uparrow$|$0$|$Q_i$|
             |Toggle|$\uparrow$|$1$|$\overline{Q_i}$|
 
-# Asynchronous Binary Counter (Ripple Counter)
+# [Asynchronous](../sequential-logic.md#sequential-circuit) Binary Counter (Ripple Counter)
 - ### Asynchronous [Binary Up Counter](#binary-up-counter)
     - #### Logic Diagram (4-bit)
         <img src="./image/asynchronous-binary-up-counter.png" width="60%">
@@ -101,7 +101,7 @@
             |Hold|$0/1/\downarrow$|$Q_i$|
             |Toggle|$\uparrow$|$\overline{Q_i}$|
 
-# Synchronous Binary Up/Down Counter
+# [Synchronous](../sequential-logic.md#sequential-circuit) Binary Up/Down Counter
 - ### Signals
     - $\text{UP}/\overline{\text{DOWN}}$
 - ### Logic Diagram (4-bit)
