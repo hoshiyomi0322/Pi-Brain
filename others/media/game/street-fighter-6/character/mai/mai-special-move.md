@@ -42,7 +42,7 @@
 - ### OD忍蜂 Combo
     - (OD忍蜂 + JMP) + 空插/[強昇竜 Combo]()/SA1/SA2
     - (OD忍蜂 + JMP) + (OD空插 + SA2)
-    - (OD忍蜂 + JMP) + (delay + 弱龍炎舞 + SA3)
+    - (OD忍蜂 + delay + JMP) + (弱龍炎舞 + SA3)
     - #### 帶火 OD忍蜂 Combo
         - (OD忍蜂(帶火) + JMP + OD空插(帶火)) + [強昇竜 Combo]()/SA1/SA3
         - (OD忍蜂(帶火) + JMP + OD空插(帶火)) + (delay(等落地) + SA2)
