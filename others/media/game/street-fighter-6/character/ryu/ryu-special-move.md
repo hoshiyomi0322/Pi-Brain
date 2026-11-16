@@ -20,8 +20,9 @@
 # 波掌撃 Combo
 - 波掌撃 + SA3
 - ### 強波掌撃 Combo
-    - 強波掌撃 + 中足刀/[OD足刀 Combo]()/[旋風腳 Combo]()
+    - 強波掌撃 + [足刀 Air Combo](#足刀-air-combo)/[旋風腳 Combo]()
     - 強波掌撃 + SA1/SA2/SA3
+    - ガード(強波掌撃) + [3F打摔擇](ryu.md#3f打摔擇-2f3f)
     - #### Corner 強波掌撃 Combo
         - (強波掌撃 + 強昇竜) + SA3
         - (強波掌撃 + 強昇竜) + (前ステ + [6MP 重ね](ryu.md#6mp-重ね-21f22f))
@@ -48,6 +49,19 @@
         - OD足刀 + [6HK Combo]()
         - OD足刀 + (4HK + [強昇竜 Combo](#強昇竜-combo)/SA1)
         - OD足刀 + SA2(Hold) + 消費(強旋風腳) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+
+# 足刀 Air Combo
+- ### 弱足刀 Air Combo
+    - 弱足刀
+- ### 中足刀 Air Combo
+    - 中足刀
+- ### 強足刀 Air Combo
+    - 強足刀
+- ### OD足刀 Air Combo
+    - #### Midscreen OD足刀 Air Combo
+        - OD足刀 + (4HK + [強昇竜 Combo](#強昇竜-combo)/SA1)
+        - OD足刀 + SA2(Hold) + 消費(強旋風腳) + [5F打摔擇](ryu.md#5f打摔擇-4f5f)
+
 
 # 旋風腳 Combo
 - ### 弱旋風腳 Combo
