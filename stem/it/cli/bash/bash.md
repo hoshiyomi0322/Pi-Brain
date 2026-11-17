@@ -148,6 +148,9 @@ sudo apt-get purge <package-name>
 
 # Shell Script
 - ### Shebang
+    ```bash
+    #!
+    ```
 
 # Linux Development Tools
 - ### Text Editor
