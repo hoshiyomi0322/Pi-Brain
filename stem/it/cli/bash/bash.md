@@ -146,6 +146,9 @@ sudo apt-get remove <package-name>
 sudo apt-get purge <package-name>
 ```
 
+# Shell Script
+- ### Shebang
+
 # Linux Development Tools
 - ### Text Editor
     - #### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim.md)
