@@ -15,6 +15,7 @@
 
 # [Counter](./counter/counter.md)
 - ### [Binary Counter](./counter/binary-counter.md)
+- ### [Mod-N Counter](./counter/counter.md#mod-n-counter)
 - ### [Circular Shift Register](./counter/circular-shift-register/circular-shift-register.md)
 
 # [Shift Register](./shift-register/shift-register.md)
@@ -44,7 +45,7 @@
     |**Falling Edge-triggering<br>(Negative Edge-triggering)**|active on the transition from high to low (1 $\to$ 0)|<img src="./image/falling-edge-triggering.png" width="40%">|
     - Memory Element：[Flip-Flop](./memory-element/flip-flop.md)
 
-# Input Signals
+# Clock Signal
 - ### Clock input ($clk$) {#clk}
     - [Edge-triggering](#edge-triggering)
         - $\uparrow = \href{#edge-triggering}{\text{Rising Edge}}$
@@ -57,6 +58,7 @@
     |$1$|Reset|
     - Clear Negative：$ClrN=\overline{Clr}$
 - ### [Feedback](../../../electronics/electronics.md#feedback)：part of the output is fed back to the input {#feedback}
+- ### Timing Diagram
 
 # Clock Gating
 - ### Clock Gating：When a register is not in use, turn off its clock to reduce dynamic power.
