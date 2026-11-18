@@ -9,6 +9,7 @@
 - ### 導通：Gate接高電位
 
 # Complementary MOSFET (CMOS)
+- ### Electrically Erasable CMOS (E²CMOS)
 
 # Double-diffused MOSFET (DMOS)
 

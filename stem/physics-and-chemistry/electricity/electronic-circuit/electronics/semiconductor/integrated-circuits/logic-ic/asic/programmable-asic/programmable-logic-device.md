@@ -6,3 +6,4 @@
 # Complex Programmable Logic Device (CPLD) {#cpld}
 
 # Field-Programmable Gate Array (FPGA) {#fpga}
+- ### Configurable Logic Block (CLB)
