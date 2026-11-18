@@ -12,4 +12,4 @@
 |Frequency-Division Multiplexing (FDM)|Frequency-Division Multiple Access (FDMA)|
 |Time-Division Multiplexing (TDM)|Time-Division Multiple Access (TDMA)|
 |Code-Division Multiplexing (CDM)|Code-Division Multiple Access (CDMA)|
-- ### Multiplexing Device：Multiplexer (MUX)
+- ### Multiplexing Device：[Multiplexer (MUX)](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/combinational-logic/mux-and-demux/multiplexer.md)

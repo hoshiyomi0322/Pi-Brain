@@ -22,7 +22,7 @@
 # Digital Subscriber Line (DSL)
 <div align="center"><img src="./image/dsl.png" width="50%"></div>
 
-- ### Digital Subscriber Line Access Multiplexer (DSLAM)
+- ### Digital Subscriber Line Access [Multiplexer](/stem/physics-and-chemistry/electricity/electronic-circuit/digital-electronics-and-logic-design/digital-electronics/combinational-logic/mux-and-demux/multiplexer.md) (DSLAM)
 - ### [DSL Modem](../networking-hardware.md#dsl-modem)
 
 # Satellite Internet

@@ -14,7 +14,7 @@
 - ### Decoder
 
 # Multiplexer (MUX) and Demultiplexer (DEMUX)
-- ### Multiplexer (MUX)
+- ### [Multiplexer (MUX)](./mux-and-demux/multiplexer.md)
 - ### Demultiplexer (DEMUX)
 
 # [Shift](./shift/shift.md)

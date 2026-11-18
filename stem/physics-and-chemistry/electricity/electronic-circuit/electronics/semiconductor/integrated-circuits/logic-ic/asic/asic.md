@@ -8,6 +8,6 @@
 - ### [Programmable Logic Device (PLD)](./programmable-asic/programmable-logic-device.md)
     - #### [Simple Programmable Logic Device (SPLD)](./programmable-asic/programmable-logic-device.md#spld)
     - #### [Complex Programmable Logic Device (CPLD)](./programmable-asic/programmable-logic-device.md#cpld)
-    - #### [Field-Programmable Gate Array (FPGA)](./programmable-asic/programmable-logic-device.md#fpga)
+    - #### [Field-Programmable Gate Array (FPGA)](./programmable-asic/fpga.md)
 - ### Structured ASIC
 
