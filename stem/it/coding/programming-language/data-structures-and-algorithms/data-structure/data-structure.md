@@ -15,3 +15,6 @@
 
 # Hash Table
 - ### [Hash Table](../hashing/hashing.md#hash-table)
+
+# Key-Value Pair (KVP)
+- ### [Key-Value Database](/stem/it/computer-science/data-management/database-system/database-system.md#key-value-database)

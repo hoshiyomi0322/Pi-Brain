@@ -19,3 +19,11 @@
 # Data Engineering
 - ### [Data Engineering](../../computer-science/data-management/data-engineering.md)
 
+# Configuration File
+- ### `.conf`, `.cfg`, `.config`
+- ### Initialization File (`.ini`)
+- ### Environment File (`.env`)
+    - [Key-Value Pair](/stem/it/coding/programming-language/data-structures-and-algorithms/data-structure/data-structure.md#key-value-pair-kvp)：`KEY=VALUE`
+- ### [Extensible Markup Language (XML)](/stem/it/coding/data-serialization/xml/xml.md)
+- ### [JavaScript Object Notation (JSON)](/stem/it/coding/data-serialization/json.md)
+- ### [YAML](/stem/it/coding/data-serialization/yaml.md)
