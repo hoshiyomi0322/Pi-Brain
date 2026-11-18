@@ -25,7 +25,7 @@
 
 # [Representations of Finite State Machine](representations-of-finite-state-machine.md)
 - ### [State Transition Table](representations-of-finite-state-machine.md#state-transition-table)
-- ### [State Graph](representations-of-finite-state-machine.md#state-graph)
+- ### [State Diagram (State Graph)](representations-of-finite-state-machine.md#state-diagram-state-graph)
 
 # Sequence Detector
 

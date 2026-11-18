@@ -37,7 +37,7 @@
         |:---:|:---:|
         |$S_i$ ($0\leq i<m-1$)|$S_{i+1}$|
         |$S_{m-1}$|$S_0$|
-- ### Uses [JK Flip-Flop](../memory-element/flip-flop.md#jk-flip-flop)
+- ### Uses [JK Flip-Flop](../memory-element/flip-flop.md#jk-flip-flop) or [D Flip-Flop](../memory-element/flip-flop.md#d-flip-flop-data)
 
 # [Synchronous](../sequential-logic.md#sequential-circuit) Binary Counter
 - ### Synchronous [Binary Up Counter](#binary-up-counter)

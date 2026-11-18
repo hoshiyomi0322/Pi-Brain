@@ -1,10 +1,6 @@
 # Representations of Finite State Machine
 - ### State Transition Table
-- ### State Graph
-    - Element：State, Input, Next State, Output
-    - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Output}$
-- ### Example
-    - #### State Transition Table
+    - #### Example
         <table border="1">
             <thead>
                 <tr>
@@ -41,8 +37,11 @@
                 <td align="center">$1$</td>
             </tr>
         </table>
+- ### State Diagram (State Graph)
+    - Element：State, Input, Next State, Output
+    - Outgoing Transitions：$\text{State}\xrightarrow{Input}\text{Next State, Output}$
 
-# Completely Specified [State Graph](#state-graph)
+# Completely Specified [State Graph](#state-diagram-state-graph)
 - ### Completely Specified State Graph：Each State specifies the Next State and Output for all Inputs
 - ### Conditions
     - #### All Inputs are defined for Each State：$\sum{C_i}=1$
