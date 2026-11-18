@@ -19,3 +19,5 @@
 
 # System on a Chip (SoC)
 
+# Electronic Design Automation (EDA)
+- ### [Electronic Design Automation (EDA)](electronic-design-automation.md)

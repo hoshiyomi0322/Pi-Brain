@@ -9,7 +9,6 @@
     - #### 0 (Low)
 
 # Hardware Description Language (HDL)
-- ### Register-Transfer Level (RTL)
 - ### [VHDL](./hdl/vhdl.md)
 - ### [Verilog](./hdl/verilog.md)
 
