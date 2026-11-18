@@ -55,9 +55,9 @@
     - #### 5MP跑步 Combo
         - (5MP + 5HP) + [跑步 Air Combo](./ken-special-move/ken-special-move.md#跑步-air-combo)
         - (5MP + 5HP) + 跑步旋風腳 + [42F OKI](ken.md#42f-oki)
-        - Midscreen：(5MP + 5HP) + (DR + 2MP) + 跑步旋風腳 + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)/[OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)/SA1/[SA3 Combo](#sa3-combo)
     - #### Midscreen 5MP Combo
         - (5MP + 5HP) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
+        - (5MP + 5HP) + 
     - #### Corner 5MP Combo
         - (5MP + 5HP) + (中迅雷 + [42F OKI](ken.md#42f-oki))
         - (5MP + 5HP) + [Corner 迅雷 High-Air Combo](./ken-special-move/ken-236k.md#corner-迅雷-high-air-combo)
@@ -72,6 +72,9 @@
 - ### DR 2MP Combo
     - DR + 2MP + [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
     - ガード(DR + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### Midscreen DR 2MP Air Combo
+    - (DR + 2MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / [SA3 Combo](#sa3-combo)(214214P)
+    - (DR + 2MP + 跑步旋風腳) + DR(Parry + 44) + (5MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / SA2(214214K) / [SA3 Combo](#sa3-combo)(214214P)
 
 # Light Attack combo
 - ### 5LP Combo
