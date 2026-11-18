@@ -57,7 +57,7 @@
         - (5MP + 5HP) + 跑步旋風腳 + [42F OKI](ken.md#42f-oki)
     - #### Midscreen 5MP Combo
         - (5MP + 5HP) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
-        - (5MP + 5HP) + 
+        - (5MP + 5HP) + (CDR + [Midscreen DR 2MP Air Combo](#midscreen-dr-2mp-air-combo))
     - #### Corner 5MP Combo
         - (5MP + 5HP) + (中迅雷 + [42F OKI](ken.md#42f-oki))
         - (5MP + 5HP) + [Corner 迅雷 High-Air Combo](./ken-special-move/ken-236k.md#corner-迅雷-high-air-combo)
@@ -126,6 +126,7 @@
         - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 5MP + 消費(跑步煞車) + [5F打摔擇](#5f打摔擇-4f5f)
         - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + (delay + 5LK) + Reset(DI)
         - DI(PC) + (8 + delay + JHK) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
+        - DI(PC) + (8 + delay + JHP) + [Midscreen DR 2MP Air Combo](#midscreen-dr-2mp-air-combo)
     - #### Corner DI PC Combo
         - DI(PC) + (前ステ + [2HP Combo](#2hp-combo))
         - DI(PC) + (8 + delay + JHK) + [Corner 迅雷 High-Air Combo](./ken-special-move/ken-236k.md#corner-迅雷-high-air-combo)
