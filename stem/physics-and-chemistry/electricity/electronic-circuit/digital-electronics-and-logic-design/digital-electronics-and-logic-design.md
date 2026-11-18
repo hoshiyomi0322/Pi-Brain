@@ -122,9 +122,9 @@
 - ### Duty Cycle (Duty Ratio)：$D=\frac{PW}{T}\times 100\%$
 - ### Pulse-Width Modulation (PWM)
 
-# Hazard
-- ### Static Hazard
-- ### Static 1-Hazards
-- ### Static 0-Hazards
-- ### Dynamic Hazard
+# Gate Delay
+- ### Propagation Delay
 
+# [Hazard](./hazard/hazard.md)
+- ### [Logic Hazard](./hazard/hazard.md#logic-hazard)
+- ### [Race Condition (Race Hazard)](./hazard/hazard.md#race-condition-race-hazard)

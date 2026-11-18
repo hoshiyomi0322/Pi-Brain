@@ -46,6 +46,11 @@
             - Maxterm Index：$5_{10}=101_2$
         - Canonical POS：$F=\prod{M\left(3,~5,~7\right)} = M_3 \cdot M_5 \cdot M_7 = \left(A+\overline{B}+\overline{C}\right) \cdot \left(\overline{A}+B+\overline{C}\right) \cdot \left(\overline{A}+\overline{B}+\overline{C}\right)$
 
+# Implicant
+- ### Prime implicant
+- ### Essential Prime Implicant
+- ### Redundant Prime Implicant
+
 # Karnaugh map (K-map)
 - ### Construction
     |Input|Construction|

@@ -5,19 +5,13 @@
 |**Clock Signal**|Present (global clock controls all memory elements)|Absent or uses independent clocks|
 |**Memory Element**|[Flip-Flop](./memory-element/flip-flop.md)|[Latch](./memory-element/latch.md) or Delay Element|
 |**Triggering Method**|[Edge-triggering](#edge-triggering)|[Level-triggering](#level-triggering) or direct input change|
-|**Design Complexity**|Easier, Predictable, Reliable|More difficult, Prone to [race conditions]() and hazards|
+|**Design Complexity**|Easier, Predictable, Reliable|More difficult, Prone to [hazards](../../hazard/hazard.md)|
 |**Speed**|Slower (limited by maximum clock frequency)|Faster (no waiting for clock edges)|
 |**Power Consumption**|Higher (due to continuous clock switching)|Lower (switches only when inputs change)|
 
 # Design Procedure
-- ### Synchronous Sequential Circuit Design Procedure
-    1. [State Diagram](./finite-state-machine/representations-of-finite-state-machine.md#state-diagram-state-graph)
-    2. [State Transition Table](./finite-state-machine/representations-of-finite-state-machine.md#state-transition-table)
-    3. [Reduction of State Transition Table](./finite-state-machine/representations-of-finite-state-machine.md#reduction-of-state-transition-table)
-    4. State Assignment
-    5. Transition Table and Excitation Table
-    6. [K-Maps](../../minimization-of-boolean-expressions.md#karnaugh-map-k-map)
-- ### Asynchronous Sequential Circuit Design Procedure
+- ### [Synchronous Sequential Circuit Design Procedure](./design-procedure/synchronous-sequential-circuit-design-procedure.md)
+- ### [Asynchronous Sequential Circuit Design Procedure](./design-procedure/asynchronous-sequential-circuit-design-procedure.md)
 
 # Memory Element
 - ### [Flip-Flop (FF)](./memory-element/flip-flop.md)
