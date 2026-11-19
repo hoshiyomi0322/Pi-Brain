@@ -2,11 +2,11 @@
 ||Synchronous Sequential Circuit|Asynchronous Sequential Circuit|
 |:---:|:---:|:---:|
 |**Sequential Circuit**|<img src="./image/synchronous-sequential-circuit.png" width="45%">|<img src="./image/asynchronous-sequential-circuit.png" width="45%">|
-|**Clock Signal**|Present (global clock controls all memory elements)|Absent or uses independent clocks|
-|**Memory Element**|[Flip-Flop](./memory-element/flip-flop.md)|[Latch](./memory-element/latch.md) or Delay Element|
-|**Triggering Method**|[Edge-triggering](#edge-triggering)|[Level-triggering](#level-triggering) or direct input change|
+|**Clock Signal**|Present (global clock controls all memory elements)|Absent or not shared globally|
+|**Memory Element**|Mostly [Flip-Flop](./memory-element/flip-flop.md)|Mostly [Latch](./memory-element/latch.md) or Delay Element|
+|**Triggering Method**|[Edge-triggering](#edge-triggering)|[Level-triggering](#level-triggering) or [Gate Delay](../../digital-electronics-and-logic-design.md#gate-delay)|
 |**Design Complexity**|Easier, Predictable, Reliable|More difficult, Prone to [hazards](../../hazard/hazard.md)|
-|**Speed**|Slower (limited by maximum clock frequency)|Faster (no waiting for clock edges)|
+|**Speed**|Slower (limited by clock period)|Faster (without waiting for clock edges)|
 |**Power Consumption**|Higher (due to continuous clock switching)|Lower (switches only when inputs change)|
 
 # Design Procedure
