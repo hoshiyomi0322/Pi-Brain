@@ -1,27 +1,29 @@
 # Command
 - ### 弾
     - ### Fire：236P
-        - #### OD Slow-fire：236LPMP
-        - #### OD Mid-fire：236LPHP
-        - #### OD Fast-fire：236MPHP
+        - #### 溜めFire：236P(Hold)
+        - #### OD Fire
+            - OD Slow-fire：236LPMP
+            - OD Mid-fire：236LPHP
+            - OD Fast-fire：236MPHP
     - ### Arch：236K
-        - #### OD Close-arch：236LKMK
-        - #### OD Mid-arch：236LKHK
-        - #### OD Far-arch：236MKHK
+        - OD Close-arch：236LKMK
+        - OD Mid-arch：236LKHK
+        - OD Far-arch：236MKHK
     - ### Flame：624P
     - ### Blast：624K
     - ### Comet：8/9 + 624P
 - ### Float：2KK
     - #### Forward-float：3KK
-    - ### Air-float：7/8/9 + 2KK
+    - #### Air-float：7/8/9 + 2KK
 - ### Teleport
     - #### Forward-teleport：6KKK
     - #### Switch-teleport：6PPP
     - #### Backward-teleport：4KKK/4PPP
-    - ### Air-teleport
-        - #### Air-forward-teleport：7/8/9 + 6KKK
-        - #### Air-switch-teleport：7/8/9 + 6PPP
-        - #### Air-backward-teleport：7/8/9 + 4KKK/4PPP
+    - #### Air-teleport
+        - Air-forward-teleport：7/8/9 + 6KKK
+        - Air-switch-teleport：7/8/9 + 6PPP
+        - Air-backward-teleport：7/8/9 + 4KKK/4PPP
 - ### SA1：236236P
     - #### Low-SA1：236236LP
     - #### Mid-SA1：236236MP
@@ -48,6 +50,9 @@
     - #### 強Flame Combo
         - 強Flame + [45F OKI](#45f-oki)
         - Mid：強Flame + SA3
+    - #### OD Flame Combo
+        - OD Flame + 2HK/[51F OKI](#51f-oki)
+        - Mid：OD Flame + Mid-SA1/SA3
 
 # Heavy Attack Combo
 - ### 4HP Air Combo
@@ -103,6 +108,9 @@
 - ### 4MK OKI (6F~8F)
     - [4MK Combo](#4mk-combo)
     - 前歩き + [投げ](#投げ)
+- ### DI OKI (25F/26F)
+    - DI
+    - 中Flame
 - ### 45F OKI
     - その場受け身/Corner
         - 消費(Forward-teleport) + [4MK OKI](#4mk-oki-6f8f)
@@ -111,6 +119,8 @@
     - OD Slow-fire + [Mid OD Fire Extension Combo](#mid-od-fire-extension-combo)
     - 對手 Parry：消費(強Fast-fire/OD Fast-fire) + (DR + [投げ](#投げ))
     - Arch/OD Arch
+- ### 51F OKI
+    - 消費(2LK/前ステ) + [DI OKI](#di-oki-25f26f)
 
 # todo
 - https://youtube.com/playlist?list=PLhjwg1HnSvnFxgHA6nzhVwkc07oc2PNUP&si=-98eiw6EsnJtW63M

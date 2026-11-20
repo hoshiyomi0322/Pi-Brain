@@ -206,7 +206,7 @@
         - Ken：弱龍尾腳, 弱迅雷
         - Vega：剪刀腳
         - Jamie：5HK
-        - Chunli：弱劈腿, OD劈腿
+        - Chunli：弱覇山蹴, OD覇山蹴
         - Viper：2HP
         - Sagat：強Tiger-knee, X迅雷弱派生
         - Ingrid：5HP,6HP
