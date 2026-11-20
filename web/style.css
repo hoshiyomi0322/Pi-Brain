@@ -278,7 +278,7 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 
 .markdown-section pre {
     background-color: #1e293b !important; 
-    padding: 35px 1.4rem 1.4rem !important;
+    padding: 1.4rem !important;
     border-radius: 6px !important;
     border: 1px solid rgba(255, 255, 255, 0.1) !important;
     overflow: auto !important; 
@@ -298,17 +298,6 @@ section.cover ul{line-height:1.8;list-style-type: none;}
 .markdown-section pre code .token.punctuation { color: #cbd5e1 !important; }
 .markdown-section pre code .token.class-name { color: #f43f5e !important; }
 .markdown-section pre code .token.operator { color: #f43f5e !important; }
-.markdown-section pre:after {
-    content: attr(data-lang) !important;   
-    color: rgba(144, 238, 144) !important; 
-    font-size: 0.75rem !important;
-    font-weight: 600 !important;
-    position: absolute !important;
-    right: 15px !important;
-    top: 10px !important;
-    text-transform: uppercase !important;  
-    letter-spacing: 0.05rem !important;
-}
 
 /* Styles for the heading search component */
 .pi-heading-search {
