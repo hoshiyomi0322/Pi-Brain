@@ -7,6 +7,8 @@
     - 強昇竜 + [弾 OKI](chunli.md#弾-oki-37f)
 
 # 昇竜 Air Combo
+- ### 中昇竜 Air Combo
+    - 中昇竜 + [23F OKI](chunli.md#23f-oki)
 - ### 強昇竜 Air Combo
     - 強昇竜 + [35F OKI](chunli.md#35f-oki)
 

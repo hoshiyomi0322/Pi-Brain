@@ -62,6 +62,11 @@
     - [投げ](#投げ)
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
+- ### 3HP 重ね (22F)
+    - 3HP + [2LP Combo](#2lp-combo)
+    - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 23F OKI
+    - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 中覇山蹴 OKI (24F~26F)
     - [中覇山蹴 Combo](chunli-special-move.md#中覇山蹴-combo)
     - DI
@@ -70,6 +75,7 @@
 - ### 強覇山蹴 OKI (30F~33F)
     - [強覇山蹴 Combo](chunli-special-move.md#強覇山蹴-combo)
 - ### 35F OKI
+    - 消費(2LP) + [3HP 重ね](#3hp-重ね-22f)
 - ### 弾 OKI (37F)
     - Midscreen：弱弾
         - その場受け身：弱弾 + [DR 4HP Combo](#dr-4hp-combo)
@@ -77,6 +83,7 @@
     - 消費(2LP) + [中覇山蹴 OKI](#中覇山蹴-oki-24f26f)
     - DI(騙對手 DI) + 反DI
 - ### 47F OKI
+    - 消費(投げ) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5LK) + [強覇山蹴 OKI](#強覇山蹴-oki-30f33f)
 
 # todo
