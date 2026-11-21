@@ -35,10 +35,9 @@
     |`b`, `Ctrl + B`|Scroll one screen backward|
     |`j`, `Ctrl + J`, `Enter`|Next line|
     |`y`, `Ctrl + Y`|Previous line|
-    |`g`, `<`|Go to beginning of file|
-    |`G`, `>`|Go to end of file|
+    |`g`/`G`|Move to the first/last line of the file (Go)|
+    |`<n>G`|Move to `n`th line|
     |`Ctrl + ←/→`|Scroll horizontally left/right|
-    |`<n>G`|Go to `n`th line|
     |`q`|Quit|
     - #### Search
         |Command|Description|

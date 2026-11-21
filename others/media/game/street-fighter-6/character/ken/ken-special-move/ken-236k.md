@@ -16,7 +16,7 @@
     - 中迅雷 + [派生 Combo](#派生-combo)
 - ### 強迅雷 Combo
     - 強迅雷 + (強派生 + 消費(強龍尾腳) + [投げ](../ken.md#投げ))
-    - 強迅雷 + [OD龍尾腳 Air Combo](ken-special-move.md#od龍尾腳-air-combo)/[OD旋風腳 Combo](ken-special-move.md#od旋風腳-combo)/[SA3 Combo](../ken.md#sa3-combo)
+    - 強迅雷 + [OD龍尾腳 Air Combo](ken-special-move.md#od龍尾腳-air-combo)/[OD旋風腳 Combo](ken-special-move.md#od旋風腳-combo)/SA2/[SA3 Combo](../ken.md#sa3-combo)
     - #### Corner 強迅雷 Combo
         - 強迅雷delay弱派生 + [Corner 弱迅雷 Air Combo](#corner-弱迅雷-air-combo)/[Corner OD迅雷 Air Combo](#corner-od迅雷-air-combo)
         - 強迅雷弱派生 + [DI OKI](../ken.md#di-oki-25f26f)
@@ -31,7 +31,7 @@
 
 # Corner 弱迅雷 High-Air Combo
 - 弱迅雷delay弱派生 + [強昇竜 Air Combo](ken-special-move.md#強昇竜-air-combo)/[OD旋風腳 Combo](ken-special-move.md#od旋風腳-combo)/SA1/SA2/[SA3 Combo](../ken.md#sa3-combo)
-- 弱迅雷delay弱派生 + (弱昇竜 + OD昇竜/SA1/[SA3 Combo](../ken.md#sa3-combo))
+- 弱迅雷delay弱派生 + 消費(弱昇竜) + OD昇竜/SA1/[SA3 Combo](../ken.md#sa3-combo)
 - [中迅雷中派生 OKI](../ken.md#中迅雷中派生-oki-46f48f)
 
 # Corner OD迅雷 Air Combo

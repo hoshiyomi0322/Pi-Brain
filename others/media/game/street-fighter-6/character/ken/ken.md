@@ -11,13 +11,13 @@
 - ### 昇竜：623P
 - ### 龍尾腳：623K
 - ### 迅雷：236K
-    - #### x迅雷x派生：236x腳 + 前x腳
-    - #### x迅雷delayx派生：236x腳 + delay + 前x腳
+    - #### x迅雷x派生：236xK + 6xK
+    - #### x迅雷delayx派生：236xK + delay + 6xK
     - #### OD迅雷：236KK
-        - OD迅雷x派生：236KK + 前x腳
-        - OD迅雷x派生二段：236KK + (前x腳 + 前腳)
-        - OD迅雷delayx派生：236KK + delay + 前x腳
-        - OD迅雷delayx派生二段：236KK + delay + (前x腳 + 前腳)
+        - OD迅雷x派生：236KK + 6xK
+        - OD迅雷x派生二段：236KK + (6xK + 6K)
+        - OD迅雷delayx派生：236KK + delay + 6xK
+        - OD迅雷delayx派生二段：236KK + delay + (6xK + 6K)
 - ### 旋風腳：214K
 - ### Air-旋風腳：9 + 214K
 
@@ -75,6 +75,8 @@
 - ### Midscreen DR 2MP Air Combo
     - (DR + 2MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / [SA3 Combo](#sa3-combo)(214214P)
     - (DR + 2MP + 跑步旋風腳) + DR(Parry + 44) + (5MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / SA2(214214K) / [SA3 Combo](#sa3-combo)(214214P)
+    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + (DR + 2MP + [跑步 Air Combo](./ken-special-move/ken-special-move.md#跑步-air-combo))
+    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + (DR + [2HP Combo](#2hp-combo))
 
 # Light Attack combo
 - ### 5LP Combo

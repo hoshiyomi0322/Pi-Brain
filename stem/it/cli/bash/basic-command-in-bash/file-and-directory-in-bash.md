@@ -38,7 +38,6 @@
     |`-p`||
     |`-u`||
 
-
 # Move (mv)
 |Command|Description|Example|
 |:---:|:---:|:---:|

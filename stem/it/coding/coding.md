@@ -20,6 +20,7 @@
 - ### [LaTex](./markup-language/latex/latex.md)
 - ### [Extensible Markup Language (XML)](./data-serialization/xml/xml.md)
 - ### [HyperText Markup Language (HTML)](./markup-language/html/html.md)
+- ### Mermaid
 
 # Style Sheet Language
 - ### [Cascading Style Sheets (CSS)](./style-sheet-language/css/css.md)
