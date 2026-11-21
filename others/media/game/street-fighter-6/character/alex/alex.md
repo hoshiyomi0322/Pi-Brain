@@ -159,7 +159,8 @@
         - 消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### DR 溜め5HP OKI (31F~33F)
     - [DR 溜め5HP Combo](#dr-溜め5hp-combo)
-- ### DR 溜め5HK OKI (33F)
+- ### 構え-elbow 重ね (33F)
+    - 中構え-elbow + [5LP Combo](#5lp-combo)
     - [DR 溜め5HK Combo](#dr-溜め5hk-combo)
     - [DR 溜め5HP OKI](#dr-溜め5hp-oki-31f33f)
 - ### 41F OKI

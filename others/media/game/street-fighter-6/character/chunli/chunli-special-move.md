@@ -2,7 +2,7 @@
 - ### 弱昇竜 Combo
     - 弱昇竜
 - ### 中昇竜 Combo
-    - 中昇竜
+    - 中昇竜 + [中覇山蹴 OKI](#中覇山蹴-oki-24f26f)
 - ### 強昇竜 Combo
     - 強昇竜 + [弾 OKI](chunli.md#弾-oki-37f)
 
@@ -18,7 +18,7 @@
 - ### 強旋轉踢 Combo
     - 強旋轉踢
 - ### OD旋轉踢 Combo
-    - OD旋轉踢 + [強昇竜 Combo](#強昇竜-combo)/SA1/[SA2 Combo](chunli.md#sa2-combo)/
+    - OD旋轉踢 + [昇竜 Combo](#昇竜-combo)/SA1/[SA2 Combo](chunli.md#sa2-combo)/
     - OD旋轉踢 + 中百裂腳 + [47F OKI](chunli.md#47f-oki)/SA3
     - Corner：OD旋轉踢 + (弱百裂腳 + [強昇竜 Air Combo](#強昇竜-air-combo))
 

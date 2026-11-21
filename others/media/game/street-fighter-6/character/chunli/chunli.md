@@ -28,8 +28,7 @@
     - (6HK + 5LP) + Reset(DI)
 - ### DR 4HP Combo
 - ### 4HP Air Combo
-    - 4HP + 強百裂腳 + [強昇竜 Combo](chunli-special-move.md#強昇竜-combo)
-    - 4HP + 強百裂腳 + (中昇竜 + [中覇山蹴 OKI](#中覇山蹴-oki-24f26f))
+    - 4HP + 強百裂腳 + [昇竜 Combo](#昇竜-combo)
 
 # Medium Attack Combo
 
