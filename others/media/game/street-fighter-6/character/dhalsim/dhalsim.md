@@ -125,3 +125,5 @@
 # todo
 - https://youtube.com/playlist?list=PLhjwg1HnSvnFxgHA6nzhVwkc07oc2PNUP&si=-98eiw6EsnJtW63M
 - https://youtu.be/_daztuhiZiA
+- https://youtu.be/rYQM9E-qq5I
+- https://youtu.be/UW6GlWHKy7o

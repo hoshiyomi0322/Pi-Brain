@@ -249,6 +249,7 @@
 # todo
 - https://youtu.be/LarZbGKREbY
 - https://youtu.be/MUAie1HPhLE
+- https://youtube.com/playlist?list=PLSGgQTqIFIj7_2VDycvy_CuLnmlPkzLrb&si=49ZfCWy_ytZHV91E
 - SA2
     - https://youtu.be/98Eu1UWmFfo
     - https://www.youtube.com/shorts/BUFYxOfbPQI?feature=share
