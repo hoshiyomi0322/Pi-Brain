@@ -73,10 +73,10 @@
     - DR + 2MP + [5MP Combo](#5mp-combo)/[2HP Combo](#2hp-combo)
     - ガード(DR + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### Midscreen DR 2MP Air Combo
-    - (DR + 2MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / [SA3 Combo](#sa3-combo)(214214P)
-    - (DR + 2MP + 跑步旋風腳) + DR(Parry + 44) + (5MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD旋風腳 Combo](./ken-special-move/ken-special-move.md#od旋風腳-combo)(426KK) / SA1(236236K) / SA2(214214K) / [SA3 Combo](#sa3-combo)(214214P)
-    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + (DR + 2MP + [跑步 Air Combo](./ken-special-move/ken-special-move.md#跑步-air-combo))
-    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + (DR + [2HP Combo](#2hp-combo))
+    - (DR + 2MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)(426KK) / SA1(236236K) / [SA3 Combo](#sa3-combo)(214214P)
+    - (DR + 2MP + 跑步旋風腳) + DR(Parry + 44) + (5MP + 跑步旋風腳) + [強昇竜 High-Air Combo](./ken-special-move/ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)(426KK) / SA1(236236K) / SA2(214214K) / [SA3 Combo](#sa3-combo)(214214P)
+    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + [跑步 Air Combo](./ken-special-move/ken-special-move.md#跑步-air-combo)
+    - (DR + 2MP + 跑步旋風腳) + OD迅雷強派生(214KK + 6HK) + (DR + 2HP + 強迅雷 + SA1/SA2/[SA3 Combo](#sa3-combo))
 
 # Light Attack combo
 - ### 5LP Combo
@@ -122,11 +122,10 @@
     - DI(PC) + (8 + JHP) + 跑步昇竜
     - DI(PC) + (8 + JHP) + (DR + 5MP/2MP) + 跑步旋風腳
     - #### Midscreen 跑步旋風腳DI PC Combo
-        - DI(PC) + (前ステ + 2HP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
-        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)
-        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 2HP + Reset([跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
-        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + 5MP + 消費(跑步煞車) + [5F打摔擇](#5f打摔擇-4f5f)
-        - DI(PC) + (バクステ + DR + 5MP + 跑步龍尾腳) + (delay + 5LK) + Reset(DI)
+        - DI(PC) + (前ステ + 5MP + 跑步旋風腳) + [強昇竜 Air Combo](./ken-special-move/ken-special-move.md#強昇竜-air-combo)/[OD龍尾腳 Air Combo](./ken-special-move/ken-special-move.md#od龍尾腳-air-combo)/SA1/SA2/[SA3 Combo](#sa3-combo)
+            - DI(PC) + (バクステ + DR + 5MP + 跑步旋風腳) + 2HP + Reset([跑步旋風腳 Combo](./ken-special-move/ken-special-move.md#跑步旋風腳-combo))
+            - DI(PC) + (バクステ + DR + 5MP + 跑步旋風腳) + 5MP + 消費(跑步煞車) + [5F打摔擇](#5f打摔擇-4f5f)
+            - DI(PC) + (バクステ + DR + 5MP + 跑步旋風腳) + (delay + 5LK) + Reset(DI)
         - DI(PC) + (8 + delay + JHK) + [Midscreen OD迅雷 High-Air Combo](./ken-special-move/ken-236k.md#midscreen-od迅雷-high-air-combo)
         - DI(PC) + (8 + delay + JHP) + [Midscreen DR 2MP Air Combo](#midscreen-dr-2mp-air-combo)
     - #### Corner DI PC Combo
@@ -206,6 +205,7 @@
     - 消費(前ステ*2) + [5F打摔擇](#5f打摔擇-4f5f)
     - 消費(5LP) + [跑步中段 重ね](#跑步中段-重ね-29f30f)
     - 消費(2LK) + [DI OKI](#di-oki-25f26f)
+        - (DI(騙對手 DI) + 反DI)
     - その場受け身/Corner
         - 強迅雷弱派生 + [2LP Combo](#2lp-combo)
         - 消費(5MK) + [12F 5HP 重ね](#12f-5hp-重ね-12f13f)

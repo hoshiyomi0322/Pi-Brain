@@ -6,17 +6,21 @@
 
 # Operator
 |Operators|Description|Example|
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 |`;`|Command separator, runs multiple commands sequentially|`cd /log ; ls`|
-|`\|`|Pipe, passes the output of one command as input to the next|`ps aux \| grep ssh`|
+|`&&`|Logical AND, runs the second command only if the first succeeds|`apt update && apt upgrade`|
+|`\|\|`|Logical OR, runs the second command only if the first fails|`mkdir /data \|\| echo "Failed"`|
 |`&`|Runs the command in the background|`sleep 10 &`|
+|`\|`|Pipe, passes the output of one command as input to the next|`ps aux \| grep ssh`|
 - ### Redirection Operators
-    |Operators|Description|
-    |:---:|:---:|
-    |`>`||
-    |`>>`||
-    |`<`||
-    |`<<`||
+    |Operators|Description|Example|
+    |:---:|:---:|:---|
+    |`<`|Standard input redirection, reads input from a file instead of the keyboard|`sort < names.txt`|
+    |`>`|Standard output redirection, writes output to a file (overwrites existing content)|`ls -la > files.txt`|
+    |`>>`|Standard output append, appends output to the end of a file without overwriting|`echo "done" >> log.txt`|
+    |`2>`|Standard error redirection, writes error messages to a file (overwrites existing content)|`find / -name "*.conf" 2> errors.log`|
+    |`2>>`|Standard error append, appends error messages to the end of a file without overwriting|`apt update 2>> errors.log`|
+    |`<<`|Here Document, passes a multi-line block of text as standard input until a delimiter is reached|`cat << EOF > config.txt`<br>`host=localhost`<br>`port=8080`<br>`EOF`|
 
 # Path
 |Path|Description|
@@ -154,8 +158,8 @@ sudo apt-get purge <package-name>
 
 # Linux Development Tools
 - ### Text Editor
-    - #### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim.md)
-    - #### GNU nano (nano)
+    - #### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim/vim.md)
+    - #### [GNU nano (nano)](./linux-development-tools/text-editor/nano.md)
     - #### Editor MACroS (Emacs)
 - ### [Git](/stem/it/it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)

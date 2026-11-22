@@ -204,3 +204,13 @@
             - ガード(地刺) + [当身派生 Combo](arjun-special-move.md#当身派生-combo)
             - 解法：防住地刺後, 直接摔
         - OD地刺 + [DI OKI](#di-oki-25f26f)
+
+# Arjun 対策
+- ### Punish Counter
+    |技|Frame|Punish Counter|
+    |:---:|:---:|:---:|
+    |当身(打到) + 地刺|-26F|DI, 綠衝5HP|
+    |当身(打到) + OD地刺|-21F|遠距離SA, 綠衝(速度快)|
+    |2HP(対空) + 地刺||DI, OD昇龍, SA3|
+    |2HP(対空) + OD地刺||16F以內拳腳, OD昇龍, SA|
+

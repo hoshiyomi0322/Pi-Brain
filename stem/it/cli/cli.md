@@ -1,7 +1,7 @@
 # [Bourne-Again SHell (Bash)](./bash/bash.md)
 - ### Text Editor
-    - ### [Vi IMproved (Vim)](./bash/linux-development-tools/text-editor/vim.md)
-    - ### GNU nano (nano)
+    - ### [Vi IMproved (Vim)](./bash/linux-development-tools/text-editor/vim/vim.md)
+    - ### [GNU nano (nano)](./bash/linux-development-tools/text-editor/nano.md)
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
 - ### [Git](/stem/it/it-tools/git/git.md)
 - ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)

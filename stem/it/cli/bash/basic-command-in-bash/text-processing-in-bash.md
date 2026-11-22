@@ -35,8 +35,8 @@
     |`b`, `Ctrl + B`|Scroll one screen backward|
     |`j`, `Ctrl + J`, `Enter`|Next line|
     |`y`, `Ctrl + Y`|Previous line|
-    |`g`/`G`|Move to the first/last line of the file (Go)|
-    |`<n>G`|Move to `n`th line|
+    |`g`/`G`|Jump to the first/last line of the file (Go)|
+    |`<n>G`|Jump to `n`th line|
     |`Ctrl + ←/→`|Scroll horizontally left/right|
     |`q`|Quit|
     - #### Search
@@ -58,4 +58,4 @@
 |:---:|:---:|:---:|
 |`grep [option] <"pattern"> [files...]`|Search for a `pattern` in files|`grep "sui" a.txt b.txt`, `history\|grep "cd"`|
 |`grep -r [option] <"pattern"> [folders...]`|Search for a `pattern` in folders|`grep "^sui" a/ b/`|
-- ### [Regular Expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
+- `pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
