@@ -64,9 +64,9 @@
     - Close/Corner：跑步5HK + [SA3 Combo](../ken.md#sa3-combo)
 
 # 跑步旋風腳 High-Air Combo
-- 跑步旋風腳 + [強昇竜 High-Air Combo](#強昇竜-high-air-combo)(426HP) / [OD龍尾腳 Air Combo](#od龍尾腳-air-combo)(426KK)
+- 跑步旋風腳 + [強昇竜 High-Air Combo](#強昇竜-high-air-combo)(421HP) / [OD龍尾腳 Air Combo](#od龍尾腳-air-combo)(421KK)
 - 跑步旋風腳 + SA1(236236K) / [SA3 Combo](../ken.md#sa3-combo)(214214P)
-- 跑步旋風腳 + 弱昇竜(426LP) + SA2
+- 跑步旋風腳 + 弱昇竜(421LP) + SA2
 
 # 迅雷 Combo
 - ### [迅雷 Combo](ken-236k.md)
