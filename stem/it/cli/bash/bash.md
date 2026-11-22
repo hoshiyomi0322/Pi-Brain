@@ -137,6 +137,7 @@
 sudo apt update
 sudo apt upgrade
 sudo apt install <package-name>
+sudo apt install -y <package-name>
 sudo apt remove <package-name>
 sudo apt purge <package-name>
 ```
