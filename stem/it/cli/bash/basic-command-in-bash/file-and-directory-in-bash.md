@@ -126,7 +126,7 @@
     |`-iname <"filename">`|Search by file name, case-insensitive|`-name "index*"`|
     |`-type <f\|d\|l>`|Search by file type<br>File (`f`), Directory (`d`), Link (`l`)|`-type d`|
     |`-mtime <-n\|n\|+n>`|Search by file modification time in days<br>less than n (`-n`), exactly n (`n`), greater than n (`+n`)|`-mtime -7` (modified within last 7 days)|
-    |`-size <-n\|+n><unit>`|Search by file size<br>units：`k`(kB), `M`(MB), `G`(GB)<br>smaller than n (`-n`), larger than n (`+n`)|`-size +100M` (larger than 100MB)|
+    |`-size <-n\|n\|+n><unit>`|Search by file size<br>units：`k`(kB), `M`(MB), `G`(GB)<br>smaller than n (`-n`), equal to n (`n`), larger than n (`+n`)|`-size +100M` (larger than 100MB)|
     |`-perm <octal_mode>`|Search by [octal mode (permission mode)](/stem/it/computer-science/operating-system/linux/linux-file-system.md#octal-mode)|`-perm 755`|
     |`-user <username>`|Search for files owned by a specific username or UID|`-user root`|
 - ### Actions
