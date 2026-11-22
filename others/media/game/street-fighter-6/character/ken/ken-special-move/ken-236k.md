@@ -61,4 +61,4 @@
 
 # Midscreen OD迅雷 High-Air Combo
 - OD迅雷delay強派生 + [跑步 Air Combo](ken-special-move.md#跑步-air-combo)
-- OD迅雷delay強派生 + (DR + 2MP) + (CDR + 2HP + 跑步旋風腳) + [強昇竜 High-Air Combo](ken-special-move.md#強昇竜-high-air-combo)(426P) / [OD龍尾腳 Air Combo](ken-special-move.md#od龍尾腳-air-combo)(426KK) / SA1(236236K) / [SA3 Combo](../ken.md#sa3-combo)(214214P)
+- OD迅雷delay強派生 + (DR + 2MP) + (CDR + 2HP + [跑步旋風腳 High-Air Combo](ken-special-move.md#跑步旋風腳-high-air-combo))
