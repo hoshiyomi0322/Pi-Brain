@@ -116,7 +116,7 @@
     |`J`|Join the selected lines into a single line|
 - ### Mode Switching：[Visual Mode](#visual-mode) $\to$ [Command-line Mode](#command-line-mode)
     <img src="./image/visual-to-command-line.png" width=60%>
-    
+
     |Command|Description|
     |:---:|:---:|
     |`:'<,'><ex_command>`|Execute an [Ex command](ex-command.md) on the selected lines|
