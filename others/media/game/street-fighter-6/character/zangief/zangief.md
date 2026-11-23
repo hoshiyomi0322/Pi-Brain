@@ -57,6 +57,8 @@
         - その場受け身/Corner：2HP + [西伯利亞 Combo](#西伯利亞-combo)
 - ### 6HK Combo
     - 6HK + [28F DR 6MK 重ね](#28f-dr-6mk-重ね-28f29f)
+- ### 2HK Combo
+    - 2HK + 消費(6MK) + [5F打摔擇](#5f打摔擇-3f5f)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -75,6 +77,7 @@
         - [3MP Air Combo](#3mp-air-combo)
         - (3MP + OD旋風手) + (delay + 9 + OD Air-コマ投げ)
         - (3MP + OD旋風手) + [51F OKI](#51f-oki)
+        - (3MP + OD旋風手) + 消費(9 + JLP/JMP/JHP/JLK/JMK/JHK) + [5F打摔擇](#5f打摔擇-3f5f)
         - (3MP + OD旋風手) + 消費(9/5HP) + [8F打摔擇](#8f打摔擇-6f9f)
         - (3MP + OD旋風手) + 消費(6HP) + [16F OKI](#16f-oki-16f17f)
         - (3MP + OD旋風手) + 消費(2MP) + [DI OKI](#di-oki-25f26f)
@@ -108,7 +111,7 @@
 - ### Corner DR 5MP Air Reset
     - (DR + 5MP*2) + [5F打摔擇](#5f打摔擇-3f5f)
 
-## Light Attack combo
+# Light Attack combo
 - ### 5LP Combo
     - Close：5LP + [Light Cancel Combo](#light-cancel-combo)
 - ### 2LP Combo
