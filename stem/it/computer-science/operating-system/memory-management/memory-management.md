@@ -8,21 +8,21 @@
 # Address
 <div align="center"><img src="./image/address.png" width="50%"></div>
 
-- ### logical address
-- ### physical address
+- ### Logical Address
+- ### Physical Address
 - ### Memory-Management Unit (MMU)
 
 # Address Binding
 <div align="center"><img src="./image/address-binding.png" width="35%"></div>
 
-- ### compile time
-- ### load time
-- ### execution time
+- ### Compile Time
+- ### Load Time
+- ### Execution Time
 
 # Register
-- ### base register：holds the first logical address
-- ### bound register
-- ### limit register
+- ### Base Register：holds the first logical address
+- ### Bound Register
+- ### Limit Register
 
 # Address Translation
 - ### physical address = base + logical address
