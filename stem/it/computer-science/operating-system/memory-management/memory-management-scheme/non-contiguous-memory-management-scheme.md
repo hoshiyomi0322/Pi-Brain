@@ -16,7 +16,7 @@
 - ### Address translation
     - #### [Logical address](../memory-management#logical-address) = $p\times n + d$
     - #### [Physical address](../memory-management#physical-address) = $f\times n + d$
-    - #### [Page offset (d)](#page-offset-d) = [frame offset (d)](#frame-offset-d)
+    - #### [Page offset (d)](#page-offset-d) = [Frame offset (d)](#frame-offset-d)
 - ### Page size (Frame size) = $n$
 - ### Page table
     - #### [Page number (p)](#page-number-p) → [Frame number (f)](#frame-number-f)
