@@ -7,20 +7,23 @@
 # Operator
 |Operators|Description|Example|
 |:---:|:---:|:---|
-|`;`|Command separator, runs multiple commands sequentially|`cd /log ; ls`|
-|`&&`|Logical AND, runs the second command only if the first succeeds|`apt update && apt upgrade`|
-|`\|\|`|Logical OR, runs the second command only if the first fails|`mkdir /data \|\| echo "Failed"`|
-|`&`|Runs the command in the background|`sleep 10 &`|
-|`\|`|Pipe, passes the output of one command as input to the next|`ps aux \| grep ssh`|
+|`<command_1> ; <command_2>`|Command separator, runs multiple commands sequentially|`cd /log ; ls`|
+|`<command_1> && <command_2>`|Logical AND, runs the second command only if the first succeeds|`apt update && apt upgrade`|
+|`<command_1> \|\| <command_2>`|Logical OR, runs the second command only if the first fails|`mkdir /data \|\| echo "Failed"`|
+|`<command_1> \| <command_2>`|Pipe, passes the output of one command as input to the next|`ps aux \| grep ssh`|
+|`<command> &`|Runs the command in the background|`sleep 10 &`|
 - ### Redirection Operators
     |Operators|Description|Example|
     |:---:|:---:|:---|
-    |`<`|Standard input redirection, reads input from a file instead of the keyboard|`sort < names.txt`|
-    |`>`|Standard output redirection, writes output to a file (overwrites existing content)|`ls -la > files.txt`|
-    |`>>`|Standard output append, appends output to the end of a file without overwriting|`echo "done" >> log.txt`|
-    |`2>`|Standard error redirection, writes error messages to a file (overwrites existing content)|`find / -name "*.conf" 2> errors.log`|
-    |`2>>`|Standard error append, appends error messages to the end of a file without overwriting|`apt update 2>> errors.log`|
-    |`<<`|Here Document, passes a multi-line block of text as standard input until a delimiter is reached|`cat << EOF > config.txt`<br>`host=localhost`<br>`port=8080`<br>`EOF`|
+    |`<command> < <file>`|Standard input redirection, reads input from a file instead of the keyboard|`sort < names.txt`|
+    |`<command> > <file>`|Standard output redirection, writes output to a file (overwrites existing content)|`ls -la > files.txt`|
+    |`<command> >> <file>`|Standard output append, appends output to the end of a file without overwriting|`echo "done" >> log.txt`|
+    |`<command> 2> <file>`|Standard error redirection, writes error messages to a file (overwrites existing content)|`find / -name "*.conf" 2> errors.log`|
+    |`<command> 2>> <file>`|Standard error append, appends error messages to the end of a file without overwriting|`apt update 2>> /dev/null`|
+    |`<command> &> <file>`||
+    |`<command> &>> <file>`||
+    |`<command> <<`|Here Document, passes a multi-line block of text as standard input until a delimiter is reached|`cat << EOF > config.txt`<br>`host=localhost`<br>`port=8080`<br>`EOF`|
+- ### xargs
 
 # Path
 |Path|Description|

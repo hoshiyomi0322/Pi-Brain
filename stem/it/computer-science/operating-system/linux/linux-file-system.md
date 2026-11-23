@@ -91,3 +91,8 @@
     |`/var/run`||
     |`/var/spool`||
     |`/var/tmp`||
+- ### `/dev`
+    |Directory|Description|
+    |:---:|:---:|
+    |`/dev/null`||
+    |`/dev/random`||
