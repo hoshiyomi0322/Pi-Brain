@@ -1,7 +1,7 @@
 # Non-Contiguous Memory Management Scheme
-- ### Paging (fixed-size)
+- ### [Paging (fixed-size)](#paging)
     - #### Demand Paging
-- ### Segmentation (variable-size)
+- ### [Segmentation (variable-size)](#segmentation)
     - #### Demand Segmentation
 
 # Paging
@@ -14,10 +14,10 @@
     - #### Frame number (f)
     - #### Frame offset (d)
 - ### Address translation
-    - #### Logical address = p + d
-    - #### Physical address = f + d
+    - #### [Logical address](../memory-management#logical-address) = $p\times n + d$
+    - #### [Physical address](../memory-management#physical-address) = $f\times n + d$
     - #### [Page offset (d)](#page-offset-d) = [frame offset (d)](#frame-offset-d)
-- ### Page size (Frame size)
+- ### Page size (Frame size) = $n$
 - ### Page table
     - #### [Page number (p)](#page-number-p) → [Frame number (f)](#frame-number-f)
 
