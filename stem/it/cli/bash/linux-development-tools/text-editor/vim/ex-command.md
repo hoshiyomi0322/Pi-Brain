@@ -21,14 +21,14 @@
 # Global Commands
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`[range]g/<pattern>/[ex_command]`|Execute [Ex command](ex-command.md) on all lines matching `pattern` in a specific [Range](vim.md#range)|`:g/miko/d`|
-|`[range]v/<pattern>/[ex_command]`|Execute [Ex command](ex-command.md) on all lines not matching `pattern` in a specific [Range](vim.md#range)|`:v/miko/d`|
+|`[range]g/<pattern>/[ex_command]`|Execute [Ex command](ex-command.md) on all lines matching `pattern` in a specific [range](vim.md#range)|`:g/miko/d`|
+|`[range]v/<pattern>/[ex_command]`|Execute [Ex command](ex-command.md) on all lines not matching `pattern` in a specific [range](vim.md#range)|`:v/miko/d`|
 - `pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
 
 # Substitute
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`[range]s/<pattern>/<string>/[flags]`|Replace the first match of `pattern` with `string` on each line in a specific [Range](vim.md#range)|`:s/peko/miko/`|
+|`[range]s/<pattern>/<string>/[flags]`|Replace the first match of `pattern` with `string` on each line in a specific [range](vim.md#range)<br>(`pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex))|`:s/peko/miko/`|
 - ### Flags
     |Flag|Description|
     |:---:|:---:|
@@ -37,12 +37,11 @@
     |`i`|Ignore case when matching|
     |`I`|Force case-sensitive matching|
     |`n`|Count matches without replacing|
-- `pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
 
 # Sort
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`[range]sort [flags]`|Sort lines alphabetically in a specific [Range](vim.md#range)<br>(default entire file)|`:'<,'>sort`|
+|`[range]sort [flags]`|Sort lines alphabetically in a specific [range](vim.md#range)<br>(default entire file)|`:'<,'>sort`|
 - ### Flags
     |Flags|Description|Example|
     |:---:|:---:|:---:|
@@ -55,13 +54,13 @@
 # Indentation and Alignment
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`<range>>`|Indent lines to the right in a specific [Range](vim.md#range)|`:.>`|
-|`<range><`|Indent lines to the left (unindent) in a specific [Range](vim.md#range)|`:.<`|
-|`<range>le [indent]`|Left-align lines in a specific [Range](vim.md#range)<br>(`indent` = leading spaces to keep, default `0`)|`:'<,'>le`|
-|`<range>ce [width]`|Center-align lines in a specific [Range](vim.md#range)<br>(`width` = line width in characters, default `80`)|`:'<,'>ce`|
-|`<range>ri [width]`|Right-align lines in a specific [Range](vim.md#range)<br>(`width` = line width in characters, default `80`)|`:'<,'>ri`|
-|`<range>retab`|Replace `<Tab>` characters with spaces in a specific [Range](vim.md#range)|`:%retab`|
-|`<range>retab!`|Replace spaces characters with `<Tab>` in a specific [Range](vim.md#range)|`:%retab`|
+|`<range>>`|Indent lines to the right in a specific [range](vim.md#range)|`:.>`|
+|`<range><`|Indent lines to the left (unindent) in a specific [range](vim.md#range)|`:.<`|
+|`<range>le [indent]`|Left-align lines in a specific [range](vim.md#range)<br>(`indent` = leading spaces to keep, default `0`)|`:'<,'>le`|
+|`<range>ce [width]`|Center-align lines in a specific [range](vim.md#range)<br>(`width` = line width in characters, default `80`)|`:'<,'>ce`|
+|`<range>ri [width]`|Right-align lines in a specific [range](vim.md#range)<br>(`width` = line width in characters, default `80`)|`:'<,'>ri`|
+|`<range>retab`|Replace `<Tab>` characters with spaces in a specific [range](vim.md#range)|`:%retab`|
+|`<range>retab!`|Replace spaces characters with `<Tab>` in a specific [range](vim.md#range)|`:%retab`|
 
 # Set Options
 |Ex Command|Description|Example|
@@ -103,5 +102,5 @@
 # Others
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`[range]norm <command>`|Execute a [Normal Mode command](vim.md#normal-mode) on each line in a specific [Range](vim.md#range)|`:'<,'>norm A;`|
+|`[range]norm <command>`|Execute a [Normal Mode command](vim.md#normal-mode) on each line in a specific [range](vim.md#range)|`:'<,'>norm A;`|
 |`<n>`|Jump to `n`th line|
