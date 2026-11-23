@@ -6,6 +6,7 @@
 # Digital Audio Workstation (DAW)
 - ### Audacity
 - ### Studio One 5
+- ### FL Studio
 - ### Vocaloid Editor
     - ### Piapro Studio
 
