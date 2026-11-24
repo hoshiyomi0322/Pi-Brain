@@ -11,5 +11,6 @@
 # Edit Distance
 - ### Levenshtein Distance
 - ### Hamming Distance
+    - [Hamming Code](/stem/it/computer-science/data-representation/encoding/error-detection-and-correction/block-code/linear-block-code.md#hamming-code)
 - ### [LCS](longest-common-subsequence-lcs) Distance
 - ### Damerau–Levenshtein Distance
