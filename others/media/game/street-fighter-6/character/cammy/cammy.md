@@ -8,7 +8,7 @@
     - #### Hooligan-下段：236P
     - #### Hooligan-x空插：236P + xK
     - #### Hooligan-中段：236P + 2K
-    - #### Hooligan-Cancel：236P + P
+    - #### Hooligan-cancel：236P + P
     - #### Hooligan-コマ投げ：236P + 投げ
     - #### 強溜めHooligan-x：236HP + X
     - #### Hooligan-delay-x：236K + delay + x
@@ -229,30 +229,30 @@
         - その場受け身/Corner
             - 強Hooligan-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - [Hooligan-delay-コマ投げ OKI](#hooligan-delay-コマ投げ-oki-31f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
     - ### Close 36F Hooligan-中段 OKI (36F)
         - 強Hooligan-強空插 + [5HP Combo](#5hp-combo)/[2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
             - ガード(強Hooligan-強空插) + [2MP Combo](#2mp-combo)
         - 強Hooligan-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - [Hooligan-delay-コマ投げ OKI](#hooligan-delay-コマ投げ-oki-31f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
     - ### Mid 36F Hooligan-中段 OKI (36F)
         - その場受け身/Corner
             - 強Hooligan-強空插 + [5HP Combo](#5hp-combo)/[2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
                 - ガード(強Hooligan-強空插) + [2MP Combo](#2mp-combo)
             - 強Hooligan-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - [Hooligan-delay-コマ投げ OKI](#hooligan-delay-コマ投げ-oki-31f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
     - ### 37F Hooligan-中段 OKI (37F/38F)
         - 強Hooligan-強空插 + [5HP Combo](#5hp-combo)/[2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
             - ガード(強Hooligan-強空插) + [2MP Combo](#2mp-combo)
         - 強Hooligan-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - [Hooligan-delay-コマ投げ OKI](#hooligan-delay-コマ投げ-oki-31f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
     - ### Hooligan-中段 重ね (39F/40F)
         - 強Hooligan-中段 + [5HP Combo](#5hp-combo)/[2HP Combo](#2hp-combo)/[4HK Combo](#4hk-combo)
         - [Hooligan-delay-コマ投げ OKI](#hooligan-delay-コマ投げ-oki-31f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
 - ### 強溜めHooligan OKI
     - ### 強溜めHooligan-コマ投げ OKI (45F~48F)
         - 強溜めHooligan-コマ投げ + [OD Hooligan-コマ投げ Extension Combo](cammy-special-move.md#od-hooligan-コマ投げ-extension-combo)
@@ -266,12 +266,12 @@
         - 強溜めHooligan-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - 強溜めHooligan-delay-強空插 + [2MP Combo](#2mp-combo)
         - [強溜めHooligan-delay-コマ投げ OKI](#強溜めhooligan-delay-コマ投げ-oki-49f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
     - ### 強溜めHooligan-delay-中段 OKI (58F~)
         - 強溜めHooligan-delay-中段 + [Hooligan-中段 Extension Combo](cammy-special-move.md#hooligan-中段-extension-combo)
         - 強溜めHooligan-delay-強空插 + [2MP Combo](#2mp-combo)
         - [強溜めHooligan-delay-コマ投げ OKI](#強溜めhooligan-delay-コマ投げ-oki-49f)
-        - 防パナシ：Hooligan-Cancel
+        - 防パナシ：Hooligan-cancel
 - ### 45F OKI
     - 消費(前ステ) + [27F 強Spin-knuckle OKI](#27f-強spin-knuckle-oki-27f)
     - その場受け身/Corner：[強溜めHooligan-コマ投げ OKI](#強溜めhooligan-コマ投げ-oki-45f48f)

@@ -41,7 +41,7 @@
     - 4HK + (CDR + [強旋風腳 Air Combo]()/[Corner 弱昇竜 Combo]())
     - 4HK + 消費(中百鬼-下段) + [5F打摔擇]()
     - 4HK + 消費(強灼火) + [32F OKI](gouki.md#32f-oki)
-    - 4HK + 消費(強百鬼-Cancel) + [Close 28F OKI](gouki.md#close-28f-oki)
+    - 4HK + 消費(強百鬼-cancel) + [Close 28F OKI](gouki.md#close-28f-oki)
 
 # 4HK Air Combo
 - [General 4HK Combo](#general-4hk-combo)
