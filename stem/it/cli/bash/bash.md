@@ -22,7 +22,13 @@
     |`<command> 2>> <file>`|Standard error append, appends error messages to the end of a file without overwriting|`apt update 2>> /dev/null`|
     |`<command> &> <file>`||
     |`<command> &>> <file>`||
-    |`<command> <<`|Here Document, passes a multi-line block of text as standard input until a delimiter is reached|`cat << EOF > config.txt`<br>`host=localhost`<br>`port=8080`<br>`EOF`|
+    |`<command> << <delimiter>`|Here Document, passes a multi-line block of text as standard input until a delimiter is reached|`cat << EOF > config.txt`<br>`host=localhost`<br>`port=8080`<br>`EOF`|
+    - #### `>&`
+        |Operators|Description|Example|
+        |:---:|:---:|:---|
+        |`2>&1`|||
+        |`>&2`|||
+        |`<command> >& <file>`|||
 - ### xargs
 
 # Path
