@@ -29,6 +29,16 @@
         |`2>&1`|||
         |`>&2`|||
         |`<command> >& <file>`|||
+- ### Command Grouping
+    |Operators|Description|Example|
+    |:---:|:---:|:---:|
+    |`( <commands...> )`|Executes commands in a subshell<br>(variable changes and directory shifts do not affect the parent shell)|`( cd /tmp && ls ) > files.txt`|
+    |`{ <commands...>; }`|Executes commands in the current shell<br>(changes persist)|`{ echo "Start"; date; } >> log.txt`|
+- ### Command Grouping
+    |Operators|Description|Example|
+    |:---:|:---:|:---:|
+    |`( <commands...> )`||
+    |`{ <commands...>; }`||
 - ### eXtended ARGuments (xargs)
     |Command|Description|Example|
     |:---:|:---:|:---:|
@@ -81,6 +91,21 @@
 - ### For
 - ### While
 - ### Until
+
+# Variable in Bash
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`=`|||
+|`set`|||
+|`unset`|||
+|`read`|||
+|`local`|||
+|`export`|||
+|`env`|||
+- ### Declare
+    |Command|Description|Example|
+    |:---:|:---:|:---:|
+    |`declare`|||
 
 # Basic Command in Bash
 - ### Help
