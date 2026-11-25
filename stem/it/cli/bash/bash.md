@@ -131,6 +131,10 @@
     |Command|Description|
     |:---:|:---:|
     |`echo`||
+- ### Printf
+    |Command|Description|
+    |:---:|:---:|
+    |`printf`||
 - ### Date
     |Command|Description|
     |:---:|:---:|
@@ -166,7 +170,7 @@ sudo apt-get purge <package-name>
 # Shell Script
 - ### Shebang
     ```bash
-    #!
+    #!/bin/bash
     ```
 
 # Linux Development Tools
