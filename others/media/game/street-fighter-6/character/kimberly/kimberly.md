@@ -38,7 +38,7 @@
     - 6HK + 7
 - ### 6HK Air Combo
     - 6HK + (弱一文字 + SA3)
-    - 6HK + (9 + JHK + [6HK OKI](#6hk-oki-28f))
+    - 6HK + (9 + JHK + [6HK OKI](#6hk-oki-25f28f))
 - ### 4HK Combo
     - 4HK + (2LP + [Light Cancel Combo](#light-cancel-combo))
 - ### DR 5HK Combo
@@ -47,6 +47,7 @@
 
 # Medium Attack Combo
 - ### 5MP Combo
+    - (5MP + 5HP) + [Sprint-空插 Combo](kimberly-special-move.md#sprint-空插-combo)
     - (5MP + 5HP) + (中一文字 + [DI OKI](#di-oki-25f26f))
 - ### 2MP Combo
     - 2MP + [5MP Combo](#5mp-combo)
@@ -113,16 +114,44 @@
     - ガード(DR + 2MP) + [5F打摔擇](#5f打摔擇-4f5f)
     - [DR 2MK Combo](#dr-2mk-combo)
 - ### 4HK OKI (20F~22F)
-    - [4HK Combo](#4hk-combo)
+    - Close：[4HK Combo](#4hk-combo)
+    - その場受け身/Corner：消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+    - [DR 5HK Combo](#dr-5hk-combo)
+- ### 23F OKI
+    - [DR 5HK 重ね](#dr-5hk-重ね-23f25f)
     - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
+- ### DR 5HK 重ね (23F~25F)
+    - (DR + 5HK) + [5HK Combo](#5hk-combo)/[2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)
+    - ガード(DR + 5HK) + [5HK Combo](#5hk-combo)/[2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)
+    - [6HK OKI](#6hk-oki-25f28f)
+- ### 25F OKI
+    - [DI OKI](#di-oki-25f26f)
+    - [DR 5HK 重ね](#dr-5hk-重ね-23f25f)
 - ### DI OKI (25F/26F)
     - DI
     - 消費(Sprint-cancel) + [5F打摔擇](#5f打摔擇-4f5f)
-- ### 6HK OKI (28F)
+    - [6HK OKI](#6hk-oki-25f28f)
+- ### 6HK OKI (25F~28F)
     - [6HK Combo](#6hk-combo)
+    - Sprint-中段
 - ### DR 3MK 重ね (30F)
     - (DR + 3MK) + [2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)
     - ガード(DR + 3MK) + [5F打摔擇](#5f打摔擇-4f5f)
+    - Sprint-中段 + [6HK OKI](#6hk-oki-25f28f)
+    - ガード(Sprint-中段) + [3F打摔擇](#3f打摔擇-2f3f)
+- ### 42F OKI (42F/43F)
+    - 安全飛び
+    - 消費(前ステ) + [25F OKI](#25f-oki)
+- ### 50F OKI (50F~53F)
+    - Corner
+        - 放炸彈 + (5HK + 5MP + 弱一文字) + [Air-コマ投げ Combo](#air-コマ投げ-combo)
+        - 放炸彈 + ガード(5HK + 5MP + 弱一文字) + [5HK Combo](#5hk-combo)/[2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)
+- ### 55F OKI (54F/55F)
+    - Corner
+        - 放炸彈 + (5HK + 5MP + [強一文字 Combo](kimberly-special-move.md#強一文字-combo))
+        - 放炸彈 + ガード(5HK) + (5MP + [強一文字 Combo](kimberly-special-move.md#強一文字-combo)/[Air-コマ投げ Combo](#air-コマ投げ-combo))
+        - 放炸彈 + ガード(5HK + 5MP) + [Sprint Combo](kimberly-special-move.md#sprint-combo)
+        - 放炸彈 + ガード(5HK + 5MP) + 消費(Sprint-cancel) + [4HK Combo](#4hk-combo)
 
 # todo
 - https://youtu.be/zetWIsQX87Q
