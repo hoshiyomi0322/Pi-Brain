@@ -59,3 +59,39 @@
 |`grep [option] <"pattern"> [files...]`|Search for a `pattern` in files|`grep "sui" a.txt b.txt`, `history\|grep "cd"`|
 |`grep -r [option] <"pattern"> [folders...]`|Search for a `pattern` in folders|`grep "^sui" a/ b/`|
 - `pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
+
+# AWK
+|Command|Description|Example|
+|:---:|:---:|:---:|
+|`awk [option] '[pattern] {<action>}' [files...]`||
+- ### Action
+    |Action|Description|
+    |:---:|:---:|
+    |
+- ### Pattern
+    |Pattern|Description|Example|
+    |:---:|:---:|:---:|
+    |`<expression>`|Matches when a numeric or string condition is true|
+    |`<pattern1>, <pattern2>`|Matches all lines starting from `pattern1` up to `pattern2`|
+    |`BEGIN`||
+    |`END`||
+    - #### [Regular Expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
+        |Pattern|Description|Example|
+        |:---:|:---:|:---:|
+        |`/<pattern>/`|Matches when the entire line fits the pattern|`/^Error/ { print $0 }`|
+        |`<field> ~ /<pattern>/`|Matches when a specific [field](#field) fits the pattern|`$2 ~ /^[0-9]+$/ { print $1 }`|
+        |`<field> !~ /<pattern>/`|Matches when a specific [field](#field) does not fit the pattern|`$1 !~ /^#/ { print $0 }`|
+        - `pattern` is [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex)
+- ### Option
+    |Option|Description|Example|
+    |:---:|:---:|:---:|
+    |`-F <field_separator>`||
+    |`-f`||
+    |`-v`||
+- ### Field
+    |Field|Description|Example|
+    |:---:|:---:|:---:|
+    |`$<n>`||`$3`|
+    |`$0`|||
+    |`$NF`|||
+    |`$(NF-<n>)`||`$(NF-5)`|

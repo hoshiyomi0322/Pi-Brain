@@ -129,6 +129,10 @@
     |`-size <-n\|n\|+n><unit>`|Search by file size<br>units：`k`(kB), `M`(MB), `G`(GB)<br>smaller than n (`-n`), equal to n (`n`), larger than n (`+n`)|`-size +100M` (larger than 100MB)|
     |`-perm <octal_mode>`|Search by [octal mode (permission mode)](/stem/it/computer-science/operating-system/linux/linux-file-system.md#octal-mode)|`-perm 755`|
     |`-user <username>`|Search for files owned by a specific username or UID|`-user root`|
+    - #### Exclusion
+        |Search Criteria|Description|Example|
+        |:---:|:---:|:---:|
+        |`! <search_criteria>`, `-not <search_criteria>`|Exclude items matching [search criteria](#search-criteria)|`! -name "*.log"`, `! -perm 640`|
 - ### Actions
     |Actions|Description|Example|
     |:---:|:---:|:---:|

@@ -6,7 +6,7 @@
 - ### Abstract Syntax Tree (AST)
 - ### Decision Tree
     - ### Game Tree
-- ### Disjoint Set
+- ### Disjoint Set Union (DSU, Union-Find, Merge-Find Set)
 
 # Elements of Tree
 <div align="center"><img src="./image/tree.png" width="30%"></div>

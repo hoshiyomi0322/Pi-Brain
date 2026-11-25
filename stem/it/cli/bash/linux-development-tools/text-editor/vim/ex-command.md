@@ -28,8 +28,8 @@
 # Substitute
 |Ex Command|Description|Example|
 |:---:|:---:|:---:|
-|`[range]s/<pattern>/<string>/[flags]`|Replace the first match of `pattern` with `string` on each line in a specific [range](vim.md#range)<br>(`pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex))|`:s/peko/miko/`|
-- ### Flags
+|`[range]s/<pattern>/<string>/[flag]`|Replace the first match of `pattern` with `string` on each line in a specific [range](vim.md#range)<br>(`pattern` can be plain text or [regular expression](/stem/it/computer-science/theory-of-computation/automata-theory-and-formal-languages/regular-language/regular-language.md#regular-expression-regex))|`:s/peko/miko/`|
+- ### Flag
     |Flag|Description|
     |:---:|:---:|
     |`g`|Replace all matches on each line (Global)|

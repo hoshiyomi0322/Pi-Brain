@@ -29,7 +29,10 @@
         |`2>&1`|||
         |`>&2`|||
         |`<command> >& <file>`|||
-- ### xargs
+- ### eXtended ARGuments (xargs)
+    |Command|Description|Example|
+    |:---:|:---:|:---:|
+    |`<command_1>  \| xargs [options] <command_2>`|
 
 # Path
 |Path|Description|
@@ -168,6 +171,7 @@ sudo apt-get purge <package-name>
 
 # Linux Development Tools
 - ### Text Editor
+    - #### [Stream Editor (sed)](./linux-development-tools/text-editor/stream-editor.md)
     - #### [Vi IMproved (Vim)](./linux-development-tools/text-editor/vim/vim.md)
     - #### [GNU nano (nano)](./linux-development-tools/text-editor/nano.md)
     - #### Editor MACroS (Emacs)

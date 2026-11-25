@@ -82,7 +82,7 @@
     - #### Interval
         |Interval|Description|
         |:---:|:---:|
-        |`<start>,<end>`|Range from `start` line to `end` line (inclusive)|
+        |`<start>,<end>`|Range from `start` line to `end` line|
         |`3,5`|Frome the 3rd line to the 5th line|
         |`.,$`|From the current line to the last line of the file|
         |`1,.`|From the first line to the current line|
