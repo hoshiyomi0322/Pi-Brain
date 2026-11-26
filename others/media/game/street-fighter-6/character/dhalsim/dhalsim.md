@@ -53,8 +53,14 @@
     - #### OD Flame Combo
         - OD Flame + 2HK/[51F OKI](#51f-oki)
         - Mid：OD Flame + Mid-SA1/SA3
+- ### Blast Combo
+    - #### 強Blast Combo
+        - 強Blast + [47F OKI](#47f-oki)
+    - #### OD Blast Combo
+        - OD Blast + [Teleport-3F打摔擇 OKI](#teleport-3f打摔擇-oki-41f42f)
 
 # Heavy Attack Combo
+- ### 1HP Combo
 - ### 4HP Air Combo
     - 4HP + 強Flame/High-SA1
     - 4HP + (CDR + [4HP Air Combo](#4hp-air-combo))
@@ -62,6 +68,7 @@
 
 # Medium Attack Combo
 - ### 2MP Combo
+- ### 4MP Combo
 - ### 4MK Combo
 
 # Light Attack Combo
@@ -108,17 +115,38 @@
 - ### 4MK OKI (6F~8F)
     - [4MK Combo](#4mk-combo)
     - 前歩き + [投げ](#投げ)
+- ### 1HP OKI (9F~11F)
+    - [1HP Combo](#1hp-combo)
+- ### 2MK 重ね (20F)
+    - 2MK + [4MP Combo](#4mp-combo)/[4MK Combo](#4mk-combo)
+    - ガード(2MK) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### DI OKI (25F/26F)
     - DI
     - 中Flame
-- ### 45F OKI
-    - その場受け身/Corner
-        - 消費(Forward-teleport) + [4MK OKI](#4mk-oki-6f8f)
-        - 消費(Switch-teleport) + [4MK OKI](#4mk-oki-6f8f)
+- ### Fire OKI (41F~47F)
     - 弱Fast-fire + [Mid Fire Extension Combo](#mid-fire-extension-combo)
     - OD Slow-fire + [Mid OD Fire Extension Combo](#mid-od-fire-extension-combo)
     - 對手 Parry：消費(強Fast-fire/OD Fast-fire) + (DR + [投げ](#投げ))
     - Arch/OD Arch
+- ### Teleport-3F打摔擇 OKI (41F/42F)
+    - 消費(Switch-teleport) + [3F打摔擇](#3f打摔擇-2f3f)
+    - その場受け身/Corner：消費(Forward-teleport) + [3F打摔擇](#3f打摔擇-2f3f)
+    - [Fire OKI](#42f-oki-41f42f)
+- ### Teleport-5F打摔擇 OKI (43F/44F)
+    - 消費(Switch-teleport) + [5F打摔擇](#5f打摔擇-4f5f)
+    - その場受け身/Corner：消費(Forward-teleport) + [5F打摔擇](#5f打摔擇-4f5f)
+    - [Fire OKI](#42f-oki-41f42f)
+- ### Teleport-4MK OKI (45F~47F)
+    - その場受け身/Corner
+        - 消費(Forward-teleport) + [4MK OKI](#4mk-oki-6f8f)
+        - 消費(Switch-teleport) + [4MK OKI](#4mk-oki-6f8f)
+    - [Fire OKI](#42f-oki-41f42f)
+- ### 45F OKI
+    - [Teleport-4MK OKI](#teleport-4mk-oki-45f47f)
+    - 消費(前ステ) + [2MK 重ね](#2mk-重ね-20f)
+- ### 47F OKI
+    - [Teleport-4MK OKI](#teleport-4mk-oki-45f47f)
+    - 消費(2MK) + [1HP OKI](#1hp-oki-9f11f)
 - ### 51F OKI
     - 消費(2LK/前ステ) + [DI OKI](#di-oki-25f26f)
 
