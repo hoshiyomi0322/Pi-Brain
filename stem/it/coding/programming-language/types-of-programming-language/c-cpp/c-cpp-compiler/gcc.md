@@ -1,5 +1,5 @@
 # Bash
-- ### [Bash](../bash.md)
+- ### [Bash](/stem/it/cli/bash/bash.md)
 
 # GNU Compiler Collection (GCC)
 - ### [Ahead-Of-Time Compilation (AOT Compilation)](/stem/it/computer-science/computer-organization-and-architecture/build-process/build-process.md#ahead-of-time-compilation-aot-compilation)
@@ -7,7 +7,6 @@
 - ### Preprocessor + Compiler + Assembler + [Linker](/stem/it/computer-science/computer-organization-and-architecture/build-process/linker.md)
     - #### [GNU C Compiler (gcc)](#gnu-c-compiler-gcc-1)
     - #### [GNU C++ Compiler (g++)](#gnu-c-compiler-g-1)
-    - ### [make](#make-1)
 - ### Execute：`<executable code>`
     ```bash
     ./main # Path of Executable code
@@ -49,10 +48,5 @@
     g++ main.cpp -o main # output filename is `main`
     ```
 
-# make
-- ### makefile
-    ```makefile
-    target: main.c
-    # comment
-    ```
+
 

@@ -12,3 +12,8 @@
 # HTTP API
 - ### FastAPI
 
+# [Graphics API](../../visual-computing/computer-graphics/computer-graphics.md#graphics-api)
+- ### [Open Graphics Library (OpenGL)](../../visual-computing/computer-graphics/graphics-api/opengl.md)
+- ### [DirectX](../../visual-computing/computer-graphics/computer-graphics.md#directx)
+- ### [Vulkan](../../visual-computing/computer-graphics/computer-graphics.md#vulkan)
+- ### [Metal](../../visual-computing/computer-graphics/computer-graphics.md#metal)

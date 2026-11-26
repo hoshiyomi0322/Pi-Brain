@@ -7,8 +7,11 @@
 - ### Real-time Rendering
 - ### Pre-Rendering (Offline Rendering)
 
-# Open Graphics Library (OpenGL)
-- ### OpenGL Shading Language (GLSL)
+# Graphics [API](../../software-development/api/api.md)
+- ### [Open Graphics Library (OpenGL)](./graphics-api/opengl.md)
+- ### DirectX
+- ### Vulkan
+- ### Metal
 
 # Types of CG
 - ### 2D CG
@@ -22,5 +25,4 @@
     - ### Blender
     - ### MikuMikuDance (MMD)
 - ### Interactive CG
-
 

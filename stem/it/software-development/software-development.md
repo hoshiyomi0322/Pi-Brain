@@ -11,8 +11,8 @@
 - ### [Programming Language](../coding/programming-language/programming-language.md)
 - ### [Node.js](./back-end/node-js/node-js.md)
     - #### [Express.js](./back-end/node-js/express-js.md)
-- ### .NET Core
-    - #### [ASP.NET Core](./back-end/net-core/asp-net-core.md)
+- ### [.NET Platform](./back-end/net-platform/net-platform.md)
+    - #### [ASP.NET Core](./back-end/net-platform/asp-net-core.md)
 - ### Web Server
     - #### Nginx
     - #### Apache

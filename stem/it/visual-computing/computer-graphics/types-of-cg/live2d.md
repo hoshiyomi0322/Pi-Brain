@@ -1,1 +1,1 @@
-- ### Live2D Cubism Editor
+# Live2D Cubism Editor

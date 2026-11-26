@@ -1,6 +1,6 @@
 # Sieve of Eratosthenes
 - ### Step
-- ### Sieve of Eratosthenes in C
+- ### Sieve of Eratosthenes in [C](/stem/it/coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
     ```c
     #include <stdbool.h>
     #define MAX 100 //質數的數量上限，可調整
@@ -35,7 +35,7 @@
 
 # Sieve of Euler
 - ### Step
-- ### Sieve of Euler in C
+- ### Sieve of Euler in [C](/stem/it/coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
     ```c
     #include <stdbool.h>
     #define MAX 100 //質數的數量上限，可調整

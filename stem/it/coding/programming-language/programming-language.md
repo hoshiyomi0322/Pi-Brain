@@ -8,10 +8,11 @@
     - #### [Cryptographic Hash Function (CHF)](./data-structures-and-algorithms/hashing/cryptographic-hash-function.md)
 
 # Types of Programming Language
-- ### [C](./types-of-programming-language/c/c.md)
+- ### [C/C++](./types-of-programming-language/c-cpp/c-cpp.md)
+    - ### [C](./types-of-programming-language/c-cpp/c/c.md)
+    - ### [C++](./types-of-programming-language/c-cpp/cpp/cpp.md)
 - ### [Rust](./types-of-programming-language/rust/rust.md)
 - ### Object-Oriented Programming (OOP)
-    - ### [C++](./types-of-programming-language/oop/cpp/cpp.md)
     - ### C#
     - ### [Python](./types-of-programming-language/oop/python/python.md)
     - ### PHP

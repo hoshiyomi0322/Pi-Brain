@@ -4,9 +4,8 @@
     - #### [Algorithm](./programming-language/data-structures-and-algorithms/algorithm/algorithm.md)
     - #### [Hashing](./programming-language/data-structures-and-algorithms/hashing/hashing.md)
 - ### Types of Programming Language
-    - #### [C](./programming-language/types-of-programming-language/c/c.md)
+    - #### [C/C++](./programming-language/types-of-programming-language/c-cpp/c-cpp.md)
     - #### [Rust](./programming-language/types-of-programming-language/rust/rust.md)
-    - #### [C++](./programming-language/types-of-programming-language/oop/cpp/cpp.md)
     - #### C#
     - #### [Python](./programming-language/types-of-programming-language/oop/python/python.md)
     - #### PHP

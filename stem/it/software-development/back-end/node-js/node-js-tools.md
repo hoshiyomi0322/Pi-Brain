@@ -7,6 +7,7 @@
 |`npm update`||
 |`npm run <script>`||
 |`npm list`||
+- ### package.json
 
 # Process Manager (pm2)
 |Command|Description|

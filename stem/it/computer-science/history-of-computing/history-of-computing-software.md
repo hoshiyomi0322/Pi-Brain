@@ -49,8 +49,8 @@
     - #### Structured BASIC
     - #### Pascal
     - #### Modula-2
-    - #### [C](../../coding/programming-language/types-of-programming-language/c/c.md)
-    - #### [C++](../../coding/programming-language/types-of-programming-language/oop/cpp/cpp.md)
+    - #### [C](../../coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
+    - #### [C++](../../coding/programming-language/types-of-programming-language/c-cpp/cpp/cpp.md)
 - ### [Operating Systems (OS)](../operating-system/operating-system.md)
     |Operating Systems|Developer|
     |:---:|:---:|
@@ -76,7 +76,7 @@
     - #### Google Workspace
 - ### Object-Oriented Design (OOD)/[Object-Oriented Programming (OOP)](../../coding/programming-language/programming-language.md#object-oriented-programmingoop)
     - #### Simula
-    - #### [C++](../../coding/programming-language/types-of-programming-language/oop/cpp/cpp.md)
+    - #### [C++](../../coding/programming-language/types-of-programming-language/c-cpp/cpp/cpp.md)
     - #### Objective-C
     - #### Object Pascal
     - #### [Python](../../coding/programming-language/types-of-programming-language/oop/python/python.md)

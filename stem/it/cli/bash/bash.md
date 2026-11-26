@@ -205,7 +205,6 @@ sudo apt-get purge <package-name>
     - #### [GNU nano (nano)](./linux-development-tools/text-editor/nano.md)
     - #### Editor MACroS (Emacs)
 - ### [Git](/stem/it/it-tools/git/git.md)
-- ### [GNU Compiler Collection (GCC)](./linux-development-tools/gcc.md)
 - ### [Terminal Multiplexer (tmux)](./linux-development-tools/tmux.md)
 - ### [Rclone](./linux-development-tools/rclone.md)
 - ### [Fastfetch](./linux-development-tools/fastfetch.md)

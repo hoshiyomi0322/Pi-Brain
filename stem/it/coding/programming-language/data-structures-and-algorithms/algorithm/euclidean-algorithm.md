@@ -6,7 +6,7 @@
     |$a=b$|$\gcd{\left(a,~a\right)} = \gcd{\left(a,~a\bmod a\right)} = \gcd{\left(a,~0\right)} = a$|
     |$a<b$|$\gcd{\left(a,~b\right)} = \gcd{\left(b,~a\bmod b\right)} = \gcd{\left(b,~a\right)}$|
     |$a=0$|$\gcd{\left(0,~b\right)} = \gcd{\left(b,~0\bmod b\right)} = \gcd{\left(b,~0\right)} = b$|
-- ### GCD in C
+- ### GCD in [C](/stem/it/coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
     ```c
     int gcd(int a, int b){
         if(b == 0) return a;
@@ -19,7 +19,7 @@
 
 # Least Common Multiple (LCM)
 - ### $\text{lcm}\left(a,~b\right) = \frac{|a\times b|}{\gcd{\left(a,~b\right)}}$
-- ### LCM in C
+- ### LCM in [C](/stem/it/coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
     ```c
     int gcd(int a, int b){
         if(b == 0) return a;

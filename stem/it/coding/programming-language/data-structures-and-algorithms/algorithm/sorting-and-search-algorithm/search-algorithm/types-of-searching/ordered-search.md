@@ -1,5 +1,5 @@
 # Binary Search
-- ### Binary Search in C
+- ### Binary Search in [C](/stem/it/coding/programming-language/types-of-programming-language/c-cpp/c/c.md)
     ```c
     int binary_srch(int a[], int n, int value){
         int low = 0, high = n-1, mid; 

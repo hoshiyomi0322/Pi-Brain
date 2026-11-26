@@ -4,7 +4,6 @@
     - ### [GNU nano (nano)](./bash/linux-development-tools/text-editor/nano.md)
 - ### [Fastfetch](./bash/linux-development-tools/fastfetch.md)
 - ### [Git](/stem/it/it-tools/git/git.md)
-- ### [GNU Compiler Collection (GCC)](./bash/linux-development-tools/gcc.md)
 - ### [Terminal Multiplexer (tmux)](./bash/linux-development-tools/tmux.md)
 - ### [Conda](./bash/linux-development-tools/conda.md)
 - ### [Ani-Cli](./bash/linux-development-tools/ani-cli.md)
