@@ -1,5 +1,5 @@
 # Command
-- ### 昇竜：214K
+- ### 旋風腳：214K
 - ### Air-旋風腳：9 + 214K
 - ### Air-コマ投げ：8/9 + 236P
 - ### Teleport：214P
@@ -39,6 +39,7 @@
 - ### 6HK Air Combo
     - 6HK + (弱一文字 + SA3)
     - 6HK + (9 + JHK + [6HK OKI](#6hk-oki-25f28f))
+    - 6HK + (9 + JHP + [42F OKI](#42f-oki-42f43f))
 - ### 4HK Combo
     - 4HK + (2LP + [Light Cancel Combo](#light-cancel-combo))
 - ### DR 5HK Combo
@@ -50,7 +51,7 @@
     - (5MP + 5HP) + [Sprint-空插 Combo](./kimberly-special-move/kimberly-special-move.md#sprint-空插-combo)
     - (5MP + 5HP) + (中一文字 + [DI OKI](#di-oki-25f26f))
     - (5MP + 5HP) + (Sprint-下段 + [47F OKI](#47f-oki))
-    - Corner：(5MP + 5HP) + (Sprint-下段 + 中昇竜)
+    - Corner：(5MP + 5HP) + (Sprint-下段 + 中旋風腳)
 - ### 2MP Combo
     - 2MP + [5MP Combo](#5mp-combo)
 - ### 3MK Combo
@@ -84,6 +85,7 @@
     - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
 - ### Heavy Attack PC Combo
     - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - 5HP(PC) + Teleport + [5HK Combo](#5hk-combo)/[2HP Combo](#2hp-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -91,7 +93,8 @@
 - ### Wall Splat Combo
     - DI(Wall spalt) + 
 - ### Stun Combo
-    - DI(Stun) + 
+    - DI(Stun) + OD放炸彈(弱中) + (2HP + 強一文字) + (9 + JHP) + [強一文字 Combo](./kimberly-special-move/kimberly-special-move.md#強一文字-combo)
+    - DI(Stun) + OD放炸彈(弱中) + (2HP + 強一文字) + (9 + JHP) + 消費(Sprint-cancel) + 2LP + Reset(DI)
 
 # Cancel Combo
 - ### Heavy Cancel Combo
@@ -143,9 +146,10 @@
     - Sprint-中段
 - ### DR 3MK 重ね (30F)
     - (DR + 3MK) + [2HP Combo](#2hp-combo)/[5HP Combo](#5hp-combo)
-    - ガード(DR + 3MK) + [5F打摔擇](#5f打摔擇-4f5f)
+        - ガード(DR + 3MK) + [5F打摔擇](#5f打摔擇-4f5f)
     - Sprint-中段 + [6HK OKI](#6hk-oki-25f28f)
-    - ガード(Sprint-中段) + [3F打摔擇](#3f打摔擇-2f3f)
+        - ガード(Sprint-中段) + [3F打摔擇](#3f打摔擇-2f3f)
+    - 消費(Sprint-cancel) + [5MP OKI](#5mp-oki-4f9f)
 - ### 42F OKI (42F/43F)
     - 安全飛び
     - 消費(前ステ) + [25F OKI](#25f-oki)
