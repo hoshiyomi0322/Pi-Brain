@@ -8,6 +8,18 @@
 # git fork
 - ### [git fork](./git-workflow/git-remote-operations.md#git-fork)
 
+# GitHub Insights
+- Pulse
+- Contributors
+- Community standards
+- Commits
+- Code frequency
+- Dependency graph
+- Network Graph
+- Forks
+- Actions usage metrics
+- Actions performance metrics
+
 # GitHub Pages
 - ### Link：`https://<username>.github.com/<repo_name>`
 
