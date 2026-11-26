@@ -123,7 +123,7 @@
 - ### DI OKI (25F/26F)
     - DI
     - 中Flame
-- ### Fire OKI (41F~47F)
+- ### Fire OKI (41F~49F)
     - 弱Fast-fire + [Mid Fire Extension Combo](#mid-fire-extension-combo)
     - OD Slow-fire + [Mid OD Fire Extension Combo](#mid-od-fire-extension-combo)
     - 對手 Parry：消費(強Fast-fire/OD Fast-fire) + (DR + [投げ](#投げ))
@@ -131,22 +131,27 @@
 - ### Teleport-3F打摔擇 OKI (41F/42F)
     - 消費(Switch-teleport) + [3F打摔擇](#3f打摔擇-2f3f)
     - その場受け身/Corner：消費(Forward-teleport) + [3F打摔擇](#3f打摔擇-2f3f)
-    - [Fire OKI](#42f-oki-41f42f)
+    - [Fire OKI](#fire-oki-41f49f)
 - ### Teleport-5F打摔擇 OKI (43F/44F)
     - 消費(Switch-teleport) + [5F打摔擇](#5f打摔擇-4f5f)
     - その場受け身/Corner：消費(Forward-teleport) + [5F打摔擇](#5f打摔擇-4f5f)
-    - [Fire OKI](#42f-oki-41f42f)
+    - [Fire OKI](#fire-oki-41f49f)
 - ### Teleport-4MK OKI (45F~47F)
     - その場受け身/Corner
         - 消費(Forward-teleport) + [4MK OKI](#4mk-oki-6f8f)
         - 消費(Switch-teleport) + [4MK OKI](#4mk-oki-6f8f)
-    - [Fire OKI](#42f-oki-41f42f)
+    - [Fire OKI](#fire-oki-41f49f)
 - ### 45F OKI
     - [Teleport-4MK OKI](#teleport-4mk-oki-45f47f)
     - 消費(前ステ) + [2MK 重ね](#2mk-重ね-20f)
 - ### 47F OKI
     - [Teleport-4MK OKI](#teleport-4mk-oki-45f47f)
     - 消費(2MK) + [1HP OKI](#1hp-oki-9f11f)
+- ### 49F OKI (49F~50F)
+    - その場受け身/Corner
+        - 消費(Forward-teleport) + [1HP OKI](#1hp-oki-9f11f)
+        - 消費(Switch-teleport) + [1HP OKI](#1hp-oki-9f11f)
+    - [Fire OKI](#fire-oki-41f49f)
 - ### 51F OKI
     - 消費(2LK/前ステ) + [DI OKI](#di-oki-25f26f)
 
