@@ -31,13 +31,23 @@
     - Corner：(2MK + 2HK) + SA1*2
 
 # Light Attack Combo
+- ### 5LP Combo
+- ### 2LP Combo
+- ### 5LK Combo
+- ### 2LK Combo
 
 # Counter Combo
 
 # PC Combo
-- ### 5HK PC Combo
-    - Close：5HK(PC) + [5MP Air Combo](#5mp-air-combo)
-    - Far：5HK(PC) + [DR 5MP Air Combo](#dr-5mp-air-combo)
+- ### Light Attack PC Combo
+    - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
+- ### Medium Attack PC Combo
+    - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+- ### Heavy Attack PC Combo
+    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - ### 5HK PC Combo
+        - Close：5HK(PC) + [5MP Air Combo](#5mp-air-combo)
+        - Far：5HK(PC) + [DR 5MP Air Combo](#dr-5mp-air-combo)
 
 # DI Combo
 - ### DI PC Combo
@@ -48,11 +58,18 @@
 - ### Stun Combo
     - DI(Stun) + 
 
+# Cancel Combo
+- ### Heavy Cancel Combo
+- ### Medium Cancel Combo
+- ### Light Cancel Combo
+- ### CDR Combo
+- ### ガード後 Cancel Combo
+
 # [投げ](../../street-fighter-6.md#throw)
 - ### 前投げ
     - #### Midscreen 前投げ
     - #### Corner 前投げ
-        - 前投げ + [Quick-burn OKI](#quick-burn-oki-22f)
+        - 前投げ + [Quick-burn 重ね](#quick-burn-重ね-22f)
 - ### 後ろ投げ
     - #### C-Switch 後ろ投げ
         - 後ろ投げ + [弱Crack-shoot OKI](#弱crack-shoot-oki-18f)
@@ -87,8 +104,8 @@
         - Corner：消費(5MP) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 弱Crack-shoot OKI (18F)
     - [弱Crack-shoot Combo](terry-special-move.md#弱crack-shoot-combo)
-- ### Quick-burn OKI (22F)
-    - [Quick-burn Combo](terry-special-move.md#quick-burn-combo)
+- ### Quick-burn 重ね (22F)
+    - Quick-burn + (5LP + [Light Cancel Combo](#light-cancel-combo))
     - 前ステ + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 強Burning-knuckle OKI (34F)
     - 強Burning-knuckle

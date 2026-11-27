@@ -187,15 +187,19 @@
 
 # PC Combo
 - ### Light Attack PC Combo
-    - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)、[6F PC](../../street-fighter-6.md#6f-pc)
-- ### 5HK PC Combo
-    - Mid：5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
-    - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
-    - 5HK(PC) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[強爆廻 Combo](jamie-special-move.md#強爆廻-combo)
-    - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
-    - Corner
-        - 5HK(PC) + (酒飲み + 2LP + [5HP High-Air Combo](#5hp-high-air-combo))
-        - 5HK(PC) + (前ステ + [2MP Air Combo](#2mp-air-combo))
+    - ガード後可以 Light Attack PC：[4F PC](../../street-fighter-6.md#4f-pc)
+- ### Medium Attack PC Combo
+    - ガード後可以Medium Attack PC：[8F PC](../../street-fighter-6.md#8f-pc)
+- ### Heavy Attack PC Combo
+    - ガード後可以Heavy Attack PC：[10F PC](../../street-fighter-6.md#10f-pc)
+    - ### 5HK PC Combo
+        - Mid：5HK(PC) + (前ステ + [2HP Air Combo](#2hp-air-combo))
+        - 5HK(PC) + [DR 天晴脚 Combo](jamie-special-move.md#dr-天晴脚-combo)
+        - 5HK(PC) + [推掌 Combo](jamie-special-move.md#推掌-combo)/[強爆廻 Combo](jamie-special-move.md#強爆廻-combo)
+        - 5HK(PC) + (酒飲み + [42F OKI](#42f-oki))
+        - Corner
+            - 5HK(PC) + (酒飲み + 2LP + [5HP High-Air Combo](#5hp-high-air-combo))
+            - 5HK(PC) + (前ステ + [2MP Air Combo](#2mp-air-combo))
 - ### OD推掌 PC Combo
     - #### Near-wall OD推掌 PC Combo
         - OD推掌(PC) + [強推掌 Combo](jamie-special-move.md#強推掌-combo)/[OD推掌 Combo](jamie-special-move.md#od推掌-combo)
