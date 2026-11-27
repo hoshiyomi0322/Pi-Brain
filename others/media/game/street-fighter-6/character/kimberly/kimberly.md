@@ -6,6 +6,7 @@
     - #### 偽Teleport：214P(Hold)
 - ### 一文字：236P
 - ### Sprint：236K
+    - #### Sprint-forward：236K + 6(Hold)
     - #### Sprint-cancel：236K + P
     - #### Sprint-対空：236K + LK
     - #### Sprint-下段：236K + MK

@@ -213,4 +213,4 @@
     |当身(打到) + OD地刺|-21F|遠距離SA, 綠衝(速度快)|
     |2HP(対空) + 地刺||DI, OD昇龍, SA3|
     |2HP(対空) + OD地刺||16F以內拳腳, OD昇龍, SA|
-
+- [淡水人 Arjun 対策](https://youtu.be/iZ8FAgSlE1o)
