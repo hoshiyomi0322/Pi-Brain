@@ -47,8 +47,7 @@
     - 6HK + (9 + JHK + [6HK OKI](#6hk-oki-25f28f))
         - Corner：6HK + (9 + JHK + [28F DR 3MK 重ね](#28f-dr-3mk-重ね-28f29f))
     - 6HK + (9 + JHP + [42F OKI](#42f-oki-42f43f))
-    - 6HK + (9 + OD Air-旋風腳 + Air-SA2)
-        - Corner：6HK + (9 + OD Air-旋風腳 + [OD旋風腳 Combo](./kimberly-special-move/kimberly-special-move.md#od旋風腳-combo))
+    - 6HK + [OD Air-旋風腳 Combo](./kimberly-special-move/kimberly-special-move.md#od-air-旋風腳-combo)
 - ### 4HK Combo
     - 4HK + (2LP + [Light Cancel Combo](#light-cancel-combo))
 - ### DR 5HK Combo

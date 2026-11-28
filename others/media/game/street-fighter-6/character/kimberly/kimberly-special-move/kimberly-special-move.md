@@ -8,19 +8,25 @@
 - ### OD旋風腳 Combo
     - OD旋風腳 + Air-SA2
 
+# OD Air-旋風腳 Combo
+- 9 + OD Air-旋風腳 + Air-SA2
+- Corner：9 + OD Air-旋風腳 + [OD旋風腳 Combo](#od旋風腳-combo)
+
 # 一文字 Combo
 - ### 弱一文字 Combo
     - 弱一文字 + [3F打摔擇](../kimberly.md#3f打摔擇-2f3f)/SA3
 - ### 中一文字 Combo
-    - 中一文字
+    - 中一文字 + SA3
 - ### 強一文字 Combo
-    - 強一文字 + [Air-コマ投げ Combo](#air-コマ投げ-combo)
+    - 強一文字 + SA1/[Air-コマ投げ Combo](#air-コマ投げ-combo)/(弱一文字 + SA3)
     - 強一文字 + (9 + Air-旋風腳 + [42F OKI](../kimberly.md#42f-oki-42f43f))
     - 強一文字 + (9 + JMP + Reset(DI))
+    - 強一文字 + (9 + JMP + [OD Air-旋風腳 Combo](./kimberly-special-move/kimberly-special-move.md#od-air-旋風腳-combo)/Air-SA2)
 - ### OD一文字 Combo
-    - OD一文字 + [Air-コマ投げ Combo](#air-コマ投げ-combo)
+    - OD一文字 + SA1/ [Air-コマ投げ Combo](#air-コマ投げ-combo)/(弱一文字 + SA3)
     - OD一文字 + (9 + Air-旋風腳 + [42F OKI](../kimberly.md#42f-oki-42f43f))
     - OD一文字 + (9 + JMP + Reset(DI))
+    - OD一文字 + (9 + JMP + [OD Air-旋風腳 Combo](./kimberly-special-move/kimberly-special-move.md#od-air-旋風腳-combo)/Air-SA2)
 
 # Sprint Combo
 - ### Sprint-空插 Combo
