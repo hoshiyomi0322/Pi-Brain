@@ -4,8 +4,9 @@
     - #### HTTP Secure (HTTPS) = [HTTP](application-layer/http/http.md) + [TLS/SSL](./other-protocol/tls-ssl.md)
 - ### [Domain Name System (DNS)](application-layer/dns.md)
 - ### [Secure Shell (SSH)](application-layer/ssh.md)
-- ### File Transfer Protocol (FTP)
-    - #### FTP Secure (FTPS) = [FTP](#file-transfer-protocol-ftp) + [TLS/SSL](./other-protocol/tls-ssl.md)
+    - #### SSH File Transfer Protocol (SFTP)
+- ### [File Transfer Protocol (FTP)](./application-layer/ftp.md)
+    - #### FTP Secure (FTPS) = [FTP](./application-layer/ftp.md) + [TLS/SSL](./other-protocol/tls-ssl.md)
 - ### Email Protocols
     - #### Simple Mail Transfer Protocol (SMTP)
     - #### Internet Message Access Protocol (IMAP)
