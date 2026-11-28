@@ -11,5 +11,10 @@
 
 # Packet Sniffing
 - ### Packet Sniffer
-    - #### [Wireshark](./network-tools/wireshark.md)
-    - #### [Tcpdump](./network-tools/tcpdump.md)
+    - [Wireshark](./network-tools/packet-sniffer/wireshark.md)
+    - [Tcpdump](./network-tools/packet-sniffer/tcpdump.md)
+- ### Promiscuous Mode
+- ### Active Sniffing
+- ### Passive Sniffing
+    - [Port Mirroring](computer-networking.md#port-mirroring)
+    - Test Access Point

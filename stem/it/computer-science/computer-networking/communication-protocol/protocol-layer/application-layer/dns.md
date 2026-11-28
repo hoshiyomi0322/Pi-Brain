@@ -66,3 +66,6 @@
 
 
 # Service record (SRV record)
+
+
+# DNS Spoofing (DNS Cache Poisoning)

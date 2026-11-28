@@ -21,6 +21,7 @@
 # [Build Process](./build-process/build-process.md)
 - ### [Linker](./build-process/linker.md)
 - ### [Loader](./build-process/loader.md)
+- ### [Executable and Linkable Format (ELF)](./build-process/executable-and-linkable-format.md)
 
 # Modes of Data Transfer
 - ### Direct Memory Access (DMA)

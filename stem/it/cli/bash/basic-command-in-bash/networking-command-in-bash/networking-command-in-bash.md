@@ -81,11 +81,11 @@
 - ### Options
     |Options|Description|
     |:---:|:---:|
-    |`-t`|TCP|
-    |`-u`|UDP|
+    |`-t`|[TCP](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/transport-layer/tcp.md)|
+    |`-u`|[UDP](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/transport-layer/udp.md)|
     |`-l`|Listening|
     |`-p`|Process|
-    |`-n`|No DNS|
+    |`-n`|No [DNS](/stem/it/computer-science/computer-networking/communication-protocol/protocol-layer/application-layer/dns.md)|
     |`-a`|All|
 - ### Example
     ```bash
@@ -151,7 +151,7 @@
 |`ifconfig`||
 
 # Network Tools
-- ### [Tcpdump](/stem/it/computer-science/computer-networking/network-tools/tcpdump.md)
+- ### [Tcpdump](/stem/it/computer-science/computer-networking/network-tools/packet-sniffer/tcpdump.md)
 - ### [Network Mapper (Nmap)](/stem/it/computer-science/computer-networking/network-tools/nmap.md)
 - ### [Tailscale](/stem/it/computer-science/computer-networking/network-tools/tailscale.md)
 

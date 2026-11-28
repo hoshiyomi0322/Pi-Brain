@@ -20,6 +20,8 @@
 - ### Network Address Translation (NAT)
     - ### Port Forwarding
         <img src="./image/port-forwarding.png" width="65%">
+    - ### Port Mirroring
+        - Switched Port Analyzer (SPAN)
 - ### [Internet Service Provider (ISP)](isp.md)
 
 # Error Detection and Correction in Networking
@@ -27,8 +29,9 @@
 
 # Network Tools
 - ### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
-- ### [Wireshark](network-tools/wireshark.md)
-- ### [Tcpdump](network-tools/tcpdump.md)
+- ### Packet Sniffer
+    - ### [Wireshark](network-tools/packet-sniffer/wireshark.md)
+    - ### [Tcpdump](network-tools/packet-sniffer/tcpdump.md)
 - ### [Network Mapper (Nmap)](network-tools/nmap.md)
 - ### [Tailscale](network-tools/tailscale.md)
 

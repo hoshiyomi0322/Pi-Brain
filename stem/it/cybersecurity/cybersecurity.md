@@ -25,6 +25,7 @@
 
 # Cybersecurity Tools
 - ### [Network Tools](/stem/it/computer-science/computer-networking/computer-networking.md#network-tools)
+    - #### [Packet Sniffer](/stem/it/computer-science/computer-networking/computer-networking.md#packet-sniffer)
     - #### [Networking Command in Bash](/stem/it/cli/bash/basic-command-in-bash/networking-command-in-bash/networking-command-in-bash.md)
 - ### Metasploit
 - ### Burp Suite

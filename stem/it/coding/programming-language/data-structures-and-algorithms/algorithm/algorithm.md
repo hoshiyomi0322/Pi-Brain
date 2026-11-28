@@ -82,5 +82,5 @@
     - ### Monte Carlo Tree Search (MCTS)
 - ### Montgomery Multiplication
 - ### Sweep Line Algorithm
-- ### Shor's Algorithm
+- ### [Shor's Algorithm](/stem/it/cybersecurity/cryptography/encryption/asymmetric-encryption/rsa-algorithm.md#shors-algorithm)
 - ### Grover Algorithm
