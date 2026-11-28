@@ -21,6 +21,9 @@
 
 # Heavy Attack Combo
 - ### 5HP Combo
+- ### 5HK Combo
+    - 5HK + [5MP Combo](#5mp-combo)/[2MK Combo](#2mk-combo)
+    - ガード(5HK) + [5MP OKI](#5mp-oki-5f8f)
 
 # Medium Attack Combo
 - ### 5MP Combo
@@ -70,25 +73,34 @@
 - ### 5F打摔擇 (4F/5F)
     - [投げ](#投げ)
 - ### 5MP OKI (5F~8F)
-    - [5MP Combo](#5mp-combo)
-    - [2MK Combo](#2mk-combo)
+    - [5MP Combo](#5mp-combo)/[2MK Combo](#2mk-combo)
+    - 前歩き + [投げ](#投げ)
+- ### 5HK OKI (7F~10F)
+    - [5HK Combo](#5hk-combo)
+- ### 5HK 重ね (11F)
+    - 5HK + [5HP Combo](#5hp-combo)
 - ### DI OKI (25F/26F)
     - DI
 - ### Spark OKI
     - #### 20F Spark OKI (20F~22F)
-        - Spark + [5HP Combo](#5hp-combo)
-        - ガード(Spark) + [5F打摔擇](#5f打摔擇-4f5f)
+        - Corner
+            - Spark + [5HP Combo](#5hp-combo)
+            - ガード(Spark) + [5F打摔擇](#5f打摔擇-4f5f)
         - 消費(前ステ) + [3F打摔擇](#3f打摔擇-2f3f)
     - #### 23F Spark OKI (23F/24F)
-        - Spark + [5HP Combo](#5hp-combo)
-        - ガード(Spark) + [5MP OKI](#5mp-oki-5f8f)
+        - Corner
+            - Spark + [5HP Combo](#5hp-combo)
+            - ガード(Spark) + [5MP OKI](#5mp-oki-5f8f)
         - 消費(前ステ) + [5F打摔擇](#5f打摔擇-4f5f)
 - ### 40F OKI
+    - 消費(Forward-killrush) + [5HK OKI](#5hk-oki-7f10f)
     - 消費(2LP) + [23F Spark OKI](#23f-spark-oki-23f24f)
 - ### 42F OKI
     - 安全飛び
+    - 消費(Forward-killrush) + [5HK 重ね](#5hk-重ね-11f)
     - 消費(前ステ) + [23F Spark OKI](#23f-spark-oki-23f24f)
     - 消費(2LP) + [DI OKI](#di-oki-25f26f)
 - ### 43F OKI
     - 安全飛び
     - 消費(前ステ) + [23F Spark OKI](#23f-spark-oki-23f24f)
+    - 消費(Spark) + [5HK OKI](#5hk-oki-7f10f)
