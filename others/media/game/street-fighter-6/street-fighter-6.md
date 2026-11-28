@@ -255,6 +255,7 @@
 - ### [Mai](./character/mai/mai.md)
 - ### [Cammy](./character/cammy/cammy.md)
 - ### [Terry](./character/terry/terry.md)
+- ### [ED](./character/ed/ed.md)
 - ### [Jamie](./character/jamie/jamie.md)
 - ### [Vega](./character/vega/vega.md)
 - ### [Lily](./character/lily/lily.md)

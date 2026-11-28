@@ -157,6 +157,7 @@
         - ガード(強火腿) + [3F打摔擇](#3f打摔擇-2f3f)
 - ### 37F OKI
     - 消費(前ステ) + [中Thunder 重ね](viper.md#中thunder-重ね-16f18f)
+    - (DI(騙對手 DI) + 反DI)
     - Corner：消費(5LP) + [6MP 重ね](#6mp-重ね-23f)
 - ### OD Thunder OKI (40F)
     - OD Thunder + [45F OKI](#45f-oki)/SA2/SA3
